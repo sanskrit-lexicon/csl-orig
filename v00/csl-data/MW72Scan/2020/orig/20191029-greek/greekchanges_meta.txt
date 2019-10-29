@@ -1,0 +1,1410 @@
+; Greek text case 0995: headword=laGizWa, page=0860-a (320723)
+320723 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>]
+320723 new <div n="lb"/>[cf. Gr. <lang n="greek">ἐλάχιστο-ς.</lang>]
+; Greek text case 0996: headword=laNG, page=0860-a (320849)
+320849 old <div n="lb"/>according to some, Gr. <lang n="greek"></lang>
+320849 new <div n="lb"/>according to some, Gr. <lang n="greek">λαγγάζω, λογγάζω, λαγχόνω,</lang>
+; Greek text case 0997: headword=laNG, page=0860-a (320850)
+320850 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>longus, lan-</nsi>
+320850 new <div n="lb"/><lang n="greek">λάχος, λόγχν, ἐλέγχω;</lang> Lat. <nsi>longus, lan-</nsi>
+; Greek text case 0998: headword=laYjikA, page=0860-c (321053)
+321053 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>langu-e-o,</nsi>
+321053 new <div n="lb"/><lang n="greek">λαγ-αρό-ς,λάγ-νο-ς,</lang> Lat. <nsi>langu-e-o,</nsi>
+; Greek text case 0999: headword=laq, page=0860-c (321120)
+321120 old <div n="lb"/>apprise (?); [cf. perhaps Gr. <lang n="greek"></lang>
+321120 new <div n="lb"/>apprise (?); [cf. perhaps Gr. <lang n="greek">λάλος, λαλέω, λῆρος;</lang>
+; Greek text case 1000: headword=lap, page=0861-b (321270)
+321270 old <div n="lb"/>Gr. <lang n="greek"></lang>
+321270 new <div n="lb"/>Gr. <lang n="greek">ἔ-λακ-ο-ν, λέ-λακ-α, λά-σκ-ω, λακ-ε-ρό-ς, λα-κέρυζα,</lang>
+; Greek text case 1001: headword=lap, page=0861-b (321271)
+321271 old <div n="lb"/><lang n="greek"></lang> (probably also) <lang n="greek"></lang> according to
+321271 new <div n="lb"/><lang n="greek"></lang> (probably also) <lang n="greek">ὀλοφύρομαι,</lang> according to
+; Greek text case 1002: headword=lap, page=0861-b (321272)
+321272 old <div n="lb"/>some also <lang n="greek"></lang> (through reduplication, the
+321272 new <div n="lb"/>some also <lang n="greek">λάλος, λαλέω</lang> (through reduplication, the
+; Greek text case 1003: headword=laB, page=0861-b (321384)
+321384 old <div n="lb"/><lang n="greek"></lang> probably
+321384 new <div n="lb"/><lang n="greek">λάφυρον, λαμβάνω, εἴληφα, λαῖλαψ,</lang> probably
+; Greek text case 1004: headword=laB, page=0861-b (321385)
+321385 old <div n="lb"/><lang n="greek"></lang> Old Pruss. <nsi>labba-s,</nsi> ‘goods, posses-
+321385 new <div n="lb"/><lang n="greek">λέβης, λίπτω:</lang> Old Pruss. <nsi>labba-s,</nsi> ‘goods, posses-
+; Greek text case 1005: headword=laz, page=0864-b (322403)
+322403 old <div n="lb"/>for eagerly; [cf. Gr. <lang n="greek"></lang> (Dor. <lang n="greek"></lang> 3rd
+322403 new <div n="lb"/>for eagerly; [cf. Gr. <lang n="greek">λά-ω,</lang> (Dor. <lang n="greek">λῶ, λῇς, λῇ,</lang> 3rd
+; Greek text case 1006: headword=laz, page=0864-b (322404)
+322404 old <div n="lb"/>pl. <lang n="greek"></lang>), <lang n="greek"></lang>
+322404 new <div n="lb"/>pl. <lang n="greek">λῶντι</lang>), <lang n="greek">λῆ-μα, λῆ-σι-ς, λι-λα-ί-ο-μαι, λε-λίη-μαι,</lang>
+; Greek text case 1007: headword=laz, page=0864-b (322405)
+322405 old <div n="lb"/><lang n="greek"></lang> probably <lang n="greek"></lang>
+322405 new <div n="lb"/><lang n="greek">λία-ν, λαρός, λωΐων, λήλαντος,</lang> probably <lang n="greek">λα-μία,</lang>
+; Greek text case 1008: headword=laz, page=0864-b (322406)
+322406 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>las-c-</nsi>
+322406 new <div n="lb"/><lang n="greek">λάμος, λάρυγξ, λαιμός, λαίτμα;</lang> Lat. <nsi>las-c-</nsi>
+; Greek text case 1009: headword=lAwa, page=0865-b (322935)
+322935 old <div n="lb"/>district inhabited by them (= <lang n="greek"></lang> of Ptolemy);
+322935 new <div n="lb"/>district inhabited by them (= <lang n="greek">Λαρικη</lang> of Ptolemy);
+; Greek text case 1010: headword=lip, page=0867-b (323710)
+323710 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+323710 new <div n="lb"/>[cf. Gr. <lang n="greek">λίπ-α, λίπ-ος, λιπαρό-ς, λιπ-αρ-ής, λιπαρ-έ-ω,</lang>
+; Greek text case 1011: headword=lip, page=0867-b (323711)
+323711 old <div n="lb"/><lang n="greek"></lang> Lat.
+323711 new <div n="lb"/><lang n="greek">ἀ-λείφ-ω, ἄλειφ-αρ, ἄλειφα, λισσός:</lang> Lat.
+; Greek text case 1012: headword=liptA, page=0868-a (323857)
+323857 old <div n="lb"/>sixtieth part of a degree; [cf. Gr. <lang n="greek"></lang>] {%—Liptī-%}
+323857 new <div n="lb"/>sixtieth part of a degree; [cf. Gr. <lang n="greek">λεπτός.</lang>] {%—Liptī-%}
+; Greek text case 1013: headword=liS, page=0868-a (323892)
+323892 old <div n="lb"/>{%likṣate:%} Intens. {%leliśyate, leleṣṭi;%} [cf. Gr. <lang n="greek"></lang>
+323892 new <div n="lb"/>{%likṣate:%} Intens. {%leliśyate, leleṣṭi;%} [cf. Gr. <lang n="greek">ὀλί-γος,</lang>
+; Greek text case 1014: headword=liS, page=0868-a (323893)
+323893 old <div n="lb"/><lang n="greek"></lang> perhaps also <lang n="greek"></lang> Lith. <nsi>lesas.</nsi>]
+323893 new <div n="lb"/><lang n="greek"></lang> perhaps also <lang n="greek">λίγδος;</lang> Lith. <nsi>lesas.</nsi>]
+; Greek text case 1015: headword=lih, page=0868-a (323959)
+323959 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+323959 new <div n="lb"/>[cf. Gr. <lang n="greek">λείχ-ω, λιχ-μά-ω, λιχ-μά-ζ-ω, λιχ-ανό-ς,</lang>
+; Greek text case 1016: headword=lih, page=0868-a (323960)
+323960 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>li-n-g-o, lig-uri-o, pol-lex;</nsi> Goth.
+323960 new <div n="lb"/><lang n="greek">λίχ-νο-ς;</lang> Lat. <nsi>li-n-g-o, lig-uri-o, pol-lex;</nsi> Goth.
+; Greek text case 1017: headword=lI, page=0868-b (324082)
+324082 old <div n="lb"/>form of a rt. {%lī,%} see {%lelāya%}); [cf. Gr. <lang n="greek"></lang> Lat.
+324082 new <div n="lb"/>form of a rt. {%lī,%} see {%lelāya%}); [cf. Gr. <lang n="greek">λεῖμαξ:</lang> Lat.
+; Greek text case 1018: headword=lup, page=0869-c (324580)
+324580 old <div n="lb"/>Gr. <lang n="greek"></lang> perhaps
+324580 new <div n="lb"/>Gr. <lang n="greek">λυπ-ρό-ς, λυπ-ή, λυπ-έ-ω, λυπη-ρό-ς,</lang> perhaps
+; Greek text case 1019: headword=lup, page=0869-c (324581)
+324581 old <div n="lb"/>also <lang n="greek"></lang> Lat. <nsi>rump-o:</nsi> Old Germ. <nsi>raubon:</nsi>
+324581 new <div n="lb"/>also <lang n="greek">Ὄλυμπος:</lang> Lat. <nsi>rump-o:</nsi> Old Germ. <nsi>raubon:</nsi>
+; Greek text case 1020: headword=lopASa, page=0870-a (324675)
+324675 old <div n="lb"/>[cf., according to some, Gr. <lang n="greek"></lang>.]
+324675 new <div n="lb"/>[cf., according to some, Gr. <lang n="greek">ἀλώπηξ</lang>.]
+; Greek text case 1021: headword=luB, page=0870-a (324722)
+324722 old <div n="lb"/>{%lolubhyate, lolobdhi;%} [cf. Gr. <lang n="greek"></lang>
+324722 new <div n="lb"/>{%lolubhyate, lolobdhi;%} [cf. Gr. <lang n="greek">λίψ, λιψ-ουρία,</lang>
+; Greek text case 1022: headword=luB, page=0870-a (324723)
+324723 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>lub-et, lib-et, lib-ī-do,</nsi>
+324723 new <div n="lb"/><lang n="greek">λίπ-τ-ομαι, ἐλευθερός:</lang> Lat. <nsi>lub-et, lib-et, lib-ī-do,</nsi>
+; Greek text case 1023: headword=luzaBa, page=0870-c (324970)
+324970 old <div n="lb"/>rut; [cf. Gr. <lang n="greek"></lang>]
+324970 new <div n="lb"/>rut; [cf. Gr. <lang n="greek">λύσσα.</lang>]
+; Greek text case 1024: headword=lU, page=0870-c (324990)
+324990 old <div n="lb"/>of Intens. {%lolūyiṣate;%} [cf. Gr. <lang n="greek"></lang>
+324990 new <div n="lb"/>of Intens. {%lolūyiṣate;%} [cf. Gr. <lang n="greek">λύ-ω, λύ-α, λύ-σι-ς,</lang>
+; Greek text case 1025: headword=lU, page=0870-c (324991)
+324991 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>re-lu-o,</nsi>
+324991 new <div n="lb"/><lang n="greek">λυ-τήρ, λύ-τρο-ν, ἀπο-λαύω;</lang> Lat. <nsi>re-lu-o,</nsi>
+; Greek text case 1026: headword=leya, page=0871-a (325198)
+325198 old {#leya#}¦ {%leya, as,%} m. (fr. Gr. <lang n="greek"></lang>), Ved. the
+325198 new {#leya#}¦ {%leya, as,%} m. (fr. Gr. <lang n="greek">λέων</lang>), Ved. the
+; Greek text case 1027: headword=lok, page=0871-b (325307)
+325307 old <div n="lb"/>{%bhāsārtha%}); [cf. Gr. <lang n="greek"></lang> Old Germ. <nsi>luog-</nsi>
+325307 new <div n="lb"/>{%bhāsārtha%}); [cf. Gr. <lang n="greek">λεύσσ-ω,</lang> Old Germ. <nsi>luog-</nsi>
+; Greek text case 1028: headword=loc, page=0873-a (325719)
+325719 old <div n="lb"/>{%yate%}; [cf. Gr. <lang n="greek"></lang> Old Germ. <nsi>luog-e-m;</nsi>
+325719 new <div n="lb"/>{%yate%}; [cf. Gr. <lang n="greek">λεύσσ-ω;</lang> Old Germ. <nsi>luog-e-m;</nsi>
+; Greek text case 1029: headword=vakz, page=0877-a (327138)
+327138 old <div n="lb"/>grow:’ Gr. <lang n="greek"></lang>
+327138 new <div n="lb"/>grow:’ Gr. <lang n="greek">αὔξ-ω, αὐξ-άν-ω, αὔξ-η, αὔξ-η-σι-ς,</lang>
+; Greek text case 1030: headword=vakz, page=0877-a (327139)
+327139 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>vas-tus:</nsi> Goth. <nsi>vahs-ja, vahs-tu-s:</nsi>
+327139 new <div n="lb"/><lang n="greek">αὔξ-η-μα:</lang> Lat. <nsi>vas-tus:</nsi> Goth. <nsi>vahs-ja, vahs-tu-s:</nsi>
+; Greek text case 1031: headword=vaNk, page=0877-b (327236)
+327236 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+327236 new <div n="lb"/>[cf. Gr. <lang n="greek">ἀγκή, ἄγκος, ἀγκών, ἀγκύλος, ἄγκυρα,</lang>
+; Greek text case 1032: headword=vaNk, page=0877-b (327237)
+327237 old <div n="lb"/>(probably) <lang n="greek"></lang> Lat. <nsi>angulus; vacillare, vacare,</nsi>
+327237 new <div n="lb"/>(probably) <lang n="greek">ὄκνος:</lang> Lat. <nsi>angulus; vacillare, vacare,</nsi>
+; Greek text case 1033: headword=vac, page=0877-b (327410)
+327410 old <div n="lb"/>&c.: Pass. of Desid. {%vivakṣyate;%} [cf. Gr. <lang n="greek"></lang> (for
+327410 new <div n="lb"/>&c.: Pass. of Desid. {%vivakṣyate;%} [cf. Gr. <lang n="greek">ἐπ</lang> (for
+; Greek text case 1034: headword=vac, page=0877-b (327411)
+327411 old <div n="lb"/><lang n="greek"></lang> for <lang n="greek"></lang>) in <lang n="greek"></lang>
+327411 new <div n="lb"/><lang n="greek">ϝεπ</lang> for <lang n="greek">ϝεκ</lang>) in <lang n="greek">εἶπ-ο-ν, ἔπ-ος, ὄψ, ὄσσα, ἐν-οπ-ή,</lang>
+; Greek text case 1035: headword=vac, page=0877-b (327412)
+327412 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>vŏc-are, vox, vôc-is,</nsi>
+327412 new <div n="lb"/><lang n="greek">θεό-προπος, πέπρωται:</lang> Lat. <nsi>vŏc-are, vox, vôc-is,</nsi>
+; Greek text case 1036: headword=vaj, page=0878-c (327755)
+327755 old <div n="lb"/><nsi>vaz-y-ant, vaz-d-vare;</nsi> Gr. <lang n="greek"></lang>
+327755 new <div n="lb"/><nsi>vaz-y-ant, vaz-d-vare;</nsi> Gr. <lang n="greek">ὑγι-ής, ὑγιη-ρό-ς,</lang>
+; Greek text case 1037: headword=vaj, page=0878-c (327756)
+327756 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>veg-e-o, vig-e-o,</nsi>
+327756 new <div n="lb"/><lang n="greek">ὑγίε-ια, ὑγιαίν-ω, ὑγιάζ-ω;</lang> Lat. <nsi>veg-e-o, vig-e-o,</nsi>
+; Greek text case 1038: headword=vaYc, page=0880-a (328123)
+328123 old <div n="lb"/>bably  Gr. <lang n="greek"></lang>
+328123 new <div n="lb"/>bably  Gr. <lang n="greek">ἄτη, ἀτάω, ἀπάτη, ἀτάσθαλος, ἀτύξομαι;</lang>
+; Greek text case 1039: headword=vatsa, page=0881-b (328691)
+328691 old <div n="lb"/>to some authorities also {%as,%} m.); [cf. Gr. <lang n="greek"></lang>
+328691 new <div n="lb"/>to some authorities also {%as,%} m.); [cf. Gr. <lang n="greek">ἰτ-αλό-ς</lang>
+; Greek text case 1040: headword=vatsa, page=0881-b (328692)
+328692 old <div n="lb"/>(for <lang n="greek"></lang>); Lat. <nsi>vitulu-s, vitula;</nsi> Osk. <nsi>Viteliu</nsi>
+328692 new <div n="lb"/>(for <lang n="greek">ϝιταλός,</lang>); Lat. <nsi>vitulu-s, vitula;</nsi> Osk. <nsi>Viteliu</nsi>
+; Greek text case 1041: headword=vatsara, page=0881-c (328773)
+328773 old <div n="lb"/>Kaśyapa; [cf. Gr. <lang n="greek"></lang>
+328773 new <div n="lb"/>Kaśyapa; [cf. Gr. <lang n="greek">ἔτος (ϝέρος), ἐτήσιο-ς, ἐτησίαι,</lang>
+; Greek text case 1042: headword=vatsara, page=0881-c (328774)
+328774 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>vetus, vetus-tu-s, vetulu-s;</nsi> Lith.
+328774 new <div n="lb"/><lang n="greek">δυσετηρία;</lang> Lat. <nsi>vetus, vetus-tu-s, vetulu-s;</nsi> Lith.
+; Greek text case 1043: headword=vad, page=0881-c (328876)
+328876 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+328876 new <div n="lb"/>[cf. Gr. <lang n="greek">ὕδ-ω, ὑδ-έ-ω, ὕδ-η-ς, ἀ(ϝ)είδ-ω, ἀοιδό-ς,</lang>
+; Greek text case 1044: headword=vad, page=0881-c (328877)
+328877 old <div n="lb"/><lang n="greek"></lang> (according to some) <lang n="greek"></lang>
+328877 new <div n="lb"/><lang n="greek">ἀοιδή, ἀηδών,</lang> (according to some) <lang n="greek">αὐδή, αὐδάω,</lang>
+; Greek text case 1045: headword=vad, page=0881-c (328878)
+328878 old <div n="lb"/>(perhaps also) <lang n="greek"></lang> (probably) Lat. <nsi>vas</nsi>
+328878 new <div n="lb"/>(perhaps also) <lang n="greek">φράζω, φραδάω:</lang> (probably) Lat. <nsi>vas</nsi>
+; Greek text case 1046: headword=van, page=0883-a (329325)
+329325 old <div n="lb"/>haps Gr. <lang n="greek"></lang> Lat. <nsi>Ven-us, ve-</nsi>
+329325 new <div n="lb"/>haps Gr. <lang n="greek">ὀνίνημι, ὀνήσω, ὄνειαρ;</lang> Lat. <nsi>Ven-us, ve-</nsi>
+; Greek text case 1047: headword=van, page=0883-a (329328)
+329328 old <div n="lb"/><nsi>wenan;</nsi> (according to some also) Gr. <lang n="greek"></lang>
+329328 new <div n="lb"/><nsi>wenan;</nsi> (according to some also) Gr. <lang n="greek">φένω, φόνος,</lang>
+; Greek text case 1048: headword=van, page=0883-a (329329)
+329329 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>funus;</nsi> Hib. <nsi>bana,</nsi> ‘death.’]
+329329 new <div n="lb"/><lang n="greek">φονεύς;</lang> Lat. <nsi>funus;</nsi> Hib. <nsi>bana,</nsi> ‘death.’]
+; Greek text case 1049: headword=vap, page=0885-c (330250)
+330250 old <div n="lb"/>Intens. {%vāvapyate, vāvapti;%} [cf. Gr. <lang n="greek"></lang>
+330250 new <div n="lb"/>Intens. {%vāvapyate, vāvapti;%} [cf. Gr. <lang n="greek">ὀπυίω, οἴφω,</lang>
+; Greek text case 1050: headword=vap, page=0885-c (330251)
+330251 old <div n="lb"/><lang n="greek"></lang> (perhaps also) <lang n="greek"></lang> Angl. Sax.
+330251 new <div n="lb"/><lang n="greek">οἰφέω,</lang> (perhaps also) <lang n="greek">ὅπλοω, ὑφαίνω;</lang> Angl. Sax.
+; Greek text case 1051: headword=vam, page=0886-b (330467)
+330467 old <div n="lb"/>Gr. <lang n="greek"></lang> Lat. <nsi>vom-o, vom-</nsi>
+330467 new <div n="lb"/>Gr. <lang n="greek">ἐμ-έ-ω, ἔμ-ε-το-ς, ἔμ-εσι-ς;</lang> Lat. <nsi>vom-o, vom-</nsi>
+; Greek text case 1052: headword=vamra, page=0886-c (330543)
+330543 old <div n="lb"/>99); [cf. Gr. <lang n="greek"></lang> Lat. <nsi>form-ica.</nsi>]
+330543 new <div n="lb"/>99); [cf. Gr. <lang n="greek">μύρμο-ς, μύρμ-ηξ;</lang> Lat. <nsi>form-ica.</nsi>]
+; Greek text case 1053: headword=varas, page=0888-b (331118)
+331118 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>]
+331118 new <div n="lb"/>[cf. Gr. <lang n="greek">εὖρος.</lang>]
+; Greek text case 1054: headword=varizWa, page=0888-c (331264)
+331264 old <div n="lb"/>dra; ({%am%}), n. copper; pepper; [cf. Gr. <lang n="greek"></lang>
+331264 new <div n="lb"/>dra; ({%am%}), n. copper; pepper; [cf. Gr. <lang n="greek">ἄριστος;</lang>
+; Greek text case 1055: headword=varIyas, page=0888-c (331295)
+331295 old <div n="lb"/>Pulaha by Gati; [cf. Gr. <lang n="greek"></lang> Lat. <nsi>melior</nsi> (<nsi>v</nsi>
+331295 new <div n="lb"/>Pulaha by Gati; [cf. Gr. <lang n="greek">ἀρείων;</lang> Lat. <nsi>melior</nsi> (<nsi>v</nsi>
+; Greek text case 1056: headword=varuRa, page=0889-a (331313)
+331313 old <div n="lb"/>character to the <lang n="greek"></lang> of the Greeks, and is
+331313 new <div n="lb"/>character to the <lang n="greek">Οὐρανός</lang> of the Greeks, and is
+; Greek text case 1057: headword=varuRa, page=0889-a (331352)
+331352 old <div n="lb"/>Zend <nsi>Varena;</nsi> Gr. <lang n="greek"></lang> Hib. <nsi>burne,</nsi> ‘water.’]
+331352 new <div n="lb"/>Zend <nsi>Varena;</nsi> Gr. <lang n="greek">Οὐρανό-ς;</lang> Hib. <nsi>burne,</nsi> ‘water.’]
+; Greek text case 1058: headword=varga, page=0890-b (331827)
+331827 old <div n="lb"/>{%vargas;%} cf. {%ūrj;%} cf. also Zend <nsi>verez;</nsi> Gr. <lang n="greek"></lang>
+331827 new <div n="lb"/>{%vargas;%} cf. {%ūrj;%} cf. also Zend <nsi>verez;</nsi> Gr. <lang n="greek">ϝἐργάζομαι</lang>
+; Greek text case 1059: headword=varga, page=0890-b (331828)
+331828 old <div n="lb"/><lang n="greek"></lang>); N. of a country; ({%ā%}), f., N. of an Apsaras;
+331828 new <div n="lb"/><lang n="greek"></lang>); N. of a country; ({%ā%}), f., N. of an Apsaras;
+; Greek text case 1060: headword=varpas, page=0893-a (332777)
+332777 old <div n="lb"/>{%vāraka%}); [cf. perhaps Gr. <lang n="greek"></lang>]
+332777 new <div n="lb"/>{%vāraka%}); [cf. perhaps Gr. <lang n="greek">μορφή.</lang>]
+; Greek text case 1061: headword=varza, page=0893-b (332962)
+332962 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> (Hom. <lang n="greek"></lang>)]
+332962 new <div n="lb"/>[cf. Gr. <lang n="greek"></lang> (Hom. <lang n="greek">ἐέρσ-η, ἕρσ-η, ἑρσή-εις.</lang>)]
+; Greek text case 1062: headword=vaS, page=0895-b (333737)
+333737 old <div n="lb"/>{%śāna%}]; to exult; [cf. Gr. <lang n="greek"></lang>
+333737 new <div n="lb"/>{%śāna%}]; to exult; [cf. Gr. <lang n="greek">ἑκ-ών, ἀ-έκων, ἕκ-η-τι,</lang>
+; Greek text case 1063: headword=vaS, page=0895-b (333738)
+333738 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>in-vi-tu-s</nsi> for <nsi>in-vic-(i)-</nsi>
+333738 new <div n="lb"/><lang n="greek">ἕκ-η-λο-ς, εὔκηλος;</lang> Lat. <nsi>in-vi-tu-s</nsi> for <nsi>in-vic-(i)-</nsi>
+; Greek text case 1064: headword=vazkaya, page=0895-c (333903)
+333903 old <div n="lb"/>to Śākaṭāyana); [cf. {%vaskaya;%} Gr. <lang n="greek"></lang>
+333903 new <div n="lb"/>to Śākaṭāyana); [cf. {%vaskaya;%} Gr. <lang n="greek">μὀσχος,</lang>
+; Greek text case 1065: headword=vazkaya, page=0895-c (333904)
+333904 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>vacca.</nsi>]
+333904 new <div n="lb"/><lang n="greek">μοσχάς;</lang> Lat. <nsi>vacca.</nsi>]
+; Greek text case 1066: headword=vas, page=0896-a (333948)
+333948 old <div n="lb"/>[cf. Zend <nsi>vanh, vas-tra;</nsi> Gr. <lang n="greek"></lang> (for <lang n="greek"></lang>
+333948 new <div n="lb"/>[cf. Zend <nsi>vanh, vas-tra;</nsi> Gr. <lang n="greek">ἕν-νυ-μι </lang> (for <lang n="greek">ϝεσνυμι</lang>),
+; Greek text case 1067: headword=vas, page=0896-a (333949)
+333949 old <div n="lb"/><lang n="greek"></lang> (= Ved. {%vasman%}), <lang n="greek"></lang>
+333949 new <div n="lb"/><lang n="greek">εἶ-μα</lang> (= Ved. {%vasman%}), <lang n="greek">ἱμάτ-ιο-ν, ἔσ-θ-ος,</lang>
+; Greek text case 1068: headword=vas, page=0896-a (333950)
+333950 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>ves-ti-s, vesti-o;</nsi>
+333950 new <div n="lb"/><lang n="greek">ἐσ-θ-ή-ς, ἑ-ᾰνό-ς, ἑ-ᾱνό-ς;</lang> Lat. <nsi>ves-ti-s, vesti-o;</nsi>
+; Greek text case 1069: headword=vas, page=0896-b (334082)
+334082 old <div n="lb"/>in; [cf. Gr. <lang n="greek"></lang>
+334082 new <div n="lb"/>in; [cf. Gr. <lang n="greek">ἄστυ, ϝάστυ, ἀστεῖο-ς, ἀστό-ς, ἑστία,</lang>
+; Greek text case 1070: headword=vas, page=0896-b (334083)
+334083 old <div n="lb"/><lang n="greek"></lang> (probably also) <lang n="greek"></lang>
+334083 new <div n="lb"/><lang n="greek">ὑπερ-ῷον,</lang> (probably also) <lang n="greek">εὐνή, ἰαύω, αὐλή, αὖλις:</lang>
+; Greek text case 1071: headword=vasu, page=0896-c (334245)
+334245 old <div n="lb"/>Vṛddhi; said to be also {%us,%} f.); [cf. Gr. <lang n="greek"></lang>]
+334245 new <div n="lb"/>Vṛddhi; said to be also {%us,%} f.); [cf. Gr. <lang n="greek">ἐΰς, ἐόων.</lang>]
+; Greek text case 1072: headword=vasna, page=0897-b (334439)
+334439 old <div n="lb"/>thing; wages, hire; death; [cf. Gr. <lang n="greek"></lang> (for
+334439 new <div n="lb"/>thing; wages, hire; death; [cf. Gr. <lang n="greek">ὦνο-ς</lang> (for
+; Greek text case 1073: headword=vasna, page=0897-b (334440)
+334440 old <div n="lb"/><lang n="greek"></lang>); <lang n="greek"></lang> Lat. <nsi>venu-m, ven-eo,</nsi>
+334440 new <div n="lb"/><lang n="greek">ϝόσνος</lang>); <lang n="greek">ὠνή, ὠνέ-ο-μαι;</lang> Lat. <nsi>venu-m, ven-eo,</nsi>
+; Greek text case 1074: headword=vasanta, page=0897-c (334483)
+334483 old <div n="lb"/>or musical mode; [cf. Gr. <lang n="greek"></lang> Lat. <nsi>ver;</nsi> Slav. <nsi>vesna.</nsi>]
+334483 new <div n="lb"/>or musical mode; [cf. Gr. <lang n="greek">ἔαρ;</lang> Lat. <nsi>ver;</nsi> Slav. <nsi>vesna.</nsi>]
+; Greek text case 1075: headword=vah, page=0898-a (334657)
+334657 old <div n="lb"/>{%vāvahyate, vāvoḍhi;%} [cf. Gr. <lang n="greek"></lang>
+334657 new <div n="lb"/>{%vāvahyate, vāvoḍhi;%} [cf. Gr. <lang n="greek">ὄχο-ς, ὀχέ-ο-μαι,</lang>
+; Greek text case 1076: headword=vah, page=0898-a (334658)
+334658 old <div n="lb"/><lang n="greek"></lang>
+334658 new <div n="lb"/><lang n="greek">ὀχεύ-ω, ὄχη-μα, ὄχ-λο-ς, ὀχ-λέ-ω, ὀχ-ετό-ς, αὐχήν,</lang>
+; Greek text case 1077: headword=vah, page=0898-a (334659)
+334659 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>veho, vehi-culu-m, vehe-s, vectura,</nsi>
+334659 new <div n="lb"/><lang n="greek">ἄχθος;</lang> Lat. <nsi>veho, vehi-culu-m, vehe-s, vectura,</nsi>
+; Greek text case 1078: headword=vA, page=0899-a (334971)
+334971 old <div n="lb"/>it — or not? see under {%kim;%} [cf. Gr. <lang n="greek"></lang> Lat. <nsi>ve.</nsi>]
+334971 new <div n="lb"/>it — or not? see under {%kim;%} [cf. Gr. <lang n="greek">ἤ;</lang> Lat. <nsi>ve.</nsi>]
+; Greek text case 1079: headword=vA, page=0899-a (334976)
+334976 old <div n="lb"/>{%av + ā,%} cf. <lang n="greek"></lang>), cl. 2. P. {%vāti, vavau,%}
+334976 new <div n="lb"/>{%av + ā,%} cf. <lang n="greek">ἄημι</lang>), cl. 2. P. {%vāti, vavau,%}
+; Greek text case 1080: headword=vA, page=0899-a (334990)
+334990 old <div n="lb"/>Zend vā: Gr. <lang n="greek"></lang>
+334990 new <div n="lb"/>Zend vā: Gr. <lang n="greek">.α-ω, ἄ-ος, ἄη-μι, ἀή-τη-ς, ἄ-ελλα,</lang>
+; Greek text case 1081: headword=vA, page=0899-a (334991)
+334991 old <div n="lb"/><lang n="greek"></lang>
+334991 new <div n="lb"/><lang n="greek">αὔ-ρα, ἀ-ήρ, ἀ-ΐ-σθ-ω, ἀά-ζ-ω, ἆσθ-μα, μετέωρος,</lang>
+; Greek text case 1082: headword=vA, page=0899-a (334992)
+334992 old <div n="lb"/><lang n="greek"></lang> (probably
+334992 new <div n="lb"/><lang n="greek">ἀείρω, ἄρδην, ἀρτάω, ἀορτήρ, αἰωρέω</lang> (probably
+; Greek text case 1083: headword=vA, page=0899-a (334993)
+334993 old <div n="lb"/>also) <lang n="greek"></lang> ({%= ātman%}), <lang n="greek"></lang> Lat.
+334993 new <div n="lb"/>also) <lang n="greek">αὐλός, οὖρος; ἀϋτμήν</lang> ({%= ātman%}), <lang n="greek">ἀτμή:</lang> Lat.
+; Greek text case 1084: headword=vAta, page=0899-a (335014)
+335014 old <div n="lb"/>inflammation of the joints; [cf. Gr. <lang n="greek"></lang> Lat.
+335014 new <div n="lb"/>inflammation of the joints; [cf. Gr. <lang n="greek">ἐτώσιος;</lang> Lat.
+; Greek text case 1085: headword=vAGat, page=0900-a (335322)
+335322 old <div n="lb"/><nsi>vāgire,</nsi> Gr. <lang n="greek"></lang>), Ved. praying; a priest (ac-
+335322 new <div n="lb"/><nsi>vāgire,</nsi> Gr. <lang n="greek">εὔχομαι</lang>), Ved. praying; a priest (ac-
+; Greek text case 1086: headword=vAc, page=0900-b (335365)
+335365 old <div n="lb"/>52); [cf. Lat. <nsi>voc-s;</nsi> Gr. <lang n="greek"></lang>] {%—Vāk-kalaha,%}
+335365 new <div n="lb"/>52); [cf. Lat. <nsi>voc-s;</nsi> Gr. <lang n="greek">ὄπ-ς.</lang>] {%—Vāk-kalaha,%}
+; Greek text case 1087: headword=vAr, page=0904-b (336806)
+336806 old <div n="lb"/>{%ruṇa:%} cf. also Zend {%vāra,%} ‘rain:’ Gr. <lang n="greek"></lang>
+336806 new <div n="lb"/>{%ruṇa:%} cf. also Zend {%vāra,%} ‘rain:’ Gr. <lang n="greek">οὖρο-ν,</lang>
+; Greek text case 1088: headword=vAr, page=0904-b (336807)
+336807 old <div n="lb"/><lang n="greek"></lang> perhaps
+336807 new <div n="lb"/><lang n="greek">οὐρ-έ-ω, οὐρ-ί-α, οὐράνη, οὐρή-θρα, οὔρη-μα,</lang> perhaps
+; Greek text case 1089: headword=vAr, page=0904-b (336808)
+336808 old <div n="lb"/>also <lang n="greek"></lang> Lat. <nsi>ur-ina, urin-a-ri, urina-</nsi>
+336808 new <div n="lb"/>also <lang n="greek">ὑρτήρ, ὕρχη:</lang> Lat. <nsi>ur-ina, urin-a-ri, urina-</nsi>
+; Greek text case 1090: headword=vAra, page=0904-c (336854)
+336854 old <div n="lb"/>holding spirituous liquor; [cf. Gr. <lang n="greek"></lang> Hib. <nsi>vair,</nsi>
+336854 new <div n="lb"/>holding spirituous liquor; [cf. Gr. <lang n="greek">ἦρα:</lang> Hib. <nsi>vair,</nsi>
+; Greek text case 1091: headword=vi, page=0908-c (338496)
+338496 old <div n="lb"/>wind (?); [cf. Zend <nsi>vi;</nsi> Gr. <lang n="greek"></lang>
+338496 new <div n="lb"/>wind (?); [cf. Zend <nsi>vi;</nsi> Gr. <lang n="greek">οἰ-ωνό-ς, αἰ-ε-τό-ς,</lang>
+; Greek text case 1092: headword=vi, page=0908-c (338497)
+338497 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>avis, ovum;</nsi> Old Germ. <nsi>ei;</nsi> Angl.
+338497 new <div n="lb"/><lang n="greek">ὤϊον, ὠόν;</lang> Lat. <nsi>avis, ovum;</nsi> Old Germ. <nsi>ei;</nsi> Angl.
+; Greek text case 1093: headword=viMSati, page=0909-a (338511)
+338511 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> (Lacon. <lang n="greek"></lang>); Lat. <nsi>vi-</nsi>
+338511 new <div n="lb"/>[cf. Gr. <lang n="greek">εἴκατι, εἴκοαι</lang> (Lacon. <lang n="greek">βείκατι</lang>); Lat. <nsi>vi-</nsi>
+; Greek text case 1094: headword=vic, page=0913-b (340462)
+340462 old <div n="lb"/>Desid. {%vivikṣati;%} [cf. Gr. <lang n="greek"></lang> (perhaps also)
+340462 new <div n="lb"/>Desid. {%vivikṣati;%} [cf. Gr. <lang n="greek">εἴκω,</lang> (perhaps also)
+; Greek text case 1095: headword=vic, page=0913-b (340463)
+340463 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>vito</nsi> for <nsi>vic-(i)-to,</nsi> (according
+340463 new <div n="lb"/><lang n="greek">ἑκάς, ἴχ-ν-ος;</lang> Lat. <nsi>vito</nsi> for <nsi>vic-(i)-to,</nsi> (according
+; Greek text case 1096: headword=viC, page=0915-a (341121)
+341121 old <div n="lb"/>Gr. <lang n="greek"></lang>]
+341121 new <div n="lb"/>Gr. <lang n="greek">οἰχνέω, οἴχομαι.</lang>]
+; Greek text case 1097: headword=vij, page=0915-a (341138)
+341138 old <div n="lb"/>shake or tremble violently; [cf. probably Gr. <lang n="greek"></lang>
+341138 new <div n="lb"/>shake or tremble violently; [cf. probably Gr. <lang n="greek">ἀΐσσω;</lang>
+; Greek text case 1098: headword=vid, page=0918-a (342473)
+342473 old <div n="lb"/>{%yate, vevetti;%} [cf. Gr. <lang n="greek"></lang> (i. e. <lang n="greek"></lang>),
+342473 new <div n="lb"/>{%yate, vevetti;%} [cf. Gr. <lang n="greek">ἴδ-ο-ν, εἶδ-ο-ν</lang> (i. e. <lang n="greek">ἔϝιδον</lang>),
+; Greek text case 1099: headword=vid, page=0918-a (342474)
+342474 old <div n="lb"/><lang n="greek"></lang> ({%= veda%}), <lang n="greek"></lang>
+342474 new <div n="lb"/><lang n="greek">εἴδ-ο-μαι, οἶδ-α</lang> ({%= veda%}), <lang n="greek">εἶδ-ος. εἴδ-ωλο-ν, ἴνδαλμα,</lang>
+; Greek text case 1100: headword=vid, page=0918-a (342475)
+342475 old <div n="lb"/><lang n="greek"></lang>
+342475 new <div n="lb"/><lang n="greek">ἀ-ειδ-ής, ἀ-ίδη-ς, ἄ-ῐστ-ο-ς, είδ-ώς, ἴδ-μην, ἴστωρ,</lang>
+; Greek text case 1101: headword=vid, page=0918-a (342476)
+342476 old <div n="lb"/><lang n="greek"></lang>
+342476 new <div n="lb"/><lang n="greek">ἰστορ-έ-ω, ἴδ-ρι-ς, ἰνδ-άλλομαι, ὕδνης, ὕδω,</lang>
+; Greek text case 1102: headword=vid, page=0918-a (342477)
+342477 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>vid-eo, visu-s</nsi> (Umbr. <nsi>virs-e-</nsi>
+342477 new <div n="lb"/><lang n="greek">ὑδέω, ἀείδω:</lang> Lat. <nsi>vid-eo, visu-s</nsi> (Umbr. <nsi>virs-e-</nsi>
+; Greek text case 1103: headword=vidAya, page=0920-a (343008)
+; This is Arabic.
+343008 old <div n="lb"/>Sanskrit word, cf. <lang n="greek"></lang>), permission to go away,
+343008 new <div n="lb"/>Sanskrit word, cf. <Arabic></Arabic>), permission to go away,
+; Greek text case 1104: headword=viDavA, page=0921-b (343564)
+343564 old <div n="lb"/><lang n="greek"></lang>] {%—Vidhavā-gāmin, ī,%} m. one who has in-
+343564 new <div n="lb"/><lang n="greek">ἠΐθεος.</lang>] {%—Vidhavā-gāmin, ī,%} m. one who has in-
+; Greek text case 1105: headword=viS, page=0941-b (351880)
+351880 old <div n="lb"/>Zend <nsi>vīś,</nsi> ‘to come;’ Gr. <lang n="greek"></lang>
+351880 new <div n="lb"/>Zend <nsi>vīś,</nsi> ‘to come;’ Gr. <lang n="greek">ἵκ-ω, ἱκ-νέ-ο-μαι, ἱκ-αν-ω, ἱκ-έ-τη-ς,</lang>
+; Greek text case 1106: headword=viS, page=0941-b (351881)
+351881 old <div n="lb"/><lang n="greek"></lang>].
+351881 new <div n="lb"/><lang n="greek">ἱκ-τήρ, ἱκ-τήρ, ἱκετή-σιο-ς, ἱκ-ανό-ς, ἴκ-μενο-ς.</lang>].
+; Greek text case 1107: headword=viS, page=0941-b (351928)
+351928 old <div n="lb"/><nsi>patene;</nsi> Mold. <nsi>hospodar;</nsi> (perhaps also) Gr. <lang n="greek"></lang>
+351928 new <div n="lb"/><nsi>patene;</nsi> Mold. <nsi>hospodar;</nsi> (perhaps also) Gr. <lang n="greek">δεσπότης.</lang>
+; Greek text case 1108: headword=viS, page=0941-b (351929)
+; commented out. 1107 is hyphenated in text, but non-hyphenated here
+351929 old <div n="lb"/><lang n="greek"></lang>] {%—Viś-patnī,%} f., Ved. the mistress or protec-
+351929 new <div n="lb"/>] {%—Viś-patnī,%} f., Ved. the mistress or protec-
+; Greek text case 1109: headword=viSAKa, page=0941-c (352132)
+352132 old <div n="lb"/>the quadrangle of stars <lang n="greek">ι, α , β, γ</lang> Libræ; see {%nak-%}
+352132 new <div n="lb"/>the quadrangle of stars <lang n="greek">ι, α , β, γ</lang> Libræ; see {%nak-%}
+; Greek text case 1110: headword=vihA, page=0952-b (355873)
+355873 old <div n="lb"/>(Lat. <nsi>dehisco,</nsi> Gr. <lang n="greek"></lang>).
+355873 new <div n="lb"/>(Lat. <nsi>dehisco,</nsi> Gr. <lang n="greek">χαίνω</lang>).
+; Greek text case 1111: headword=vihAyas, page=0952-b (355908)
+355908 old <div n="lb"/><lang n="greek"></lang>), sky, atmosphere; ({%ās%}), m. a bird.
+355908 new <div n="lb"/><lang n="greek">χάος</lang>), sky, atmosphere; ({%ās%}), m. a bird.
+; Greek text case 1112: headword=vI, page=0953-a (356218)
+356218 old <div n="lb"/>{%vevayīti, veveti,%} (see also {%vevī%}); [cf. Gr. <lang n="greek"></lang>
+356218 new <div n="lb"/>{%vevayīti, veveti,%} (see also {%vevī%}); [cf. Gr. <lang n="greek">οἴσω,</lang>
+; Greek text case 1113: headword=vI, page=0953-a (356219)
+356219 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>in-vītus, in-vitare.</nsi>]
+356219 new <div n="lb"/><lang n="greek">οἴαξ, οἰήϊον;</lang> Lat. <nsi>in-vītus, in-vitare.</nsi>]
+; Greek text case 1114: headword=vIwi, page=0954-b (356632)
+356632 old <div n="lb"/>{%vetasa;%} cf. also Gr. <lang n="greek"></lang> Lat. <nsi>vi-tex, vitta,</nsi>
+356632 new <div n="lb"/>{%vetasa;%} cf. also Gr. <lang n="greek">ἴ-τυ-ς, ἰ-τέα;</lang> Lat. <nsi>vi-tex, vitta,</nsi>
+; Greek text case 1115: headword=vIDra, page=0954-c (356715)
+356715 old <div n="lb"/>n. the sky, atmosphere; wind; fire; [cf. Gr. <lang n="greek"></lang>]
+356715 new <div n="lb"/>n. the sky, atmosphere; wind; fire; [cf. Gr. <lang n="greek">αἰθρία.</lang>]
+; Greek text case 1116: headword=vIra, page=0955-a (356807)
+356807 old <div n="lb"/>Muricatus; [cf. probably Gr. <lang n="greek"></lang>
+356807 new <div n="lb"/>Muricatus; [cf. probably Gr. <lang n="greek">ἥρω-ς, Ἥρα, Ἡρακλῆς,</lang>
+; Greek text case 1117: headword=vIra, page=0955-a (356808)
+356808 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>vir;</nsi> Goth. <nsi>vair;</nsi> Angl. Sax. <nsi>wer;</nsi>
+356808 new <div n="lb"/><lang n="greek">εἰρήν;</lang> Lat. <nsi>vir;</nsi> Goth. <nsi>vair;</nsi> Angl. Sax. <nsi>wer;</nsi>
+; Greek text case 1118: headword=vILu, page=0955-c (357020)
+357020 old <div n="lb"/>some Gr. <lang n="greek"></lang>] {%—Vīḷu-jambha, as, ā, am,%} Ved.
+357020 new <div n="lb"/>some Gr. <lang n="greek"></lang>] {%—Vīḷu-jambha, as, ā, am,%} Ved.
+; Greek text case 1119: headword=vf, page=0956-a (357143)
+357143 old <div n="lb"/><lang n="greek"></lang>
+357143 new <div n="lb"/><lang n="greek">ἐρύω, ἀρνέομαι, ὄρομαι, ὤρα, εὑρίσκω; ἀρά, ἀρείνω,</lang>
+; Greek text case 1120: headword=vf, page=0956-a (357144)
+357144 old <div n="lb"/><lang n="greek"></lang>
+357144 new <div n="lb"/><lang n="greek">ἄριστος, ἦρα, βούλομαι, βουλή, βελτίων, βέλτιστος;</lang>
+; Greek text case 1121: headword=vf, page=0956-a (357145)
+; commented out -- second half of hyphenated word from previous line
+357145 old <div n="lb"/><lang n="greek"></lang> perhaps Lat. <nsi>aperio, operio,</nsi> probably <nsi>velum,</nsi>
+357145 new <div n="lb"/>perhaps Lat. <nsi>aperio, operio,</nsi> probably <nsi>velum,</nsi>
+; Greek text case 1122: headword=vfMh, page=0956-b (357219)
+357219 old <div n="lb"/>strengthen, fatten; [cf. Gr. <lang n="greek"></lang>
+357219 new <div n="lb"/>strengthen, fatten; [cf. Gr. <lang n="greek">βράχω, βράζω, βράγχος,</lang>
+; Greek text case 1123: headword=vfMh, page=0956-b (357220)
+357220 old <div n="lb"/><lang n="greek"></lang>
+357220 new <div n="lb"/><lang n="greek">βρόγχος, βρόχθος, (probably also) βράσσω, βρυχάομαι;</lang>
+; Greek text case 1124: headword=vfMh, page=0956-b (357221)
+357221 old <div n="lb"/><lang n="greek"></lang>]
+357221 new <div n="lb"/><lang n="greek">ῥόχθος, ὀρεχθέω, ῥαχία, ῥέγχω, ῥόγχος.</lang>]
+; Greek text case 1125: headword=vfka, page=0956-b (357277)
+357277 old <div n="lb"/>{%vṛkīs%}); a kind of plant, {%= pāṭhā;%} [cf. Gr. <lang n="greek"></lang>
+357277 new <div n="lb"/>{%vṛkīs%}); a kind of plant, {%= pāṭhā;%} [cf. Gr. <lang n="greek">λύκό-ς;</lang>
+; Greek text case 1126: headword=vfj, page=0957-a (357471)
+357471 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+357471 new <div n="lb"/>[cf. Gr. <lang n="greek">εἵργ-νυ-μι, εἴργ-ω, εἱργ-μό-ς, εἱρκ-τή,</lang>
+; Greek text case 1127: headword=vfj, page=0957-a (357472)
+357472 old <div n="lb"/><lang n="greek"></lang> Goth.
+357472 new <div n="lb"/><lang n="greek">Λυ-κόοργο-ς:</lang> Goth.
+; Greek text case 1128: headword=vfTA, page=0958-b (357868)
+357868 old <div n="lb"/>{%vṛthā%} is said to mean ‘hot’); [cf. Gr. <lang n="greek"></lang>
+357868 new <div n="lb"/>{%vṛthā%} is said to mean ‘hot’); [cf. Gr. <lang n="greek">ῥεῖα, βρᾶ,</lang>
+; Greek text case 1129: headword=vfTA, page=0958-b (357869)
+357869 old <div n="lb"/><lang n="greek"></lang> &c.] {%—Vṛthā-kathā,%} f. idle
+357869 new <div n="lb"/><lang n="greek">ῥᾷ, ῥάῐστος, ῥᾴδιος,</lang> &c.] {%—Vṛthā-kathā,%} f. idle
+; Greek text case 1130: headword=vfD, page=0958-c (357947)
+357947 old <div n="lb"/>Gr. <lang n="greek"></lang>
+357947 new <div n="lb"/>Gr. <lang n="greek">βάλσ-τη, βλασ-τό-ς, βλαστ-άν-ω, βλωθ-ρό-ς,</lang>
+; Greek text case 1131: headword=vfD, page=0958-c (357948)
+357948 old <div n="lb"/><lang n="greek"></lang> (perhaps) Lat.
+357948 new <div n="lb"/><lang n="greek">βραδινός, ῥαδινός, ῥίζα; ἄλσος:</lang> (perhaps) Lat.
+; Greek text case 1132: headword=vfz, page=0959-c (358263)
+358263 old <div n="lb"/>{%varīvṛṣyate, varīvarṣṭi,%} &c.; [cf. Gr. <lang n="greek"></lang>
+358263 new <div n="lb"/>{%varīvṛṣyate, varīvarṣṭi,%} &c.; [cf. Gr. <lang n="greek">ἔρσ-η</lang>
+; Greek text case 1133: headword=vfz, page=0959-c (358264)
+358264 old <div n="lb"/>(Hom. <lang n="greek"></lang>), <lang n="greek"></lang>].
+358264 new <div n="lb"/>(Hom. <lang n="greek">ἐέρσ-η</lang>), <lang n="greek">ἕρσ-η, ἑρσή-ει-ς, βρέχ-ω.</lang>].
+; Greek text case 1134: headword=vfzRi, page=0960-c (358614)
+358614 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>]. {%—Vṛ-%}
+358614 new <div n="lb"/>[cf. Gr. <lang n="greek">ἀρνός, ἀρνειός, ῥήν, ἕρσαι, ἔριφος.</lang>]. {%—Vṛ-%}
+; Greek text case 1135: headword=ve, page=0962-b (359103)
+359103 old <div n="lb"/>Gr. <lang n="greek"></lang> (probably also) <lang n="greek"></lang>
+359103 new <div n="lb"/>Gr. <lang n="greek">ἤ-τριον, ὀθόνη,</lang> (probably also) <lang n="greek">ὀπέας, ἠπητής;</lang>
+; Greek text case 1136: headword=ve, page=0962-b (359105)
+359105 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>viere, vimen, vitta:</nsi> Old Germ.
+359105 new <div n="lb"/><lang n="greek"></lang> Lat. <nsi>viere, vimen, vitta:</nsi> Old Germ.
+; Greek text case 1137: headword=vetasa, page=0963-b (359379)
+359379 old <div n="lb"/>N. of a city; [cf. Gr. <lang n="greek"></lang>
+359379 new <div n="lb"/>N. of a city; [cf. Gr. <lang n="greek">ἴ-τυ-ς, ἰ-τέα, οἶσος, οἶνος;</lang>
+; Greek text case 1138: headword=veda, page=0963-c (359489)
+359489 old <div n="lb"/><lang n="greek"></lang> fr. <lang n="greek"></lang> Lat. <nsi>video</nsi> fr. {%vid,%} Goth. <nsi>vait,</nsi> Lith.
+359489 new <div n="lb"/><lang n="greek">οἶδα</lang> fr. <lang n="greek">ιδ,</lang> Lat. <nsi>video</nsi> fr. {%vid,%} Goth. <nsi>vait,</nsi> Lith.
+; Greek text case 1139: headword=ven, page=0966-a (360179)
+360179 old <div n="lb"/>{%venyate, veventi;%} [cf. Gr. <lang n="greek"></lang>]
+360179 new <div n="lb"/>{%venyate, veventi;%} [cf. Gr. <lang n="greek">αἰνέω, αἴνη.</lang>]
+; Greek text case 1140: headword=vel, page=0966-b (360296)
+360296 old <div n="lb"/>round; to be wanton; [cf. perhaps Gr. <lang n="greek"></lang>
+360296 new <div n="lb"/>round; to be wanton; [cf. perhaps Gr. <lang n="greek">εἴλω, ελύω;</lang>
+; Greek text case 1141: headword=veSa, page=0966-b (360410)
+360410 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>vicu-s, vic-inu-s;</nsi> Goth. <nsi>veihs;</nsi>
+360410 new <div n="lb"/><lang n="greek">οἶκο-ς, οἰκά-α;</lang> Lat. <nsi>vicu-s, vic-inu-s;</nsi> Goth. <nsi>veihs;</nsi>
+; Greek text case 1142: headword=veSi, page=0966-c (360438)
+360438 old {%Veśi,%}¦ in astronomy = <lang n="greek"></lang>
+360438 new {%Veśi,%}¦ in astronomy = <lang n="greek">φάσις.</lang>
+; Greek text case 1143: headword=vyaT, page=0973-c (363256)
+363256 old <div n="lb"/>Goth. <nsi>vithon;</nsi> (perhaps also) Gr. <lang n="greek"></lang>
+363256 new <div n="lb"/>Goth. <nsi>vithon;</nsi> (perhaps also) Gr. <lang n="greek">ὄθη, ὄθομαι, ὠθέω,</lang>
+; Greek text case 1144: headword=vyaT, page=0973-c (363257)
+363257 old <div n="lb"/><lang n="greek"></lang>]
+363257 new <div n="lb"/><lang n="greek">ἐνοσί-χθων, ἔννοσις.</lang>]
+; Greek text case 1145: headword=vyaD, page=0974-a (363355)
+363355 old <div n="lb"/>haps Gr. <lang n="greek"></lang>]
+363355 new <div n="lb"/>haps Gr. <lang n="greek">ϝεθ in ἄεθλος.</lang>]
+; Greek text case 1146: headword=vye, page=0983-b (367140)
+367140 old <div n="lb"/>{%vīyate, vāvyeti%} or {%vāvyāti;%} [cf. Gr. <lang n="greek"></lang>]
+367140 new <div n="lb"/>{%vīyate, vāvyeti%} or {%vāvyāti;%} [cf. Gr. <lang n="greek">ἱ in ἱμάτιον.</lang>]
+; Greek text case 1147: headword=vraj, page=0983-c (367233)
+367233 old <div n="lb"/><lang n="greek"></lang> Goth. <nsi>vrikan, vrakja, waurkjau;</nsi> Angl.
+367233 new <div n="lb"/><lang n="greek">ϝέργον;</lang> Goth. <nsi>vrikan, vrakja, waurkjau;</nsi> Angl.
+; Greek text case 1148: headword=vraRa, page=0984-a (367314)
+367314 old <div n="lb"/>II. 47); [cf. Gr. <lang n="greek"></lang> (i. e. <lang n="greek"></lang>), <lang n="greek"></lang> Lat.
+367314 new <div n="lb"/>II. 47); [cf. Gr. <lang n="greek">οὐλή</lang> (i. e. <lang n="greek">ϝολνη</lang>), <lang n="greek">ἄπ-ελος;</lang> Lat.
+; Greek text case 1149: headword=vrata, page=0984-a (367361)
+367361 old <div n="lb"/><lang n="greek"></lang>] {%—Vrata-kalpadruma, am,%} n., N. of a
+367361 new <div n="lb"/><lang n="greek">ἑορτή.</lang>] {%—Vrata-kalpadruma, am,%} n., N. of a
+; Greek text case 1150: headword=vrand, page=0984-b (367460)
+367460 old <div n="lb"/>16); [cf. Gr. <lang n="greek"></lang>]
+367460 new <div n="lb"/>16); [cf. Gr. <lang n="greek">βραδύ.</lang>]
+; Greek text case 1151: headword=vraSc, page=0984-b (367483)
+367483 old <div n="lb"/>{%ścyate, varīvṛścīti;%} [cf. Gr. <lang n="greek"></lang>
+367483 new <div n="lb"/>{%ścyate, varīvṛścīti;%} [cf. Gr. <lang n="greek">ἔλκος, ῥάκος, λακίς,</lang>
+; Greek text case 1152: headword=vraSc, page=0984-b (367484)
+367484 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>lacerare, ulcus.</nsi>]
+367484 new <div n="lb"/><lang n="greek">λακερός;</lang> Lat. <nsi>lacerare, ulcus.</nsi>]
+; Greek text case 1153: headword=vrADat, page=0984-c (367580)
+367580 old <div n="lb"/>cf. Gr. <lang n="greek"></lang>) {%—Vrādhan-tama, as, ā, am,%}
+367580 new <div n="lb"/>cf. Gr. <lang n="greek">βλωθ-ρός.</lang>) {%—Vrādhan-tama, as, ā, am,%}
+; Greek text case 1154: headword=Sakft, page=0987-b (368544)
+368544 old <div n="lb"/>dung; [cf. Gr. <lang n="greek"></lang> (gen. <lang n="greek"></lang>), <lang n="greek"></lang>
+368544 new <div n="lb"/>dung; [cf. Gr. <lang n="greek">σκώρ</lang> (gen. <lang n="greek">σκατ-ός</lang>), <lang n="greek">σκωρ-ία,</lang>
+; Greek text case 1155: headword=Sakft, page=0987-b (368545)
+368545 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>sterc-us, ster-qui-liniu-m;</nsi> Angl. Sax.
+368545 new <div n="lb"/><lang n="greek">σκέπ-βολος;</lang> Lat. <nsi>sterc-us, ster-qui-liniu-m;</nsi> Angl. Sax.
+; Greek text case 1156: headword=SaNKa, page=0988-b (368865)
+368865 old <div n="lb"/>Dvīpas; ({%ās%}), m. pl., N. of a Gotra; [cf. Gr. <lang n="greek"></lang>
+368865 new <div n="lb"/>Dvīpas; ({%ās%}), m. pl., N. of a Gotra; [cf. Gr. <lang n="greek">κόγχος,</lang>
+; Greek text case 1157: headword=SaNKa, page=0988-b (368866)
+368866 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>concha.</nsi>] {%—Śaṅ-%}
+368866 new <div n="lb"/><lang n="greek">κόγχη, κόλχος, κόχλος, κάλχη;</lang> Lat. <nsi>concha.</nsi>] {%—Śaṅ-%}
+; Greek text case 1158: headword=SaRa, page=0989-b (369092)
+369092 old <div n="lb"/>connected with {%śara%}); [cf. Gr. <lang n="greek"></lang> Lat. <nsi>can-</nsi>
+369092 new <div n="lb"/>connected with {%śara%}); [cf. Gr. <lang n="greek">κάνναβις;</lang> Lat. <nsi>can-</nsi>
+; Greek text case 1159: headword=Sata, page=0989-b (369192)
+369192 old <div n="lb"/>(so used against Pāṇ. V. 2, 57); [cf. Gr. <lang n="greek"></lang>
+369192 new <div n="lb"/>(so used against Pāṇ. V. 2, 57); [cf. Gr. <lang n="greek">ἑ-κατόν</lang>
+; Greek text case 1160: headword=Sata, page=0989-b (369193)
+369193 old <div n="lb"/>(fr. <lang n="greek"></lang> ‘one,’ and <lang n="greek"></lang> {%= śata%}); Lat. <nsi>centum;</nsi>
+369193 new <div n="lb"/>(fr. <lang n="greek">ἑ=ἕν,</lang> ‘one,’ and <lang n="greek">κατο</lang> {%= śata%}); Lat. <nsi>centum;</nsi>
+; Greek text case 1161: headword=Sata, page=0989-b (369206)
+369206 old <div n="lb"/>rank of Indra; cf. Gr. <lang n="greek"></lang>). {%—Śata-khaṇ-%}
+369206 new <div n="lb"/>rank of Indra; cf. Gr. <lang n="greek">ἑκατομβαῖος</lang>). {%—Śata-khaṇ-%}
+; Greek text case 1162: headword=Sata, page=0989-b (369365)
+369365 old <div n="lb"/>one of which is <lang n="greek"></lang> Aquarii, (this Nakṣatra is gene-
+369365 new <div n="lb"/>one of which is <lang n="greek">λ</lang> Aquarii, (this Nakṣatra is gene-
+; Greek text case 1163: headword=Satru, page=0991-a (369642)
+369642 old <div n="lb"/>Gr. <lang n="greek"></lang> Lat. <nsi>hod</nsi> in <nsi>odisse,</nsi>
+369642 new <div n="lb"/>Gr. <lang n="greek">ἔχθος, ἐκθρός, ὀχθέω;</lang> Lat. <nsi>hod</nsi> in <nsi>odisse,</nsi>
+; Greek text case 1164: headword=Sap, page=0991-c (369857)
+369857 old <div n="lb"/>{%śaṃśapyate%}), {%śāśapti;%} [cf. perhaps Gr. <lang n="greek"></lang>]
+369857 new <div n="lb"/>{%śaṃśapyate%}), {%śāśapti;%} [cf. perhaps Gr. <lang n="greek">κόμπος.</lang>]
+; Greek text case 1165: headword=Sam, page=0992-c (370139)
+370139 old <div n="lb"/><lang n="greek"></lang> Old Germ. <nsi>chamo.</nsi>]
+370139 new <div n="lb"/><lang n="greek">κάμνω, αιδηρο-κμής, κημός:</lang> Old Germ. <nsi>chamo.</nsi>]
+; Greek text case 1166: headword=SambUka, page=0993-c (370481)
+370481 old <div n="lb"/>(according to Śabda-k.); [cf. Gr. <lang n="greek"></lang>]
+370481 new <div n="lb"/>(according to Śabda-k.); [cf. Gr. <lang n="greek">σαμβύκη.</lang>]
+; Greek text case 1167: headword=Saya, page=0993-c (370521)
+370521 old <div n="lb"/>cf. also Gr. <lang n="greek"></lang>]
+370521 new <div n="lb"/>cf. also Gr. <lang n="greek">ὀρέσ-κοιος.</lang>]
+; Greek text case 1168: headword=Saru, page=0994-b (370742)
+370742 old <div n="lb"/>Gr. <lang n="greek"></lang>]; the weapon of the Maruts; anger,
+370742 new <div n="lb"/>Gr. <lang n="greek">κεραυνός</lang>]; the weapon of the Maruts; anger,
+; Greek text case 1169: headword=SaraBa, page=0994-c (370885)
+370885 old <div n="lb"/><lang n="greek"></lang> Angl. Sax. <nsi>crabba.</nsi>]
+370885 new <div n="lb"/><lang n="greek">κάραβος;</lang> Angl. Sax. <nsi>crabba.</nsi>]
+; Greek text case 1170: headword=SarkarA, page=0995-b (371051)
+371051 old <div n="lb"/>brown sugar; gravel (the disease); [cf. Gr. <lang n="greek"></lang>
+371051 new <div n="lb"/>brown sugar; gravel (the disease); [cf. Gr. <lang n="greek">κρόκη,</lang>
+; Greek text case 1171: headword=SarkarA, page=0995-b (371052)
+371052 old <div n="lb"/><lang n="greek"></lang> Lat.
+371052 new <div n="lb"/><lang n="greek">κροκάλη, κάχληξ, χάλιξ, σάκχαρ, σάκχαρον;</lang> Lat.
+; Greek text case 1172: headword=Sarvara, page=0995-c (371230)
+371230 old <div n="lb"/><lang n="greek"></lang>.] {%—Śarvarī-dīpaka, as,%} m. ‘lamp of
+371230 new <div n="lb"/><lang n="greek">Κέρβερος.</lang>.] {%—Śarvarī-dīpaka, as,%} m. ‘lamp of
+; Greek text case 1173: headword=Salya, page=0996-a (371329)
+371329 old <div n="lb"/>defamation; [cf. Gr. <lang n="greek"></lang> Hib. <nsi>cail,</nsi> ‘a spear.’]
+371329 new <div n="lb"/>defamation; [cf. Gr. <lang n="greek">κῆλα;</lang> Hib. <nsi>cail,</nsi> ‘a spear.’]
+; Greek text case 1174: headword=Savala, page=0996-c (371547)
+371547 old <div n="lb"/>of {%śarvara%} or {%śarbara%} = <lang n="greek"></lang>); diversified,
+371547 new <div n="lb"/>of {%śarvara%} or {%śarbara%} = <lang n="greek">Κέρβερος</lang>); diversified,
+; Greek text case 1175: headword=SaSvat, page=0997-b (371782)
+371782 old <div n="lb"/>Gr. <lang n="greek"></lang> for <lang n="greek"></lang>] {%—Śaśvac-chānti, is,%} f. (for
+371782 new <div n="lb"/>Gr. <lang n="greek">πᾶς</lang> for <lang n="greek">ἅπας.</lang>] {%—Śaśvac-chānti, is,%} f. (for
+; Greek text case 1176: headword=SARa, page=0999-c (372638)
+372638 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat. <nsi>cuneu-s;</nsi> Engl.
+372638 new <div n="lb"/>[cf. Gr. <lang n="greek">κῶνο-ς, κωνίο-ν, κωνί-ς;</lang> Lat. <nsi>cuneu-s;</nsi> Engl.
+; Greek text case 1177: headword=SArdUla, page=1002-a (373573)
+373573 old <div n="lb"/>Gr. <lang n="greek"></lang> (for <lang n="greek"></lang>), <lang n="greek"></lang> Lat. <nsi>pardus,</nsi>
+373573 new <div n="lb"/>Gr. <lang n="greek">πάρδος</lang> (for <lang n="greek">κάρδος</lang>), <lang n="greek">πάρδαλις;</lang> Lat. <nsi>pardus,</nsi>
+; Greek text case 1178: headword=Si, page=1004-a (374308)
+374308 old <div n="lb"/>{%śeśeti;%} [cf. Gr. <lang n="greek"></lang> Lat. <nsi>ci-o,</nsi>
+374308 new <div n="lb"/>{%śeśeti;%} [cf. Gr. <lang n="greek">κί-ω, κί-νυ-μαι, κἰνέ-ω;</lang> Lat. <nsi>ci-o,</nsi>
+; Greek text case 1179: headword=Siras, page=1006-a (375077)
+375077 old <div n="lb"/>Zend <nsi>śara, śāranh;</nsi> Gr. <lang n="greek"></lang>
+375077 new <div n="lb"/>Zend <nsi>śara, śāranh;</nsi> Gr. <lang n="greek">κάρα, κάρ, κάρη-νο-ν,</lang>
+; Greek text case 1180: headword=Siras, page=1006-a (375079)
+375079 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>cere-bru-m, cere-bru-m, cer-vix, cra-</nsi>
+375079 new <div n="lb"/><lang n="greek">κρανίο-ν, κέρας;</lang> Lat. <nsi>cere-bru-m, cere-bru-m, cer-vix, cra-</nsi>
+; Greek text case 1181: headword=SI, page=1009-c (376153)
+376153 old <div n="lb"/>{%śayyate, śeśayīti, śeśeti;%} [cf. Gr. <lang n="greek"></lang> (<lang n="greek"></lang>
+376153 new <div n="lb"/>{%śayyate, śeśayīti, śeśeti;%} [cf. Gr. <lang n="greek">κεῖ-μαι</lang> (<lang n="greek">κεῖσαι</lang>
+; Greek text case 1182: headword=SI, page=1009-c (376154)
+376154 old <div n="lb"/>{%= śeṣe,%} <lang n="greek"></lang> {%= śete%}); <lang n="greek"></lang>
+376154 new <div n="lb"/>{%= śeṣe,%} <lang n="greek">κεῖται</lang> {%= śete%}); <lang n="greek">κοί-τη, κοι-μά-ω, κῶ-μο-ς,</lang>
+; Greek text case 1183: headword=SI, page=1009-c (376155)
+376155 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>qui-e-s, qui-e-sc-o, civi-s:</nsi>
+376155 new <div n="lb"/><lang n="greek">κῶμα, κώ-μη:</lang> Lat. <nsi>qui-e-s, qui-e-sc-o, civi-s:</nsi>
+; Greek text case 1184: headword=SIGra, page=1010-a (376210)
+376210 old <div n="lb"/><lang n="greek"></lang> Angl. Sax. <nsi>higian.</nsi>] {%—Śighra-karman,%}
+376210 new <div n="lb"/><lang n="greek">κιχάνω;</lang> Angl. Sax. <nsi>higian.</nsi>] {%—Śighra-karman,%}
+; Greek text case 1185: headword=SuW, page=1013-c (377384)
+377384 old <div n="lb"/>be dull or slow; [cf. Gr. <lang n="greek"></lang>.]
+377384 new <div n="lb"/>be dull or slow; [cf. Gr. <lang n="greek">κωλός.</lang>.]
+; Greek text case 1186: headword=SuD, page=1013-c (377492)
+377492 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+377492 new <div n="lb"/>[cf. Gr. <lang n="greek">καθ-αρό-ς, καθαίρ-ω, κάθαρσις, Κασταλία;</lang>
+; Greek text case 1187: headword=SuB, page=1015-a (377867)
+377867 old <div n="lb"/>intensely; [cf. Gr. <lang n="greek"></lang> Old
+377867 new <div n="lb"/>intensely; [cf. Gr. <lang n="greek">κομψός, κομ-μός, κομέω;</lang> Old
+; Greek text case 1188: headword=SumB, page=1015-c (378146)
+378146 old <div n="lb"/><lang n="greek"></lang>]
+378146 new <div n="lb"/><lang n="greek">κομψός.</lang>]
+; Greek text case 1189: headword=Suz, page=1016-b (378336)
+378336 old <div n="lb"/>[cf. Zend <nsi>hushka:</nsi> Gr. <lang n="greek"></lang>
+378336 new <div n="lb"/>[cf. Zend <nsi>hushka:</nsi> Gr. <lang n="greek">σαυαρός, σαυσαρισμός,</lang>
+; Greek text case 1190: headword=Suz, page=1016-b (378337)
+378337 old <div n="lb"/><lang n="greek"></lang> ({%= śuṣka%}), <lang n="greek"></lang>
+378337 new <div n="lb"/><lang n="greek">σαυκός</lang> ({%= śuṣka%}), <lang n="greek">σαυχμός, αὐχμός, σαχνός,</lang>
+; Greek text case 1191: headword=Suz, page=1016-b (378338)
+378338 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>siccus:</nsi> Goth. <nsi>siuk,</nsi>
+378338 new <div n="lb"/><lang n="greek">αὔω, αὖος, αὐστηρός:</lang> Lat. <nsi>siccus:</nsi> Goth. <nsi>siuk,</nsi>
+; Greek text case 1192: headword=Suzi, page=1016-b (378357)
+378357 old <div n="lb"/>or groove in the fang of a snake; [cf. Gr. <lang n="greek"></lang>
+378357 new <div n="lb"/>or groove in the fang of a snake; [cf. Gr. <lang n="greek">κυσό-ς,</lang>
+; Greek text case 1193: headword=Suzi, page=1016-b (378358)
+378358 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>cun-nu-s;</nsi> Lith. <nsi>kuszy-s.</nsi>]
+378358 new <div n="lb"/><lang n="greek">κυσ-θό-ς;</lang> Lat. <nsi>cun-nu-s;</nsi> Lith. <nsi>kuszy-s.</nsi>]
+; Greek text case 1194: headword=SUkara, page=1016-c (378531)
+378531 old <div n="lb"/>Gr. <lang n="greek"></lang> Old Germ. <nsi>sū;</nsi> Mod. Germ. <nsi>sau.</nsi>]
+378531 new <div n="lb"/>Gr. <lang n="greek">αῦς, ὗς;</lang> Old Germ. <nsi>sū;</nsi> Mod. Germ. <nsi>sau.</nsi>]
+; Greek text case 1195: headword=SUnya, page=1017-b (378703)
+378703 old <div n="lb"/>barren woman; the prickly pear; [cf. Gr. <lang n="greek"></lang>
+378703 new <div n="lb"/>barren woman; the prickly pear; [cf. Gr. <lang n="greek">κενός,</lang>
+; Greek text case 1196: headword=SUnya, page=1017-b (378704)
+378704 old <div n="lb"/><lang n="greek"></lang> Æol. <lang n="greek"></lang>] {%—Śūnya-geha, am,%} n. an
+378704 new <div n="lb"/><lang n="greek">κενεός;</lang> Æol. <lang n="greek">κέννος.</lang>] {%—Śūnya-geha, am,%} n. an
+; Greek text case 1197: headword=SUra, page=1017-b (378759)
+378759 old <div n="lb"/><nsi>śūra;</nsi> Gr. <lang n="greek"></lang>
+378759 new <div n="lb"/><nsi>śūra;</nsi> Gr. <lang n="greek">κῦρ-ος, κυρό-ω, κύριος, κοίρανος, κοῦρος</lang>
+; Greek text case 1198: headword=SUra, page=1017-b (378760)
+378760 old <div n="lb"/><lang n="greek"></lang>] {%—Śūra-kīṭa, as,%} m. ‘warrior-insect,’ an in-
+378760 new <div n="lb"/><lang n="greek">κόρος.</lang>] {%—Śūra-kīṭa, as,%} m. ‘warrior-insect,’ an in-
+; Greek text case 1199: headword=SfgAla, page=1018-b (379013)
+379013 old <div n="lb"/>ful, but cf. Gr. <lang n="greek"></lang> perhaps connected with
+379013 new <div n="lb"/>ful, but cf. Gr. <lang n="greek">κραγέτης;</lang> perhaps connected with
+; Greek text case 1200: headword=SfNga, page=1018-b (379085)
+379085 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat. <nsi>cornu;</nsi> Goth. <nsi>haurn;</nsi> Angl.
+379085 new <div n="lb"/>[cf. Gr. <lang n="greek">κέρας;</lang> Lat. <nsi>cornu;</nsi> Goth. <nsi>haurn;</nsi> Angl.
+; Greek text case 1201: headword=SF, page=1019-a (379323)
+379323 old <div n="lb"/>{%śāśarti;%} [cf. Zend <nsi>śūra:</nsi> Gr. <lang n="greek"></lang>
+379323 new <div n="lb"/>{%śāśarti;%} [cf. Zend <nsi>śūra:</nsi> Gr. <lang n="greek">κείρω, κορ-μός,</lang>
+; Greek text case 1202: headword=SF, page=1019-a (379324)
+379324 old <div n="lb"/><lang n="greek"></lang>
+379324 new <div n="lb"/><lang n="greek">κέρμα, κουρά, κουρεύ-ς, κεραΐζω, κέρασ, κεραός,</lang>
+; Greek text case 1203: headword=SF, page=1019-a (379325)
+379325 old <div n="lb"/><lang n="greek"></lang> (probably) <lang n="greek"></lang> Lat.
+379325 new <div n="lb"/><lang n="greek">κλάω, κλῆρος, κολαβός,</lang> (probably) <lang n="greek">κορύνη:</lang> Lat.
+; Greek text case 1204: headword=So, page=1021-a (379994)
+379994 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+379994 new <div n="lb"/>[cf. Gr. <lang n="greek">ἀκή, ἀκμή, .ακρος, ἀκόνη, ἄκων, ἀκωκή,</lang>
+; Greek text case 1205: headword=So, page=1021-a (379995)
+379995 old <div n="lb"/><lang n="greek"></lang>
+379995 new <div n="lb"/><lang n="greek">ἀκρέμων, ἀκριβήςσ, ὄκρις, ἄκανος, ἄκανθα, ἄκορνα,</lang>
+; Greek text case 1206: headword=So, page=1021-a (379996)
+379996 old <div n="lb"/><lang n="greek"></lang> (i. e. <lang n="greek"></lang>), <lang n="greek"></lang>
+379996 new <div n="lb"/><lang n="greek">ὀξύς</lang> (i. e. <lang n="greek">ὀκ+τυ</lang>), <lang n="greek">ὄξος, ἄχωρ, ἄχορον, ἄχερδος,</lang>
+; Greek text case 1207: headword=So, page=1021-a (379997)
+379997 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>acies, acus, acer, acidus,</nsi>
+379997 new <div n="lb"/><lang n="greek">αἰχμή, κῶνος:</lang> Lat. <nsi>acies, acus, acer, acidus,</nsi>
+; Greek text case 1208: headword=SyAma, page=1023-a (380865)
+380865 old <div n="lb"/>sea-salt; [cf. Gr. <lang n="greek"></lang> Lith. <nsi>sze†mas;</nsi> Hib.
+380865 new <div n="lb"/>sea-salt; [cf. Gr. <lang n="greek">κύανο-ς;</lang> Lith. <nsi>sze†mas;</nsi> Hib.
+; Greek text case 1209: headword=SyAla, page=1023-b (380980)
+380980 old <div n="lb"/>f. a wife's sister; [cf. Gr. <lang n="greek"></lang>] {%—Śyāla-%}
+380980 new <div n="lb"/>f. a wife's sister; [cf. Gr. <lang n="greek">ἀέλιοι, εἰλιόνες.</lang>] {%—Śyāla-%}
+; Greek text case 1210: headword=SraT, page=1024-a (381192)
+381192 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat. <nsi>crates, rete, res-tis</nsi>
+381192 new <div n="lb"/>[cf. Gr. <lang n="greek">κλώθω, κάλαθος;</lang> Lat. <nsi>crates, rete, res-tis</nsi>
+; Greek text case 1211: headword=SrA, page=1024-b (381354)
+381354 old <div n="lb"/>{%śrāti, śāśreti;%} [cf. Gr. <lang n="greek"></lang>
+381354 new <div n="lb"/>{%śrāti, śāśreti;%} [cf. Gr. <lang n="greek">κρίβανος, κρίβανον,</lang>
+; Greek text case 1212: headword=SrA, page=1024-b (381355)
+381355 old <div n="lb"/><lang n="greek"></lang>
+381355 new <div n="lb"/><lang n="greek">κλίβανος, κριβάνη, κράμβος, καρπός, κάρψω,</lang>
+; Greek text case 1213: headword=SrA, page=1024-b (381356)
+381356 old <div n="lb"/><lang n="greek"></lang> (probably) <lang n="greek"></lang> (perhaps also) <lang n="greek"></lang>
+381356 new <div n="lb"/><lang n="greek"> κάρδοπος ,</lang> (probably) <lang n="greek">κραῦρος,</lang> (perhaps also) <lang n="greek">κέραμος,</lang>
+; Greek text case 1214: headword=SrA, page=1024-b (381357)
+381357 old <div n="lb"/><lang n="greek"></lang> (according to some also perhaps) <lang n="greek"></lang> for
+381357 new <div n="lb"/><lang n="greek">κέρνον,</lang> (according to some also perhaps) <lang n="greek">ἄρτος</lang> for
+; Greek text case 1215: headword=SrA, page=1024-b (381358)
+381358 old <div n="lb"/><lang n="greek"></lang> or <lang n="greek"></lang> for <lang n="greek"></lang>
+381358 new <div n="lb"/><lang n="greek">κάρτος</lang> or <lang n="greek">κράτος, κάγχρυς</lang> for <lang n="greek">κάρχρυς; περκάζω:</lang>
+; Greek text case 1216: headword=Sri, page=1025-a (381600)
+381600 old <div n="lb"/>{%śeśrīyate, śeśrayīti, śeśreti;%} [cf. Gr. <lang n="greek"></lang>
+381600 new <div n="lb"/>{%śeśrīyate, śeśrayīti, śeśreti;%} [cf. Gr. <lang n="greek">κλίνω, κλιτύς,</lang>
+; Greek text case 1217: headword=Sri, page=1025-a (381601)
+381601 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>clî-no, in-clino, clīvus,</nsi> (perhaps)
+381601 new <div n="lb"/><lang n="greek">κλισία:</lang> Lat. <nsi>clî-no, in-clino, clīvus,</nsi> (perhaps)
+; Greek text case 1218: headword=SrI, page=1025-b (381727)
+381727 old <div n="lb"/>[cf. probably Gr. <lang n="greek"></lang>
+381727 new <div n="lb"/>[cf. probably Gr. <lang n="greek">κίρνημι, κεράω, κεράννυμι, κικράω;</lang>
+; Greek text case 1219: headword=Sru, page=1026-c (382088)
+382088 old <div n="lb"/>{%śośrūyate, śośravīti, śośroti;%} [cf. Gr. <lang n="greek"></lang>
+382088 new <div n="lb"/>{%śośrūyate, śośravīti, śośroti;%} [cf. Gr. <lang n="greek">κλύ-ω,</lang>
+; Greek text case 1220: headword=Sru, page=1026-c (382089)
+382089 old <div n="lb"/><lang n="greek"></lang> ({%= śrudhi%}), <lang n="greek"></lang> ({%= śruta%}), <lang n="greek"></lang>
+382089 new <div n="lb"/><lang n="greek">κλῦ-θι</lang> ({%= śrudhi%}), <lang n="greek">κλυ-τό-ς</lang> ({%= śruta%}), <lang n="greek">κλέ-ος,</lang>
+; Greek text case 1221: headword=Sru, page=1026-c (382090)
+382090 old <div n="lb"/><lang n="greek"></lang>
+382090 new <div n="lb"/><lang n="greek">κλε-ί-ω, κλέ-ο-μαι, κλε-ιν-ό-ς, κλει-τό-ς,</lang>
+; Greek text case 1222: headword=Sru, page=1026-c (382091)
+382091 old <div n="lb"/><lang n="greek"></lang> (perhaps also) <lang n="greek"></lang> for
+382091 new <div n="lb"/><lang n="greek">ἀ-κρο-ά-ομαι,</lang> (perhaps also) <lang n="greek">κλαίω, κλαύσω, καλέω</lang> for
+; Greek text case 1223: headword=Sru, page=1026-c (382092)
+382092 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>clu-o, clu-e-o, cli-ens, in-clu-tu-s,</nsi>
+382092 new <div n="lb"/><lang n="greek">κλαϝέω:</lang> Lat. <nsi>clu-o, clu-e-o, cli-ens, in-clu-tu-s,</nsi>
+; Greek text case 1224: headword=SravaRa, page=1027-a (382142)
+382142 old <div n="lb"/>ing three stars, {%a,%} <lang n="greek"></lang> and <lang n="greek"></lang> Aquilæ; cf. {%tri-vikrama%});
+382142 new <div n="lb"/>ing three stars, {%a,%} <lang n="greek">α, β,</lang> and <lang n="greek">γ</lang> Aquilæ; cf. {%tri-vikrama%});
+; Greek text case 1225: headword=Sravas, page=1027-a (382190)
+382190 old <div n="lb"/>Gr. <lang n="greek"></lang>]; wealth; a hymn, eulogy; anything
+382190 new <div n="lb"/>Gr. <lang n="greek">κλέος</lang>]; wealth; a hymn, eulogy; anything
+; Greek text case 1226: headword=SroRi, page=1029-a (382861)
+382861 old <div n="lb"/>road, way; [cf. Gr. <lang n="greek"></lang>
+382861 new <div n="lb"/>road, way; [cf. Gr. <lang n="greek">κλόνι-ς, κλόνιο-ν, κλονιστήρ,</lang>
+; Greek text case 1227: headword=SlAG, page=1029-b (382977)
+382977 old <div n="lb"/>approve, praise, celebrate, congratulate; [cf. Gr. <lang n="greek"></lang>
+382977 new <div n="lb"/>approve, praise, celebrate, congratulate; [cf. Gr. <lang n="greek">κρήγυον,</lang>
+; Greek text case 1228: headword=SlAG, page=1029-b (382978)
+382978 old <div n="lb"/><lang n="greek"></lang> probably <lang n="greek"></lang> Hib. <nsi>sleigh,</nsi> ‘adoration;’
+382978 new <div n="lb"/><lang n="greek"></lang> probably <lang n="greek">κόλαξ:</lang> Hib. <nsi>sleigh,</nsi> ‘adoration;’
+; Greek text case 1229: headword=Sliz, page=1029-b (383058)
+383058 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat.
+383058 new <div n="lb"/>[cf. Gr. <lang n="greek">κλη-ΐς, κλείς, κλει-δός, κλεί-ω:</lang> Lat.
+; Greek text case 1230: headword=Svan, page=1030-a (383314)
+383314 old <div n="lb"/>pounds, see below; [cf. Zend <nsi>śpâ;</nsi> Gr. <lang n="greek"></lang>
+383314 new <div n="lb"/>pounds, see below; [cf. Zend <nsi>śpâ;</nsi> Gr. <lang n="greek">κύ-ων,</lang>
+; Greek text case 1231: headword=Svan, page=1030-a (383315)
+383315 old <div n="lb"/><lang n="greek"></lang> ({%= śunas%}), <lang n="greek"></lang> Lat. <nsi>can-i-s</nsi> (for <nsi>cvan-</nsi>
+383315 new <div n="lb"/><lang n="greek">κυνός</lang> ({%= śunas%}), <lang n="greek">ἁλ-κυών;</lang> Lat. <nsi>can-i-s</nsi> (for <nsi>cvan-</nsi>
+; Greek text case 1232: headword=SvaSura, page=1030-c (383475)
+383475 old <div n="lb"/><nsi>qaśura;</nsi> Gr. <lang n="greek"></lang> for <lang n="greek"></lang> Lat. <nsi>socer</nsi>
+383475 new <div n="lb"/><nsi>qaśura;</nsi> Gr. <lang n="greek">ἑκυρό-ς</lang> for <lang n="greek">σϝεκυρό-ς;</lang> Lat. <nsi>socer</nsi>
+; Greek text case 1233: headword=SvaSrU, page=1030-c (383491)
+383491 old {%Śvaśrū, ūs,%}¦ f. a mother-in-law; [cf. Gr. <lang n="greek"></lang>
+383491 new {%Śvaśrū, ūs,%}¦ f. a mother-in-law; [cf. Gr. <lang n="greek">ἔκυρα;</lang>
+; Greek text case 1234: headword=Svi, page=1031-a (383687)
+383687 old <div n="lb"/>much; [cf. Gr. <lang n="greek"></lang>
+383687 new <div n="lb"/>much; [cf. Gr. <lang n="greek">κυ-έ-ω, κύ-ος, κῦ-μα, κύ-η-μα,</lang>
+; Greek text case 1235: headword=Svi, page=1031-a (383688)
+383688 old <div n="lb"/><lang n="greek"></lang>
+383688 new <div n="lb"/><lang n="greek">κύ-αρ, κύ-τ-ος, κοῖ-λο-ς, κοιλ-ία, καυλό-ς, κύ-λο-ν,</lang>
+; Greek text case 1236: headword=Svi, page=1031-a (383689)
+383689 old <div n="lb"/><lang n="greek"></lang>
+383689 new <div n="lb"/><lang n="greek">ἐγ-κισσάω, κίσσα, κύαμος, κύαθος, κῶνος, κηκίς,</lang>
+; Greek text case 1237: headword=Svi, page=1031-a (383690)
+383690 old <div n="lb"/><lang n="greek"></lang> (probably also) <lang n="greek"></lang> perhaps also
+383690 new <div n="lb"/><lang n="greek">κίκυς,</lang> (probably also) <lang n="greek">κίων, κίω, κινέω,</lang> perhaps also
+; Greek text case 1238: headword=Svi, page=1031-a (383691)
+383691 old <div n="lb"/><lang n="greek"></lang> (for <lang n="greek"></lang>): Lat. <nsi>in-ci-ens, cu-mu-lu-s,</nsi>
+383691 new <div n="lb"/><lang n="greek">κό-μη</lang> (for <lang n="greek">κύ-μη</lang>): Lat. <nsi>in-ci-ens, cu-mu-lu-s,</nsi>
+; Greek text case 1239: headword=Svind, page=1032-b (384048)
+384048 old <div n="lb"/>cold (according to some); [cf. probably Gr. <lang n="greek"></lang>
+384048 new <div n="lb"/>cold (according to some); [cf. probably Gr. <lang n="greek">κυδνός,</lang>
+; Greek text case 1240: headword=Svind, page=1032-b (384049)
+384049 old <div n="lb"/><lang n="greek"></lang> Goth. <nsi>hveits, hvaitei;</nsi> Old Germ.
+384049 new <div n="lb"/><lang n="greek">κυδρός, κῦδος;</lang> Goth. <nsi>hveits, hvaitei;</nsi> Old Germ.
+; Greek text case 1241: headword=zaz, page=1032-b (384155)
+384155 old <div n="lb"/>Gr. <lang n="greek"></lang> Lat. <nsi>sex;</nsi> Angl. Sax. <nsi>seox, sex, six;</nsi>
+384155 new <div n="lb"/>Gr. <lang n="greek">ἕξ, ϝέξ;</lang> Lat. <nsi>sex;</nsi> Angl. Sax. <nsi>seox, sex, six;</nsi>
+; Greek text case 1242: headword=zazWa, page=1033-c (384494)
+384494 old <div n="lb"/>for <nsi>kṣvasta;</nsi> Gr. <lang n="greek"></lang> Lat. <nsi>sextus;</nsi> Goth. <nsi>sach-</nsi>
+384494 new <div n="lb"/>for <nsi>kṣvasta;</nsi> Gr. <lang n="greek">ἕκτος;</lang> Lat. <nsi>sextus;</nsi> Goth. <nsi>sach-</nsi>
+; Greek text case 1243: headword=zWiv, page=1034-b (384695)
+384695 old <div n="lb"/>{%teṣṭhīvyate;%} [cf. probably Gr. <lang n="greek"></lang>
+384695 new <div n="lb"/>{%teṣṭhīvyate;%} [cf. probably Gr. <lang n="greek">σίαλον, σίαλος,</lang>
+; Greek text case 1244: headword=zWiv, page=1034-b (384696)
+384696 old <div n="lb"/><lang n="greek"></lang>
+384696 new <div n="lb"/><lang n="greek">στυγέω, στύξ, σπῖλος, σπιλόω, ψύττω, πτύω,</lang>
+; Greek text case 1245: headword=zWiv, page=1034-b (384697)
+384697 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>spuo;</nsi> Goth. <nsi>speivan;</nsi> Angl. Sax.
+384697 new <div n="lb"/><lang n="greek">ἐπιφθύζω;</lang> Lat. <nsi>spuo;</nsi> Goth. <nsi>speivan;</nsi> Angl. Sax.
+; Greek text case 1246: headword=sa, page=1034-b (384806)
+384806 old <div n="lb"/><nsi>karawis,</nsi> ‘a fellow-soldier:’ Gr. <lang n="greek"></lang> in <lang n="greek"></lang> (cf.
+384806 new <div n="lb"/><nsi>karawis,</nsi> ‘a fellow-soldier:’ Gr. <lang n="greek">σα</lang> in <lang n="greek">σαφής</lang> (cf.
+; Greek text case 1247: headword=sa, page=1034-b (384807)
+384807 old <div n="lb"/><lang n="greek"></lang>); <lang n="greek"></lang> in some compounds, as in <lang n="greek"></lang>
+384807 new <div n="lb"/><lang n="greek">φάος, φῶς</lang>); <lang n="greek">ἀ</lang> in some compounds, as in <lang n="greek">ἄλοχος,</lang>
+; Greek text case 1248: headword=sa, page=1034-b (384808)
+384808 old <div n="lb"/><lang n="greek"></lang> ({%= sodara%}).]
+384808 new <div n="lb"/><lang n="greek">ἄκοιτις, ἀκοίτης, ἀδελφός</lang> ({%= sodara%}).]
+; Greek text case 1249: headword=saMvat, page=1036-c (385815)
+385815 old <div n="lb"/>monly called Śaka or Śāka, q. v.); [cf. Gr. <lang n="greek"></lang>
+385815 new <div n="lb"/>monly called Śaka or Śāka, q. v.); [cf. Gr. <lang n="greek">ἔτος,</lang>
+; Greek text case 1250: headword=saMvat, page=1036-c (385816)
+385816 old <div n="lb"/><lang n="greek"></lang>]
+385816 new <div n="lb"/><lang n="greek">ἐνιαυτός.</lang>]
+; Greek text case 1251: headword=sakft, page=1044-a (388812)
+388812 old <div n="lb"/>and Gr. <lang n="greek"></lang> of <lang n="greek"></lang> with the latter part cf. Lith.
+388812 new <div n="lb"/>and Gr. <lang n="greek">ἁ</lang> of <lang n="greek">ἁ-πλοῦς;</lang> with the latter part cf. Lith.
+; Greek text case 1252: headword=sagarBa, page=1044-c (389081)
+389081 old <div n="lb"/>{%hodara;%} cf. Gr. <lang n="greek"></lang> ({%ā%}), f. a pregnant
+389081 new <div n="lb"/>{%hodara;%} cf. Gr. <lang n="greek">ἀδελφός</lang> ({%ā%}), f. a pregnant
+; Greek text case 1253: headword=sac, page=1048-c (390792)
+390792 old <div n="lb"/>acquire, gain, accomplish; [cf. Gr. <lang n="greek"></lang>
+390792 new <div n="lb"/>acquire, gain, accomplish; [cf. Gr. <lang n="greek">ἕπ-ω, ἕ-σπ-ο-ν,</lang>
+; Greek text case 1254: headword=sac, page=1048-c (390793)
+390793 old <div n="lb"/><lang n="greek"></lang>
+390793 new <div n="lb"/><lang n="greek">ἕπ-ο-μαι, ἑ-σπ-ό-μην, ἑπ-έ-της, ὅπ-λο-ν, ὁπλότερος,</lang>
+; Greek text case 1255: headword=sac, page=1048-c (390794)
+390794 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>sequ-o-r, sec-u-ndu-s, ad-sec-la,</nsi>
+390794 new <div n="lb"/><lang n="greek">ἑκάς:</lang> Lat. <nsi>sequ-o-r, sec-u-ndu-s, ad-sec-la,</nsi>
+; Greek text case 1256: headword=saYj, page=1050-c (391680)
+391680 old <div n="lb"/>{%saṅkti;%} [cf. Gr. <lang n="greek"></lang>
+391680 new <div n="lb"/>{%saṅkti;%} [cf. Gr. <lang n="greek">σάττω, σαγή, σάγμα, σακτός,</lang>
+; Greek text case 1257: headword=saYj, page=1050-c (391681)
+391681 old <div n="lb"/><lang n="greek"></lang> (probably) <lang n="greek"></lang>]
+391681 new <div n="lb"/><lang n="greek">σάκτωρ,</lang> (probably) <lang n="greek">σάκκος, σάκτας.</lang>]
+; Greek text case 1258: headword=sat, page=1052-a (392252)
+392252 old <div n="lb"/>{%tīna%}); ({%sat%}), ind. well, rightly, fitly; [cf. Gr. <lang n="greek"></lang>
+392252 new <div n="lb"/>{%tīna%}); ({%sat%}), ind. well, rightly, fitly; [cf. Gr. <lang n="greek">ὤν</lang>
+; Greek text case 1259: headword=sat, page=1052-a (392253)
+392253 old <div n="lb"/>(Ion. <lang n="greek"></lang> for <lang n="greek"></lang>); Lat. <nsi>sens, sent-is,</nsi> in <nsi>prœ-sens,</nsi>
+392253 new <div n="lb"/>(Ion. <lang n="greek">ἐών</lang> for <lang n="greek">ἐσών</lang>); Lat. <nsi>sens, sent-is,</nsi> in <nsi>prœ-sens,</nsi>
+; Greek text case 1260: headword=satya, page=1053-b (392586)
+392586 old <div n="lb"/><lang n="greek"></lang>] {%—Satya-karman, ā,%} m., N. of a king.
+392586 new <div n="lb"/><lang n="greek">ἐτεός.</lang>] {%—Satya-karman, ā,%} m., N. of a king.
+; Greek text case 1261: headword=sad, page=1054-c (392999)
+392999 old <div n="lb"/>posture; [cf. Gr. <lang n="greek"></lang>
+392999 new <div n="lb"/>posture; [cf. Gr. <lang n="greek">ὁδός, οὐδός, ἔδεθλον, ἕδ-ος, ἕζομαι,</lang>
+; Greek text case 1262: headword=sad, page=1054-c (393000)
+393000 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>solum, sedeo, sido,</nsi> probably also <nsi>de-</nsi>
+393000 new <div n="lb"/><lang n="greek">ἱδρόω:</lang> Lat. <nsi>solum, sedeo, sido,</nsi> probably also <nsi>de-</nsi>
+; Greek text case 1263: headword=sadas, page=1055-a (393100)
+393100 old <div n="lb"/>Naigh. III. 30); [cf. Gr. <lang n="greek"></lang>] {%—Sadas-patī,%} m.
+393100 new <div n="lb"/>Naigh. III. 30); [cf. Gr. <lang n="greek">ἕδος.</lang>] {%—Sadas-patī,%} m.
+; Greek text case 1264: headword=sadru, page=1055-a (393136)
+393136 old <div n="lb"/>going, moving; [cf. probably Gr. <lang n="greek"></lang> in <lang n="greek"></lang>.]
+393136 new <div n="lb"/>going, moving; [cf. probably Gr. <lang n="greek">ἱδρυ</lang> in <lang n="greek">ἱδρύνω.</lang>.]
+; Greek text case 1265: headword=sap, page=1063-c (396616)
+396616 old <div n="lb"/>{%vantu%}); [cf. Gr. <lang n="greek"></lang>
+396616 new <div n="lb"/>{%vantu%}); [cf. Gr. <lang n="greek">σέβομαι, σέβας, σεμνός, ἔπομαι;</lang>
+; Greek text case 1266: headword=saparya, page=1063-c (396626)
+396626 old {%Saparya%}¦ (probably fr. a lost noun {%sapas = %} Gr. <lang n="greek"></lang>
+396626 new {%Saparya%}¦ (probably fr. a lost noun {%sapas = %} Gr. <lang n="greek">σέβας,</lang>
+; Greek text case 1267: headword=saparya, page=1063-c (396627)
+;  comment out: second half of hyphenated words.
+396627 old <div n="lb"/><lang n="greek"></lang> cf. {%sabas%}), Nom. P. {%saparyati, -yitum,%} Ved.
+396627 new <div n="lb"/>cf. {%sabas%}), Nom. P. {%saparyati, -yitum,%} Ved.
+; Greek text case 1268: headword=saptan, page=1064-b (396941)
+396941 old <div n="lb"/>{%hapta;%} Gr. <lang n="greek"></lang> Lat. <nsi>septem;</nsi> Goth. <nsi>sibun;</nsi>
+396941 new <div n="lb"/>{%hapta;%} Gr. <lang n="greek">ἑπτά;</lang> Lat. <nsi>septem;</nsi> Goth. <nsi>sibun;</nsi>
+; Greek text case 1269: headword=saptama, page=1065-a (397159)
+397159 old <div n="lb"/>month Māgha); [cf. Zend <nsi>haptatha;</nsi> Gr. <lang n="greek"></lang>
+397159 new <div n="lb"/>month Māgha); [cf. Zend <nsi>haptatha;</nsi> Gr. <lang n="greek">ἕβδομος;</lang>
+; Greek text case 1270: headword=sabas, page=1065-c (397353)
+397353 old <div n="lb"/>{%amṛta;%} cf. Gr. <lang n="greek"></lang> ‘worship’ or ‘the object of
+397353 new <div n="lb"/>{%amṛta;%} cf. Gr. <lang n="greek">σέβας,</lang> ‘worship’ or ‘the object of
+; Greek text case 1271: headword=sam, page=1066-b (397601)
+397601 old <div n="lb"/>q. v., and like Gr. <lang n="greek"></lang> Lat. <nsi>con,</nsi> expressing) with,
+397601 new <div n="lb"/>q. v., and like Gr. <lang n="greek">σύν,</lang> Lat. <nsi>con,</nsi> expressing) with,
+; Greek text case 1272: headword=sam, page=1066-b (397616)
+397616 old <div n="lb"/>[cf. according to some, Gr. <lang n="greek"></lang> perhaps Lat.
+397616 new <div n="lb"/>[cf. according to some, Gr. <lang n="greek">σύν, ξύν;</lang> perhaps Lat.
+; Greek text case 1273: headword=sama, page=1066-b (397656)
+397656 old <div n="lb"/>Gr. <lang n="greek"></lang>
+397656 new <div n="lb"/>Gr. <lang n="greek">ἅμα, ὁμό-ς, ὁμοῦ, ὁμό-θεν, ὁμό-σε, ὁμο-ῖο-ς,</lang>
+; Greek text case 1274: headword=sama, page=1066-b (397657)
+397657 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>sim-ia (?), si-</nsi>
+397657 new <div n="lb"/><lang n="greek">ὁμοί-ι-ος, ὁμαλό-ς, μία, μέν:</lang> Lat. <nsi>sim-ia (?), si-</nsi>
+; Greek text case 1275: headword=samayA, page=1076-c (401984)
+401984 old <div n="lb"/>near (with acc.); [cf. Gr. <lang n="greek"></lang> Lat.
+401984 new <div n="lb"/>near (with acc.); [cf. Gr. <lang n="greek">ὁμῇ, ὁμοῦ, ὁμῶς;</lang> Lat.
+; Greek text case 1276: headword=samitA, page=1077-a (402057)
+402057 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat. <nsi>simila, similago.</nsi>]
+402057 new <div n="lb"/>[cf. Gr. <lang n="greek">σεμίδαλις;</lang> Lat. <nsi>simila, similago.</nsi>]
+; Greek text case 1277: headword=sara, page=1092-a (408838)
+408838 old <div n="lb"/>cf. according to some, Gr. <lang n="greek"></lang>
+408838 new <div n="lb"/>cf. according to some, Gr. <lang n="greek">ὀρό-ς, ὀῤῤός, οὐρό-ς;</lang>
+; Greek text case 1278: headword=saraRyu, page=1092-b (408923)
+408923 old <div n="lb"/>Gr. <lang n="greek"></lang>]
+408923 new <div n="lb"/>Gr. <lang n="greek">ἐριννύς.</lang>]
+; Greek text case 1279: headword=sarma, page=1093-b (409211)
+409211 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>]
+409211 new <div n="lb"/>[cf. Gr. <lang n="greek">ὁρμή.</lang>]
+; Greek text case 1280: headword=sarpa, page=1094-a (409575)
+409575 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>serpens.</nsi>] {%—Sarpa-ṛṣi, is,%} m.
+409575 new <div n="lb"/><lang n="greek">ἑρπ-ετό-ν;</lang> Lat. <nsi>serpens.</nsi>] {%—Sarpa-ṛṣi, is,%} m.
+; Greek text case 1281: headword=sarva, page=1094-c (409716)
+409716 old <div n="lb"/>{%udaka-nāmāni%} in Naigh. 1. 12); [cf. Gr. <lang n="greek"></lang>
+409716 new <div n="lb"/>{%udaka-nāmāni%} in Naigh. 1. 12); [cf. Gr. <lang n="greek">ὅλ-ο-ς,</lang>
+; Greek text case 1282: headword=sarva, page=1094-c (409717)
+409717 old <div n="lb"/><lang n="greek"></lang> Osk. <nsi>sol-lu-s</nsi> (for <nsi>sol-vu-s</nsi>),
+409717 new <div n="lb"/><lang n="greek">ὁλο-ό-ς, οὖλ-ο-ς:</lang> Osk. <nsi>sol-lu-s</nsi> (for <nsi>sol-vu-s</nsi>),
+; Greek text case 1283: headword=sarva, page=1094-c (409816)
+409816 old <div n="lb"/><lang n="greek"></lang> in some passages {%tāti%} is connected by Sāy.
+409816 new <div n="lb"/><lang n="greek">ὁλό-της;</lang> in some passages {%tāti%} is connected by Sāy.
+; Greek text case 1284: headword=sal, page=1097-a (410346)
+410346 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat. <nsi>salio;</nsi> Lith. <nsi>selu,</nsi>
+410346 new <div n="lb"/>[cf. Gr. <lang n="greek">ἅλλ-ο-μαι, ἅλμα;</lang> Lat. <nsi>salio;</nsi> Lith. <nsi>selu,</nsi>
+; Greek text case 1285: headword=salila, page=1097-a (410361)
+410361 old <div n="lb"/>of metre; [cf. Gr. <lang n="greek"></lang> Lat. <nsi>salum, sal,</nsi>
+410361 new <div n="lb"/>of metre; [cf. Gr. <lang n="greek">σάλος, ἅλς;</lang> Lat. <nsi>salum, sal,</nsi>
+; Greek text case 1286: headword=savya, page=1098-b (410860)
+410860 old <div n="lb"/>thet of Viṣṇu; [cf. Gr. <lang n="greek"></lang>
+410860 new <div n="lb"/>thet of Viṣṇu; [cf. Gr. <lang n="greek">σκαιό-ςμ σκαιό-τη-ς, σκαιο-σύνη</lang>
+; Greek text case 1287: headword=savya, page=1098-b (410861)
+410861 old <div n="lb"/><lang n="greek"></lang> (probably also <lang n="greek"></lang>); Lat. <nsi>scœvu-s, scœ-</nsi>
+410861 new <div n="lb"/><lang n="greek"></lang> (probably also <lang n="greek">σκαῦρο-ς</lang>); Lat. <nsi>scœvu-s, scœ-</nsi>
+; Greek text case 1288: headword=sasya, page=1099-b (411306)
+411306 old <div n="lb"/>[cf. perhaps Gr. <lang n="greek"></lang>] {%—Sasya-kreṇī,%} f. buying
+411306 new <div n="lb"/>[cf. perhaps Gr. <lang n="greek">εἴα, ἤϊον.</lang>] {%—Sasya-kreṇī,%} f. buying
+; Greek text case 1289: headword=sah, page=1099-b (411383)
+411383 old <div n="lb"/>{%sāsahyate, sāsoḍhi,%} to resist, defeat; [cf. Gr. <lang n="greek"></lang>
+411383 new <div n="lb"/>{%sāsahyate, sāsoḍhi,%} to resist, defeat; [cf. Gr. <lang n="greek">ἔχ-ω</lang>
+; Greek text case 1290: headword=sah, page=1099-b (411384)
+411384 old <div n="lb"/><lang n="greek"></lang>
+411384 new <div n="lb"/><lang n="greek">for ἕχ-ω (i.e. (σ)έχ-ω), ἕξω, ἑχείης, ἐξῆς, ἔχ-ο-μαι,</lang>
+; Greek text case 1291: headword=sah, page=1099-b (411385)
+411385 old <div n="lb"/><lang n="greek"></lang>
+411385 new <div n="lb"/><lang n="greek">ἔ-σχο-ν, σχή-σω, ἔ-σχη-κα, σχέ-σι-ς, σχή-μα,</lang>
+; Greek text case 1292: headword=sah, page=1099-b (411386)
+411386 old <div n="lb"/><lang n="greek"></lang> (probably for <lang n="greek"></lang>),
+411386 new <div n="lb"/><lang n="greek">σχο-λή, σχε-δόν, ἴσχ-ω</lang> (probably for <lang n="greek">σι-σεχ-ω</lang>),
+; Greek text case 1293: headword=sah, page=1099-b (411388)
+411388 old <div n="lb"/><lang n="greek"></lang> according to some
+411388 new <div n="lb"/><lang n="greek">ἰσχανάω, ἐχ-υρό-ς, ὀχ-υρό-ς;</lang> according to some
+; Greek text case 1294: headword=sahya, page=1099-c (411537)
+411537 old <div n="lb"/>assistance; [cf. according to some, Gr. <lang n="greek"></lang>
+411537 new <div n="lb"/>assistance; [cf. according to some, Gr. <lang n="greek">σάο-ς, σα-ώ-τερο-ς,</lang>
+; Greek text case 1295: headword=sahya, page=1099-c (411538)
+411538 old <div n="lb"/><lang n="greek"></lang> per-
+411538 new <div n="lb"/><lang n="greek">σῶο-ς, σῶς, σω-τήρ, σῶ-κο-ς, σώ-ζ-ω;</lang> per-
+; Greek text case 1296: headword=sAD, page=1104-c (413215)
+413215 old <div n="lb"/>{%sādhyate, sāsāddhi;%} [cf. Gr. <lang n="greek"></lang>
+413215 new <div n="lb"/>{%sādhyate, sāsāddhi;%} [cf. Gr. <lang n="greek">ἔθ-ος, ἦθ-ος, ἠθεῖο-ς,</lang>
+; Greek text case 1297: headword=sAD, page=1104-c (413216)
+413216 old <div n="lb"/><lang n="greek"></lang> Goth. <nsi>sid-u-s,</nsi> ‘a habit;’ <nsi>sidôn,</nsi>
+413216 new <div n="lb"/><lang n="greek">εἴ-ωθ-α, ἐθ-ίζ-ω:</lang> Goth. <nsi>sid-u-s,</nsi> ‘a habit;’ <nsi>sidôn,</nsi>
+; Greek text case 1298: headword=sAndra, page=1106-b (413815)
+413815 old <div n="lb"/><lang n="greek"></lang>] {%—Sāndra-kutūhala, as, ā, am,%} having in-
+413815 new <div n="lb"/><lang n="greek">ἁδρός.</lang>] {%—Sāndra-kutūhala, as, ā, am,%} having in-
+; Greek text case 1299: headword=sAmi, page=1108-b (414459)
+414459 old <div n="lb"/>{%a-sāmi%}); blamably; [cf. Gr. <lang n="greek"></lang> Lat.
+414459 new <div n="lb"/>{%a-sāmi%}); blamably; [cf. Gr. <lang n="greek">ἡμι-, ἥμι-συ-ς;</lang> Lat.
+; Greek text case 1300: headword=sArameya, page=1110-a (415045)
+415045 old <div n="lb"/>[cf. probably Gr. <lang n="greek"></lang>] {%—Sārameya-vākya,%}
+415045 new <div n="lb"/>[cf. probably Gr. <lang n="greek">Ἑρμείας.</lang>] {%—Sārameya-vākya,%}
+; Greek text case 1301: headword=si, page=1112-b (416042)
+416042 old <div n="lb"/>{%seṣeti;%} [cf. Zend <nsi>hi-ta,</nsi> ‘bound:’ Gr. <lang n="greek"></lang>
+416042 new <div n="lb"/>{%seṣeti;%} [cf. Zend <nsi>hi-ta,</nsi> ‘bound:’ Gr. <lang n="greek">σει-ρά,</lang>
+; Greek text case 1302: headword=si, page=1112-b (416044)
+416044 old <div n="lb"/><lang n="greek"></lang> Old Germ.
+416044 new <div n="lb"/><lang n="greek">ἱ-μά-ς, ἱ-μον-ιά, ἱμάσσ-ω, ἱμάσ-θλη:</lang> Old Germ.
+; Greek text case 1303: headword=sic, page=1113-b (416286)
+416286 old <div n="lb"/>Intens. {%sesicyate, sesekti;%} [cf. Gr. <lang n="greek"></lang>
+416286 new <div n="lb"/>Intens. {%sesicyate, sesekti;%} [cf. Gr. <lang n="greek">ἰκ-μά(δ)-ς,</lang>
+; Greek text case 1304: headword=sic, page=1113-b (416287)
+416287 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>stilla</nsi>
+416287 new <div n="lb"/><lang n="greek">ἰκμα-λέο-ς, ἰκμαίν-ω, ἰκμα-ῖο-ς, στίλη, σίκυς:</lang> Lat. <nsi>stilla</nsi>
+; Greek text case 1305: headword=siv, page=1116-b (417287)
+417287 old <div n="lb"/>{%yate;%} [cf. Gr. <lang n="greek"></lang>
+417287 new <div n="lb"/>{%yate;%} [cf. Gr. <lang n="greek">κασ-σύ-ω (κα-τύ-ω), κάσ-σῦ-μα</lang>
+; Greek text case 1306: headword=siv, page=1116-b (417288)
+417288 old <div n="lb"/><lang n="greek"></lang> Lat.
+417288 new <div n="lb"/><lang n="greek">(κάτ-τυ-μα), καττύ-ς, probably ὑμήν and Ὑμήν:</lang> Lat.
+; Greek text case 1307: headword=siv, page=1116-b (417290)
+417290 old <div n="lb"/><nsi>Con-sus, Con-sualia:</nsi> Goth. <nsi>siu-ja,</nsi> <lang n="greek"></lang>
+417290 new <div n="lb"/><nsi>Con-sus, Con-sualia:</nsi> Goth. <nsi>siu-ja,</nsi> <lang n="greek">ἐπιῤῤάπτω:</lang>
+; Greek text case 1308: headword=sItya, page=1117-a (417477)
+417477 old <div n="lb"/>[cf. probably Gr. <lang n="greek"></lang>]
+417477 new <div n="lb"/>[cf. probably Gr. <lang n="greek">σῖτος.</lang>]
+; Greek text case 1309: headword=su, page=1117-b (417732)
+417732 old <div n="lb"/>{%yate;%} [cf. Gr. <lang n="greek"></lang> Umbr. <nsi>savitu.</nsi>]
+417732 new <div n="lb"/>{%yate;%} [cf. Gr. <lang n="greek">ὕ-ω, ὑ-ε-τό-ς;</lang> Umbr. <nsi>savitu.</nsi>]
+; Greek text case 1310: headword=su, page=1117-c (417889)
+417889 old <div n="lb"/><nsi>hunu,</nsi> ‘a son;’ Gr. <lang n="greek"></lang> = Lat. <nsi>uterus;</nsi> Goth.
+417889 new <div n="lb"/><nsi>hunu,</nsi> ‘a son;’ Gr. <lang n="greek">υἱός, ὑατέρα</lang> = Lat. <nsi>uterus;</nsi> Goth.
+; Greek text case 1311: headword=sUnu, page=1118-b (418014)
+418014 old <div n="lb"/><nsi>hunu;</nsi> Gr. <lang n="greek"></lang> Goth. <nsi>sunus,</nsi> ‘a son;’ Angl. Sax.
+418014 new <div n="lb"/><nsi>hunu;</nsi> Gr. <lang n="greek">υἱός;</lang> Goth. <nsi>sunus,</nsi> ‘a son;’ Angl. Sax.
+; Greek text case 1312: headword=su, page=1118-b (418031)
+418031 old <div n="lb"/>{%dus,%} q. v., and corresponding to Gr. <lang n="greek"></lang> in the Veda
+418031 new <div n="lb"/>{%dus,%} q. v., and corresponding to Gr. <lang n="greek">εὖ;</lang> in the Veda
+; Greek text case 1313: headword=su, page=1118-b (418044)
+418044 old <div n="lb"/>perity;’ {%kṛcchra,%} ‘distress;’ [cf. Gr. <lang n="greek"></lang> Cambro-
+418044 new <div n="lb"/>perity;’ {%kṛcchra,%} ‘distress;’ [cf. Gr. <lang n="greek">εὖ:</lang> Cambro-
+; Greek text case 1314: headword=su, page=1118-b (419729)
+419729 old <div n="lb"/>{%i,%} having beautiful hips, <lang n="greek"></lang> ({%is%}), f., N.
+419729 new <div n="lb"/>{%i,%} having beautiful hips, <lang n="greek">καλλίπυγος;</lang> ({%is%}), f., N.
+; Greek text case 1315: headword=sunaPA, page=1128-a (420491)
+420491 old {#sunaPA#}¦ {%sunaphā,%} f. (= Gr. <lang n="greek"></lang> cf.
+420491 new {#sunaPA#}¦ {%sunaphā,%} f. (= Gr. <lang n="greek">συναφή;</lang> cf.
+; Greek text case 1316: headword=suruNga, page=1129-c (420999)
+420999 old <div n="lb"/>peranthera Morunga; ({%ā%}), f. (probably from Gr. <lang n="greek"></lang>
+420999 new <div n="lb"/>peranthera Morunga; ({%ā%}), f. (probably from Gr. <lang n="greek">σύπιγξ</lang>
+; Greek text case 1317: headword=suruNga, page=1129-c (421000)
+;  comment out: second half of hyphenated words.
+421000 old <div n="lb"/><lang n="greek"></lang>), a hole made underground for military pur-
+421000 new <div n="lb"/>), a hole made underground for military pur-
+; Greek text case 1318: headword=sUkara, page=1130-b (421277)
+421277 old <div n="lb"/>tum; [cf. Gr. <lang n="greek"></lang> Lat. <nsi>sus;</nsi> Angl. Sax. <nsi>suga;</nsi>
+421277 new <div n="lb"/>tum; [cf. Gr. <lang n="greek">σῦς, ὖς;</lang> Lat. <nsi>sus;</nsi> Angl. Sax. <nsi>suga;</nsi>
+; Greek text case 1319: headword=sUd, page=1132-a (421760)
+421760 old <div n="lb"/>{%sūtti;%} [cf. Gr. <lang n="greek"></lang> Lett.
+421760 new <div n="lb"/>{%sūtti;%} [cf. Gr. <lang n="greek">συδ in παν-συδίῃ, πασ-συδί;</lang> Lett.
+; Greek text case 1320: headword=sUrya, page=1132-c (422055)
+422055 old <div n="lb"/>bitter gourd; [cf. Gr. <lang n="greek"></lang> Lat. <nsi>sol;</nsi> Goth.
+422055 new <div n="lb"/>bitter gourd; [cf. Gr. <lang n="greek">ἥλιος;</lang> Lat. <nsi>sol;</nsi> Goth.
+; Greek text case 1321: headword=sf, page=1133-c (422315)
+422315 old <div n="lb"/><lang n="greek"></lang>
+422315 new <div n="lb"/><lang n="greek">ὁρ-μή, ὁρμά-ω, ἀφ-ορμή, ὁρμη-τήριο-ν, σάλος,</lang>
+; Greek text case 1322: headword=sf, page=1133-c (422316)
+422316 old <div n="lb"/><lang n="greek"></lang> (according to some also) <lang n="greek"></lang>
+422316 new <div n="lb"/><lang n="greek">σάλα, σαλεύω,</lang> (according to some also) <lang n="greek">ἅρμα, ἁρμός,</lang>
+; Greek text case 1323: headword=sf, page=1133-c (422317)
+422317 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>salio, salto</nsi> (probably also <nsi>serere</nsi>);
+422317 new <div n="lb"/><lang n="greek">ὅρμος, ἕρμα;</lang> Lat. <nsi>salio, salto</nsi> (probably also <nsi>serere</nsi>);
+; Greek text case 1324: headword=sfp, page=1134-b (422623)
+422623 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+422623 new <div n="lb"/>[cf. Gr. <lang n="greek">ἕρπ-ω, ἑρπ-ύζ-ω, ἑρπ-ετό-ν, ἕρπ-η(τ)-ς,</lang>
+; Greek text case 1325: headword=sfp, page=1134-b (422624)
+422624 old <div n="lb"/><lang n="greek"></lang> (according to some also) <lang n="greek"></lang> &c.: Lat.
+422624 new <div n="lb"/><lang n="greek">Σαρπηδών,</lang> (according to some also) <lang n="greek">ῥέπ-ω,</lang> &c.: Lat.
+; Greek text case 1326: headword=sev, page=1135-a (422952)
+422952 old <div n="lb"/>{%seṣevyate;%} [cf. Gr. <lang n="greek"></lang> perhaps Goth. <nsi>sai-</nsi>
+422952 new <div n="lb"/>{%seṣevyate;%} [cf. Gr. <lang n="greek">σέβομαι;</lang> perhaps Goth. <nsi>sai-</nsi>
+; Greek text case 1327: headword=skand, page=1140-c (425040)
+425040 old <div n="lb"/>Gr. <lang n="greek"></lang> per-
+425040 new <div n="lb"/>Gr. <lang n="greek">σκάνδ-αλο-ν, σκανδάλη-θρο-ν, σχαστήρ,</lang> per-
+; Greek text case 1328: headword=skand, page=1140-c (425041)
+425041 old <div n="lb"/>haps <lang n="greek"></lang> Lat. <nsi>scand-o, de-scend-o,</nsi> (ac-
+425041 new <div n="lb"/>haps <lang n="greek">σκαίρω, σκάζω;</lang> Lat. <nsi>scand-o, de-scend-o,</nsi> (ac-
+; Greek text case 1329: headword=skanDa, page=1141-a (425147)
+425147 old <div n="lb"/>perhaps Gr. <lang n="greek"></lang> Lat. <nsi>scapula:</nsi> Angl. Sax. <nsi>scul-</nsi>
+425147 new <div n="lb"/>perhaps Gr. <lang n="greek">σπάθη:</lang> Lat. <nsi>scapula:</nsi> Angl. Sax. <nsi>scul-</nsi>
+; Greek text case 1330: headword=skamB, page=1141-b (425224)
+425224 old <div n="lb"/>establish, support; [cf. according to some, Gr. <lang n="greek"></lang>
+425224 new <div n="lb"/>establish, support; [cf. according to some, Gr. <lang n="greek">σκῆπτρον,</lang>
+; Greek text case 1331: headword=skamB, page=1141-b (425225)
+425225 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>scabellum, scam-</nsi>
+425225 new <div n="lb"/><lang n="greek">σκήπτω, σκίμπτω;</lang> Lat. <nsi>scabellum, scam-</nsi>
+; Greek text case 1332: headword=sku, page=1141-b (425294)
+425294 old <div n="lb"/>(Ved. {%coṣkūyate%}), {%coskoti;%} [cf. Gr. <lang n="greek"></lang>
+425294 new <div n="lb"/>(Ved. {%coṣkūyate%}), {%coskoti;%} [cf. Gr. <lang n="greek">σκευ-ή, σκεῦ-ος,</lang>
+; Greek text case 1333: headword=sku, page=1141-b (425295)
+425295 old <div n="lb"/><lang n="greek"></lang>
+425295 new <div n="lb"/><lang n="greek">σκευά-ζ-ω, σκῦ-το-ς, κύ-τ-ος, ἐπι-σκύ-νιο-ν:</lang>
+; Greek text case 1334: headword=stan, page=1141-c (425416)
+425416 old <div n="lb"/>Intens, {%taṃstanyate, taṃstanti;%} [cf. Gr. <lang n="greek"></lang>
+425416 new <div n="lb"/>Intens, {%taṃstanyate, taṃstanti;%} [cf. Gr. <lang n="greek">στέν-ω,</lang>
+; Greek text case 1335: headword=stan, page=1141-c (425417)
+425417 old <div n="lb"/><lang n="greek"></lang>
+425417 new <div n="lb"/><lang n="greek">στενάχ-ω, στόνο-ς, στένο-μαι, στείνομαι, στενό-ς,</lang>
+; Greek text case 1336: headword=stan, page=1141-c (425418)
+425418 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>tono, tonitru:</nsi>
+425418 new <div n="lb"/><lang n="greek">στεινό-ς, στεῖνος, Στέν-τωρ:</lang> Lat. <nsi>tono, tonitru:</nsi>
+; Greek text case 1337: headword=stamB, page=1142-b (425575)
+425575 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+425575 new <div n="lb"/>[cf. Gr. <lang n="greek">στέμφ-υλο-ν, ἀ-στεμφ-ής, στέμβ-ω,</lang>
+; Greek text case 1338: headword=stamB, page=1142-b (425576)
+425576 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>stupeo,</nsi>
+425576 new <div n="lb"/><lang n="greek">στεμβ-άζω, στοβέ-ω, στοβάζ-ω, στείβ-ω;</lang> Lat. <nsi>stupeo,</nsi>
+; Greek text case 1339: headword=stiG, page=1142-c (425755)
+425755 old <div n="lb"/>Intens. {%teṣṭighyate, teṣṭegdhi;%} [cf. Gr. <lang n="greek"></lang>
+425755 new <div n="lb"/>Intens. {%teṣṭighyate, teṣṭegdhi;%} [cf. Gr. <lang n="greek">στείχ-ω,</lang>
+; Greek text case 1340: headword=stiG, page=1142-c (425756)
+425756 old <div n="lb"/><lang n="greek"></lang> Goth.
+425756 new <div n="lb"/><lang n="greek">ἔ-στιχ-ον, στίχο-ς, στοῖχο-ς, στιχάο-μαι:</lang> Goth.
+; Greek text case 1341: headword=stu, page=1143-a (425833)
+425833 old <div n="lb"/>{%toṣṭūyate, toṣṭoti;%} [cf. perhaps Gr. <lang n="greek"></lang>
+425833 new <div n="lb"/>{%toṣṭūyate, toṣṭoti;%} [cf. perhaps Gr. <lang n="greek">στό-μα,</lang>
+; Greek text case 1342: headword=stu, page=1143-a (425834)
+425834 old <div n="lb"/>Æol. <lang n="greek"></lang> Goth. <nsi>staua,</nsi> ‘a judge;’ <nsi>stauja,</nsi>
+425834 new <div n="lb"/>Æol. <lang n="greek">στύ-μα:</lang> Goth. <nsi>staua,</nsi> ‘a judge;’ <nsi>stauja,</nsi>
+; Greek text case 1343: headword=stumB, page=1143-c (426125)
+426125 old <div n="lb"/>expel; [cf. Gr. <lang n="greek"></lang>
+426125 new <div n="lb"/>expel; [cf. Gr. <lang n="greek">στύφ-ω, στυφελός, στυμνός,</lang>
+; Greek text case 1344: headword=stumB, page=1143-c (426126)
+426126 old <div n="lb"/><lang n="greek"></lang> probably also <lang n="greek"></lang>
+426126 new <div n="lb"/><lang n="greek">στυφεδανός, τυφεδανός,</lang> probably also <lang n="greek">τυφός,</lang>
+; Greek text case 1345: headword=stumB, page=1143-c (426127)
+426127 old <div n="lb"/><lang n="greek"></lang> perhaps Old Germ. <nsi>stumph, stumbal;</nsi> Angl.
+426127 new <div n="lb"/><lang n="greek">τυφώδης;</lang> perhaps Old Germ. <nsi>stumph, stumbal;</nsi> Angl.
+; Greek text case 1346: headword=stf, page=1143-c (426178)
+426178 old <div n="lb"/><nsi>śtar, śtair-is:</nsi> Gr. <lang n="greek"></lang>
+426178 new <div n="lb"/><nsi>śtar, śtair-is:</nsi> Gr. <lang n="greek">στόρ-νυ-μι, στορέννυ-μι,</lang>
+; Greek text case 1347: headword=stf, page=1143-c (426179)
+426179 old <div n="lb"/><lang n="greek"></lang> Lat.
+426179 new <div n="lb"/><lang n="greek">στρώννυ-μι, στρῶ-μα, στρω-μνή, στρα-τό-ς:</lang> Lat.
+; Greek text case 1348: headword=starI, page=1144-a (426216)
+426216 old <div n="lb"/>probably connected with {%sthira,%} q. v.); [cf. Gr. <lang n="greek"></lang>
+426216 new <div n="lb"/>probably connected with {%sthira,%} q. v.); [cf. Gr. <lang n="greek">στεῖρα</lang>
+; Greek text case 1349: headword=starI, page=1144-a (426217)
+426217 old <div n="lb"/>(for <lang n="greek"></lang>); Lat. <nsi>sterilis;</nsi> Goth. <nsi>stairo.</nsi>]
+426217 new <div n="lb"/>(for <lang n="greek">στερια</lang>); Lat. <nsi>sterilis;</nsi> Goth. <nsi>stairo.</nsi>]
+; Greek text case 1350: headword=stIrRa, page=1144-a (426226)
+426226 old <div n="lb"/>pared; [cf. Gr. <lang n="greek"></lang>] {%—Stīrṇa-barhis, is, is,%}
+426226 new <div n="lb"/>pared; [cf. Gr. <lang n="greek">στέρ-νο-ν.</lang>] {%—Stīrṇa-barhis, is, is,%}
+; Greek text case 1351: headword=stf, page=1144-a (426236)
+426236 old <div n="lb"/><lang n="greek"></lang> Æol. <lang n="greek"></lang> Lat. <nsi>stella;</nsi> Goth.
+426236 new <div n="lb"/><lang n="greek">ἀστήρ, τεῖρος,</lang> Æol. <lang n="greek">τέῤῤος;</lang> Lat. <nsi>stella;</nsi> Goth.
+; Greek text case 1352: headword=sten, page=1144-a (426288)
+426288 old <div n="lb"/><lang n="greek"></lang> Goth. <nsi>stil-an,</nsi> ‘to steal;’ Angl. Sax. <nsi>stelan,</nsi>
+426288 new <div n="lb"/><lang n="greek">στερέω;</lang> Goth. <nsi>stil-an,</nsi> ‘to steal;’ Angl. Sax. <nsi>stelan,</nsi>
+; Greek text case 1353: headword=styE, page=1144-b (426409)
+426409 old <div n="lb"/>ing to some, probably Gr. <lang n="greek"></lang> Lat. <nsi>stipare.</nsi>]
+426409 new <div n="lb"/>ing to some, probably Gr. <lang n="greek">στενός;</lang> Lat. <nsi>stipare.</nsi>]
+; Greek text case 1354: headword=sTag, page=1145-a (426640)
+426640 old <div n="lb"/>invisible; [cf. Gr. <lang n="greek"></lang>
+426640 new <div n="lb"/>invisible; [cf. Gr. <lang n="greek">στέγ-ω, στέγ-η, τέγη, στέγος,</lang>
+; Greek text case 1355: headword=sTag, page=1145-a (426641)
+426641 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>teg-o, tec-tu-m,</nsi>
+426641 new <div n="lb"/><lang n="greek">τέγος, στεγ-ανό-ς, στεγ-νό-ς:</lang> Lat. <nsi>teg-o, tec-tu-m,</nsi>
+; Greek text case 1356: headword=sTal, page=1145-b (426722)
+426722 old <div n="lb"/>{%sthalyate, tāsthalti;%} [cf. Gr. <lang n="greek"></lang>
+426722 new <div n="lb"/>{%sthalyate, tāsthalti;%} [cf. Gr. <lang n="greek">στέλλ-ω, ἔσταλκα,</lang>
+; Greek text case 1357: headword=sTal, page=1145-b (426723)
+426723 old <div n="lb"/><lang n="greek"></lang>] Lat. <nsi>prœ-</nsi>
+426723 new <div n="lb"/><lang n="greek">ἐ-στάλη-ν, στόλο-ς, στάλ-ιξ, στελεό-ν;</lang>] Lat. <nsi>prœ-</nsi>
+; Greek text case 1358: headword=sTA, page=1145-c (426856)
+426856 old <div n="lb"/>{%ti-ṣṭhā-mi:%} Gr. <lang n="greek"></lang>
+426856 new <div n="lb"/>{%ti-ṣṭhā-mi:%} Gr. <lang n="greek">ἵ-στη-μι, ἔ-στη-ν, στά-σι-ς, στα-μίν,</lang>
+; Greek text case 1359: headword=sTA, page=1145-c (426857)
+426857 old <div n="lb"/><lang n="greek"></lang>
+426857 new <div n="lb"/><lang n="greek">στά-μνο-ς, ἰ-στό-ς, στή-μην, στή-λη, στα-τήρ,</lang>
+; Greek text case 1360: headword=sTA, page=1145-c (426858)
+426858 old <div n="lb"/><lang n="greek"></lang> (with
+426858 new <div n="lb"/><lang n="greek">στα-θ-ερό-ς, στα-θ-μό-ς, στῆ-θ-ο-ς, στε-νό-ς;</lang> (with
+; Greek text case 1361: headword=sTA, page=1145-c (426860)
+426860 old <div n="lb"/><lang n="greek"></lang> (for <lang n="greek"></lang>) <lang n="greek"></lang>
+426860 new <div n="lb"/><lang n="greek">στέφ-ω</lang> (for <lang n="greek">στεπ-ω</lang>), <lang n="greek">στέμ-μα, στέφ-ος, στέφ-ανο-ς,</lang>
+; Greek text case 1362: headword=sTA, page=1145-c (426861)
+426861 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>st-o, si-st-o, stă-ti-m,</nsi>
+426861 new <div n="lb"/><lang n="greek">στεφ-άνη, τόπ-ο-ς:</lang> Lat. <nsi>st-o, si-st-o, stă-ti-m,</nsi>
+; Greek text case 1363: headword=sTAna, page=1146-a (427006)
+427006 old <div n="lb"/>as; [cf. <lang n="greek"></lang> (i. e. <lang n="greek"></lang>), <lang n="greek"></lang>
+427006 new <div n="lb"/>as; [cf. <lang n="greek">δύστηνος</lang> (i. e. <lang n="greek">δυσ-στηνος</lang>), <lang n="greek">ἄ-στηνος,</lang>
+; Greek text case 1364: headword=sTAna, page=1146-a (427007)
+427007 old <div n="lb"/><lang n="greek"></lang>] {%—Sthāna-cañcalā,%} f.
+427007 new <div n="lb"/><lang n="greek">ἀστήν, ἀσταίνω, δυσταίνω.</lang>] {%—Sthāna-cañcalā,%} f.
+; Greek text case 1365: headword=sTira, page=1147-b (427369)
+427369 old <div n="lb"/><lang n="greek"></lang>
+427369 new <div n="lb"/><lang n="greek">στερεό-ς, στεῤῤό-ς, στέρι-φο-ς, στερίφη, στεῖρα,</lang>
+; Greek text case 1366: headword=sTira, page=1147-b (427370)
+427370 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>steri-li-s, stīr-</nsi>
+427370 new <div n="lb"/><lang n="greek">στήρ-ιγξ, στηρίζ-ω, στελεόν:</lang> Lat. <nsi>steri-li-s, stīr-</nsi>
+; Greek text case 1367: headword=sTUrin, page=1147-c (427490)
+427490 old <div n="lb"/><nsi>staora,</nsi> ‘a beast of burden:’ Gr. <lang n="greek"></lang> Lat.
+427490 new <div n="lb"/><nsi>staora,</nsi> ‘a beast of burden:’ Gr. <lang n="greek">ταῦρο-ς:</lang> Lat.
+; Greek text case 1368: headword=snA, page=1148-c (427866)
+427866 old <div n="lb"/>Gr. <lang n="greek"></lang>
+427866 new <div n="lb"/>Gr. <lang n="greek">νά-ω, νᾶ-μα, να-ρό-ς, νη-ρό-ς, νῆ-αο-ς, νίπτω,</lang>
+; Greek text case 1369: headword=snA, page=1148-c (427867)
+427867 old <div n="lb"/><lang n="greek"></lang> for <lang n="greek"></lang> Lat. <nsi>nâ-re, nâ-s</nsi> (= Sans. {%snāsi%}),
+427867 new <div n="lb"/><lang n="greek">νή-χ-ω</lang> for <lang n="greek">ανή-χ-ω;</lang> Lat. <nsi>nâ-re, nâ-s</nsi> (= Sans. {%snāsi%}),
+; Greek text case 1370: headword=snAyu, page=1149-b (428015)
+428015 old <div n="lb"/>bow; [cf. probably Gr. <lang n="greek"></lang> Lat. <nsi>ner-</nsi>
+428015 new <div n="lb"/>bow; [cf. probably Gr. <lang n="greek">νεῦρο-ν, νευρ-ά;</lang> Lat. <nsi>ner-</nsi>
+; Greek text case 1371: headword=snu, page=1149-c (428247)
+428247 old <div n="lb"/><lang n="greek"></lang>
+428247 new <div n="lb"/><lang n="greek">νέ-ω (for σνεϝ-ω), νεύ-σω (for σνεύ-σω), νεῦ-σι-ς,</lang>
+; Greek text case 1372: headword=snu, page=1149-c (428248)
+428248 old <div n="lb"/><lang n="greek"></lang>
+428248 new <div n="lb"/><lang n="greek">νευ-σ-τήρ, νά-ω (for σναϝ-ω), ἀένα-ο-ς, νᾶ-μα,</lang>
+; Greek text case 1373: headword=snu, page=1149-c (428249)
+428249 old <div n="lb"/><lang n="greek"></lang> (probably also
+428249 new <div n="lb"/><lang n="greek">νᾱ-ρό-ς, νη-ρό-ς, Νη-ρ-εύ-ς, Νη-ιά-(δ)-ς;</lang> (probably also
+; Greek text case 1374: headword=snu, page=1149-c (428250)
+428250 old <div n="lb"/><lang n="greek"></lang> &c., see under 3. {%nau,%} p. 518):
+428250 new <div n="lb"/><lang n="greek">ναῦ-ς, ναύ-τη-ς,</lang> &c., see under 3. {%nau,%} p. 518):
+; Greek text case 1375: headword=snuzA, page=1150-a (428312)
+428312 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat. <nsi>nuru-s</nsi> (for <nsi>snusu-s</nsi>); Old
+428312 new <div n="lb"/>[cf. Gr. <lang n="greek">νυό-ς;</lang> Lat. <nsi>nuru-s</nsi> (for <nsi>snusu-s</nsi>); Old
+; Greek text case 1376: headword=spaS, page=1150-b (428497)
+428497 old <div n="lb"/>{%spaṣṭi;%} [cf. Zend <nsi>śpaś;</nsi> Gr. <lang n="greek"></lang>
+428497 new <div n="lb"/>{%spaṣṭi;%} [cf. Zend <nsi>śpaś;</nsi> Gr. <lang n="greek">σκέπ-τ-ο-μαι, σκοπ-ή,</lang>
+; Greek text case 1377: headword=spaS, page=1150-b (428498)
+428498 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>spec-i-o,</nsi>
+428498 new <div n="lb"/><lang n="greek">σκοπιά, σκοπ-ό-ς, ἐπι-σκοπος, σκώψ;</lang> Lat. <nsi>spec-i-o,</nsi>
+; Greek text case 1378: headword=spfh, page=1151-b (428847)
+428847 old <div n="lb"/>be desired, &c.; [cf. perhaps Gr. <lang n="greek"></lang> Lat.
+428847 new <div n="lb"/>be desired, &c.; [cf. perhaps Gr. <lang n="greek">σκέρχομαι;</lang> Lat.
+; Greek text case 1379: headword=sPal, page=1151-c (429045)
+429045 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang>
+429045 new <div n="lb"/>[cf. Gr. <lang n="greek">σφάλλ-ω, σφάλ-μα, ἀ-σφαλ-ής, σφαλ-ερός;</lang>
+; Greek text case 1380: headword=sPAy, page=1152-a (429076)
+429076 old <div n="lb"/>augment, increase; [cf. Gr. <lang n="greek"></lang>
+429076 new <div n="lb"/>augment, increase; [cf. Gr. <lang n="greek">σπά-ω, σπά-σ-μα, σπα-σ-μό-ς,</lang>
+; Greek text case 1381: headword=sPAy, page=1152-a (429077)
+429077 old <div n="lb"/><lang n="greek"></lang> (i. e. <lang n="greek"></lang>);
+429077 new <div n="lb"/><lang n="greek">ἀ-σπάζομαι, ἀγαπάω</lang> (i. e. <lang n="greek">ἀγαν-σπαω</lang>);
+; Greek text case 1382: headword=sPAra, page=1152-a (429098)
+429098 old <div n="lb"/>ance [cf. Gr. <lang n="greek"></lang>] ({%as, ā, am%}), large, increased,
+429098 new <div n="lb"/>ance [cf. Gr. <lang n="greek">σφαῖρα</lang>] ({%as, ā, am%}), large, increased,
+; Greek text case 1383: headword=sPur, page=1152-c (429378)
+429378 old <div n="lb"/>Gr. <lang n="greek"></lang> (probably also) <lang n="greek"></lang>
+429378 new <div n="lb"/>Gr. <lang n="greek">σπαίρ-ω, ἀ-σπαίρ-ω,</lang> (probably also) <lang n="greek">σπείρω,</lang>
+; Greek text case 1384: headword=sPur, page=1152-c (429379)
+429379 old <div n="lb"/><lang n="greek"></lang> (probably) Lat. <nsi>sperno;</nsi>
+429379 new <div n="lb"/><lang n="greek">σπέρμα, σποράς, σφυρόν;</lang> (probably) Lat. <nsi>sperno;</nsi>
+; Greek text case 1385: headword=smat, page=1153-b (429601)
+429601 old <div n="lb"/>with (= 2. {%saha;%} cf. Gr. <lang n="greek"></lang> Mod. Germ. <nsi>mit</nsi>);
+429601 new <div n="lb"/>with (= 2. {%saha;%} cf. Gr. <lang n="greek">μετά;</lang> Mod. Germ. <nsi>mit</nsi>);
+; Greek text case 1386: headword=smi, page=1153-b (429642)
+429642 old <div n="lb"/>{%meti;%} [cf. Gr. <lang n="greek"></lang>
+429642 new <div n="lb"/>{%meti;%} [cf. Gr. <lang n="greek">μεῖ-δ-ος, μεί-δ-η-μα, μει-δ-ά-ω,</lang>
+; Greek text case 1387: headword=smi, page=1153-b (429643)
+429643 old <div n="lb"/><lang n="greek"></lang> (perhaps also) <lang n="greek"></lang>
+429643 new <div n="lb"/><lang n="greek">μει-διάω,</lang> (perhaps also) <lang n="greek">σμοιός. μέμφομαι, μῶμος:</lang>
+; Greek text case 1388: headword=smf, page=1153-c (429757)
+429757 old <div n="lb"/>{%sāsmaryate, sāsmarti;%} [cf. Gr. <lang n="greek"></lang>
+429757 new <div n="lb"/>{%sāsmaryate, sāsmarti;%} [cf. Gr. <lang n="greek">μέρ-μηρ-α, μέρ-ι-μνα,</lang>
+; Greek text case 1389: headword=smf, page=1153-c (429758)
+429758 old <div n="lb"/><lang n="greek"></lang>
+429758 new <div n="lb"/><lang n="greek">μερ-μαίζω, μερμηρ-ίζω, μέρ-μερ-ος, μάρ-τυρ,</lang>
+; Greek text case 1390: headword=smf, page=1153-c (429759)
+429759 old <div n="lb"/><lang n="greek"></lang>
+429759 new <div n="lb"/><lang n="greek">μάρ-τυρ-ο-ς, μάρ-τυ-ς, μαρ-τύρ-ιον, μαρτύρ-ο-μαι,</lang>
+; Greek text case 1391: headword=smf, page=1153-c (429760)
+429760 old <div n="lb"/>(perhaps also) <lang n="greek"></lang> &c.:
+429760 new <div n="lb"/>(perhaps also) <lang n="greek">μέλειν, μέλ-ε-σθαι, μελ-έ-τη,</lang> &c.:
+; Greek text case 1392: headword=syAla, page=1155-a (430244)
+430244 old <div n="lb"/>sister, (also written {%śyāla%}); [cf. Gr. <lang n="greek"></lang>]
+430244 new <div n="lb"/>sister, (also written {%śyāla%}); [cf. Gr. <lang n="greek">ἀέλιοι.</lang>]
+; Greek text case 1393: headword=sru, page=1155-c (430579)
+430579 old <div n="lb"/>{%sosroti;%} [cf. Gr. <lang n="greek"></lang>
+430579 new <div n="lb"/>{%sosroti;%} [cf. Gr. <lang n="greek">ῥέ-ω (for σρεϝω), ῥεύ-σω, ἐ-ῤῤύη-ν,</lang>
+; Greek text case 1394: headword=sru, page=1155-c (430580)
+430580 old <div n="lb"/><lang n="greek"></lang>
+430580 new <div n="lb"/><lang n="greek">ῥέ-ος, ῥό-ο-ς, ῥεῦ-μα, ῥο-ή, ῥύ-σι-ς, ῥεῦ-σι-ς, ῥυ-τό-ς,</lang>
+; Greek text case 1395: headword=sru, page=1155-c (430581)
+430581 old <div n="lb"/><lang n="greek"></lang>
+430581 new <div n="lb"/><lang n="greek">ῥευσ-τό-ς, ῥέ-ε-θρο-ν, ῥύ-αξ, ῥύ-μη,</lang>
+; Greek text case 1396: headword=sru, page=1155-c (430583)
+430583 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>riv-u-s, Rumo, rumen, Ru-</nsi>
+430583 new <div n="lb"/><lang n="greek">ῥυ-θ-μό-ς, Στρύμων:</lang> Lat. <nsi>riv-u-s, Rumo, rumen, Ru-</nsi>
+; Greek text case 1397: headword=sva, page=1156-b (430794)
+430794 old <div n="lb"/>affirmative quantity; [cf. Zend <nsi>hva, qa:</nsi> Gr. <lang n="greek"></lang>
+430794 new <div n="lb"/>affirmative quantity; [cf. Zend <nsi>hva, qa:</nsi> Gr. <lang n="greek">ἑ, ϝε</lang>
+; Greek text case 1398: headword=sva, page=1156-b (430795)
+430795 old <div n="lb"/>(for <lang n="greek"></lang>), <lang n="greek"></lang>
+430795 new <div n="lb"/>(for <lang n="greek">αϝε</lang>), <lang n="greek">σφέ (οὖ, οἴ, ἕ), ἑ-ό-ς, ὅ-ς, σφ-ό-ς, ἴ-διο-ς:</lang>
+; Greek text case 1399: headword=svIya, page=1158-c (431444)
+431444 old <div n="lb"/>husband; [cf. Gr. <lang n="greek"></lang>] {%—Svīyākṣara%}
+431444 new <div n="lb"/>husband; [cf. Gr. <lang n="greek">ἑός, αφέος, σφός.</lang>] {%—Svīyākṣara%}
+; Greek text case 1400: headword=svad, page=1159-a (431559)
+431559 old <div n="lb"/>Gr. <lang n="greek"></lang>
+431559 new <div n="lb"/>Gr. <lang n="greek">ἁνο-άν-ω (ἕ-αδ-ο-ν, ἕ-ᾱδ-α), ἥδ-ο-μαι, ἧδ-ος,</lang>
+; Greek text case 1401: headword=svad, page=1159-a (431560)
+431560 old <div n="lb"/><lang n="greek"></lang> Lat.
+431560 new <div n="lb"/><lang n="greek">ἡδ-ονή, ἡδ-ύ-ς, ἥδυ-μο-σ, ἄσ-μενο-ς, ἑδ-ανό-ς;</lang> Lat.
+; Greek text case 1402: headword=svAdu, page=1159-a (431628)
+431628 old <div n="lb"/>{%vī%}), f. {%= drākṣā,%} a grape; [cf. Gr. <lang n="greek"></lang> Lat.
+431628 new <div n="lb"/>{%vī%}), f. {%= drākṣā,%} a grape; [cf. Gr. <lang n="greek">ἡδύς;</lang> Lat.
+; Greek text case 1403: headword=svaDA, page=1159-b (431716)
+431716 old <div n="lb"/>[cf. according to some Gr. <lang n="greek"></lang>
+431716 new <div n="lb"/>[cf. according to some Gr. <lang n="greek">ἔθ-ος, ἦθ-ος, ἠθεῖο-ς, εἴ-ωθ-α,</lang>
+; Greek text case 1404: headword=svaDA, page=1159-b (431717)
+431717 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>suetus;</nsi> Goth. <nsi>sidus;</nsi> Angl.
+431717 new <div n="lb"/><lang n="greek">ἐθ-ίζ-ω;</lang> Lat. <nsi>suetus;</nsi> Goth. <nsi>sidus;</nsi> Angl.
+; Greek text case 1405: headword=svap, page=1159-c (431843)
+431843 old <div n="lb"/>Zend <nsi>qap, qaf-na,</nsi> ‘sleep:’ Gr. <lang n="greek"></lang> (for <lang n="greek"></lang>
+431843 new <div n="lb"/>Zend <nsi>qap, qaf-na,</nsi> ‘sleep:’ Gr. <lang n="greek">ὕπ-νο-ς</lang> (for <lang n="greek">συπ-νο-ς</lang>
+; Greek text case 1406: headword=svap, page=1159-c (431844)
+; second half of a hyphenated word from the previous line.
+431844 old <div n="lb"/><lang n="greek"></lang>): Lat. <nsi>som-nu-s</nsi> (for <nsi>sop-nus</nsi>), <nsi>sop-or, sop-</nsi>
+431844 new <div n="lb"/>): Lat. <nsi>som-nu-s</nsi> (for <nsi>sop-nus</nsi>), <nsi>sop-or, sop-</nsi>
+; Greek text case 1407: headword=svar, page=1160-b (432018)
+432018 old <div n="lb"/><nsi>qarenanh,</nsi> ‘splendor:’ Gr. <lang n="greek"></lang>
+432018 new <div n="lb"/><nsi>qarenanh,</nsi> ‘splendor:’ Gr. <lang n="greek">Σείρ-ιο-ς, Σείρ, σειρ-ιά-ω,</lang>
+; Greek text case 1408: headword=svar, page=1160-b (432019)
+432019 old <div n="lb"/><lang n="greek"></lang>
+432019 new <div n="lb"/><lang n="greek">σειρ-ία-σι-ς, σείρ-ινο-ς, σέλ-ας, σελ-ήνη:</lang>
+; Greek text case 1409: headword=svid, page=1162-b (432692)
+432692 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>sud-</nsi>
+432692 new <div n="lb"/><lang n="greek">ἱδ-ί-ω, ἷδος, ἱδ-ρό-ς, ἱδ-ρώ(τ)-ς, σίδηρος;</lang> Lat. <nsi>sud-</nsi>
+; Greek text case 1410: headword=svf, page=1162-b (432785)
+432785 old <div n="lb"/>Zend <nsi>gar;</nsi> Gr. <lang n="greek"></lang>
+432785 new <div n="lb"/>Zend <nsi>gar;</nsi> Gr. <lang n="greek">σῦρ-ιγξ, σῡρίζ-ω, σῡριγ-μό-ς, σύριγ-μα,</lang>
+; Greek text case 1411: headword=svf, page=1162-b (432786)
+432786 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>su-sur-ru-s, ab-sur-du-s, sur-</nsi>
+432786 new <div n="lb"/><lang n="greek">ὕραξ, ὕρον;</lang> Lat. <nsi>su-sur-ru-s, ab-sur-du-s, sur-</nsi>
+; Greek text case 1412: headword=ha, page=1163-b (433046)
+433046 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Dor. <lang n="greek"></lang> (according to some also) Lat.
+433046 new <div n="lb"/>[cf. Gr. <lang n="greek">γε</lang> Dor. <lang n="greek">γα;</lang> (according to some also) Lat.
+; Greek text case 1413: headword=haMsa, page=1163-b (433088)
+433088 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>ans-er;</nsi> Old Germ. <nsi>gans;</nsi> Angl. Sax.
+433088 new <div n="lb"/><lang n="greek">χήν;</lang> Lat. <nsi>ans-er;</nsi> Old Germ. <nsi>gans;</nsi> Angl. Sax.
+; Greek text case 1414: headword=had, page=1164-a (433357)
+433357 old <div n="lb"/>Gr. <lang n="greek"></lang>
+433357 new <div n="lb"/>Gr. <lang n="greek">χέζ-ω (κέ-χοδ-α, χε-σοῦ-μαι), χεσείω, χόδ-ο-ς,</lang>
+; Greek text case 1415: headword=had, page=1164-a (433358)
+433358 old <div n="lb"/><lang n="greek"></lang> Angl. Sax. <nsi>scît-e;</nsi> Old Germ. <nsi>scîz-u.</nsi>]
+433358 new <div n="lb"/><lang n="greek">χόδ-ανο-ς;</lang> Angl. Sax. <nsi>scît-e;</nsi> Old Germ. <nsi>scîz-u.</nsi>]
+; Greek text case 1416: headword=han, page=1164-b (433415)
+433415 old <div n="lb"/>55, 5); [cf. Gr. <lang n="greek"></lang>
+433415 new <div n="lb"/>55, 5); [cf. Gr. <lang n="greek">ἔ-θαν-ον, θάν-ατος, θείν-ω, θνήακω:</lang>
+; Greek text case 1417: headword=hanu, page=1164-c (433597)
+433597 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>gen-a;</nsi>
+433597 new <div n="lb"/><lang n="greek">γένυ-ς, γέν-ειο-ν, γν-άθο-ς, γναθ-μό-ς;</lang> Lat. <nsi>gen-a;</nsi>
+; Greek text case 1418: headword=hari, page=1165-c (433918)
+433918 old <div n="lb"/>{%riṇa%}): Gr. <lang n="greek"></lang>
+433918 new <div n="lb"/>{%riṇa%}): Gr. <lang n="greek">χλό-η, χλο-ερό-ς, χλω-ρό-ς, χλό-ο-ς,</lang>
+; Greek text case 1419: headword=hari, page=1165-c (433919)
+433919 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>helus (holus, olus), hel-vu-s, hel-vo-lus,</nsi>
+433919 new <div n="lb"/><lang n="greek">χολή:</lang> Lat. <nsi>helus (holus, olus), hel-vu-s, hel-vo-lus,</nsi>
+; Greek text case 1420: headword=harit, page=1167-a (434235)
+434235 old <div n="lb"/>pass; turmeric; [cf. according to some, Gr. <lang n="greek"></lang>
+434235 new <div n="lb"/>pass; turmeric; [cf. according to some, Gr. <lang n="greek">χάρι-τες,</lang>
+; Greek text case 1421: headword=harit, page=1167-a (434236)
+434236 old <div n="lb"/><lang n="greek"></lang> perhaps Lat. <nsi>viridi-s</nsi> (for <nsi>gviridis</nsi>);
+434236 new <div n="lb"/><lang n="greek">χόρτος;</lang> perhaps Lat. <nsi>viridi-s</nsi> (for <nsi>gviridis</nsi>);
+; Greek text case 1422: headword=hary, page=1167-c (434436)
+434436 old <div n="lb"/>{%jāharyīti, jāharti;%} [cf. Gr. <lang n="greek"></lang>
+434436 new <div n="lb"/>{%jāharyīti, jāharti;%} [cf. Gr. <lang n="greek">χαίρω, χαρ-ά, χάρ-μα,</lang>
+; Greek text case 1423: headword=hary, page=1167-c (434437)
+434437 old <div n="lb"/><lang n="greek"></lang> Lat.
+434437 new <div n="lb"/><lang n="greek">χάρι-ς, χαρίζομαι, χαρί-εις, γέλως, γελάω:</lang> Lat.
+; Greek text case 1424: headword=has, page=1168-b (434790)
+434790 old <div n="lb"/>haps Gr. <lang n="greek"></lang> probably Lat. <nsi>histrio.</nsi>]
+434790 new <div n="lb"/>haps Gr. <lang n="greek">τω-θεία, τω-θάζω;</lang> probably Lat. <nsi>histrio.</nsi>]
+; Greek text case 1425: headword=hasta, page=1168-c (434919)
+434919 old <div n="lb"/>Gr. <lang n="greek"></lang>);
+434919 new <div n="lb"/>Gr. <lang n="greek">χανδ-άν-ω (ἔ-χαδ-ον, κέ-χανδ-α, χείσομαι</lang>);
+; Greek text case 1426: headword=hA, page=1169-c (435167)
+435167 old <div n="lb"/>{%jāhāyate, jāhāti, jāheti;%} [cf. Gr. <lang n="greek"></lang>
+435167 new <div n="lb"/>{%jāhāyate, jāhāti, jāheti;%} [cf. Gr. <lang n="greek">χα-ίν-ω, χά-σκ-ω,</lang>
+; Greek text case 1427: headword=hA, page=1169-c (435168)
+435168 old <div n="lb"/><lang n="greek"></lang> Lat.
+435168 new <div n="lb"/><lang n="greek">χάσμα, χά-ος, χή-μη, χάσις, χαλάω;</lang> Lat.
+; Greek text case 1428: headword=hA, page=1169-c (435223)
+435223 old <div n="lb"/>{%hīyate, jāheti, jāhāti;%} [cf. Gr. <lang n="greek"></lang>
+435223 new <div n="lb"/>{%hīyate, jāheti, jāhāti;%} [cf. Gr. <lang n="greek">χῆ-ρο-ς, χήρα,</lang>
+; Greek text case 1429: headword=hA, page=1169-c (435224)
+435224 old <div n="lb"/><lang n="greek"></lang>
+435224 new <div n="lb"/><lang n="greek">χηρεύ-ω, χηρό-ω, χωρίς, χωρίζω, χῆτος, χατέω;</lang>
+; Greek text case 1430: headword=hi, page=1171-a (435714)
+435714 old <div n="lb"/>[cf. perhaps Gr. <lang n="greek"></lang> Lat. <nsi>cieo.</nsi>]
+435714 new <div n="lb"/>[cf. perhaps Gr. <lang n="greek">κίω;</lang> Lat. <nsi>cieo.</nsi>]
+; Greek text case 1431: headword=hibuka, page=1172-b (436240)
+436240 old {#hibuka#}¦ {%hibuka, am,%} n. (= <lang n="greek"></lang>), epithet
+436240 new {#hibuka#}¦ {%hibuka, am,%} n. (= <lang n="greek">ὑπογείον</lang>), epithet
+; Greek text case 1432: headword=hima, page=1172-b (436265)
+436265 old <div n="lb"/><nsi>zima,</nsi> ‘winter:’ Gr. <lang n="greek"></lang>
+436265 new <div n="lb"/><nsi>zima,</nsi> ‘winter:’ Gr. <lang n="greek">χι-ών (χίον-ος), δύσ-χιμο-ς,</lang>
+; Greek text case 1433: headword=hima, page=1172-b (436266)
+436266 old <div n="lb"/><lang n="greek"></lang>
+436266 new <div n="lb"/><lang n="greek">χεῖ-μα, χειμάζω, χειμαίνω, χίμεθλο-ν, χειμών,</lang>
+; Greek text case 1434: headword=hima, page=1172-b (436267)
+436267 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>hiem-s, hibernu-s</nsi> (for <nsi>himer-</nsi>
+436267 new <div n="lb"/><lang n="greek">χειμερινό-ς:</lang> Lat. <nsi>hiem-s, hibernu-s</nsi> (for <nsi>himer-</nsi>
+; Greek text case 1435: headword=hu, page=1174-a (436785)
+436785 old <div n="lb"/>= Gr. <lang n="greek"></lang> in some forms identical with rt.
+436785 new <div n="lb"/>= Gr. <lang n="greek">θύω;</lang> in some forms identical with rt.
+; Greek text case 1436: headword=hu, page=1174-a (436811)
+436811 old <div n="lb"/>{%hoti;%} [cf. Gr. <lang n="greek"></lang>
+436811 new <div n="lb"/>{%hoti;%} [cf. Gr. <lang n="greek">χέ-ω (χεύ-σω), χύ-μα, χεῦ-μα,</lang>
+; Greek text case 1437: headword=hu, page=1174-a (436813)
+436813 old <div n="lb"/><lang n="greek"></lang> Lat.
+436813 new <div n="lb"/><lang n="greek">χύ-σι-ς, χο-ή, χό-ο-ς, χυ-μό-ς, χυ-λό-ς, χύ-τρα;</lang> Lat.
+; Greek text case 1438: headword=hurC, page=1174-c (436964)
+436964 old <div n="lb"/>Gr. <lang n="greek"></lang> (probably) Lat. <nsi>quercus, ob-liquus;</nsi>
+436964 new <div n="lb"/>Gr. <lang n="greek">λοξός;</lang> (probably) Lat. <nsi>quercus, ob-liquus;</nsi>
+; Greek text case 1439: headword=hf, page=1175-a (437115)
+437115 old <div n="lb"/><lang n="greek"></lang> (accord-
+437115 new <div n="lb"/><lang n="greek">χείρ, εὐ-χερ-ής, χέρ-ης, χράομαι, κίχρημι,</lang> (accord-
+; Greek text case 1440: headword=hf, page=1175-a (437116)
+437116 old <div n="lb"/>ing to some also perhaps) <lang n="greek"></lang> (for <lang n="greek"></lang>),
+437116 new <div n="lb"/>ing to some also perhaps) <lang n="greek">αἴρω, αἱρέω</lang> (for <lang n="greek">χαίρω</lang>),
+; Greek text case 1441: headword=hf, page=1175-a (437117)
+437117 old <div n="lb"/><lang n="greek"></lang> Old Lat. <nsi>hir;</nsi> Lat. <nsi>heru-s, hera, her-e(d)-s,</nsi>
+437117 new <div n="lb"/><lang n="greek">ἀγείρω;</lang> Old Lat. <nsi>hir;</nsi> Lat. <nsi>heru-s, hera, her-e(d)-s,</nsi>
+; Greek text case 1442: headword=hfRIya, page=1175-c (437387)
+437387 old <div n="lb"/>to be ashamed; [cf. Gr. <lang n="greek"></lang> Lat. <nsi>fel, bilis;</nsi>
+437387 new <div n="lb"/>to be ashamed; [cf. Gr. <lang n="greek">χολή;</lang> Lat. <nsi>fel, bilis;</nsi>
+; Greek text case 1443: headword=hfd, page=1175-c (437411)
+437411 old <div n="lb"/>Gr. <lang n="greek"></lang> Lat. <nsi>cor (cord-is),</nsi>
+437411 new <div n="lb"/>Gr. <lang n="greek">κῆρ, κέαρ, καρδ-ία, κραδ-ίη;</lang> Lat. <nsi>cor (cord-is),</nsi>
+; Greek text case 1444: headword=hfdaya, page=1176-a (437467)
+437467 old <div n="lb"/>the Veda; science; [cf. Gr. <lang n="greek"></lang> &c.; Hib. <nsi>croi-</nsi>
+437467 new <div n="lb"/>the Veda; science; [cf. Gr. <lang n="greek">καρδία,</lang> &c.; Hib. <nsi>croi-</nsi>
+; Greek text case 1445: headword=hfz, page=1176-b (437577)
+437577 old <div n="lb"/><lang n="greek"></lang> (perhaps also) <lang n="greek"></lang> Lat.
+437577 new <div n="lb"/><lang n="greek">φρίσσω, φρίξ,</lang> (perhaps also) <lang n="greek">χέρσος, χήρ;</lang> Lat.
+; Greek text case 1446: headword=heli, page=1177-c (438068)
+438068 old <div n="lb"/>Gr. <lang n="greek"></lang>), the sun.
+438068 new <div n="lb"/>Gr. <lang n="greek">ἥλιος</lang>), the sun.
+; Greek text case 1447: headword=hez, page=1177-c (438087)
+438087 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat. <nsi>hinnio</nsi> (for <nsi>hisnio</nsi>), <nsi>hin-</nsi>
+438087 new <div n="lb"/>[cf. Gr. <lang n="greek">γίννος;</lang> Lat. <nsi>hinnio</nsi> (for <nsi>hisnio</nsi>), <nsi>hin-</nsi>
+; Greek text case 1448: headword=horA, page=1178-c (438484)
+438484 old {#horA#}¦ {%horā,%} f. (borrowed fr. Gr. <lang n="greek"></lang>), the
+438484 new {#horA#}¦ {%horā,%} f. (borrowed fr. Gr. <lang n="greek">ὥρα</lang>), the
+; Greek text case 1449: headword=hnu, page=1179-a (438571)
+438571 old <div n="lb"/>[cf. Gr. <lang n="greek"></lang> Lat. <nsi>ab-</nsi>
+438571 new <div n="lb"/>[cf. Gr. <lang n="greek">ἀνα-νεύω, νεύω, νυστάζω, νυθός;</lang> Lat. <nsi>ab-</nsi>
+; Greek text case 1450: headword=hyas, page=1179-a (438616)
+438616 old <div n="lb"/>yesterday; [cf. Gr. <lang n="greek"></lang>
+438616 new <div n="lb"/>yesterday; [cf. Gr. <lang n="greek">χθές, ἐ-χθές, χθιζό-ς,</lang>
+; Greek text case 1451: headword=hyas, page=1179-a (438617)
+438617 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>heri, hes-ternu-s;</nsi> Goth. <nsi>gistra-dagis;</nsi>
+438617 new <div n="lb"/><lang n="greek">χθεσ-ινό-ς;</lang> Lat. <nsi>heri, hes-ternu-s;</nsi> Goth. <nsi>gistra-dagis;</nsi>
+; Greek text case 1452: headword=hrasva, page=1179-b (438707)
+438707 old <div n="lb"/>phate of iron; [cf. Gr. <lang n="greek"></lang>
+438707 new <div n="lb"/>phate of iron; [cf. Gr. <lang n="greek">χέρηϊ, χερείων, χείρων,</lang>
+; Greek text case 1453: headword=hrasva, page=1179-b (438708)
+438708 old <div n="lb"/><lang n="greek"></lang> perhaps Lat. <nsi>brevis.</nsi>] {%—Hrasva-kuśa,%}
+438708 new <div n="lb"/><lang n="greek">χείριστος;</lang> perhaps Lat. <nsi>brevis.</nsi>] {%—Hrasva-kuśa,%}
+; Greek text case 1454: headword=hrAd, page=1179-b (438761)
+438761 old <div n="lb"/>[cf. Zend <nsi>zrād;</nsi> Gr. <lang n="greek"></lang> probably
+438761 new <div n="lb"/>[cf. Zend <nsi>zrād;</nsi> Gr. <lang n="greek">χλάζω, κέ-χλαδα,</lang> probably
+; Greek text case 1455: headword=hrAd, page=1179-b (438762)
+438762 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>grando, grandinat;</nsi> Goth. <nsi>grêtan;</nsi>
+438762 new <div n="lb"/><lang n="greek">χάλαζα;</lang> Lat. <nsi>grando, grandinat;</nsi> Goth. <nsi>grêtan;</nsi>
+; Greek text case 1456: headword=hrez, page=1179-c (438944)
+438944 old <div n="lb"/><lang n="greek"></lang> Old Germ. <nsi>hros;</nsi> Mod.
+438944 new <div n="lb"/><lang n="greek">χρό-μη, χρεμέθω, χρεμίζω:</lang> Old Germ. <nsi>hros;</nsi> Mod.
+; Greek text case 1457: headword=hlAd, page=1180-a (438990)
+438990 old <div n="lb"/>Gr. <lang n="greek"></lang> perhaps also <lang n="greek"></lang>
+438990 new <div n="lb"/>Gr. <lang n="greek">κέχλαδα, καχλάζω, </lang> perhaps also <lang n="greek">γῆθος, γηθέω;</lang>
+; Greek text case 1458: headword=hlIku, page=1180-b (439048)
+439048 old <div n="lb"/>({%us%}), m. lac ({%= jatu%}); tin; [cf. Gr. <lang n="greek"></lang> Slav.
+439048 new <div n="lb"/>({%us%}), m. lac ({%= jatu%}); tin; [cf. Gr. <lang n="greek">χαλ-κό-ς;</lang> Slav.
+; Greek text case 1459: headword=hvf, page=1180-b (439082)
+439082 old <div n="lb"/>Intens. {%jāhvaryate, jāhvarti;%} [cf. Gr. <lang n="greek"></lang>
+439082 new <div n="lb"/>Intens. {%jāhvaryate, jāhvarti;%} [cf. Gr. <lang n="greek">κυπτός,</lang>
+; Greek text case 1460: headword=hvf, page=1180-b (439083)
+439083 old <div n="lb"/><lang n="greek"></lang> Lat. <nsi>curvus, varus:</nsi> Goth. <nsi>hvair-</nsi>
+439083 new <div n="lb"/><lang n="greek">κύρβεις, ἐρέφω:</lang> Lat. <nsi>curvus, varus:</nsi> Goth. <nsi>hvair-</nsi>
+; Greek text case 1461: headword=hve, page=1180-b (439138)
+439138 old <div n="lb"/>invoke; [cf. according to some, Gr. <lang n="greek"></lang> pro-
+439138 new <div n="lb"/>invoke; [cf. according to some, Gr. <lang n="greek">βοή, βοάω,</lang> pro-
+; Greek text case 1462: headword=hve, page=1180-b (439139)
+439139 old <div n="lb"/>bably <lang n="greek"></lang> Lat. <nsi>re-boare,</nsi> perhaps <nsi>voveo, vo-</nsi>
+439139 new <div n="lb"/>bably <lang n="greek">ἀΰω, ἰωή;</lang> Lat. <nsi>re-boare,</nsi> perhaps <nsi>voveo, vo-</nsi>
