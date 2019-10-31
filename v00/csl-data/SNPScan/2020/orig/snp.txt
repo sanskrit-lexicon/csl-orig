@@ -2816,7 +2816,7 @@
 <div n="P"/>(11) = {%pītacandana%} (see {%candana%}) (PW; Vśs);
 <div n="P"/>(12) a partic. fragrant plant (MW);
 <div n="P"/>(13) [unguis odoratus] (MW; PW: = {%vyāghranakha:%} a) possibly
-<lang n="greek"></lang> of Dioscorides, unguis odoratus; see Dietz, p. 57; b) <bot>EUPHORBIA
+<lang n="greek">ὄνυξ</lang> of Dioscorides, unguis odoratus; see Dietz, p. 57; b) <bot>EUPHORBIA
 <div n="lb"/>ANTIQUORUM LINN.</bot> = <bot>TITHYMALUS ANTIQUORUM MOENCH.</bot>).
 <LEND>
 
