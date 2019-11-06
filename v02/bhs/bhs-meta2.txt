@@ -1,0 +1,114 @@
+bhs-meta2.txt
+Jan 30, 2018
+
+This supercedes bhs-meta.txt as a description of 
+ the current digitization bhs.txt.
+
+The digitization is in the utf-8 encoding.
+
+The {X...X} style of coding serves several purposes:
+{@X@}  : bold text
+{%X%}  : italic text 
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+<lang n="greek">X</lang>  2 X in Greek unicode (X currently empty - not coded)
+<div n="lb">  line break
+<H>     40  : Headline, letter breaks
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>3<pc>001,1<k1>aMSaDAtrI<k2>aMSa-DAtrI<h>2
+[2 {@aṃśa-dhātrī@}¦, see {@aṃsa-@}].
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+optional field for homonym
+  h The homonym number (usually a digit). 
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PagePPP-C+ NN] where
+PPP is page number
+C  is column (a or b)
+NN is the number of lines in the column of the page.   
+The lines in the entry bodies correspond to lines of printed text.
+For pages with a letter break per page, the coding is
+[PagePPP-1C+ NN]; similarly if there are 2 or 3 letter breaks in a page.
+
+Words using diacritics with the Latin alphabet are represented in Unicode 
+characters. The vast majority of such words with diacritics are Sanskrit or 
+Pali.  There are also several words in German, French, etc. with diacritics.
+The Sanskrit words are not distinguished typographically from words in English
+or other languages.
+
+The spelling aims to be modern IAST unicode,
+generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration; the use of diacritics in the printed text already
+corresponds almost exactly with that of modern IAST.
+
+Here are the extended ASCII characters that occur in the text.
+with their  frequency as of this writing (01-30-2018):
+
+¦  (\u00a6) 17836 := BROKEN BAR
+§  (\u00a7)   734 := SECTION SIGN
+°  (\u00b0) 22208 := DEGREE SIGN
+Ñ  (\u00d1)     1 := LATIN CAPITAL LETTER N WITH TILDE
+à  (\u00e0)    27 := LATIN SMALL LETTER A WITH GRAVE
+á  (\u00e1)     7 := LATIN SMALL LETTER A WITH ACUTE
+â  (\u00e2)     4 := LATIN SMALL LETTER A WITH CIRCUMFLEX
+ä  (\u00e4)   238 := LATIN SMALL LETTER A WITH DIAERESIS
+ç  (\u00e7)     2 := LATIN SMALL LETTER C WITH CEDILLA
+è  (\u00e8)    19 := LATIN SMALL LETTER E WITH GRAVE
+é  (\u00e9)   561 := LATIN SMALL LETTER E WITH ACUTE
+ê  (\u00ea)    16 := LATIN SMALL LETTER E WITH CIRCUMFLEX
+ë  (\u00eb)     4 := LATIN SMALL LETTER E WITH DIAERESIS
+î  (\u00ee)     4 := LATIN SMALL LETTER I WITH CIRCUMFLEX
+ñ  (\u00f1)  3988 := LATIN SMALL LETTER N WITH TILDE
+ô  (\u00f4)     9 := LATIN SMALL LETTER O WITH CIRCUMFLEX
+ö  (\u00f6)    11 := LATIN SMALL LETTER O WITH DIAERESIS
+ù  (\u00f9)     1 := LATIN SMALL LETTER U WITH GRAVE
+û  (\u00fb)     1 := LATIN SMALL LETTER U WITH CIRCUMFLEX
+ü  (\u00fc)   102 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)   262 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 83281 := LATIN SMALL LETTER A WITH MACRON
+ă  (\u0103)    51 := LATIN SMALL LETTER A WITH BREVE
+ĕ  (\u0115)     1 := LATIN SMALL LETTER E WITH BREVE
+Ī  (\u012a)    28 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b) 11701 := LATIN SMALL LETTER I WITH MACRON
+ĭ  (\u012d)     3 := LATIN SMALL LETTER I WITH BREVE
+ō  (\u014d)    23 := LATIN SMALL LETTER O WITH MACRON
+ŏ  (\u014f)     1 := LATIN SMALL LETTER O WITH BREVE
+œ  (\u0153)     1 := LATIN SMALL LIGATURE OE
+Ś  (\u015a)  3046 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b) 12641 := LATIN SMALL LETTER S WITH ACUTE
+š  (\u0161)     1 := LATIN SMALL LETTER S WITH CARON
+Ū  (\u016a)     8 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)  6426 := LATIN SMALL LETTER U WITH MACRON
+ŭ  (\u016d)     2 := LATIN SMALL LETTER U WITH BREVE
+Ḍ  (\u1e0c)     7 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)  3638 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)  7917 := LATIN SMALL LETTER H WITH DOT BELOW
+Ḱ  (\u1e30)    56 := LATIN CAPITAL LETTER K WITH ACUTE
+ḷ  (\u1e37)   180 := LATIN SMALL LETTER L WITH DOT BELOW
+ṃ  (\u1e43) 18664 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)  3138 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47) 13290 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)    43 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  5307 := LATIN SMALL LETTER R WITH DOT BELOW
+ṝ  (\u1e5d)    10 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+Ṣ  (\u1e62)     6 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63) 15604 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)     4 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)  6840 := LATIN SMALL LETTER T WITH DOT BELOW
+‘  (\u2018)   891 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)   949 := RIGHT SINGLE QUOTATION MARK
+…  (\u2026)  4093 := HORIZONTAL ELLIPSIS

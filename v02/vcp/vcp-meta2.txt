@@ -1,0 +1,86 @@
+vcp-meta2.txt
+August 16, 2017. This supercedes vcp-meta.txt as a description of 
+ the current digitization vcp.txt.
+
+The {X...X} style of coding serves one  in vcp.txt:
+{??} 46  : Unreadable text
+
+The lines of the digitization correspond to lines of the printed text.
+All of the text is Devanagari, which is currently coded in the SLP1 
+transliteration in vcp.txt.
+
+The <> style of coding is used as follows:
+<>   355827  :  At beginning of 'normal' lines, other than the first line
+                of an entry
+<H>    66  : At start of line. A 'headline' (various usage)
+<P>  2331  : At start of line, indicating a paragraph indentation
+<Picture> 71 : Diagrams in text
+The rest are 'Column' indicators for textual tabular arrays:
+<C1>...<C12>
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>3<pc>001-a<k1>afRin<k2>afRin
+<H>a
+<L>1<pc>0035,a<k1>a<k2>a
+a¦ pu0 avati rakzati atati sAtatyetra tizWatIti vA ava--ata--
+<>vA qa . vizRO “akArovizRuruddizwOkArastu maheSvaraH .
+<>makArastu smftobrahmA praRavastu trayAtmaka” iti . asya
+<>(vizRoH) apatyam ata iY iH (kAmaH) asya (vizRoH)
+<>patnI NIp I (lakzmIH) .
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+
+optional field for homonym
+  hom The homonym number (usually a digit). Not present in vcp dictionary.
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[Page0035-a+ 31] indicating page 35, column a (1st col.), 31 lines in column.
+The pagination is continuous through all 6 volumes; The last dictionary
+page is [Page5441-b+ 31].
+
+A handful of page designations don't follow this pattern:
+[Page1595+ 37]  a table, so not two columns
+[Page1596+ 31]  ditto
+[Page2764+ 39]  A table, but Columns not marked (correct?) 
+
+
+The headwords are ordered according to Sanskrit alphabet ordering.
+However, about 2% of the identified headwords are out of alphabetical order.
+
+The introduction is not coded in vcp.txt; it appears in the separate file
+vcp-preface.txt.  A page and a half ending section appears in the separate
+file vcp-end.txt.
+
+There is no IAST coding in vcp.txt
+
+There is no Anglicized Sanskrit coding in vcp.txt.
+There is no AS coding in vcp.txt.
+
+Scanned images, in pdfs vcp_title and vcp1_bookmark are from Thomas Malten;
+ vcp2_bookmark, ..., vcp6_bookmark) are
+almost all from //archive.org downloads, as files
+vacaspatyam02tarkuoft.pdf, ..., vacaspatyam06tarkuoft.pdf.
+However, a few (12) pages missing from these last 5 archive.org pdfs 
+ were obtained from
+the high-resolution scans used for digitization by Malten.
+
+
+There are several extended ascii codes in vcp.txt.
+
+¦  (\u00a6) 48353 := BROKEN BAR
+‘  (\u2018)   248 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)   249 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c) 76768 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d) 76493 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     2 := DOUBLE LOW-9 QUOTATION MARK

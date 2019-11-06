@@ -1,0 +1,90 @@
+shs-meta2.txt
+August 8, 2017. This supercedes shs-meta.txt as a description of 
+ the current digitization shs.txt.
+
+
+The {X...X} style of coding serves several purposes:
+{#X#}   208025 : Devanagari, coded in SLP1 transliteration
+{%X%}       10 : italic text 
+{??}        10 : unreadable text
+
+The <> style of coding is used as follows:
+<>     53027  :  beginning of normal line
+<P>       69  :  beginning of paragraph (only in preface)
+<H>       49  :  Headline. Primarily at 'letter' breaks in lexicon
+<Poem>X</Poem> 9 : Delimit a Poem.
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>3<pc>001-a<k1>afRin<k2>afRin
+{#afRin#}¦ mfn. ({#-RI-RiRI-Ri#}) Free from debt or obligation; also
+<>{#afRin#} E. {#a#} neg. {#fRin#} a debtor.
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+
+optional field for homonym
+  hom The homonym number (usually a digit). Not present in shs dictionary.
+
+
+
+Page breaks are coded as [Page...].
+In general, Page breaks have the  form [PageX], where X usually has the
+form PPP-C+ nn,  where
+  PPP is 3-digit page number, 001 to 839
+  C is column identifier, a or b
+  nn is the number of following text lines in column C of page PPP.
+In the title page, 
+ X = '-titel+ 21'.
+X = 001-a+ 43, 840-b and 840-1b contain list of abbreviations
+
+Excluding the two meta-lines for each entry and the Page break lines,
+the lines of the shs.txt digitization correspond to lines of the printed text.
+
+Non-devanagari Sanskrit in the body of the entries has been converted to IAST unicode,
+ generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration. This differs from the coding of the printed version.
+
+
+Here are the extended ASCII characters that occur in shs.txt in this coding,
+with their approximate frequency.  
+
+¦  (\u00a6) 47318 := BROKEN BAR
+°  (\u00b0)     1 := DEGREE SIGN
+º  (\u00ba)     3 := MASCULINE ORDINAL INDICATOR
+Æ  (\u00c6)    47 := LATIN CAPITAL LETTER AE
+Ñ  (\u00d1)     2 := LATIN CAPITAL LETTER N WITH TILDE
+æ  (\u00e6)   229 := LATIN SMALL LETTER AE
+Ā  (\u0100)  1711 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)  3537 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)   385 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)   258 := LATIN SMALL LETTER I WITH MACRON
+Œ  (\u0152)     3 := LATIN CAPITAL LIGATURE OE
+œ  (\u0153)   214 := LATIN SMALL LIGATURE OE
+Ś  (\u015a)   717 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)   121 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)    62 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)   154 := LATIN SMALL LETTER U WITH MACRON
+Ḍ  (\u1e0c)    55 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)   105 := LATIN SMALL LETTER D WITH DOT BELOW
+Ṃ  (\u1e42)     3 := LATIN CAPITAL LETTER M WITH DOT BELOW
+ṃ  (\u1e43)     3 := LATIN SMALL LETTER M WITH DOT BELOW
+Ṇ  (\u1e46)   647 := LATIN CAPITAL LETTER N WITH DOT BELOW
+ṇ  (\u1e47)   239 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)    16 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)    15 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṭ  (\u1e6c)    49 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)    42 := LATIN SMALL LETTER T WITH DOT BELOW
+‘  (\u2018)    11 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)    12 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)   730 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)   726 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     1 := DOUBLE LOW-9 QUOTATION MARK
+…  (\u2026)   179 := HORIZONTAL ELLIPSIS

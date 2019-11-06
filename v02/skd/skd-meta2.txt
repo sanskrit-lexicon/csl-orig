@@ -1,0 +1,85 @@
+skd-meta2.txt
+August 23, 2017. This supercedes skd-meta.txt as a description of 
+ the current digitization skd.txt.
+
+The {X...X} style of coding serves one  in skd.txt:
+{??} 13  : Unreadable text
+
+The lines of the digitization correspond to lines of the printed text.
+All of the text is Devanagari, which is currently coded in the SLP1 
+transliteration in skd.txt.
+
+The <> style of coding is used as follows:
+<>   4424807  :  At beginning of 'normal' lines, other than the first line
+                of an entry
+<H>   158  : At start of line. A 'headline' (various usage)
+<P>  1130  : At start of line, indicating a paragraph indentation
+<Picture> 5 : Diagrams in text
+The rest are 'Column' indicators for textual tabular arrays:
+<C1>...<C11>
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>2<pc>1-001<k1>a<k2>a
+a¦, vya, aBAbaH . alpaH . nizeDaH . anukampA . iti
+<>medinI . (naYo'yamakAraH zaqviDAn naYarTAn boDa-
+<>yati . yaTA, --
+ --ETC--
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+
+optional field for homonym
+  hom The homonym number (usually a digit). Not present in skd dictionary.
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[Page5-069-b+ 52] Volume 5, Page 069, column b (2nd col.), 52 lines in column.
+Some variants of the '-b' part of this occur, for example
+ [Page2-268+ 41] , where the usual 3-column form is broken by a table.
+ [Page2-048-a1+ 13] , where  again a tabular display is shown.
+
+
+The headwords are generally ordered according to Sanskrit alphabet ordering.
+
+The introduction is not coded in skd.txt; it appears in the separate file
+skd-title.txt.  The page breaks are coded as
+[Page0-xxxETC] so that 0-xxx is as in file pdftitlefiles.txt, which
+gives the correspondence to scanned image pages in skd_title.pdf.
+
+There is no IAST coding of Sanskrit in skd.txt
+
+
+There are several extended ascii codes in skd.txt.
+
+£  (\u00a3)    24 := POUND SIGN
+¤  (\u00a4)    12 := CURRENCY SIGN
+¦  (\u00a6) 42196 := BROKEN BAR
+      Note: This character appears on first line of the entry after
+            the portion that was used to interpret the headword.
+            It is an artifact of the digitization.
+¯  (\u00af)     3 := MACRON
+×  (\u00d7)     2 := MULTIPLICATION SIGN
+‘  (\u2018)  1398 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)  1350 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c) 53134 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d) 52816 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     3 := DOUBLE LOW-9 QUOTATION MARK
+†  (\u2020)     1 := DAGGER
+‡  (\u2021)     1 := DOUBLE DAGGER
+…  (\u2026)   659 := HORIZONTAL ELLIPSIS
+
+Scanned images (in pdfs skd_title, skd1_bookmark, ..., skd5_bookmark) are
+almost all from //archive.org downloads
+sabdakalpadrumah01devauoft.pdf, ..., sabdakalpadrumah05devauoft.pdf.
+However, a few (12) pages missing from these downloads were obtained from
+the high-resolution scans used by Thomas Malten for digitization (ejf).
+

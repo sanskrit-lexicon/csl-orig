@@ -1,0 +1,118 @@
+ap90-meta2.txt
+July 1, 2017.  This supercedes ap90-meta.txt as a description of 
+ the current digitization ap90.txt
+-  'meta' lines added to ap90.txt
+
+ap90.txt uses the utf-8 encoding for extended ASCII characters.
+
+This file describes the coding conventions of the data files.
+This file is encoded in utf-8 encoding.
+
+The {X...X} style of coding serves several purposes; the counts are approximate.
+{# #}  116049  : {#X#} devanagari text, coded in SLP1 transliteration
+{@X@}    137307 : bold text  
+{%X%}     40595 : italic text 
+{|X|}         5 : widely spaced text
+{??}         20 : unreadable or uncoded text 
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>2<pc>0001-c<k1>afRin<k2>afRin
+{#afRin#}¦ {%a.%} ({#f#} being regarded as
+<>a consonant) Not a debtor, free from
+<>debt; {#divasasyAzwame BAge SAkaM pacati yo#}
+<>{#naraH . afRI cApravAsI ca sa vAricara#}
+<>{#modate ..#} Mb. The form {#anfRin#} also
+<>occurs in this sense.
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+
+optional field for homonym
+  hom The homonym number (usually a digit). Not present in wil dictionary
+
+
+Other markup:
+<>  :   begins most lines.  Indicates a line break. 
+<H>  86 :  A title line of some sort, such as for letter break
+<P> 232 : An indented paragraph. Mostly in the digitization of preface.
+<NI>  1 : similar to <P>
+
+Each line of the digitization corresponds to a line of the printed text.
+
+
+Page breaks are coded as [Page...].
+In general, a page number has form [PageX+ n], where X identifies the
+subsequent page and column and n is the number of lines of text on that
+page and column. (for blank pages, n = 'No')
+Here are the forms of X
+In preface
+  -I,-II
+  -1 through -6
+  7-a through 9-b
+  10  (Here n = 'No' - a blank page)
+ 11-a through 13-1b
+In body of text,
+ PPPP-C  where PPPP is 4-digit page number (0001 - 1178)
+         and C is usually 'a','b','c' but may be '1a',etc or '2a',etc.
+ Occasionally, the form is 
+ PPPP--C 
+In Appendices, the form is as in body:
+ PPPP-C  where PPPP is from 1179 to 1196
+
+
+Non-Devanagari Sanskrit in the body of the entries has been converted 
+to IAST unicode, generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration. 
+In this process, the spellings of many words has been modernized, and 
+gratuitous variations of spelling have been normalized. 
+
+Here are the extended ASCII characters that occur in wil.txt,
+with their approximate frequency.  
+
+¦  (\u00a6) 31914 := BROKEN BAR
+§  (\u00a7)     1 := SECTION SIGN
+º  (\u00ba)  3930 := MASCULINE ORDINAL INDICATOR
+Æ  (\u00c6)     3 := LATIN CAPITAL LETTER AE
+×  (\u00d7)     5 := MULTIPLICATION SIGN
+à  (\u00e0)     1 := LATIN SMALL LETTER A WITH GRAVE
+æ  (\u00e6)    27 := LATIN SMALL LETTER AE
+è  (\u00e8)     5 := LATIN SMALL LETTER E WITH GRAVE
+é  (\u00e9)     5 := LATIN SMALL LETTER E WITH ACUTE
+ñ  (\u00f1)   131 := LATIN SMALL LETTER N WITH TILDE
+ö  (\u00f6)     4 := LATIN SMALL LETTER O WITH DIAERESIS
+ü  (\u00fc)     4 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)   163 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)  8867 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)     1 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)  1870 := LATIN SMALL LETTER I WITH MACRON
+œ  (\u0153)    63 := LATIN SMALL LIGATURE OE
+Ś  (\u015a)  6299 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)  1037 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)     3 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)   503 := LATIN SMALL LETTER U WITH MACRON
+Ḍ  (\u1e0c)     3 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)   396 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)     5 := LATIN SMALL LETTER H WITH DOT BELOW
+ṃ  (\u1e43)   247 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)   188 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)  3406 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   114 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)   726 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ  (\u1e62)     1 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63)  1937 := LATIN SMALL LETTER S WITH DOT BELOW
+ṭ  (\u1e6d)   369 := LATIN SMALL LETTER T WITH DOT BELOW
+‘  (\u2018)  2509 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)  2499 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)    31 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)    29 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     1 := DOUBLE LOW-9 QUOTATION MARK
+…  (\u2026)   382 := HORIZONTAL ELLIPSIS
+⁁  (\u2041)     1 := CARET INSERTION POINT

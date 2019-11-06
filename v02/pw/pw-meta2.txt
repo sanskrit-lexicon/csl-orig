@@ -1,0 +1,218 @@
+pw-meta2.txt
+Oct 17, 2017
+
+This supercedes pw-meta.txt as a description of 
+ the current digitization pw.txt.
+
+The digitization is in the utf-8 encoding.
+
+The {X...X} style of coding serves several purposes:
+{#X#}  : Devanagari text, X is in SLP1 transcoding.
+{%X%}  44619 : italic text 
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+<ab>X</ab> 71390  general abbreviation. The expansion is from a separate table.
+<ab n="Y">X</ab> 9 local abbreviation. Y is the expansion of X.
+<is>X</is> 31604 Sanskrit word in (modern) IAST coding
+<is n="1">X</is> 150  word in IAST coding, possibly not Sanskrit.
+<lang n="arabic">X</lang>      48 word in Arabic unicode
+<lang n="greek">X</lang>      186 word in Greek unicode 
+<lang n="russian">X</lang>      1 word in Russian unicode
+<lex>X</lex>   163624 X = Adj, m,n,f
+<ls>X</ls>   78714 literary source 
+<bot>X</bot>    7957 scientific name, probably of a plant
+<sic/>      28 possible error in text. Needs further investigation
+<div n="Y">  marks beginning of a 'division' within an entry
+<div n="1">   78363 numerical
+<div n="2">   38170 alphabetical
+<div n="3">    3871 Greek alphabetical
+<div n="4">       2 Roman numerals
+<div n="p">    7942 prefix used with the root 
+<div n="m">    2636 Miscellaneous, usually followed by an abbreviation.  
+<div n="o">      19 function not understood
+
+
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>48<pc>1001-3<k1>aMh<k2>*aMh<e>500
+{#*aMh#}¦ {#aMhate#} {%gehen.%}
+<div n="m">— <ab>Caus.</ab> {#aMhayati#} {%schicken.%}
+<div n="m">— <ab>Desid.</ab> {#aYjihizate#} {%gehen wollen.%}
+<LEND>
+
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+  e  a numerical code, assigned by Thomas Malten, indicating word category,
+     such as verb, noun, etc.  Not well understood as of this writing.
+optional field for homonym
+  h The homonym number (usually a digit). 
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PageVPPP-C] where
+V is volume number (1 to 7),
+P is page number, and 
+C is column number (1 to 3')
+
+Words using diacritics with the Latin alphabet are represented in Unicode 
+characters.  Such words identified as Sanskrit are enclosed in the <is> tag,
+and the spelling aims to be modern IAST unicode,
+generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+Here are the extended ASCII characters that occur,
+with their approximate frequency.  
+¦  (\u00a6) 135787 := BROKEN BAR
+§  (\u00a7)     1 := SECTION SIGN
+«  (\u00ab)    55 := LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+¯  (\u00af)     2 := MACRON
+°  (\u00b0) 21458 := DEGREE SIGN
+²  (\u00b2)   486 := SUPERSCRIPT TWO
+»  (\u00bb)    55 := RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+Ñ  (\u00d1)   923 := LATIN CAPITAL LETTER N WITH TILDE
+Ö  (\u00d6)     8 := LATIN CAPITAL LETTER O WITH DIAERESIS
+Ü  (\u00dc)   414 := LATIN CAPITAL LETTER U WITH DIAERESIS
+ß  (\u00df)     1 := LATIN SMALL LETTER SHARP S
+à  (\u00e0)     1 := LATIN SMALL LETTER A WITH GRAVE
+ä  (\u00e4) 24059 := LATIN SMALL LETTER A WITH DIAERESIS
+ç  (\u00e7)     1 := LATIN SMALL LETTER C WITH CEDILLA
+é  (\u00e9)     1 := LATIN SMALL LETTER E WITH ACUTE
+ê  (\u00ea)     5 := LATIN SMALL LETTER E WITH CIRCUMFLEX
+ë  (\u00eb)     1 := LATIN SMALL LETTER E WITH DIAERESIS
+ñ  (\u00f1)   187 := LATIN SMALL LETTER N WITH TILDE
+ö  (\u00f6) 13560 := LATIN SMALL LETTER O WITH DIAERESIS
+ü  (\u00fc) 36290 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100) 28626 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 10129 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)  1263 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)  2123 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a) 12185 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)  1642 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)   215 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)   824 := LATIN SMALL LETTER U WITH MACRON
+˘  (\u02d8)     1 := BREVE
+Β  (\u0392)     1 := GREEK CAPITAL LETTER BETA
+Ζ  (\u0396)     2 := GREEK CAPITAL LETTER ZETA
+Π  (\u03a0)     2 := GREEK CAPITAL LETTER PI
+Τ  (\u03a4)     1 := GREEK CAPITAL LETTER TAU
+ά  (\u03ac)    11 := GREEK SMALL LETTER ALPHA WITH TONOS
+έ  (\u03ad)     3 := GREEK SMALL LETTER EPSILON WITH TONOS
+ή  (\u03ae)    15 := GREEK SMALL LETTER ETA WITH TONOS
+ί  (\u03af)    14 := GREEK SMALL LETTER IOTA WITH TONOS
+α  (\u03b1)  1386 := GREEK SMALL LETTER ALPHA
+β  (\u03b2)  1322 := GREEK SMALL LETTER BETA
+γ  (\u03b3)   626 := GREEK SMALL LETTER GAMMA
+δ  (\u03b4)   310 := GREEK SMALL LETTER DELTA
+ε  (\u03b5)   182 := GREEK SMALL LETTER EPSILON
+ζ  (\u03b6)    99 := GREEK SMALL LETTER ZETA
+η  (\u03b7)    72 := GREEK SMALL LETTER ETA
+θ  (\u03b8)    40 := GREEK SMALL LETTER THETA
+ι  (\u03b9)    41 := GREEK SMALL LETTER IOTA
+κ  (\u03ba)    41 := GREEK SMALL LETTER KAPPA
+λ  (\u03bb)    30 := GREEK SMALL LETTER LAMDA
+μ  (\u03bc)    31 := GREEK SMALL LETTER MU
+ν  (\u03bd)    53 := GREEK SMALL LETTER NU
+ξ  (\u03be)    11 := GREEK SMALL LETTER XI
+ο  (\u03bf)    53 := GREEK SMALL LETTER OMICRON
+π  (\u03c0)    19 := GREEK SMALL LETTER PI
+ρ  (\u03c1)    43 := GREEK SMALL LETTER RHO
+ς  (\u03c2)    39 := GREEK SMALL LETTER FINAL SIGMA
+σ  (\u03c3)    10 := GREEK SMALL LETTER SIGMA
+τ  (\u03c4)    28 := GREEK SMALL LETTER TAU
+υ  (\u03c5)    21 := GREEK SMALL LETTER UPSILON
+φ  (\u03c6)     9 := GREEK SMALL LETTER PHI
+χ  (\u03c7)    12 := GREEK SMALL LETTER CHI
+ω  (\u03c9)     6 := GREEK SMALL LETTER OMEGA
+ό  (\u03cc)    10 := GREEK SMALL LETTER OMICRON WITH TONOS
+ύ  (\u03cd)     8 := GREEK SMALL LETTER UPSILON WITH TONOS
+ώ  (\u03ce)     2 := GREEK SMALL LETTER OMEGA WITH TONOS
+а  (\u0430)     1 := CYRILLIC SMALL LETTER A
+б  (\u0431)     1 := CYRILLIC SMALL LETTER BE
+г  (\u0433)     1 := CYRILLIC SMALL LETTER GHE
+о  (\u043e)     1 := CYRILLIC SMALL LETTER O
+р  (\u0440)     1 := CYRILLIC SMALL LETTER ER
+т  (\u0442)     1 := CYRILLIC SMALL LETTER TE
+ы  (\u044b)     1 := CYRILLIC SMALL LETTER YERU
+ь  (\u044c)     1 := CYRILLIC SMALL LETTER SOFT SIGN
+إ  (\u0625)     4 := ARABIC LETTER ALEF WITH HAMZA BELOW
+ا  (\u0627)    42 := ARABIC LETTER ALEF
+ب  (\u0628)    16 := ARABIC LETTER BEH
+ة  (\u0629)     2 := ARABIC LETTER TEH MARBUTA
+ت  (\u062a)    10 := ARABIC LETTER TEH
+ث  (\u062b)     2 := ARABIC LETTER THEH
+ج  (\u062c)     3 := ARABIC LETTER JEEM
+ح  (\u062d)     9 := ARABIC LETTER HAH
+خ  (\u062e)     3 := ARABIC LETTER KHAH
+د  (\u062f)    20 := ARABIC LETTER DAL
+ر  (\u0631)    16 := ARABIC LETTER REH
+ز  (\u0632)     4 := ARABIC LETTER ZAIN
+س  (\u0633)     5 := ARABIC LETTER SEEN
+ش  (\u0634)    12 := ARABIC LETTER SHEEN
+ص  (\u0635)     2 := ARABIC LETTER SAD
+ع  (\u0639)     5 := ARABIC LETTER AIN
+غ  (\u063a)     2 := ARABIC LETTER GHAIN
+ف  (\u0641)     2 := ARABIC LETTER FEH
+ق  (\u0642)     4 := ARABIC LETTER QAF
+ك  (\u0643)     3 := ARABIC LETTER KAF
+ل  (\u0644)    18 := ARABIC LETTER LAM
+م  (\u0645)    24 := ARABIC LETTER MEEM
+ن  (\u0646)    19 := ARABIC LETTER NOON
+ه  (\u0647)    18 := ARABIC LETTER HEH
+و  (\u0648)     8 := ARABIC LETTER WAW
+ى  (\u0649)     3 := ARABIC LETTER ALEF MAKSURA
+ي  (\u064a)    18 := ARABIC LETTER YEH
+َ  (\u064e)     1 := ARABIC FATHA
+ُ  (\u064f)     1 := ARABIC DAMMA
+ِ  (\u0650)     6 := ARABIC KASRA
+ّ  (\u0651)     4 := ARABIC SHADDA
+ْ  (\u0652)     8 := ARABIC SUKUN
+پ  (\u067e)     1 := ARABIC LETTER PEH
+ڭ  (\u06ad)     1 := ARABIC LETTER NG
+Ḍ  (\u1e0c)  1213 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)   510 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)    31 := LATIN SMALL LETTER H WITH DOT BELOW
+Ṃ  (\u1e42)   735 := LATIN CAPITAL LETTER M WITH DOT BELOW
+ṃ  (\u1e43)   544 := LATIN SMALL LETTER M WITH DOT BELOW
+Ṅ  (\u1e44)   814 := LATIN CAPITAL LETTER N WITH DOT ABOVE
+ṅ  (\u1e45)   671 := LATIN SMALL LETTER N WITH DOT ABOVE
+Ṇ  (\u1e46)  2003 := LATIN CAPITAL LETTER N WITH DOT BELOW
+ṇ  (\u1e47)  3967 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)  3767 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  1212 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ  (\u1e62)  2347 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63)  4618 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)  1484 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)   746 := LATIN SMALL LETTER T WITH DOT BELOW
+ἀ  (\u1f00)    11 := GREEK SMALL LETTER ALPHA WITH PSILI
+Ἀ  (\u1f08)     1 := GREEK CAPITAL LETTER ALPHA WITH PSILI
+Ἄ  (\u1f0c)     1 := GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA
+ἐ  (\u1f10)     4 := GREEK SMALL LETTER EPSILON WITH PSILI
+Ἑ  (\u1f19)     1 := GREEK CAPITAL LETTER EPSILON WITH DASIA
+ἠ  (\u1f20)     2 := GREEK SMALL LETTER ETA WITH PSILI
+ἥ  (\u1f25)     1 := GREEK SMALL LETTER ETA WITH DASIA AND OXIA
+ἰ  (\u1f30)     2 := GREEK SMALL LETTER IOTA WITH PSILI
+ἱ  (\u1f31)     1 := GREEK SMALL LETTER IOTA WITH DASIA
+ὁ  (\u1f41)     1 := GREEK SMALL LETTER OMICRON WITH DASIA
+ὅ  (\u1f45)     1 := GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA
+ὐ  (\u1f50)     3 := GREEK SMALL LETTER UPSILON WITH PSILI
+ὑ  (\u1f51)     1 := GREEK SMALL LETTER UPSILON WITH DASIA
+ὖ  (\u1f56)     1 := GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI
+ὥ  (\u1f65)     1 := GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA
+᾽  (\u1fbd)     4 := GREEK KORONIS
+ῆ  (\u1fc6)     1 := GREEK SMALL LETTER ETA WITH PERISPOMENI
+ῖ  (\u1fd6)     2 := GREEK SMALL LETTER IOTA WITH PERISPOMENI
+ῥ  (\u1fe5)     1 := GREEK SMALL LETTER RHO WITH DASIA
+ῦ  (\u1fe6)     1 := GREEK SMALL LETTER UPSILON WITH PERISPOMENI
+ῶ  (\u1ff6)     1 := GREEK SMALL LETTER OMEGA WITH PERISPOMENI
+—  (\u2014) 143261 := EM DASH
+□  (\u25a1)     1 := WHITE SQUARE

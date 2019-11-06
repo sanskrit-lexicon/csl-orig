@@ -1,0 +1,114 @@
+bur-meta2.txt
+July 28, 2017. This supercedes bur-meta.txt as a description of 
+ the current digitization bur.txt.
+
+The {X...X} style of coding serves several purposes:
+{#X#}  19902  := Devanagari, coded in SLP1 transliteration
+{%X%}  71661  := italic
+{??}      16  := unreadable 
+{@@}     161  := bold
+
+The <> style of coding is used as follows:
+<lang n="greek"></lang>  669 := greek text (not coded but identified)
+<H>       48  := Header (letter change)
+<P>    14887  := Sub-headwords identified by <P>{%...%}
+There are a few (< 100) other instances of <P>, indicating a
+paragraph break in the text.
+<lbinfo n="N"/> : the prior word has a line break at the Nth character
+  The lines of the digitization generally represent 'sections' of the text; the
+  actual line-breaks of the text are not coded.
+  However, there is markup corresponding to line breaks in the middle of a word.
+  For instance 'déclinables <lbinfo n="4"/>' indicates that there was a line
+  break in the word 'déclinables' occurring 4 characters back, 
+  e.g. 'déclina-bles'.
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>11<pc>005,2<k1>akara<k2>akara
+{#akara#}¦ {%akara%} a. {%(kara)%} sans main, manchot. <lbinfo n="5"/> || Inactif
+{%(kṛ).%}
+
+<P>{%akaraṇi%} m. état de manchot, t. d'imprécation. <lbinfo n="7"/>
+<LEND>
+
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+
+optional field for homonym
+  hom The homonym number (usually a digit). Not present in bur dictionary.
+
+The general form of a page break is [PageX-C] where
+X = PPP is the page number, and C = 1 or 2 is the column number.
+For pages with one or more letter breaks, X may have the form PPPY,
+where Y is 'a' or 'b'.
+There are two missing (presumed blank) pages, 633 and 634, which 
+appear in digitization as [Page633] and [Page634].
+The first page number of the dictionary body is 005-1.
+
+
+Italicized Sanskrit in the body of the entries has been converted to IAST unicode,
+ generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration. This differs in several respects from the
+coding of the printed version.
+
+Unicode also is used to code the diacriticals in French text.
+
+Here are the extended ASCII characters that occur in bur.txt in this coding,
+with their approximate frequency.  
+
+¦  (\u00a6) 19775 := BROKEN BAR
+§  (\u00a7)   129 := SECTION SIGN
+°  (\u00b0)     9 := DEGREE SIGN
+Ê  (\u00ca)     2 := LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+Ñ  (\u00d1)     1 := LATIN CAPITAL LETTER N WITH TILDE
+à  (\u00e0)  3226 := LATIN SMALL LETTER A WITH GRAVE
+â  (\u00e2)  2852 := LATIN SMALL LETTER A WITH CIRCUMFLEX
+ç  (\u00e7)   176 := LATIN SMALL LETTER C WITH CEDILLA
+è  (\u00e8)  3399 := LATIN SMALL LETTER E WITH GRAVE
+é  (\u00e9) 23453 := LATIN SMALL LETTER E WITH ACUTE
+ê  (\u00ea)  2924 := LATIN SMALL LETTER E WITH CIRCUMFLEX
+ë  (\u00eb)    65 := LATIN SMALL LETTER E WITH DIAERESIS
+î  (\u00ee)  1188 := LATIN SMALL LETTER I WITH CIRCUMFLEX
+ï  (\u00ef)   123 := LATIN SMALL LETTER I WITH DIAERESIS
+ñ  (\u00f1)  1489 := LATIN SMALL LETTER N WITH TILDE
+ò  (\u00f2)     1 := LATIN SMALL LETTER O WITH GRAVE
+ô  (\u00f4)   640 := LATIN SMALL LETTER O WITH CIRCUMFLEX
+ù  (\u00f9)   276 := LATIN SMALL LETTER U WITH GRAVE
+û  (\u00fb)   453 := LATIN SMALL LETTER U WITH CIRCUMFLEX
+ü  (\u00fc)     5 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)     1 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 30696 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)     1 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)  7020 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a)   489 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)  8052 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)     1 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)  3420 := LATIN SMALL LETTER U WITH MACRON
+θ  (\u03b8)     2 := GREEK SMALL LETTER THETA
+χ  (\u03c7)     1 := GREEK SMALL LETTER CHI
+Ḍ  (\u1e0c)     2 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)  2101 := LATIN SMALL LETTER D WITH DOT BELOW
+Ḷ  (\u1e36)     1 := LATIN CAPITAL LETTER L WITH DOT BELOW
+ḷ  (\u1e37)    83 := LATIN SMALL LETTER L WITH DOT BELOW
+Ḹ  (\u1e38)     1 := LATIN CAPITAL LETTER L WITH DOT BELOW AND MACRON
+ṃ  (\u1e43)  1313 := LATIN SMALL LETTER M WITH DOT BELOW
+Ṅ  (\u1e44)     1 := LATIN CAPITAL LETTER N WITH DOT ABOVE
+ṅ  (\u1e45)  1728 := LATIN SMALL LETTER N WITH DOT ABOVE
+Ṇ  (\u1e46)     1 := LATIN CAPITAL LETTER N WITH DOT BELOW
+ṇ  (\u1e47)  4995 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)     1 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  5485 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṝ  (\u1e5c)     1 := LATIN CAPITAL LETTER R WITH DOT BELOW AND MACRON
+ṝ  (\u1e5d)   338 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+ṣ  (\u1e63)  8553 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)     2 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)  3720 := LATIN SMALL LETTER T WITH DOT BELOW
+Ạ  (\u1ea0)     5 := LATIN CAPITAL LETTER A WITH DOT BELOW
+ạ  (\u1ea1)    90 := LATIN SMALL LETTER A WITH DOT BELOW

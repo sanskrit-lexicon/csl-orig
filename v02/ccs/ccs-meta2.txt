@@ -1,0 +1,101 @@
+ccs-meta2.txt
+Dec 28, 2017
+
+This supercedes ccs-meta.txt as a description of 
+ the current digitization ccs.txt.
+
+The digitization is in the utf-8 encoding.
+
+The {X...X} style of coding serves several purposes:
+{#X#}  : Devanagari text, X is in SLP1 transcoding.
+{%X%}  : italic text 
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+
+<lbinfo n="N"/> related to line breaks occurring within a word.
+Hypothetical example. Suppose text has these two lines:
+blah blah a sep-
+arated word.
+We recode this as
+blah blah a separated <lbinfo n="6"/>
+word.
+6 is the number of characters on the next line, after the separation.
+The hyphen due to separation is omitted.
+
+<H>  A 'headline'.  E.g., at the letter break for second letter 'A',
+     we have <H>{#A#}.
+     Such coding occurs OUTSIDE of entries.
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>2<pc>001-1<k1>a<k2>a,<h>2
+2. {#a,#}¦ {#an#} {#(°—)#} {%negat. Präfix -un, vor Subst.,%}
+{%Adj., Adv., Partic. u. Ger.; selten vor%}
+{%Inf. und Verb. fin.%}
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+optional field for homonym
+  h The homonym number (usually a digit). 
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PagePPP-C] where
+PPP is page number.   
+C   is column number.  Ususally 1 or 2. However, for pages where a letter
+   break occurs within the page,  the value of C differs.  For instance,
+   At the letter break 'A', there are two parts corresponding to the 
+   last few entries of 'a' words and the first few entries of 'b' words.
+   [Page038-1]  marks the beginning of the first column of the top part.
+   [Page038-2]  marks the second column of the top part
+   [Page038-1a] marks the first column of the bottom part (A words)
+   [Page038-2a] marks the second column of the bottom part.
+
+Words using diacritics with the Latin alphabet are represented in Unicode 
+characters.  Except for the German words, there are only about 700+ such words 
+in this dictionary, and our working assumption is that they are Sanskrit words.
+we think they are Sanskrit words. We have thus represented the diacritics of
+these supposed Sanskrit words according to modern IAST unicode,
+generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration; 
+the usage of diacritics in the printed text has zome differences from
+the modern IAST appearing in this version of the digitization.
+
+Here are the extended ASCII characters that occur in ccs.txt, including
+those IAST letters,
+with their  frequency as of this writing (12-28-2017):
+
+¦  (\u00a6) 30027 := BROKEN BAR
+°  (\u00b0)  6682 := DEGREE SIGN
+Ä  (\u00c4)    41 := LATIN CAPITAL LETTER A WITH DIAERESIS
+Ö  (\u00d6)    35 := LATIN CAPITAL LETTER O WITH DIAERESIS
+Ü  (\u00dc)   195 := LATIN CAPITAL LETTER U WITH DIAERESIS
+ß  (\u00df)  2057 := LATIN SMALL LETTER SHARP S
+ä  (\u00e4)  5149 := LATIN SMALL LETTER A WITH DIAERESIS
+ñ  (\u00f1)    27 := LATIN SMALL LETTER N WITH TILDE
+ö  (\u00f6)  3225 := LATIN SMALL LETTER O WITH DIAERESIS
+ü  (\u00fc)  6740 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)     8 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)   350 := LATIN SMALL LETTER A WITH MACRON
+ī  (\u012b)    82 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a)   179 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)    69 := LATIN SMALL LETTER S WITH ACUTE
+ū  (\u016b)    38 := LATIN SMALL LETTER U WITH MACRON
+ḍ  (\u1e0d)    26 := LATIN SMALL LETTER D WITH DOT BELOW
+ṃ  (\u1e43)     8 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)    11 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)   231 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)     5 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)    86 := LATIN SMALL LETTER R WITH DOT BELOW
+ṭ  (\u1e6d)    28 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014)  2857 := EM DASH
+

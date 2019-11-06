@@ -1,0 +1,137 @@
+bop-meta2.txt
+Feb 2, 2018
+
+This supercedes bop-meta.txt as a description of 
+ the current digitization bop.txt.
+
+The digitization is in the utf-8 encoding.
+
+bop.txt contains digitization of the preface, the body of entries,
+and an appendix of corrections.  
+The following descriptions apply to the entries only, but may not apply
+to the preface or appendices.
+
+The {X...X} style of coding serves several purposes:
+{#X#}  : Devanagari text
+{%X%}  : italic text 
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+<sup>N</sup>  Footnote indicator
+<F>X</F>      Footnote.  Footnotes appear at the end of entries.
+Often line breaks have semantic significance, such as indicating the
+   row of a table. Three types of line break divisions are indicated, although
+   the distinction among these types is not currently understood.
+<div n="lb">  Line break
+<div n="pfx">  Line break at a prefix within then entry fora root
+<lang n="greek"> Greek text. This text is not code as of 02-02-2018.
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+
+<L>1<pc>001-a<k1>a<k2>a<h>1
+1. {#a#}¦ stirps demonstrativa; v. gr. 270.
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+optional field for homonym
+  h The homonym number (usually a digit). [Currently not used]
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PagePPP-C+ NN] where
+PPP is the page number, and
+C is usually 'a' or 'b' (first or second column).
+NN is the number of lines in the original digitization of the entry.  
+Some pages are coded as
+[PagePPP-zC+ NN], where 'z' is 1,2 or 3; these are cases of 'letter breaks',
+where words ending with one letter end, and words ending with the next letter
+begin.
+
+Headwords are in Devanagari, and Devanagari also appears within the body of
+entries.
+The Devanagari text is coded in SLP1, within the {#X#} markup, as mentioned.
+
+
+Latin letters with diacritics appears in the text for some Sanskrit words,
+which are often modified to some Latinate form; no attempt has been made to
+adjust these spellings to conventions of modern IAST.  
+
+Latin letters with diacritics also represent words from European languages,
+such as Russian, Lithuanian, and many others. 
+
+All such letters with diacritics are represented with Unicode characters.
+
+Here are the extended ASCII characters that occur in bop.txt: 
+with their frequency as of this writing 02-02-2018.
+
+¦  (\u00a6)  9045 := BROKEN BAR
+§  (\u00a7)    37 := SECTION SIGN
+«  (\u00ab)  1118 := LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+°  (\u00b0)    88 := DEGREE SIGN
+»  (\u00bb)  1109 := RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+Ü  (\u00dc)     4 := LATIN CAPITAL LETTER U WITH DIAERESIS
+à  (\u00e0)    39 := LATIN SMALL LETTER A WITH GRAVE
+á  (\u00e1)    49 := LATIN SMALL LETTER A WITH ACUTE
+â  (\u00e2)  1345 := LATIN SMALL LETTER A WITH CIRCUMFLEX
+ä  (\u00e4)    25 := LATIN SMALL LETTER A WITH DIAERESIS
+æ  (\u00e6)     1 := LATIN SMALL LETTER AE
+ç  (\u00e7)     5 := LATIN SMALL LETTER C WITH CEDILLA
+è  (\u00e8)     2 := LATIN SMALL LETTER E WITH GRAVE
+é  (\u00e9)    59 := LATIN SMALL LETTER E WITH ACUTE
+ê  (\u00ea)   383 := LATIN SMALL LETTER E WITH CIRCUMFLEX
+ë  (\u00eb)    62 := LATIN SMALL LETTER E WITH DIAERESIS
+í  (\u00ed)     5 := LATIN SMALL LETTER I WITH ACUTE
+î  (\u00ee)   129 := LATIN SMALL LETTER I WITH CIRCUMFLEX
+ï  (\u00ef)     3 := LATIN SMALL LETTER I WITH DIAERESIS
+ò  (\u00f2)     5 := LATIN SMALL LETTER O WITH GRAVE
+ó  (\u00f3)    35 := LATIN SMALL LETTER O WITH ACUTE
+ô  (\u00f4)   235 := LATIN SMALL LETTER O WITH CIRCUMFLEX
+ö  (\u00f6)    18 := LATIN SMALL LETTER O WITH DIAERESIS
+ù  (\u00f9)    85 := LATIN SMALL LETTER U WITH GRAVE
+ú  (\u00fa)    10 := LATIN SMALL LETTER U WITH ACUTE
+û  (\u00fb)   256 := LATIN SMALL LETTER U WITH CIRCUMFLEX
+ü  (\u00fc)    36 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)     2 := LATIN CAPITAL LETTER A WITH MACRON
+Ć  (\u0106)    22 := LATIN CAPITAL LETTER C WITH ACUTE
+ć  (\u0107)    46 := LATIN SMALL LETTER C WITH ACUTE
+č  (\u010d)     1 := LATIN SMALL LETTER C WITH CARON
+ď  (\u010f)     1 := LATIN SMALL LETTER D WITH CARON
+Ē  (\u0112)     2 := LATIN CAPITAL LETTER E WITH MACRON
+ē  (\u0113)   112 := LATIN SMALL LETTER E WITH MACRON
+ĕ  (\u0115)    21 := LATIN SMALL LETTER E WITH BREVE
+ī  (\u012b)     5 := LATIN SMALL LETTER I WITH MACRON
+ĭ  (\u012d)    22 := LATIN SMALL LETTER I WITH BREVE
+ľ  (\u013e)     7 := LATIN SMALL LETTER L WITH CARON
+Ō  (\u014c)     1 := LATIN CAPITAL LETTER O WITH MACRON
+œ  (\u0153)    16 := LATIN SMALL LIGATURE OE
+ś  (\u015b)     1 := LATIN SMALL LETTER S WITH ACUTE
+š  (\u0161)     2 := LATIN SMALL LETTER S WITH CARON
+ť  (\u0165)     1 := LATIN SMALL LETTER T WITH CARON
+Ū  (\u016a)     1 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)     1 := LATIN SMALL LETTER U WITH MACRON
+ŭ  (\u016d)    14 := LATIN SMALL LETTER U WITH BREVE
+ź  (\u017a)     4 := LATIN SMALL LETTER Z WITH ACUTE
+Ǵ  (\u01f4)     8 := LATIN CAPITAL LETTER G WITH ACUTE
+ǵ  (\u01f5)    21 := LATIN SMALL LETTER G WITH ACUTE
+ḍ  (\u1e0d)     1 := LATIN SMALL LETTER D WITH DOT BELOW
+ḱ  (\u1e31)     1 := LATIN SMALL LETTER K WITH ACUTE
+ṅ  (\u1e45)    21 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)     5 := LATIN SMALL LETTER N WITH DOT BELOW
+ṛ  (\u1e5b)     8 := LATIN SMALL LETTER R WITH DOT BELOW
+ṝ  (\u1e5d)     2 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+ṭ  (\u1e6d)     8 := LATIN SMALL LETTER T WITH DOT BELOW
+ẽ  (\u1ebd)     8 := LATIN SMALL LETTER E WITH TILDE
+“  (\u201c)     1 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)    14 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)    11 := DOUBLE LOW-9 QUOTATION MARK
+…  (\u2026)   756 := HORIZONTAL ELLIPSIS

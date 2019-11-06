@@ -1,0 +1,129 @@
+inm-meta2.txt
+Feb 10, 2018
+
+This supercedes inm-meta.txt as a description of 
+ the current digitization inm.txt.
+
+The digitization is in the utf-8 encoding.
+
+inm.txt contains digitization of the preface, the concordance,
+the body of entries (the index), and corrections.
+The following descriptions generally apply to the entries only, not
+to the other sections.
+
+The {X...X} style of coding serves several purposes:
+{@X@}  : bold text
+{%X%}  : italic text 
+{#X#}  : Devanagari text in slp1 transcoding. (twice in title section)
+{??}   : Unreadable text. about 100 instances.
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+
+<sup>N</sup>  Superscript text; includes homonymns and footnote markers.
+<F>X</F>      Footnote.  Footnotes appear at the end of entries.
+Often line breaks have semantic significance, such as indicating the
+   row of a table. Three types of line break divisions are indicated, although
+   the distinction among these types is not currently understood.
+<div n="lb">  Line break
+<div n="P">   Line break with indentation
+<div n="HI">  Line break - Possible list of headwords; 22 instances.
+<C n="N">  (N=1,2,3,4,5,6).  Indicates columns in a tabular display. 200 instances.
+<lang n="greek"></lang>  Uncoded Greek text
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+
+<L>1<pc>001-1<k1>abala<k2>abala
+{@Abala.@}¦ § 492 (Āṅgirasa): III, {@220,@} 14166 (one of the
+<div n="lb">15 {%yajñamuṣo devāḥ,%} gods that rob the offering, created by
+<div n="lb">{%Agni Pāñcajanya%}(?)).
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. same as k1 for this dictionary.
+optional field for homonym
+  h The homonym number (a digit sequence). 
+
+Page breaks are coded as [Page...].
+Page breaks within the Entries are more specifically coded as
+[PagePPP-C +NN] where
+PPP is the page number, and
+C is a column indicator (a,b)
+NN is the number of lines in the original digitization of the entry. 
+
+In sections other than the main entries section, page numbers may have
+a different form.
+
+Sanskrit words within the entries are presented in modern IAST form, as 
+described in  https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+This generally agrees with the printed text, except:
+We use 'ṃ' for anusvara, instead of the author's ṁ.
+We use 'ṣ' for the cerebral sibilant, instead of the author's 'sh'
+We use 'ś' for the palatal sibilant, instead of the author's 'ç'.
+
+Here are the extended ASCII characters that occur in inm.txt (within entries only):
+with their frequency as of this writing 02-10-2018.
+
+¦  (\u00a6) 13741 := BROKEN BAR
+§  (\u00a7) 28806 := SECTION SIGN
+º  (\u00ba) 20179 := MASCULINE ORDINAL INDICATOR
+Æ  (\u00c6)     1 := LATIN CAPITAL LETTER AE
+Ñ  (\u00d1)     2 := LATIN CAPITAL LETTER N WITH TILDE
+Ö  (\u00d6)     2 := LATIN CAPITAL LETTER O WITH DIAERESIS
+×  (\u00d7)     1 := MULTIPLICATION SIGN
+á  (\u00e1)  1054 := LATIN SMALL LETTER A WITH ACUTE
+æ  (\u00e6)     7 := LATIN SMALL LETTER AE
+ë  (\u00eb)     4 := LATIN SMALL LETTER E WITH DIAERESIS
+ñ  (\u00f1)  3409 := LATIN SMALL LETTER N WITH TILDE
+ö  (\u00f6)     8 := LATIN SMALL LETTER O WITH DIAERESIS
+Ā  (\u0100)  3181 := LATIN CAPITAL LETTER A WITH MACRON
+Ā̆  (\u0100\u0306)     1 := LATIN CAPITAL LETTER A WITH MACRON + COMBINING BREVE
+ā  (\u0101) 89025 := LATIN SMALL LETTER A WITH MACRON
+ā̆  (\u0101\u0306)     9 := LATIN SMALL LETTER A WITH MACRON + COMBINING BREVE
+Ă  (\u0102)     1 := LATIN CAPITAL LETTER A WITH BREVE
+ă  (\u0103)     6 := LATIN SMALL LETTER A WITH BREVE
+Ī  (\u012a)   136 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b) 19186 := LATIN SMALL LETTER I WITH MACRON
+ī̆  (\u012b\u0306)     5 := LATIN SMALL LETTER I WITH MACRON + COMBINING BREVE
+ĭ  (\u012d)    22 := LATIN SMALL LETTER I WITH BREVE
+œ  (\u0153)    13 := LATIN SMALL LIGATURE OE
+Ś  (\u015a)  9391 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b) 16410 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)    74 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)  6773 := LATIN SMALL LETTER U WITH MACRON
+Ḍ  (\u1e0c)    23 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)  5189 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25) 17130 := LATIN SMALL LETTER H WITH DOT BELOW
+ḷ  (\u1e37)     1 := LATIN SMALL LETTER L WITH DOT BELOW
+Ṃ  (\u1e42)     6 := LATIN CAPITAL LETTER M WITH DOT BELOW
+ṃ  (\u1e43) 17166 := LATIN SMALL LETTER M WITH DOT BELOW
+Ṅ  (\u1e44)     2 := LATIN CAPITAL LETTER N WITH DOT ABOVE
+ṅ  (\u1e45)  3960 := LATIN SMALL LETTER N WITH DOT ABOVE
+Ṇ  (\u1e46)    34 := LATIN CAPITAL LETTER N WITH DOT BELOW
+ṇ  (\u1e47) 23541 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   766 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b) 13856 := LATIN SMALL LETTER R WITH DOT BELOW
+ṝ  (\u1e5d)    40 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+Ṣ  (\u1e62)   228 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63) 25322 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)     3 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)  8261 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014) 30027 := EM DASH
+‘  (\u2018)    42 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)    44 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)  3588 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)  3578 := RIGHT DOUBLE QUOTATION MARK
+†  (\u2020)  9070 := DAGGER
+‡  (\u2021)    26 := DOUBLE DAGGER
+…  (\u2026)  2545 := HORIZONTAL ELLIPSIS
+〈  (\u3008)     3 := LEFT ANGLE BRACKET

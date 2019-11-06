@@ -1,0 +1,86 @@
+cae-meta2.txt
+Oct 30, 2017
+
+This supercedes cae-meta.txt as a description of 
+ the current digitization cae.txt.
+
+The digitization is in the utf-8 encoding.
+
+The {X...X} style of coding serves several purposes:
+{#X#}  : Devanagari text, X is in SLP1 transcoding.
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+<ab>X</ab>  general abbreviation. The expansion is from a separate table.
+<ab n="Y">X</ab> local abbreviation Y is the expansion of X. Not currently used.
+<lang n="greek">X</lang>  word in Greek unicode  (2 instances)
+<lex>X</lex>   163624 X = a, m,n,f
+<div n="p">    7942 prefix used with the root 
+
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>2<pc>001<k1>a<k2>a<h>2
+2 {#a#}¦ {#an#} neg. prefix, corresponding to Gr. <lang n="greek">ἀ ἀν</lang>, Lat. in, Germ.
+un, <ab>etc.</ab>
+<LEND>
+
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+  e  firstalt.  This entry is first of two or more alternate spellings, which
+     have been encoded as separate entries in cae.txt. 
+optional field for homonym
+  h The homonym number (usually a digit). 
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PagePPP] where
+PPP is page number
+
+Words using diacritics with the Latin alphabet are represented in Unicode 
+characters.  Such words identified as Sanskrit are enclosed in the <is> tag,
+and the spelling aims to be modern IAST unicode,
+generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+Here are the extended ASCII characters that occur,
+with their approximate frequency.  
+¦  (\u00a6) 40068 := BROKEN BAR
+°  (\u00b0)  9849 := DEGREE SIGN
+±  (\u00b1)   316 := PLUS-MINUS SIGN
+î  (\u00ee)     1 := LATIN SMALL LETTER I WITH CIRCUMFLEX
+ñ  (\u00f1)     8 := LATIN SMALL LETTER N WITH TILDE
+Ā  (\u0100)     9 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)   529 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)     1 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)   138 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a)   355 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)    85 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)     1 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)    63 := LATIN SMALL LETTER U WITH MACRON
+δ  (\u03b4)     1 := GREEK SMALL LETTER DELTA
+ε  (\u03b5)     1 := GREEK SMALL LETTER EPSILON
+ν  (\u03bd)     1 := GREEK SMALL LETTER NU
+ς  (\u03c2)     1 := GREEK SMALL LETTER FINAL SIGMA
+υ  (\u03c5)     1 := GREEK SMALL LETTER UPSILON
+ḍ  (\u1e0d)    51 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)     1 := LATIN SMALL LETTER H WITH DOT BELOW
+ṃ  (\u1e43)     6 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)    40 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)   422 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)    93 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)   176 := LATIN SMALL LETTER R WITH DOT BELOW
+ṣ  (\u1e63)   578 := LATIN SMALL LETTER S WITH DOT BELOW
+ṭ  (\u1e6d)    47 := LATIN SMALL LETTER T WITH DOT BELOW
+ἀ  (\u1f00)     2 := GREEK SMALL LETTER ALPHA WITH PSILI
+ὐ  (\u1f50)     1 := GREEK SMALL LETTER UPSILON WITH PSILI
+—  (\u2014)  4130 := EM DASH
+†  (\u2020)   902 := DAGGER

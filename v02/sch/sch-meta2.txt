@@ -1,0 +1,133 @@
+sch-meta2.txt
+June 22, 2017
+This file describes the coding conventions of sch.txt, which is the current
+version of the Schfey digitization. For previous versions, see sch-meta.txt.
+
+sch.txt uses the utf-8 encoding for extended ASCII characters.
+
+Here is the first record of sch.txt, to serve as an example for the following
+descriptions:
+<L>1<pc>001-1<k1>a<k2>a°
+{#a#} {%a°%}¦ {!2!}  , {%asvaptum%} Tāṇḍya-Br. 10 , 4 , 4. {part=,seq=1,type=,n=1}
+<LEND>
+
+
+The {X...X} style of coding serves several purposes:
+{# #}  29114  : {#X#} Only used in headword part of records. See below.
+{% %}  57590  : italic text (primarily, perhaps entirely, used for
+                Sanskrit text)
+{! !}    492  : Homonym number for word in PWK dictionary
+{part=,seq=1,type=,n=1} : This exemplifies a coding that appears for
+ each entry, at the end of the body of the entry.  
+ - part  when blank, the entry occurs in the main part of the dictionary
+         when 'N', the entry occurs in the supplement (German Nachtrag).
+ - seq  a sequence number for the entry in the original digitization. 
+   For about 350 cases of homonyms merged in the original digitization, 
+   a variant of this might be, e.g., seq=6109a.
+ - type - Some entries appear with a preceding code (*, º, +). 
+    For example, ºaMSumatPala, *aMSumatPalA, *+jyotiriNgaRa.
+ - n This is the number of lines taken by the entry in the printed edition.
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. 
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+    Note: L is usually 'close' to the value of the 'seq' parameter
+     mentioned above.
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, in IAST
+optional field for homonym
+  hom The homonym number (usually a digit). Not present in wil dictionary
+
+
+Page and Column breaks are coded as [PageX]; they appear on separate lines
+of sch.txt. The forms of X are:
+PPP.C   3-digit page number, 0-filled. Column number is 1,2 or 3
+PPPa.C  in 45-cases. These occur where words starting with a new letter
+ appear within a page. The 'a' indicates that this is the 2nd horizontal
+ section of the page. For example, look at page 104.
+
+The lines of the digitization do NOT correspond to the lines of the printed 
+text. Rather, in general, a single entry is represented by a single line of
+the digitization;  exceptions to this rule may occur when a page-column break
+occurs within the body of an entry.
+
+All of the Sanskrit in the text appears in the European Indological form,
+which we think is actually identical to the modern IAST Unicode form
+as described in the reference
+https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration. 
+
+It is beleived that most Sanskrit words appears within italics coded as
+{%X%}. Known exception:
+ - literary source references, usually abbreviated.
+
+Here are the extended ASCII characters that occur in sch.txt,
+with their approximate frequency.  Although most of these appear within 
+Sanskrit words, a few (e.g. ï) appear within words of other languages, and a few
+(such as ¦, which is markup) serve some specialized purpose.
+
+
+¦  (\u00a6) 29114 := BROKEN BAR
+§  (\u00a7)     3 := SECTION SIGN
+ª  (\u00aa)     2 := FEMININE ORDINAL INDICATOR
+°  (\u00b0)  2254 := DEGREE SIGN
+³  (\u00b3)     1 := SUPERSCRIPT THREE
+º  (\u00ba) 12875 := MASCULINE ORDINAL INDICATOR
+½  (\u00bd)     1 := VULGAR FRACTION ONE HALF
+Ä  (\u00c4)    37 := LATIN CAPITAL LETTER A WITH DIAERESIS
+Ç  (\u00c7)     1 := LATIN CAPITAL LETTER C WITH CEDILLA
+Ö  (\u00d6)    40 := LATIN CAPITAL LETTER O WITH DIAERESIS
+Ú  (\u00da)     1 := LATIN CAPITAL LETTER U WITH ACUTE
+Ü  (\u00dc)   127 := LATIN CAPITAL LETTER U WITH DIAERESIS
+ß  (\u00df)  1283 := LATIN SMALL LETTER SHARP S
+à  (\u00e0)    15 := LATIN SMALL LETTER A WITH GRAVE
+á  (\u00e1)   934 := LATIN SMALL LETTER A WITH ACUTE
+â  (\u00e2)     5 := LATIN SMALL LETTER A WITH CIRCUMFLEX
+ä  (\u00e4)  2534 := LATIN SMALL LETTER A WITH DIAERESIS
+è  (\u00e8)     1 := LATIN SMALL LETTER E WITH GRAVE
+é  (\u00e9)    45 := LATIN SMALL LETTER E WITH ACUTE
+í  (\u00ed)   125 := LATIN SMALL LETTER I WITH ACUTE
+ï  (\u00ef)    12 := LATIN SMALL LETTER I WITH DIAERESIS
+ñ  (\u00f1)  1059 := LATIN SMALL LETTER N WITH TILDE
+ó  (\u00f3)    27 := LATIN SMALL LETTER O WITH ACUTE
+ô  (\u00f4)     1 := LATIN SMALL LETTER O WITH CIRCUMFLEX
+ö  (\u00f6)  1408 := LATIN SMALL LETTER O WITH DIAERESIS
+ù  (\u00f9)     9 := LATIN SMALL LETTER U WITH GRAVE
+ú  (\u00fa)    90 := LATIN SMALL LETTER U WITH ACUTE
+ü  (\u00fc)  3474 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)  1133 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 31857 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)    15 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)  8150 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a)  3768 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)  7217 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)     2 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)  2996 := LATIN SMALL LETTER U WITH MACRON
+̀  (\u0300)    30 := COMBINING GRAVE ACCENT
+́  (\u0301)   252 := COMBINING ACUTE ACCENT
+̆  (\u0306)     1 := COMBINING BREVE
+ḋ  (\u1e0b)     1 := LATIN SMALL LETTER D WITH DOT ABOVE
+Ḍ  (\u1e0c)     5 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)  1983 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)   964 := LATIN SMALL LETTER H WITH DOT BELOW
+ḷ  (\u1e37)    10 := LATIN SMALL LETTER L WITH DOT BELOW
+ṃ  (\u1e43)  2783 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)  1904 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)  5882 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   181 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  3921 := LATIN SMALL LETTER R WITH DOT BELOW
+ṝ  (\u1e5d)     1 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+Ṡ  (\u1e60)     1 := LATIN CAPITAL LETTER S WITH DOT ABOVE
+Ṣ  (\u1e62)    11 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63)  7184 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)     4 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)  5041 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014)  2217 := EM DASH
+€  (\u20ac)     3 := EURO SIGN
+

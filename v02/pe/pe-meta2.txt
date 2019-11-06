@@ -1,0 +1,107 @@
+pe-meta2.txt
+Feb 13, 2018
+
+This supercedes pe-meta.txt as a description of 
+ the current digitization pe.txt.
+
+The digitization is in the utf-8 encoding.
+
+pe.txt contains digitization of the entries, and the genealogy appendix.
+The following descriptions generally apply to the entry sections only, not
+to the other sections. The title page, foreward and preface are not part
+of the pe.txt digitization.
+
+The {X...X} style of coding serves several purposes:
+{@X@}  : bold text
+{%X%}  : italic text 
+{#X#}  : Devanagari text in slp1 transcoding. (8 in title section, 2 in entries)
+{??}   : Unreadable text. 19 instances.
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+
+Types of line break divisions appear in the entries:
+<div n="lb"/>  Line break
+<div n="P"/>   Line break with indentation, rare.
+<div n="NI"/>  Line break without indentation, common.
+<F>X</F>       Footnote inserted at position of reference.
+<Poem>X</Poem> 
+<C n="N"/>     A column break, for tabular text.
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+
+<L>2<pc>001-a<k1>abala<k2>abala
+ABALA¦ is one of the fifteen devas who were the sons of
+<div n="lb"/>Pāñcajanya. (M.B. Vana Parva, Chapter 22, Verse 11).
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. same as k1 for this dictionary.
+optional field for homonym
+  h The homonym number (roman numerals). 
+
+Page breaks are coded as [Page...].
+There are two forms.
+First form:
+[PagePPP-C+ n] where PPP is page number from 001 to 900,
+               and C is column (a or b)
+Second form (GENEALOGY section)
+[PagePPP+ n]  PPP = 901 to 922 (single column material)
+ 
+
+Sanskrit words within the entries are presented in modern IAST form, as 
+described in  https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+This generally agrees with the printed text, except:
+We use 'ṃ' for anusvara, instead of the author's ṁ.
+
+The headwords are alphabetized in order of the Latin (English) alphabet.
+
+The extended ascii characters appearing in the digitization, along
+with their frequency as of 02-13-2018, are:
+
+¤  (\u00a4)     1 := CURRENCY SIGN
+¦  (\u00a6)  8799 := BROKEN BAR
+½  (\u00bd)     1 := VULGAR FRACTION ONE HALF
+Ñ  (\u00d1)   199 := LATIN CAPITAL LETTER N WITH TILDE
+×  (\u00d7)     4 := MULTIPLICATION SIGN
+ñ  (\u00f1)  2679 := LATIN SMALL LETTER N WITH TILDE
+Ā  (\u0100)  7721 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 67706 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)  1625 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b) 19497 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a) 12637 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b) 11533 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)   614 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)  4898 := LATIN SMALL LETTER U WITH MACRON
+Ḍ  (\u1e0c)   382 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)  4974 := LATIN SMALL LETTER D WITH DOT BELOW
+Ḥ  (\u1e24)     9 := LATIN CAPITAL LETTER H WITH DOT BELOW
+ḥ  (\u1e25)   439 := LATIN SMALL LETTER H WITH DOT BELOW
+ḷ  (\u1e37)     2 := LATIN SMALL LETTER L WITH DOT BELOW
+Ṃ  (\u1e42)   182 := LATIN CAPITAL LETTER M WITH DOT BELOW
+ṃ  (\u1e43)  2513 := LATIN SMALL LETTER M WITH DOT BELOW
+Ṅ  (\u1e44)   355 := LATIN CAPITAL LETTER N WITH DOT ABOVE
+ṅ  (\u1e45)  3161 := LATIN SMALL LETTER N WITH DOT ABOVE
+Ṇ  (\u1e46)  1017 := LATIN CAPITAL LETTER N WITH DOT BELOW
+ṇ  (\u1e47) 20672 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)  1627 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  6630 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ  (\u1e62)  1034 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63) 17116 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)   529 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)  5280 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014)  2226 := EM DASH
+‘  (\u2018)   896 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)   892 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)  2046 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)  1951 := RIGHT DOUBLE QUOTATION MARK

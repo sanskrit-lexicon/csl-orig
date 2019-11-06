@@ -1,0 +1,104 @@
+pui-meta2.txt
+Feb 16, 2018
+
+This supercedes pui-meta.txt as a description of 
+ the current digitization pui.txt.
+
+The digitization is in the utf-8 encoding.
+
+pui.txt contains digitization of the entries of the three volumes,
+along with the title pages of volumes 2 and 3. The introductory material
+from volume 1 is not currently part of the digitization.
+
+The following descriptions generally apply to the entry sections only, not
+to the other sections. 
+
+The {X...X} style of coding serves several purposes:
+{%X%}  : italic text 
+{#X#}  : Devanagari text in slp1 transcoding. Only 3 instances. 
+{??}   : Unreadable text. 6 instances.
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+
+Types of line break divisions appear in the entries:
+<div n="lb"/>  Line break
+<div n="P"/>   Line break with indentation
+<sup>N</sup>   Reference to footnote N of an entry
+<F>N)X</F>     Text of footnote N
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+
+<L>1<pc>1-001<k1>aMkuSA<k2>aMkuSA
+{%Aṃkuśā%}¦ — a Śakti on the Drāviṇikā mudrā.
+<div n="P"/>Br. IV. 36. 76.
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. same as k1 for this dictionary.
+optional field for homonym
+  h The homonym number. Expressed in Roman numerals.
+
+Page breaks are coded as [Page...].
+Page breaks have the form [PageV-PPP+ n], where
+V is the volume (1,2 or 3)
+PPP is the page (within volume)
+n is the number of lines in the new page
+
+
+The lines of the digitization generally represent lines of the text.
+
+ The headwords for these entries are in Sanskrit alphabetical order.
+
+Most Sanskrit words within the entries are presented in modern IAST form, as 
+described in  https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+This generally agrees with the printed text, except one instance
+of Ḷ (as a headword), whose significance is unclear as of this writing.
+
+
+The extended ascii characters appearing in the digitization, along
+with their frequency as of 02-16-2018, are:
+
+¦  (\u00a6) 17513 := BROKEN BAR
+©  (\u00a9)     2 := COPYRIGHT SIGN
+×  (\u00d7)     7 := MULTIPLICATION SIGN
+ñ  (\u00f1)  1204 := LATIN SMALL LETTER N WITH TILDE
+Ā  (\u0100)   996 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 41678 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)    64 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)  7213 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a)  4106 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)  6207 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)   178 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)  2412 := LATIN SMALL LETTER U WITH MACRON
+Ḍ  (\u1e0c)     5 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)  1671 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)    97 := LATIN SMALL LETTER H WITH DOT BELOW
+Ḷ  (\u1e36)     1 := LATIN CAPITAL LETTER L WITH DOT BELOW
+ḷ  (\u1e37)    10 := LATIN SMALL LETTER L WITH DOT BELOW
+ṃ  (\u1e43)   567 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)   586 := LATIN SMALL LETTER N WITH DOT ABOVE
+Ṇ  (\u1e46)     4 := LATIN CAPITAL LETTER N WITH DOT BELOW
+ṇ  (\u1e47)  7805 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   513 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  5280 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ  (\u1e62)    47 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63)  9156 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)     7 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)  1851 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014) 17886 := EM DASH
+‘  (\u2018)    27 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)    32 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)    10 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)     9 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     1 := DOUBLE LOW-9 QUOTATION MARK

@@ -1,0 +1,105 @@
+snp-meta2.txt
+Feb 19, 2018
+
+This supercedes snp-meta.txt as a description of 
+ the current digitization snp.txt.
+
+The digitization is in the utf-8 encoding.
+
+snp.txt contains digitization of the entries, along with  other
+sections of the two part work.
+The following descriptions generally apply to the entry sections only, not
+to the other sections. 
+
+The {X...X} style of coding serves several purposes:
+{%X%}  : italic text 
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+
+Types of line break divisions appear in the entries:
+<div n="lb"/>  Line break
+<div n="P"/>   Line break with indentation
+<div n="HI"/>   Line break of second type. 3 instances.
+<bot>X</bot>   Scientific names. Only in part 1.
+<lang n="greek"></lang>  Greek text, uncoded in digitization
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+
+<L>8<pc>524<k1>atasI<k2>atasI
+{%atasī%}¦
+<div n="lb"/><bot>LINUM USITATISSIMUM LINN.</bot>
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. same as k1 for this dictionary.
+optional field for homonym
+  h The homonym number (no instances in snp.txt). 
+
+Page breaks are coded as [Page...].
+In general, a page break has form [PageX+ n] where X is page number and
+n is the number of lines in the digitization for page X.
+The forms of X are:
+title-Y   (Y = v,VI)
+-PPP    where PPP = 520 to 611 for first part
+              PPP = 425 to 465 for second part
+In SNP, these page numbers refer to parts of two different publications,
+as indicated in snpheader.xml.
+
+The lines of the digitization generally represent lines of the text.
+
+The headwords for the entries are in Sanskrit dictionary alphabetical order.
+
+Sanskrit words within the entries are presented in modern IAST form, as 
+described in  https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+This agrees with the printed text.
+
+Some letters with diacritics are also used to represent words in other languages.
+
+The extended ascii characters appearing in the digitization, along
+with their frequency as of 02-19-2018, are:
+
+¦  (\u00a6)   453 := BROKEN BAR
+×  (\u00d7)     2 := MULTIPLICATION SIGN
+à  (\u00e0)     1 := LATIN SMALL LETTER A WITH GRAVE
+â  (\u00e2)     1 := LATIN SMALL LETTER A WITH CIRCUMFLEX
+ä  (\u00e4)     4 := LATIN SMALL LETTER A WITH DIAERESIS
+ç  (\u00e7)     2 := LATIN SMALL LETTER C WITH CEDILLA
+é  (\u00e9)    10 := LATIN SMALL LETTER E WITH ACUTE
+ë  (\u00eb)     1 := LATIN SMALL LETTER E WITH DIAERESIS
+ï  (\u00ef)     1 := LATIN SMALL LETTER I WITH DIAERESIS
+ñ  (\u00f1)    34 := LATIN SMALL LETTER N WITH TILDE
+Ā  (\u0100)    14 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)  1370 := LATIN SMALL LETTER A WITH MACRON
+ā̆  (\u0101\u0306)    15 := LATIN SMALL LETTER A WITH MACRON + COMBINING BREVE
+ī  (\u012b)   661 := LATIN SMALL LETTER I WITH MACRON
+ī̆  (\u012b\u0306)    10 := LATIN SMALL LETTER I WITH MACRON + COMBINING BREVE
+Ś  (\u015a)    45 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)   950 := LATIN SMALL LETTER S WITH ACUTE
+ū  (\u016b)   262 := LATIN SMALL LETTER U WITH MACRON
+ū̆  (\u016b\u0306)     7 := LATIN SMALL LETTER U WITH MACRON + COMBINING BREVE
+Ḍ  (\u1e0c)    30 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)   128 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)    13 := LATIN SMALL LETTER H WITH DOT BELOW
+ṃ  (\u1e43)    36 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)    87 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)   286 := LATIN SMALL LETTER N WITH DOT BELOW
+ṛ  (\u1e5b)   156 := LATIN SMALL LETTER R WITH DOT BELOW
+ṣ  (\u1e63)   398 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)     1 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)   257 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014)     1 := EM DASH
+‘  (\u2018)     5 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)     5 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)    14 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)    14 := RIGHT DOUBLE QUOTATION MARK

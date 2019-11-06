@@ -1,0 +1,129 @@
+ieg-meta2.txt
+Feb  8, 2018
+
+This supercedes ieg-meta.txt as a description of 
+ the current digitization ieg.txt.
+
+The digitization is in the utf-8 encoding.
+
+ieg.txt contains digitization of the preface, the body of entries,
+three appendices, a correction section, and an index.
+The following descriptions apply to the entries section and the appendices,
+but not to the other sections. [Currently, the headwords of ieg.txt also 
+include those of the appendices.]
+
+
+The {X...X} style of coding serves several purposes:
+{#X#}  : Devanagari, coded in slp1. Only occurs in the transliteration 
+         section of the preface.
+{%X%}  : italic text 
+{??}   : two places with unreadable text.
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+<div n="lb">  Line break
+<div n="P">   Line break, indented.
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>3<pc>001<k1>abAtamAla<k2>abAtamAla, abAtamAlA
+{%abātamāla, abātamālā,%}¦ Prakrit; meaning doubtful (cf. {%Ep.%}
+<div n="lb">{%Ind.,%} Vol. XV, p. 272; {%ZDMG,%} Vol. XL, pp. 345-46); explained
+<div n="lb">as a kind of sculptured slab (LL).
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+optional field for homonym
+  h The homonym number. Not present in this work.
+NOTE: For numerous entries (including the 700+ entries of the three appendices),
+  the headword is not Sanskrit.  Nonetheless, k1 and k2 are coded as if the
+  words were Sanskrit. This confusing situation is currently an unsolved
+  problem with the ieg.txt digitization.
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PageX nn], where nn is the number of following
+lines on page X.
+X has one of the regular expression forms: 
+ -([ivx]+)  for preface pages.  X from 'iii' to 'xvi'
+ -([0-9]+)  001-442  bulk of dictionary, 556-564 for post-index matters
+  ([0-9]+[ab])  for index pages (which have two columns, 'a' or 'b')
+       442-555
+
+The lines of the digitization represent lines of the text.  The headwords
+are in approximate English alphabetical order; the main entries and the
+entries of the appendices are separately alphabetized.
+
+
+All of the entry headwords, and many of the headwords in the appendices, are coded 
+in ieg.txt with approximately modern IAST Unicode, as described in
+ https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+We use 'ṃ' for anusvara, instead of the author's ṁ.
+Several Dravidian characters appear in the print with the diacritic marking of diaresis
+(two dots) below the Latin character;  We have used the preformed unicode characters
+which have a line beneath the Latin character.  There is one character which occurs about
+100 times which is described as 'Dravidian cerebral voiced  fricative' and appears in print
+as an ell 'l' with three under-dots; finding no good Unicode way to present this, we have
+left it in the form '113' of the original digitization.
+
+Here are the extended ASCII characters that occur in ieg.txt 
+with their  frequency as of this writing 02-08-2018.  (This tabulation includes text
+found in the preface and index, as well as in the text of headwords.)
+
+¦  (\u00a6)  7907 := BROKEN BAR
+º  (\u00ba)    45 := MASCULINE ORDINAL INDICATOR
+×  (\u00d7)     1 := MULTIPLICATION SIGN
+á  (\u00e1)     1 := LATIN SMALL LETTER A WITH ACUTE
+é  (\u00e9)     2 := LATIN SMALL LETTER E WITH ACUTE
+ï  (\u00ef)     3 := LATIN SMALL LETTER I WITH DIAERESIS
+ñ  (\u00f1)   859 := LATIN SMALL LETTER N WITH TILDE
+ü  (\u00fc)     9 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)   223 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 23184 := LATIN SMALL LETTER A WITH MACRON
+ĕ  (\u0115)   348 := LATIN SMALL LETTER E WITH BREVE
+Ī  (\u012a)     6 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)  3696 := LATIN SMALL LETTER I WITH MACRON
+ō  (\u014d)     1 := LATIN SMALL LETTER O WITH MACRON
+ŏ  (\u014f)    59 := LATIN SMALL LETTER O WITH BREVE
+Ś  (\u015a)   525 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)  3361 := LATIN SMALL LETTER S WITH ACUTE
+Ş  (\u015e)    16 := LATIN CAPITAL LETTER S WITH CEDILLA
+ş  (\u015f)     5 := LATIN SMALL LETTER S WITH CEDILLA
+ū  (\u016b)  1413 := LATIN SMALL LETTER U WITH MACRON
+ḍ  (\u1e0d)  3128 := LATIN SMALL LETTER D WITH DOT BELOW
+ḏ  (\u1e0f)   151 := LATIN SMALL LETTER D WITH LINE BELOW
+ḣ  (\u1e23)     1 := LATIN SMALL LETTER H WITH DOT ABOVE
+ḥ  (\u1e25)   283 := LATIN SMALL LETTER H WITH DOT BELOW
+ḷ  (\u1e37)    44 := LATIN SMALL LETTER L WITH DOT BELOW
+ḹ  (\u1e39)     1 := LATIN SMALL LETTER L WITH DOT BELOW AND MACRON
+ḻ  (\u1e3b)   515 := LATIN SMALL LETTER L WITH LINE BELOW
+ṃ  (\u1e43)   842 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)  1122 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)  5024 := LATIN SMALL LETTER N WITH DOT BELOW
+ṉ  (\u1e49)    84 := LATIN SMALL LETTER N WITH LINE BELOW
+ṙ  (\u1e59)     1 := LATIN SMALL LETTER R WITH DOT ABOVE
+Ṛ  (\u1e5a)     7 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  1210 := LATIN SMALL LETTER R WITH DOT BELOW
+ṝ  (\u1e5d)     2 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+ṟ  (\u1e5f)   402 := LATIN SMALL LETTER R WITH LINE BELOW
+Ṣ  (\u1e62)     5 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63)  3062 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)    32 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)  4167 := LATIN SMALL LETTER T WITH DOT BELOW
+ṯ  (\u1e6f)    12 := LATIN SMALL LETTER T WITH LINE BELOW
+‘  (\u2018)  2314 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)  2325 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)     2 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)     2 := RIGHT DOUBLE QUOTATION MARK
+…  (\u2026)    49 := HORIZONTAL ELLIPSIS
+〈  (\u3008)     2 := LEFT ANGLE BRACKET

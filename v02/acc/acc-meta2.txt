@@ -1,0 +1,111 @@
+acc-meta2.txt
+Apr 5, 2017. This supercedes acc-meta.txt as a description of 
+ the current digitization acc.txt.
+May 25, 2017. 'meta' lines added to acc.txt.
+
+acc.txt uses the utf-8 encoding for extended ASCII characters.
+
+The {X...X} style of coding serves several purposes:
+{#X#}    49906 : Devanagari, coded in SLP1 transliteration
+{%X%}    1461 : italic text 
+{??}     22 : unreadable text
+{@X@}    1 : bold text. in a header
+
+The following  <> type tags are found in acc.txt:
+<HI>  53695  : Marks headwords
+<>  30653  : start of new line
+<P>  166  :  start of new line
+<HI1>  26991  : start of new line
+<H>  52  : Title line
+<F>..</F>  24  : Footnote
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>22<pc>1-001,1<k1>akzarasvIkAraprayoga<k2>akzarasvIkAraprayoga
+{#akzarasvIkAraprayoga#}¦ dh. Burnell 151^a.
+<LEND>
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+
+optional field for homonym
+  hom The homonym number (usually a digit). Not present in acc dictionary
+
+---------------------------------
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PageV-PPP-C+ N] or [PageV-PPP+ N].
+The [PageV-PPP-C+ N] form is the usual form; in this form,
+ V is the volume (1,2 or 3)
+ PPP is page within volume
+ C is column, usually 'a' or 'b'; sometimes 'a1' or 'b1'
+ N is usu. a number with 1 or 2 digits (number of lines in following column)
+   Occasionally, it is 'No' (in Corrections sections).
+The [PageV-PPP+ N] form is used for title, preface pages.
+
+The lines of the digitization represent lines of the text.
+
+Headwords are coded in the general form <HI>{#X#}¦
+where X is coded in SLP1 transliteration.
+
+The headwords are ordered according to Sanskrit alphabet ordering,
+within each volume.
+
+
+Non-Devanagari Sanskrit in the body of the entries has been converted 
+to IAST unicode, generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration. 
+This differs in several respects from the coding of the printed version.
+
+
+Here are the extended ASCII characters that occur in acc.txt,
+with their approximate frequency.  
+
+¦  (\u00a6) 48869 := BROKEN BAR
+§  (\u00a7)     1 := SECTION SIGN
+«  (\u00ab)     1 := LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+¯  (\u00af)     1 := MACRON
+º  (\u00ba)    44 := MASCULINE ORDINAL INDICATOR
+»  (\u00bb)     1 := RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+Ü  (\u00dc)     2 := LATIN CAPITAL LETTER U WITH DIAERESIS
+ä  (\u00e4)    59 := LATIN SMALL LETTER A WITH DIAERESIS
+é  (\u00e9)     4 := LATIN SMALL LETTER E WITH ACUTE
+ï  (\u00ef)     2 := LATIN SMALL LETTER I WITH DIAERESIS
+ñ  (\u00f1)  3057 := LATIN SMALL LETTER N WITH TILDE
+ö  (\u00f6)    14 := LATIN SMALL LETTER O WITH DIAERESIS
+ü  (\u00fc)   839 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)  2636 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 98123 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)   144 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b) 22219 := LATIN SMALL LETTER I WITH MACRON
+ō  (\u014d)     2 := LATIN SMALL LETTER O WITH MACRON
+Ś  (\u015a)  7682 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b) 15153 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)    21 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)  6284 := LATIN SMALL LETTER U WITH MACRON
+Ḍ  (\u1e0c)    90 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)  4314 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)   580 := LATIN SMALL LETTER H WITH DOT BELOW
+ḷ  (\u1e37)    16 := LATIN SMALL LETTER L WITH DOT BELOW
+ṃ  (\u1e43)  5660 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)  4291 := LATIN SMALL LETTER N WITH DOT ABOVE
+Ṇ  (\u1e46)     6 := LATIN CAPITAL LETTER N WITH DOT BELOW
+ṇ  (\u1e47) 20345 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   256 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  6434 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ  (\u1e62)   195 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63) 11891 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)   146 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d) 14610 := LATIN SMALL LETTER T WITH DOT BELOW
+‘  (\u2018)    91 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)    91 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)     2 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)     3 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     1 := DOUBLE LOW-9 QUOTATION MARK
+†  (\u2020)     2 := DAGGER

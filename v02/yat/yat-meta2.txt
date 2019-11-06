@@ -1,0 +1,85 @@
+yat-meta2.txt
+May 31, 2017. This supercedes yat-meta.txt as a description of 
+ the current digitization yat.txt.
+-  'meta' lines added to yat.txt.
+
+yat.txt uses the utf-8 encoding for extended ASCII characters.
+
+The {X...X} style of coding serves several purposes:
+{#X#}    49906 : Devanagari, coded in SLP1 transliteration
+{%X%}    1461 : italic text 
+{??}     22 : unreadable text
+{@X@}    1 : bold text. in a header
+
+The following  <> type tags are found in yat.txt:
+<>  24834  : start of new line
+<P>  166  :  start of new line
+<H>  49  : Title line
+<F>..</F>  2  : Footnote
+<g></g>    1 : Greek text
+<HS>        1 : In preface
+<P>         6 : Paragraph break, in preface
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>3<pc>001-a<k1>aMSa<k2>aMSa
+{#aMSa#}¦ {#(t-ka) aMSayati#} 10. {%a.%} To se-
+<>parate, to divide, to apportion.
+<LEND>
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+
+optional field for homonym
+  hom The homonym number (usually a digit). Not present in yat dictionary
+
+---------------------------------
+
+Page breaks are coded as [Page...].
+Pages are like [Page-X+nn], where X has one of several forms:
+(a) -title-Y  (Y = ii, iii, iv)
+(b) 908  (an intentially blank page, before addenda)
+(c) Y    (with Y = 924-927; a page missing from pdf used for digitization)
+(d) Y-C  where Y = 001 to 923 (except 908) and C = 'a' or 'b' (column)
+
+
+The lines of the digitization represent lines of the text.
+
+The headwords are ordered according to Sanskrit alphabet ordering.
+
+The following is mentioned in Footnote on page 1:
+"The dots beneath or between the letters distinguish or separate
+<>the component parts of compound words, and so point out their deriva-
+<>tion."
+We have converted dots between letters to '-', and dots below letters to '_'.
+These occur within Devanagari text.
+Reference: https://github.com/sanskrit-lexicon/Wil-YAT/issues/3
+
+Non-Devanagari Sanskrit in the body of the entries has been partially converted 
+to IAST unicode, generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration. 
+
+Here are the extended ASCII characters that occur in yat.txt,
+with their approximate frequency.  
+
+¦  (\u00a6) 45212 := BROKEN BAR
+º  (\u00ba)     2 := MASCULINE ORDINAL INDICATOR
+Æ  (\u00c6)    34 := LATIN CAPITAL LETTER AE
+æ  (\u00e6)    69 := LATIN SMALL LETTER AE
+Ā  (\u0100)    12 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)  1952 := LATIN SMALL LETTER A WITH MACRON
+ī  (\u012b)   303 := LATIN SMALL LETTER I WITH MACRON
+ū  (\u016b)    25 := LATIN SMALL LETTER U WITH MACRON
+δ  (\u03b4)     1 := GREEK SMALL LETTER DELTA
+ḍ  (\u1e0d)    72 := LATIN SMALL LETTER D WITH DOT BELOW
+ṇ  (\u1e47)     9 := LATIN SMALL LETTER N WITH DOT BELOW
+ṛ  (\u1e5b)     1 := LATIN SMALL LETTER R WITH DOT BELOW
+ṣ  (\u1e63)     6 := LATIN SMALL LETTER S WITH DOT BELOW
+ṭ  (\u1e6d)    11 := LATIN SMALL LETTER T WITH DOT BELOW
+‘  (\u2018)     1 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)     1 := RIGHT SINGLE QUOTATION MARK

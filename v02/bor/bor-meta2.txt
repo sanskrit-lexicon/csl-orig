@@ -1,0 +1,97 @@
+bor-meta2.txt
+Feb 23, 2018
+
+This supercedes bor-meta.txt as a description of 
+ the current digitization bor.txt.
+
+The digitization is in the utf-8 encoding.
+
+bor.txt contains digitization of the entries of the two volumes of the text;
+the front matter is not part of the digitization.
+
+The {X...X} style of coding serves several purposes:
+{#X#}  : Devanagari text, in SLP1 transliteration
+{%X%}  : italic text 
+{@X@}  : bold text - used to delimit headwords.
+{??}   : Unreadable text. 3 instances
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+
+Types of line break divisions appear in the entries:
+<div n="lb"/>  Line break
+<div n="1"/>X</div>   Subsection delimited by a number: (1), (2), etc.
+<div n="I"/>X</div>   Subsection delimited by a roman numeral: I, II, etc.
+<div n="xe">X</div>  <div n="xs">Y</div>  Indicates a usage example;
+               X is English italics; Y is Sanskrit Devanagari.
+               This markup is at preliminary stage of accuracy.
+<ls>X</ls>     Literary source; this markup incomplete.
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+
+<L>5<pc>001<k1>abandonment<k2>abandonment
+<div n="lb"/>{@ABANDONMENT:@}¦ <div n="1">(1) {#tyAgaH;#} </div><div n="1">(2) {#parityAgaH;#}</div>
+<div n="lb"/><div n="1">(3) {#utsargaH;#} Ph: a. of wordly connexions:
+<div n="lb"/>{#sannpAsaH.#}</div>
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. same as k1 for this dictionary.
+optional field for homonym
+  h The homonym number (not present in bor.txt). 
+
+Page breaks are coded as [PagePPP],
+where PPP goes from 001 to 772.
+Although there are two columns of text on each page, the column breaks
+are not identified.
+
+The lines of the digitization generally represent lines of the text.
+
+The headwords for the entries are in English alphabetical order.
+
+Some Sanskrit words within the entries are presented in modern IAST form, as 
+described in  https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+There are some disagreements with modern IAST (e.g. 'sh' instead of 'ṣ').
+
+
+The extended ascii characters appearing in the digitization, along
+with their frequency as of 02-18-2018, are:
+
+¦  (\u00a6) 24661 := BROKEN BAR
+    Used primarily to delimit the headword in first line of an entry.
+    In 38 other cases, represents danda in Devanagari text:  {#X ¦ Y#}
+§  (\u00a7)    16 := SECTION SIGN
+½  (\u00bd)     1 := VULGAR FRACTION ONE HALF
+¾  (\u00be)     1 := VULGAR FRACTION THREE QUARTERS
+Æ  (\u00c6)     8 := LATIN CAPITAL LETTER AE
+æ  (\u00e6)     1 := LATIN SMALL LETTER AE
+ñ  (\u00f1)     2 := LATIN SMALL LETTER N WITH TILDE
+Ā  (\u0100)     3 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)   495 := LATIN SMALL LETTER A WITH MACRON
+ī  (\u012b)    54 := LATIN SMALL LETTER I WITH MACRON
+Œ  (\u0152)     4 := LATIN CAPITAL LIGATURE OE
+œ  (\u0153)     2 := LATIN SMALL LIGATURE OE
+Ś  (\u015a)   104 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)    52 := LATIN SMALL LETTER S WITH ACUTE
+ū  (\u016b)    18 := LATIN SMALL LETTER U WITH MACRON
+ḍ  (\u1e0d)    26 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)     2 := LATIN SMALL LETTER H WITH DOT BELOW
+ṅ  (\u1e45)     1 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)   104 := LATIN SMALL LETTER N WITH DOT BELOW
+ṛ  (\u1e5b)    17 := LATIN SMALL LETTER R WITH DOT BELOW
+ṣ  (\u1e63)    75 := LATIN SMALL LETTER S WITH DOT BELOW
+ṭ  (\u1e6d)    20 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014)    11 := EM DASH
+‘  (\u2018)    65 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)    65 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)   262 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)   262 := RIGHT DOUBLE QUOTATION MARK

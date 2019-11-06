@@ -1,0 +1,117 @@
+gst-meta2.txt
+Feb 6, 2018
+
+This supercedes gst-meta.txt as a description of 
+ the current digitization gst.txt.
+
+The digitization is in the utf-8 encoding.
+
+gst.txt contains digitization of the preface and the body of entries.
+Within the entries, there are two correction sections, two additional
+title pages, and a section of books by the publisher.  These sections are
+marked by comment lines starting with a semicolon character.
+
+The following descriptions apply to the entries only, not
+to the other sections.
+
+The {X...X} style of coding serves several purposes:
+{@X@}  : bold text
+{%X%}  : italic text 
+{#X#}  : Devanagari text, coded in SLP1 transcoding.
+{??}   : missing text; some of these are metrical symbols.
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+<s>X</s> Sanskrit text, in SLP1 transcoding.
+<sup>N</sup>  Section indicator within entry
+<div n="lb">  Line break. The digitization has a line for each line of text.
+<div n="P">   Line break with indentation.
+<lang n="greek"></lang>  Greek text, not coded (on 11 lines).
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>1<pc>001-a<k1>a<k2>a
+{#a#}¦ I. The letter {%ă,%} the first of the alphabet and the short
+<div n="lb">vowel inherent in every consonant. See {#akAra#}.
+ ...
+<LEND>
+
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1
+optional field for homonym
+  h The homonym number (roman numerals).
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PagePPP-C +NN] where
+PPP is the page number, and
+C identifies the columns as 'a' or 'b'.
+NN is the number of lines in the original digitization of the entry.  
+
+The text only contains 6780 headwords, from 'a' to 'aByAhita'.
+
+All of the headwords and text of entries are in either Devanagari or English,
+or the author's version of IAST (letters with diacritics).
+The Devanagari text is coded in SLP1, within the <s> tag, as mentioned.
+We have converted the IAST text into an approximation of modern IAST, as
+described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.   This conversion to modern form is incomplete in several details.
+
+Here are the extended ASCII characters that occur in gst.txt (within entries only):
+with their  frequency as of this writing 02-06-2018.  This listing includes
+the non-entry parts of gst.txt.
+
+£  (\u00a3)     3 := POUND SIGN
+¦  (\u00a6)  6780 := BROKEN BAR
+º  (\u00ba)   208 := MASCULINE ORDINAL INDICATOR
+Æ  (\u00c6)     6 := LATIN CAPITAL LETTER AE
+É  (\u00c9)     1 := LATIN CAPITAL LETTER E WITH ACUTE
+Ü  (\u00dc)     4 := LATIN CAPITAL LETTER U WITH DIAERESIS
+à  (\u00e0)     1 := LATIN SMALL LETTER A WITH GRAVE
+æ  (\u00e6)    54 := LATIN SMALL LETTER AE
+ç  (\u00e7)     1 := LATIN SMALL LETTER C WITH CEDILLA
+é  (\u00e9)    12 := LATIN SMALL LETTER E WITH ACUTE
+ñ  (\u00f1)    39 := LATIN SMALL LETTER N WITH TILDE
+ó  (\u00f3)     1 := LATIN SMALL LETTER O WITH ACUTE
+ö  (\u00f6)    17 := LATIN SMALL LETTER O WITH DIAERESIS
+Ā  (\u0100)   116 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)  6202 := LATIN SMALL LETTER A WITH MACRON
+ă  (\u0103)     1 := LATIN SMALL LETTER A WITH BREVE
+Ī  (\u012a)     3 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)  1023 := LATIN SMALL LETTER I WITH MACRON
+ĺ  (\u013a)     1 := LATIN SMALL LETTER L WITH ACUTE
+œ  (\u0153)    19 := LATIN SMALL LIGATURE OE
+Ś  (\u015a)   717 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)   867 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)     4 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)   543 := LATIN SMALL LETTER U WITH MACRON
+α  (\u03b1)     1 := GREEK SMALL LETTER ALPHA
+β  (\u03b2)     1 := GREEK SMALL LETTER BETA
+γ  (\u03b3)     1 := GREEK SMALL LETTER GAMMA
+δ  (\u03b4)     1 := GREEK SMALL LETTER DELTA
+Ḍ  (\u1e0c)     1 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)   145 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)     9 := LATIN SMALL LETTER H WITH DOT BELOW
+ṃ  (\u1e43)     2 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)   297 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)  1564 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   328 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  1945 := LATIN SMALL LETTER R WITH DOT BELOW
+ṣ  (\u1e63)   609 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)     1 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)   514 := LATIN SMALL LETTER T WITH DOT BELOW
+‘  (\u2018)  1613 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)  1569 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)    13 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)    13 := RIGHT DOUBLE QUOTATION MARK
+…  (\u2026)   387 := HORIZONTAL ELLIPSIS
+
+

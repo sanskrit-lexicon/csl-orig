@@ -1,0 +1,114 @@
+mci-meta2.txt
+Feb 11, 2018
+
+This supercedes mci-meta.txt as a description of 
+ the current digitization mci.txt.
+
+The digitization is in the utf-8 encoding.
+
+mci.txt contains digitization of the preface, and seven sections of entries,
+additions and corrections following each of the sections, and an index to
+the entries.
+The following descriptions generally apply to the entry sections only, not
+to the other sections.
+
+The {X...X} style of coding serves several purposes:
+{@X@}  : bold text
+{%X%}  : italic text 
+{#X#}  : Devanagari text in slp1 transcoding. (8 in title section, 2 in entries)
+{??}   : Unreadable text. 5 instances.
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+
+<sup>N</sup>  Superscript text for homonyms and homonym references.
+Often line breaks have semantic significance.
+   Two types of line break divisions appear in the entries:
+<div n="lb">  Line break
+<div n="P">   Line break with indentation
+
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+
+<L>1<pc>001-a<k1>akarkara<k2>akarkara
+{@Akarkara@}¦ m.: A mythical serpent.
+<div n="P">Son of Kadrū, listed among her sons by
+<div n="lb">Sūta at the request of Śaunaka 1. 31. 15, 2.
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. same as k1 for this dictionary.
+optional field for homonym
+  h The homonym number (a digit sequence). 
+
+Page breaks are coded as [Page...].
+In general, a page number has form [PageX+ n], 
+where X is the page number of the following page (or page-column), 
+and 'n' is the number of lines pertaining to X.
+X has one of several forms:
+00-PP    for the Preface; PP from 01 to 43
+PPP-c     body of text; PPP from 001 to 981 , and = 'a' or 'b' (column)
+PPP-sc    where s is 1 or 2.  A few pages with multiple 'sections'.
+
+
+Sanskrit words within the entries are presented in modern IAST form, as 
+described in  https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+This generally agrees with the printed text, except:
+We use 'ṃ' for anusvara, instead of the author's ṁ.
+
+The headwords are alphabetized in Sanskrit alphabetical order
+within each of the seven sections.
+
+l̃  (\u006c\u0303)     9 := LATIN SMALL LETTER L + COMBINING TILDE
+                      nasalized 'L'
+¦  (\u00a6)  2643 := BROKEN BAR
+§  (\u00a7)     1 := SECTION SIGN
+º  (\u00ba)    67 := MASCULINE ORDINAL INDICATOR
+Ü  (\u00dc)     1 := LATIN CAPITAL LETTER U WITH DIAERESIS
+á  (\u00e1)     1 := LATIN SMALL LETTER A WITH ACUTE
+ä  (\u00e4)     1 := LATIN SMALL LETTER A WITH DIAERESIS
+ñ  (\u00f1)  2202 := LATIN SMALL LETTER N WITH TILDE
+ö  (\u00f6)     7 := LATIN SMALL LETTER O WITH DIAERESIS
+ü  (\u00fc)     2 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)   552 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 61189 := LATIN SMALL LETTER A WITH MACRON
+ā̆  (\u0101\u0306)    10 := LATIN SMALL LETTER A WITH MACRON + COMBINING BREVE
+                      Vowel may be short or long
+Ī  (\u012a)     9 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b) 12244 := LATIN SMALL LETTER I WITH MACRON
+ī̆  (\u012b\u0306)     8 := LATIN SMALL LETTER I WITH MACRON + COMBINING BREVE
+ō  (\u014d)     6 := LATIN SMALL LETTER O WITH MACRON
+œ  (\u0153)     1 := LATIN SMALL LIGATURE OE
+Ś  (\u015a)  2308 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b) 13046 := LATIN SMALL LETTER S WITH ACUTE
+ū  (\u016b)  4657 := LATIN SMALL LETTER U WITH MACRON
+ū̆  (\u016b\u0306)     1 := LATIN SMALL LETTER U WITH MACRON + COMBINING BREVE
+Ḍ  (\u1e0c)     3 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)  3323 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)  8864 := LATIN SMALL LETTER H WITH DOT BELOW
+ḷ  (\u1e37)     6 := LATIN SMALL LETTER L WITH DOT BELOW
+ṃ  (\u1e43) 11870 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)  2339 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47) 13651 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   251 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  7441 := LATIN SMALL LETTER R WITH DOT BELOW
+ṝ  (\u1e5d)    42 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
+Ṣ  (\u1e62)     7 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63) 15141 := LATIN SMALL LETTER S WITH DOT BELOW
+ṭ  (\u1e6d)  4535 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014)   105 := EM DASH
+‘  (\u2018)   427 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)   423 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)    91 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)    86 := RIGHT DOUBLE QUOTATION MARK
+…  (\u2026)  3099 := HORIZONTAL ELLIPSIS

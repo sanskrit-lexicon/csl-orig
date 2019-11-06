@@ -1,0 +1,101 @@
+mwe-meta2.txt
+Feb 26, 2018
+
+This supercedes mwe-meta.txt as a description of 
+ the current digitization mwe.txt.
+
+The digitization is in the utf-8 encoding.
+
+mwe.txt contains digitization of the entire text consisting of front matter,
+entries, and appendix.
+
+The {X...X} style of coding serves several purposes:
+{#X#}  : Devanagari text, in SLP1 transliteration
+{%X%}  : italic text 
+{??}   : Unreadable text. 1 instance, in preface
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+
+Types of line break divisions appear in the entries:
+<div n="lb"/>  Line break
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+
+<L>3<pc>001-a<k1>abandon<k2>abandon
+<div n="lb"/>{%To%} ABANDON¦, {%v. a.%} {#tyaj#} (c. 1. {#tyajati, tyaktuM#}), {#parityaj, santyaj; hA#} (c. 3.
+<div n="lb"/>{#jahAti, hAtuM#}), {#apahA, vihA, prahA, apAhA; utsfj#} (c. 6. {#-sfjati, -srazwuM#}),
+<div n="lb"/>{#atisfj, vyapasfj; ujJ#} (c. 6. {#ujJati, ujJituM#}), {#projJ#}.
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. same as k1 for this dictionary.
+optional field for homonym
+  h The homonym number (not present in mwe.txt). 
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[Pageppp-c+ n]
+where
+  ppp is 3-digit page number (pagination starts anew for each volume)
+  c = column.  a or b, indicating first or secondcolumn.
+  n = number of lines in the following column of text.
+Page breaks in the preface are of form
+[PageP+ n]  where P is 2 through 17, except
+[Page5-c+ n], where c is a,b, or c.
+
+The lines of the digitization represent lines of the text.
+
+The headwords for the entries are in English alphabetical order.
+The Appendix also contains entries, which are separately alphabetized.
+
+Most Sanskrit words are represented in Devanagari, which is coded as {#X#},
+where X is is SLP1 transliteration.
+
+Some Sanskrit words within the entries are presented in modern IAST form, as 
+described in  https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+There are some disagreements with modern IAST (e.g. 'sh' instead of 'ṣ').
+
+
+The extended ascii characters appearing in the digitization, along
+with their frequency as of 02-26-2018, are:
+
+¦  (\u00a6) 32378 := BROKEN BAR
+¯  (\u00af)     1 := MACRON
+À  (\u00c0)     2 := LATIN CAPITAL LETTER A WITH GRAVE
+É  (\u00c9)     8 := LATIN CAPITAL LETTER E WITH ACUTE
+Ô  (\u00d4)     1 := LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+æ  (\u00e6)     5 := LATIN SMALL LETTER AE
+Ā  (\u0100)    63 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)   369 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)    14 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)    92 := LATIN SMALL LETTER I WITH MACRON
+Œ  (\u0152)    23 := LATIN CAPITAL LIGATURE OE
+œ  (\u0153)     4 := LATIN SMALL LIGATURE OE
+Ś  (\u015a)    50 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)    29 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)     2 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)    65 := LATIN SMALL LETTER U WITH MACRON
+Ḍ  (\u1e0c)     1 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)     2 := LATIN SMALL LETTER D WITH DOT BELOW
+ṇ  (\u1e47)    24 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)     8 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)    25 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ  (\u1e62)     5 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63)    53 := LATIN SMALL LETTER S WITH DOT BELOW
+ṭ  (\u1e6d)     5 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014) 14000 := EM DASH
+‘  (\u2018) 12271 := LEFT SINGLE QUOTATION MARK
+’  (\u2019) 12254 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)     3 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)     2 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)     1 := DOUBLE LOW-9 QUOTATION MARK

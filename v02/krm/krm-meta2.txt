@@ -1,0 +1,110 @@
+krm-meta2.txt
+Jan 28, 2018
+
+This supercedes krm-meta.txt as a description of 
+ the current digitization krm.txt.
+
+The digitization is in the utf-8 encoding.
+
+krm.txt contains digitization of the preface, the body of entries,
+and several appendices.  Within the entries, there is a section of
+corrections; also there is a second set of corrections within the
+appendices.   The following descriptions apply to the entries only, not
+to the preface, corrections, or appendices.
+
+The {X...X} style of coding serves several purposes:
+{@X@}  : bold text
+{%X%}  : italic text 
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
+<s>X</s> Sanskrit text, in SLP1 transcoding.
+<note n="1"/>  A flag indicating unusually formatted text, where semantically
+   linear text is presented in more than one line.
+<Poem>X</Poem>  Occurs twice
+<sup>N</sup>  Footnote indicator
+<F>X</F>      Footnote.  Footnotes appear at the end of entries.
+Often line breaks have semantic significance, such as indicating the
+   row of a table. Three types of line break divisions are indicated, although
+   the distinction among these types is not currently understood.
+<div n="lb">  Line break
+<div n="NI">  Line break
+<div n="P">   Line break
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>1<pc>0003<k1>aka<k2>aka
+(1) {@<s>“aka kuwilAyAM gatO”</s>@}¦ (<s>I-BvAdiH</s>-792 <s>sakarmakaH-sew-parasmEpadI) GawAdiH mit .</s>
+ ...
+<LEND>
+
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+optional field for homonym
+  h The homonym number (usually a digit). [Currently not used]
+
+Page breaks are coded as [Page...].
+Page breaks are more specifically coded as
+[PagePPPP +NN] where
+PPPP is the page number, and
+NN is the number of lines in the original digitization of the entry.  Due to
+reorginaztion of Footnotes in this version of digitization, the NN number is
+probably without significance.
+
+All of the headwords and text of entries are in either Devanagari or English.
+The Devanagari text is coded in SLP1, within the <s> tag, as mentioned.
+
+
+Here are the extended ASCII characters that occur in krm.txt (within entries only):
+with their  frequency as of this writing 01-28-2018.
+¦  (\u00a6)  2061 := BROKEN BAR
+º  (\u00ba)     1 := MASCULINE ORDINAL INDICATOR
+×  (\u00d7)     1 := MULTIPLICATION SIGN
+—  (\u2014)  5528 := EM DASH
+‘  (\u2018) 14815 := LEFT SINGLE QUOTATION MARK
+’  (\u2019) 14818 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)  2415 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)  2417 := RIGHT DOUBLE QUOTATION MARK
+…  (\u2026)   298 := HORIZONTAL ELLIPSIS
+
+The following list is similar, but includes the non-entry parts of krm.txt as
+well as the entries.
+
+£  (\u00a3)     1 := POUND SIGN
+¤  (\u00a4)     2 := CURRENCY SIGN
+¦  (\u00a6)  2061 := BROKEN BAR
+§  (\u00a7)     1 := SECTION SIGN
+©  (\u00a9)     4 := COPYRIGHT SIGN
+º  (\u00ba)     1 := MASCULINE ORDINAL INDICATOR
+×  (\u00d7)     1 := MULTIPLICATION SIGN
+ñ  (\u00f1)     1 := LATIN SMALL LETTER N WITH TILDE
+Ā  (\u0100)    11 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)   103 := LATIN SMALL LETTER A WITH MACRON
+ī  (\u012b)    13 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a)    11 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)     7 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)     5 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)    12 := LATIN SMALL LETTER U WITH MACRON
+ḍ  (\u1e0d)     3 := LATIN SMALL LETTER D WITH DOT BELOW
+ṃ  (\u1e43)     1 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)     3 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)    21 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)     5 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)    29 := LATIN SMALL LETTER R WITH DOT BELOW
+ṣ  (\u1e63)     7 := LATIN SMALL LETTER S WITH DOT BELOW
+ṭ  (\u1e6d)    11 := LATIN SMALL LETTER T WITH DOT BELOW
+—  (\u2014)  5632 := EM DASH
+‘  (\u2018) 14929 := LEFT SINGLE QUOTATION MARK
+’  (\u2019) 14926 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)  2428 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)  2428 := RIGHT DOUBLE QUOTATION MARK
+…  (\u2026)   410 := HORIZONTAL ELLIPSIS
