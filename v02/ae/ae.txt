@@ -88711,7 +88711,7 @@ supply the forms, according to rules given in grammars.
 {@Woman,@}¦ {%s.%} {#strI, nArI, aMganA, abalA, yo-#}
 <div n="lb"/>{#-zit, vanitA, lalanA, yozA, sImaMtinI, vaDUH,#}
 <div n="lb"/>{#vAmA, mahilA;#} ‘nobly-born w.’ {#kulAM-#}
-<div n="lb"/>{#-gamA, kulajA,#} ‘young w.’ {#yuvatiH-#}
+<div n="lb"/>{#-ganA, kulajA,#} ‘young w.’ {#yuvatiH-#}
 <div n="lb"/>{#-tI, yUnI, taruRI, pramadA, bAlA,#} ‘beautiful
 <div n="lb"/>w.’ {#suMdarI, pramadA, suBagA, nitaMbinI, vAma-#}
 <div n="lb"/>{#-locanA;#} ‘an excellent w.’ {#varArohA,#}
