@@ -22746,8 +22746,8 @@ geschmäht, tadelhaft.
 
 <L>5038<pc>086-1<k1>kup<k2>kup
 {#kup#}¦ {#kupyati, °te#} in Bewegung geraten, aufwallen, <lbinfo n="7"/>
-aürnen {%(Dat. o. Gen.); p.p.%} {#kupita#} <lbinfo n="4"/>
-erzurnt, zorning. {%Caus.%} {#kopa/yati#}
+zürnen {%(Dat. o. Gen.); p.p.%} {#kupita#} <lbinfo n="4"/>
+erzürnt, zorning. {%Caus.%} {#kopa/yati#}
 [Page086-2]
 {%u.%} {#°te#} in Wallung bringen, aufregen,
 erzürnen, {#pra#} {%dass;%} {#prakupita#} schwankend;
@@ -51181,7 +51181,7 @@ Sternbild, Stiz, wohnort.
 
 <L>11126<pc>198-1<k1>DI<k2>DI/<h>2
 2. {#DI/#}¦ {%f.%} Gedanke, Vorstellung, Meinung,
-einsicht, Begriff, Verstand, Verständnis, <lbinfo n="4"/>
+Einsicht, Begriff, Verstand, Verständnis, <lbinfo n="4"/>
 Kenntnis, Kunst, Andacht, Gebet.
 <LEND>
 
