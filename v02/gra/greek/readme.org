@@ -1,0 +1,96 @@
+The Vedaweb project at Cologne has added Greek text to Grassman dictionary.
+This subdirectory devoted to importing these into gra.txt.
+
+* Francisco Mondaca does 'data modeling' for Vedaweb.
+He responded to my email request (1/8/2020):
+
+
+Dear Mr Funderburk,
+
+First of all: thank you very much for all the years that you have been
+working with the Sanskrit dictionaries!
+
+The Sanskrit dictionaries that we have in TEI-P5 format can be accessed
+via APIs here:
+https://cceh.github.io/c-salt_sanskrit_data/
+Their GitHub repository is: 
+https://github.com/cceh/c-salt_sanskrit_data
+Attached to this email you can find a list with the IDs of the lemmata
+in gra.tei that contain Greek words. In 'lemma_naqa_4811' the second
+word is in Hebrew.
+
+VedaWeb's data can be accessed via the WebApp that you already know.
+Rigveda related data can be accessed via a REST API: 
+https://vedaweb.uni-koeln.de/rigveda/swagger-ui.html
+The current TEI-P5 version of VedaWeb can be found here:
+https://github.com/cceh/c-salt_vedaweb_tei
+
+Best regards,
+
+Francisco Mondaca
+
+
+On Wed, 2020-01-08 at 14:17 -0500, Jim Funderburk wrote:
+> Dear Francisco Mondaca,
+> I work on the https://www.sanskrit-lexicon.uni-koeln.de/ web site.
+>  In exploring https://vedaweb.uni-koeln.de/, 
+> my colleague Mārcis Gasūns recently noticed that vedaweb has the 
+>
+> Greek text in the Grassman dictionary.  In our Grassman digitization
+> we don't have the Greek text.
+> This note is to request you to share back your version of the
+> Grassman dictionary with us, so that
+> we may use it to add the Greek (and Hebrew) text to our version.
+>
+> I am contacting you at the suggestion of Daniel Kölligan, who said
+> you are responsible for
+> data modeling in the vedaweb project.  Thank you in advance for your
+> help.
+>
+> Regards,
+> Jim Funderburk
+>
+* entries_with_gr_tags_filled_1.txt  186 cases, 1 per line
+Attachment from Francisco Mondaca.
+187 lines.
+Samples:
+lemma_akzu_58	ἀγρεύω, ἄγρευμα, ἄγρηνον
+lemma_Sam_8658	κάμ-νω
+lemma_sU_10078	σεύω (ἐσσύμενος); υἱός
+
+* entries Format:
+2 tab delimited fields:
+- lemma_hw_id    
+  hw = SLP1 spelling 
+  id = sequence number
+     Note: It appears to be 1 less than the L-number in current gra.txt
+     e.g., akzu 58 : the L-num of akzu in gra.txt is 59
+     The last line is lemma_hiruk_10709, and Lnum of hiruk is 10710.
+- Greek.  
+  one or more greek words.  
+    Sometimes a ',' example 
+    lemma_akzu_58	ἀγρεύω, ἄγρευμα, ἄγρηνον
+    By scan, these three words are sequential, with separating commas.
+    There is only one <lang n="greek"></lang> in gra.txt.
+  Sometimese a ';' example:
+    lemma_agra_100	ἄγω, ἀγός, ἄκτωρ; ἡγεῖσθαι, στρατ-ηγός
+    in gra.txt there are TWO greek texts.  So the ';' is an instance separator.
+* temp_old_gra.txt
+ cp ../gra.txt temp_old_gra.txt
+This uses gra.txt of commit 079c8c65a8f2148cfdca7a8bcea4618f577c104f
+* Hebrew:
+lemma_naqa_4811	νάρδος; נֵרְדְּ
+* One addition to entries:
+lemma_dA_4163  ἔδω-ν
+
+* updateByLine.txt - made bu greek_changes.py
+python greek_changes.py temp_old_gra.txt entries_with_gr_tags_filled_1.txt updateByLine.txt
+
+* temp_new_gra.txt
+python updateByLine.py temp_old_gra.txt updateByLine.txt temp_new_gra.txt
+* Lastly, replace gra.txt by temp_new_gra.txt and sync to github
+cp temp_new_gra.txt ../gra.txt
+* Tasks in other repositories
+<lang n="hebrew">...</lang> is a new attribute value for the lang tag.
+Change csl-pywork/v02/makotemplates/pywork/one.dtd accordingly.
+Then remake gra.

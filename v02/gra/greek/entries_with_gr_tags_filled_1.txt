@@ -1,0 +1,189 @@
+lemma_aMsa_6	ὦμος
+lemma_akzu_58	ἀγρεύω, ἄγρευμα, ἄγρηνον
+lemma_agra_100	ἄγω, ἀγός, ἄκτωρ; ἡγεῖσθαι, στρατ-ηγός
+lemma_aGa_113	ἀχ, ἀγχ
+lemma_aNgiras_136	ἄγγελος
+lemma_aja_169	ἀγό-ς
+lemma_ajra_205	ἀγρός
+lemma_aDi_353	-θι; -θα, -θε, -θευ
+lemma_an_390	ἀν-, ἀ-
+lemma_anu_509	ἀνὰ
+lemma_anta_566	ἄντα, ἄντην; ἄντα; πέρας
+lemma_antra_591	ἔντερον
+lemma_anDa_592	ἐπ-ενήνοθε, κατ-ενήνοθε
+lemma_anDas_594	ἀνήνοθε
+lemma_apaciti_619	ἀπό-τισις
+lemma_amatra_859	ἄμετρος
+lemma_amfta_905	ἀμβροσία
+lemma_amBas_917	ὀμφαλό-ς
+lemma_ar_953	ὀρ, ἐρ; ἀρ
+lemma_arh_1092	ἄρχω; ἄρχειν λάμπειν
+lemma_aS_1209	ἤνεγκα; ἠνεκής; δουρηνεκές, ποδ-ηνεκής, διηνεκής
+lemma_aS_1211	ὄςςομαι, ὄπωπα
+lemma_aSru_1252	δάκρυ; δάκ-νω 
+lemma_asfj_1355	ἔαρ
+lemma_ah_1395	ἄγχω
+lemma_ahan_1400	δάκρυ
+lemma_ahi_1411	ἄγχω
+lemma_A_1443	ἀνά
+lemma_Atman_1498	ἀϋτμήν, ἀετμόν 
+lemma_Ama_1555	ὠμός
+lemma_Ardra_1606	ἄρδω
+lemma_ASu_1632	ὠκύ-ς; ὤκιστο-ς
+lemma_izira_1791	ἱερός; ἰαρός
+lemma_Ikz_1819	ὄσσομαι, ὄπωπα
+lemma_ukz_1854	ὑγ-ρό-ς
+lemma_uru_2024	εὐρύ-ς
+lemma_urvarA_2051	ἄρουρα; ἀρόω
+lemma_Urj_2101	ὀργάω
+lemma_UrRavABi_2112	ὑφαίνω
+lemma_UrDva_2117	στῆ δ' ὀρθός; ὀρθὸς ἀναστάς
+lemma_fC_2151	σκ; χ; σχ; ἔρχομαι
+lemma_fta_2183	ἀραρίσκω; ὄρνυμι
+lemma_fdu_2230	ἄρδω
+lemma_fhat_2271	ἐλαχύς
+lemma_kapanA_2417	κάμπη; κάμπτω
+lemma_kam_2428	κεν
+lemma_karkari_2451	καρκαίρω
+lemma_karz_2470	κείρω
+lemma_kalaSa_2473	κάλυξ, κύλιξ; καλύπτω
+lemma_kalA_2474	κείρω
+lemma_kuB_2599	κύπτω, κυφός
+lemma_kulAya_2616	καλύπτω
+lemma_kratu_2728	κρατός
+lemma_kzap_2779	σκέπω
+lemma_kzam_2784	χθώυ; χαμαί, χθαμαλός
+lemma_kzamya_2785	χθόνιο-ς
+lemma_kzi_2795	φθίω
+lemma_kzura_2818	ξυρόν; ξύω
+lemma_kzRu_2837	ξύω
+lemma_Kid_2868	κῆδος
+lemma_gfD_3011	γλίχομαι
+lemma_gnA_3092	γυνὴ
+lemma_graT_3098	κλώθω
+lemma_Ga_3124	γε
+lemma_ca_3183	τε
+lemma_cakra_3184	κύκλος, κίρκος; κυλίω
+lemma_caKvas_3196	χα, χαίνω
+lemma_cAy_3272	τίω
+lemma_cAza_3279	κίσσα, κίττα; *κικjα; ἥσσων, ἥττων; ἡκjων
+lemma_ci_3280	τίς
+lemma_ci_3281	τίω
+lemma_ci_3282	σχιά
+lemma_CAga_3362	σκάζω
+lemma_jar_3426	γῆρυς; γηρύω
+lemma_jAmAtf_3482	γαμβρό-; γαμ-ρό-ς
+lemma_jeh_3561	χαίνω
+lemma_jYA_3570	γνοίης
+lemma_taMs_3606	ἑλκύειν
+lemma_taku_3610	ταχύς
+lemma_takzan_3616	τέκτων
+lemma_tanu_3642	ταναός, τανύς
+lemma_tfd_3874	τερέω, ἔτορε, τέρετρον
+lemma_trita_3932	τρίτος
+lemma_daMs_4030	δέδαε
+lemma_dakziRa_4047	δεξιός
+lemma_dam_4089	δέμω; δῶ
+lemma_dama_4090	δόμος
+; an extra one 
+lemma_dA_4163	ἔδω-ν
+lemma_dAna_4176	δαίς, δαίτη
+lemma_dAnu_4182	δαίμων
+lemma_dAru_4198	δοῦρα, δούρατα; δόρυ
+lemma_du_4283	δύω
+lemma_dfti_4401	δέρμα
+lemma_dvAr_4599	θύρα
+lemma_Danu_4637	θῑ́ς, θῑνός
+lemma_DAv_4690	θέω, θοός
+lemma_DenA_4750	θηλή, θηλώ, θῆλυς
+lemma_na_4791	οὐκ ἄν
+lemma_nakti_4800	νύξ
+lemma_naqa_4811	νάρδος; נֵרְדְּ
+lemma_naB_4827	νέφος
+lemma_nama_4841	νομό-ς, νέμ-ος
+lemma_navedas_4882	ἀνά
+lemma_naS_4888	νύχα, νύχιος
+lemma_nas_4891	νέομαι, νόστος, ναίω
+lemma_nu_5076	νεύω
+lemma_paj_5166	πήγνυμι (ἐπάγην); πηγό-ς
+lemma_pajra_5167	πηγός
+lemma_paraSu_5265	πέλεκυ-ς
+lemma_parA_5272	παρά
+lemma_parRa_5339	σπαίρω
+lemma_pavi_5367	παίω; πάϝjω
+lemma_pitva_5489	πίτνω
+lemma_piSuna_5509	πικρός
+lemma_pIq_5514	πιέζω
+lemma_pIvan_5522	πίων, πίειρα
+lemma_pIvas_5523	πῖαρ
+lemma_pU_5680	πῦρ
+lemma_pfc_5735	ἐμάχοντο μάχην
+lemma_pfdAku_5778	πάρδος, πάρδαλις
+lemma_pfSni_5783	περκνός
+lemma_prati_5867	προτί
+lemma_pravat_5975	πρηνής
+lemma_prAtar_6044	πρωΐ
+lemma_Par_6120	σπαίρω, σπείρω; σπείρω
+lemma_bahu_6179	παχύς
+lemma_bAhu_6199	πῆχυ-ς
+lemma_buD_6216	πυνθάνομαι
+lemma_Bakz_6281	φάγω
+lemma_Ban_6303	φαίνω; φη-μί
+lemma_Basad_6339	βδέ-ω, βδέσ-μα
+lemma_BAs_6361	φόως
+lemma_Bur_6392	πορφύρω
+lemma_Buraj_6393	φρύγ-ω
+lemma_BU_6402	φύ-ω
+lemma_Bf_6436	φέρ-ω
+lemma_Bfjj_6440	φρύγ-ω
+lemma_BrAj_6462	φλέγ-ω
+lemma_BrAtf_6468	φρᾱ́τηρ
+lemma_BrU_6474	ὀ-φρύ-ς
+lemma_maKa_6493	μάχομαι; μάχαιρα; πρό-μαχο-ς, σύμ-μαχο-ς
+lemma_maKasy_6495	μαχέομαι, μαχείομαι
+lemma_majman_6508	μέγας
+lemma_mad_6532	μαδά-ω
+lemma_maDu_6549	μέθυ
+lemma_maDya_6574	μέσσος
+lemma_man_6584	μέν- (μεμονα)
+lemma_man_6585	μέν-ω
+lemma_manA_6598	μνᾶ
+lemma_mar_6674	μαρμαίρω
+lemma_mA_6757	μή
+lemma_mAMScatu_6758	μήν
+lemma_mAkis_6764	μήτις
+lemma_mAkI_6765	μᾱκρός
+lemma_mAkIm_6767	μήτι
+lemma_mAti_6773	μῆτις
+lemma_mAyA_6797	μῆτις
+lemma_mih_6858	ὀμιχέω; ὀμίχλη
+lemma_muc_6869	μύσσω, μυκτήρ; σμύσσεται, σμυκτήρ
+lemma_meka_6937	μακρός
+lemma_meDA_6951	μαθ; μανθάνω ἔμαθον
+lemma_yat_7026	αἰτέω
+lemma_yas_7084	ζέω
+lemma_ranDra_7302	λανθάνω
+lemma_riK_7402	ἐρείκω, ἐρέχθω
+lemma_riS_7412	ἐρέπτομαι
+lemma_vAGat_7846	εὔχομαι
+lemma_vfj_8350	εἵργνυμι, εἵργω
+lemma_veSa_8477	οἶκος
+lemma_veSia_8481	οἰκίον
+lemma_Sam_8658	κάμ-νω
+lemma_SU_8883	κοῖλος
+lemma_SnaT_8929	κεντέω
+lemma_Sravas_8966	κλέος; κλέα ἀνδρῶν
+lemma_saG_9119	ἔσχον
+lemma_sac_9132	ἕπω
+lemma_satyaSravas_9189	Ἐτεοκλῆς
+lemma_santya_9295	ὅσιος
+lemma_sama_9359	ἀμός
+lemma_sah_9504	ἴσχον, ἴσχω
+lemma_su_9701	εὖ
+lemma_suBasad_9882	καλλίπυγος
+lemma_sU_10078	σεύω (ἐσσύμενος); υἱός
+lemma_stAmu_10230	στένω, στενάχω
+lemma_stiyA_10234	στία, στῖον
+lemma_svAd_10490	ἥδομαι
+lemma_hAridrava_10639	χαραδριός
+lemma_hiruk_10709	χωρ-ίς
