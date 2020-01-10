@@ -70,6 +70,7 @@
 <L>9881.01<pc>0364-b<k1>OrDvadEhika<k2>OrDvadEhika<type>alt<LP>9881<k1P>OrDvadehika<ln1>83158<ln2>83165
 <L>9882.01<pc>0364-b<k1>OrDvaSrotasikaH<k2>OrDvaSrotasikaH<type>alt<LP>9882<k1P>OrDvasrotasikaH<ln1>83166<ln2>83169
 <L>10032.01<pc>0369-b<k1>kaWAkuH<k2>kaWAkuH<type>alt<LP>10032<k1P>kawAkuH<ln1>84305<ln2>84307
+<L>10066.1<pc>0370-b<k1>kaWinI<k2>kaWinI<type>alt<LP>10066<k1P>kaWinikA
 <L>10076.01<pc>0370-c<k1>kaqaMkaraH<k2>kaqaMkaraH<type>alt<LP>10076<k1P>kaqaMgaraH<ln1>84617<ln2>84620
 <L>10077.01<pc>0370-c<k1>kaqaMkarIya<k2>kaqaMkarIya<type>alt<LP>10077<k1P>kaqaMgarIya<ln1>84621<ln2>84626
 <L>10078.01<pc>0370-c<k1>kalatraM<k2>kalatraM<type>alt<LP>10078<k1P>kaqatraM<ln1>84627<ln2>84630
