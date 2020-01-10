@@ -18,6 +18,14 @@
    </titleStmt>
    <editionStmt>
     <edition>xml version, <date when="2014-06-30">30 June 2014</date></edition>
+     <respStmt>
+       <resp>Greek data entry</resp>
+       <name>Natalie Korobzow (Cologne)</name>
+     </respStmt>
+     <respStmt>
+       <resp>Greek data entry</resp>
+       <name>Daniel Kölligan (Würzburg)</name>
+     </respStmt>
    </editionStmt>
    <extent>4.4 MB</extent>
    <publicationStmt>
