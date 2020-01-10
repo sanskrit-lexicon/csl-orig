@@ -21,7 +21,7 @@
     <edition>xml version, <date when="2014-06-30">30 June 2014</date></edition>
     <respStmt>
      <resp>Error correction</resp>
-     <name>Sampada Savardekar</name>
+     <name>Dr. Sampada Savardekar Thomas</name>
     </respStmt>
     <respStmt>
      <resp>Error correction</resp>
@@ -31,6 +31,10 @@
      <resp>Greek data entry</resp>
      <name>Jonathan Migliori</name>
      <note>2017-2019</note>
+    </respStmt>
+    <respStmt>
+       <resp>Insertion of Arabic text</resp>
+       <name>Jason Lyle Reeder</name>
     </respStmt>
    </editionStmt>
    <extent>7.0 MB</extent>

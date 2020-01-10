@@ -23,13 +23,17 @@
     <edition>xml version, <date when="2013">2013</date></edition>
     <respStmt>
      <resp>Correction of unclear characters</resp>
-     <name>Sampada Savardekar</name>
+     <name>Dr. Sampada Savardekar Thomas</name>
     </respStmt>
     <respStmt>
      <resp>Greek data entry</resp>
      <name>Jonathan Migliori</name>
      <note>2017-2019</note>
     </respStmt>
+     <respStmt>
+       <resp>Insertion of Arabic text</resp>
+       <name>Jason Lyle Reeder</name>
+     </respStmt>
    </editionStmt>
    <extent>40 MB</extent>
    <publicationStmt>
