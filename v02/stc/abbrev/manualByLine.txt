@@ -1,0 +1,176 @@
+1492 old interrogative), certes, oui; {%kim a.%} à plus forte raison.
+1492 new interrogative), certes, oui; {%kim a.%} à plus forte raison.
+18252 old {@arus- nt.@}¦ cicatrice. blessure.
+18252 new {@arus-@}¦ <ab>nt.</ab> cicatrice. blessure.
+24257 old sacrificiel; jour personnifié <lbinfo n="3"/>; n. d'un Tīrtha; {%a. a.%} de jour en jour.
+24257 new sacrificiel; jour personnifié <lbinfo n="3"/>; <ab>n.</ab> d'un Tīrtha; {%a. a.%} de jour en jour.
+68635 old {@na-cira-@}¦ {%-am -āt -eṇa v. a-cira- ; -āya%} sous peu, bientôt.
+68635 new {@na-cira-@}¦ {%-am -āt -eṇa%} <ab>v.</ab> {%a-cira-%} ; {%-āya%} sous peu, bientôt.
+69064 old conduite prudente, politique; {%kālasya n.%} cours du temps, passe-temps;
+69064 new conduite prudente, politique; {%kālasya n.%} cours du temps, passe-temps;
+70725 old verser dans; remettre, confier à (loc.; {%haste n.%} remettre entre les
+70725 new verser dans; remettre, confier à (<ab>loc.</ab>; {%haste n.%} remettre entre les
+71042 old à; {%na n.%} jamais ; {%-tā-%} f. {%-tva-%} nt. perpétuité, continuité,
+71042 new à; {%na n.%} jamais ; {%-tā-%} <ab>f.</ab> {%-tva-%} <ab>nt.</ab> perpétuité, continuité,
+71219 old devant qq'un (dat.) ; offrir à (dat. loc.); {%ātmānaṃ n.%} se confier à
+71219 new devant <ab>qq'un</ab> (<ab>dat.</ab>) ; offrir à (<ab>dat.</ab> <ab>loc.</ab>); {%ātmānaṃ n.%} se confier à
+71220 old (loc.)  ; {%kriyāṃ n.%} se donner de la peine pour (loc.)  ; {%dṛśaṃ n.%}
+71220 new (<ab>loc.</ab>)  ; {%kriyāṃ n.%} se donner de la peine pour (<ab>loc.</ab>)  ; {%dṛśaṃ n.%}
+71221 old fixer les yeux sur (loc.)  ; {%bhūmau%} ou {%avaṭe n.%} enterrer; {%śirasi%}
+71221 new fixer les yeux sur (<ab>loc.</ab>)  ; {%bhūmau%} ou {%avaṭe n.%} enterrer; {%śirasi%}
+71222 old ou {%-e n.%} (placer sur la tête), révérer, rendre hommage à (acc.)  ;
+71222 new ou {%-e n.%} (placer sur la tête), révérer, rendre hommage à (<ab>acc.</ab>)  ;
+71244 old Kubera ; ifc. avec des mots signifiants « eau », océan; {%daivo n.%}
+71244 new Kubera ; <ab>ifc.</ab> avec des mots signifiants « eau », océan; {%daivo n.%}
+71302 old sacrifice); accomplir (cérémonie); passer (temps); {%udakaṃ n.%} verser de
+71302 new sacrifice); accomplir (cérémonie); passer (temps); {%udakaṃ n.%} verser de
+71339 old d'un foetus) ; se produire, avoir lieu, devenir le lot de (loc.); {%pādayor n.%}
+71339 new d'un foetus) ; se produire, avoir lieu, devenir le lot de (<ab>loc.</ab>); {%pādayor n.%}
+71526 old couché (soleil); {%paralokāya n.%} qui a passé dans l'autre monde;
+71526 new couché (soleil); {%paralokāya n.%} qui a passé dans l'autre monde;
+71582 old efficiente; {%-aṃ yā-%} être la cause ; {%kiṃ n.%} pourquoi ? pourquoi
+71582 new efficiente; {%-aṃ yā-%} être la cause ; {%kiṃ n.%} pourquoi ? pourquoi
+72694 old ({%nidrāṃ n.%} s'endormir); {%°gata-%} sorti, parti, disparu; devenu visible,
+72694 new ({%nidrāṃ n.%} s'endormir); {%°gata-%} sorti, parti, disparu; devenu visible,
+73197 old être brisé, se briser, s'ouvrir; {%khaṃ n.%} creuser la terre; {%granthaṃ%}
+73197 new être brisé, se briser, s'ouvrir; {%khaṃ n.%} creuser la terre; {%granthaṃ%}
+73311 old (ville); produire, causer, déterminer; {%giraṃ n.%} élever la voix, prononcer
+73311 new (ville); produire, causer, déterminer; {%giraṃ n.%} élever la voix, prononcer
+73312 old qqch.; {%citraṃ n.%} peindre un tableau <lbinfo n="5"/>; {%dharmaṃ n.%} établir une loi ou
+73312 new <ab>qqch.</ab>; {%citraṃ n.%} peindre un tableau <lbinfo n="5"/>; {%dharmaṃ n.%} établir une loi ou
+73313 old une règle; {%nītiṃ n.%} montrer, manifester.
+73313 new une règle; {%nītiṃ n.%} montrer, manifester.
+73470 old {%mṛgayāṃ n.%} aller à la chasse; caus. faire sortir, etc.; expulser,
+73470 new {%mṛgayāṃ n.%} aller à la chasse; <ab>caus.</ab> faire sortir, etc.; expulser,
+73606 old accomplir (rite); {%kṛṣiṃ n.%} s'occuper <lbinfo n="5"/> d'agriculture; caus. semer,
+73606 new accomplir (rite); {%kṛṣiṃ n.%} s'occuper <lbinfo n="5"/> d'agriculture; <ab>caus.</ab> semer,
+74356 old présenter; {%ātmānaṃ n.%} se présenter, s'offrir; {%doṣaṃ n.%} imputer la
+74356 new présenter; {%ātmānaṃ n.%} se présenter, s'offrir; {%doṣaṃ n.%} imputer la
+74379 old désigner pour une fonction, diriger vers; {%citre n.%} peindre; {%manasi%} ou
+74379 new désigner pour une fonction, diriger vers; {%citre n.%} peindre; {%manasi%} ou
+74380 old {%hṛdaye n.%} graver dans l'esprit, dans le coeur; {%°viṣṭa-%} entré, etc.;
+74380 new {%hṛdaye n.%} graver dans l'esprit, dans le coeur; {%°viṣṭa-%} entré, etc.;
+74472 old mariage; trace imprimée, marque <lbinfo n="3"/>, ornement; {%sthāne n.%} arrangement; {%-aṃ%}
+74472 new mariage; trace imprimée, marque <lbinfo n="3"/>, ornement; {%sthāne n.%} arrangement; {%-aṃ%}
+74817 old couché, reposer; sombrer; {%sattraṃ n.%} tenir une session sacrificielle;
+74817 new couché, reposer; sombrer; {%sattraṃ n.%} tenir une session sacrificielle;
+75314 old mûrir, consommer; {%rājyaṃ n.%} régner; {%°panna-%} tombé dehors, sorti,
+75314 new mûrir, consommer; {%rājyaṃ n.%} régner; {%°panna-%} tombé dehors, sorti,
+75393 old {@niṣ-PIṢ-@}¦ broyer, écraser; battre (linge); {%caraṇau n.%} frapper des
+75393 new {@niṣ-PIṢ-@}¦ broyer, écraser; battre (linge); {%caraṇau n.%} frapper des
+75394 old pieds; {%karaṃ kareṇa n.%} se frotter les mains; {%dantair%} ou {%dantān%} ou
+75394 new pieds; {%karaṃ kareṇa n.%} se frotter les mains; {%dantair%} ou {%dantān%} ou
+75395 old {%danteṣu n.%} grincer des dents; {%°piṣṭa-%} broyé, écrasé, etc.;
+75395 new {%danteṣu n.%} grincer des dents; {%°piṣṭa-%} broyé, écrasé, etc.;
+75401 old {%caraṇau n.%} étreindre les pieds de qq'un en signe de respect;
+75401 new {%caraṇau n.%} étreindre les pieds de <ab>qq'un</ab> en signe de respect;
+76097 old {%abalimānaṃ n.%} proche du coma.
+76097 new {%abalimānaṃ n.%} proche du coma.
+76370 old présentement, maintenant, désormais; {%kadā n.%} quand donc ?  {%kva n.%}
+76370 new présentement, maintenant, désormais; {%kadā n.%} quand donc ?  {%kva n.%}
+76506 old guide, chef, chef d'armée, héros de drame ; {%daṇḍasya n.%} qui punit, qui a
+76506 new guide, chef, chef d'armée, héros de drame ; {%daṇḍasya n.%} qui punit, qui a
+77001 old confier; régler, arranger; mentionner <lbinfo n="7"/>; {%citre n.%} reproduire en peinture,
+77001 new confier; régler, arranger; mentionner <lbinfo n="7"/>; {%citre n.%} reproduire en peinture,
+77002 old peindre; {%pathi n.%} quitter ou laisser tomber en route; {%manasi n.%}
+77002 new peindre; {%pathi n.%} quitter ou laisser tomber en route; {%manasi n.%}
+77003 old méditer; {%śirasi n.%} recevoir avec grand respect; {%°asta-%} jeté, rejeté,
+77003 new méditer; {%śirasi n.%} recevoir avec grand respect; {%°asta-%} jeté, rejeté,
+77132 old {@ny-etya@}¦ abs. étant entré ou tombé dans; {%bhāvaṃ n.%} ayant assumé
+77132 new {@ny-etya@}¦ <ab>abs.</ab> étant entré ou tombé dans; {%bhāvaṃ n.%} ayant assumé
+103938 old ({%manye%} me semble-t-il); considérer, tenir pour ({%bahu m.%} estimer ;
+103938 new ({%manye%} me semble-t-il); considérer, tenir pour ({%bahu m.%} estimer ;
+103939 old {%sādhu m.%} approuver ; {%laghu m.%} faire peu de cas ; {%tṛṇāya m.%} ne
+103939 new {%sādhu m.%} approuver ; {%laghu m.%} faire peu de cas ; {%tṛṇāya m.%} ne
+104075 old {@manāk@}¦ adv. un peu, peu ; seulement ; {%na m.%} nullement ; {%manāg asmi%}
+104075 new {@manāk@}¦ <ab>adv.</ab> un peu, peu ; seulement ; {%na m.%} nullement ; {%manāg asmi%}
+104965 old {@masī-@}¦ ({%-ī-%}) v. {%maṣīM-; m. -bhū-%} devenir noir, noircir.
+104965 new {@masī-@}¦ ({%-ī-%}) <ab>v.</ab> {%maṣī/i-%}; {%m. -bhū-%} devenir noir, noircir.
+107104 old parole ({%na m. kṛ-%} la tenir); {%m. bhū-%} s'avérer faux.
+107104 new parole ({%na m. kṛ-%} la tenir); {%m. bhū-%} s'avérer faux.
+110008 old {@yad-@}¦ pron. rel., nt. sg. de {%ya- ; conj.%} que (complétives) ; de sorte
+110008 new {@yad-@}¦ <ab>pron.</ab> rel., <ab>nt.</ab> <ab>sg.</ab> de {%ya-%} ; <ab>conj.</ab> que (complétives) ; de sorte
+120992 old {@vi-GRAH-@}¦ faire la guerre à, combattre qq'un (acc.); saisir ({%keśe v.%}
+120992 new {@vi-GRAH-@}¦ faire la guerre à, combattre <ab>qq'un</ab> (<ab>acc.</ab>); saisir ({%keśe v.%}
+121937 old {@vi-TṜ-@}¦ traverser, pénétrer; accorder ({%uttaraṃ%}{% v.%} donner une
+121937 new {@vi-TṜ-@}¦ traverser, pénétrer; accorder ({%uttaraṃ  v.%} donner une
+122260 old {@viddha-@}¦ ({@VYADH-@}) a. v. percé, blessé, etc.  ({%śūlāyāṃ v.%}
+122260 new {@viddha-@}¦ ({@VYADH-@}) <ab>a. v.</ab> percé, blessé, etc.  ({%śūlāyāṃ v.%}
+122278 old  Veda ({%trayī v.%} les 3 Veda); magie, formule
+122278 new  Veda ({%trayī v.%} les 3 Veda); magie, formule
+122521 old construire, créer; procurer <lbinfo n="5"/> (à, gén.; {%ātmano v.%} se procurer);
+122521 new construire, créer; procurer <lbinfo n="5"/> (à, <ab>gén.</ab>; {%ātmano v.%} se procurer);
+122530 old régime ; {%ūrdhavaṃ bāhū v.%} lever les bras; {%kāmān,%} etc.  {%v.%}
+122530 new régime ; {%ūrdhavaṃ bāhū v.%} lever les bras; {%kāmān,%} etc.  {%v.%}
+122531 old exaucer les voeux; {%kalahaṃ v.%} engager une querelle; {%devārcanaṃ%} ou
+122531 new exaucer les voeux; {%kalahaṃ v.%} engager une querelle; {%devārcanaṃ%} ou
+122532 old {%pūjāṃ v.%} adorer (une divinité); {%mantraṃ v.%} tenir conseil;
+122532 new {%pūjāṃ v.%} adorer (une divinité); {%mantraṃ v.%} tenir conseil;
+122533 old {%maitryaṃ v.%} lier amitié; {%rājyaṃ v.%} exercer la royauté, gouverner;
+122533 new {%maitryaṃ v.%} lier amitié; {%rājyaṃ v.%} exercer la royauté, gouverner;
+122534 old {%vṛttiṃ v.%} assurer la subsistance; {%veṣaṃ v.%} passer un vêtement;
+122534 new {%vṛttiṃ v.%} assurer la subsistance; {%veṣaṃ v.%} passer un vêtement;
+122535 old {%vairyaṃ v.%} déclarer la guerre; {%śaucaṃ v.%} se purifier; {%saṃdhiṃ%}
+122535 new {%vairyaṃ v.%} déclarer la guerre; {%śaucaṃ v.%} se purifier; {%saṃdhiṃ%}
+122536 old {%v.%} conclure la paix; {%siṃhatvaṃ v.%} transformer en un lion; {%hṛdaye v.%}
+122536 new {%v.%} conclure la paix; {%siṃhatvaṃ v.%} transformer en un lion; {%hṛdaye v.%}
+122696 old préserver; {%mano v.%} fixer l'esprit sur (loc.); {%°dhṛta-%} séparé, etc.;
+122696 new préserver; {%mano v.%} fixer l'esprit sur (<ab>loc.</ab>); {%°dhṛta-%} séparé, etc.;
+122697 old écarté, arrêté, etc.; {%antare v.%} mis en gage; {%śirāsā,%} etc.  {%v.%}
+122697 new écarté, arrêté, etc.; {%antare v.%} mis en gage; {%śirāsā,%} etc.  {%v.%}
+122956 old sur ou dans (loc.); {%hṛdaye v.%} garder dans son coeur; {%°hita-%} placé,
+122956 new sur ou dans (<ab>loc.</ab>); {%hṛdaye v.%} garder dans son coeur; {%°hita-%} placé,
+123183 old appliquer, assigner (à une fonction, loc.); {%kare v.%} rendre tributaire <lbinfo n="5"/>;
+123183 new appliquer, assigner (à une fonction, <ab>loc.</ab>); {%kare v.%} rendre tributaire <lbinfo n="5"/>;
+123185 old sur (loc.; {%hṛdaye v.%} gravé dans le coeur).
+123185 new sur (<ab>loc.</ab>; {%hṛdaye v.%} gravé dans le coeur).
+124015 old (lire {%prati°%}); caus. outrager ({%ājnāṃ v.%} enfreindre un ordre);
+124015 new (lire {%prati°%}); <ab>caus.</ab> outrager ({%ājnāṃ v.%} enfreindre un ordre);
+124293 old {%samaṃ v.%} diviser en parties égales; {%ardhaṃ v.%} diviser en deux);
+124293 new {%samaṃ v.%} diviser en parties égales; {%ardhaṃ v.%} diviser en deux);
+124598 old disperser; {%indriyaṃ v.%} troubler les sens; {%°mathita-%} dispersé, etc.
+124598 new disperser; {%indriyaṃ v.%} troubler les sens; {%°mathita-%} dispersé, etc.
+124742 old pardonner; émettre, lâcher, lancer, décocher ({%ātmānaṃ v.%} se jeter);
+124742 new pardonner; émettre, lâcher, lancer, décocher ({%ātmānaṃ v.%} se jeter);
+127107 old (larmes, etc.; {%vācaṃ v.%} élever la voix; {%nādān v.%} produire du
+127107 new (larmes, etc.; {%vācaṃ v.%} élever la voix; {%nādān v.%} produire du
+127111 old gén.); {%kāmaṃ v.%} exaucer
+127111 new <ab>gén.</ab>); {%kāmaṃ v.%} exaucer
+127180 old {@vi-STṜ-@}¦ étendre, répandre ({%vacanaṃ v.%} parler d'abondance,
+127180 new {@vi-STṜ-@}¦ étendre, répandre ({%vacanaṃ v.%} parler d'abondance,
+127515 old ({%talāt talaṃ v.%} faire passer de main en main); séjourner, passer le
+127515 new ({%talāt talaṃ v.%} faire passer de main en main); séjourner, passer le
+127516 old temps, prendre ses ébats, se promener, circuler ({%mṛgayāṃ v.%} aller à la
+127516 new temps, prendre ses ébats, se promener, circuler ({%mṛgayāṃ v.%} aller à la
+127587 old distinguer, reconnaître; considérer comme (adv. en {%-vat%}); {%hṛdi v.%}
+127587 new distinguer, reconnaître; considérer comme (<ab>adv.</ab> en {%-vat%}); {%hṛdi v.%}
+128049 old qq'un (loc. dat. acc.); {%itaretaraṃ%} ou {%parasparaṃ v.%} se comporter
+128049 new <ab>qq'un</ab> (<ab>loc.</ab> <ab>dat.</ab> <ab>acc.</ab>); {%itaretaraṃ%} ou {%parasparaṃ v.%} se comporter
+128059 old passe-t-il ?; {%manasi%} ou {%hṛdaye v.%} réfléchir; {%mūrdhni v.%} être
+128059 new passe-t-il ?; {%manasi%} ou {%hṛdaye v.%} réfléchir; {%mūrdhni v.%} être
+128060 old à la tête; {%parājñayā%}{% v.%} être aux ordres; {%priyaṃ v.%} agir avec
+128060 new à la tête; {%parājñayā v.%} être aux ordres; {%priyaṃ v.%} agir avec
+130715 old {%vākye v.%} obéissant); décidé à (loc.); déterminé, défini, bien
+130715 new {%vākye v.%} obéissant); décidé à (<ab>loc.</ab>); déterminé, défini, bien
+131229 old occuper qq'un de ou auprès de (loc., rar. instr., qqf.  {%°artham; hastaṃ%}
+131229 new occuper <ab>qq'un</ab> de ou auprès de (<ab>loc.</ab>, rar. <ab>instr.</ab>, <ab>qqf.</ab>  {%°artham%}; {%hastaṃ v.%}
+131230 old {%v.%} faire un mouvement de la main; {%vaṇīṃ v.%} élever la voix); charger
+131230 new faire un mouvement de la main; {%vaṇīṃ v.%} élever la voix); charger
+131498 old s'entretenir avec ({%saha%}); qqf.  = {%vi-HṚ-%} s'amuser; {%nāmabhir v.%}
+131498 new s'entretenir avec ({%saha%}); <ab>qqf.</ab>  = {%vi-HṚ-%} s'amuser; {%nāmabhir v.%}
+131499 old appeler par (leurs) noms; {%praśnān v.%} répondre à des questions;
+131499 new appeler par (leurs) noms; {%praśnān v.%} répondre à des questions;
+131726 old de locomotion, instr.; {%padbhyāṃ v.%} aller à pied); s'en aller; passer,
+131726 new de locomotion, <ab>instr.</ab>; {%padbhyāṃ v.%} aller à pied); s'en aller; passer,
+131729 old situation (ord. moy.; {%jarāṃ v.%} vieillir; {%mṛtyuṃ v.%} mourir); marcher
+131729 new situation (<ab>ord.</ab> <ab>moy.</ab>; {%jarāṃ v.%} vieillir; {%mṛtyuṃ v.%} mourir); marcher
+131730 old contre l'ennemi (avec ou sans {%vidviṣam,%} <lbinfo n="4"/> etc.); {%punar v.%} revenir dans
+131730 new contre l'ennemi (avec ou sans {%vidviṣam,%} <lbinfo n="4"/> etc.); {%punar v.%} revenir dans
+131731 old l'existence, renaître; {%jīvan v.%} avoir la vie sauve; {%sukhaṃ v.%} se
+131731 new l'existence, renaître; {%jīvan v.%} avoir la vie sauve; {%sukhaṃ v.%} se
+131733 old selon le régime; {%antaṃ v.%} parvenir jusqu'au bout; {%mūrdhnā pādau v.%}
+131733 new selon le régime; {%antaṃ v.%} parvenir jusqu'au bout; {%mūrdhnā pādau v.%}
+131734 old se jeter aux pieds de (gén.); {%viśvāsaṃ v.%} avoir ou reprendre confiance
+131734 new se jeter aux pieds de (<ab>gén.</ab>); {%viśvāsaṃ v.%} avoir ou reprendre confiance
+131735 old (en, loc.); {%śaraṇaṃ v.%} se réfugier auprès de (gén.), etc.; a. v. qui
+131735 new (en, <ab>loc.</ab>); {%śaraṇaṃ v.%} se réfugier auprès de (<ab>gén.</ab>), etc.; <ab>a. v.</ab> qui

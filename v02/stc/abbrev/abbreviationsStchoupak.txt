@@ -1,0 +1,97 @@
+;I put in rose what doesn’t need to be mentionned in the little window (the small explanations).
+;In green what I suggest as replacement of the previous paragraph (still for the small explanations)
+;I added in the list 2 or 3 forgotten abbreviations (or not mentionned because obvious, but better to mention them for non French people): “v. s.”  “mauv.” and “v. s. v. ”
+;–––––
+;Les abréviations suivantes ont été utilisées :
+;
+;
+a.	adjectif.
+; original a. v. adjectif verbal[1].
+a. v.	adjectif verbal.
+abs.	absolutif.
+acc.	accusatif.
+act.	actif (voix active).
+adv.	adverbe.
+; original ag. nom d'agent (noms en -tṛ-, noms-racines, etc.).
+ag.	nom d'agent 
+aor.	aoriste.
+caus.	causatif.
+cf.	confer.
+; original comp. composé, composition (c'est-à-dire que la forme citée ne s'emploie que dans un composé).
+comp.	composé, composition (ne s'emploie que dans un composé).
+compar.	comparatif.
+conj.	conjonction.
+dat.	datif.
+dén.	dénominatif.
+dés.	désidératif.
+; two abbreviations for diminutif
+dim.	diminutif.
+dimin.	diminutif.
+du.	duel.
+ép.	épithète.
+f.	féminin.
+fut.	futur. 
+fut. périphr.	futur périphrastique.
+gén.	génitif.
+gramm.	grammaire (vocabulaire des grammairiens indiens).
+; original ifc. in fine compositi : c'est-à-dire que la forme citée s'emploie aussi ou s'emploie uniquement comme dernier membre d'un composé.
+ifc.	in fine compositi : s'emploie aussi ou uniquement comme dernier membre d'un composé.
+; original iic. in initio compositi : c'est-à-dire que la forme citée s'emploie aussi ou s'emploie uniquement comme premier membre d'un composé.
+iic.	in initio compositi : s'emploie aussi ou uniquement comme premier membre d'un composé.
+impér.	impératif.
+impers.	impersonnel.
+impf.	imparfait.
+indécl.	indéclinable.
+inf.	infinitif.
+instr.	instrumental.
+int.	intensif.
+interj.	interjection.
+KSS.	Kathāsaritsāgara.
+loc.	locatif.
+m.	masculin.
+mauv.	[mauvaise]
+MhBh.	Mahābhārata.
+moy.	moyen (voix moyenne).
+n.	nom.
+; two abbreviations for nominatif
+nomin.	nominatif. 
+nom.	nominatif. 
+num.	numéral.
+nt.	neutre.
+onom.	onomatopée.
+ord.	ordinairement.
+partic.	participe.
+patron.	patronymique.
+pft.	parfait.
+philos.	philosophique (langue).
+pl.	pluriel.
+prép.	préposition.
+prév.	préverbe.
+; two abbreviations for pronom
+pronom.	pronom, pronominal.
+pron.	pronom, pronominal.
+qq.	quelque.
+qqch.	quelque chose.
+qqf.	quelquefois.
+; no period with qq'un
+qq'un	quelqu'un.
+Rām.	Rāmāyana.
+rhét.	rhétorique.
+sg.	singulier.
+; no period with skt
+skt	sanskrit.
+sup.	superlatif.
+s. v.	sub vocabulo [« voir/sous ce/le terme »] .
+Up.	Upaniṣad.
+v.	voir.
+v. s.	[« voir sous… »]
+v. s. v.	[« voir sous ce(s) terme(s) » ou « voir sous le(s) terme(s)… »]
+; original var. ou v. l. variante.
+var.	variante.
+v. l.	[varia lectio] variante
+véd.	védique.
+voc.	vocatif.
+;Note the frequent “v. s. v.” which is v. + s. v.
+;And note also the very frequent  “v. s.”
+;________________
+;[1] Dans un verbe, cette abréviation désigne toujours l’adjectif en -ta-  (ou -na-) cité dans l’énumération des formes de ce verbe.
