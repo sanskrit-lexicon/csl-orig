@@ -205,7 +205,7 @@
 <L>13933.1<k1>kuqava<k2>kuqava<type>alt<LP>13933<k1P>kuqapa
 <L>13992.1<k1>kukURaka<k2>kukURaka<type>alt<LP>13992<k1P>kutURaka
 <L>14031.1<k1>kunawa<k2>kunawa<type>alt<LP>14031<k1P>kunaha
-<L>14081.1<k1>kubera<k2>kubera<type>alt<LP>14081<k1P>kubera
+<L>14081.1<k1>kuvera<k2>kuvera<type>alt<LP>14081<k1P>kubera
 <L>14083.1<k1>kuverAcala<k2>kuverAcala<type>alt<LP>14083<k1P>kuberAcala
 <L>14182.1<k1>kumBIDAnyaka<k2>kumBIDAnyaka<type>alt<LP>14182<k1P>kumBIDAnya
 <L>14205.1<k1>kuraRwaka<k2>kuraRwaka<type>alt<LP>14205<k1P>kuraRwa
@@ -262,7 +262,7 @@
 <L>16394.1<k1>ninI<k2>ninI<type>alt<LP>16394<k1P>KanI
 <L>16434.1<k1>KaramaYjari<k2>KaramaYjari<type>alt<LP>16434<k1P>KaramaYjarI
 <L>16465.1<k1>Karva<k2>Karva<type>alt<LP>16465<k1P>Karba
-<L>16466.1<k1>Karba<k2>Karba<type>alt<LP>16466<k1P>Karba
+<L>16466.1<k1>Karva<k2>Karva<type>alt<LP>16466<k1P>Karba
 <L>16467.1<k1>Karvawa<k2>Karvawa<type>alt<LP>16467<k1P>Karbawa
 <L>16471.1<k1>Karvuja<k2>Karvuja<type>alt<LP>16471<k1P>Karbuja
 <L>16486.1<k1>KalIna<k2>KalIna<type>alt<LP>16486<k1P>Kalina
@@ -511,7 +511,7 @@
 <L>27943.1<k1>nandIvfkza<k2>nandIvfkza<type>alt<LP>27943<k1P>nandivfkza
 <L>28086.1<k1>narAca<k2>narAca<type>alt<LP>28086<k1P>narAja
 <L>28163.1<k1>navatI<k2>navatI<type>alt<LP>28163<k1P>navati
-<L>28189.1<k1>navabaDU<k2>navabaDU<type>alt<LP>28189<k1P>navabaDU
+<L>28189.1<k1>navavaDU<k2>navavaDU<type>alt<LP>28189<k1P>navabaDU
 <L>28220.1<k1>navasUtikA<k2>navasUtikA<type>alt<LP>28220<k1P>navasUti
 <L>28383.1<k1>nAgodara<k2>nAgodara<type>alt<LP>28383<k1P>nAgoda
 <L>28568.1<k1>nAlI<k2>nAlI<type>alt<LP>28568<k1P>nAli
@@ -634,14 +634,14 @@
 <L>32567.1<k1>puranDrI<k2>puranDrI<type>alt<LP>32567<k1P>puranDri
 <L>32608.1<k1>purI<k2>purI<type>alt<LP>32608<k1P>puri
 <L>32609.1<k1>purItat<k2>purItat<type>alt<LP>32609<k1P>puritat
-<L>32643.1<k1>pururavasa<k2>pururavasa<type>alt<LP>32643<k1P>pururavasa
+<L>32643.1<k1>pururavasa<k2>pururavasa<type>alt<LP>32643<k1P>purUravasa
 <L>32690.1<k1>puroqASa<k2>puroqASa<type>alt<LP>32690<k1P>puroqAS
 <L>32745.1<k1>puzkarabIja<k2>puzkarabIja<type>alt<LP>32745<k1P>puzkaravIja
 <L>32764.1<k1>puzyalaka<k2>puzyalaka<type>alt<LP>32764<k1P>puzkalaka
 <L>32805.1<k1>puzpapracAya<k2>puzpapracAya<type>alt<LP>32805<k1P>puzpapracaya
 <L>32825.1<k1>puzpabARa<k2>puzpabARa<type>alt<LP>32825<k1P>puzpavARa
 <L>32914.1<k1>pUtiPalI<k2>pUtiPalI<type>alt<LP>32914<k1P>pUtiPalA
-<L>32958.1<k1>pUrRakuwa<k2>pUrRakuwa<type>alt<LP>32958<k1P>pUrRakuwa
+<L>32958.1<k1>pUrRakuwa<k2>pUrRakuwa<type>alt<LP>32958<k1P>pUrRakUwa
 <L>32976.1<k1>pUrRAlaka<k2>pUrRAlaka<type>alt<LP>32976<k1P>pUrRAnaka
 <L>33005.1<k1>pUrbaja<k2>pUrbaja<type>alt<LP>33005<k1P>pUrvaja
 <L>33006.1<k1>pUrbajina<k2>pUrbajina<type>alt<LP>33006<k1P>pUrvajina
