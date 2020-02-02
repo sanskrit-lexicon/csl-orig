@@ -20,7 +20,7 @@
 <L>18993.01<k1>nimbukaM<k2>nimbukaM<type>alt<LP>18993<k1P>nimbUkaM
 <L>19059.01<k1>nirudDaprakASaH<k2>nirudDaprakASaH<type>alt<LP>19059<k1P>nirudDaprakaSaH
 <L>19401.01<k1>nizyandaH<k2>nizyandaH<type>alt<LP>19401<k1P>nisyandaH
-<L>20119.01<k1>patraM<k2>patraM<type>alt<LP>20119<k1P>patraM
+<L>20119.01<k1>pattraM<k2>pattraM<type>alt<LP>20119<k1P>patraM
 <L>21721.01<k1>pItasAlaH<k2>pItasAlaH<type>alt<LP>21721<k1P>pItaSAlaH
 <L>21848.01<k1>putraH<k2>putraH<type>alt<LP>21848<k1P>puttraH
 <L>22221.01<k1>pUrvvaH<k2>pUrvvaH<type>alt<LP>22221<k1P>pUrbbaH
@@ -65,7 +65,7 @@
 <L>23955.01<k1>vaDUH<k2>vaDUH<type>alt<LP>23955<k1P>baDUH
 <L>23996.01<k1>vaBra<k2>vaBra<type>alt<LP>23996<k1P>baBra
 <L>24012.01<k1>valaM<k2>valaM<type>alt<LP>24012<k1P>balaM
-<L>24013.01<k1>balaH<k2>balaH<type>alt<LP>24013<k1P>balaH
+<L>24013.01<k1>valaH<k2>valaH<type>alt<LP>24013<k1P>balaH
 <L>24014.01<k1>valakzaH<k2>valakzaH<type>alt<LP>24014<k1P>balakzaH
 <L>24036.01<k1>valA<k2>valA<type>alt<LP>24036<k1P>balA
 <L>24037.01<k1>valAkaH<k2>valAkaH<type>alt<LP>24037<k1P>balAkaH
