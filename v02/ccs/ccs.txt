@@ -12542,24 +12542,20 @@ auf.
 <LEND>
 
 <L>2858<pc>045-1<k1>AlavAla<k2>AlavAla
-{#AlavAla#}¦ {%n.%} Wassergraben {%(um einen Baum).%}
+{#AlavAla#}¦ {%n.%} Wassergraben ({%um einen Baum%}).
 <LEND>
 
 <L>2859<pc>045-1<k1>Alasya<k2>Alasya
-{#Alasya#}¦ {%n.%} Wassergt.
+{#Alasya#}¦ {%n.%} Trägheit.
 <LEND>
 
 <L>2860<pc>045-1<k1>AlAna<k2>AlAna
-{#AlAna#}¦ {%n.%} Trägheit.
+{#AlAna#}¦ {%n.%} Pfahl zum Anbinden eines Elefanten. <lbinfo n="7"/>
 <LEND>
 
 <L>2861<pc>045-1<k1>AlApa<k2>AlApa
-{#AlApa#}¦ {%n.%} Pfahl zum Anbinden eines Elefanten. <lbinfo n="7"/>
-<LEND>
-
-<L>2862<pc>045-1<k1>AlApin<k2>AlApin
-{#AlApin#}¦ {%m.%} Rede, Gespräch; Gesang {%(der%}
-{%Vögel).%}
+{#AlApa#}¦ {%m.%} Rede, Gespräch; Gesang ({%der%}
+{%Vögel%}.)
 <LEND>
 
 <L>2863<pc>045-1<k1>AlApin<k2>AlApin
