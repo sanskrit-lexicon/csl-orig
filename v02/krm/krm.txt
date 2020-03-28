@@ -9510,8 +9510,8 @@
 <F>A. <s>‘astepitAnandarasasya tasya na vyaglepi cANgErvipinADvakepanAt ..’ DA</s>. <s>kA</s>. 1-47.</F>
 <LEND>
 
-<L>262<pc>0265<k1>kex<k2>kex
-(262) {@<s>“kex calane”</s>@}¦ (I<s>-BvAdiH</s>-537. <s>aka</s>. <s>sew</s>. <s>para</s>.)
+<L>262<pc>0265<k1>kelf<k2>kelf
+(262) {@<s>“kelf calane”</s>@}¦ (I<s>-BvAdiH</s>-537. <s>aka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>kelakaH-likA, kelakaH-likA, cikelizakaH-zikA, cekelakaH-likA</s>;
 <div n="lb"><s>kelitA-trI, kelayitA-trI, cikelizitA-trI, cekelitA-trI</s>; 
 [Page0266+ 23]
@@ -12774,8 +12774,8 @@
 <div n="P"><s>ityAdIni cOrAdikaketayativat</s> (260) <s>sarvARi rUpARyasya jYeyAni .</s>
 <LEND>
 
-<L>359<pc>0357<k1>Kex<k2>Kex
-(359) {@<s>“Kex calane”</s>@}¦ (I<s>-BvAdiH</s>-538. <s>aka</s>. <s>sew</s>. <s>para</s>.)
+<L>359<pc>0357<k1>Kelf<k2>Kelf
+(359) {@<s>“Kelf calane”</s>@}¦ (I<s>-BvAdiH</s>-538. <s>aka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>KelakaH-likA, KelakaH-likA, ciKelizakaH-zikA, ceKelakaH-likA</s>;
 <div n="lb"><s>ityAdIni sarvARyapi rUpARi BOvAdikakelativat</s> (262) <s>jYeyAni . Kelanam</s>
 <sup>C</sup> <s>.</s>
@@ -12885,8 +12885,8 @@
 <F>2. <s>‘guroSca halaH’</s> (3-3-103) <s>iti akArapratyayaH .</s></F>
 <LEND>
 
-<L>364<pc>0360<k1>Kox<k2>Kox
-(364) {@<s>“Kox gatipratIGAte”</s>@}¦ (I<s>-BvAdiH</s>-551. <s>saka</s>. <s>sew</s>. <s>para</s>.)
+<L>364<pc>0360<k1>Kolf<k2>Kolf
+(364) {@<s>“Kolf gatipratIGAte”</s>@}¦ (I<s>-BvAdiH</s>-551. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>KolakaH-likA, KolakaH-likA, cuKolizakaH-zikA, coKolakaH-likA</s>;
 <div n="P"><s>ityAdIni</s> (363) <s>KorfDAtuvat sarvARyapi rUpARi jYeyAni .</s>
 <div n="lb"><s>laqayoraBedAt</s>
@@ -14792,7 +14792,7 @@
 <div n="lb"><s>garjatKaraM gfYjitaDenumomujadvatsotkaraM muYjadajaM vajan vrajam ..’ DA</s>. <s>kA</s>. 1-33.</F>
 <F>3. <s>‘coH kuH’</s> (8-2-30) <s>iti kutve cartvavikalpaH .</s></F>
 <F>4. <s>‘calanaSabdArTAdakarmakAt—’</s> (3-2-148) <s>iti tAcCIliko yuc .</s></F>
-<F>5. <s>‘fdupaDAccAvaxpicfteH’</s> (3-1-110) <s>iti kyap .</s></F>
+<F>5. <s>‘fdupaDAccAvalfpicfteH’</s> (3-1-110) <s>iti kyap .</s></F>
 <F>6. <s>‘cajoH—’</s> (7-3-52) <s>iti kutvaM na, nizWAyAM sewtvAt .</s></F>
 <F>7. <s>‘na ktvA sewU’</s> (1-2-18) <s>iti kittvanizeDAd guRaH .</s></F>
 <F>8. <s>‘antaraNgAnapi viDIn bahiraNgo lyab bADate’ (pariBAzA</s>. 54) <s>iti vacanAt pUrva</s>-
@@ -32652,8 +32652,8 @@
 <LEND>
 [Page0894+ 27]
 
-<L>1058<pc>0894<k1>pex<k2>pex
-(1058) {@<s>“pex gatO”</s>@}¦ (I<s>-BvAdiH</s>-541. <s>saka</s>. <s>sew</s>. <s>Atma</s>.)
+<L>1058<pc>0894<k1>pelf<k2>pelf
+(1058) {@<s>“pelf gatO”</s>@}¦ (I<s>-BvAdiH</s>-541. <s>saka</s>. <s>sew</s>. <s>Atma</s>.)
 <div n="NI"><s>pelakaH-likA, pelakaH-likA, pipelizakaH-zikA, pepelakaH-likA</s>;
 <div n="lb"><s>ityAdIni sarvARyapi rUpARi BOvAdikakelativat</s> (262) <s>jYeyAni . pelA</s>
 <div n="lb"><s>BuktasamuYJitam . pelakaH = tvagganDaH . pelavam = tanu . ORAdiko'yam .</s>
@@ -33475,8 +33475,8 @@
 <F>A. <s>‘aDityakAyAmiva DAtumatyAM loDradrumaM sAnumataH praPullam ..’ raGu</s>. 2. 29.</F>
 <LEND>
 
-<L>1093<pc>0915<k1>Pex<k2>Pex
-(1093) {@<s>“Pex gatO”</s>@}¦ (I<s>-BvAdiH</s>-542. <s>saka</s>. <s>sew</s>. <s>para</s>.)
+<L>1093<pc>0915<k1>Pelf<k2>Pelf
+(1093) {@<s>“Pelf gatO”</s>@}¦ (I<s>-BvAdiH</s>-542. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>PelakaH-likA, PelakaH-likA</s>,
 <sup>1</sup> <s>piPelizakaH-zikA</s>,
 <sup>2</sup> <s>pePelakaH-likA</s>;
@@ -42960,7 +42960,7 @@
 <sup>2</sup> <s>lawvA, imO rUpO viSezeRa BavataH .</s>
 <F>2. <s>‘aSUpruzipluzilawi—’ [da</s>. <s>u</s>. 8-125<s>] iti kvanpratyaye sADuH . ‘neq vaSi</s>
 <div n="lb"><s>kfti’</s> (7-2-8) <s>iti iRnizeDaH . ‘sEzA mahato vaMSastamBAt lawvA'nukfzyate’</s>
-<div n="lb">(<s>‘fxk’ ityatra BAzyam) iti BAzye ‘lawvA = pakziviSezaH, PalaviSezo vA .’</s>
+<div n="lb">(<s>‘flfk’ ityatra BAzyam) iti BAzye ‘lawvA = pakziviSezaH, PalaviSezo vA .’</s>
 <div n="lb"><s>iti nAgeSaH . grAmacawakasya nAma .</s></F>
 <LEND>
 
@@ -47459,8 +47459,8 @@
 <div n="lb"><s>ityAdikAni rUpARi sarvARyapi cOrAdikaketayativat</s> (260) <s>jYeyAni .</s>
 <LEND>
 
-<L>1644<pc>1265<k1>vex<k2>vex
-(1645) {@<s>“vex calane”</s>@}¦ (I<s>-BvAdiH</s>-535. <s>saka</s>. <s>sew</s>. <s>para</s>.)
+<L>1644<pc>1265<k1>velf<k2>velf
+(1645) {@<s>“velf calane”</s>@}¦ (I<s>-BvAdiH</s>-535. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>‘velettu calane velervaraRe vilatIti Se ..’</s> (<s>Slo</s>. 157) <s>iti devaH .</s>
 <div n="lb"><s>‘— gatO’ iti kASakftsnakAtantrO paWataH . ‘velx—’ iti paWitvA</s>
 <div n="lb"><s>vellerdvirbadDo lakAraH—vellati’ iti kzIrasvAmI .</s>
@@ -49589,11 +49589,11 @@
 <div n="lb"><s>SaraRyaH = ArttiharaH .</s></F>
 <LEND>
 
-<L>1751<pc>1316<k1>Sex<k2>Sex
-(1752) {@<s>“Sex gatO”</s>@}¦ (I<s>-BvAdiH</s>-543. <s>saka</s>. <s>sew</s>. <s>para</s>.)
+<L>1751<pc>1316<k1>Self<k2>Self
+(1752) {@<s>“Self gatO”</s>@}¦ (I<s>-BvAdiH</s>-543. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>‘— calane’ iti candraH . ‘—cAlagatyoH’ iti vopadevaH . ayaM DAtuH</s>
-<div n="lb"><s>kASakftsnIyaDAtupAWe nopalaByate . kecit ‘sex—’ iti paWanti .</s>
-<div n="lb"><s>‘zex—’ ityeke .</s>
+<div n="lb"><s>kASakftsnIyaDAtupAWe nopalaByate . kecit ‘self—’ iti paWanti .</s>
+<div n="lb"><s>‘zelf—’ ityeke .</s>
 <div n="NI"><s>SelakaH-likA, SelakaH-likA, SiSelizakaH-zikA, SeSelakaH-likA</s>;
 <div n="lb"><s>SelitA-trI, SelayitA-trI, SiSelizitA-trI, SeSelitA-trI</s>;
 <div n="lb"><s>ityAdikAni rUpARi sarvARyapi BOvAdikakelativat</s> (262) <s>jYeyAni .</s>
@@ -52506,12 +52506,12 @@
 <div n="lb"><s>kepativat</s> (261) <s>jYeyAni .</s>
 <LEND>
 
-<L>1920<pc>1381<k1>sex<k2>sex
-(1921) {@<s>“sex gatO”</s>@}¦ (I<s>-BvAdiH- … saka</s>. <s>sew</s>. <s>para</s>.)
-<div n="NI"><s>“atra kvacit ‘sex’ ityapi paWyate . selatestu dantyAdeH pAWaH</s>
+<L>1920<pc>1381<k1>self<k2>self
+(1921) {@<s>“self gatO”</s>@}¦ (I<s>-BvAdiH- … saka</s>. <s>sew</s>. <s>para</s>.)
+<div n="NI"><s>“atra kvacit ‘self’ ityapi paWyate . selatestu dantyAdeH pAWaH</s>
 <div n="lb"><s>zopadeSaparyudAsavAkye'nupAdAnAdanArzaH . mUrdDanyAdistu ‘seluH = SlezmAtakaH’</s>
-<div n="lb"><s>ityAdidarSanAd grAhyaH .” iti mADavAcAryAH . taraNgiRyAM ‘Sex’ iti</s>
-<div n="lb"><s>paWitvA ‘kecit sex…’ iti dfSyate . sarvARyapi rUpARi BOvAdika</s>-
+<div n="lb"><s>ityAdidarSanAd grAhyaH .” iti mADavAcAryAH . taraNgiRyAM ‘Self’ iti</s>
+<div n="lb"><s>paWitvA ‘kecit self…’ iti dfSyate . sarvARyapi rUpARi BOvAdika</s>-
 <div n="lb"><s>kelativat</s> (262) <s>jYeyAni .</s>
 <LEND>
 
