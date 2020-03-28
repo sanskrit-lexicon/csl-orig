@@ -5368,7 +5368,7 @@
 <LEND>
 
 <L>146<pc>0145<k1>kawi<k2>kawi
-(146) {@<s>“kawi[kawI]gatO”</s>@}¦ (I<s>-BvAdiH</s>-320. <s>saka</s>. <s>sew</s>. <s>para</s>.)
+(146) {@<s>“kawi[kawI] gatO”</s>@}¦ (I<s>-BvAdiH</s>-320. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><sup>1</sup> <s>kaRwakaH-RwikA, kaRwakaH-RwikA, cikaRwizakaH-zikA, cAkaRwakaH-RwikA</s>;
 <div n="lb"><s>kaRwitA-trI, kaRwayitA-trI, cikaRwizitA-trI, cAkaRwitA-trI</s>;
 <div n="lb"><s>kaRwan-ntI, kaRwayan-ntI, cikaRwizan-ntI; -</s>-
@@ -20887,8 +20887,8 @@
 <F>A. <s>‘jaritveva javenAnye nipetustasya SAKinaH .’ Ba</s>. <s>kA</s>. 9. 41.</F>
 <LEND>
 
-<L>619<pc>0585<k1>ja<k2>ja
-(619) {@<s>“ja vayohAnO”</s>@}¦ (X<s>-curAdiH</s>-1815. <s>aka</s>. <s>sew</s>. <s>uBa</s>. <s>ADfzIyaH .</s>)
+<L>619<pc>0585<k1>jF<k2>jF
+(619) {@<s>“jF vayohAnO”</s>@}¦ (X<s>-curAdiH</s>-1815. <s>aka</s>. <s>sew</s>. <s>uBa</s>. <s>ADfzIyaH .</s>)
 <div n="NI"><s>‘jfRAti jIryati jaratyekArTe jArayatyapi .’</s> (<s>Slo</s>. 39) <s>iti devaH .</s>
 <div n="lb"><s>asya DAtorADfzIyatvena ‘ADfzAdvA’ (ga</s>. <s>sU</s>. <s>curAdO) iti RijvikalpaH</s>;
 <div n="lb"><s>RijaBAvapakze, jArakaH-rikA, jijarIzakaH-jijarizakaH-jijIrzakaH-rzikA, jejirakaH-rikA</s>;
@@ -25089,8 +25089,8 @@
 <F>1. <s>‘anudAttetaSca halAdeH’</s> (3-2-149) <s>iti tAcCIliko yuc .</s></F>
 <LEND>
 
-<L>781<pc>0700<k1>tfvf<k2>tfvf
-(781) {@<s>“tfvf devane”</s>@}¦ (I<s>-BvAdiH</s>-499. <s>aka</s>. <s>sew</s>. <s>Atma</s>.)
+<L>781<pc>0700<k1>tevf<k2>tevf
+(781) {@<s>“tevf devane”</s>@}¦ (I<s>-BvAdiH</s>-499. <s>aka</s>. <s>sew</s>. <s>Atma</s>.)
 <div n="NI"><s>tevakaH-vikA, tevakaH-vikA, titevizakaH-zikA, tetevakaH-vikA</s>;
 <div n="lb"><s>ityAdIni sarvARi rUpARi kepativat</s> (261) <s>boDyAni . kvipi</s>-
 <sup>B</sup> <s>tayUH</s>
@@ -28388,8 +28388,8 @@
 <F>B. <s>‘adan maDuGno dvizate visfjya SvavalkajaM viSvamudaM duhAnaH .’ DA</s>. <s>kA</s>. 2. 44.</F>
 <LEND>
 
-<L>890<pc>0786<k1>dva<k2>dva
-(890) {@<s>“dva saMvaraRe”</s>@}¦ (I<s>-BvAdiH</s>-934. <s>saka</s>. <s>ani</s>. <s>para</s>.)
+<L>890<pc>0786<k1>dvf<k2>dvf
+(890) {@<s>“dvf saMvaraRe”</s>@}¦ (I<s>-BvAdiH</s>-934. <s>saka</s>. <s>ani</s>. <s>para</s>.)
 <div n="lb"><s>‘vf varaRe’ ityeke .</s> 
 [Page0787+ 26]
 <div n="lb"><s>dvArakaH-rikA, dvArakaH-rikA</s>,
@@ -49610,8 +49610,8 @@
 <div n="lb"><s>ityAdikAni rUpARi sarvARyapi kelativat</s> (262) <s>UhyAni .</s>
 <LEND>
 
-<L>1753<pc>1316<k1>SO<k2>SO
-(1754) {@<s>“SO pAke”</s>@}¦ (I<s>-BvAdiH</s>-918. <s>saka</s>. <s>ani</s>. <s>para</s>.)
+<L>1753<pc>1316<k1>SE<k2>SE
+(1754) {@<s>“SE pAke”</s>@}¦ (I<s>-BvAdiH</s>-918. <s>saka</s>. <s>ani</s>. <s>para</s>.)
 <div n="NI"><s>pAkaH = viklittiH . DAtumamuM kzIrasvAmi-mEtreya-lIlASuka-SAkawAyana-kA</s>-
 <div n="lb"><s>Sakftsna-kAtantra-hemacandrAdayaH na paWanti . atra ‘srE’ iti kzIrataraNgiRyAM</s>
 <div n="lb"><s>dfSyate .</s> 
@@ -50260,7 +50260,7 @@
 <LEND>
 
 <L>1802<pc>1331<k1>Svi<k2>Svi
-(1803) {@<s>“[wu ao] Svi gativfdDyoH”</s>@}¦
+(1803) {@<s>“[wu o] Svi gativfdDyoH”</s>@}¦
 <div n="lb">(I<s>-BvAdiH</s>-1010. <s>saka</s>. <s>aka</s>. <s>sew</s>. <s>para</s>.) <s>yajAdiH .</s>
 <div n="NI"><s>SvAyakaH-yikA, SvAyakaH-yikA, SiSvayizakaH-zikA</s>,
 <sup>5</sup> <s>SeSvIyakaH-SoSUyakaH-yikA</s>;
