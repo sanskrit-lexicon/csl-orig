@@ -4655,7 +4655,7 @@ unter (inten)inmitten {%(Loc., Acc.%},
 
 <L>1077<pc>016-2<k1>antara<k2>a/ntara<h>1
 1. {#a/ntara#}¦ näher (vgl. {#a/ntama)#} nahestehend
-{%(Comp.%} {#aMntaratara#} {%Superl.%} {#Antaratama)#}
+{%(Comp.%} {#antaratara#} {%Superl.%} {#antaratama)#}
 sehr lieb, innig befreundet; innerlich;
 innerst; {%n.%} das Innere, der Eingang,
 der Zwischenraum, Abstand, Entfernung; <lbinfo n="5"/>
@@ -24450,7 +24450,7 @@ Fischerin.
 <LEND>
 
 <L>5419<pc>092-2<k1>kEvalya<k2>kEvalya
-{#kEvalya#}¦ {%n.%} ausschließlichkeit, Alleinheit;
+{#kEvalya#}¦ {%n.%} Ausschließlichkeit, Alleinheit;
 absolute Einheit {%(ph.).%}
 <LEND>
 
@@ -30644,7 +30644,7 @@ ansehen, betrachten.
 <LEND>
 
 <L>6709<pc>118-1<k1>cakzas<k2>ca/kzas
-{#ca/kzas#}¦ {%n.%} Anglick, Schein, Helle; Auge.
+{#ca/kzas#}¦ {%n.%} Anblick, Schein, Helle; Auge.
 {%Dat. als Inf.%}
 <LEND>
 
@@ -45346,8 +45346,11 @@ geplagt. {%Caus.%} {#dAvayati#} {%Simpl. trans.%}
 <LEND>
 
 <L>9859<pc>175-2<k1>du<k2>du<h>2
-2. {#du#}¦ = 1. {#div#} spielen, {%nur%} {#dvizARi#}. 
-{#duHKa#} unangenehm (zu {%Infin.). n.%} Ungemach,
+2. {#du#}¦ = 1. {#div#} spielen, {%nur%} {#davizARi#}. 
+<LEND>
+
+<L>9859.1<pc>175-2<k1>duHKa<k2>duHKa/
+{#duHKa/#}¦ unangenehm (zu {%Infin.). n.%} Ungemach,
 Beschwerde, Plage, Leid, Gram; {%auch%}
 {%adv.%} mit Not. traurig, schwer, kaum;
 {#duHKa#} (°—), {#duHKena, duHKAt#} {%adv. dass.%}
@@ -46985,7 +46988,7 @@ werden.
 <LEND>
 
 <L>10233<pc>181-2<k1>dfSi<k2>dfSi
-{#dfSi#}¦ {%f.%} das Sehenm, Schauen {#(dfSa/ye#} {%Dat.%}
+{#dfSi#}¦ {%f.%} das Sehen, Schauen {#(dfSa/ye#} {%Dat.%}
 {%Inf.)%} Schauvermögen {%(ph.)%}; Auge.
 <LEND>
 
@@ -83018,8 +83021,8 @@ schätzen, ehren, beachten.
 {#(manaHSila#}¦ {%m. n.) u.%} {#°SilA#} {%f.%} roter Arsenik.
 <LEND>
 
-<L>18037<pc>319-1<k1>mana<k2>ma/na
-{#ma/na#}¦ {#s#} {%n.%} der innere Sinn, Geist, Seele, Verstand, <lbinfo n="6"/>
+<L>18037<pc>319-1<k1>manas<k2>ma/nas
+{#ma/nas#}¦ {%n.%} der innere Sinn, Geist, Seele, Verstand, <lbinfo n="6"/>
 Gedanke, Vorstellung, Wunsch,
 Absicht, Gesinnung, Stimmung; {%adj.%}
 —° den Wunsch {%o.%} die Absicht habend
@@ -115836,7 +115839,7 @@ Brahmanen.
 <LEND>
 
 <L>25004<pc>450-2<k1>SETilya<k2>SETilya
-{#SETilya#}¦ {%n.%} Losheit, Schlaff heit; Nachlässigkeit, <lbinfo n="11"/>
+{#SETilya#}¦ {%n.%} Losheit, Schlaffheit; Nachlässigkeit, <lbinfo n="11"/>
 Indolenz in Bezug auf {#(—°)#}.
 <LEND>
 
