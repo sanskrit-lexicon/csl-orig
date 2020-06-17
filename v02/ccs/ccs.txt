@@ -32759,7 +32759,7 @@ Spitze Gipfel.
 <L>7153<pc>126-2<k1>cetana<k2>ce/tana
 {#ce/tana#}¦ {%(f.%} {#cetanI/)#} erscheinend, sichtbar,
 ansehnlich; wahrnehmend, verständig.
-{%f.%} {#cotanA#} Bewusstsein, Verstand. {%n.%}
+{%f.%} {#cetanA#} Bewusstsein, Verstand. {%n.%}
 Wahrnehmung, Erscheinung, Bewusstsein, <lbinfo n="5"/>
 Geist. {%Abstr.%} {#cetanatA#} {%f.%} {#°tva#} {%n.%}
 <LEND>
@@ -69918,7 +69918,10 @@ Schöpfer; Fürst, König.
 <L>15221<pc>268-1<k1>prajYa<k2>prajYa
 {#prajYa#}¦ verständig, kundig (—°); {%f.%} {#prajYA/#}
 Einsicht, Verstand, Vorsatz, Entschluss.
-{#jYa/tA#} {%f.%} Kenntnis, Wissen.
+<LEND>
+
+<L>15221.1<pc>268-1<k1>prajYatA<k2>prajYatA
+{#prajYatA#}¦ {%f.%} Kenntnis, Wissen.
 <LEND>
 
 <L>15222<pc>268-1<k1>prajYapti<k2>prajYapti
