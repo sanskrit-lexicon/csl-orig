@@ -1097,7 +1097,7 @@
 <L>4546.1<k1>arvuda<k2>arvuda<type>alt<LP>4546<k1P>arbuda
 <L>5089.1<k1>abahitTA<k2>abahitTA<type>alt<LP>5089<k1P>avahitTA
 <L>5613.1<k1>azAqA<k2>azAqA<type>alt<LP>5613<k1P>azAQA
-<L>5925.1<k1>asUrkzaRa <k2>asUrkzaRa <type>alt<LP>5925<k1P>asUkzaRa
+<L>5925.1<k1>asUrkzaRa<k2>asUrkzaRa<type>alt<LP>5925<k1P>asUkzaRa
 <L>6057.1<k1>asraPalI<k2>asraPalI<type>alt<LP>6057<k1P>asraPalA
 <L>6096.1<k1>ahaskara<k2>ahaskara<type>alt<LP>6096<k1P>ahaHkara
 <L>6097.1<k1>aharpati<k2>aharpati<type>alt<LP>6097<k1P>ahaHpati
