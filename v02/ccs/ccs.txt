@@ -75749,7 +75749,7 @@ zerbrechen.
 <LEND>
 
 <L>16500<pc>290-1<k1>barh<k2>barh<h>2
-2. {#barh#}¦ {#bfha/ti#} {%(mur Partic.%} {#bfha/nt#}, {%w. s.) u.%}
+2. {#barh#}¦ {#bfha/ti#} {%(nur Partic.%} {#bfha/nt#}, {%w. s.) u.%}
 {#bfhati, °te#}, {%Caus.%} {#bf/hayati#} kräftigen,
 stärken. {%p. p.%} {#bfMhita#} (—°) vermehrt
 durch, versehen mit. {#upa#} = {%Simpl.%};
@@ -116447,7 +116447,7 @@ sgut {%o.%} willkommen geheißen; {%n.%} {#Sa/dDita#}
 
 <L>25138<pc>453-1<k1>SradDA<k2>SradDA/
 {#SradDA/#}¦ vetrauend, treu {%(Dat.); f.%} Vertrauen,
-Treu; Glaube an, Lust, Appetit nach {%(Loc. o.%} —°).
+Treue; Glaube an, Lust, Appetit nach {%(Loc. o.%} —°).
 <LEND>
 
 <L>25139<pc>453-1<k1>SradDAdeva<k2>SradDA/deva
