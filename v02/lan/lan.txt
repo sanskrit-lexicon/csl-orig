@@ -35,7 +35,7 @@ accidentally.
 <LEND>
 <L>9<pc>111-a<k1>akAra<k2>a-kAra
 {@a-kāra,@}¦ {%<ab>m.</ab>%} the sound {%or%} letter <ab>a.</ab> [Whitney, <lbinfo n="[Whit-ney,"/>
- 18.]
+ <ls n="wg,18">18.</ls>]
 <LEND>
 <L>10<pc>111-a<k1>akAraRa<k2>a-kAraRa
 {@a-kāraṇa,@}¦ {%<ab>n.</ab>%} lack of cause; {@-am,@} {%<ab>adv.</ab>%}
@@ -24625,7 +24625,7 @@ paroxytone, <ls n="wg,1150">1150.</ls> 1c.]
 <lang n="greek"></lang>; <div n="2"/>{@—2.@} {%like%} {@saṃdhā́,@} compact, alliance,
 <ls n="lan,41,13">41<sup>13</sup></ls>; peace, <ls n="lan,17,7">17<sup>7</sup></ls>; <div n="2"/>{@—3.@} the putting together
 of sounds in word and sentence ({%see%}
-Whitney <ls n="wg,109">109b<sup>2</sup></ls>), euphonic combination,
+<ls n="wg,109">Whitney 109b<sup>2</sup></ls>), euphonic combination,
 <ls n="lan,50,9">50<sup>9</sup></ls>; <div n="2"/>{@—4.@} junction (of day and night), {%<ab>i. e.</ab>%}
 morning {%or%} evening twilight. [{@√1dhā,@}
 ‘put,’ {@+ sam,@} <ls n="wg,1155">1155.</ls> 2e.]
