@@ -191,7 +191,7 @@ which goes before, leader,’ {@√aj:@} <ab>cf.</ab> <lang n="greek"></lang>,
 ‘lead,’ <lang n="greek"></lang>, ‘army-leader.’]
 <LEND>
 <L>46<pc>112-a<k1>agratas<k2>agrata/s
-{@agratás,@}¦ {%<ab>adv.</ab>%} in front [<ls n="wg,1098">1098c</ls><sup>8</sup>]; before
+{@agratás,@}¦ {%<ab>adv.</ab>%} in front [<ls n="wg,1098">1098c<sup>8</sup></ls>]; before
 (one's self); {%<ab>w.</ab>%} {@kṛ,@} place in front, cause
 to lead. [agra, <ls n="wg,1098">1098b</ls>.]
 <LEND>
@@ -590,7 +590,7 @@ that world, this one in this, <ls n="lan,103,7">103<sup>7</sup></ls>; that one
 {@áditi,@}¦ {%<ab>a.</ab>%} without bond {%or%} limit; infinite; {%as%}
 {%<ab>f.</ab>%} infinity, the endless heaven, <ls n="lan,79,19">79<sup>19</sup></ls>; infinity, <lbinfo n="infin-ity,"/>
  {%personified as a goddess,%} Aditi, <ls n="lan,75,8">75<sup>8</sup></ls>.
-[apparently {@a + *diti,@} <ab>acct</ab>, <ls n="wg,1304">1304a</ls><sup>2</sup>: {@diti,@}
+[apparently {@a + *diti,@} <ab>acct</ab>, <ls n="wg,1304">1304a<sup>2</sup></ls>: {@diti,@}
 ‘bond,’ would be a <ab>reg.</ab> <ab>deriv.</ab> of {@√3dā,@}
 ‘bind,’ but does not occur as such,
 although there is a word {@díti,@} <ab>q. v.</ab>, of
@@ -616,7 +616,7 @@ luck. [for deelension, <ab>cf.</ab> {@sumaṅgála,@}
 seen.
 <LEND>
 <L>132<pc>114-b<k1>adeva<k2>a-deva/
-{@a-devá,@}¦ {%<ab>m.</ab>%} non-god, who is no god. [<ls n="wg,1288">1288a</ls><sup>4</sup>.]
+{@a-devá,@}¦ {%<ab>m.</ab>%} non-god, who is no god. [<ls n="wg,1288">1288a<sup>4</sup></ls>.]
 <LEND>
 <L>133<pc>114-b<k1>adBis<k2>adBi/s
 {@adbhís,@}¦ {%see%} <ls n="wg,393">393</ls>.
@@ -855,7 +855,7 @@ future. [<ls n="wg,1233">1233.</ls>]
 future; Forethought, name of a fish.
 <LEND>
 <L>189<pc>115-b<k1>anAgas<k2>a/n-Agas
-{@án-āgas,@}¦ {%<ab>a.</ab>%} without sin. [<ab>acct</ab>, <ls n="wg,1304">1304a</ls><sup>2</sup>].
+{@án-āgas,@}¦ {%<ab>a.</ab>%} without sin. [<ab>acct</ab>, <ls n="wg,1304">1304a<sup>2</sup></ls>].
 <LEND>
 <L>190<pc>115-b<k1>anADfzya<k2>an-ADfzya/
 {@an-ādhṛṣyá,@}¦ {%<ab>a.</ab>%} un-approachable. [<ab>acct</ab>,
@@ -981,7 +981,7 @@ to the pious); {%personified,%} Grace. [{@√man@}
 <LEND>
 <L>221<pc>116-b<k1>anulbaRa<k2>an-ulbaRa/
 {@an-ulbaṇá,@}¦ {%<ab>a.</ab>%} not lumpy; smooth {%or%} perfect  <lbinfo n="per-fect"/>
-(of a weft). [<ls n="wg,1288">1288a</ls><sup>4</sup>.]
+(of a weft). [<ls n="wg,1288">1288a<sup>4</sup></ls>.]
 <LEND>
 <L>222<pc>116-b<k1>anuvftti<k2>anuvftti
 {@anuvṛtti,@}¦ {%<ab>f.</ab>%} sequence, {%and so,%} continuance. <lbinfo n="continu-ance."/>
@@ -1209,7 +1209,7 @@ feeding of an infant with rice.
 <LEND>
 <L>270<pc>117-b<k1>anyatas<k2>anya/tas
 {@anyátas,@}¦ {%<ab>adv.</ab>%} from another direction
-[<ls n="wg,1098">1098b</ls>], otherwise; elsewhere [<ls n="wg,1098">1098c</ls><sup>3</sup>],
+[<ls n="wg,1098">1098b</ls>], otherwise; elsewhere [<ls n="wg,1098">1098c<sup>3</sup></ls>],
 to another place. [{@anya.@}]
 <LEND>
 <L>271<pc>117-b<k1>anyaTA<k2>anya/TA
@@ -1431,7 +1431,7 @@ that which ought not to be eaten.
 <L>314<pc>119-a<k1>aBaya<k2>a/-Baya
 {@á-bhaya,@}¦ {%<ab>a.</ab>%} dangerless; {%as <ab>n.</ab>%} safety;
 feeling of safety; {%<ab>superl.</ab>%} greatest safety.
-[{@bhayá:@} <ab>acct</ab>, <ls n="wg,1304">1304a</ls><sup>2</sup>.]
+[{@bhayá:@} <ab>acct</ab>, <ls n="wg,1304">1304a<sup>2</sup></ls>.]
 <LEND>
 <L>315<pc>119-a<k1>aBAva<k2>a-BAva
 {@a-bhāva,@}¦ {%<ab>m.</ab>%} non-existence; absence; lack.
@@ -1561,7 +1561,7 @@ be sick. [<ab>cf.</ab> {@aṃsa.@}]
 <L>346<pc>119-b<k1>amara<k2>a-ma/ra
 {@a-mára,@}¦ {%<ab>a.</ab>%} deathless; immortal; {%as <ab>m.</ab>%} an
 immortal, a god; {@-vat@} [<ls n="wg,1107">1107]</ls>, {%<ab>adv.</ab>%} like a
-god. [{@mará:@} <ls n="wg,1304">1304a</ls><sup>2</sup> end.]
+god. [{@mará:@} <ls n="wg,1304">1304a<sup>2</sup></ls> end.]
 <LEND>
 <L>347<pc>119-b<k1>amarottama<k2>amarottama
 {@amarottama,@}¦ {%<ab>a.</ab>%} chief of gods. [{@uttama.@}]
@@ -1689,7 +1689,7 @@ solstice to the other), {%<ab>i. e.</ab>%} half-year. [{@√i,@}
 {@á-yuddha,@}¦ {%<ab>n.</ab>%} no fight. [<ls n="wg,1288">1288a</ls>.]
 <LEND>
 <L>379<pc>120-a<k1>ayodDf<k2>a-yodDf/
-{@a-yoddhṛ́,@}¦ {%<ab>m.</ab>%} non-fighter, coward. [<ls n="wg,1288">1288a</ls><sup>4</sup>.]
+{@a-yoddhṛ́,@}¦ {%<ab>m.</ab>%} non-fighter, coward. [<ls n="wg,1288">1288a<sup>4</sup></ls>.]
 <LEND>
 <L>380<pc>120-a<k1>ara<k2>ara/
 {@ará,@}¦ {%<ab>m.</ab>%} spoke. [{@√ṛ,@} <ab>caus.</ab> ‘fit in.’]
@@ -1754,7 +1754,7 @@ as consort of the Seven Rishis. [{@√rudh,@}
 <ls n="wg,691">691</ls>: <ab>acct</ab>, <ls n="wg,1283">1283a</ls>.]
 <LEND>
 <L>395<pc>120-b<k1>aruza<k2>aruza/
-{@aruṣá,@}¦ {%<ab>f.</ab>%} {@áruṣī,@} {%<ab>a.</ab>%} ruddy. [see <ls n="wg,362">362b</ls><sup>2</sup>: <ab>cf.</ab>
+{@aruṣá,@}¦ {%<ab>f.</ab>%} {@áruṣī,@} {%<ab>a.</ab>%} ruddy. [see <ls n="wg,362">362b<sup>2</sup></ls>: <ab>cf.</ab>
 {@aruṇá.@}]
 <LEND>
 <L>396<pc>120-b<k1>are<k2>are
@@ -1980,7 +1980,7 @@ reject.
 <LEND>
 <L>449<pc>121-b<k1>avaSa<k2>a-vaSa/
 {@a-vaśá,@}¦ {%<ab>a.</ab>%} not willing {%or%} submissive; uncontrolled. <lbinfo n="un-controlled."/>
- [{@váśa:@} <ab>acct</ab>, <ls n="wg,1288">1288a</ls><sup>4</sup>.]
+ [{@váśa:@} <ab>acct</ab>, <ls n="wg,1288">1288a<sup>4</sup></ls>.]
 <LEND>
 <L>450<pc>121-b<k1>avaSyam<k2>avaSyam
 {@avaśyam,@}¦ {%<ab>adv.</ab>%} necessarily, surely. [<ab>fr.</ab>
@@ -2049,7 +2049,7 @@ from [<ab>cf.</ab> {@áva.@}]
 <LEND>
 <L>467<pc>122-a<k1>aviDavA<k2>a-viDavA/
 {@a-vidhavā́,@}¦ {%<ab>f.</ab>%} not widow. [{@vidhávā:@}
-<ab>acct</ab>, <ls n="wg,1288">1288a</ls><sup>4</sup>.]
+<ab>acct</ab>, <ls n="wg,1288">1288a<sup>4</sup></ls>.]
 <LEND>
 <L>468<pc>122-a<k1>aviDAnatas<k2>a-viDAnatas
 {@a-vidhānatas,@}¦ {%<ab>adv.</ab>%} not according to
@@ -2076,7 +2076,7 @@ to do; unlawful thing.
 <LEND>
 <L>474<pc>122-a<k1>avfka<k2>a-vfka/
 {@a-vṛká,@}¦ {%<ab>a.</ab>%} not harmful; {@-ám,@} {%<ab>adv.</ab>%} harmlessly, <lbinfo n="harm-lessly,"/>
- lovingly. [{@vṛ́ka:@} <ab>acct</ab>, <ls n="wg,1288">1288a</ls><sup>4</sup>.]
+ lovingly. [{@vṛ́ka:@} <ab>acct</ab>, <ls n="wg,1288">1288a<sup>4</sup></ls>.]
 <LEND>
 <L>475<pc>122-a<k1>avekzA<k2>avekzA
 {@avekṣā,@}¦ {%<ab>f.</ab>%} a looking around. [{@√īkṣ +@}
@@ -2198,7 +2198,7 @@ I have; {%observe that <ab>Skt.</ab> has no verb for%}
 {%further, <ab>w.</ab> ppls: <ab>e. g.</ab>%} {@prāpto@} ‘si, art thou
 come, didst thou come, <ls n="lan,9,1">9<sup>1</sup></ls>; {@hantavyo 'smi,@}
 {%occidendus sum,%} <ls n="lan,3,2">3<sup>2</sup></ls>; {@śepāno 'smi,@} I have
-sworn, <ls n="lan,97,7">97<sup>7</sup></ls>; {%redundantly%} [<ls n="wg,303">303b</ls><sup>4</sup> end]: {%<ab>e. g.</ab>%}
+sworn, <ls n="lan,97,7">97<sup>7</sup></ls>; {%redundantly%} [<ls n="wg,303">303b<sup>4</sup></ls> end]: {%<ab>e. g.</ab>%}
 {@tathā_anuṣṭhite sati,@} it being thus performed, <lbinfo n="per-formed,"/>
  <ls n="lan,35,17">35<sup>17</sup></ls>; {%so%} <ls n="lan,37,13">37<sup>13</sup></ls>, <ls n="lan,39,16, 22">39<sup>16, 22</sup></ls>; {@prahṛṣṭaḥ@}
 [Page123-a+ 50]
@@ -2270,7 +2270,7 @@ in the sixth generation, {%see%} {@sapiṇḍa.@}
 {@ásu,@}¦ {%<ab>m.</ab>%} vital spirit; vigorous life. [{@√1as.@}]
 <LEND>
 <L>515<pc>123-a<k1>asutfp<k2>a-sutf/p
-{@a-sutṛ́p,@}¦ {%<ab>a.</ab>%} insatiable. [<ls n="wg,1288">1288a</ls><sup>4</sup>.]
+{@a-sutṛ́p,@}¦ {%<ab>a.</ab>%} insatiable. [<ls n="wg,1288">1288a<sup>4</sup></ls>.]
 <LEND>
 <L>516<pc>123-a<k1>asutfp<k2>asu-tf/p
 {@asu-tṛ́p,@}¦ {%<ab>a.</ab>%} life-robbing. [vbl of {@√2tṛp.@}]
@@ -2609,7 +2609,7 @@ butter.
 <ls n="wg,1211">1211.</ls>]
 <LEND>
 <L>596<pc>125-a<k1>Atma<k2>Atma
-{@ātma,@}¦ {%for%} {@ātman@} {%in <ab>cpds</ab>,%} <ls n="wg,1249">1249a</ls><sup>2</sup>.
+{@ātma,@}¦ {%for%} {@ātman@} {%in <ab>cpds</ab>,%} <ls n="wg,1249">1249a<sup>2</sup></ls>.
 <LEND>
 <L>597<pc>125-a<k1>Atmaka<k2>Atmaka
 {@ātmaka,@}¦ {%for%} {@ātman@} {%in <ab>mg</ab>%} 4 {%at end of <ab>cpds</ab>%}
@@ -3098,7 +3098,7 @@ the act and of the thing offered); {%<ab>cf.</ab> the%}
 {@i,@}¦ {%<ab>pron.</ab> root, see%} {@idam@} {%and%} <ls n="wg,502">502<sup>3</sup></ls>.
 <LEND>
 <L>698<pc>127-b<k1>i<k2>i
-{@√i@}¦ ({@éti@} [<ls n="wg,612">612]</ls>; {@iyā́ya, īyús@} [<ls n="wg,783">783b</ls><sup>2</sup>]; {@eṣyáti;@}
+{@√i@}¦ ({@éti@} [<ls n="wg,612">612]</ls>; {@iyā́ya, īyús@} [<ls n="wg,783">783b<sup>2</sup></ls>]; {@eṣyáti;@}
 {@itá; étum; itvā́; -ítya@}). <div n="2"/>{@—1.@} go; go
 [Page128-a+ 50]
 to {%or%} towards; come; enter; <div n="2"/>{@—2.@} move
@@ -3181,7 +3181,7 @@ another; other than, {%<ab>i. e.</ab>%} different from,
 <LEND>
 <L>703<pc>128-b<k1>itas<k2>ita/s
 {@itás,@}¦ {%<ab>adv.</ab>%} <div n="2"/>{@—1.@} {%used like the <ab>abl.</ab> of a <ab>pron.</ab>%}
-[<ls n="wg,1098">1098c</ls><sup>2</sup>], <ls n="lan,24,18">24<sup>18</sup></ls>; <div n="2"/>{@—2.@} from this (place),
+[<ls n="wg,1098">1098c<sup>2</sup></ls>], <ls n="lan,24,18">24<sup>18</sup></ls>; <div n="2"/>{@—2.@} from this (place),
 from here; here; from this (world), <ls n="lan,5,8">5<sup>8</sup></ls>;
 {@itas tatas,@} here and there; <div n="2"/>{@—3.@} from this
 (time), now, <ls n="lan,41,8">41<sup>8</sup></ls>. [<ab>pron.</ab> root i, <ls n="wg,502">502<sup>3</sup></ls>.]
@@ -3408,7 +3408,7 @@ being merely a causative of {@√1iṣ:@} <ab>cf.</ab>
 dear, <ls n="lan,21,18">21<sup>18</sup></ls>.
 <LEND>
 <L>736<pc>130-a<k1>iz<k2>iz<h>2
-{@√2iṣ@}¦ ({@iṣáyati@} [<ls n="wg,1042">1042a</ls><sup>2</sup>]; {%also%} {@íṣyati@} [<ls n="wg,761">761c</ls>];
+{@√2iṣ@}¦ ({@iṣáyati@} [<ls n="wg,1042">1042a<sup>2</sup></ls>]; {%also%} {@íṣyati@} [<ls n="wg,761">761c</ls>];
 {@iyéṣa, īṣús@} [<ls n="wg,783">783b</ls>]; {@iṣitá; íṣayitum;@}
 {@-íṣya@}). send; set in swift motion; impel, <lbinfo n="im-pel,"/>
  <ls n="lan,74,19">74<sup>19</sup></ls>. [<ab>caus.</ab> of {@√1iṣ,@} <ab>q. v.</ab>]
@@ -3568,7 +3568,7 @@ man, <ls n="lan,22,2">22<sup>2</sup></ls>. [{@√īś,@} <ls n="wg,1171">1171a</
 <LEND>
 <L>761<pc>131-a<k1>Iz<k2>Iz
 {@√īṣ@}¦ ({@ī́ṣate; īṣé; īṣitá@}). hasten from, flee
-before, {%<ab>w.</ab> <ab>abl.</ab>%} [if not <ab>desid.</ab> of {@√i@} (<ls n="wg,108">108g</ls><sup>1</sup>
+before, {%<ab>w.</ab> <ab>abl.</ab>%} [if not <ab>desid.</ab> of {@√i@} (<ls n="wg,108">108g<sup>1</sup></ls>
 end), perhaps akin <ab>w.</ab> {@√1iṣ,@} <ab>orig.</ab> ‘go.’]
 <LEND>
 <L>762<pc>131-a<k1>u<k2>u
@@ -3581,7 +3581,7 @@ end), perhaps akin <ab>w.</ab> {@√1iṣ,@} <ab>orig.</ab> ‘go.’]
 {%or imperative subjunctives,%} <ls n="lan,71,10">71<sup>10</sup></ls>,
 <ls n="lan,85,15">85<sup>15</sup></ls>, <ls n="lan,85,5">85<sup>5</sup></ls>, <ls n="lan,87,8">87<sup>8</sup></ls>; {%often followed by%} {@sú,@} right
 [Page131-b+ 50]
-soon; {@--pragṛhya@} [{%see%} <ls n="wg,1122">1122a</ls><sup>2</sup>, <ls n="wg,138">138c</ls>] {%when%}
+soon; {@--pragṛhya@} [{%see%} <ls n="wg,1122">1122a<sup>2</sup></ls>, <ls n="wg,138">138c</ls>] {%when%}
 {%combined with%} {@átha@} (<ls n="lan,90,16">90<sup>16</sup></ls>), {@úpa@} (<ls n="lan,78,14">78<sup>14</sup></ls>), {@mā́@}
 (<ls n="lan,87,8">87<sup>8</sup></ls>); {%for%} <ls n="lan,83,9">83<sup>9</sup></ls> {%and%} <ls n="lan,84,11">84<sup>11</sup></ls>, {%see notes;%} <div n="2"/>{@—3.@} {%in%}
 {%classical <ab>Skt.</ab> only <ab>w.</ab>%} ({@atha, kim,@} {%and%}) {@na,@}
@@ -4252,7 +4252,7 @@ gaze. [<ls n="wg,1298">1298.</ls>]
 <LEND>
 <L>906<pc>135-a<k1>f<k2>f
 {@√ṛ@}¦ ({@íyarti@} [<ls n="wg,643">643c</ls>]; {@ṛṇóti; ṛccháti@} [<ls n="wg,753">753</ls>
-end, <ls n="wg,608">608]</ls>; {@ā́ra@} [<ls n="wg,783">783a</ls><sup>2</sup>]; {@ā́rat; ariṣyáti;@}
+end, <ls n="wg,608">608]</ls>; {@ā́ra@} [<ls n="wg,783">783a<sup>2</sup></ls>]; {@ā́rat; ariṣyáti;@}
 {@ṛtá; ṛtvā́; -ṛ́tya; arpáyati@} [<ls n="wg,1042">1042d</ls>]).
 move, {%as <ab>trans.</ab> and as <ab>intrans.</ab>;%} <div n="2"/>{@—1.@} rise,
 <ls n="lan,73,10">73<sup>10</sup></ls>; come upon {%or%} unto, reach, attain;
@@ -4447,7 +4447,7 @@ one else); sole; single; solitary; {%advly%}
 the one, {%followed by%} {@anya, dvitīya, para;@}
 {@eke…eke,@} some…others; {@eke,@} some
 folks, some; <div n="2"/>{@—3.@} {%later,%} a certain, {%quidam;%}
-{%or almost as an <ab>indef.</ab> article%} [<ls n="wg,482">482a</ls><sup>3</sup>], a {%or%}
+{%or almost as an <ab>indef.</ab> article%} [<ls n="wg,482">482a<sup>3</sup></ls>], a {%or%}
 an, <ls n="lan,20,8">20<sup>8</sup></ls>. [<ab>pron.</ab> root e.]
 <LEND>
 <L>936<pc>136-b<k1>ekatatpara<k2>eka-tatpara
@@ -4561,7 +4561,7 @@ e, <ls n="wg,499">499b</ls>: in usage, {@etád: idám::@} <lang n="greek"></lang
 <LEND>
 <L>962<pc>137-a<k1>etadarTam<k2>etad-arTam
 {@etad-artham,@}¦ {%<ab>adv.</ab>%} for this purpose;
-therefore. [<ls n="wg,499">499b</ls><sup>2</sup>, <ls n="wg,1302">1302c</ls><sup>4</sup>.]
+therefore. [<ls n="wg,499">499b<sup>2</sup></ls>, <ls n="wg,1302">1302c<sup>4</sup></ls>.]
 <LEND>
 <L>963<pc>137-a<k1>etarhi<k2>eta/rhi
 {@etárhi,@}¦ {%<ab>adv.</ab>%} nowadays. [{@etá,@} <ls n="wg,1103">1103c</ls>.]
@@ -5045,7 +5045,7 @@ having pleasure in camphor), name of a
 washerman.
 <LEND>
 <L>1057<pc>140-a<k1>karma<k2>karma
-{@karma,@}¦ {%for%} {@karman@} {%in <ab>cpds</ab>,%} <ls n="wg,1249">1249a</ls><sup>2</sup>.
+{@karma,@}¦ {%for%} {@karman@} {%in <ab>cpds</ab>,%} <ls n="wg,1249">1249a<sup>2</sup></ls>.
 <LEND>
 <L>1058<pc>140-a<k1>karmacezwA<k2>karma-cezwA
 {@karma-ceṣṭā,@}¦ {%<ab>f.</ab>%} deed-performance; action. <lbinfo n="ac-tion."/>
@@ -5943,7 +5943,7 @@ hard,’ <ab>Eng.</ab> {%hard.%}]
 {@krā́ntum; kramitvā́, krāntvā́;@}
 {@-krámya; kramyáte; kramáyati, krāmáyati@} <lbinfo n="krām-áyati"/>
 [Page145-b+ 50]
-[<ls n="wg,1042">1042c</ls><sup>2</sup> <ab>mid.</ab>]). step; go; go towards. <lbinfo n="to-wards."/>
+[<ls n="wg,1042">1042c<sup>2</sup></ls> <ab>mid.</ab>]). step; go; go towards. <lbinfo n="to-wards."/>
 
 <div n="p"/>{@+ ati,@} step beyond; excel; overcome.
 <div n="p"/>{@+ sam-ati,@} excel. [{@sam@} <ab>intens.</ab>, <ls n="wg,1077">1077b</ls>
@@ -6722,7 +6722,7 @@ head of the house, <ls n="lan,89,6">89<sup>6</sup></ls>; the housekeeping,
 <L>1368<pc>150-b<k1>gir<k2>gi/r
 {@gír@}¦ [<ls n="wg,392">392]</ls>, {%<ab>f.</ab>%} <div n="2"/>{@—1.@} invocation, praise, <ls n="lan,74,12">74<sup>12</sup></ls>;
 <div n="2"/>{@—2.@} {%<ab>sing.</ab> and <ab>pl.</ab>%} speech, words, <ls n="lan,87,16">87<sup>16</sup></ls>, <ls n="lan,49,9">49<sup>9</sup></ls>;
-<div n="2"/>{@—3.@} voice, <ls n="lan,3,14">3<sup>14</sup></ls>. [{@√1gṛ, <ls n="wg,242">242</ls><sup>1, 3</sup>.@}]
+<div n="2"/>{@—3.@} voice, <ls n="lan,3,14">3<sup>14</sup></ls>. [{@√1gṛ, <ls n="wg,242">242<sup>1, 3</sup></ls>.@}]
 <LEND>
 <L>1369<pc>150-b<k1>giri<k2>giri/
 {@girí,@}¦ {%<ab>m.</ab>%} mountain, <ls n="lan,55,8">55<sup>8</sup></ls>.
@@ -7223,7 +7223,7 @@ each.’]
 {@-cákṣya@}). <div n="2"/>{@—1.@} appear; <div n="2"/>{@—2.@} look upon,
 behold; <div n="2"/>{@—3.@} (cause to appear, {%<ab>i. e.</ab>%}) announce, <lbinfo n="an-nounce,"/>
  tell. [reduplicated form of {@√kāś,@}
-see <ls n="wg,675">675</ls> and <ls n="wg,108">108g</ls><sup>1</sup> end.]
+see <ls n="wg,675">675</ls> and <ls n="wg,108">108g<sup>1</sup></ls> end.]
 <div n="p"/>{@+ ā,@} <div n="2"/>{@—1.@} look on; <div n="2"/>{@—2.@} show, tell, <ls n="lan,63,1">63<sup>1</sup></ls>.
 <div n="p"/>{@+ vi,@} appear far and wide, shine.
 <div n="p"/>{@+ sam,@} look upon, consider.
@@ -7822,7 +7822,7 @@ produced by; {%only in <ab>cpds.</ab>%} [{@√jan,@} <ls n="wg,333">333</ls>:
 <LEND>
 <L>1560<pc>157-b<k1>jagat<k2>ja/gat
 {@jágat@}¦ [<ls n="wg,450">450d</ls>], {%<ab>a.</ab>%} movable; {%as <ab>n.</ab>%} all that
-moves, men and beasts. [{@√gam:@} <ab>cf.</ab> <ls n="wg,383">383b</ls><sup>3</sup>
+moves, men and beasts. [{@√gam:@} <ab>cf.</ab> <ls n="wg,383">383b<sup>3</sup></ls>
 end.]
 <LEND>
 <L>1561<pc>157-b<k1>jaGana<k2>jaGa/na
@@ -8174,7 +8174,7 @@ accent altered as in {@dhū́rta.@}]
 <L>1637<pc>159-b<k1>juhU<k2>juhU/
 {@juhū́@}¦ [<ls n="wg,356">356]</ls>, {%<ab>f.</ab>%} sacrificial ladle for pouring
 the melted butter into the fire, {%<ab>cf.</ab>%} {@srúc.@}
-[{@√hu,@} <ls n="wg,1147">1147b</ls><sup>2</sup>.]
+[{@√hu,@} <ls n="wg,1147">1147b<sup>2</sup></ls>.]
 <LEND>
 <L>1638<pc>159-b<k1>jU<k2>jU
 {@√jū@}¦ ({@junā́ti@} [<ls n="wg,728">728]</ls>; {@jūjā́va@} [<ls n="wg,786">786<sup>4</sup></ls>]; {@jūtá@}).
@@ -8190,7 +8190,7 @@ further, assist to. [<ab>cf.</ab> {@√2ji.@}]
 <LEND>
 <L>1640<pc>159-b<k1>jogU<k2>jo/gU
 {@jógū@}¦ [<ls n="wg,352">352]</ls>, {%<ab>a.</ab>%} loudly singing; praising.
-[<ab>fr.</ab> <ab>intens.</ab> of {@√gu,@} <ls n="wg,1147">1147b</ls><sup>2</sup>, <ls n="wg,1002">1002a</ls>.]
+[<ab>fr.</ab> <ab>intens.</ab> of {@√gu,@} <ls n="wg,1147">1147b<sup>2</sup></ls>, <ls n="wg,1002">1002a</ls>.]
 <LEND>
 <L>1641<pc>159-b<k1>jozas<k2>jo/zas
 {@jóṣas,@}¦ {%<ab>n.</ab>%} pleasure. [{@√juṣ.@}]
@@ -8204,7 +8204,7 @@ further, assist to. [<ab>cf.</ab> {@√2ji.@}]
 {@ájñāsīt@} [<ls n="wg,911">911]</ls>, {@ájñāsta; jñāsyáti, -te;@}
 {@jñātá; jñā́tum; jñātvā́; -jñā́ya; jñāyáte;@} <lbinfo n="jñā-yáte;"/>
 {@jñāpáyati, -te, jñapáyati, -te@}
-[<ls n="wg,1042">1042d</ls><sup>2</sup>]; {@jñaptá@}). know; have knowledge  <lbinfo n="knowl-edge"/>
+[<ls n="wg,1042">1042d<sup>2</sup></ls>]; {@jñaptá@}). know; have knowledge  <lbinfo n="knowl-edge"/>
 of a person {%or%} thing; recognize; become  <lbinfo n="be-come"/>
 aware of; learn; notice. [<ab>cf.</ab> <lang n="greek"></lang>,
 <ab>Lat.</ab> {%co-gnōvit,%} ‘knew’; <ab>AS.</ab> {%cann,%} ‘have
@@ -8265,7 +8265,7 @@ philosophy. [{@√jñā,@} <ls n="wg,1150">1150.</ls>]
 <L>1651<pc>160-a<k1>jyAyAMs<k2>jyA/yAMs
 {@jyā́yāṃs,@}¦ {%<ab>a.</ab>%} stronger {%or%} superior; older.
 [<ab>comp.</ab> of {@jyā,@} ‘being strong {%or%} superior,’
-the vbl of {@√jyā,@} <ls n="wg,470">470</ls><sup>2, 3.</sup>]
+the vbl of {@√jyā,@} <ls n="wg,470">470<sup>2, 3.</sup></ls>]
 <LEND>
 <L>1652<pc>160-a<k1>jyut<k2>jyut
 {@√jyut@}¦ ({@jyótati; -jyótya@}). light. [<ab>fr.</ab>
@@ -8312,7 +8312,7 @@ kindle, make to flame.
 <L>1662<pc>160-a<k1>Jawiti<k2>Jaw-iti
 {@jhaṭ-iti,@}¦ {%<ab>adv.</ab>%} with a {@jhaṭ,@} as quick as one
 could say “boo.” [{@jhaṭ,@} onomatopoetic:
-see <ls n="wg,1102">1102a</ls><sup>2</sup> <ab>mid.</ab>]
+see <ls n="wg,1102">1102a<sup>2</sup></ls> <ab>mid.</ab>]
 <LEND>
 [Page160-b+ 45]
 <L>1663<pc>160-b<k1>Jalla<k2>Jalla
@@ -8910,7 +8910,7 @@ other, <ls n="lan,2,16, 17">2<sup>16, 17</sup></ls>; {%so…,%} {@…tu, …tu,@
 {@tu…na tu,@} {%see%} {@kāmam; kiṃ tu,@}
 nevertheless, <ls n="lan,39,5">39<sup>5</sup></ls>; <div n="2"/>{@—4.@} {%used loosely: as%}
 {%<ab>equiv.</ab> to%} ca, <ls n="lan,58,1">58<sup>1</sup></ls>; {%often as a mere expletive%}
-[<ls n="wg,1122">1122a</ls><sup>4</sup>], {%<ab>e. g.</ab>%} <ls n="lan,4,9">4<sup>9</sup></ls>, 64<sup>13b</sup>.
+[<ls n="wg,1122">1122a<sup>4</sup></ls>], {%<ab>e. g.</ab>%} <ls n="lan,4,9">4<sup>9</sup></ls>, 64<sup>13b</sup>.
 <LEND>
 <L>1771<pc>164-a<k1>tu<k2>tu
 {@tu,@}¦ {%<ab>pron.</ab> root of 2nd pers, see%} {@tvad.@}
@@ -9091,7 +9091,7 @@ for the reason that…, therefore, <ls n="lan,30,8">30<sup>8</sup></ls>, <ls n="
 and <ab>mg</ab> is <lang n="greek"></lang>.]
 <LEND>
 <L>1803<pc>165-a<k1>tEla<k2>tEla/
-{@tailá,@}¦ {%<ab>n.</ab>%} sesame oil. [{@tilá,@} <ls n="wg,1208">1208f</ls><sup>1</sup> end.]
+{@tailá,@}¦ {%<ab>n.</ab>%} sesame oil. [{@tilá,@} <ls n="wg,1208">1208f<sup>1</sup></ls> end.]
 <LEND>
 <L>1804<pc>165-a<k1>toka<k2>toka/
 {@toká,@}¦ {%<ab>n.</ab>%} creation, progeny. [<ab>cf.</ab> {@√takṣ@} and
@@ -9144,7 +9144,7 @@ triplet, <lang n="greek"></lang>. [{@tri,@} <ls n="wg,489">489<sup>4</sup></ls>.
 <LEND>
 <L>1813<pc>165-b<k1>tras<k2>tras
 {@√tras@}¦ ({@trásati; tatrā́sa, tatrasús, treṣús@}
-[<ls n="wg,794">794e</ls><sup>2</sup>]; {@átrāsīt; trasiṣyáti; trastá@}).
+[<ls n="wg,794">794e<sup>2</sup></ls>]; {@átrāsīt; trasiṣyáti; trastá@}).
 tremble; fear. [<ab>cf.</ab> <lang n="greek"></lang>, ‘tremble,
 trembled’; <ab>Lat.</ab> {%terreo,%} ‘affright’; {@a-trastas@}
 and <lang n="greek"></lang>, ‘unterrified.’]
@@ -9221,7 +9221,7 @@ steps.
 <LEND>
 <L>1829<pc>166-a<k1>trirAtra<k2>tri-rAtra/
 {@tri-rātrá,@}¦ {%<ab>n.</ab>%} space of three nights, trinoctium. <lbinfo n="tri-noctium."/>
- [{@rā́tri,@} <ls n="wg,1315">1315b</ls>, <ls n="wg,1312">1312</ls><sup>3, 4</sup>: <ab>cf.</ab> the
+ [{@rā́tri,@} <ls n="wg,1315">1315b</ls>, <ls n="wg,1312">1312<sup>3, 4</sup></ls>: <ab>cf.</ab> the
 <ab>Eng.</ab> usage in {%sen-night, fort-night.%}]
 <LEND>
 <L>1830<pc>166-a<k1>trividyA<k2>tri-vidyA
@@ -9552,7 +9552,7 @@ sympathizes.’]
 <L>1898<pc>168-a<k1>daridra<k2>daridra
 {@daridra,@}¦ {%<ab>a.</ab>%} wandering about; mendicant;
 poor; {%as <ab>m.</ab>%} poor man. [<ab>fr.</ab> <ab>intens.</ab> of
-{@√1drā,@} ‘run about,’ <ls n="wg,1147">1147b</ls><sup>2</sup>: for <ab>mg</ab>, <ab>cf.</ab>
+{@√1drā,@} ‘run about,’ <ls n="wg,1147">1147b<sup>2</sup></ls>: for <ab>mg</ab>, <ab>cf.</ab>
 <ab>Eng.</ab> {%tramp,%} in its American sense of
 ‘vagrant beggar.’]
 <LEND>
@@ -9793,7 +9793,7 @@ of {@√dṛś,@} <ls n="wg,1178">1178f</ls>: <ab>acct</ab> !]
 <LEND>
 <L>1943<pc>169-b<k1>didyu<k2>didyu/
 {@didyú,@}¦ {%<ab>m.</ab>%} missile. [see {@√1dīv@} or {@dyū,@} and
-<ls n="wg,1147">1147b</ls><sup>2</sup>.]
+<ls n="wg,1147">1147b<sup>2</sup></ls>.]
 <LEND>
 <L>1944<pc>169-b<k1>diDizu<k2>diDizu/
 {@didhiṣú,@}¦ {%<ab>a.</ab>%} desirous to win; {%as <ab>m.</ab>%} suitor;
@@ -10070,7 +10070,7 @@ worship, {%but see%} <ls n="lan,74,10">74<sup>10</sup></ls><ab>N.</ab>
 <LEND>
 <L>1997<pc>171-a<k1>duz<k2>duz
 {@√duṣ@}¦ ({@dúṣyati; ádoṣīt; duṣṭá; dūṣáyati@}
-[<ls n="wg,1042">1042a</ls><sup>2</sup>]). spoil. [see {@dus.@}]
+[<ls n="wg,1042">1042a<sup>2</sup></ls>]). spoil. [see {@dus.@}]
 <LEND>
 <L>1998<pc>171-a<k1>duzkara<k2>duz-kara
 {@duṣ-kara,@}¦ {%<ab>a.</ab>%} whose performance is hard,
@@ -10130,7 +10130,7 @@ uncertain, <ls n="wg,1182">1182d</ls>: <ab>cf.</ab> <lang n="greek"></lang>, <ab
 <L>2008<pc>171-b<k1>dUqaBa<k2>dUqa/Ba
 {@dūḍábha,@}¦ {%<ab>a.</ab>%} hard to deceive. [‘whose
 deceiving is hard’: for {@duzdabha,@} <ab>i. e.</ab>
-{@dus + dabha,@} <ls n="wg,199">199b</ls><sup>3</sup>.]
+{@dus + dabha,@} <ls n="wg,199">199b<sup>3</sup></ls>.]
 <LEND>
 <L>2009<pc>171-b<k1>dUta<k2>dUta/
 {@dūtá,@}¦ {%<ab>m.</ab>%} messenger; ambassador, envoy.
@@ -10586,7 +10586,7 @@ half month, <ls n="lan,59,9">59<sup>9</sup></ls>. [{@dvā́daśa,@} <ls n="wg,48
 <LEND>
 <L>2098<pc>174-a<k1>dvAdaSarAtra<k2>dvAdaSa-rAtra
 {@dvādaśa-rātra,@}¦ {%<ab>n.</ab>%} space of twelve
-nights. [{@dvā́daśa + rātri,@} <ls n="wg,1315">1315b</ls>, <ls n="wg,1312">1312</ls><sup>3, 4</sup>.]
+nights. [{@dvā́daśa + rātri,@} <ls n="wg,1315">1315b</ls>, <ls n="wg,1312">1312<sup>3, 4</sup></ls>.]
 <LEND>
 <L>2099<pc>174-a<k1>dvAdaSasahasra<k2>dvAdaSa-sahasra
 {@dvādaśa-sahasra,@}¦ {%cardinal, <ab>n.</ab>%} twelve
@@ -10791,7 +10791,7 @@ law.
 {@dharmatas,@}¦ {%<ab>adv.</ab>%} in a way which starts
 from {@dharma,@} {%<ab>i. e.</ab>%} in accordance with good
 usage, <ls n="lan,59,19">59<sup>19</sup></ls>; by rights, <ls n="lan,61,16">61<sup>16</sup></ls>. [{@dharma,@}
-<ls n="wg,1098">1098c</ls><sup>3</sup>.]
+<ls n="wg,1098">1098c<sup>3</sup></ls>.]
 <LEND>
 <L>2142<pc>175-a<k1>Darman<k2>Da/rman
 {@dhárman,@}¦ {%<ab>n.</ab>%} established ordinance; steadfast  <lbinfo n="stead-fast"/>
@@ -11095,7 +11095,7 @@ as {@vāma@} <ab>fr.</ab> {@√van.@}]
 <L>2179<pc>177-b<k1>DUrta<k2>DUrta
 {@dhūrta,@}¦ {%<ab>a.</ab> <ab>subst.</ab>%} shrewd, sly, cunning;
 rogue. [<ab>ppl.</ab> of {@√dhvṛ,@} ‘harm by deceit’
-(<ab>cf.</ab> <ls n="wg,957">957b</ls><sup>2</sup>): according to the grammarians, <lbinfo n="gramma-rians,"/>
+(<ab>cf.</ab> <ls n="wg,957">957b<sup>2</sup></ls>): according to the grammarians, <lbinfo n="gramma-rians,"/>
  {@dhū́rta,@} <ab>w.</ab> <ab>acct</ab> altered as in {@júṣṭa:@}
 for a somewhat analogous development
 of <ab>mg</ab>, <ab>cf.</ab> Middle <ab>Eng.</ab> {%schrewen,%} ‘curse,’
@@ -11274,7 +11274,7 @@ Dutch {%dwaal-licht,%} ‘ignis fatuus’; <ab>Goth.</ab>
 {@na vai,@} <ls n="lan,92,15">92<sup>15</sup></ls>; {@na vā,@} <ls n="lan,96,12">96<sup>12</sup></ls>; {@na tu,@} <ls n="lan,64,13">64<sup>13</sup></ls>;
 {@na tv eva tu,@} {%see%} {@tu; na ha,@} <ls n="lan,95,17">95<sup>17</sup></ls>; {@na_iva,@}
 not exactly, <ls n="lan,93,5">93<sup>5</sup></ls>; <div n="2"/>{@—1d.@} {%tantamount to%} {@a-@}
-{%in negative <ab>cpds</ab>%} [<ls n="wg,1122">1122b</ls><sup>4</sup>], {%as%} {@nacira, nātidūra,@} <lbinfo n="nā-tidūra,"/>
+{%in negative <ab>cpds</ab>%} [<ls n="wg,1122">1122b<sup>4</sup></ls>], {%as%} {@nacira, nātidūra,@} <lbinfo n="nā-tidūra,"/>
 [Page179-a+ 50]
 {@nādhīta,@} <ab>etc.</ab>; <div n="2"/>{@—1e.@} {%at <ab>beg.</ab> of%}
 {%adversative clause: with adversative <ab>conj.</ab>,%}
@@ -11348,7 +11348,7 @@ town. [{@upānta.@}]
 [Page179-b+ 50]
 <L>2214<pc>179-b<k1>nacira<k2>na-cira
 {@na-cira,@}¦ {%<ab>a.</ab>%} not long; {@-āt,@} {%<ab>adv.</ab>%} [<ls n="wg,1114">1114c</ls>],
-soon. [<ls n="wg,1122">1122b</ls><sup>4</sup>.]
+soon. [<ls n="wg,1122">1122b<sup>4</sup></ls>.]
 <LEND>
 <L>2215<pc>179-b<k1>nawa<k2>nawa
 {@naṭa,@}¦ {%<ab>m.</ab>%} dancer, mime, actor (these form
@@ -11629,7 +11629,7 @@ and in that case a transfer-form (<ls n="wg,1209">1209b</ls>).]
 <LEND>
 <L>2270<pc>181-a<k1>nAtidUra<k2>nAtidUra
 {@nātidūra,@}¦ {%<ab>a.</ab>%} not very far. [{@na + atidūra,@} <lbinfo n="ati-dūra,"/>
-<ls n="wg,1122">1122b</ls><sup>4</sup>.]
+<ls n="wg,1122">1122b<sup>4</sup></ls>.]
 <LEND>
 <L>2271<pc>181-a<k1>nAT<k2>nAT
 {@√nāth@}¦ ({@nā́thate; nāthitá; nā́thitum;@}
@@ -11641,7 +11641,7 @@ lord. [{@√nāth.@}]
 <LEND>
 <L>2273<pc>181-a<k1>nADIta<k2>nADIta
 {@nādhīta,@}¦ {%<ab>a.</ab>%} un-learnéd. [{@na + adhīta,@}
-{@√i:@} <ls n="wg,1122">1122b</ls><sup>4</sup>.]
+{@√i:@} <ls n="wg,1122">1122b<sup>4</sup></ls>.]
 <LEND>
 <L>2274<pc>181-a<k1>nABi<k2>nA/Bi
 {@nā́bhi,@}¦ {%<ab>f.</ab>%} <div n="2"/>{@—1.@} navel; <div n="2"/>{@—2.@} nave {%or%} hub.
@@ -12049,7 +12049,7 @@ low; exhausted. [<ls n="wg,1306">1306.</ls>]
 {@nīḍá,@}¦ {%Vedic%} {@nīḻá,@} {%<ab>m.</ab> <ab>n.</ab>%} <div n="2"/>{@—1.@} (place for
 settling down, {%<ab>i. e.</ab>%}) resting-place; <div n="2"/>{@—2.@} {%<ab>esp.</ab>%}
 bird's nest. [for {@ni-zd-a,@} <ab>i. e.</ab> {@ni-s(a)d-a@}
---<ls n="wg,198">198b</ls><sup>3</sup> {@--√sad + ni:@} <ab>cf.</ab> <ab>Lat.</ab> {%nīdus,%}
+--<ls n="wg,198">198b<sup>3</sup></ls> {@--√sad + ni:@} <ab>cf.</ab> <ab>Lat.</ab> {%nīdus,%}
 <ab>Ger.</ab> {%Nest,%} <ab>Eng.</ab> {%nest:%} for {@ḻ,@} see Whitney
 <ls n="wg,54">54</ls>.]
 <LEND>
@@ -12164,7 +12164,7 @@ amuse. [for <ab>mg</ab>, <ab>cf.</ab> also {%dis-port%} and
 {@nūnám,@}¦ {%<ab>adv.</ab>%} now. [{@nú,@} <ls n="wg,1109">1109.</ls>]
 <LEND>
 <L>2374<pc>184-a<k1>nf<k2>nf/
-{@nṛ́@}¦ [<ls n="wg,370">370,</ls> <ls n="wg,371">371</ls><sup>5, 9, 10</sup>], {%<ab>m.</ab>%} man; hero; {%used%}
+{@nṛ́@}¦ [<ls n="wg,370">370,</ls> <ls n="wg,371">371<sup>5, 9, 10</sup></ls>], {%<ab>m.</ab>%} man; hero; {%used%}
 {%also%} of gods: of the Maruts, <ls n="lan,74,4">74<sup>4</sup></ls>, <ls n="lan,77,18">77<sup>18</sup></ls>.
 [<ab>cf.</ab> <lang n="greek"></lang>, stem <lang n="greek"></lang>, ‘man’; Old <ab>Lat.</ab> {%nero,%}
 stem {%nerōn,%} ‘manly, strong’; <ab>Lat.</ab> {%Nero.%}]
@@ -12206,7 +12206,7 @@ strength. [<ab>fr.</ab> {@nṛ@} (<ls n="wg,1224">1224c</ls>), as {%virtus%} <ab
 <L>2384<pc>184-b<k1>ned<k2>ne/d
 {@néd,@}¦ {%<ab>adv.</ab>%} lest, in order that not, {%<ab>w.</ab> accented%}
 {%verb%} (<ls n="wg,595">595d</ls>) {%in the subjunctive%} (<ls n="wg,581">581e</ls>), <ls n="lan,84,17">84<sup>17</sup></ls>.
-[{@ná + íd,@} <ls n="wg,1111">1111a</ls><sup>2</sup>.]
+[{@ná + íd,@} <ls n="wg,1111">1111a<sup>2</sup></ls>.]
 <LEND>
 <L>2385<pc>184-b<k1>nedya<k2>nedya
 {@nedya,@}¦ {%<ab>grdv.</ab>%} to be blamed. [{@√nid,@} <ls n="wg,963">963d</ls>.]
@@ -13050,7 +13050,7 @@ cup; vessel; <div n="2"/>{@—2.@} {%in general,%} utensil ({%<ab>cf.</ab>%}
 {@bhāṇḍa@}), <ls n="lan,102,11">102<sup>11</sup></ls>; <div n="2"/>{@—3.@} {%<ab>fig.</ab>, as in <ab>Eng.</ab>%} ({%<ab>cf.</ab>%}
 {@sthāna 5@}), a fit vessel {%or%} worthy person,
 <ls n="lan,22,5">22<sup>5</sup></ls>; {@pātrī́@} [<ls n="wg,364">364]</ls>, {%<ab>f.</ab>%} sacrificial vessel.
-[{@√1pā,@} ‘drink,’ <ls n="wg,1185">1185a</ls>: <ab>cf.</ab> <ls n="wg,362">362b</ls><sup>2</sup>.]
+[{@√1pā,@} ‘drink,’ <ls n="wg,1185">1185a</ls>: <ab>cf.</ab> <ls n="wg,362">362b<sup>2</sup></ls>.]
 <LEND>
 <L>2545<pc>189-b<k1>pAda<k2>pA/da
 {@pā́da,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} foot; leg, <ls n="lan,26,16">26<sup>16</sup></ls>; <div n="2"/>{@—2.@} limb
@@ -13099,7 +13099,7 @@ of water.
 <LEND>
 <L>2553<pc>190-a<k1>pAnTa<k2>pAnTa
 {@pāntha,@}¦ {%<ab>m.</ab>%} wayfarer; viātor. [{@pánthan,@}
-<ls n="wg,1208">1208a</ls><sup>2</sup> end.]
+<ls n="wg,1208">1208a<sup>2</sup></ls> end.]
 <LEND>
 <L>2554<pc>190-a<k1>pApa<k2>pApa/
 {@pāpá,@}¦ {%<ab>a.</ab>%} bad; evil; {%as <ab>m.</ab>%} bad fellow, <ls n="lan,46,19">46<sup>19</sup></ls>;
@@ -13294,7 +13294,7 @@ a seat.
 {@√pīḍ@}¦ ({@pīḍáyati@} [<ls n="wg,1041">1041<sup>2</sup></ls>]; {@pīḍayā́m āsa;@}
 {@pīḍitá; pī́ḍayitum; pīḍayitvā́; -pī́ḍya@}).
 press; oppress, pain. [for {@*pizd, *pisd,@}
-<ls n="wg,198">198b</ls><sup>3</sup>: <ab>cf.</ab> {@√piṣ.@}]
+<ls n="wg,198">198b<sup>3</sup></ls>: <ab>cf.</ab> {@√piṣ.@}]
 <div n="p"/>{@+ ā,@} press out, <ls n="lan,103,20">103<sup>20</sup></ls>.
 <LEND>
 <L>2597<pc>191-a<k1>pIqA<k2>pIqA
@@ -13749,7 +13749,7 @@ that <lang n="greek"></lang> has <ab>mg</ab>s 1, 2, and 3, that
 <L>2682<pc>193-b<k1>pfzWatas<k2>pfzWata/s
 {@pṛṣṭhatás,@}¦ {%<ab>adv.</ab>%} a tergo, from behind;
 with the back, with averted face, <ls n="lan,30,17">30<sup>17</sup></ls>.
-[<ls n="wg,1098">1098c</ls><sup>3</sup>.]
+[<ls n="wg,1098">1098c<sup>3</sup></ls>.]
 <LEND>
 <L>2683<pc>193-b<k1>pfzWamAMsa<k2>pfzWa-mAMsa
 {@pṛṣṭha-māṃsa,@}¦ {%<ab>n.</ab>%} back-flesh; {%<ab>w.</ab>%} {@khād,@}
@@ -14278,7 +14278,7 @@ of one's self to (danger, {%<ab>loc.</ab>%}), <ls n="lan,20,12">20<sup>12</sup><
 [Page197-a+ 50]
 <L>2788<pc>197-a<k1>praSis<k2>praSi/s
 {@praśís@}¦ [<ls n="wg,392">392]</ls>, {%<ab>f.</ab>%} command. [{@√śās + pra,@}
-<ls n="wg,639">639,</ls> <ls n="wg,225">225</ls><sup>1, 2:</sup> <ab>cf.</ab> {@āśís.@}]
+<ls n="wg,639">639,</ls> <ls n="wg,225">225<sup>1, 2:</sup></ls> <ab>cf.</ab> {@āśís.@}]
 <LEND>
 <L>2789<pc>197-a<k1>praSraya<k2>praSraya
 {@praśraya,@}¦ {%<ab>m.</ab>%} respectful demeanor. [‘an
@@ -14922,7 +14922,7 @@ all probability, <ls n="lan,24,21">24<sup>21</sup></ls>. [{@bahula,@} <ls n="wg,
 <L>2898<pc>201-a<k1>bAhya<k2>bA/hya
 {@bā́hya,@}¦ {%<ab>a.</ab>%} being outside, external; {%at end%}
 {%of <ab>cpds</ab>, <ab>equiv.</ab> to <ab>Eng.</ab>%} extra- {%at <ab>beg.</ab> of%}
-{%<ab>cpds.</ab>%} [{@bahís,@} <ls n="wg,1211">1211</ls>: <ab>cf.</ab> <ls n="wg,1208">1208a</ls><sup>2</sup> end.]
+{%<ab>cpds.</ab>%} [{@bahís,@} <ls n="wg,1211">1211</ls>: <ab>cf.</ab> <ls n="wg,1208">1208a<sup>2</sup></ls> end.]
 <LEND>
 <L>2899<pc>201-a<k1>biqAla<k2>biqAla
 {@biḍāla,@}¦ {%<ab>m.</ab>%} cat.
@@ -15075,7 +15075,7 @@ guilt, inherited from one's father. [{@bīja,@}
 Brahman student ({@brahmán@}), {%<ab>esp.</ab>%} chastity; <lbinfo n="chas-tity;"/>
  religious studentship, the first of
 the four periods of a Brahman's life, {%see%}
-{@āśrama.@} [{@bráhman@} (<ls n="wg,1249">1249a</ls><sup>2</sup>) or {@brahmán@}
+{@āśrama.@} [{@bráhman@} (<ls n="wg,1249">1249a<sup>2</sup></ls>) or {@brahmán@}
 (probably both) {@+ carya,@} <ab>equiv.</ab> of {@caryā:@}
 <ab>acct</ab>, <ls n="wg,1272">1272,</ls> <ls n="wg,1213">1213e</ls>.]
 <LEND>
@@ -15084,7 +15084,7 @@ the four periods of a Brahman's life, {%see%}
 with, {%<ab>i. e.</ab>%}) studying sacred knowledge;
 {%as <ab>m.</ab>%} Brahman student, <ls n="lan,65,3">65<sup>3</sup></ls>; {%as <ab>adj.</ab> <ab>esp.</ab>%}
 observing chastity, <ls n="lan,64,14">64<sup>14</sup></ls>, <ls n="lan,100,21">100<sup>21</sup></ls>. [{@bráhman,@} <lbinfo n="[bráh-man,"/>
-<ls n="wg,1249">1249a</ls><sup>2</sup>.]
+<ls n="wg,1249">1249a<sup>2</sup></ls>.]
 <LEND>
 <L>2920<pc>202-a<k1>brahmaRya<k2>brahmaRya^
 {@brahmaṇyà,@}¦ {%<ab>a.</ab>%} pertaining {%or%} attached
@@ -15095,7 +15095,7 @@ pious; attached {%or%} friendly to Brahmans
 <L>2921<pc>202-a<k1>brahmadAya<k2>brahma-dAya
 {@brahma-dāya,@}¦ {%<ab>m.</ab>%} sacred-word heritage,
 heritage consisting of the sacred word.
-[{@bráhman,@} <ls n="wg,1249">1249a</ls><sup>2</sup>.]
+[{@bráhman,@} <ls n="wg,1249">1249a<sup>2</sup></ls>.]
 <LEND>
 <L>2922<pc>202-a<k1>brahmadAyahara<k2>brahmadAya-hara
 {@brahmadāya-hara,@}¦ {%<ab>a.</ab>%} receiving the
@@ -15103,7 +15103,7 @@ sacred word as a heritage.
 <LEND>
 <L>2923<pc>202-a<k1>brahmadviz<k2>brahma-dvi/z
 {@brahma-dvíṣ,@}¦ {%<ab>a.</ab>%} devotion-hating, godless. <lbinfo n="god-less."/>
- [{@bráhman,@} <ls n="wg,1249">1249a</ls><sup>2</sup>: <ab>acct</ab>, <ls n="wg,1269">1269.</ls>]
+ [{@bráhman,@} <ls n="wg,1249">1249a<sup>2</sup></ls>: <ab>acct</ab>, <ls n="wg,1269">1269.</ls>]
 <LEND>
 [Page202-b+ 50]
 <L>2924<pc>202-b<k1>brahman<k2>bra/hman
@@ -15134,14 +15134,14 @@ Supreme All-soul, 57<sup>4. 8</sup>; {%in the theological%}
 <LEND>
 <L>2926<pc>202-b<k1>brahmarzi<k2>brahmarzi
 {@brahmarṣi,@}¦ {%<ab>m.</ab>%} priest-sage, priestly sage,
-{%see%} <ls n="lan,1,14">1<sup>14</sup></ls><ab>N.</ab> [{@brahmán@} (<ls n="wg,1249">1249a</ls><sup>2</sup>) {@+ ṛ́ṣi,@} <ls n="wg,127">127,</ls>
+{%see%} <ls n="lan,1,14">1<sup>14</sup></ls><ab>N.</ab> [{@brahmán@} (<ls n="wg,1249">1249a<sup>2</sup></ls>) {@+ ṛ́ṣi,@} <ls n="wg,127">127,</ls>
 <ls n="wg,1280">1280b</ls>.]
 <LEND>
 <L>2927<pc>202-b<k1>brahmavarcasa<k2>brahmavarcasa/
 {@brahmavarcasá,@}¦ {%<ab>n.</ab>%} pre-eminence in
 sacred learning {%or%} holiness. [for {@brahmavareas,@} <lbinfo n="brah-mavareas,"/>
 which occurs only in derivs:
-{@bráhman@} (<ls n="wg,1249">1249a</ls><sup>2</sup>) {@+ várcas,@} <ls n="wg,1315">1315c</ls>.]
+{@bráhman@} (<ls n="wg,1249">1249a<sup>2</sup></ls>) {@+ várcas,@} <ls n="wg,1315">1315c</ls>.]
 <LEND>
 <L>2928<pc>202-b<k1>brahmavarcasvin<k2>brahmavarcasvin
 {@brahmavarcasvin,@}¦ {%<ab>a.</ab>%} eminent in
@@ -15150,12 +15150,12 @@ divine knowledge. [‘possessing {@brahmavarcasa,@} <lbinfo n="brahma-varcasa,"/
 <LEND>
 <L>2929<pc>202-b<k1>brahmavedin<k2>brahma-vedin
 {@brahma-vedin,@}¦ {%<ab>a.</ab>%} knowing divine
-knowledge. [{@bráhman,@} <ls n="wg,1249">1249a</ls><sup>2</sup>.]
+knowledge. [{@bráhman,@} <ls n="wg,1249">1249a<sup>2</sup></ls>.]
 <LEND>
 <L>2930<pc>202-b<k1>brahmahan<k2>brahma-ha/n
 {@brahma-hán@}¦ [<ls n="wg,402">402]</ls>, {%<ab>a.</ab>%} Brahman-slaying;
 {%as <ab>m.</ab>%} murderer of a Brahman. [{@brahmán,@} <lbinfo n="[brah-mán,"/>
-<ls n="wg,1249">1249a</ls><sup>2</sup>.]
+<ls n="wg,1249">1249a<sup>2</sup></ls>.]
 <LEND>
 <L>2931<pc>202-b<k1>brAhma<k2>brAhma/
 {@brāhmá,@}¦ {%<ab>f.</ab>%} {@-ī,@} {%<ab>a.</ab>%} <div n="2"/>{@—1.@} pertaining to {@bráhman,@} <lbinfo n="bráh-man,"/>
@@ -15164,7 +15164,7 @@ divine; holy, <ls n="lan,59,6">59<sup>6</sup></ls>; spiritual, <ls n="lan,61,15"
 {%senses, <ab>i. e.</ab>:%} <div n="2"/>{@—2a.@} of Brahmans; <div n="2"/>{@—2b.@} of
 Brahmán {%or (anglicized)%} Brahma, the
 Creator, <ls n="lan,57,23">57<sup>23</sup></ls>, <ls n="lan,58,9">58<sup>9</sup></ls>. [{@bráhman@} and {@brahmán,@} <lbinfo n="brah-mán,"/>
-<ls n="wg,1208">1208a</ls><sup>2</sup> end.]
+<ls n="wg,1208">1208a<sup>2</sup></ls> end.]
 <LEND>
 <L>2932<pc>202-b<k1>brAhmaRa<k2>brAhmaRa/
 {@brāhmaṇá,@}¦ {%<ab>m.</ab>%} (having to do with {@bráhman@} <lbinfo n="bráh-man"/>
@@ -15644,7 +15644,7 @@ show, appear well.
 a share for one's self, wish for; {%then%} ({%like%}
 {%the <ab>Eng.</ab>%} desire, ‘express a wish for’), request; <lbinfo n="re-quest;"/>
  beg; {%<ab>esp.</ab>%} go begging for food.
-[old <ab>desid.</ab> of {@√bhaj,@} <ls n="wg,108">108g</ls><sup>1</sup> end: <ab>cf.</ab>
+[old <ab>desid.</ab> of {@√bhaj,@} <ls n="wg,108">108g<sup>1</sup></ls> end: <ab>cf.</ab>
 {@bhakṣ.@}]
 <LEND>
 <L>3001<pc>206-a<k1>BikzA<k2>BikzA/
@@ -16923,7 +16923,7 @@ having undertaken a great vow. [<ls n="wg,1295">1295.</ls>]
 {@mahiṣá,@}¦ {%<ab>a.</ab>%} mighty; mahiṣo mṛgas, the
 powerful beast, {%<ab>i. e.</ab>%} buffalo, <ab>RV.</ab>; {%as <ab>m.</ab>,%}
 {%without%} {@mṛga,@} buffalo, <ls n="lan,55,3">55<sup>3</sup></ls>; {@--máhiṣī,@} {%<ab>f.</ab>%}
-[{%<ab>acct</ab>, <ab>cf.</ab>%} <ls n="wg,362">362b</ls><sup>2</sup>], the powerful one, {%as designation: %} <lbinfo n="desig-nation:"/>
+[{%<ab>acct</ab>, <ab>cf.</ab>%} <ls n="wg,362">362b<sup>2</sup></ls>], the powerful one, {%as designation: %} <lbinfo n="desig-nation:"/>
 {%of a%} woman of high rank; {%of%} the
 first wife of a king, <ls n="lan,1,16">1<sup>16</sup></ls>; {%sometimes of any%}
 queen of a king, <ls n="lan,50,1">50<sup>1</sup></ls>. [{@√mah,@} <ls n="wg,1197">1197b</ls>.]
@@ -17030,7 +17030,7 @@ greedy for meat.
 <LEND>
 <L>3221<pc>215-b<k1>mAciram<k2>mAciram
 {@māciram,@}¦ {%<ab>adv.</ab>%} (not long, {%<ab>i. e.</ab>%}) shortly,
-straightway. [{@mā́ + cirám,@} <ls n="wg,1122">1122b</ls><sup>4</sup>.]
+straightway. [{@mā́ + cirám,@} <ls n="wg,1122">1122b<sup>4</sup></ls>.]
 <LEND>
 <L>3222<pc>215-b<k1>mAWara<k2>mAWara
 {@māṭhara,@}¦ {%<ab>m.</ab>%} Māthara, name of a man.
@@ -17211,7 +17211,7 @@ deer; {%as <ab>m.</ab>%} track of wild animals, slot;
 <LEND>
 <L>3255<pc>216-b<k1>mArja<k2>mArja
 {@mārja,@}¦ {%<ab>adj.</ab> <ab>subst.</ab>%} cleaning, a cleaner, {%in%}
-{%<ab>cpds.</ab>%} [{@√mṛj,@} <ls n="wg,627">627</ls><sup>1, 2</sup>.]
+{%<ab>cpds.</ab>%} [{@√mṛj,@} <ls n="wg,627">627<sup>1, 2</sup></ls>.]
 <LEND>
 <L>3256<pc>216-b<k1>mArjAra<k2>mArjAra
 {@mārjāra,@}¦ {%<ab>m.</ab>%} cat. [‘the cleaner,’ so
@@ -17288,7 +17288,7 @@ nought, perish.
 <LEND>
 <L>3270<pc>217-a<k1>mit<k2>mi/t
 {@mít,@}¦ {%<ab>f.</ab>%} post, pillar, <ab>prop.</ab> [{@√1mi,@} ‘set up,’
-<ls n="wg,383">383b</ls><sup>3</sup>: for <ab>mg</ab>, <ab>cf.</ab> <ab>Eng.</ab> {%post,%} <ab>Lat.</ab> {%postis,%}
+<ls n="wg,383">383b<sup>3</sup></ls>: for <ab>mg</ab>, <ab>cf.</ab> <ab>Eng.</ab> {%post,%} <ab>Lat.</ab> {%postis,%}
 with {%pōnere,%} ‘set up.’]
 <LEND>
 <L>3271<pc>217-a<k1>mitra<k2>mitra/
@@ -17524,7 +17524,7 @@ thumb’; further, <lang n="greek"></lang>, <ab>Lat.</ab> {%mus-ca,%}
 <LEND>
 <L>3305<pc>218-b<k1>muzka<k2>muzka/
 {@muṣká,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} testicle; <div n="2"/>{@—2.@} pudenda
-muliebria. [from noun {@muṣ,@} {%<ab>i. e.</ab>%} (<ls n="wg,383">383a</ls><sup>2</sup>)
+muliebria. [from noun {@muṣ,@} {%<ab>i. e.</ab>%} (<ls n="wg,383">383a<sup>2</sup></ls>)
 {@mū́ṣ,@} ‘mouse’: for <ab>mg</ab>s, see under {@√muṣ:@}
 <ab>cf.</ab> <lang n="greek"></lang>:
 <ab>w.</ab> {@muṣka,@} <ab>cf.</ab> also Persian {%mushk,%} <ab>Eng.</ab>
@@ -17610,7 +17610,7 @@ the root, radical, basal,’ and then, as
 <LEND>
 <L>3322<pc>219-a<k1>mUz<k2>mU/z
 {@mū́ṣ,@}¦ {%<ab>m.</ab> <ab>f.</ab>%} mouse. [‘the thief,’ {@√muṣ,@}
-<ab>q. v.</ab>: see <ls n="wg,383">383a</ls><sup>2</sup>.]
+<ab>q. v.</ab>: see <ls n="wg,383">383a<sup>2</sup></ls>.]
 <LEND>
 <L>3323<pc>219-a<k1>mUzaka<k2>mUzaka
 {@mūṣaka,@}¦ {%<ab>m.</ab>%} thief; mouse, <ls n="lan,46,17">46<sup>17</sup></ls>; Mousey,
@@ -19035,7 +19035,7 @@ one, a Rakshas. [{@rákṣas,@} <ab>q. v.</ab>,
 Rāma. [{@raghú,@} <ls n="wg,1208">1208c</ls>.]
 <LEND>
 <L>3518<pc>229-a<k1>rAj<k2>rAj
-{@√rāj@}¦ ({@rā́jati, -te; rarā́ja, rejé@} [<ls n="wg,794">794e</ls><sup>2</sup>];
+{@√rāj@}¦ ({@rā́jati, -te; rarā́ja, rejé@} [<ls n="wg,794">794e<sup>2</sup></ls>];
 {@árājīt@}).
 <div n="1"/><div n="2"/>{@—1.@} direct; rule; be first; be master
 {%or%} king of, {%<ab>w.</ab> <ab>gen.</ab>;%}
@@ -19055,7 +19055,7 @@ see under {@rājan.@}]
 {@rā́j@}¦ [{%<ab>nom.</ab>%} {@rā́ṭ@}], {%<ab>m.</ab>%} king. [{@√rāj.@}]
 <LEND>
 <L>3520<pc>229-b<k1>rAja<k2>rAja
-{@rāja,@}¦ {%at end of <ab>cpds</ab> for%} {@rājan,@} <ls n="wg,1249">1249a</ls><sup>2</sup>.
+{@rāja,@}¦ {%at end of <ab>cpds</ab> for%} {@rājan,@} <ls n="wg,1249">1249a<sup>2</sup></ls>.
 <LEND>
 <L>3521<pc>229-b<k1>rAjakula<k2>rAja-kula
 {@rāja-kula,@}¦ {%<ab>n.</ab>%} <div n="2"/>{@—1.@} royal family; {%in <ab>pl.</ab>,%}
@@ -19490,7 +19490,7 @@ tail); {%later%} {@loman,@} {%<ab>q. v.</ab>%}
 <L>3590<pc>232-a<k1>romAnta<k2>romAnta
 {@romānta,@}¦ {%<ab>m.</ab> <ab>loc.</ab>%} {@-e,@} in hair-vicinity, {%<ab>i. e.</ab>%}
 on the hairy side (of the hand). [{@roman@}
-(<ls n="wg,1249">1249a</ls><sup>2</sup>) {@+ anta.@}]
+(<ls n="wg,1249">1249a<sup>2</sup></ls>) {@+ anta.@}]
 <LEND>
 [Page232-b+ 48]
 <L>3591<pc>232-b<k1>rOkma<k2>rOkma
@@ -20378,7 +20378,7 @@ protection. [{@√1vṛ,@} ‘cover,’ <ls n="wg,1163">1163c</ls>.]
 <L>3717<pc>238-b<k1>vareRya<k2>va/reRya
 {@váreṇya,@}¦ {%<ab>grdv.</ab>%} to be desired; {%and so,%}
 longed for, excellent. [{@√2vṛ,@} ‘choose,’
-<ls n="wg,1217">1217</ls><sup>1, 2, 3</sup>, <ls n="wg,966">966b</ls>.]
+<ls n="wg,1217">1217<sup>1, 2, 3</sup></ls>, <ls n="wg,966">966b</ls>.]
 <LEND>
 <L>3718<pc>238-b<k1>varga<k2>varga
 {@varga,@}¦ {%<ab>m.</ab>%} group. [{@√vṛj,@} ‘separate,’
@@ -20599,7 +20599,7 @@ drink’) wait, {%and so%} stop (eating), fast.
 <LEND>
 <L>3752<pc>240-a<k1>vasanta<k2>vasanta/
 {@vasantá,@}¦ {%<ab>m.</ab>%} spring. [‘the dawning {%or%}
-lighting-up’ year-time, {@√1vas,@} <ls n="wg,1172">1172</ls><sup>3, 4</sup>:
+lighting-up’ year-time, {@√1vas,@} <ls n="wg,1172">1172<sup>3, 4</sup></ls>:
 see {@1vas:@} <ab>cf.</ab> <lang n="greek"></lang>, <ab>Lat.</ab> {%vēr, *ve-er,%}
 {%*ves-er,%} ‘spring.’]
 <LEND>
@@ -20737,7 +20737,7 @@ blow. [<ab>cf.</ab> <lang n="greek"></lang>, ‘blow’; <ab>Goth.</ab>
 <lang n="greek"></lang>, ‘breeze’; <lang n="greek"></lang>, ‘air’; <ab>Lat.</ab>
 {%ventu-s%} (a participial form which has
 made a transition to the vowel-declension
---<ab>cf.</ab> {@vasanta@} and <ls n="wg,1172">1172</ls><sup>3, 4</sup>), ‘wind,’ <ab>Eng.</ab>
+--<ab>cf.</ab> {@vasanta@} and <ls n="wg,1172">1172<sup>3, 4</sup></ls>), ‘wind,’ <ab>Eng.</ab>
 {%wind;%} <ab>AS.</ab> {%we-der,%} <ab>Eng.</ab> {%wea-ther,%} ‘wind
 (<ab>e. g.</ab> in {%weather-cock%}), condition of the air’:
 see {@vā́ta@} and {@vāyú,@} ‘wind.’]
@@ -21198,7 +21198,7 @@ announce; communicate.
 {@ávidat, ávidata; vetsyáti, -te; vittá;@}
 {@véttum; vittvā́; -vídya@}). <div n="2"/>{@—1.@} find,
 <ls n="lan,4,12">4<sup>12</sup></ls>, <ab>etc.</ab>; get, <ls n="lan,74,13">74<sup>13</sup></ls>; obtain (children),
-<ls n="wg,100">100</ls><sup>5. 9</sup>; <div n="2"/>{@—2.@} get hold of, <ls n="lan,80,7">80<sup>7</sup></ls>; <div n="2"/>{@—3.@} {%<ab>pass.</ab>%}
+<ls n="wg,100">100<sup>5. 9</sup></ls>; <div n="2"/>{@—2.@} get hold of, <ls n="lan,80,7">80<sup>7</sup></ls>; <div n="2"/>{@—3.@} {%<ab>pass.</ab>%}
 {@vidyáte:@} is found; {%later, <ab>equiv.</ab> to%} there is,
 there exists; {%<ab>ppl.</ab>%} {@vídāna@} [<ls n="wg,619">619<sup>3</sup></ls>], found,
 <ls n="lan,73,20">73<sup>20</sup></ls>; {%--<ab>ppl.</ab>%} {@vitta,@} {%see <ab>s. v.</ab>%}
@@ -21777,7 +21777,7 @@ trusted.
 <LEND>
 <L>3948<pc>247-b<k1>viSvAhA<k2>viSvA/hA
 {@viśvā́hā,@}¦ {%<ab>adv.</ab>%} always, for evermore.
-[{@víśva,@} see <ls n="wg,1100">1100a</ls> and <ab>cf.</ab> <ls n="wg,1104">1104</ls><sup>2, 3</sup>: <ab>acct</ab>,
+[{@víśva,@} see <ls n="wg,1100">1100a</ls> and <ab>cf.</ab> <ls n="wg,1104">1104<sup>2, 3</sup></ls>: <ab>acct</ab>,
 <ab>cf.</ab> <ls n="wg,1298">1298c</ls>.]
 <LEND>
 <L>3949<pc>247-b<k1>viz<k2>viz
@@ -21860,7 +21860,7 @@ known.]
 <LEND>
 <L>3961<pc>248-a<k1>vizRuSarmanAman<k2>vizRuSarma-nAman
 {@viṣṇuśarma-nāman,@}¦ {%<ab>a.</ab>%} possessing {@viṣṇuśarman@} <lbinfo n="viṣ-ṇuśarman"/>
-as name, named <ab>V.</ab> [<ls n="wg,1249">1249a</ls><sup>2</sup>.]
+as name, named <ab>V.</ab> [<ls n="wg,1249">1249a<sup>2</sup></ls>.]
 <LEND>
 [Page248-b+ 50]
 <L>3962<pc>248-b<k1>vizvaYc<k2>vi/zvaYc
@@ -22035,7 +22035,7 @@ gather up, <ls n="lan,26,20">26<sup>20</sup></ls>.
 <L>3986<pc>249-b<k1>vf<k2>vf<h>2
 {@√2vṛ@}¦ ({@vṛṇīté; vavré; ávṛta; variṣyáte;@}
 {@vṛtá; várītum@} [<ls n="wg,254">254<sup>3</sup></ls>]; {@varitvā́;@} {%<ab>caus.</ab>%}
-{@varáyati, -te@} [<ls n="wg,1042">1042b</ls><sup>3</sup>]). choose; prefer;
+{@varáyati, -te@} [<ls n="wg,1042">1042b<sup>3</sup></ls>]). choose; prefer;
 desire, wish; choose for one's self, make
 one's portion, <ls n="lan,70,5">70<sup>5</sup></ls>, <ls n="lan,86,14">86<sup>14</sup></ls>; {@varaṃ vṛ,@} wish
 a wish, make a condition, <ls n="lan,94,1">94<sup>1</sup></ls>; {%--<ab>caus.</ab>%}
@@ -22230,7 +22230,7 @@ by Indra, <ls n="lan,73,18">73<sup>18</sup></ls>; {%see%} <ls n="lan,82,1">82<su
 <L>4004<pc>251-a<k1>vftratara<k2>vftrata/ra
 {@vṛtratára,@}¦ {%comparative to%} {@vṛtra@} ({%see%}
 <ls n="wg,473">473<sup>1</sup></ls>). the arch-withholder. [<ab>acct</ab> irregular, <lbinfo n="ir-regular,"/>
- <ls n="wg,471">471,</ls> <ls n="wg,1242">1242a</ls><sup>2</sup>.]
+ <ls n="wg,471">471,</ls> <ls n="wg,1242">1242a<sup>2</sup></ls>.]
 <LEND>
 <L>4005<pc>251-a<k1>vftraputra<k2>vftra/-putra
 {@vṛtrá-putra,@}¦ {%<ab>a.</ab>%} having Vritra as son;
@@ -22464,7 +22464,7 @@ house, abode, chamber. [{@√viś,@} <ls n="wg,1168">1168.</ls> 1a.]
 ({%<ab>cf.</ab>%} {@atha,@} {%near end of <ab>mg</ab>%} 3): {%so%} <ls n="lan,94,6">94<sup>6</sup></ls>, <ls n="lan,95,12">95<sup>12</sup></ls>,
 <ls n="lan,96,12">96<sup>12</sup></ls>, {%and in the examples just given; often%}
 {%used, <ab>esp.</ab> in Epos, as a mere expletive%}
-[{%see%} <ls n="wg,1122">1122a</ls><sup>4</sup>], {%so at end of a%} {@pāda,@} <ls n="lan,3,9">3<sup>9</sup></ls>, <ls n="lan,10,9">10<sup>9</sup></ls>,
+[{%see%} <ls n="wg,1122">1122a<sup>4</sup></ls>], {%so at end of a%} {@pāda,@} <ls n="lan,3,9">3<sup>9</sup></ls>, <ls n="lan,10,9">10<sup>9</sup></ls>,
 <ls n="lan,68,9">68<sup>9</sup></ls>.
 <LEND>
 <L>4041<pc>252-b<k1>vEcitrya<k2>vEcitrya
@@ -22519,7 +22519,7 @@ by Indra. [{@vi + aṃsa,@} <ls n="wg,1305">1305.</ls>]
 <L>4051<pc>253-a<k1>vyac<k2>vyac
 {@√vyac@}¦ ({@vivyakti@} [<ls n="wg,682">682]</ls>; {@vivyā́ca@} [<ls n="wg,785">785]</ls>).
 embrace, encompass, extend around.
-[<ab>cf.</ab> <ls n="wg,1087">1087f</ls><sup>2</sup>, <ls n="wg,108">108g</ls>.]
+[<ab>cf.</ab> <ls n="wg,1087">1087f<sup>2</sup></ls>, <ls n="wg,108">108g</ls>.]
 <LEND>
 <L>4052<pc>253-a<k1>vyacas<k2>vya/cas
 {@vyácas,@}¦ {%<ab>n.</ab>%} compass, extent.
@@ -22759,7 +22759,7 @@ cursing. [{@√śaṃs.@}]
 {@√śak@}¦ (A. {@śaknóti; śaśā́ka, śekús@} [<ls n="wg,794">794e</ls>];
 {@áśakat; śakṣyáti, -te; śaktá;@} {%--<ab>pass.</ab>%}
 {@śakyáte, śakitá;@}
-<div n="1"/>{@--B.@} {%<ab>desid.</ab>%} {@śíkṣate@} [<ls n="wg,1030">1030,</ls> <ls n="wg,108">108g</ls><sup>1</sup> end];
+<div n="1"/>{@--B.@} {%<ab>desid.</ab>%} {@śíkṣate@} [<ls n="wg,1030">1030,</ls> <ls n="wg,108">108g<sup>1</sup></ls> end];
 {%<ab>caus.</ab> of <ab>desid.</ab>%} {@śikṣáyati;@} {%<ab>pass.</ab> of <ab>desid.</ab>%}
 {%and of <ab>caus.</ab> of <ab>desid.</ab>%} {@śikṣyáte, śikṣitá@}).
 <div n="1"/>{@--A.@} {%simple verb:%} <div n="2"/>{@—1.@} be strong; be
@@ -23052,7 +23052,7 @@ the hollow cover (<ls n="lan,57,1">57<sup>1</sup></ls>), tegument, or
 Hülle; {%used also in <ab>pl.</ab>,%} <ls n="lan,84,9">84<sup>9</sup></ls>; body {%in%}
 {%general;%} {@mṛtaṃ śarīram,@} corpse, <ls n="lan,63,17">63<sup>17</sup></ls>;
 {%so%} <ls n="lan,84,4">84<sup>4</sup></ls>. [<ab>prop.</ab> ‘the corporeal tegument’
-of the soul, {@√*śṛ,@} ‘cover’ (<ls n="wg,1188">1188e</ls><sup>2</sup>), see
+of the soul, {@√*śṛ,@} ‘cover’ (<ls n="wg,1188">1188e<sup>2</sup></ls>), see
 under {@śaraṇa:@} for <ab>mg</ab>, <ab>cf.</ab> the cognate
 <ab>Ger.</ab> {%Hülle%} (under {@śaraṇa@}) in {%sterbliche%}
 {%Hülle,%} ‘mortal envelope, {%<ab>i. e.</ab>%} body’: <ab>cf.</ab>
@@ -24056,7 +24056,7 @@ steps. [{@ṣaṣ:@} <ls n="wg,1300">1300a</ls>.]
 see <ls n="wg,1312">1312</ls>.]
 <LEND>
 <L>4318<pc>263-a<k1>zaz<k2>za/z
-{@ṣáṣ@}¦ [<ls n="wg,483">483<sup>3</sup></ls>], {%<ab>num.</ab>%} six. [see <ls n="wg,182">182b</ls><sup>2</sup>, <ls n="wg,146">146<sup>3</sup></ls>:
+{@ṣáṣ@}¦ [<ls n="wg,483">483<sup>3</sup></ls>], {%<ab>num.</ab>%} six. [see <ls n="wg,182">182b<sup>2</sup></ls>, <ls n="wg,146">146<sup>3</sup></ls>:
 <ab>cf.</ab> <lang n="greek"></lang>, <ab>Lat.</ab> {%sex,%} <ab>Eng.</ab> {%six.%}]
 <LEND>
 <L>4319<pc>263-a<k1>zazwi<k2>zazwi/
@@ -24195,7 +24195,7 @@ for <ab>mg</ab>, <ab>cf.</ab> <lang n="greek"></lang> and {%soc-ius,%} under
 <LEND>
 <L>4342<pc>263-b<k1>saKI<k2>saKI/
 {@sakhī́@}¦ [<ls n="wg,364">364]</ls>, {%<ab>f.</ab>%} female companion, friend
-(of a woman). [{@sákhi:@} <ab>cf.</ab> <ls n="wg,362">362b</ls><sup>2</sup>.]
+(of a woman). [{@sákhi:@} <ab>cf.</ab> <ls n="wg,362">362b<sup>2</sup></ls>.]
 <LEND>
 <L>4343<pc>263-b<k1>saKIgaRa<k2>saKI-gaRa
 {@sakhī-gaṇa,@}¦ {%<ab>m.</ab>%} (friend-crowd, {%<ab>i. e.</ab>%})
@@ -24272,7 +24272,7 @@ assemble, gatherer. [<ab>caus.</ab> of {@√gam +@}
 <LEND>
 <L>4358<pc>264-a<k1>sac<k2>sac
 {@√sac@}¦ ({@síṣakti; sácate; saścús, saściré@}
-[<ls n="wg,794">794d</ls><sup>2</sup>]). <div n="2"/>{@—1.@} be with, be united with;
+[<ls n="wg,794">794d<sup>2</sup></ls>]). <div n="2"/>{@—1.@} be with, be united with;
 be together, have intercourse together,
 <ls n="lan,79,14">79<sup>14</sup></ls>; <div n="2"/>{@—2.@} accompany a person ({%<ab>acc.</ab>%}) to
 a thing {%(<ab>dat.</ab>), <ab>i. e.</ab>%} help him to it, <ls n="lan,69,18">69<sup>18</sup></ls>;
@@ -24297,7 +24297,7 @@ follow with the eyes, {%<ab>i. e.</ab>%}) see.’]
 <L>4360<pc>264-b<k1>sajozas<k2>sa-jo/zas
 {@sa-jóṣas,@}¦ {%<ab>a.</ab>%} (of like pleasure, {%<ab>i. e.</ab>%}) unanimous, <lbinfo n="unani-mous,"/>
  harmonious; kindly disposed, <ls n="lan,86,15">86<sup>15</sup></ls>.
-[<ls n="wg,1304">1304c</ls><sup>3</sup>.]
+[<ls n="wg,1304">1304c<sup>3</sup></ls>.]
 <LEND>
 <L>4361<pc>264-b<k1>sajja<k2>sajja
 {@sajja,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1.@} {%as used%} of a bow, having its
@@ -24505,7 +24505,7 @@ nature it is to exist and also not to exist
 at the same time. [{@sadasat.@}]
 <LEND>
 <L>4391<pc>266-a<k1>sadA<k2>sa/dA
-{@sádā,@}¦ {%<ab>adv.</ab>%} always. [<ab>cf.</ab> <ls n="wg,1103">1103a</ls><sup>2</sup>.]
+{@sádā,@}¦ {%<ab>adv.</ab>%} always. [<ab>cf.</ab> <ls n="wg,1103">1103a<sup>2</sup></ls>.]
 <LEND>
 <L>4392<pc>266-a<k1>sadAcAra<k2>sad-AcAra
 {@sad-ācāra,@}¦ {%<ab>m.</ab>%} the conduct {%or%} practices
@@ -24625,7 +24625,7 @@ paroxytone, <ls n="wg,1150">1150.</ls> 1c.]
 <lang n="greek"></lang>; <div n="2"/>{@—2.@} {%like%} {@saṃdhā́,@} compact, alliance,
 <ls n="lan,41,13">41<sup>13</sup></ls>; peace, <ls n="lan,17,7">17<sup>7</sup></ls>; <div n="2"/>{@—3.@} the putting together
 of sounds in word and sentence ({%see%}
-Whitney <ls n="wg,109">109b</ls><sup>2</sup>), euphonic combination,
+Whitney <ls n="wg,109">109b<sup>2</sup></ls>), euphonic combination,
 <ls n="lan,50,9">50<sup>9</sup></ls>; <div n="2"/>{@—4.@} junction (of day and night), {%<ab>i. e.</ab>%}
 morning {%or%} evening twilight. [{@√1dhā,@}
 ‘put,’ {@+ sam,@} <ls n="wg,1155">1155.</ls> 2e.]
@@ -24774,7 +24774,7 @@ time’; <lang n="greek"></lang>, ‘one and the same, common’;
 [{@2sama,@} <ls n="wg,1237">1237.</ls>]
 <LEND>
 <L>4439<pc>267-b<k1>samad<k2>sama/d
-{@samád,@}¦ {%<ab>f.</ab>%} fight, contest. [{@sam,@} <ls n="wg,383">383d</ls><sup>4</sup>:
+{@samád,@}¦ {%<ab>f.</ab>%} fight, contest. [{@sam,@} <ls n="wg,383">383d<sup>4</sup></ls>:
 <ab>cf.</ab> <lang n="greek"></lang>, ‘confused voices of men, din
 of battle, throng.’]
 <LEND>
@@ -24947,7 +24947,7 @@ united with. [<ls n="wg,1289">1289a</ls>.]
 {@sam-rā́jñī,@}¦ {%<ab>f.</ab>%} complete, {%<ab>i. e.</ab>%} sovereign
 ruler; mistress. [for {@sam,@} see <ls n="wg,1289">1289b</ls>
 end, and <ls n="wg,1077">1077b</ls> end: for {@m@} instead of {@ṃ,@}
-see <ls n="wg,213">213a</ls><sup>2</sup>.]
+see <ls n="wg,213">213a<sup>2</sup></ls>.]
 <LEND>
 <L>4472<pc>268-b<k1>sayatna<k2>sa-yatna
 {@sa-yatna,@}¦ {%<ab>a.</ab>%} (having, {%<ab>i. e.</ab>%} taking pains
@@ -25453,7 +25453,7 @@ Sādhyas, a class of deities. [{@√sādh.@}]
 <LEND>
 <L>4564<pc>271-b<k1>sAmaDvani<k2>sAma-Dvani
 {@sāma-dhvani,@}¦ {%<ab>m.</ab>%} sound of the {@sāman.@}
-[<ls n="wg,1249">1249a</ls><sup>2</sup>.]
+[<ls n="wg,1249">1249a<sup>2</sup></ls>.]
 <LEND>
 <L>4565<pc>271-b<k1>sAman<k2>sA/man
 {@sā́man,@}¦ {%<ab>n.</ab>%} song; {%as technical term, <ab>esp.</ab>%} a
@@ -25469,7 +25469,7 @@ utmost; strength, <ls n="lan,41,4">41<sup>4</sup></ls>. [{@samartha,@}
 <LEND>
 <L>4567<pc>272-a<k1>sAmaveda<k2>sAma-veda/
 {@sāma-vedá,@}¦ {%<ab>m.</ab>%} the Veda of {@sā́man@} {%or%}
-chants, <ls n="lan,63,6">63<sup>6</sup></ls>. [<ls n="wg,1249">1249a</ls><sup>2</sup>.]
+chants, <ls n="lan,63,6">63<sup>6</sup></ls>. [<ls n="wg,1249">1249a<sup>2</sup></ls>.]
 <LEND>
 <L>4568<pc>272-a<k1>sAmprata<k2>sAmprata
 {@sāmprata,@}¦ {%<ab>a.</ab>%} of now, present; {@-am,@} {%<ab>adv.</ab>%}
@@ -25629,7 +25629,7 @@ classical form <lang n="greek"></lang>; hence also Persian
 <L>4593<pc>273-a<k1>sisfkzu<k2>sisfkzu
 {@sisṛkṣu,@}¦ {%<ab>a.</ab>%} desirous to create. [<ab>fr.</ab>
 <ab>desid.</ab> of {@√sṛj,@} <ls n="wg,1038">1038,</ls> <ls n="wg,1178">1178f</ls>: euphony,
-<ls n="wg,184">184c</ls><sup>2</sup>.]
+<ls n="wg,184">184c<sup>2</sup></ls>.]
 <LEND>
 <L>4594<pc>273-a<k1>sIv<k2>sIv
 {@√sīv@}¦ ({@sī́vyati; syūtá; -sī́vya@}). sew.
@@ -25886,7 +25886,7 @@ husband), <ls n="lan,89,10">89<sup>10</sup></ls>; charming; amiable, <ls n="lan,
 <L>4644<pc>274-b<k1>sumaNgala<k2>su-maNga/la
 {@su-maṅgála,@}¦ {%<ab>f.</ab>%} {@-galī́@} [<ls n="wg,355">355b</ls>], {%<ab>a.</ab>%} having
 {%or%} bringing good luck. [{@maṅgalá:@} acct
-irregular, <ab>cf.</ab> <ls n="wg,1304">1304b</ls><sup>2</sup> end.]
+irregular, <ab>cf.</ab> <ls n="wg,1304">1304b<sup>2</sup></ls> end.]
 <LEND>
 <L>4645<pc>274-b<k1>sumaDyama<k2>su-maDyama
 {@su-madhyama,@}¦ {%<ab>a.</ab>%} fair-waisted.
@@ -25995,7 +25995,7 @@ taking kind notice, kindly. [<ls n="wg,1288">1288b</ls>.]
 <L>4669<pc>275-a<k1>suvIra<k2>su-vI/ra
 {@su-vī́ra,@}¦ {%<ab>a.</ab>%} having good heroes; rich in
 retainers, <ls n="lan,87,1">87<sup>1</sup></ls>; heroic, <ls n="lan,78,4">78<sup>4</sup></ls>, <ls n="lan,88,14">88<sup>14</sup></ls>. [{@vīrá:@}
-<ab>acct</ab>, <ls n="wg,1304">1304b</ls><sup>2</sup> end.]
+<ab>acct</ab>, <ls n="wg,1304">1304b<sup>2</sup></ls> end.]
 <LEND>
 <L>4670<pc>275-a<k1>suvfkti<k2>suvfkti/
 {@suvṛktí,@}¦ {%<ab>f.</ab>%} excellent praise, goodly
@@ -26118,11 +26118,11 @@ yet been discovered.]
 faltering-approach, {%<ab>i. e.</ab>%}) to which one
 easily {%or%} gladly totters (of the grave), {%<ab>i. e.</ab>%}
 easy of approach {%or%} not repulsive. [{@upavañcana,@} <lbinfo n="[upa-vañcana,"/>
-<ls n="wg,1304">1304b</ls><sup>2</sup>.]
+<ls n="wg,1304">1304b<sup>2</sup></ls>.]
 <LEND>
 <L>4694<pc>275-b<k1>sUpAyana<k2>sUpAyana/
 {@sūpāyaná,@}¦ {%<ab>a.</ab>%} (of easy approach, {%<ab>i. e.</ab>%})
-easy of access. [{@upā́yana,@} <ls n="wg,1304">1304b</ls><sup>2</sup>.]
+easy of access. [{@upā́yana,@} <ls n="wg,1304">1304b<sup>2</sup></ls>.]
 <LEND>
 <L>4695<pc>275-b<k1>sUra<k2>sU/ra
 {@sū́ra,@}¦ {%<ab>m.</ab>%} the sun. [<ab>cf.</ab> {@svàr,@} <ab>gen.</ab> {@sū́r-as,@}
@@ -26583,7 +26583,7 @@ undertaking), {%and so%} carry out (a plan),
 {@anuṣṭheyam,@} it must be done so, <ls n="lan,37,8">37<sup>8</sup></ls>;
 {%so%} <ls n="lan,38,15">38<sup>15</sup></ls>; {@tathā_anuṣṭhite,@} it having been
 thus accomplished, this being done, <ls n="lan,33,14">33<sup>14</sup></ls>;
-{%see%} <ls n="wg,303">303b</ls><sup>4</sup> {%and <ab>cf.</ab>%} <ls n="lan,35,16">35<sup>16</sup></ls>, <ls n="lan,37,13">37<sup>13</sup></ls>, <ls n="lan,39,15, 22">39<sup>15, 22</sup></ls>.
+{%see%} <ls n="wg,303">303b<sup>4</sup></ls> {%and <ab>cf.</ab>%} <ls n="lan,35,16">35<sup>16</sup></ls>, <ls n="lan,37,13">37<sup>13</sup></ls>, <ls n="lan,39,15, 22">39<sup>15, 22</sup></ls>.
 <div n="p"/>{@+ abhi,@} set the foot upon, vanquish;
 withstand.
 <div n="p"/>{@+ ava,@} <div n="2"/>{@—1.@} stand off, <ls n="lan,105,20">105<sup>20</sup></ls>; <div n="2"/>{@—2.@}
