@@ -84707,7 +84707,7 @@ supply the forms, according to rules given in grammars.
 
 <L>10655<pc>477<k1>tunnel<k2>tunnel
 {@Tunnel,@}¦ {%s.%} {#kulyA, suruM#} ({#raM#}) {#gA, gUQa-AMta-#}
-<div n="lb"/>{#-rBOma-mArgaH#} {%-v. t.%} {#utKan#} 1 P, {#suzirI
+<div n="lb"/>{#-rBOma-mArgaH#} {%-v. t.%} {#utKan#} 1 P, {#suzirIkf#} 8 U.
 <LEND>
 
 <L>10656<pc>477<k1>turban<k2>turban
