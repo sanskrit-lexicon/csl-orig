@@ -1025,7 +1025,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#dEvena, dEvAt, dEvagatyA#}. {@-al,@} {%a.%} {#yAdfcCika-#}
 <div n="lb"/>{#-Akasmika#} ({#kI#} {%f.%}) {#kAkatAlIya, dEvAyatta#}.
 <div n="lb"/>{@2@} {#aprakfta, asamavAyin; asahaja, AhArya#}.
-<div n="lb"/>{@-ally@} {%adc.%} {#dEvAt, devayogena, yadfcCayA,#}
+<div n="lb"/>{@-ally@} {%adv.%} {#dEvAt, devayogena, yadfcCayA,#}
 <div n="lb"/>{#viDi-dEva-vaSAt, samApatyA. akasmAt#}.
 <LEND>
 
@@ -2246,7 +2246,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#lakzyaM-kzaM, SaravyaM#}. {@2@} {#saMDAnaM;#} ‘taking a.’ {#Sara-#}
 <div n="lb"/>{#-saMDAnaM kurvan#}. {@3@} {#aBiprAyaH, ASayaH, vAMCA,#}
 <div n="lb"/>{#kAMkzA, hetuH, cikIrzitaM;#} ‘friend, where
-<div n="lb"/>are you going without any detimite a.’
+<div n="lb"/>are you going without any definite a.’
 <div n="lb"/>{#halA kvAnirdizwakAraRaM gamyate#} (V. 2).
 <LEND>
 
@@ -3233,7 +3233,7 @@ supply the forms, according to rules given in grammars.
 
 <L>392<pc>015<k1>annex<k2>annex
 {@Annex,@}¦ {%v. t.%} {#saMyuj#} 10, {#anubaMD#} 9 P, {#upADA#}
-<div n="lb"/>3. U; ‘Oudh was a. ed to the Eritish
+<div n="lb"/>3. U; ‘Oudh was a. ed to the British
 <div n="lb"/>territory’ {#avaDadeSa AMglarAjyAMgaM kftaH,-#}
 <div n="lb"/>{#-rAjyena saMyojitaH#}. {@2@} {#aMte nirdiS#} 6 P; ‘a
 <div n="lb"/>list of names is a. ed’ {#nAmAvalI leKAMte#}
@@ -3731,7 +3731,7 @@ supply the forms, according to rules given in grammars.
 {@Applaud,@}¦ {%v. t.%} {#praSaMs#} 1 P, {#SlAG#} 1 A, {#aBi-#}
 <div n="lb"/>{#-naMd#} 1 P, {#stu#} 2 U. {@2@} {#upagE#} 1 P. {@-Applause,@}
 <div n="lb"/>{%s.%} {#praSaMsA, SlAGA, stuti#} {%f.%} {@2@} {#praSaMsAvAcaH#}
-<div n="lb"/>(pl.). {#DanyavAdaH;#} ‘he rese to speak
+<div n="lb"/>(pl.). {#DanyavAdaH;#} ‘he rose to speak
 <div n="lb"/>amidst loud a.’ {#uccEH praSaMsAvAca udIra-#}
 <div n="lb"/>{#-yatsu Srotfzu sa vaktumudatizWat#}. {@-Applausive,@}
 <div n="lb"/>{%a.%} {#SlAGAnvita; stutimaya#} ({#yI#} {%f.%}).
@@ -3746,9 +3746,9 @@ supply the forms, according to rules given in grammars.
 <L>477<pc>017<k1>apply<k2>apply
 {@Apply,@}¦ {%v. t.%} {#saMyuj#} 10, {#nyas#} 4 P, {#f#} c.
 <div n="lb"/>({#arpayati#}), {#niviS#} c., {#niDA#} 3 U, {#Aruh#}
-<div n="lb"/>c.; ‘a. yoar shoulder to the wheel’
+<div n="lb"/>c.; ‘a. your shoulder to the wheel’
 <div n="lb"/>{#cakramaMsena uttaMBaya;#} ‘a. ing the hand to
-<div n="lb"/>my shoulde’ {#aMse hastaM niveSya#} &c. {@2@}
+<div n="lb"/>my shoulder’ {#aMse hastaM niveSya#} &c. {@2@}
 <div n="lb"/>{#viDA#} 3 U; {#prayuj#} 7 A, 10; ‘they do not
 <div n="lb"/>a. the word {#vizaya#} to happiness’ {#suKArTe#}
 <div n="lb"/>{#vizayaSabdaM na prayuMjaMte, -Sabdasya prayogo na#}
@@ -4229,7 +4229,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>1 P, {#baMD#} 9 P, {#Df#} 1 P, 10; {#fRahetoH rAjA-#}
 <div n="lb"/>{#-jYayA Df#} 10. {@2@} {#nivft#} c., {#staMB#} 9 P or c.
 <div n="lb"/>({#nivartayAmAsa nfpasya dfzwiM#}) (R. II. 28);
-<div n="lb"/>‘the Chitra {%kuta%} mountam a. s my
+<div n="lb"/>‘the Chitra {%kuta%} mountain a. s my
 <div n="lb"/>eye’ {#baDnAti me cakzuScitrakUwaH#} (R. XIII. 47);
 <div n="lb"/>‘a. attention’ {#ananyamanas#} {%a.%} {#kf#} 8 U,
 <div n="lb"/>{#ananyacitta#} {%a.%} {#kf#}. {%-s%} {#niroDaH, AseDaH, grahaRaM,#}
@@ -4332,7 +4332,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#daSaraTasya priyA#} (U. 4). ‘as since-there-
 <div n="lb"/>-fore’ {#taTA-taTA, yataH-tataH, yat-tat;#} ‘as for
 <div n="lb"/>instance,’ {#yaTA#} ({#yaTA mahAnase#}), or {#taTAhi#}.
-<div n="lb"/>{@2@} (On account of) ex. by abl. orinstr.
+<div n="lb"/>{@2@} (On account of) ex. by abl. or instr.
 <div n="lb"/>of noun. {@3@} (While) {#yAvat-tAvat;#} or
 <div n="lb"/>by pres. part.; ‘as he was going, he
 <div n="lb"/>thought’ {#gacCan sa itTaM manasi cakAra;#} ‘as
@@ -4462,7 +4462,7 @@ supply the forms, according to rules given in grammars.
 <L>571<pc>021<k1>aspect<k2>aspect
 {@Aspect,@}¦ {%s.%} {#rUpaM, AkAraH, Akfti#} {%f.;%} ‘a
 <div n="lb"/>gloomy a.’ {#vizaRRAkftiH;#} ‘he had a
-<div n="lb"/>eheerful a.’ {#tasya vadanaM harzotPullaM baBO#}. {@2@}
+<div n="lb"/>cheerful a.’ {#tasya vadanaM harzotPullaM baBO#}. {@2@}
 <div n="lb"/>{#avasTA, daSA;#} “all things wore a dif-
 <div n="lb"/>-ferent a.’ {#sarvaM viBinnAvasTAyAmavartata, vipa-#}
 <div n="lb"/>{#-ryAsaM yAtaM#}. {@3@} {#avasTAnaM;#} ‘my house has a
@@ -5034,7 +5034,7 @@ supply the forms, according to rules given in grammars.
 <L>650<pc>024<k1>audible<k2>audible
 {@Audible,@}¦ {%a.%} {#sPuwa, SravaRakzama, SrAvya, karRa-#}
 <div n="lb"/>{#-gocara, SrotragrAhya#} {@-Audibly,@} {%adv.%} {#sPuwaM;#}
-<div n="lb"/>‘in a.’ {#asPuwaM, niHSabdaM;#} ‘began to sobi.’
+<div n="lb"/>‘in a.’ {#asPuwaM, niHSabdaM;#} ‘began to sob.’
 <div n="lb"/>{#niHSabdaM roditumAreBe#} (Ka. 135)
 <LEND>
 
@@ -9995,7 +9995,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#aSezavidyAgrahaRasAmarTyaM#}. {@2@} {#balaM, Sakti#} {%f.,%}
 <div n="lb"/>{#sAmarTyaM, pAtratA, yogyatA#}. {@3@} {#pariRAmaM, vi-#}
 <div n="lb"/>{#-stAraH#}. {@4@} (Relation) gen. ex. by {#iti#}
-<div n="lb"/>or {#rUpeRa;#} ‘he served the king in thec.
+<div n="lb"/>or {#rUpeRa;#} ‘he served the king in the c.
 <div n="lb"/>of a servant’ {#sevakarUpeRa rAjAnaM sizeve;#}
 <div n="lb"/>{#avasTA, BAvaH, vftti#} {%f.,%} {#vizayaH; viDeyavizaye#}
 <div n="lb"/>{#saBavAnniyuMkte#} (Mal. 1) ‘employs me
@@ -12661,7 +12661,7 @@ supply the forms, according to rules given in grammars.
 <L>1840<pc>061<k1>cloth<k2>cloth
 {@Cloth,@}¦ {%s.%} {#vastraM, vAsas#} {%n.,%} {#vasanaM, celaH-laM,#}
 <div n="lb"/>{#pawaH, pariDAnaM, aMbaraM;#} ‘fine c.’ {#aMSukaM;#} ‘old,
-<div n="lb"/>taltered, c. es’ {#karpawaH, jIrRavastraM, cIraM;#}
+<div n="lb"/>tattered, c. es’ {#karpawaH, jIrRavastraM, cIraM;#}
 <div n="lb"/>‘unbleached c. {#anAhataM, nizpravARi,#}
 <div n="lb"/>{#taMtrakaM, navAMbaraM#}. {@-Clothe,@} {%v. t.%} (oneself
 <div n="lb"/>{#vAsaH#} &c. {#pariDA#} 3 U or {#grah#} 9 P; {#vas#}
@@ -13513,7 +13513,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#suKaM, susTatA, sOKyaM, svAsTyaM, nirvfti#} {%f.%}
 <div n="lb"/>{@-able,@} {%a.%} {#suKakara#} ({#rI#} {%f.%}), {#suKada; suKa-#}
 <div n="lb"/>{#-SayitaM prazwuM#} (S. 4) ‘to ask whether she
-<div n="lb"/>had a c. alcep.’ {@2@} {#ASvAsaka, SAMtida,#}
+<div n="lb"/>had a c. sleep.’ {@2@} {#ASvAsaka, SAMtida,#}
 <div n="lb"/>{#kleSApaha, klamavinodaka#}. {@-ably,@} {%adv.%}
 [Page66]
 <div n="lb"/>{#suKaM, yaTAsuKaM; nikAmaM;#} I can't
@@ -15302,7 +15302,7 @@ supply the forms, according to rules given in grammars.
 <L>2164<pc>076<k1>construe<k2>construe
 {@Construe,@}¦ {%v. t.%} {#anvayaM kaT#} 10, {#arTaM vyAKyA#}
 <div n="lb"/>2 P, {#yuj#} 10; {#tatparatayEva vedAMtavAkyAni#}
-<div n="lb"/>{#yojayaMti#} (S. B. 91) ‘c. as refferring
+<div n="lb"/>{#yojayaMti#} (S. B. 91) ‘c. as referring
 <div n="lb"/>to it’; ‘to be c. ed’ {#saMbaMD#} pass., ({#idaM#}
 <div n="lb"/>{#padamevaM na saMbaDyate#}).
 <LEND>
@@ -19105,7 +19105,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#kAzWA;#} ‘the highest d.’ {#parAkowiH-kAzWA,#}
 <div n="lb"/>{#atiBUmiH#}. {@9@} {#kramaH, anukramaH, Avft#} {%f.,%} {#pari-#}
 <div n="lb"/>{#-pAwi-wI#} {%f.,%} {#AnupUrvyaM-rvI, paryAyaH, tAratamya-#}
-<div n="lb"/>{#-BAvaH;#} ‘in the hightest d.’ {#niratiSayaM,#}
+<div n="lb"/>{#-BAvaH;#} ‘in the highest d.’ {#niratiSayaM,#}
 <div n="lb"/>{#ekAMtataH;#} ‘in some d.’ {#kiMcit, kiyatA-#}
 <div n="lb"/>{#-pyaMSena, Izat;#} ‘not in any d.’ {#na kenA-#}
 <div n="lb"/>{#-pyaMSena;#} ‘by d. s’ {#krameRa, kramaSaH, SanEH-#}
@@ -20140,7 +20140,7 @@ supply the forms, according to rules given in grammars.
 {@Despite,@}¦ {%s.%} {#dvezaH, jugupsA, mAtsaryaM, IrzyA,#}
 <div n="lb"/>{#aByasUyA, asUyA#}. {@2@} {#pratiroDaH, pratikAraH;#}
 <div n="lb"/>‘in d. of’ (prep.) {#anAdftya, avagaRayya,#}
-<div n="lb"/>or gen. abs.; ‘d. the (preserce of
+<div n="lb"/>or gen. abs.; ‘d. the (presence of
 <div n="lb"/>the) teacher’ {#paSyatopi guroH;#} {%See%} ‘in
 <div n="lb"/>spite of’ under {@Splte. -ful,@} {%a.%} {#dvezin,#}
 <div n="lb"/>{#sAsUya, aByasUyaka, matsarin, drohabudDi#}.
@@ -26536,7 +26536,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#-rye, -ryeRa;#} ‘to consider e.’ {#tulayA Df#} 1 P.
 <div n="lb"/>{@2@} {#anavara#}. {@3@} {#samavftti-citta, nirvikAra#}. {@4@}
 <div n="lb"/>{#paryApta, alaM#} with inf. or dat.; {#kxp#} 1 A
-<div n="lb"/>(with daf.); ‘he is e. to the task’
+<div n="lb"/>(with dat.); ‘he is e. to the task’
 <div n="lb"/>{#tatkAryaM sADayitumalaM saH; rakzaRAya kalpate,#}
 <div n="lb"/>&c. {%-s.%} {#samAnapadasTaH, tulyapadaBAj#} {%m.%} {@2@}
 <div n="lb"/>{#savayaskaH, savayasyaH, tulyavayas;#} oft. by
@@ -27729,7 +27729,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#vItadarpa, agarva,#} &c.; ‘e. from avarice’
 <div n="lb"/>{#nirloBa, vitfzRa, loBarahita,#} &c. {@2@} {#anA-#}
 <div n="lb"/>{#-yatta, avaSa#}. {@-ion,@} {%s.%} {#mukti#} {%f.,%} {#mokzaH,#}
-<div n="lb"/>{#varjanaM, rahitatvaM, mocanaM, aBAvaH;#} oft- by {#a#}
+<div n="lb"/>{#varjanaM, rahitatvaM, mocanaM, aBAvaH;#} oft. by {#a#}
 <div n="lb"/>or {#an#} in comp.; {#anavalepaH#} ‘e. from
 <div n="lb"/>pride, {#daMqABAvaH#} ‘e. from fine’ &c.
 <LEND>
@@ -27798,7 +27798,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>(charity)’ {#niHSezaviSrARitakozajAtaM#} (R.
 <div n="lb"/>v. 1.). {@4@} {#Kid#} c., {#klam#} c. ({#klamayati#}),
 <div n="lb"/>{#Sram#} c., {#ava-sad#} c., {#glE#} c., ({#glA-gla-#}
-<div n="lb"/>{#-payati;#} ‘I feele. ed’ {#klAMtosmi, avasa-#}
+<div n="lb"/>{#-payati;#} ‘I feel e. ed’ {#klAMtosmi, avasa-#}
 <div n="lb"/>{#-nnAni me gAtrARi#}. {@-ed,@} {%a.%} {#Sozita, virikta,#}
 <div n="lb"/>{#niHSezIkfta#}. {@2@} {#kzIRa, apacita#}. {@3@} {#SrAMta,#}
 <div n="lb"/>{#klAMta, Kinna, avasanna, glAna#}. {@-ion,@} {%s.%} {#SozaRaM#}.
@@ -30391,7 +30391,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#BU;#} ‘f. to do a work’ {#karmakzama, alaMka-#}
 <div n="lb"/>{#-rmIRa#}. {%-v. t.%} {#yuj#} 7 U, 10, {#samA-saM-DA#} 3 U,
 <div n="lb"/>{#yogya-yukta#} {%-a.%} {#kf#} 8 U; ‘f. an arrow’ {#bARaM#}
-<div n="lb"/>{#saM-DA;#} {%See%} {@Fix;@} ‘this ili f. s thee’ {#nEta-#}
+<div n="lb"/>{#saM-DA;#} {%See%} {@Fix;@} ‘this ill f. s thee’ {#nEta-#}
 <div n="lb"/>{#-danurUpaM BavataH;#} ‘f. out’ {#sajjIkf, sannah#} c.,
 <div n="lb"/>{#upakaraREH upakxp#} c., or {#saMyuj#} or {#upaskf;#}
 <div n="lb"/>‘fit up’ {@Decorate,@} q. v. {%-v. i.%} {#yuj-upa-#}
@@ -30886,7 +30886,7 @@ supply the forms, according to rules given in grammars.
 {@Floor,@}¦ {%s.%} {#BUmi#} {%f.,%} {#BUpfzWaM, talaM, BUtalaM, gfhaBU-BUmi-#}
 <div n="lb"/>{%f.,%} {#gfhapowaH, vAstu#} {%m. n.,%} {#gfhamUlaM, veSmaBUH#}.
 <div n="lb"/>{@2@} (Story) {#BUmiH, kozWaH;#} ‘a palace
-<div n="lb"/>havaing 7 f. s’ {#saptaBUmikaH prAsAdaH;#} ‘the
+<div n="lb"/>having 7 f. s’ {#saptaBUmikaH prAsAdaH;#} ‘the
 <div n="lb"/>upper f.’ {#upariBUmiH#}. {@3@} {#PalakAstaraRaM, Pa-#}
 <div n="lb"/>{#-lakasaMstaraH, PalakaH-kaM#}. {%-v. t.%} {#PalakEH A-#}
 <div n="lb"/>{#-stF#} 9 U or {#AcCad#} 10. {@2@} {#ni-pat#} c., {#BUmO#}
@@ -31257,7 +31257,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>-fortune f. s another’ {#duHKaM duHKAnubaMDi#}
 <div n="lb"/>(V. 4), {#vipadvipadamanubaDnAti#} (Ka. 73.) {@3@}
 <div n="lb"/>{#upAs#} 2 A, {#Baj#} 1 U, {#ASri, paricar; Sru#}
-<div n="lb"/>cesid, ({#SuSrUzate#}). {%-v. i.%} {#utpad#} 4 A, {#prAp-#}
+<div n="lb"/>desid. ({#SuSrUzate#}). {%-v. i.%} {#utpad#} 4 A, {#prAp-#}
 <div n="lb"/>{#-Apad-siD-anumA-#} pass.; {#paricCinnastAva-#}
 <div n="lb"/>{#-jjIva iti prApnoti#} (S. B. 651) ‘it f. s
 <div n="lb"/>therefore &c.’; ‘what f. ed is under-
@@ -33213,7 +33213,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#krIq#} 1 P, {#div#} 4 P; ‘G.-cock’ {#caraRA-#}
 <div n="lb"/>{#-yuDaH, yoDakukkuwaH;#} ‘g. -keeper’ {#vanyapakzi-#}
 <div n="lb"/>{#-pAlakaH;#} ‘g. -leg’ {#paMgupAdaH#}. {@-ing,@} {%s.%} {#dyUtaM#}.
-<div n="lb"/>{@-ster,@} {%s.%} {#DUrtaH;#} {%See%} {@under Gamble-@}
+<div n="lb"/>{@-ster,@} {%s.%} {#DUrtaH;#} {%See%} {@under Gamble.@}
 [Page179]
 <div n="lb"/>{@-some,@} {%a.%} {#krIqA-lIlA-para, vilAsaSIla,#}
 <div n="lb"/>{#vilAsin, parihAsaSIla, ullAsin, pari-#}
@@ -36216,7 +36216,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#Sikyita#}. {@2@} {#ud-baMD, udbaDya vyA-pad#} c. or
 <div n="lb"/>{#han#} c. ({#GAtayati#}). {@3@} {#A- ava-nam#} c. ({#nama-#}
 <div n="lb"/>{#-yati#}), {#nam#} c., {#namrIkf#} 8 U, {#namratAM nI#} 1 P;
-<div n="lb"/>{%See%} {@Bend;@} ‘with his lotuslike face
+<div n="lb"/>{%See%} {@Bend;@} ‘with his lotus-like face
 <div n="lb"/>hung down’ {#avanatamuKapuMqarIkaH;#} ‘h. -ing
 <div n="lb"/>the head’ {#avanatamuKa-Siras, natamUrDan#}. {@4@}
 <div n="lb"/>{#AcCad#} 10, {#vi- BUz#} 10, {#pra-sAD#} c., {#maMq#} 10,
@@ -36605,7 +36605,7 @@ supply the forms, according to rules given in grammars.
 
 <L>4819<pc>198<k1>have<k2>have
 {@Have,@}¦ {%v. t.%} ex. by {#BU#} 1 P, {#as#} 2 P, {#vft#}
-<div n="lb"/>1 A, {#vid#} 4 A (withgen. of possessor);
+<div n="lb"/>1 A, {#vid#} 4 A (with gen. of possessor);
 <div n="lb"/>{#Df#} 1 P, 10, {#DA#} 3 U, {#Bf#} 3 U; ‘I h. two
 <div n="lb"/>sons’ {#mama putrO staH-vidyete,#} &c.; ‘he had
 <div n="lb"/>many sons by Ganga’ {#gaMgAyAM sa bahUn#}
@@ -36840,7 +36840,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#sotsAha, utsuka, sollAsa, sasneha, hfdya; hfda-#}
 <div n="lb"/>{#-yaMgama, snehanirBara;#} ‘a h. friend’ {#hfdayaMgamaH#}
 <div n="lb"/>{#saKA#}. {@3@} {#vIryavat, sapOruza; kalya, susTa#}. {@-ly,@}
-<div n="lb"/>{%dv.%} {#nirvyalIka, nizkapawaM, nirvyAjaM#}. {@2@}
+<div n="lb"/>{%adv.%} {#nirvyalIka, nizkapawaM, nirvyAjaM#}. {@2@}
 <div n="lb"/>{#sollAsaM, sotsAhaM, prakAmaM, sarvAtmanA, saMtuzwa-#}
 <div n="lb"/>{#-cetasA, kAmataH, sAnaMdaM, sAhlAdaM, cittasaMto-#}
 <div n="lb"/>{#-zeRa#}. {@3@} {#savIryaM#}. {@-ness,@} {%e.%} {#sAralyaM, akftrima-#}
@@ -38251,7 +38251,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#-pratyarTI-BU#}. {@-ly,@} {%adv.%} {#Satruvat, vipakzavat#}.
 <div n="lb"/>{@-ity,@} {%s.%} {#vipakzatA, vEraM, SatrutA, vEraBAvaH, vi-#}
 <div n="lb"/>{#-roDaH, pratidvaMdvaM, vidvezaH;#} ‘in a state of
-<div n="lb"/>constanth.’ {#sadAbadDavEra#} {%a.;%} ‘natural
+<div n="lb"/>constant h.’ {#sadAbadDavEra#} {%a.;%} ‘natural
 <div n="lb"/>h’ {#svaBAva-jAti-vEraM, SASvatikaH viroDaH#}.
 <div n="lb"/>{@2@} {#vigrahaH, yudDaM, saMgrAmaH, yudDaBAvaH#}.
 <LEND>
@@ -38305,7 +38305,7 @@ supply the forms, according to rules given in grammars.
 <L>5013<pc>208<k1>hour<k2>hour
 {@Hour,@}¦ {%s.%} {#GawI, GawikA, nAqikA;#} ‘h.-drum’
 <div n="lb"/>{#nAqikAvicCedapawahaH#}. {@2@} (H. s) {#kAlaH;#}
-<div n="lb"/>‘at all h. s’ {#sadA, sarvadA;#} ‘in an evilh.’
+<div n="lb"/>‘at all h. s’ {#sadA, sarvadA;#} ‘in an evil h.’
 <div n="lb"/>{#aSuBe lagne-muhUrte;#} ‘an h. and a half.’
 <div n="lb"/>{#arDayAmaH#}. {@-ly,@} {%a.%} {#pratiGawikaM#} {%adv.%}
 <LEND>
@@ -38518,7 +38518,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#ni-ava-pat#} c., {#apa-kfz#} 1 P, {#namrIkf;#} ‘thus
 <div n="lb"/>completely h. ing the kings’ {#iti rAjYAM#}
 [Page210]
-<div n="lb"/>{#Sirasi vAmapAdamADAya#} (R. vII. 70); ‘h.-
+<div n="lb"/>{#Sirasi vAmapAdamADAya#} (R. VII. 70); ‘h.-
 <div n="lb"/>-bee’ {#BramaraH;#} {%See%} {@Bee.-ed,@} {%a.%} {#aBiBUta,#}
 <div n="lb"/>{#Bagnadarpa, Atta-garva-gaMDa, hftagarva; Anata, namrI-#}
 <div n="lb"/>{#-kfta, pAtita, apakfzwa#}. {@-ing,@} {%s.%} {#darpa-mAna-BaMgaH,#}
@@ -40068,8 +40068,8 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#anuBavaH, budDi#} {%f.,%} {#mati#} {%f.,%} {#mataM#}. {@4@} {#pariRAmaH,#}
 <div n="lb"/>{#utpannaM, saMskArajanyaM PalaM;#} oft. ex. by
 <div n="lb"/>{#aMtaraM, avakASaH, padaM#} with {#laB#} or {#grah; tada-#}
-<div n="lb"/>{#-labDapadaM hfdi SokaGane#} (R. vIII. 91),
-<div n="lb"/>{#leBeMtaraM cetasi nopadeSaH#} (R. vI. 66)
+<div n="lb"/>{#-labDapadaM hfdi SokaGane#} (R. VIII. 91),
+<div n="lb"/>{#leBeMtaraM cetasi nopadeSaH#} (R. VI. 66)
 <div n="lb"/>‘made or left no i. on the heart &c.’
 <div n="lb"/>{@5@} {#AGAtacihnaM, CedaH;#} {@-ive,@} {%a.%} {#hfdayahArin,#}
 <div n="lb"/>{#hfdayaMgama, cittAkarzin, hfdayaspfS#}.
@@ -42853,11 +42853,11 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#patraM, leKapatraM;#} ‘serving as the i. of others’
 <div n="lb"/>{#paropakaraRIkfta-BUta;#} ‘where such persons
 <div n="lb"/>become helping i. s’ {#yaMtropakaraRIBAva-#}
-<div n="lb"/>{#-mAyAtyevaMviDo janaH#} (U. 3); ‘musical i’
+<div n="lb"/>{#-mAyAtyevaMviDo janaH#} (U. 3); ‘musical i.’
 <div n="lb"/>{#vAditraM, vAdyaM, tUryaM, AtodyaM;#} ‘a wind-i.’
 <div n="lb"/>{#suziraM, SaMKaH;#} ‘stringed i.’ {#taMtrIH; taMtu-#}
 <div n="lb"/>{#-vAdyaM;#} ‘martial i.’ {#raRavAdyaM#}. {@-al,@} {%a.%} Ex.
-<div n="lb"/>by {#sADanaM, kAraRaM, hetuH, nimittaM;#} ‘he wasi.
+<div n="lb"/>by {#sADanaM, kAraRaM, hetuH, nimittaM;#} ‘he was i.
 <div n="lb"/>in elevating me’ {#sa mamonnatO kAraRaM-hetuH;#}
 <div n="lb"/>{#sADaka, sADana-kAraRa-BUta, sADanI-kAraRI-#}
 <div n="lb"/>{#-BUta, upakAraka#}. {@2@} {#vAdyaja, vAdyasaMBUta, vAdyo-#}
@@ -44092,8 +44092,8 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#-nena, vyAjoktyA#}.
 <LEND>
 
-<L>5777<pc>240<k1>radiate<k2>radiate
-{@radiate,@}¦ {%v. t.%} {#prakAS#} c. {#dyut#} c., {#dIp#} c.,
+<L>5777<pc>240<k1>Irradiate<k2>Irradiate
+{@Irradiate,@}¦ {%v. t.%} {#prakAS#} c. {#dyut#} c., {#dIp#} c.,
 <div n="lb"/>{#rAj#} c. {@-ion,@} {%s.%} {#prakASanaM, dyotanaM, pradIpanaM#}. {@2@}
 <div n="lb"/>(Irradiance) {#uddyotaH, dIpti#} {%f.,%} {#praBA,#}
 <div n="lb"/>{#kAMti-dyuti#} {%f.,%} {#tejas#} {%n.%}
@@ -44743,7 +44743,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>of j.’ {#vilagna, visaMDi#}. {%-a.%} {#saMyukta, samaveta,#}
 <div n="lb"/>{#ekakAryavyApfta, sahata#}. {@2@} {#asaMviBakta, a-#}
 <div n="lb"/>{#-viBakta, sADAraRa (RI#} {%f.%}), {#sAmAnya, saha#}
-<div n="lb"/>in comp.; {#saMGAtavat, saMBUyakArin,#} j-
+<div n="lb"/>in comp.; {#saMGAtavat, saMBUyakArin,#} j.
 <div n="lb"/>proprietor {#sahADikArin#} {%m.%}; ‘j. family
 <div n="lb"/>property’ {#saMsfzwiDanaM;#} ‘members of a
 <div n="lb"/>j. family’ {#saMsfzwAH, saMsfzwinaH,#} ‘with j.
@@ -49527,7 +49527,7 @@ supply the forms, according to rules given in grammars.
 
 <L>6394<pc>273<k1>madam<k2>madam
 {@Madam,@}¦ {%s.%} {#AryA, BAvinI, kulajA;#} (in
-<div n="lb"/>addresing) {#Arye, Bavati#}.
+<div n="lb"/>addressing) {#Arye, Bavati#}.
 <LEND>
 
 <L>6395<pc>273<k1>madder<k2>madder
@@ -51338,7 +51338,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#-gam-i;#} ‘to rise to m.’ {#pratyutTA#} 1 P, {#a-#}
 <div n="lb"/>{#-ByutTA#} {%-v. i.%} {#saMmil, sam-i, sanni-pat#} 1 P,
 <div n="lb"/>{#ekIBU, ekatra mil;#} {%See%} {@Assemble. 2@}
-<div n="lb"/>(In hattle) {#saMyuD#} 4 A, {#yudDArTaM mil, yudDaM#}
+<div n="lb"/>(In battle) {#saMyuD#} 4 A, {#yudDArTaM mil, yudDaM#}
 <div n="lb"/>{#AraMB#} 1 A {#raRe aBi-yuj#} pass.; ‘the
 <div n="lb"/>waters m.’ {#ApaH saMplavaMte, saMgacCaMte, saMBi-#}
 <div n="lb"/>{#-dyaMte#}. {%-a.%} {#ukta, ucita, yogya, upapanna#}.
@@ -56342,7 +56342,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#viSvAsaBUmiH;#} ‘the sole o. of my affec-
 <div n="lb"/>-tion’ {#snehasyEkAyanIBUtA#} (M. 2); ‘o. of
 <div n="lb"/>dispute’ {#vivAdavizayaH, vyavahArAspadaM#}. {@2@}
-<div n="lb"/>{#arTaH, PalaM, hetuH;#} (dosired o.) {#aBIzwaM,#}
+<div n="lb"/>{#arTaH, PalaM, hetuH;#} (desired o.) {#aBIzwaM,#}
 <div n="lb"/>{#izwaM, samIhitaM, kAMkzitaM, IpsitaM, kAmaH, mano-#}
 <div n="lb"/>{#-raTaH;#} {%See%} {@Desire. 3@} {#nimittaM, kAraRaM, prayo-#}
 <div n="lb"/>{#-janaM, kAryaM#}. {@4@} {#aBiprAyaH, ASayaH, tAtparyaM,#}
@@ -64269,7 +64269,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#saMskf, pac#} 1 P, {#nizpad#} c.; (army
 <div n="lb"/>4 P or c., {#AyuDEH upakxp#} c.; (a book
 <div n="lb"/>&c.) {#praRI#} 1 P, {#nirmA, pra-ni-baMD#} 9 P,
-<div n="lb"/>{#vi-, rac#} 10; (leason) {#Sikz#} 1 A, {#paW#} 1 P,
+<div n="lb"/>{#vi-, rac#} 10; (lesson) {#Sikz#} 1 A, {#paW#} 1 P,
 <div n="lb"/>{#aDi-i#} 2 A, {#pAraM gam#} 1 P; {#tF#} 1 P (p. well).
 <div n="lb"/>{%-v. i.%} {#upakaraRAni-dravyARi-saMBf#} or {#kxp#} c.
 <div n="lb"/>{@2@} {#sajjIBU#} 1 P, {#udyata-udyukta-sajja-sidDa-#}
@@ -67994,7 +67994,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#hetunA, kasya hetoH, kimarTaM;#} ‘for this r.’ {#ataH,#}
 <div n="lb"/>{#anena hetunA, asmAtkAraRAt;#} ‘by reason
 <div n="lb"/>of’ ex. by abl. or instr.; {#hetunA, kAra-#}
-<div n="lb"/>{#-RAt, arTaM;#} ‘for somer.’ {#kenApi kAraRena#}.
+<div n="lb"/>{#-RAt, arTaM;#} ‘for some r.’ {#kenApi kAraRena#}.
 <div n="lb"/>{%-v. i.%} {#vi-, tark#} 10, {#Uh#} 1 A, {#anu-mA#} 3 A,
 <div n="lb"/>2 P, {#yuktivAdena sAD#} c. or {#prati-pad#} c.;
 <div n="lb"/>{#vicar#} c.; {%See%} {@Argue,@} ‘r. ing faculty’
@@ -70827,7 +70827,7 @@ supply the forms, according to rules given in grammars.
 
 <L>8937<pc>398<k1>rib<k2>rib
 {@Rib,@}¦ {%s.%} {#parSukA, pArSvakaM, pArSvAsTi#} {%n.;%} ‘the
-<div n="lb"/>r. staken together’ {#paMjaraH-raM#}. {@2@} {#poliMdaH#}.
+<div n="lb"/>r.s taken together’ {#paMjaraH-raM#}. {@2@} {#poliMdaH#}.
 <div n="lb"/>{@3@} {#SalAkA#} (of umbrellas). {@4@} {#reKA#}.
 <LEND>
 
@@ -73471,7 +73471,7 @@ supply the forms, according to rules given in grammars.
 <LEND>
 
 <L>9268<pc>413<k1>sear<k2>sear
-{@Sear,@}¦ {%v. t.%} {#nirdah#} 1 P, {#pluz #}1 P, dahanena
+{@Sear,@}¦ {%v. t.%} {#nirdah#} 1 P, {#pluz #}1 P, {#dahanena#}
 <div n="lb"/>{#dfQIkf#} or {#SuzkIkf#} 8 U. {%-a.%} {#saMSuzka,#}
 <div n="lb"/>{#viSIrRa, mlAna#}.
 <LEND>
@@ -78612,7 +78612,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>of long s.’ {#cirasTAyin, dIrGakAlIna, pu-#}
 <div n="lb"/>{#-rARa;#} {%See%} {@Old. 2@} {#sTAnaM, padaM, AspadaM, padavI,#}
 <div n="lb"/>{#pratizWA;#} ‘high s.’ {#uccapadaM, mahatI pratizWA#}.
-<div n="lb"/>who has obtamed a s. {#labDapratizWaH#} -{%a.%}
+<div n="lb"/>who has obtained a s. {#labDapratizWaH#} -{%a.%}
 <div n="lb"/>{#sanAtana, cira-nitya-sTAyin;#} {%See%} {@Lasting.@}
 <div n="lb"/>{@2@} {#sTita, utTita, daMqavat sTita#}. {@3@}
 <div n="lb"/>{#sTa, sTAyin, vartin, ava-, sTita#} in comp.;
@@ -80370,7 +80370,7 @@ supply the forms, according to rules given in grammars.
 {@Suffice,@}¦ {%v. i.%} {#kxp#} 1 A (with dat.).
 <div n="lb"/>{#paryApta#} {%-a.%} {#BU#} 1 P; {%See%} below; ‘s. it to
 <div n="lb"/>say’ {#iti kaTanaM paryAptaM Bavet#}. {@-Sufficient,@}
-<div n="lb"/>{%a.%} {#paryApta, upayukta, ucita, samarTa,#} gen. bv
+<div n="lb"/>{%a.%} {#paryApta, upayukta, ucita, samarTa,#} gen. by
 <div n="lb"/>{#alaM#} (with dat.). ‘this (cow) will
 <div n="lb"/>be s. to satisfy my hunger’ {#tasyAla-#}
 <div n="lb"/>{#-mezA kzuDitasya tfptyE#} (R. II. 39), {#kzuDA-#}
@@ -84707,7 +84707,7 @@ supply the forms, according to rules given in grammars.
 
 <L>10655<pc>477<k1>tunnel<k2>tunnel
 {@Tunnel,@}¦ {%s.%} {#kulyA, suruM#} ({#raM#}) {#gA, gUQa-AMta-#}
-<div n="lb"/>{#-rBOma-mArgaH#} {%-v. t.%} {#utKan#} 1 P, {#suzirIkf#} 8 U.
+<div n="lb"/>{#-rBOma-mArgaH#} {%-v. t.%} {#utKan#} 1 P, {#suzirI
 <LEND>
 
 <L>10656<pc>477<k1>turban<k2>turban
@@ -88799,7 +88799,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>a few w. s’ {#samAsataH, samAsena;#} ‘upon my
 <div n="lb"/>w.’ (I tell you &c.) {#yadi madvacaH SradDeyaM#}
 <div n="lb"/>{#manyase, yadi te madvacane viSvAsaH#}. {%-v. t.%} {#SabdAn#}
-<div n="lb"/>{#rac#} 10 or {#yuj#} 10 or {#graMT#} 9 P; gen. cx. by
+<div n="lb"/>{#rac#} 10 or {#yuj#} 10 or {#graMT#} 9 P; gen. ex. by
 <div n="lb"/>({%s.%}); ‘a briefly w. ed message’ {#laGusaMdeSa-#}
 <div n="lb"/>{#-padA sarasvatI;#} ‘well-w. ed’ {#samyaggraTita,#}
 <div n="lb"/>{#sADuvinyastaSabda;#} ‘pathetically w.-ed’
@@ -89262,7 +89262,7 @@ supply the forms, according to rules given in grammars.
 <LEND>
 
 <L>11340<pc>500<k1>yon<k2>yon
-{@Yon, Yonder,@}¦ {%a.%} {#adas, idam,#} ({%pran. a.%})
+{@Yon, Yonder,@}¦ {%a.%} {#adas, idam,#} ({%pron. a.%})
 <div n="lb"/>{#puro dfSyamAna, nAtidUrasTa#}. {%-adv.%} {#nAtidUraM-#}
 <div n="lb"/>{#-re, stokAMtare, agrataH#}.
 <LEND>
@@ -89293,7 +89293,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{@-ter,@} {%s.%} {#bawuH, arBakaH, kumArakaH, bAlaH#}.
 <div n="lb"/>{@-Youth,@} {%s.%} {#yOvanaM, tAruRyaM, pUrvaM-navaM-praTamaM-#}
 <div n="lb"/>{#-vayaH, kOmAraM-rakaM;#} ‘being in the prime
-<div n="lb"/>or heyday of hery.’ {#praTame vayasi varta-#}
+<div n="lb"/>or heyday of her y.’ {#praTame vayasi varta-#}
 <div n="lb"/>{#-mAnA, navayOvanA;#} (state of y.) {#yOvana-#}
 <div n="lb"/>{#-daSA-padavI, tAruRyAvasTA, yOvanakAlaH#} &c.
 <div n="lb"/>{@2@} (Young man) {#yuvan#} {%m.,%} {#taruRaH, bAlaH,#}
