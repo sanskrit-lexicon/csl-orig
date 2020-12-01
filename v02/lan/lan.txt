@@ -2313,7 +2313,7 @@ were {@a-sura@}--whence, by popular etymology, <lbinfo n="ety-mology,"/>
 {@ásṛj@}¦ [<ls n="wg,432">432]</ls>, {%<ab>n.</ab>%} blood, <ls n="lan,24,22">24<sup>22</sup></ls>. [<ab>cf.</ab> Cyprian <lang n="greek"></lang>,
 ‘blood.’]
 <LEND>
-<L>524<pc>123-b<k1>asau<k2>asau/
+<L>524<pc>123-b<k1>asO<k2>asO/
 {@asaú,@}¦ {%see%} <ls n="wg,501">501</ls> {%and%} {@adas.@}
 <LEND>
 <L>525<pc>123-b<k1>asta<k2>a/sta
@@ -3391,13 +3391,13 @@ almost, <ls n="lan,34,13">34<sup>13</sup></ls>; <div n="2"/>{@—3.@} {%sometime
 just, quite; {@nacirād iva,@} right soon.
 [<ab>pron.</ab> root i, <ls n="wg,1102">1102b</ls>.]
 <LEND>
-<L>735<pc>130-a<k1>liz<k2>liz
+<L>735<pc>130-a<k1>iz<k2>iz
 {@√liṣ@}¦ ({@iccháti@} [<ls n="wg,753">753]</ls>; {@iyéṣa, īṣús@} [<ls n="wg,783">783b</ls>];
 {@aíṣīt; eṣiṣyáti; iṣṭá; éṣṭum; -íṣya@}).
 seek; desire; {%<ab>esp.</ab> <ab>w.</ab> <ab>inf.</ab>%} [<ls n="wg,981">981<sup>3</sup></ls>]; {%<ab>pass.</ab>%} be
 desired; be approved {%or%} recognized, {%and%}
 {%so%} pass for, <ls n="lan,59,18">59<sup>18</sup></ls>; {@iṣṭá,@} desired, {%<ab>i. e.</ab>%} desirable, <lbinfo n="desir-able,"/>
- <ls n="lan,1,4">1<sup>4</sup></ls>. [radical <ab>mg</ab>, ‘go, go for,’ {@√2iṣ@}
+ 1<sup>4</sup>. [radical <ab>mg</ab>, ‘go, go for,’ {@√2iṣ@}
 being merely a causative of {@√1iṣ:@} <ab>cf.</ab>
 <lang n="greek"></lang>, ‘desire’; <ab>w.</ab> {@icchā,@} ‘desire,’
 <ab>cf.</ab> <ab>AS.</ab> {%*āsce,%} ‘petition,’ whence {%āscian,%}
@@ -4721,7 +4721,7 @@ simple.
 {@aupamya,@}¦ {%<ab>n.</ab>%} similitude; likeness. [{@upamā́,@} <lbinfo n="[upa-mā́,"/>
 <ls n="wg,1211">1211.</ls>]
 <LEND>
-<L>991<pc>138-a<k1>aupaveSi<k2>au/paveSi
+<L>991<pc>138-a<k1>OpaveSi<k2>O/paveSi
 {@aúpaveśi,@}¦ {%<ab>m.</ab> patronymic of Aruna.%} [{@úpaveśi@} <lbinfo n="[úpa-veśi"/>
 (or {@upaveśá ?@}): <ab>cf.</ab> <ls n="wg,1221">1221.</ls>]
 <LEND>
@@ -8765,7 +8765,7 @@ under, <ls n="lan,34,1">34<sup>1</sup></ls>, <ls n="lan,43,8">43<sup>8</sup></ls
 <LEND>
 <L>1744<pc>163-a<k1>talpaSIvan<k2>talpa-SI/van
 {@talpa-śī́van,@}¦ {%<ab>f.</ab>%} {@-varī,@} {%<ab>a.</ab>%} lying on beds.
-[<ls n="wg,1169">1169.</ls> <ls n="lan,2,2">2<sup>2</sup></ls>.]
+[<ls n="wg,1169">1169.</ls> 2<sup>2</sup>.]
 <LEND>
 <L>1745<pc>163-a<k1>taviza<k2>taviza/
 {@taviṣá,@}¦ {%<ab>a.</ab>%} powerful. [{@√tu,@} <ls n="wg,1197">1197b</ls>.]
@@ -10415,7 +10415,7 @@ divinity, addressed to…, <ls n="lan,63,5">63<sup>5</sup></ls>. [{@devatā,@}
 {@daivika,@}¦ {%<ab>a.</ab>%} of the gods; divine. [{@deva,@}
 <ls n="wg,1222">1222e</ls>.]
 <LEND>
-<L>2064<pc>173-a<k1>daivya<k2>dai/vya
+<L>2064<pc>173-a<k1>dEvya<k2>dE/vya
 {@daívya,@}¦ {%<ab>a.</ab>%} of the gods; divine. [{@devá,@}
 <ls n="wg,1211">1211.</ls>]
 <LEND>
@@ -12230,7 +12230,7 @@ strength. [<ab>fr.</ab> {@nṛ@} (<ls n="wg,1224">1224c</ls>), as {%virtus%} <ab
 <L>2390<pc>184-b<k1>nO<k2>nO
 {@nau,@}¦ {%see%} <ls n="wg,491">491</ls>.
 <LEND>
-<L>2391<pc>184-b<k1>nau<k2>nau/
+<L>2391<pc>184-b<k1>nO<k2>nO/
 {@naú@}¦ [<ls n="wg,361">361a</ls>], {%<ab>f.</ab>%} boat; ship. [<ab>cf.</ab> <lang n="greek"></lang>, <ab>Lat.</ab>
 {%nāvis,%} ‘ship’; perhaps <ab>AS.</ab> {%naca,%} ‘skiff’:
 perhaps ‘the swimmer,’ {@√snū,@} <ab>cf.</ab> {@√snā.@}]
@@ -13772,7 +13772,7 @@ back-bite.
 {@póṣa,@}¦ {%<ab>m.</ab>%} thriving, development; welfare.
 [{@√puṣ.@}]
 <LEND>
-<L>2688<pc>194-a<k1>pauMsya<k2>pau/Msya
+<L>2688<pc>194-a<k1>pOMsya<k2>pO/Msya
 {@paúṃsya,@}¦ {%<ab>n.</ab>%} manliness; manly deed.
 [{@puṃs,@} <ls n="wg,1211">1211<sup>2</sup></ls>.]
 <LEND>
@@ -15430,7 +15430,7 @@ Bharata, name of a patriarchal hero.
 <LEND>
 <L>2963<pc>204-b<k1>Bargas<k2>Ba/rgas
 {@bhárgas,@}¦ {%<ab>n.</ab>%} radiant light; glory. [{@√bhṛj@}
-or {@bhrāj,@} <ab>q. v.</ab>, <ls n="wg,216">216.</ls> <ls n="lan,1,3">1<sup>3</sup></ls>: <ab>cf.</ab> <lang n="greek"></lang>, <ab>n.</ab>,
+or {@bhrāj,@} <ab>q. v.</ab>, <ls n="wg,216">216.</ls> 1<sup>3</sup>: <ab>cf.</ab> <lang n="greek"></lang>, <ab>n.</ab>,
 ‘flame’; <ab>Lat.</ab> {%fulgur,%} ‘lightning.’]
 <LEND>
 <L>2964<pc>204-b<k1>Bartf<k2>Bartf
@@ -17704,7 +17704,7 @@ gracious; forgive. [for {@ḻ,@} see Whitney
 {@mṛtavat,@}¦ {%<ab>adv.</ab>%} as if dead. [{@mṛta,@}
 <ls n="wg,1107">1107.</ls>]
 <LEND>
-<L>3336<pc>219-b<k1>mftyau<k2>mftyau/
+<L>3336<pc>219-b<k1>mftyO<k2>mftyO/
 {@mṛtyaú,@}¦ {%<ab>m.</ab>%} death. [{@√1mṛ,@} ‘die,’ <ls n="wg,1165">1165a</ls>:
 see <ls n="lan,95,16">95<sup>16</sup></ls>.]
 <LEND>
@@ -18699,7 +18699,7 @@ of existence (as man, Brahman, beast,
 <ab>etc.</ab>, in the system of transmigrations) as
 this form is determined by birth, <ls n="lan,67,20">67<sup>20</sup></ls>.
 [‘the holder’ of the born or unborn babe,
-{@√1yu,@} ‘hold,’ <ls n="wg,1158">1158.</ls> <ls n="lan,2,2">2<sup>2</sup></ls>: <ab>cf.</ab> the analogous
+{@√1yu,@} ‘hold,’ <ls n="wg,1158">1158.</ls> 2<sup>2</sup>: <ab>cf.</ab> the analogous
 metaphors in <ab>Lat.</ab> {%con-cipere,%} ‘take, hold,
 conceive’; and in {%volva,%} ‘cover, envelope,’
 and so ‘womb,’ <ab>fr.</ab> a root cognate with
@@ -19444,7 +19444,7 @@ tremble, shook.’]
 {@revā,@}¦ {%<ab>f.</ab>%} Revā, a river, the same as the
 Narmadā, {%<ab>q. v.</ab>%}
 <LEND>
-<L>3580<pc>232-a<k1>rai<k2>rai/
+<L>3580<pc>232-a<k1>rE<k2>rE/
 {@raí@}¦ [<ls n="wg,361">361b</ls>], {%<ab>m.</ab>, rarely <ab>f.</ab>%} possessions; wealth;
 prosperity. [stem strictly rā́: <ab>prop.</ab> ‘bestowal, <lbinfo n="‘be-stowal,"/>
 ’ {@√1rā,@} see <ls n="wg,361">361b</ls> and {@rayí:@} <ab>w.</ab> <ab>acc.</ab>
@@ -21470,7 +21470,7 @@ property, possessions. [{@√bhū + vi:@} <ab>cf.</ab>
 <LEND>
 <L>3896<pc>245-b<k1>viBAvan<k2>viBA/van
 {@vibhā́van,@}¦ {%<ab>f.</ab>%} {@-varī,@} {%<ab>a.</ab>%} shining far and
-wide. [{@√bhā + vi,@} <ls n="wg,1169">1169.</ls> 1b and <ls n="lan,2,2">2<sup>2</sup></ls>,
+wide. [{@√bhā + vi,@} <ls n="wg,1169">1169.</ls> 1b and 2<sup>2</sup>,
 <ls n="wg,1171">1171b</ls>.]
 <LEND>
 <L>3897<pc>245-b<k1>viBIdaka<k2>viBI/daka
@@ -21852,8 +21852,8 @@ of India; {%<ab>cf.</ab>%} {@brahmán@} 2 {%and%}
 <LEND>
 <L>3960<pc>248-a<k1>vizRuSarman<k2>vizRu-Sarman
 {@viṣṇu-śarman,@}¦ {%<ab>m.</ab>%} Vishnuśarman,
-name of a sage. [‘having <ab>V.</ab> as his
-protection’ or else ‘the delight of <ab>V.</ab>’:
+name of a sage. [‘having <ab n="Vishnu">V.</ab> as his
+protection’ or else ‘the delight of <ab n="Vishnu">V.</ab>’:
 the <ab>mg</ab> of the <ab>cpd</ab> depends on its accent
 (see <ls n="wg,1302">1302<sup>1</sup></ls> and <ls n="wg,1267">1267<sup>1</sup></ls>), and this is not
 known.]
@@ -22453,7 +22453,7 @@ the borrowed <ab>AS.</ab> {%wīc,%} ‘town,’ as in {%Eoforwīc,%} <lbinfo n="
 {@véśman,@}¦ {%<ab>n.</ab>%} (settlement, {%<ab>i. e.</ab>%}) dwelling,
 house, abode, chamber. [{@√viś,@} <ls n="wg,1168">1168.</ls> 1a.]
 <LEND>
-<L>4040<pc>252-b<k1>vai<k2>vai/
+<L>4040<pc>252-b<k1>vE<k2>vE/
 {@vaí,@}¦ {%postpositive particle, emphasizing the%}
 {%preceding word, <ab>e. g.</ab>%} <ls n="lan,3,17">3<sup>17</sup></ls>, <ls n="lan,96,13">96<sup>13</sup></ls>; {%rare in%}
 {%the%} {@saṃhitā,@} <ls n="lan,90,20">90<sup>20</sup></ls>, <ls n="lan,103,4">103<sup>4</sup></ls> ({%in a quoted%} {@mantra@} <lbinfo n="man-tra"/>
@@ -22478,7 +22478,7 @@ house, abode, chamber. [{@√viś,@} <ls n="wg,1168">1168.</ls> 1a.]
 <L>4043<pc>252-b<k1>vEdarBa<k2>vEdarBa
 {@vaidarbha,@}¦ {%<ab>f.</ab>%} {@-ī,@} {%<ab>a.</ab>%} belonging to Vidarbha; <lbinfo n="Vidar-bha;"/>
  {%as <ab>m.</ab>%} the Vidarbhan, {%<ab>i. e.</ab>%} king of
-<ab>V.</ab>; {%as <ab>f.</ab>%} the princess of <ab>V.</ab>, {%<ab>i. e.</ab>%} Damayantī, <lbinfo n="Dama-yantī,"/>
+<ab n="VidarBha">V.</ab>; {%as <ab>f.</ab>%} the princess of <ab n="VidarBha">V.</ab>, {%<ab>i. e.</ab>%} Damayantī, <lbinfo n="Dama-yantī,"/>
  <ls n="lan,8,7">8<sup>7</sup></ls>, <ab>etc.</ab> [{@vidarbha,@} <ls n="wg,1208">1208f</ls>.]
 <LEND>
 <L>4044<pc>252-b<k1>vEdika<k2>vEdika
@@ -22500,10 +22500,10 @@ car called {@vimāna,@} {%<ab>q. v.</ab>%} [{@vimāna,@}
 <LEND>
 <L>4047<pc>253-a<k1>vEvasvata<k2>vEvasvata/
 {@vaivasvatá,@}¦ {%<ab>a.</ab>%} descended from Vivasvant; <lbinfo n="Vivas-vant;"/>
- {%as <ab>m.</ab>%} son of <ab>V.</ab>, {%<ab>i. e.</ab>%} Yama. [{@vívasvant,@} <lbinfo n="[vívas-vant,"/>
+ {%as <ab>m.</ab>%} son of <ab n="Vivasvant">V.</ab>, {%<ab>i. e.</ab>%} Yama. [{@vívasvant,@} <lbinfo n="[vívas-vant,"/>
 <ls n="wg,1208">1208</ls> and a and a<sup>2</sup>.]
 <LEND>
-<L>4048<pc>253-a<k1>vaiSya<k2>vai/Sya
+<L>4048<pc>253-a<k1>vESya<k2>vE/Sya
 {@vaíśya,@}¦ {%<ab>adj.</ab> <ab>subst.</ab>%} man of the viś {%or%} folk
 {%or%} third caste, <ls n="lan,57,16">57<sup>16</sup></ls>. [{@víś,@} <ls n="wg,1211">1211.</ls>]
 <LEND>
@@ -22891,7 +22891,7 @@ one's self; get the upper hand, prevail;
 {%Vedic only.%} [<ab>cf.</ab> <lang n="greek"></lang>, Doric <lang n="greek"></lang>-
 <lang n="greek"></lang>, ‘distinguished.’]
 <LEND>
-<L>4104<pc>255-b<k1>Sanakais<k2>Sanakai/s
+<L>4104<pc>255-b<k1>SanakEs<k2>SanakE/s
 {@śanakaís,@}¦ {%<ab>adv.</ab>%} quietly; gently; slowly.
 [<ab>instr.</ab> (<ls n="wg,1112">1112c</ls>) of an unused stem {@*śanaka,@} <lbinfo n="*śa-naka,"/>
 diminutive to {@*śana,@} see {@śanais.@}]
@@ -23433,7 +23433,7 @@ good character, <ls n="lan,98,7">98<sup>7</sup></ls>.
 <L>4214<pc>258-b<k1>Suka<k2>Su/ka
 {@śúka,@}¦ {%<ab>m.</ab>%} parrot. [<ab>prop.</ab> ‘the bright one,’
 on account of its gaudy colors, {@√śuc:@}
-<ab>cf.</ab> <ls n="wg,216">216.</ls> 1, <ls n="lan,1,2">1<sup>2</sup></ls>.]
+<ab>cf.</ab> <ls n="wg,216">216.</ls> 1, 1<sup>2</sup>.]
 <LEND>
 <L>4215<pc>258-b<k1>Sukavat<k2>Sukavat
 {@śukavat,@}¦ {%<ab>adv.</ab>%} like a parrot. [{@śuka,@}
@@ -23941,7 +23941,7 @@ best: {%<ab>w.</ab> <ab>gen.</ab>,%} <ls n="lan,1,10">1<sup>10</sup></ls>; {%<ab
 {%(<ab>abl.</ab>), <ab>equiv.</ab> to%} better than, <ls n="lan,68,14">68<sup>14</sup></ls>. [see
 {@śreyāṃs.@}]
 <LEND>
-<L>4297<pc>262-a<k1>SraizWya<k2>Srai/zWya
+<L>4297<pc>262-a<k1>SrEzWya<k2>SrE/zWya
 {@śraíṣṭhya,@}¦ {%<ab>n.</ab>%} supremacy, precedence.
 [{@śréṣṭha,@} <ls n="wg,1211">1211<sup>2</sup></ls> end.]
 <LEND>
@@ -25388,7 +25388,7 @@ Bhagīratha with the water of the Ganges.]
 <L>4551<pc>271-b<k1>sAgnika<k2>sAgnika
 {@sāgnika,@}¦ {%<ab>a.</ab>%} having Agni with them, with
 Agni. [{@sa + agni,@} <ls n="wg,1304">1304c</ls>: for {@-ka,@} see
-<ls n="wg,1222">1222c</ls> <ls n="lan,2,2">2<sup>2</sup></ls> and <ls n="wg,1307">1307.</ls>]
+<ls n="wg,1222">1222c</ls> 2<sup>2</sup> and <ls n="wg,1307">1307.</ls>]
 <LEND>
 <L>4552<pc>271-b<k1>sANguzWa<k2>sANguzWa
 {@sāṅguṣṭha,@}¦ {%<ab>a.</ab>%} with the thumb. [{@aṅguṣṭha.@} <lbinfo n="[aṅ-guṣṭha."/>
@@ -26103,7 +26103,7 @@ as {%<ab>f.</ab>%} joy. [{@sūnára:@} see <ls n="wg,1237">1237<sup>3</sup></ls>
 <LEND>
 <L>4690<pc>275-b<k1>sUnftAvan<k2>sUnftAvan
 {@sūnṛtāvan,@}¦ {%<ab>f.</ab>%} {@-varī,@} {%<ab>a.</ab>%} joyous. [{@sūnṛ́tā,@}
-<ls n="wg,1234">1234</ls> and<sup>3</sup>: for <ab>fem.</ab>, <ls n="wg,1169">1169.</ls> <ls n="lan,2,2">2<sup>2</sup></ls>.]
+<ls n="wg,1234">1234</ls> and <sup>3</sup>: for <ab>fem.</ab>, <ls n="wg,1169">1169.</ls> 2<sup>2</sup>.]
 <LEND>
 <L>4691<pc>275-b<k1>sUpa<k2>sUpa
 {@sūpa,@}¦ {%<ab>m.</ab>%} soup. [despite the identity of
@@ -26304,7 +26304,7 @@ cloud-born,’ {%and to be taken in its <ab>adj.</ab>%}
 {%sense, as epithet of%} {@vidyut,@} {%at%} <ls n="lan,2,9">2<sup>9</sup></ls>. [see
 {@sudāman@} and <ls n="wg,1208">1208a</ls>.]
 <LEND>
-<L>4719<pc>277-a<k1>sauBaga<k2>sau/Baga
+<L>4719<pc>277-a<k1>sOBaga<k2>sO/Baga
 {@saúbhaga,@}¦ {%<ab>n.</ab>%} happiness. [{@subhága,@}
 <ls n="wg,1208">1208f</ls>.]
 <LEND>
@@ -26313,7 +26313,7 @@ cloud-born,’ {%and to be taken in its <ab>adj.</ab>%}
  weal and blessing. [{@saúbhaga,@}
 <ls n="wg,1239">1239.</ls>]
 <LEND>
-<L>4721<pc>277-a<k1>sauBAgya<k2>sau/BAgya
+<L>4721<pc>277-a<k1>sOBAgya<k2>sO/BAgya
 {@saúbhāgya,@}¦ {%<ab>n.</ab>%} happiness, {%<ab>esp.</ab>%} conjugal
 felicity, <ls n="lan,89,16">89<sup>16</sup></ls>; charmingness, <ls n="lan,2,5">2<sup>5</sup></ls>. [{@subhága@} <lbinfo n="[su-bhága"/>
 (<ls n="wg,1211">1211,</ls> <ls n="wg,1204">1204c</ls>)--see its <ab>mg</ab>s.]
