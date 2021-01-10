@@ -20289,8 +20289,8 @@ transition of <ab>mg</ab> in {@rūpa,@} 1, 2.]
 ’ {@√1vī,@} ‘enjoy’: for analogies, see
 {@√2bhuj,@} ‘enjoy,’ and {@√1vī.@}]
 <LEND>
-<L>3702<pc>238-a<k1><k2><h>3
-{@3@}¦ {@váyas,@} {%<ab>n.</ab>%} <div n="2"/>{@—1.@} strength, of body and of
+<L>3702<pc>238-a<k1>vayas<k2>va/yas<h>3
+{@3váyas,@}¦ {%<ab>n.</ab>%} <div n="2"/>{@—1.@} strength, of body and of
 mind; health; <div n="2"/>{@—2.@} the time of strength,
 youth; marriageable age, <ls n="lan,2,6">2<sup>6</sup></ls>; <div n="2"/>{@—3.@} {%generalized,%} <lbinfo n="gen-eralized,"/>
 any age {%or%} period of life; years
