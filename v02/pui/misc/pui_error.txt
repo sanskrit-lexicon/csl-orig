@@ -43,34 +43,40 @@
 3631:kESika:caidyas: OK (Sanskrit word - descendants of Cedi)
 3833:kzatriya:bX: OK (we see -  b)X )
 3865:kzIroda:yoganidra: OK (Sanskrit term)
-; Dhaval: yoganidrā ?
+; Dhaval: yoganidrā . Print error
 4024:ganDa:gandhamodavaha: OK (Sanskrit word)
 4039:ganDarva:semidivine: OK
 4078:gayAsura:perforhmed: performed
 ; scan error
 4233:guRa:prakrti: prakṛti
 ; "ṛ" in scan - is not clear
+; Dhaval: It is there. But quite smudged.
 4317:goDarma:becme: became
 ; scan error
 4457:grAmyAraRya:vritri: OK (Sanskrit word)
+;Dhaval: It seems to be a print error for vrIhi. Debatable. 
 4521:cakravartin:rathakrit: OK (Sanskrit word)
 4632:candramaRqalam:degresses: OK
 4840:cidvahni:hotri: OK (Sanskrit word)
 4993:jambU:roseapple: rose apple
 ; scan error
+; Dhaval: print change.
 5057:jayaviGnam:stupefication: stupefaction
 ; scan error
+; Dhava: print change.
 5250:jYAnam:aVi: OK ( 2a)Vi.)
 5342:taptakumBa:gaolers: OK
 ; more common spelling is "jailers"
 5828:dandaSUka:serpant: serpent
 ; scan error
+; Dhaval: print change.
 6068:durga:outways: OK
 ; rare, synonyms "ways out", "exits"
 6302:devahUtI:stupour: OK
 ; Obsolete, a modern form is "stupor"
 6427:dvAdaSAkzara:medidate: meditate
 ; scan error
+; Dhaval: Whenever Anna has noted 'scan error', it is supposed to be read as 'print change'
 6563:DarmayAga:mudhouses: mud houses
 ; scan error
 6576:DarmavratA:despitc: despite
@@ -99,8 +105,10 @@
 ; scan error
 8229:pUraRa:plumpy: OK (from "plump")
 ; Please double check, since this meaning is strange in context of the sentence
+; Dhaval: Seems to denote its plump look. Keep as it is.
 8360:pEla:flating: floating (I am not sure, please, recheck)
 ; probably - scan error
+; Dhaval: flate is not a proper word. floating seems fine.
 8369:potriRI:cakraratha: OK (Sanskrit term)
 8441:prakfti:acquiesed: acquiesced
 ; scan error
@@ -109,6 +117,7 @@
 8705:prahlAda:nector,poohpoohed,predicetd: nectar, pooh-poohed, predicted
 ; links to the scan pages 435-437, mentioned here, don't work
 ; probably scan errors (I don't see the scan)
+; Dhaval: All three are print changes.
 8772:prAyopaveSa:pratcised: practised
 ; scan error
 8780:prAsAda:descrbied: described
@@ -116,6 +125,7 @@
 8920:balarAma:sufference: sufferance
 ; links to the scan pages 464-466, mentioned here, don't work
 ; probably scan errors (I don't see the scan)
+; Dhaval: print change.
 8942:bali:protcction: protection
 ; "e" in scan - is not clear
 8954:balipAtra:gmelina: OK (plant)
@@ -126,6 +136,7 @@
 ; I didn't find "constellar" in any English dictionaries. 
 ; maybe it is an obsolete form of "constellational", "constellatory"
 ; I didn't correct pui.txt
+; Dhaval: Agree. Leave as it is.
 9136:bfhadukTa:tripravara: OK (Sanskrit term)
 9188:bfhadvanam:neghbouring: neighbouring
 ; scan error
@@ -137,6 +148,7 @@
 9328:brAhmaRa:himseslf: himself
 ; scan error
 9342:brAhmI:kalpalata: OK (Sanskrit word)
+; Dhaval: kalpalatā. Print change
 9452:BadrASva:excell: excel
 ; scan error
 9535:BAgavata:essense: essence
@@ -149,6 +161,7 @@
 9926:maRqapa:tapovanam: OK (Sanskrit term)
 9958:matsya:trible: tribe (I am not sure, better to recheck)
 ; Scan error
+; Dhaval: It is a typo. The scan has 'tribe'. Digitization was done wrongly to 'trible'.
 10354:mahAn:sankalpa: OK (Sanskrit word)
 10526:maheSvara:angas: OK (Sanskrit word)
 10550:mAGa:saptami: OK (Sanskrit word)
@@ -156,6 +169,7 @@
 ; Scan error
 10706:mArga:uparathyas: OK (Sanskrit word)
 ; but mayby upārathyas (in this case - scan error)
+; Dhaval: Keep uparathyas.
 11144:yajYa:vikarika: OK (Sanskrit word)
 11145:yajYa:balikarma: OK (Sanskrit term)
 11149:yajYadravya:pavitram: OK (Sanskrit word)
@@ -165,6 +179,7 @@
 11351:yogi:ahimsaka: OK (Sanskrit word)
 11584:rAjasUyam:hota: OK (Sanskrit word)
 ; but mayby hotā (in this case - scan error)
+; Dhaval: This is a generic issue in PUI. Noted at https://github.com/sanskrit-lexicon/csl-corrections/issues/45 .
 11667:rukmapArijAtavana:blackman: OK
 11727:ruDirAnDa:begger: beggar
 ; Scan error
@@ -174,6 +189,7 @@
 ; "a" in the scan - is not clear
 11848:rOrava:incendiarism: OK
 11957:lAvaRyavati:ayatam: OK (Sanskrit word)
+; Dhaval: ayatam is not a Sanskrit word. ayutam is. Print change. to 'ayutam'.
 12291:varRASrama:homekeepers: home-keepers
 ; Scan-error, synonym "householders"
 12603:vAruRakratu:sthopa,devakanyas: OK (Sanskrit words)
@@ -187,6 +203,7 @@
 13709:vEBrAja:quartzite: OK (rock)
 13772:vESvadeva:chamsi: OK (Sanskrit word)
 ; Better to recheck
+; Dhaval: No idea. Leave as it is.
 13846:vyucCinna:avyucchinna: OK (Sanskrit word)
 13997:Satakratu:anadhyaya: OK (Sanskrit word)
 14135:Sambara:bady: baby
@@ -205,6 +222,7 @@
 14879:SrAdDam:hemophrodites,hemophrodite: hermaphrodites, hermaphrodite
 ; links to the scan pages 477-478, mentioned here, don't work
 ; Maybe - Scan error (I don't see the scan)
+; Dhaval: print change.
 14931:SrIvanam:bilvavanam: OK (Sanskrit word)
 15123:saMgraha:muhurta: OK (Sanskrit word)
 15193:satyam:tapolokam: OK (Sanskrit word)
@@ -214,6 +232,7 @@
 ; Scan error
 15418:samudrasena:horsefaced: horse-faced
 ;  Scan error, BUT maybe "horsefaced" is also correct
+; Dhaval: horse-faced kept.
 15502:saMsAra:duhham: OK (Sanskrit word)
 15543:sarga:rudimental: OK
 15546:sarpa:nabhonabha: OK (Sanskrit word)
@@ -223,6 +242,7 @@
 ; Scan error
 16636:sUkara:stealers: OK (larcenists, thiefs)
 16640:sUkzmam:indiriyas: OK (Sanskrit word)
+; Dhaval. Print change to indriyas. Removed extra i.
 16845:sOBAgyazwakam:kurumbham: OK (Sanskrit word)
 16920:stamBa:octogonal: octagonal
 ; "octogonal" (which is in the scan) is also correct but it is an obsolete form
@@ -231,7 +251,6 @@
 16999:sva:divaloka: OK (Sanskrit word)
 17192:hari:indwellers: OK
 17279:havi:havyakavyam: OK (Sanskrit word)
-
-EXTRA
+;EXTRA
 9136:bfhadukTa:An: An- 
 ; An-giras, "-" in the scan is invisible
