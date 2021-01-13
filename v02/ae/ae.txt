@@ -19377,7 +19377,7 @@ supply the forms, according to rules given in grammars.
 
 <L>2698<pc>099<k1>demand<k2>demand
 {@Demand,@}¦ {%v. t.%} {#pracC#} 6 P, {#anuyuj#} 7 A, {#jYA#}
-<div n="lb"/>deside. ({#jijYAsate#}), ‘d. ed his name’
+<div n="lb"/>desid. ({#jijYAsate#}), ‘d. ed his name’
 <div n="lb"/>{#kiM tava nAmeti papracCa;#} ‘d. a boon’ {#varaM vf-#}
 <div n="lb"/>{#-vF-#} 5, 9 U. {@2 Claim,@} q. v. {@3@} {#arh#} 1 P,
 <div n="lb"/>oft. by pot. pass. part.; ‘Oh Goddess,
@@ -79026,7 +79026,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>1 P. {@2@} {#masj#} 6 P, {#niruD-staMB#} pass.;
 <div n="lb"/>‘the wheels stuck fast into the mire’
 <div n="lb"/>{#paMke gAQaM nirudDAni cakrARi#}. {@3@} {#vikxp#} 1 A,
-<div n="lb"/>{#viSaMk#} 1 A; {%See%} {@D ubt;@} ‘s. out’ {#pralaMb#}
+<div n="lb"/>{#viSaMk#} 1 A; {%See%} {@Doubt;@} ‘s. out’ {#pralaMb#}
 <div n="lb"/>1 A; {%See%} {@Project.@} -{%v. t.%} {#niviS#} c.,
 <div n="lb"/>{#anubaMD, A-saM-saMj#} c., {#saMlagnIkf#} 8 U. {@2@} {#prasf#}
 <div n="lb"/>c. {@-y,@} {%a.%} {#snigDa, cikkaRa, SyAna, sAMdra,#}
@@ -80449,7 +80449,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#akzaH;#} ‘file a s.’ {#aBiyuj#} 7 A; {%See%} {@Sue.@}
 <div n="lb"/>{@3@} (Of clothes &c.) {#yugalaM, yugmaM, yutakaM, yugaM,#}
 <div n="lb"/>{#saMyogaH, samUhaH;#} {%See%} {@Set. 4@} {#parijanaH,#}
-<div n="lb"/>{#parivAraH,#} {%See%} {@Retinue. -eble,@} {%a.%} {#anurUpa,#}
+<div n="lb"/>{#parivAraH,#} {%See%} {@Retinue. -able,@} {%a.%} {#anurUpa,#}
 <div n="lb"/>{#yukta, ucita, yogya, upapanna, anuguRa, sadfSa#}
 <div n="lb"/>({#SI#} {%f.%}); {%See%} {@Becoming Proper -ably,@}
 <div n="lb"/>{%adv.%} {#yaTocita, anurUpaM, yaTAyogyaM, yaTArhaM,#}
