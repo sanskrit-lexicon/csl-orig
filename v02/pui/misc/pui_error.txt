@@ -7,6 +7,7 @@
 ; similar to "interfluve"
 1570:indrARI:kuladevatas: OK (Sanskrit term)
 ; Kuladevatā - a tutelary deity, the guardian deity of a family
+; Dhaval : Should it not be Kuladevatās ? Missing diacritic mark?
 1640:IhASila:dualities: OK
 2462:kapAlitvam:theophany: OK (a visible manifestation of a deity)
 2734:kaSyapapadam:perfomance: performance
@@ -15,6 +16,7 @@
 ; scan error
 2916:kAlanemI:abhastalam: gabhastalam
 ; Scan error. I corrected like in 3100:kuYjara. Please - recheck
+; Dhaval: I checked it with kuYjara. It shows `fourth tala or gabhastalam`. Therefore, We have to mark this entry in kAlanemI as print error.
 3171:kumAra:resplendant: OK
 ; Obsolete, modern spelling is "resplendent"
 3252:kurava:presious: precious
@@ -22,20 +24,26 @@
 3506:kfzRa:stupifying, embarassment: stupefying, embarrassment
 ; scan error
 ; a link to the scan page 346 [Page1-436 + 43] doesn't work
+; Dhaval: Both items are typed as they are in the scan. But they are wrong words as per English. Therefore, marking it as print change.
 3507:nAmakaraRam:seagod,topcrest,blindmans,externment,invisilability,aIb
 ; links to the scan pages 346-350, mentioned here, don't work. 
 ; I can't check scan errors
 3507:nAmakaraRam:seagod: sea-god
+; Dhaval: reverted to seagod as per scan.
 3507:nAmakaraRam:topcrest: top crest
+; Dhaval: reverted to topcrest as per scan.
 3507:nAmakaraRam:blindmans: OK (blindman's buff)
 3507:nAmakaraRam:externment: OK (banishment)
 3507:nAmakaraRam:invisilability: inviolability
 ; I am not sure. I don't see the scan.
+; Dhaval: I am also not sure. inviolability seems right in the context. Changing to print change.
 3507:nAmakaraRam:aIb: OK ( a)Ib.)
 ; Maybe to put a gap " " between ")" and "Ib." There are some similar lines with gapes, some without.
+; Dhaval: Noted the issue at https://github.com/sanskrit-lexicon/csl-corrections/issues/44
 3631:kESika:caidyas: OK (Sanskrit word - descendants of Cedi)
 3833:kzatriya:bX: OK (we see -  b)X )
 3865:kzIroda:yoganidra: OK (Sanskrit term)
+; Dhaval: yoganidrā ?
 4024:ganDa:gandhamodavaha: OK (Sanskrit word)
 4039:ganDarva:semidivine: OK
 4078:gayAsura:perforhmed: performed
