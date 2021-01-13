@@ -1,135 +1,229 @@
-274:aRqam:egglike
-585:apasvAnta:loveable
-588:apANkteya:interdining
-1197:AtatAyin:seditionists
-1398:Arza:doab
-1570:indrARI:kuladevatas
-1640:IhASila:dualities
-2462:kapAlitvam:theophany
-2734:kaSyapapadam:perfomance
-2842:kAmyA:daughtes
-2916:kAlanemI:abhastalam
-3171:kumAra:resplendant
-3252:kurava:presious
-3506:kfzRa:stupifying,embarassment
+274:aRqam:egglike: OK
+585:apasvAnta:loveable: OK
+; alternative form is "lovable"
+588:apANkteya:interdining: OK (to join in a common meal)
+1197:AtatAyin:seditionists: OK (one who engages in sedition)
+1398:Arza:doab: OK (in South Asia - the land lying between two confluent rivers)
+; similar to "interfluve"
+1570:indrARI:kuladevatas: OK (Sanskrit term)
+; Kuladevatā - a tutelary deity, the guardian deity of a family
+1640:IhASila:dualities: OK
+2462:kapAlitvam:theophany: OK (a visible manifestation of a deity)
+2734:kaSyapapadam:perfomance: performance
+; scan error
+2842:kAmyA:daughtes: daughters
+; scan error
+2916:kAlanemI:abhastalam: gabhastalam
+; Scan error. I corrected like in 3100:kuYjara. Please - recheck
+3171:kumAra:resplendant: OK
+; Obsolete, modern spelling is "resplendent"
+3252:kurava:presious: precious
+; scan error
+3506:kfzRa:stupifying, embarassment: stupefying, embarrassment
+; scan error
+; a link to the scan page 346 [Page1-436 + 43] doesn't work
 3507:nAmakaraRam:seagod,topcrest,blindmans,externment,invisilability,aIb
-3631:kESika:caidyas
-3833:kzatriya:bX
-3865:kzIroda:yoganidra
-4024:ganDa:gandhamodavaha
-4039:ganDarva:semidivine
-4078:gayAsura:perforhmed
-4233:guRa:prakrti
-4317:goDarma:becme
-4457:grAmyAraRya:vritri
-4521:cakravartin:rathakrit
-4632:candramaRqalam:degresses
-4840:cidvahni:hotri
-4993:jambU:roseapple
-5057:jayaviGnam:stupefication
-5250:jYAnam:aVi
-5342:taptakumBa:gaolers
-5828:dandaSUka:serpant
-6068:durga:outways
-6302:devahUtI:stupour
-6427:dvAdaSAkzara:medidate
-6563:DarmayAga:mudhouses
-6576:DarmavratA:despitc
-6930:narakam:bhaumam
-6949:narmadA:austereties
-6987:nahuza:efflulgence,overweaning
-7285:nIdAGa:thousannd
-7371:nErfta:valourous
-7392:nyAsa:eg,gairikam
-7438:paYcamuKa:sthambha
-7505:patram:likhitam
-7641:parIkzit:detatched
-7774:pApA:trafficing
-7795:pArijAta:izens
-7884:piRyAkam:ingudi
-7934:piSAcA:professionalists
-7981:puRqram:snowfed
-8229:pUraRa:plumpy
-8360:pEla:flating
-8369:potriRI:cakraratha
-8441:prakfti:acquiesed
-8587:prabala:attendent
-8705:prahlAda:nector,poohpoohed,predicetd
-8772:prAyopaveSa:pratcised
-8780:prAsAda:descrbied
-8920:balarAma:sufference
-8942:bali:protcction
-8954:balipAtra:gmelina,arborca,jonesia
-9076:buDa:constellar
-9136:bfhadukTa:tripravara
-9188:bfhadvanam:neghbouring
-9229:brahmaja:youthhood
-9302:brahmA:subtlity
-9328:brAhmaRa:himseslf
-9342:brAhmI:kalpalata
-9452:BadrASva:excell
-9535:BAgavata:essense
-9585:BAratAKyAnam:cssence
-9630:Bikzu:sangha,resig
-9926:maRqapa:tapovanam
-9958:matsya:trible
-10354:mahAn:sankalpa
-10526:maheSvara:angas
-10550:mAGa:saptami
-10689:mAruta:incure
-10706:mArga:uparathyas
-11144:yajYa:vikarika
-11145:yajYa:balikarma
-11149:yajYadravya:pavitram
-11163:yajYaSrI:karnika
-11180:yadu:sannyasin
-11222:yayAti:punyam
-11351:yogi:ahimsaka
-11584:rAjasUyam:hota
-11667:rukmapArijAtavana:blackman
-11727:ruDirAnDa:begger
-11769:revatI:daugter
-11819:rohiRI:deceuse
-11848:rOrava:incendiarism
-11957:lAvaRyavati:ayatam
-12291:varRASrama:homekeepers
-12603:vAruRakratu:sthopa,devakanyas
-12925:vinAyaka:enragement
-13247:viSvasPAni:enuch
-13288:vizaGnAni:antedotes
-13426:vfka:whosesoever
-13461:vftra:dharmic
-13628:vEkArika:digdevatas
-13709:vEBrAja:quartzite
-13772:vESvadeva:chamsi
-13846:vyucCinna:avyucchinna
-13997:Satakratu:anadhyaya
-14135:Sambara:bady
-14297:SAnti:hetrodoxy
-14445:Siva:receving
-14462:Sivapuram:utpalam
-14662:SuBalakzaRa:devasvastika
-14681:SUdra:panktibhojanam
-14740:Seza:venomed
-14800:SOcam:mlecchahood
-14879:SrAdDam:hemophrodites,hemophrodite
-14931:SrIvanam:bilvavanam
-15123:saMgraha:muhurta
-15193:satyam:tapolokam
-15243:satrAjita:seperate
-15326:sannati:repentence
-15418:samudrasena:horsefaced
-15502:saMsAra:duhham
-15543:sarga:rudimental
-15546:sarpa:nabhonabha
-15897:sidDi:vaivastya
-16020:sugrIva:satsanga
-16091:sudakziRa:vengence
-16636:sUkara:stealers
-16640:sUkzmam:indiriyas
-16845:sOBAgyazwakam:kurumbham
-16920:stamBa:octogonal,dvivajra,bakulu
-16947:sTalapadmini:anantasada
-16999:sva:divaloka
-17192:hari:indwellers
-17279:havi:havyakavyam
+; links to the scan pages 346-350, mentioned here, don't work. 
+; I can't check scan errors
+3507:nAmakaraRam:seagod: sea-god
+3507:nAmakaraRam:topcrest: top crest
+3507:nAmakaraRam:blindmans: OK (blindman's buff)
+3507:nAmakaraRam:externment: OK (banishment)
+3507:nAmakaraRam:invisilability: inviolability
+; I am not sure. I don't see the scan.
+3507:nAmakaraRam:aIb: OK ( a)Ib.)
+; Maybe to put a gap " " between ")" and "Ib." There are some similar lines with gapes, some without.
+3631:kESika:caidyas: OK (Sanskrit word - descendants of Cedi)
+3833:kzatriya:bX: OK (we see -  b)X )
+3865:kzIroda:yoganidra: OK (Sanskrit term)
+4024:ganDa:gandhamodavaha: OK (Sanskrit word)
+4039:ganDarva:semidivine: OK
+4078:gayAsura:perforhmed: performed
+; scan error
+4233:guRa:prakrti: prakṛti
+; "ṛ" in scan - is not clear
+4317:goDarma:becme: became
+; scan error
+4457:grAmyAraRya:vritri: OK (Sanskrit word)
+4521:cakravartin:rathakrit: OK (Sanskrit word)
+4632:candramaRqalam:degresses: OK
+4840:cidvahni:hotri: OK (Sanskrit word)
+4993:jambU:roseapple: rose apple
+; scan error
+5057:jayaviGnam:stupefication: stupefaction
+; scan error
+5250:jYAnam:aVi: OK ( 2a)Vi.)
+5342:taptakumBa:gaolers: OK
+; more common spelling is "jailers"
+5828:dandaSUka:serpant: serpent
+; scan error
+6068:durga:outways: OK
+; rare, synonyms "ways out", "exits"
+6302:devahUtI:stupour: OK
+; Obsolete, a modern form is "stupor"
+6427:dvAdaSAkzara:medidate: meditate
+; scan error
+6563:DarmayAga:mudhouses: mud houses
+; scan error
+6576:DarmavratA:despitc: despite
+; in the scan "e" is not clear
+6930:narakam:bhaumam: OK (Sanskrit word)
+6949:narmadA:austereties: austerities
+; scan error
+6987:nahuza:efflulgence,overweaning: effulgence, overweening
+; scan error
+7285:nIdAGa:thousannd: thousand
+; scan error
+7371:nErfta:valourous: OK
+; more common form is "valorous"
+7392:nyAsa:eg,gairikam: OK (1. abbreviation, 2. a Sanskrit word)
+7438:paYcamuKa:sthambha: OK (Sanskrit word)
+7505:patram:likhitam: OK (Sanskrit word)
+7641:parIkzit:detatched: detached
+; scan error
+7774:pApA:trafficing: trafficking
+; scan error
+7795:pArijAta:izens: citizens
+; in the scan "t" is invisible
+7884:piRyAkam:ingudi: OK (tree)
+7934:piSAcA:professionalists: OK
+7981:puRqram:snowfed: snow-fed
+; scan error
+8229:pUraRa:plumpy: OK (from "plump")
+; Please double check, since this meaning is strange in context of the sentence
+8360:pEla:flating: floating (I am not sure, please, recheck)
+; probably - scan error
+8369:potriRI:cakraratha: OK (Sanskrit term)
+8441:prakfti:acquiesed: acquiesced
+; scan error
+8587:prabala:attendent: attendant
+; scan error
+8705:prahlAda:nector,poohpoohed,predicetd: nectar, pooh-poohed, predicted
+; links to the scan pages 435-437, mentioned here, don't work
+; probably scan errors (I don't see the scan)
+8772:prAyopaveSa:pratcised: practised
+; scan error
+8780:prAsAda:descrbied: described
+; scan error
+8920:balarAma:sufference: sufferance
+; links to the scan pages 464-466, mentioned here, don't work
+; probably scan errors (I don't see the scan)
+8942:bali:protcction: protection
+; "e" in scan - is not clear
+8954:balipAtra:gmelina: OK (plant)
+8954:balipAtra:arborca: arborea
+; "e" in scan - is not clear
+8954:balipAtra:jonesia: OK (plant)
+9076:buDa:constellar: 
+; I didn't find "constellar" in any English dictionaries. 
+; maybe it is an obsolete form of "constellational", "constellatory"
+; I didn't correct pui.txt
+9136:bfhadukTa:tripravara: OK (Sanskrit term)
+9188:bfhadvanam:neghbouring: neighbouring
+; scan error
+9229:brahmaja:youthhood: OK
+; synonym "youth"
+9302:brahmA:subtlity: subtlety
+; links to the scan pages 515-516, mentioned here, don't work
+; scan error probably (I don't see the scan)
+9328:brAhmaRa:himseslf: himself
+; scan error
+9342:brAhmI:kalpalata: OK (Sanskrit word)
+9452:BadrASva:excell: excel
+; scan error
+9535:BAgavata:essense: essence
+; scan error
+9585:BAratAKyAnam:cssence: essence
+; "e" in scan - is not clear
+9630:Bikzu:sangha: OK (Sanskrit word)
+9630:Bikzu:resig: resig-
+; Scan error, "-" is invisible ("resignation" is hyphenated)
+9926:maRqapa:tapovanam: OK (Sanskrit term)
+9958:matsya:trible: tribe (I am not sure, better to recheck)
+; Scan error
+10354:mahAn:sankalpa: OK (Sanskrit word)
+10526:maheSvara:angas: OK (Sanskrit word)
+10550:mAGa:saptami: OK (Sanskrit word)
+10689:mAruta:incure: incur
+; Scan error
+10706:mArga:uparathyas: OK (Sanskrit word)
+; but mayby upārathyas (in this case - scan error)
+11144:yajYa:vikarika: OK (Sanskrit word)
+11145:yajYa:balikarma: OK (Sanskrit term)
+11149:yajYadravya:pavitram: OK (Sanskrit word)
+11163:yajYaSrI:karnika: OK (Sanskrit word)
+11180:yadu:sannyasin: OK (Sanskrit word)
+11222:yayAti:punyam: puṇyam
+11351:yogi:ahimsaka: OK (Sanskrit word)
+11584:rAjasUyam:hota: OK (Sanskrit word)
+; but mayby hotā (in this case - scan error)
+11667:rukmapArijAtavana:blackman: OK
+11727:ruDirAnDa:begger: beggar
+; Scan error
+11769:revatI:daugter: daughter
+; Scan error
+11819:rohiRI:deceuse: decease
+; "a" in the scan - is not clear
+11848:rOrava:incendiarism: OK
+11957:lAvaRyavati:ayatam: OK (Sanskrit word)
+12291:varRASrama:homekeepers: home-keepers
+; Scan-error, synonym "householders"
+12603:vAruRakratu:sthopa,devakanyas: OK (Sanskrit words)
+12925:vinAyaka:enragement: OK
+13247:viSvasPAni:enuch: eunuch
+13288:vizaGnAni:antedotes: antidotes
+; Scan error
+13426:vfka:whosesoever: OK
+13461:vftra:dharmic: OK
+13628:vEkArika:digdevatas: OK (Sanskrit term)
+13709:vEBrAja:quartzite: OK (rock)
+13772:vESvadeva:chamsi: OK (Sanskrit word)
+; Better to recheck
+13846:vyucCinna:avyucchinna: OK (Sanskrit word)
+13997:Satakratu:anadhyaya: OK (Sanskrit word)
+14135:Sambara:bady: baby
+14297:SAnti:hetrodoxy: heterodoxy
+; Scan error
+14445:Siva:receving: receiving
+; links to the scan pages 422-423, mentioned here, don't work
+; Maybe - Scan error (I don't see the scan)
+14462:Sivapuram:utpalam: OK (Sanskrit word)
+14662:SuBalakzaRa:devasvastika: OK (Sanskrit word)
+14681:SUdra:panktibhojanam: OK (Sanskrit word)
+14740:Seza:venomed: OK
+; Archaic
+14800:SOcam:mlecchahood: OK
+; synonym "barbarism"
+14879:SrAdDam:hemophrodites,hemophrodite: hermaphrodites, hermaphrodite
+; links to the scan pages 477-478, mentioned here, don't work
+; Maybe - Scan error (I don't see the scan)
+14931:SrIvanam:bilvavanam: OK (Sanskrit word)
+15123:saMgraha:muhurta: OK (Sanskrit word)
+15193:satyam:tapolokam: OK (Sanskrit word)
+15243:satrAjita:seperate: separate
+; Scan error
+15326:sannati:repentence: repentance
+; Scan error
+15418:samudrasena:horsefaced: horse-faced
+;  Scan error, BUT maybe "horsefaced" is also correct
+15502:saMsAra:duhham: OK (Sanskrit word)
+15543:sarga:rudimental: OK
+15546:sarpa:nabhonabha: OK (Sanskrit word)
+15897:sidDi:vaivastya: OK (Sanskrit word)
+16020:sugrIva:satsanga: OK (Sanskrit word)
+16091:sudakziRa:vengence: vengeance
+; Scan error
+16636:sUkara:stealers: OK (larcenists, thiefs)
+16640:sUkzmam:indiriyas: OK (Sanskrit word)
+16845:sOBAgyazwakam:kurumbham: OK (Sanskrit word)
+16920:stamBa:octogonal: octagonal
+; "octogonal" (which is in the scan) is also correct but it is an obsolete form
+16920:stamBa:dvivajra,bakulu: OK (Sanskrit words)
+16947:sTalapadmini:anantasada: OK (Sanskrit word)
+16999:sva:divaloka: OK (Sanskrit word)
+17192:hari:indwellers: OK
+17279:havi:havyakavyam: OK (Sanskrit word)
+
+EXTRA
+9136:bfhadukTa:An: An- 
+; An-giras, "-" in the scan is invisible
