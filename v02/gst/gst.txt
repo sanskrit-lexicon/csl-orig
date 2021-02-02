@@ -1216,7 +1216,7 @@
 <div n="lb">eunuch.
 <div n="P">III. f. ({#-tA#}) <sup>1</sup> A virgin. <sup>2</sup> A plant, named also Kar-
 <div n="lb">kaṭaśṛṅgī or Kaṅkaḍaśṛṅgī.
-<div n="P">IV. n. and m. pl. ({#-tam#} and {#-tAH#}) <sup>1</sup> Fried grian. <sup>2</sup> Whole
+<div n="P">IV. n. and m. pl. ({#-tam#} and {#-tAH#}) <sup>1</sup> Fried grain. <sup>2</sup> Whole
 <div n="lb">grain. m. ({#-taH#}) <sup>1</sup> Rice after thrashing and winnowing
 <div n="lb">dried in the sun. <sup>2</sup> Barley.
 <div n="P">E. {#a#} neg. and {#kzata#}.
@@ -1415,7 +1415,7 @@
 <div n="lb">it is said to be also mascul.). <sup>2</sup> Eternal beatitude or ex-
 <div n="lb">emption from further transmigration. <sup>3</sup> Penance, religious
 <div n="lb">austerity. <sup>4</sup> Moral merit, law. <sup>5</sup> Sacrifice. <sup>6</sup> A letter of the
-<div n="lb">alphabet. <sup>7</sup> A syallable. <sup>8</sup> The syllable om. <sup>9</sup> A vowel. <sup>10</sup> A
+<div n="lb">alphabet. <sup>7</sup> A syllable. <sup>8</sup> The syllable om. <sup>9</sup> A vowel. <sup>10</sup> A
 <div n="lb">plant (Achyranthes aspera). <sup>11</sup> The sky or atmosphere.
 <div n="lb"><sup>12</sup> Water (see {#akzita#}). E. {#a#} neg. and {#kzara#}. (The gramm.
 <div n="lb">author. derive this word from {#aS (aSU),#} uṇ. aff. {#sara#} or
@@ -1918,7 +1918,7 @@
 
 <L>302<pc>008-b<k1>agaja<k2>agaja
 {#agaja#}¦ Tatpur. I. m. f. n. ({#-jaH-jA-jam#}) <sup>1</sup> Produced on a
-<div n="lb">mountain, mountaineous. <sup>2</sup> Produced from a tree, vegetable.
+<div n="lb">mountain, mountainous. <sup>2</sup> Produced from a tree, vegetable.
 <div n="P">II. n. ({#-jam#}) Bitumen. See {#SilAjatu#}. E. {#aga#} and {#ja#}.
 <LEND>
 
@@ -2906,7 +2906,7 @@
 <LEND>
 
 <L>458<pc>013-a<k1>agnisAkzikamaryAda<k2>agnisAkzikamaryAda
-{#agnisAkzikamaryAda#}¦ Bahuvr. m. ({#-daH#}) One who binde himself
+{#agnisAkzikamaryAda#}¦ Bahuvr. m. ({#-daH#}) One who binds himself
 [Page013-b+ 56]
 <div n="lb">with a vow in taking fire as a witness, esp. one who takes
 <div n="lb">the vow of conjugal fidelity. E. {#agnisAkzika#} and {#maryAdA#}.
@@ -5729,7 +5729,7 @@
 
 <L>907<pc>026-a<k1>ajASva<k2>ajASva
 {#ajASva#}¦ I. Dwandwa n. ({#-Svam#}) Goats and horses (the sing.
-<div n="lb">ased instead of the plur.).
+<div n="lb">used instead of the plur.).
 <div n="P">II. Bahuvr. m. ({#-SvaH#}) Having goats as his vehicle, a
 <div n="lb">vaidik epithet of Pūṣan. See {#aja#}. E. {#aja#} and {#aSva#}.
 <LEND>
@@ -10191,7 +10191,7 @@
 <LEND>
 
 <L>1606<pc>047-a<k1>adamBa<k2>adamBa
-{#adamBa#}¦ I. Tatpur. m. ({#-mBaH#}) Want of hypocrisy or deceti,
+{#adamBa#}¦ I. Tatpur. m. ({#-mBaH#}) Want of hypocrisy or deceit,
 <div n="lb">straightforwardness, sincerity. E. {#a#} neg. and {#damBa#}.
 <div n="P">II. Bahuvr. 1. m. f. n. ({#-mBaH-mBA-mBam#}) Without deceit,
 <div n="lb">upright, straightforward, sincere. 2. m. ({#-mBaH#}) A name
@@ -10828,7 +10828,7 @@
 
 <L>1708<pc>050-a<k1>adyUtya<k2>adyUtya
 {#adyUtya#}¦ (ved.) Tatpur. I. m. f. n. ({#-tyaH-tyA-tyam#}) Not gained by
-<div n="lb">playing, not gained imporperly, obtained honestly. E. {#a#}
+<div n="lb">playing, not gained improperly, obtained honestly. E. {#a#}
 <div n="lb">neg. and {#dyUtya#}.
 <div n="P">II. Bahuvr. n. ({#-tyam#}) The last watch of the night, that
 <div n="lb">preceding the dawn, at which time the Aśvins are espe-
@@ -11170,7 +11170,7 @@
 <LEND>
 
 <L>1765<pc>051-b<k1>aDaHpuzpI<k2>aDaHpuzpI
-{#aDaHpuzpI#}¦ Bahuvr. f. ({#-zpI#}) <sup>1</sup> A plant (Pimpinella anisun).
+{#aDaHpuzpI#}¦ Bahuvr. f. ({#-zpI#}) <sup>1</sup> A plant (Pimpinella anisum).
 <div n="lb">See {#avAkpuzpI#}. <sup>2</sup> Another plant (Elephantopus scaber)
 <div n="lb">or perhaps Hieracium. See {#gojihvA#}. E. {#aDas#} and {#puzpa,#}
 <div n="lb">fem. aff. {#NIz,#} lit. having its flowers hanging downwards.
@@ -11287,8 +11287,8 @@
 <L>1785<pc>052-a<k1>aDara<k2>aDara
 {#aDara#}¦ I. m. f. n. ({#-raH-rA-ram#}) <sup>1</sup> Lower, inferior, in place.
 <div n="lb">(In this sense the word is declined like the sarvanāman {#yat#}
-<div n="lb">&c. (q. v.), but in the abl. and loe. sing. of the mase. and
-<div n="lb">neuter and in the nom. plur. of the mase. it forms optionally
+<div n="lb">&c. (q. v.), but in the abl. and loc. sing. of the masc. and
+<div n="lb">neuter and in the nom. plur. of the masc. it forms optionally
 <div n="lb">{#aDarasmAt#} or {#aDarAt, aDarasmin#} or {#aDare, aDare#} or {#a-#}
 <div n="lb">{#DarAH;#} it may form Tatpur. compositions with nouns having
 <div n="lb">the sense of the singular and considered then as depending
@@ -11635,7 +11635,7 @@
 <div n="lb">tive. Cf. {#aDyArUQa#}. With numerals {#aDika#} may form Bahuvr.
 <div n="lb">compounds, usually in the plural, if it is the former part of
 <div n="lb">the compound; for instance {#aDikacatvAriMSAH#} (sc. {#saMKyAH#}) i. e.
-<div n="lb">more than fourty. It is considered as dropped in Dwandwa
+<div n="lb">more than forty. It is considered as dropped in Dwandwa
 <div n="lb">compounds of numerals f. i. in {#paYcaviMSati,#} equal to {#paYcADi-#}
 <div n="lb">{#kaviMSati#}.) <sup>5</sup> Embolismic, intercalary (only in composition
 <div n="lb">with and prefixed to the name or numeral of a luni-solar
@@ -11773,7 +11773,7 @@
 <LEND>
 
 <L>1849<pc>054-b<k1>aDikalpin<k2>aDikalpin
-{#aDikalpin#}¦ Tatpur. m. ({#-lpI#}) (ved.) An exceedingly shrewed
+{#aDikalpin#}¦ Tatpur. m. ({#-lpI#}) (ved.) An exceedingly shrewd
 <div n="lb">gambler, one skilled in superior tricks or combinations(?).
 <div n="lb">E. {#aDi#} and {#kalpin#}.
 <LEND>
@@ -12135,7 +12135,7 @@
 {#aDimanTana#}¦ Tatpur. m. n. ({#-naH-nam#}) (ved.) A piece of wood from
 <div n="lb">the paring of the sacrificial post, placed over the araṇi
 <div n="lb">(q. v.) to kindle a fire by attrition. E. {#manT#} with {#aDi,#}
-<div n="lb">kṛt aff. {#lyuw;#} seil. {#Sakala#}.
+<div n="lb">kṛt aff. {#lyuw;#} scil. {#Sakala#}.
 <LEND>
 
 <L>1906<pc>056-a<k1>aDimanTita<k2>aDimanTita
@@ -12530,7 +12530,7 @@
 
 <L>1967<pc>058-a<k1>aDIgarTa<k2>aDIgarTa
 {#aDIgarTa#}¦ Bahuvr. m. ({#-rTaH#}) (In grammatical terminology.)
-<div n="lb">A radical having the sence of remembering. E. {#ik#} (the
+<div n="lb">A radical having the sense of remembering. E. {#ik#} (the
 <div n="lb">technical form of {#i#} in the sense of remembering) with {#aDi,#}
 <div n="lb">and {#arTa;#} scil. {#DAtu#}.
 <LEND>
@@ -13160,7 +13160,7 @@
 
 <L>2065<pc>061-a<k1>aDyavasAna<k2>aDyavasAna
 {#aDyavasAna#}¦ Tatpur. n. ({#-nam#}) <sup>1</sup> Determining, ascertaining. <sup>2</sup> Effort,
-<div n="lb">energy. <sup>3</sup> (In rhetoric.) The simple enuntiation of elliptic
+<div n="lb">energy. <sup>3</sup> (In rhetoric.) The simple enunciation of elliptic
 <div n="lb">or figurative speech without qualifying it by epithets &c.,
 <div n="lb">as it were, leaving it on its own effort; such sentences as
 <div n="lb">{#Sveto DAvati#} ‘the white (horse) gallops’, {#kuntAH praviSanti#}
@@ -13909,7 +13909,7 @@ III. {#ana#}¦ m. ({#-naH#}) Spiration; it is explained as the action
 <L>2169<pc>064-b<k1>anaMSa<k2>anaMSa
 {#anaMSa#}¦ Bahuvr. m. f. n. ({#-SaH-SA-Sam#}) <sup>1</sup> Portionless, not en-
 <div n="lb">titled to a share or portion. <sup>2</sup> (In law.) One excluded from
-<div n="lb">participation in an inheritance viz. a eunuque, a degraded
+<div n="lb">participation in an inheritance viz. a eunuch, a degraded
 <div n="lb">man, a blind or deaf person, a fool, an idiot, a dumb
 [Page065-a+ 56]
 <div n="lb">person or one deprived of one of his limbs or senses, a
@@ -18705,7 +18705,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <L>2902<pc>087-b<k1>anugrahasarga<k2>anugrahasarga
 {#anugrahasarga#}¦ Tatpur. m. ({#-rgaH#}) (In the Sāṅkhya philosophy.) The
 <div n="lb">creation of mental conditions; in some of the Purāṇas it
-<div n="lb">is considered as an eigth creation, in others as a fifth, and
+<div n="lb">is considered as an eighth creation, in others as a fifth, and
 <div n="lb">subdivided into {#viparyaya, aSakti, sidDi#} and {#tuzwi#} qq. vv.
 <div n="lb">See also {#pratyayasarga#}. E. {#anugraha#} (perhaps in the sense of
 <div n="lb">‘feeling’ in general) and {#sarga#}.
@@ -19822,7 +19822,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">of Nepal) a class of Buddhas which is of non-material ori-
 <div n="lb">gin, also called {#DyAnibudDAH#} ‘the Buddhas of contemplation’;
 <div n="lb">in contradistinction from the {#mAnuzibudDAH#} or the seven Bud-
-<div n="lb">dhas of human origine, the last of which is Śākyamuni.
+<div n="lb">dhas of human origin, the last of which is Śākyamuni.
 <div n="lb">E. {#a#} priv. and {#upapAdaka#} lit. ‘without a parent’.
 <LEND>
 
@@ -21756,7 +21756,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">cause not conveying a new notion, such repeated word or
 [Page103-a+ 56]
 <div n="lb">such expression is {#anuvAda,#} provided a certain purpose be
-<div n="lb">connected with it, otherwise it would be sipely {#punarukta#} or
+<div n="lb">connected with it, otherwise it would be simply {#punarukta#} or
 <div n="lb">a meaningless tautology, e. g. {#Gawo GawaH#} or {#GawaH kalasaH#} ‘a
 <div n="lb">jar is a jar’ would be a {#punarukta;#} but the repetition of {#paSyet#}
 <div n="lb">in Yājnav. 2. 1. from 1. 359. is an {#anuvAdaH#} because it points
@@ -22454,7 +22454,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">vaidik hymn the Anuṣṭubh is represented as one of the
 <div n="lb">primitive creations, that originated together with the moon;
 <div n="lb">according to some Purāṇas it was created from the northern
-<div n="lb">mouth of the fourheaded Brahman (m.) together with the
+<div n="lb">mouth of the four-headed Brahman (m.) together with the
 <div n="lb">Atharvaveda, a portion of the Sāmaveda and some hymns
 <div n="lb">as well as the Āptoryāma portion of the Jyotiṣṭoma sacri-
 <div n="lb">fice; accord. to another Purāṇa from the tendons of Brahman.
@@ -26388,7 +26388,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 
 <L>3947<pc>127-a<k1>antaspaTa<k2>antaspaTa
 {#antaspaTa#}¦ Bahuvr. m. f. n. ({#-TaH-TA-Tam#}) (ved.) Being in
-<div n="lb">bollows (of mountains), in abysses; an epithet of the Winds.
+<div n="lb">hollows (of mountains), in abysses; an epithet of the Winds.
 <div n="lb">E. {#antar#} and {#paTin,#} samās. aff. {#a#} (the word is noticed by
 <div n="lb">the Prātiśākhyas on account of its change of {#r#} to {#s#} before {#pa#}).
 <LEND>
@@ -26432,7 +26432,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="P">II. denom. parasm. ({#-ntayati#}) To make an end of, to
 <div n="lb">destroy. E. {#anta,#} denom. aff. {#Ric#}.
 <div n="P">III. f. ({#-ntiH#}) (In theatrical language.) An elder sister.
-<div n="lb">E. An abbrevation of {#antikA#}.
+<div n="lb">E. An abbreviation of {#antikA#}.
 <LEND>
 
 <L>3953<pc>127-b<k1>antika<k2>antika
@@ -29597,7 +29597,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 
 <L>4307<pc>146-a<k1>anyaSAKaka<k2>anyaSAKaka
 {#anyaSAKaka#}¦ Bahuvr. m. ({#-kaH#}) <sup>1</sup> A Brāhmaṇa who has been
-<div n="lb">abandonned by his school (comm. = {#svakIyaSAKArahitaH#}).
+<div n="lb">abandoned by his school (comm. = {#svakIyaSAKArahitaH#}).
 <div n="lb"><sup>2</sup> One who has been given up by his own family (comm.
 <div n="lb">{#atra SAKASabdaH pakzAntare saMtativiSezArTaH#}); comp. the follow-
 <div n="lb">ing. E. {#anya#} and {#SAKA,#} samās. aff. {#kap#}.
@@ -30264,7 +30264,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">p. 124 note): ‘the 24 different representations of Viṣṇu,
 <div n="lb">arising from his diversity in the manner of placing the
 <div n="lb">weapons or attributes in his four hands, are distinguished
-<div n="lb">by as many discriminative titles of the god alloted to those
+<div n="lb">by as many discriminative titles of the god allotted to those
 <div n="lb">figures in the theogonies of the Purāṇas. It does not ap-
 <div n="lb">pear that distinct titles have been in like manner assigned
 <div n="lb">to any part of the more than three millions of varied re-
@@ -30817,7 +30817,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <L>4428<pc>153-b<k1>anvADi<k2>anvADi
 {#anvADi#}¦ Tatpur. m. ({#-DiH#}) <sup>1</sup> (In Law.) Property which is
 <div n="lb">handed over by the person who has received it as a loan,
-<div n="lb">to another, for the purpose of returning it to its lawfulowner.
+<div n="lb">to another, for the purpose of returning it to its lawful owner.
 <div n="lb">The same as {#anvAhita#} q. v. <sup>2</sup> A second deposit or pledge.
 <div n="lb"><sup>3</sup> Mental anxiety subsequent to (an act). E. {#anu#} and {#ADi#}.
 <LEND>
@@ -31768,7 +31768,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <L>4532<pc>159-a<k1>apaGana<k2>apaGana
 {#apaGana#}¦ Tatpur. m. ({#-naH#}) Any limb or member of the body,
 <div n="lb">as hands, feet &c. (but not the whole body, as the {%Kāśikā%}
-<div n="lb">explicitely observes on Pāṇ. III. 3. 81.: {#apaGano'NgAvayavE-#}
+<div n="lb">explicitly observes on Pāṇ. III. 3. 81.: {#apaGano'NgAvayavE-#}
 <div n="lb">{#kadeSo na sarvaH . kiM tarhi pARiH pAdaScABiDIyate;#} hence also
 <div n="lb">the commentators on the {%Amarak.%} explain the word either
 <div n="lb">{#hastAdyavayava#} or {#hastapAdAdyavayava#} or {#hastapAdAdyaNga#} &c. Yet
@@ -31863,7 +31863,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 {#apacAra#}¦ Tatpur. m. ({#-raH#}) 1. <sup>1</sup> Departure, death; e. g. {#siMhaGozaSca#}
 <div n="lb">{#kAntakApacAraM nirBidya#} &c. <sup>2</sup> Absence, want; e. g. {#antarA-#}
 <div n="lb">{#Sabdo'dfzwApacAraH;#} or {#SrutavrIhyapacAre nivArapriyaMgvAdikaM#}
-<div n="lb">{#kiMciddravyaM pratiniDAtavyam#}. <sup>3</sup> A failure, a deficience; e. g.
+<div n="lb">{#kiMciddravyaM pratiniDAtavyam#}. <sup>3</sup> A failure, a deficiency; e. g.
 <div n="lb">{#nApacAramagamankvacitkriyAH sarvamatra samapAdi sADanam .#}
 <div n="lb">(comm. {#apacAraM lopaviparyAsAdidozam#}). E. {#car#} with {#apa,#}
 <div n="lb">kṛt aff. {#GaY#}.
@@ -31886,7 +31886,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 
 <L>4544<pc>159-b<k1>apacita<k2>apacita
 {#apacita#}¦ Tatpur. m. f. n. ({#-taH-tA-tam#}) I. <sup>1</sup> Diminished, de-
-<div n="lb">creased, lessended; e. g. {#ekaSarIraparimARatEva syAt . nopa-#}
+<div n="lb">creased, lessened; e. g. {#ekaSarIraparimARatEva syAt . nopa-#}
 <div n="lb">{#citApacitaSarIrAntaraprAptiH ..;#} or {#upacitApacitaguRatvaM hi#}
 <div n="lb">{#sati BedavyavahAre saguRe brahmaRyupapadyate na nirguRe parasminbrahma-#}
 <div n="lb">{#Ri ..;#} or {#apacitamapi gAtraM vyAyatatvAdalakzyaM giricara iva#}
@@ -36009,7 +36009,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 [Page183-a+ 56]
 
 <L>5024<pc>183-a<k1>apahAna<k2>apahAna
-{#apahAna#}¦ Tatpur. m. f. n. ({#-naH-nA-nam#}) Leaving, abandonning.
+{#apahAna#}¦ Tatpur. m. f. n. ({#-naH-nA-nam#}) Leaving, abandoning.
 <div n="lb">For the irregular femin. in {#A,#} instead of in {#I,#} compare
 <div n="lb">{#pUrvApahARA, parApahARA#} and {#aparApahARA;#} the word itself
 <div n="lb">occurring probably only in these compounds. Comp. {#apa-#}
@@ -36803,7 +36803,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <div n="lb">a medicament; it has three varieties: the white, the red and
 <div n="lb">the water-Apāmārga. The white variety is described as ‘a
 <div n="lb">little pungent, hot, bitterish, astringent or constipating,
-<div n="lb">emetic, purgent (sic), increasing the digestion, or stomachic,
+<div n="lb">emetic, pungent (sic), increasing the digestion, or stomachic,
 <div n="lb">and applied against diseases from phlegm, the itch, piles,
 <div n="lb">diseases of the stomach, of the blood, of serous secretions,
 <div n="lb">of the vital airs, against cutaneous eruptions, leprosy, in-
@@ -36904,7 +36904,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <div n="lb">{%pravachana%} and in the E. I. H. Ms. 2668; in {%Wilson'%}s ed.
 <div n="lb">of the {%Sāṅkhya-Kārikā%} {#pArApAra#}); it is among the nine
 <div n="lb">kinds of acquiescence or {#tuzwi#} (q. v.) one of the five called
-<div n="lb">{#vAhya#} or acquiences relating to exterior objects. [{%Wilson%}
+<div n="lb">{#vAhya#} or acquiescences relating to exterior objects. [{%Wilson%}
 <div n="lb">in his comment on the Kārikā (page 155) renders the literal
 <div n="lb">meaning of this word ‘shoreless’, taking it therefore as a
 <div n="lb">Bahuvr.; but it seems to me that the compound terms of
@@ -37049,7 +37049,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 
 <L>5135<pc>189-a<k1>apAlana<k2>apAlana
 {#apAlana#}¦ Bahuvr. m. f. n. ({#-naH-nA-nam#}) Unprotected; as an
-<div n="lb">animal not protected against casualities from weather &c.
+<div n="lb">animal not protected against casualties from weather &c.
 <div n="lb">E. {#a#} priv. and {#pAlana#}.
 <LEND>
 
@@ -37303,7 +37303,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <div n="lb">ticle originally implying {%location%} and hence {%proximity,%}
 <div n="lb">which, like other particles of location, then has become
 <div n="lb">one implying {%emphasis.%} It is used, in some instances, as
-<div n="lb">a prefex to verbs, is considered in one instance as a se-
+<div n="lb">a prefix to verbs, is considered in one instance as a se-
 <div n="lb">parable preposition governing a noun, but occurs more
 <div n="lb">commonly as an adverb or conjunction. It forms with a
 <div n="lb">following noun in a few instances Tatpur. and Bahuvr.
@@ -37323,10 +37323,10 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <div n="lb">locative, its sense remaining the same as if it were not con-
 <div n="lb">nected with {#api,#} it is possible to refer {#api#} to another
 <div n="lb">word of the sentence, instead of considering it as a prefix
-<div n="lb">to {#as,#} in all instances in wich the radical {#s#} of {#as#} under-
+<div n="lb">to {#as,#} in all instances in which the radical {#s#} of {#as#} under-
 <div n="lb">goes no change; but in combinations like {#api zyAt,#} it
 <div n="lb">would seem necessary to look upon {#api#} as upon a prefix
-<div n="lb">({#upasarga#}) if we follow {%Pāṇ.%} VIII. 3. 87. and implicitely I. 4.
+<div n="lb">({#upasarga#}) if we follow {%Pāṇ.%} VIII. 3. 87. and implicitly I. 4.
 <div n="lb">96.--since {#api#} is called there {#karmapravacanIya#} in other mean-
 <div n="lb">ings than in that of location--; comp. also {%Kaiyyaṭa%} as
 <div n="lb">quoted in the following {#yaTApiSabdasya#} &c. On the other
@@ -37444,7 +37444,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <div n="lb">words or sentences; I. {%by imparting greater power%} <sup>A.</sup> to {%one%}
 <div n="lb">word in general, esp. to {%a noun;%} it is synonymous then
 <div n="lb">with {#eva#} and placed in most instances after the word to
-<div n="lb">which it refers, but sometimas also after a word depending
+<div n="lb">which it refers, but sometimes also after a word depending
 <div n="lb">on, or relating to, that to which it properly belongs, to
 <div n="lb">effectuate, as it were, at the same time a stronger relation
 <div n="lb">between both; e. g. {#nizWurASlIlatIvratvAttadapi#} (i. e. {#vAkpA-#}
@@ -38546,7 +38546,7 @@ I. {#apUrva#}¦ 1. Bahuvr. 1. m. f. n. ({#-rvaH-rvA-rvam#}) <sup>1</sup> Not pre
 <div n="lb">but the term {#apUrva#} is expressly reserved by the Mīmān-
 <div n="lb">sists to the former ({%Kumārila:%} {#lOkikaM cApi yatkarma Pale#}
 <div n="lb">{#kAlAntarodgatO . tatrApi SaktirevAste na tvapUrvagirocyate#}), for
-<div n="lb">the corresponding power of a non-sacrificial or profance act is
+<div n="lb">the corresponding power of a non-sacrificial or profane act is
 <div n="lb">called {#saMskAra#}. ({%Kumārila:%} {#yAnyapi ca lOkikAni kfziGf-#}
 <div n="lb">{#tapAnAdDyayanapraBftIni karmARi kAlAntaraPalatvenezyante tezAmapi#}
 <div n="lb">{#svarUpAvasTAnAsaMBavAtsaMskArEreva tizWadBirvyavahArasidDaH . te#}
@@ -39025,7 +39025,7 @@ II. {#apUrva#}¦ Bahuvr. m. f. n. ({#-rvaH-rvA-rvam#}) (In Pāṇini's grammar.)
 <div n="lb">{#nyajYAnasya ca dvitvaguRabudDito vinASaH . dvitvaguRabudDeSca dvitva-#}
 <div n="lb">{#viSizwadravyajYAnAt;#} (the terms {#budDi#} and {#jYAna#} have both
 <div n="lb">here been rendered ‘comprehension’, to indicate that no
-<div n="lb">distinction is intended by the author in chosing two dif-
+<div n="lb">distinction is intended by the author in choosing two dif-
 <div n="lb">ferent words; comp. {%Praśastapāda:%} {#budDirupalabDirjYAnaM pratyaya#}
 <div n="lb">{#iti paryAyAH#}).]--According to the foregoing definition
 <div n="lb">the mental process {#apekzAbudDi#} and, consequently, the notion
@@ -40022,7 +40022,7 @@ II. {#apUrva#}¦ Bahuvr. m. f. n. ({#-rvaH-rvA-rvam#}) (In Pāṇini's grammar.)
 <div n="lb">neither contradicted nor restricted by any of his commen-
 <div n="lb">tators; the meanings of {#apraja#} and {#aprajas#} will often coin-
 <div n="lb">cide in bearing--comp. also {#aprajAtA, apaprajAtA, apra-#}
-<div n="lb">{#sUtA--,#} but their difference will be porceived in such in-
+<div n="lb">{#sUtA--,#} but their difference will be perceived in such in-
 <div n="lb">stances as given above, e. g. in {#aSvataryo'prajAH#} when the
 <div n="lb">Bahuvr. epithet ‘without progeny’ would alter the sense,
 <div n="lb">or in {%Chāṇakya'%}s {#mETunamaprajam,#} since it would be absurd to
@@ -40251,7 +40251,7 @@ II. {#apUrva#}¦ Bahuvr. m. f. n. ({#-rvaH-rvA-rvam#}) (In Pāṇini's grammar.)
 <LEND>
 
 <L>5426<pc>209-b<k1>apratiDfzwa<k2>apratiDfzwa
-{#apratiDfzwa#}¦ Tatpur. m. f. n. ({#-zwaH-zwA-zwam#}) Unresisted, irre
+{#apratiDfzwa#}¦ Tatpur. m. f. n. ({#-zwaH-zwA-zwam#}) Unresisted, irre-
 <div n="lb">sistible. Comp. {#apratiDarzita#}. E. {#a#} neg. and {#pratiDfzwa#}.
 <LEND>
 
@@ -42556,7 +42556,7 @@ II. {#apratyaya#}¦ Karmadh. m. ({#-yaH#}) (In Grammar.) The affix
 <div n="lb">a description is given of the Genii that attend the chariot
 <div n="lb">of the Sun in its yearly course; thus the {%Bhāgavata P.%}
 <div n="lb">mentions that besides the Ṛṣis, Gandharvas &c. also one
-<div n="lb">Gaṇa or troup of Apsarasas pays adoration to the Sun every
+<div n="lb">Gaṇa or troupe of Apsarasas pays adoration to the Sun every
 <div n="lb">month; and the {%Viṣṇu P.,%} that among the Genii who pre-
 <div n="lb">side each in every month over the chariot of the Sun, Kra-
 <div n="lb">tusthalā performs this function in the month Madhu, Punji-
@@ -44003,7 +44003,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <L>5830<pc>231-b<k1>abliNga<k2>abliNga
 {#abliNga#}¦ Bahuvr. n. ({#-Ngam#}) A verse (of the three verses) of
 <div n="lb">the Ṛgveda hymn X. 9. 1-3. (or Sāmav. 2. 1187-1189. = II. 9.
-<div n="lb">2. 10.) which is adressed to the divinity Water; {%Yājnav.:%}
+<div n="lb">2. 10.) which is addressed to the divinity Water; {%Yājnav.:%}
 <div n="lb">{#udakyASuciBiH snAyAtsaMspfzwastErupaspfSet . abliNgAni ja-#}
 <div n="lb">{#peccEva gAyatrIM manasA sakft#} ({%Mit.:%} {#abliNgAni . Apo hi#}
 <div n="lb">{#zWetyevamAdIni trIRi mantravAkyAni#}). Comp. {#abdEvata#}. E.
@@ -47545,7 +47545,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 
 <L>6144<pc>252-b<k1>aBipramur<k2>aBipramur
 {#aBipramur#}¦ Tatpur. m. f. n. ({#-mUH-mUH-mUH#}) (ved.) 1. Quite raised,
-<div n="lb">quited, lifted up.
+<div n="lb">quite lifted up.
 <div n="P">II. Quite surrounded by; (as a ladle quite surrounded by,
 <div n="lb">i. e. quite filled with, clarified butter). Either interpretation
 <div n="lb">is admitted by {%Sāyaṇa%} on {%Ṛgv.:%} {#aBipramurA juhvA svaDvara#}
@@ -49495,7 +49495,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">{#svaM dakziRaM bAhuM SrotrasamaM prasArya brAhmaRo'BivAdayetoraHsamaM#}
 <div n="lb">{#rAjanyo maDyasamaM vESyo nIcEH SUdraH prAYjaliH;#} {%Vīram.%} on the
 <div n="lb">latter: {#aMsasamaM rAjanya ityapi pAWaH . maDyaM nABiH;#} {%Atri,%} how-
-<div n="lb">ever, seems to reserve this mode of salutatioin for a learned
+<div n="lb">ever, seems to reserve this mode of salutation for a learned
 <div n="lb">Brāhmaṇa in general, while he enjoins the touching of the
 <div n="lb">feet, if the person saluted is a Guru; {#dakziRaM pARimudDftya#}
 <div n="lb">{#prakAmamaBivAdayet . Srotriye tvaYjaliH kAryaH pAdopagrahaRaM gu-#}
@@ -49749,7 +49749,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">and dramatic literature; thus in the {%Sabhāparvan%} of the {%Ma-%}
 <div n="lb">{%hābhārata, Nārada%} after having returned the salute of {%Yu-%}
 <div n="lb">{%dhishthira%} does not content himself with the question whether
-<div n="lb">the king is quite well, but overwhelmes him with an inter-
+<div n="lb">the king is quite well, but overwhelms him with an inter-
 <div n="lb">rogatory of 110 Slokas (v. 151-260) which is perhaps the
 <div n="lb">completest of its kind, though probably an overdone illus-
 <div n="lb">tration of this part of a Hindu greeting.
@@ -49762,7 +49762,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">{#tasmAdBAgaM prapadyate#}), by {%Angiras%} to fall into hell and by
 <div n="lb">the {%Bhavishya-Purāṇa%} moreover, if the person thus slighted
 <div n="lb">is a Brāhmaṇa, to be reborn in a future life as a tree on a
-<div n="lb">cemetery which will be inhabitated by vultures and crows;
+<div n="lb">cemetery which will be inhabited by vultures and crows;
 <div n="lb">({%Bhav.-Pur.:%} {#aBivAde kfte yastu na karotyaBivAdanam . ASizaM#}
 <div n="lb">{#vA na kurvIta sa yAti narakaM Druvam . aBivAde kfte yastu taM vipraM#}
 <div n="lb">{#nABivAdayet . SmaSAne jAyate vfkzo gfDrakAkanizevitaH#}).--
@@ -51390,7 +51390,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">do ever harm to thee, thou (the priest) mayst deprive me
 <div n="lb">of all pious acts ({#izwApUrtam;#} {%Sāy.:%} {#SrOtasmArtadvayam#}) which
 <div n="lb">I have done from the time of my birth up to that of my
-<div n="lb">death, of heaven and whaterer else good has been accom-
+<div n="lb">death, of heaven and whatever else good has been accom-
 <div n="lb">plished by me, of long life and offspring’. He then orders
 <div n="lb">his attendants to bring four kinds of fruits: the fruit of
 <div n="lb">the {%Nyagrodha%} (ficus Indica), of the {%Udumbara%} (ficus glo-
@@ -51411,7 +51411,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">down; afterwards, having placed the ladle or vessel on the
 <div n="lb">ground, they address the throne-seat with a Mantra which
 <div n="lb">recalls the component parts of Indra's throne and thus
-<div n="lb">tends to identifiy both: ‘may thy front legs be Bṛhat and
+<div n="lb">tends to identify both: ‘may thy front legs be Bṛhat and
 <div n="lb">Rathantara &c. &c.; may Savitṛ and Bṛhaspati support
 <div n="lb">thy fore-legs &c. &c. (see above page 277{%b,%} line 1 ff.)’. Then
 <div n="lb">the priest asks the king to ascend the throne-seat, inviting
@@ -52299,7 +52299,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">ing to some, earth stirred up by the teeth of an elephant,
 <div n="lb">earth from a river, from its two banks, from a town-gate
 <div n="lb">({#nAgaramfttikA#}), from a cowpen and a trivium; others
-<div n="lb">name infusions of the five acticles of Pañchāmṛta severally,
+<div n="lb">name infusions of the five articles of Pañchāmṛta severally,
 <div n="lb">of the small and the large annuals severally ({#savOzaDi-#}
 <div n="lb">{#mahOzaDI pfTak#}), of the five kinds of extracts severally, or
 <div n="lb">infusions only of two articles of the Pañchāmṛta (viz.
@@ -53437,7 +53437,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">{#DayantI mano dolAndolanalolakaNkaRaraRatkArottaraM sarpati#});
 <div n="lb">or {%Amaruśat.%} v. 28 and 69. A servant girl who makes love in
 <div n="lb">the manner described, is exhibited in the {%Sāhityadarpaṇa:%} her
-<div n="lb">betel-stained teeth she always displays; with horselaughter
+<div n="lb">betel-stained teeth she always displays; with horse laughter
 <div n="lb">she laughs, but no one knows why; from place to place
 <div n="lb">she sets, to please, her staggering steps, and dancing high
 <div n="lb">her hips, she slily stops before young men’.] The best
@@ -54539,7 +54539,7 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 <div n="lb">quantity as an affirmative one, let the two surds in the
 <div n="lb">root be found, and one of them, as selected by the intel-
 <div n="lb">ligent calculator, must be deemed negative).
-<div n="P">2. m. ({#-zwaH#}) A beloved person, a sweatheart; said
+<div n="P">2. m. ({#-zwaH#}) A beloved person, a sweetheart; said
 <div n="lb">esp. of a man; e. g. {%Śiśupālab.:%} {#aBIzwamAsAdya cirAya kAle#}
 [Page302-a+ 56]
 <div n="lb">{#samudDftASaM kamanI cakASe . yozinmanojanmasuKodayezu samudDftA-#}
@@ -54559,7 +54559,7 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 <div n="lb">it does not contain as much matter as this vocabulary nor
 <div n="lb">does it follow {%throughout%} its order; but in certain portions it
 <div n="lb">{%has%} the same order and it gives always literally the text of
-<div n="lb">the {%Amarak.,%} whereever additional synonymes have been
+<div n="lb">the {%Amarak.,%} wherever additional synonymes have been
 <div n="lb">intended by the author, these synonymes being either im-
 <div n="lb">mediately annexed by him to the words of the {%Amarak.%}
 <div n="lb">in a subsequent verse or pointed out through the repetition
@@ -54578,7 +54578,7 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 <div n="lb">{#pucCArSoGnI SyAmA varatkarI#} (and these eight words the per-
 <div n="lb">fume {%Reṇukā%}) {#.. reRukAKye ganDadravye ..#}. The mentioned Ms.
 <div n="lb">omits, as may be observed, (contrary to its practice, and
-<div n="lb">merely from carelesness of the copyist,) the ending word,
+<div n="lb">merely from carelessness of the copyist,) the ending word,
 <div n="lb">{#.. tAmbUlI ..,#} before {#reRukAyAM,#} and as it has served both,
 <div n="lb">Professor {%Wilson%} and {%Rādhākaṇtadeva,%} the oversight be-
 <div n="lb">comes thus explainable.]
@@ -54755,7 +54755,7 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 <div n="lb">not to put it down anywhere, i. e. he is to hold it up).
 <div n="lb"><sup>2</sup> No object for; e. g. {%Śākunt.:%} {#sa Kalu manoraTAnAmaBUmirvi-#}
 <div n="lb">{#sarjanAvasarasatkAraH#} (comm. {#aBUmiH = avizayaH#}) ‘the honour
-<div n="lb">(Indra conferred on me) at the occasion of dimissing me,
+<div n="lb">(Indra conferred on me) at the occasion of dismissing me,
 <div n="lb">was indeed no object for (i. e. beyond) my wishes’; or
 <div n="lb">{%Śiśupālabadha:%} {#aBUdaBUmiH pratipakzajanmanAM BiyAm#} (comm.
 <div n="lb">{#aBUmiravizayaH#}) ‘he was no object for fear from enemies’,
@@ -55062,7 +55062,7 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 <div n="lb">form the penance called {%Kṛṣchhra,%} as if he had tasted
 <div n="lb">seminal impurity, ordure or urine; according to {%Manu%} 4. 222.
 <div n="lb">In another verse, however, {%Manu%} (11. 152.) is satisfied, if
-<div n="lb">such a sinner drinks barleygruel for seven days and nights
+<div n="lb">such a sinner drinks barley gruel for seven days and nights
 [Page305-b+ 56]
 <div n="lb">(see the quot. s. v. {#aBojya#}). Comp. {%Raghunand.%} I. p. 317 ff.
 <div n="lb">E. {#aBojya#} and {#anna#}.
@@ -55161,14 +55161,14 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 <div n="lb">{#valapradaH . pAdAByaNgo'Ta nidrAkfccakzuzaH pAdarogahA . cakzuzi#}
 <div n="lb">{#pratibadDe dve Sire pAdagate nfRAm . ataScakzuHprasAdArTaM pAdA-#}
 <div n="lb">{#ByaNgaM samAcaret#} (comp. also {%Wise, Hindu syst. of Med.%} p. 93).
-<div n="lb">A religious student, an anchorete and a widow are for-
+<div n="lb">A religious student, an anchorite and a widow are for-
 <div n="lb">bidden to anoint themselves; {%Manu:%} {#(brahmacArI varjayet)#}
 <div n="lb">{#aByaNgamaYjanaM cAkzRorupAnacCatraDAraRam#}); {%Prachetas%} (as quoted
 <div n="lb">by {%Raghunand.%}): {#tAmbUlAByaYjanaM cEva kAMsyapAtre ca Bojanam .#}
 <div n="lb">{#yatiSca brahmacArI ca viDavA ca vivarjayet#}). <sup>3</sup> Unguent, lini-
 <div n="lb">ment; e. g. {%Suśr.:%} {#sPowajanmarujAsrAvatvakpAkaH svedanaM jvaraH .#}
 <div n="lb">{#daraRaM cApi mAMsAnAmaByaNge vizasaMyute#}. [<sup>4</sup> Applying colly-
-<div n="lb">rium to the eyes. <sup>5</sup> Sediment of oil, oilcake ({%Wilson%})].
+<div n="lb">rium to the eyes. <sup>5</sup> Sediment of oil, oil cake ({%Wilson%})].
 <div n="lb">See the following. E. {#aYj#} with {#aBi,#} kṛt aff. {#GaY#}.
 <LEND>
 
@@ -56799,7 +56799,7 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 <div n="lb">{%‘sense’%} but not the grammatical quality of {#aByAvartam#}. It
 <div n="lb">should be observed that in this and similar passages {#trivft,#}
 <div n="lb">{#ekaviMSa, trayastriMSa, ekaviMSa#} &c. are names of {%Stomas%} which
-<div n="lb">qualifiy the {%Stotra:%} the former expressing how often the
+<div n="lb">qualify the {%Stotra:%} the former expressing how often the
 <div n="lb">verses of a Stotra are to be repeated, while the {%Viṣṭuti%}
 <div n="lb">explains the {%order%} in which such a repetition takes place;
 <div n="lb">comp. e. g. {%Mādh. Jaiminīyany.:%} {#tezu trizu tfcezUrDvagAnena tri-#}
@@ -57143,7 +57143,7 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 {#aByAsavikAra#}¦ Tatpur. m. ({#-raH#}) (In comm. on {%Pāṇini.%}) The
 <div n="lb">change (esp. of the vowel) in the syllable of reduplication;
 <div n="lb">(as Guṇa or prolongation of the vowel in such a syllable
-<div n="lb">of the intens. verbe: {#cecIyate, lolUyate, pApacyate, yAya-#}
+<div n="lb">of the intens. verbs: {#cecIyate, lolUyate, pApacyate, yAya-#}
 <div n="lb">{#jIti#}); e. g. a {%Vārtt.%} to {%Pāṇ.:%} {#na vAByAsavikArezvapavAda-#}
 <div n="lb">{#syotsargabADakatvAt;#} or a {%Paribhāṣā:%} {#aByAsavikArezvapa-#}
 <div n="lb">{#vAdA utsargAnviDInna bADante#}. E. {#aByAsa#} and {#vikAra#}.
