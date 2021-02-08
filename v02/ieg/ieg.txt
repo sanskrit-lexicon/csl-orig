@@ -449,7 +449,7 @@
 
 <L>29<pc>002<k1>aBIzwadevatA<k2>aBIzwa-devatA
 {%abhīṣṭa-devatā%}¦ (IA 18), same as {%iṣṭa-devatā;%} the favourite
-<div n="lb">deity; the tulelary deity.
+<div n="lb">deity; the tutelary deity.
 <LEND>
 
 <L>30<pc>002<k1>aBisTAna<k2>aBisTAna
@@ -893,7 +893,7 @@
 <LEND>
 
 <L>108<pc>007<k1>ADipatra<k2>ADi-patra
-{%ādhi-patra%}¦ (LP), amortgage bond.
+{%ādhi-patra%}¦ (LP), a mortgage bond.
 <LEND>
 
 <L>109<pc>007<k1>aDirAja<k2>aDirAja
@@ -1391,7 +1391,7 @@
 <L>205<pc>012<k1>AjivakakAsu<k2>Ajivaka-kAsu
 {%ājivaka-kāsu%}¦ (SITI), same as Tamil {%āśuva-kkāśu, āśuvikaḻ-%}
 <div n="lb">{%kāśu, āśuva-kkaḍamai;%} tax payable by Ājīvakas or for the
-<div n="lb">maintainance of Ājīvaka monks.
+<div n="lb">maintenance of Ājīvaka monks.
 <LEND>
 
 <L>206<pc>012<k1>AjYA<k2>AjYA
@@ -1746,7 +1746,7 @@
 {%alīpaka,%}¦ also read as {%alīyaka%} (EI 32), a fiscal expression of
 <div n="lb">uncertain import; see {%nidhān-ālīpaka.%} The word {%alipaka%} means
 <div n="lb">‘a bee’. Thus {%ālipaka%} may refer to the right over wax, bee-hives,
-<div n="lb">and honey. {%Alīyaka,%} from {%ali,%} ‘a bee’, would mean the samething.
+<div n="lb">and honey. {%Alīyaka,%} from {%ali,%} ‘a bee’, would mean the same thing.
 <LEND>
 
 <L>271<pc>016<k1>aliya<k2>aliya
@@ -2228,7 +2228,7 @@
 <LEND>
 
 <L>361<pc>021<k1>aNka<k2>aNka
-{%aṅka%}¦ (IA 19), a name, appelation or {%biruda.%}
+{%aṅka%}¦ (IA 19), a name, appellation or {%biruda.%}
 <div n="P">({%IE%} 7-1-12; CII 4), ‘nine’.
 <div n="P">{%Cf. aṅke, aṅkena, aṅkataḥ%} (IA 15), ‘in figures’.
 <div n="P">{%Cf. aṅka,%} abbreviation of Telugu-Kannaḍa {%aṅkakā%}ṟ{%a;%} same
@@ -2270,7 +2270,7 @@
 
 <L>368<pc>022<k1>anta<k2>anta
 {%anta%}¦ (IE 8-4; CII 1), a state beyond the borders of one's
-<div n="lb">territeries, or a bordering district; also its people; cf. {%pratyanta.%}
+<div n="lb">territories, or a bordering district; also its people; cf. {%pratyanta.%}
 <div n="P">({%CII%} 1), cf. {%Anta-mahāmātra,%} officer employed in districts
 <div n="lb">bordering on the frontiers of one's kingdom.
 <div n="P">({%EI%} 3), a neighbour.
@@ -2858,7 +2858,7 @@
 <L>488<pc>027<k1>arDanOvAwaka<k2>arDa-nOvAwaka
 {%Ardha-nauvāṭaka%}¦ (EI 28), official designation; mention-
 <div n="lb">ed together with {%Nauvāḷaka%} probably in the sense of an officer
-<div n="lb">in command of half of a flect.
+<div n="lb">in command of half of a fleet.
 <LEND>
 
 <L>489<pc>027<k1>arDANgI<k2>arDANgI
@@ -3267,7 +3267,7 @@
 
 <L>564<pc>032<k1>azwAdaSaprakfti<k2>azwAdaSa-prakfti
 {%aṣṭādaśa-prakṛti,%}¦ cf. {%s-āṣtādaśa-prakṛty = opeta%} (EI 2);
-<div n="lb">all classes of tenants; tenants belonging to all cummunities.
+<div n="lb">all classes of tenants; tenants belonging to all communities.
 <div n="P">({%IA%} 17), ‘the eighteen (i. e. all) officials (i. e. classes of
 <div n="lb">officials)’.
 <LEND>
@@ -4769,7 +4769,7 @@
 
 <L>843<pc>048<k1>BAgahAra<k2>BAgahAra
 {%Bhāgahāra%}¦ (HD), ‘he who recovers the [king's] share
-<div n="lb">[of the procuce of land]’; one of the six officers of each
+<div n="lb">[of the produce of land]’; one of the six officers of each
 <div n="lb">village, according to Śukra, II. 120. Cf. {%Bhāgahara.%}
 <LEND>
 
@@ -4929,7 +4929,7 @@
 [Page-050+ 40]
 
 <L>875<pc>050<k1>BARqaBftavahitra<k2>BARqa-Bfta-vahitra
-{%bhāṇḍa-bhṛta-vahitra%}¦ (IE 8-8), ‘a wagonfull of pots or jars’.
+{%bhāṇḍa-bhṛta-vahitra%}¦ (IE 8-8), ‘a wagon full of pots or jars’.
 <LEND>
 
 <L>876<pc>050<k1>BARqADyakza<k2>BARq-ADyakza
@@ -5455,7 +5455,7 @@
 
 <L>970<pc>055<k1>BogikapAla<k2>BogikapAla, BogikapAlaka
 {%Bhogikapāla, Bhogikapālaka%}¦ (EI 5; CII 4; BL), superin-
-<div n="lb">tendent of the {%jāgīrs%} and cesscollector; cf. {%Bhogapati.%}
+<div n="lb">tendent of the {%jāgīrs%} and cess collector; cf. {%Bhogapati.%}
 <LEND>
 
 <L>971<pc>055<k1>Bogin<k2>Bogin
@@ -5671,7 +5671,7 @@
 {%bhūmi, bhūmī%}¦ (EI 3; CII 3), a particular land measure;
 <div n="lb">sometimes also called {%bhū%} and regarded as equal to four {%bhū-%}
 <div n="lb">{%māṣakas%} (cf. {%bhū%}).
-<div n="P">({%CII%} 4), a territorial divison.
+<div n="P">({%CII%} 4), a territorial division.
 <div n="P">({%EI%} 7-1-2), ‘one’.
 <LEND>
 
@@ -5773,7 +5773,7 @@
 <L>1026<pc>059<k1>BUtavAtapratyAya<k2>BUta-vAta-pratyAya
 {%bhūta-vāta-pratyāya%}¦ (EI 23; CII 4; HRS), ‘the income
 <div n="lb">derived from the elements and the winds’; explained by some
-<div n="lb">as ‘excise and octori duties’; but really, ‘the income resulting
+<div n="lb">as ‘excise and octroi duties’; but really, ‘the income resulting
 <div n="lb">from storms, earthquakes, changes in the course of a river,
 <div n="lb">etc.’ See {%bhūt-opātta-pratyāya,%} etc.
 <LEND>
@@ -5863,7 +5863,7 @@
 <LEND>
 
 <L>1044<pc>060<k1>boDi<k2>boDi
-{%bodhi%}¦ (LL), Buddhist; supreme knowledege attained by
+{%bodhi%}¦ (LL), Buddhist; supreme knowledge attained by
 <div n="lb">the Buddha; the tree of enlightenment; cf. {%mahābodhi, saṃbodhi.%}
 <LEND>
 
@@ -5911,7 +5911,7 @@
 <L>1054<pc>060<k1>brahmacArin<k2>brahmacArin
 {%brahmacārin%}¦ (SII 2; LL), a Brāhmaṇa student; an
 <div n="lb">unmarried student of the Vedas.
-<div n="P">({%BL%}), epithet of one who takes a vow of celebacy.
+<div n="P">({%BL%}), epithet of one who takes a vow of celibacy.
 <div n="P">({%SII%} 2), a temple servant.
 <LEND>
 
@@ -5963,7 +5963,7 @@
 <div n="lb">In one record ({%Journ. Karnatak Univ.,%} Vol. II, No 2, January
 <div n="lb">1959, p. 47), the Nāgavaṃśa, to which a Kadamba king's
 <div n="lb">minister Māyideva belonged, is called {%Brahma-kṣatra%} because it
-<div n="lb">originated from the intercouse of its progenitor Nāgarāja with
+<div n="lb">originated from the intercourse of its progenitor Nāgarāja with
 <div n="lb">a Brāhmaṇa girl. {%Brahma-vaiśya%} should be likewise explained.
 <LEND>
 
@@ -6374,7 +6374,7 @@
 {%Calamartigaṇḍa%}¦ (CITD), Telugu-Kannaḍa; a title of the
 <div n="lb">Kākatīya kings; from Kannaḍa {%gaṇḍa%} meaning ‘the husband,
 <div n="lb">lord, master,’ i. e. ‘one who can control or punish’, and Telugu
-<div n="lb">{%calam%} meaning ‘obstinacy, rudeness, overbearing’; transalated
+<div n="lb">{%calam%} meaning ‘obstinacy, rudeness, overbearing’; translated
 <div n="lb">as ‘one who is the controller or punisher of spiteful men or
 <div n="lb">men of overbearing conduct’.
 <LEND>
@@ -6386,7 +6386,7 @@
 <L>1143<pc>065<k1>calivaMdIli<k2>calivaMdIli, caliveMdala, caliveMdra, calipaMdili
 {%calivaṃdīli, caliveṃdala, caliveṃdra, calipaṃdili%}¦ (CITD),
 <div n="lb">Telugu-Kannaḍa; halting place for travellers, where they are
-<div n="lb">supplied gratis with milk and whoey or with water.
+<div n="lb">supplied gratis with milk and whey or with water.
 <LEND>
 [Page-066+ 40]
 
@@ -6602,7 +6602,7 @@
 <div n="lb">{%āpraveśya%} in Śaṅkara's {%Bhāsya%} on the {%Bṛhadāraṇyaka Upaniṣad%}
 <div n="lb">is explained by Ānandagiri by saying that the {%cāṭas%} are those
 <div n="lb">that transgress the rules of conduct for decent people and that
-<div n="lb">{%bhaṭas%} are servants telling falschood ({%Ep. Ind.,%} Vol. IX, p. 296).
+<div n="lb">{%bhaṭas%} are servants telling falsehood ({%Ep. Ind.,%} Vol. IX, p. 296).
 <div n="lb">But {%cāṭa%} is used in inscriptions in the sense of a royal official.
 <LEND>
 
@@ -6775,7 +6775,7 @@
 
 <L>1211<pc>070<k1>caturTa<k2>caturTa
 {%caturtha%}¦ (IE 8-8), one-fourth of the standard measure [of
-<div n="lb">liquids like liqour].
+<div n="lb">liquids like liquor].
 <LEND>
 
 <L>1212<pc>070<k1>caturTakula<k2>caturTa-kula
@@ -6874,7 +6874,7 @@
 <L>1230<pc>071<k1>cOrAsI<k2>cOrAsI
 {%caurāsī%}¦ (IE 8-4; EI 3, 4), literally, ‘eightyfour’; same as
 <div n="lb">{%caturaśīti%} (q. v.); a group of eightyfour villages; a Parganā
-<div n="lb">consisting of eightyfour villages; simetimes the name of a
+<div n="lb">consisting of eightyfour villages; sometimes the name of a
 <div n="lb">Parganā and often suffixed to its name.
 <LEND>
 
@@ -7034,7 +7034,7 @@
 <div n="P">({%CII%} 3), used in composition with {%bhaṭa%} and also singly;
 <div n="lb">literally, ‘an umbrella-bearer’; but actually, a constable like
 <div n="lb">a {%Pāik%} or {%Piāda.%}
-<div n="P">({%SITI%}), celebate ({%Brahmacārin%}) in charge of a temple
+<div n="P">({%SITI%}), celibate ({%Brahmacārin%}) in charge of a temple
 <div n="lb">and the {%śālai%} attached to it; also called {%Śaṭṭar, Śāttirar.%}
 <LEND>
 
@@ -7281,7 +7281,7 @@
 {%cora-daṇḍa-varjya%}¦ (CII 3), a fiscal term which means either
 <div n="lb">that no fines for theft should be collected from the gift village
 <div n="lb">or, more probably, that the donee was not entitled to fines
-<div n="lb">realisable on theives in the gift villages. But see also {%caura-varjam.%}
+<div n="lb">realisable on thieves in the gift villages. But see also {%caura-varjam.%}
 <LEND>
 
 <L>1308<pc>075<k1>coradrohakavarja<k2>cora-drohaka-varja
@@ -7480,7 +7480,7 @@
 <LEND>
 
 <L>1346<pc>077<k1>dakziRaBuja<k2>dakziRa-Buja
-{%Dakṣiṇa-bhuja%}¦ (SITI), ‘the right hand’; a trusted licutenant.
+{%Dakṣiṇa-bhuja%}¦ (SITI), ‘the right hand’; a trusted lieutenant.
 <LEND>
 
 <L>1347<pc>077<k1>dakziRAmUrti<k2>dakziRAmUrti
@@ -8230,7 +8230,7 @@
 {%deśa%}¦ (IE 8-4; CII 3, 4), a territorial term meaning a
 <div n="lb">small area or a group of villages in some cases but a kingdom,
 <div n="lb">district, tract or country in others.
-<div n="P">({%IE%} 8-4), a country of which there were seventytwo in
+<div n="P">({%IE%} 8-4), a country of which there were seventy two in
 <div n="lb">Bhārata or Bhāratavarṣa.
 <div n="P">({%CII%} 1), a part of anything.
 <div n="P">({%EI%} 24), a synonym of {%āspada.%}
@@ -8679,7 +8679,7 @@
 <LEND>
 
 <L>1562<pc>091<k1>DAnyamAza<k2>DAnya-mAza
-{%dhānya-māṣa,%}¦ weight eaual to 1 {%yava%} or 2 {%taṇdulas%} ({%JNSI,%}
+{%dhānya-māṣa,%}¦ weight equal to 1 {%yava%} or 2 {%taṇdulas%} ({%JNSI,%}
 <div n="lb">Vol. XVI, p. 48).
 <LEND>
 
@@ -9314,7 +9314,7 @@
 <LEND>
 
 <L>1678<pc>098<k1>dIpotsava<k2>dIp-otsava
-{%dīp-otsava%}¦ (EI 11, 32), same as {%dīpāvalī,%} the fesival of
+{%dīp-otsava%}¦ (EI 11, 32), same as {%dīpāvalī,%} the festival of
 <div n="lb">lights.
 <LEND>
 
@@ -9461,7 +9461,7 @@
 {%ḍohalikā-bhūmi%}¦ (LP), explained as ‘land, of which the
 <div n="lb">ownership is doubted and hence taken by government’; cf.
 <div n="lb">Gujarātī {%ḍūlā, dulavuṃ, ḍohalavum;%} also {%lupta-ḍohalikā%} (LP),
-<div n="lb">eplained as ‘the {%ḍohalikā%} which is lost to the owner’. But
+<div n="lb">explained as ‘the {%ḍohalikā%} which is lost to the owner’. But
 <div n="lb">see {%ḍohalikā.%}
 <LEND>
 
@@ -9696,7 +9696,7 @@
 
 <L>1745<pc>102<k1>duHsADasADanika<k2>duHsADa-sADanika
 {%Duḥsādha-sādhanika%}¦ (IE 8-3; HD), the leader of police-
-<div n="lb">men engaged in apprehending robbers, etc., or of expeditionery
+<div n="lb">men engaged in apprehending robbers, etc., or of expeditionary
 <div n="lb">forces requisitioned on occasions of emergency; cf. {%Sādhanika,%}
 <div n="lb">{%Duṣṭa-sādhaka, Dauḥsādhanika, Dussādhya-sādhaka,%} etc.
 <LEND>
@@ -10063,7 +10063,7 @@
 <LEND>
 
 <L>1813<pc>106<k1>ekAdaSaSata<k2>ekAdaSa-Sata
-{%ekādaśa-śata%}¦ (ML), same as {%ekādaś-ottara-śata,%} one hudred
+{%ekādaśa-śata%}¦ (ML), same as {%ekādaś-ottara-śata,%} one hundred
 <div n="lb">and eleven.
 <LEND>
 
@@ -10097,7 +10097,7 @@
 
 <L>1820<pc>106<k1>ekapAtra<k2>ekapAtra
 {%Ekapātra%}¦ (EI 27), probably, {%Yāvadeka-pātra%} (q. v.); official
-<div n="lb">designion; cf. {%Pātra%} and {%Mahāpātra.%}
+<div n="lb">designation; cf. {%Pātra%} and {%Mahāpātra.%}
 <LEND>
 [Page-107+ 38]
 
@@ -10582,7 +10582,7 @@
 {%Gaṇin%}¦ (SII 2), an astrologer.
 [Page-112+ 40]
 <div n="P">({%EI%} 3), head of a school.
-<div n="P">({%IA%} 19; LL), Jain; a Jain eclesiastic; an {%ācārya%} who has
+<div n="P">({%IA%} 19; LL), Jain; a Jain ecclesiastic; an {%ācārya%} who has
 <div n="lb">disciples but has not risen to be the head of his {%gaccha%} or {%śākhā.%}
 <LEND>
 
@@ -10734,7 +10734,7 @@
 <LEND>
 
 <L>1942<pc>113<k1>gOtamIputra<k2>gOtamI-putra
-{%Gautamī-putra%}¦ (IE 2-8), metronynic meaning ‘the son of
+{%Gautamī-putra%}¦ (IE 2-8), metronymic meaning ‘the son of
 <div n="lb">a lady born in a family belonging to the Gautama {%gotra%}’. Such
 <div n="lb">metronymics refer to the absence of {%gotr-āntara%} (i. e. the change
 <div n="lb">of the bride's paternal {%gotra%} to that of her husband at the time
@@ -10901,7 +10901,7 @@
 <LEND>
 
 <L>1975<pc>115<k1>GawikAgfhakaraRa<k2>GawikAgfha-karaRa
-{%ghaṭikāgṛha-karaṇa,%}¦ cf. {%karaṇa%} (LP); the deparment of
+{%ghaṭikāgṛha-karaṇa,%}¦ cf. {%karaṇa%} (LP); the department of
 <div n="lb">time-keeping. Cf. {%ghaḍiyāramu.%}
 <LEND>
 
@@ -11736,7 +11736,7 @@
 <LEND>
 
 <L>2133<pc>124<k1>guRapatra<k2>guRa-patra
-{%guṇa-patra%}¦ (LP), a lease of land granted by propriteors
+{%guṇa-patra%}¦ (LP), a lease of land granted by proprietors
 <div n="lb">to tenants or cultivators for the purpose of cultivating or im-
 <div n="lb">proving it; cf. {%Pañcāladeśīya-kulānāṃ guṇa-patra-vidhiḥ,%} ‘an order
 <div n="lb">of royal favour concerning the farmers of the Pañcāla country’;
@@ -12844,7 +12844,7 @@
 <L>2356<pc>134<k1>jayapatra<k2>jaya-patra, jayareKa-patra
 {%jaya-patra, jayarekha-patra%}¦ (SITI), a certificate of victory
 <div n="lb">in a dispute; a copy of the judgement. See {%jayarekha-patrikā.%}
-<div n="P">({%EI%} 5), a cetificate of success.
+<div n="P">({%EI%} 5), a certificate of success.
 <LEND>
 
 <L>2357<pc>134<k1>jayareKapatrikA<k2>jayareKa-patrikA
@@ -12886,7 +12886,7 @@
 
 <L>2363<pc>135<k1>jenA<k2>jenA
 {%Jenā%}¦ ({%Ep. Ind.,%} Vol. XXVIII, p. 304), Oḏiyā; ‘a prince’;
-<div n="lb">a title of nobility; later stercotyped as a family name in Orissa.
+<div n="lb">a title of nobility; later stereotyped as a family name in Orissa.
 <LEND>
 
 <L>2364<pc>135<k1>Jampin<k2>Jampin
@@ -13733,7 +13733,7 @@
 <LEND>
 
 <L>2532<pc>143<k1>kaRikkA<k2>kaRikkA
-{%kaṇikkā%}¦ (IE 8-8), same as Sanskrit {%kaṇikā,%} commin
+{%kaṇikkā%}¦ (IE 8-8), same as Sanskrit {%kaṇikā,%} common
 <div n="lb">seed.
 <LEND>
 
@@ -13873,7 +13873,7 @@
 <div n="lb">side by side with {%hiraṇya.%}
 <div n="P">({%HRS%}), tax in general, according to the lexicons; accord-
 <div n="lb">ing to the {%Arthaśāstra,%} (1) periodical tax over and above the
-<div n="lb">king's customary grain-share; (2) emergecy tax levied upon
+<div n="lb">king's customary grain-share; (2) emergency tax levied upon
 <div n="lb">the villagers over and above the normal grain-share; (3)
 <div n="lb">tax upon merchants' profits.
 <div n="P">({%EI%} 29; Chamba; CITD), a tax or impost; royal revenue;
@@ -13976,7 +13976,7 @@
 <LEND>
 
 <L>2574<pc>146<k1>karaRika<k2>karaRika
-{%Karaṇika%}¦ (CII 4; BL), official desigantion of a scribe; the
+{%Karaṇika%}¦ (CII 4; BL), official designation of a scribe; the
 <div n="lb">writer of legal documents; explained by some as ‘an officer
 <div n="lb">in charge of a State department or office’ (HD); but really,
 <div n="lb">a scribe. Cf. {%karaṇika-ṭhakkura%} (i. e. a {%Karaṇika%} who enjoyed the
@@ -14279,7 +14279,7 @@
 
 <L>2628<pc>149<k1>kArukara<k2>kArukara
 {%kārukara%}¦ (HRS), traced by some in the Prakrit passage
-<div n="lb">{%sa-karukara%} in a Śātavāhana record and indentified with
+<div n="lb">{%sa-karukara%} in a Śātavāhana record and identified with
 [Page-150+ 40]
 <div n="lb">{%udraṅga%} and {%uparikara;%} but may be Sanskrit {%kar-otkara,%} i. e.
 <div n="lb">{%kara%} and {%utkara%} (probably the same as {%upakara%} or {%uparikara%}),
@@ -14646,7 +14646,7 @@
 <LEND>
 
 <L>2697<pc>153<k1>KAdyawapAkika<k2>KAdyawapAkika
-{%Khādyaṭapākika%}¦ (IE 8-3), propbably a mistake for
+{%Khādyaṭapākika%}¦ (IE 8-3), probably a mistake for
 <div n="lb">{%Khādyakūṭa-pākika%} (cf. {%anna-kūṭa,%} ‘a heap of food’); same
 <div n="lb">as {%Mahānas-ādhyakṣa;%} called {%Sandhivigrahika, Kumārāmātya, Mahā-%}
 <div n="lb">{%daṇḍanāyaka,%} etc., additionally. See {%Bhānasa-vĕrgaḍĕ, Mahānas-%}
@@ -14843,7 +14843,7 @@
 <LEND>
 
 <L>2729<pc>156<k1>KaRqukavApa<k2>KaRqukavApa
-{%khaṇḍukavāpa%}¦ (IE 8-6), an area of land requring one
+{%khaṇḍukavāpa%}¦ (IE 8-6), an area of land requiring one
 <div n="lb">{%khaṇḍuka%} measure of seed grains for sowing.
 <LEND>
 
@@ -14953,7 +14953,7 @@
 <LEND>
 
 <L>2752<pc>157<k1>Kila<k2>Kila
-{%khila%}¦ (EI 15; Chamba), unclutivated land; fallow land;
+{%khila%}¦ (EI 15; Chamba), uncultivated land; fallow land;
 <div n="lb">cf. {%sa-khila-nāla%} (IE 8-5).
 <LEND>
 
@@ -15575,7 +15575,7 @@
 <LEND>
 
 <L>2874<pc>163<k1>kzetrapa<k2>kzetrapa
-{%Kṣetrapa%}¦ (IE 8-3; HD), same as {%Kṣetrapāla;%} supreintendent
+{%Kṣetrapa%}¦ (IE 8-3; HD), same as {%Kṣetrapāla;%} superintendent
 <div n="lb">of the king's {%Khās Mahāl.%} See {%Ind. Ant.,%} Vol. XV, p. 306.
 <LEND>
 
@@ -15871,7 +15871,7 @@
 
 <L>2927<pc>166<k1>kumAravftti<k2>kumAra-vftti
 {%kumāra-vṛtti,%}¦ cf. Tamil {%piḻḻai-vari%} (SITI), tax for the upkeep
-<div n="lb">of the order of {%Piḻḻais%} or {%Kumāras%} (princes). {%Kumāra-vṛtti%} occury
+<div n="lb">of the order of {%Piḻḻais%} or {%Kumāras%} (princes). {%Kumāra-vṛtti%} occurs
 <div n="lb">in the inscriptions of the Western Cālukyas of Kalyāṇa.
 <LEND>
 [Page-167+ 40]
@@ -16355,7 +16355,7 @@
 
 <L>3023<pc>171<k1>liNga<k2>liNga
 {%liṅga%}¦ (BL; SII 1; CII 3, etc.), same as {%śiva-liṅga;%} the
-<div n="lb">phallic emlem of Śiva; the emblem connected with the worship
+<div n="lb">phallic emblem of Śiva; the emblem connected with the worship
 <div n="lb">of Śiva; generally named after the founder with the suffix
 <div n="lb">{%īśvara.%}
 <LEND>
@@ -16713,7 +16713,7 @@
 
 <L>3087<pc>175<k1>mahAdAnika<k2>mahAdAnika
 {%Mahādānika%}¦ (CII 4), head of the department of charity;
-<div n="lb">officer in charge of donations; somtimes explained as ‘the officer
+<div n="lb">officer in charge of donations; sometimes explained as ‘the officer
 <div n="lb">superintending the performance of the {%mahādāna%} ceremonies’
 <div n="lb">(HD). See {%Ep. Ind.,%} Vol. VII, p. 91. Cf. {%Dharmādhyakṣa.%}
 <LEND>
@@ -16907,7 +16907,7 @@
 <LEND>
 
 <L>3123<pc>177<k1>mahAkowwapAla<k2>mahAkowwapAla
-{%Mahākoṭṭapāla%}¦ (CII 4), chief guardian of a frot or the
+{%Mahākoṭṭapāla%}¦ (CII 4), chief guardian of a fort or the
 <div n="lb">forts; cf. {%Koṭṭapāla.%}
 <LEND>
 [Page-178+ 40]
@@ -16920,7 +16920,7 @@
 {%mahākṣa-ni%}¦ (IE 8-1), abbreviation of {%mahākṣapaṭalika-%}
 <div n="lb">{%nirīkṣita,%} ‘examined by the {%Mahākṣapaṭalika%}’; {%ni%} may not be
 <div n="lb">an abbreviation of {%nibaddha%} (registered) in this case since
-<div n="lb">{%mahākṣa-ni%} is often used along with serveral other expressions
+<div n="lb">{%mahākṣa-ni%} is often used along with several other expressions
 <div n="lb">of the kind. See {%ni.%}
 <LEND>
 
@@ -17089,7 +17089,7 @@
 <div n="lb">SITI; CITD), according to the lexicons, a sovereign ruler
 [Page-180+ 40]
 <div n="lb">who is the lord of 40 {%yojanas%} of land and a lakh of villages; but,
-<div n="lb">in insciriptions, generally, the governor of a district or pro-
+<div n="lb">in inscriptions, generally, the governor of a district or pro-
 <div n="lb">vince; title of a feudatory ruler or governor (see {%Bomb. Gaz.,%}
 <div n="lb">Vol. XXI, p. 354); see {%Maṇḍaleśvara%} essentially meaning ‘the
 <div n="lb">ruler of a {%maṇḍala%} or district’; also called {%Mahāmaṇḍalika,%} etc.,
@@ -17532,7 +17532,7 @@
 <LEND>
 
 <L>3228<pc>185<k1>mahArAjakula<k2>mahArAjakula
-{%Mahārājakula%}¦ (IE 4; BL), officiald esignation of a feuda-
+{%Mahārājakula%}¦ (IE 4; BL), official designation of a feuda-
 <div n="lb">tory; same as {%Mahārāval%} of the Rajasthan region; cf. {%Rājakula.%}
 <LEND>
 
@@ -18827,7 +18827,7 @@
 <LEND>
 
 <L>3465<pc>199<k1>mArgaRa<k2>mArgaRa
-{%mārgaṇa%}¦ (EI 24), a begger.
+{%mārgaṇa%}¦ (EI 24), a beggar.
 <LEND>
 
 <L>3466<pc>199<k1>mArgaRaka<k2>mArgaRaka
@@ -18882,14 +18882,14 @@
 <L>3476<pc>200<k1>ma<k2>ma
 {%ma%}¦ṟ{%uturu%} (IE 8-6; CITD); also called {%ma%}ṟ{%utu, mattaru,%}
 <div n="lb">etc.; Telugu; Kannaḍa {%mattar%} or {%mattaru;%} a certain land measure
-<div n="lb">of uncertain area generally used as an equvalent of {%nivartana,%}
+<div n="lb">of uncertain area generally used as an equivalent of {%nivartana,%}
 <div n="lb">different kinds being mentioned as {%kāl-ma%}ṟ{%uturu, ghaḍa-ma%}ṟ{%uturu,%}
 <div n="lb">{%kommu-ma%}ṟ{%utu,%} etc.
 <LEND>
 
 <L>3477<pc>200<k1>marvA<k2>marvA
 {%Marvā%}¦ḏ{%ī,%} spelt {%Marwari%} in English; name of the Rājasthānī
-<div n="lb">dilaect prevalent in Marwar.
+<div n="lb">dialect prevalent in Marwar.
 <LEND>
 
 <L>3478<pc>200<k1>maryAdA<k2>maryAdA
@@ -19999,7 +19999,7 @@
 <LEND>
 
 <L>3691<pc>211<k1>nARI<k2>nARI
-{%Nāṇī%}¦ (CII 4), an engraver; probably a corrution of
+{%Nāṇī%}¦ (CII 4), an engraver; probably a corruption of
 <div n="lb">{%Vijñānin.%}
 <LEND>
 
@@ -20417,7 +20417,7 @@
 <div n="lb">a treasure-hoard; hidden treasure under the ground; one of the
 <div n="lb">eight kinds of enjoyments allowed to the donees of rent-free land.
 <div n="lb">Cf. {%nidhāna.%}
-<div n="P">({%CITD%}), a treasure; a reposistory; store; a place where
+<div n="P">({%CITD%}), a treasure; a repository; store; a place where
 <div n="lb">anything is placed.
 <div n="P">{%Cf. nidhi-nikṣepa-jala-pāṣāṇ-ārām-ādi-catuṣ-prakāra-bīravaṇa-%}
 <div n="lb">{%pārikh-āya-sahita%} ({%Ind. Ant.,%} Vol. XIX, p. 247; text lines 101-02),
@@ -20683,7 +20683,7 @@
 <LEND>
 
 <L>3818<pc>219<k1>niryAmaka<k2>niryAmaka
-{%Niryāmaka%}¦ (LP), probably, an officer who allowed licenced
+{%Niryāmaka%}¦ (LP), probably, an officer who allowed licensed
 <div n="lb">articles to pass.
 <LEND>
 
@@ -20800,7 +20800,7 @@
 
 <L>3841<pc>220<k1>nivartana<k2>nivartana
 {%nivartana%}¦ (IE 8-6; EI 21, 26, 28; CII 4), an area of land,
-<div n="lb">which was not the same in different ages and localties. See
+<div n="lb">which was not the same in different ages and localities. See
 <div n="lb">{%Ind. Ep.,%} pp. 409-10; also {%Matsya Purāṇa,%} 283. 14-15, represent-
 <div n="lb">ing a {%gocarman%} as (2/3) of a {%nivartana%} (210×210 sq. cubits).
 <div n="P">({%CITD%}), same as {%ma%}ṟ{%uturu,%} the identification of the two
@@ -21942,7 +21942,7 @@
 
 <L>4048<pc>233<k1>paYcavAra<k2>paYca-vAra
 {%pañca-vāra%}¦ (EI 23), a tax; cf. {%pañcavāri, pañcupīli,%} etc.;
-<div n="lb">also {%pañca-vāram%} (SITI), one-fifth of the producc due to the
+<div n="lb">also {%pañca-vāram%} (SITI), one-fifth of the produce due to the
 <div n="lb">government as land-revenue.
 <div n="P">({%SITI%}), five branches in the administration of big villages,
 <div n="lb">each looked after by a committee called {%pañcavāra-vāriyam.%}
@@ -22888,7 +22888,7 @@
 <LEND>
 
 <L>4229<pc>242<k1>pAtAla<k2>pAtAla
-{%pātāla%}¦ (IE 7-1-2), sometimes used to indicare ‘seven’.
+{%pātāla%}¦ (IE 7-1-2), sometimes used to indicate ‘seven’.
 <LEND>
 [Page-243+ 40]
 
@@ -23385,7 +23385,7 @@
 <div n="lb">for 12 or 24 hours; the observance of fast on the eighth and
 <div n="lb">fourteenth of the fortnight, the full-moon day and the day
 <div n="lb">before the new moon and abstention from wicked acts, chastity,
-<div n="lb">abandoment of bathing, etc., i. e. living temporarily like a monk.
+<div n="lb">abandonment of bathing, etc., i. e. living temporarily like a monk.
 <div n="lb">See {%poṣadha.%}
 <LEND>
 
@@ -23866,7 +23866,7 @@
 <LEND>
 
 <L>4417<pc>253<k1>prabanDa<k2>prabanDa
-{%prabandha,%}¦ name of hymnical compositions in Tamil by
+{%prabandha,%}¦ name of hymnal compositions in Tamil by
 <div n="lb">ancient Vaiṣṇava devotees. The contributions of hymns and
 <div n="lb">prayers by the twelve {%ā%}l13{%vārs%} in praise of Viṣṇu make up the
 <div n="lb">{%Nālāyiradivyaprabandham. Nālāyira%} (four thousand) indicates the
@@ -24197,7 +24197,7 @@
 <LEND>
 
 <L>4479<pc>256<k1>prapA<k2>prapA
-{%prapā%}¦ (EI 3; IA 18; LL), watering trought; a cistern or
+{%prapā%}¦ (EI 3; IA 18; LL), watering trough; a cistern or
 <div n="lb">reservoir.
 <div n="P">({%Ep. Ind.,%} Vol. VII, p. 46, note 8), a place of distributing
 <div n="lb">water gratis to travellers; a cistern.
@@ -24643,7 +24643,7 @@
 
 <L>4565<pc>261<k1>pratiSUrika<k2>pratiSUrika
 {%Pratiśūrika%}¦ (IE 8-3), probably, the superintendent of
-<div n="lb">gladitorial combats; cf. {%Pratiśūraka.%}
+<div n="lb">gladiatorial combats; cf. {%Pratiśūraka.%}
 <LEND>
 
 <L>4566<pc>261<k1>pratiwippanaka<k2>pratiwippanaka
@@ -24864,7 +24864,7 @@
 <L>4608<pc>263<k1>prAveSya<k2>prAveSya
 {%prāveśya%}¦ (EI 31), also spelt {%praveśya;%} explained by some
 <div n="lb">as a small territorial unit; sometimes translated as ‘situated in’
-<div n="lb">(CII 4); but may refer to the revenure assessment of a village
+<div n="lb">(CII 4); but may refer to the revenue assessment of a village
 <div n="lb">along with another; cf. {%Ardhaṭi-prāveśya-Lavaṅgasikāyām%} ({%Ep.%}
 <div n="lb">{%Ind.,%} Vol. XV, p. 143); same as {%praveśa.%} Cf. {%Hastiśīrṣa-prāveśya-%}
 <div n="lb">{%Tāpasapottake%} with {%Siviḍi-praveśa-Kandalivāḍa-grāma%} interpreted
@@ -25720,7 +25720,7 @@
 
 <L>4766<pc>272<k1>rAjArGikA<k2>rAj-ArGikA
 {%rāj-ārghikā%}¦ (IE 8-8; EI 30), name of a levy; probably,
-<div n="lb">periodical offerings to the king or the king's share of a ticles
+<div n="lb">periodical offerings to the king or the king's share of articles
 <div n="lb">sold in the markets.
 <LEND>
 
@@ -27042,7 +27042,7 @@
 <LEND>
 
 <L>5022<pc>286<k1>SEvAcArya<k2>SEv-AcArya
-{%Śaiv-ācārya%}¦ (CII 4), an ascetic of the Śaiva seet.
+{%Śaiv-ācārya%}¦ (CII 4), an ascetic of the Śaiva sect.
 <LEND>
 
 <L>5023<pc>286<k1>SEvAcAryakzetra<k2>SEvAcArya-kzetra
@@ -28166,7 +28166,7 @@
 <LEND>
 
 <L>5237<pc>298<k1>SaNKa<k2>SaNKa
-{%śaṅkha%}¦ (CII 3, etc.), conch-shell as ane mblem on seals;
+{%śaṅkha%}¦ (CII 3, etc.), conch-shell as an emblem on seals;
 <div n="lb">cf. {%śaṅghu%} (ASLV), the use of which was sometimes granted
 <div n="lb">by kings to their favourites as a privilege.
 <LEND>
@@ -28194,7 +28194,7 @@
 <L>5242<pc>298<k1>saNkramaRa<k2>saNkramaRa
 {%saṅkramaṇa%}¦ (CII 3; IA 17), also called {%saṅkrānti;%} the
 <div n="lb">entrance of the sun into a sign of the zodiac; regarded as an
-<div n="lb">auspicious time for performing religiousduties.
+<div n="lb">auspicious time for performing religious duties.
 <LEND>
 
 <L>5243<pc>298<k1>saNkrAnti<k2>saNkrAnti
@@ -28369,7 +28369,7 @@
 <LEND>
 
 <L>5276<pc>300<k1>saptANga<k2>sapt-ANga
-{%sapt-āṅga%}¦ (CII CITD), the seven constitutent parts of
+{%sapt-āṅga%}¦ (CII CITD), the seven constituent parts of
 <div n="lb">a kingdom, viz., king, ministers, allies, treasury, territory, forts
 <div n="lb">and forces.
 <LEND>
@@ -28692,7 +28692,7 @@
 <LEND>
 
 <L>5330<pc>304<k1>sarvAya<k2>sarv-Aya
-{%sarv-āya%}¦ (EI 15), all the usual ducs.
+{%sarv-āya%}¦ (EI 15), all the usual dues.
 <LEND>
 
 <L>5331<pc>304<k1>sarvIya<k2>sarvIya
@@ -28979,7 +28979,7 @@
 <LEND>
 
 <L>5384<pc>307<k1>sOgataparivrAjaka<k2>sOgata-parivrAjaka
-{%Saugata-parivrājaka%}¦ (BL), a Buddhist medicant.
+{%Saugata-parivrājaka%}¦ (BL), a Buddhist mendicant.
 <LEND>
 
 <L>5385<pc>307<k1>SOlkika<k2>SOlkika
@@ -29048,7 +29048,7 @@
 <LEND>
 
 <L>5399<pc>307<k1>sAyana<k2>sAyana
-{%sāyana%}¦ (CII 3), ‘inclusive of precission of the equinoxes’.
+{%sāyana%}¦ (CII 3), ‘inclusive of precession of the equinoxes’.
 <LEND>
 
 <L>5400<pc>307<k1>SayanapUjA<k2>Sayana-pUjA
@@ -29195,7 +29195,7 @@
 
 <L>5426<pc>309<k1>senApatipperuvilE<k2>senApati-pperuvilE
 {%senāpati-pperuvilai%}¦ (SITI), Sanskrit-Tamil; the sale of
-<div n="lb">lands of a Viṣṇu temple exccuted in the name of Senai-
+<div n="lb">lands of a Viṣṇu temple executed in the name of Senai-
 <div n="lb">mudaliyār, i. e. the god Viṣvaksenai.
 <LEND>
 
@@ -29350,7 +29350,7 @@
 
 <L>5453<pc>311<k1>sidDasADya<k2>sidDa-sADya
 {%siddha-sādhya%}¦ (EI 13), present income and the income that
-<div n="lb">may accure in future.
+<div n="lb">may accrue in future.
 <LEND>
 
 <L>5454<pc>311<k1>sidDasTAna<k2>sidDa-sTAna
@@ -29960,7 +29960,7 @@
 <LEND>
 
 <L>5581<pc>316<k1>SrAvita<k2>SrAvita
-{%śrāvita,%}¦ cf. {%rāja-śrāvita%} (EI 6; IA 19), decrec; a procla-
+{%śrāvita,%}¦ cf. {%rāja-śrāvita%} (EI 6; IA 19), decree; a procla-
 <div n="lb">mation.
 <div n="P">({%EI%} 28), religious instruction.
 <LEND>
@@ -30261,7 +30261,7 @@
 <LEND>
 
 <L>5632<pc>320<k1>SrIrudra<k2>SrI-rudra
-{%Śrī-rudra%}¦ (SITI; ASLV), also caled {%Śrī-rudra-māheśvara;%}
+{%Śrī-rudra%}¦ (SITI; ASLV), also called {%Śrī-rudra-māheśvara;%}
 <div n="lb">a Śaiva devotee; same as {%Śrī-māheśvara.%}
 <LEND>
 
@@ -30593,7 +30593,7 @@
 {%Sthavira%}¦ (CII 3, etc.), a Buddhist priestly title; same as
 <div n="lb">Pāli {%Thera;%} an Elder in the community of Buddhist monks; a
 <div n="lb">senior monk. Cf. {%Thaira%} (EI 3), an Elder among Buddhist
-<div n="lb">monks; aslo {%Saṅgha-sthavira%} (Lüders, {%Mathurā Ins.,%} p. 190),
+<div n="lb">monks; also {%Saṅgha-sthavira%} (Lüders, {%Mathurā Ins.,%} p. 190),
 <div n="lb">‘the senior of the order’.
 <LEND>
 
@@ -30640,7 +30640,7 @@
 <L>5699<pc>324<k1>sTiti<k2>sTiti
 {%sthiti%}¦ (EI 32), decree.
 <div n="P">({%IE%} 8-5), regulation; see {%ācāra-sthiti.%}
-<div n="P">({%EI%} 12), usage; pratice [in respect of calculation of
+<div n="P">({%EI%} 12), usage; practice [in respect of calculation of
 <div n="lb">dates]; {%Mālava-gaṇa-sthiti-vāśāt=kāla-jñānāya likhiteṣu,%} ‘[in the
 <div n="lb">years … ] written for the knowledge of time (i. e. the
 <div n="lb">date of some event) according to the practice [of calculation]
@@ -30976,7 +30976,7 @@
 <div n="lb">representation of a cow with her calf and the sun and the moon
 <div n="lb">in the upper part, the inscriptions usually recording gifts or
 <div n="lb">donations or exemptions from obligations or taxes declared
-<div n="lb">by kings. This indicated permanence and inviobability.
+<div n="lb">by kings. This indicated permanence and inviolability.
 <LEND>
 
 <L>5761<pc>328<k1>surAkaraRa<k2>surA-karaRa
@@ -31875,7 +31875,7 @@
 <L>5926<pc>338<k1>tara<k2>tara
 {%tara%}¦ (EI 9), same as {%nilaya;%} the family aggregate of dwel-
 <div n="lb">lings with some of them meant for servants and artisans; also a
-<div n="lb">strect or a hamlet.
+<div n="lb">street or a hamlet.
 <div n="P">({%HRS%}), same as {%tara-deya,%} ferry dues, as indicated by the
 <div n="lb">{%Arthaśāstra.%} See {%tārya.%}
 <div n="P">{%Cf. taram%} (EI 7), revenue.
@@ -32299,7 +32299,7 @@
 
 <L>6005<pc>342<k1>trErAjyasTiti<k2>trErAjya-sTiti
 {%trairājya-sthiti%}¦ (EI 27), cf. {%trairājya-sthitim = ātmasāt = kṛtavataḥ,%}
-<div n="lb">‘of one who has obtained steadiness in the three realsm.’
+<div n="lb">‘of one who has obtained steadiness in the three realms.’
 <LEND>
 
 <L>6006<pc>342<k1>trEvidya<k2>trEvidya
@@ -33495,7 +33495,7 @@
 
 <L>6240<pc>354<k1>utkIrRa<k2>utkIrRa
 {%utkīrṇa%}¦ (CII 3), ‘engraved’; a technical expression for
-<div n="lb">the actual engravign of an inscription on copper or stone; some-
+<div n="lb">the actual engraving of an inscription on copper or stone; some-
 <div n="lb">times indicated by the word {%udghāṭita%} ({%Ep. Ind.,%} Vol. XXXI, p.
 <div n="lb">20) and {%ghaṭita%} ({%Ind. Ant.,%} Vol. XII, p. 121). See {%Ullekhaka,%}
 <div n="lb">{%likhita.%}
@@ -33534,7 +33534,7 @@
 <LEND>
 
 <L>6247<pc>355<k1>utpanna<k2>utpanna
-{%utpanna,%}¦ decided or acertained ({%Select Inscriptions,%} pp.
+{%utpanna,%}¦ decided or ascertained ({%Select Inscriptions,%} pp.
 <div n="lb">284, 286); same as {%pratipanna;%} cf. {%pratipad.%}
 <LEND>
 
@@ -33550,7 +33550,7 @@
 
 <L>6250<pc>355<k1>utpawwa<k2>utpawwa
 {%utpaṭṭa,%}¦ cf. {%upaṭṭa%} (EI 13), abundance; exuberance or
-<div n="lb">overflowing [expecially of rich dishes at a feast].
+<div n="lb">overflowing [especially of rich dishes at a feast].
 <LEND>
 
 <L>6251<pc>355<k1>utpatti<k2>utpatti
@@ -34494,7 +34494,7 @@
 <div n="lb">great {%gandhakūṭī%} (q. v.).’ The official designation {%Pāṭvāri%} seems
 <div n="lb">to be derived from {%Paṭṭavārika.%}
 <div n="P">{%Cf.%} Tamil {%vāriyaṃ%} (SITI), an executive committee;
-<div n="lb">appointment as a member of that body; an office of superivision;
+<div n="lb">appointment as a member of that body; an office of supervision;
 <div n="lb">cf. {%śrībhaṇḍāra-vāriyam%} (EI 33). See {%SII,%} Vol. III, p. 151, note.
 <div n="P">{%Cf. bārika%} (EI 5, 19), a village official; one entrusted
 <div n="lb">with putting an official seal or stamp to a document; cf.
@@ -34622,7 +34622,7 @@
 {%vasad-bhoga-maryādā%}¦ (IA 5), explained as ‘the condition
 <div n="lb">that the gift villages should be enjoyed only by those residing
 <div n="lb">therein’; the custom relating to the enjoyment of the gift land
-<div n="lb">yb the donee by residign therein; but see {%vasad-bhogya-maryādā.%}
+<div n="lb">by the donee by residing therein; but see {%vasad-bhogya-maryādā.%}
 <LEND>
 
 <L>6461<pc>366<k1>vasadBogyamaryAdA<k2>vasad-Bogya-maryAdA
@@ -35178,7 +35178,7 @@
 
 <L>6572<pc>371<k1>vihArasvAmin<k2>vihArasvAmin
 {%Vihārasvāmin%}¦ (EI 8, 33; CII 3; BL; LL), ‘the master of a
-<div n="lb">monastery’; the builder or owner of a monastyer. Cf. {%Vihāra-%}
+<div n="lb">monastery’; the builder or owner of a monastery. Cf. {%Vihāra-%}
 <div n="lb">{%kāraka.%}
 <LEND>
 
@@ -35334,7 +35334,7 @@
 <L>6602<pc>373<k1>vijYApi<k2>vi-jYApi
 {%vi-jñāpi%}¦ (CII 3, etc.), verb used in connection with the
 <div n="lb">making of a grant by the king at the request, or on the advice,
-<div n="lb">of somcone who was the real donor.
+<div n="lb">of someone who was the real donor.
 <LEND>
 
 <L>6603<pc>373<k1>vijYApya<k2>vijYApya
@@ -35370,7 +35370,7 @@
 <L>6609<pc>373<k1>vilabDi<k2>vilabDi
 {%vilabdhi%}¦ (IE 8-3; EI 30), used in the {%Rājataraṅgiṇī,%}
 <div n="lb">probably in the sense of presents offered to the king or the stolen
-<div n="lb">property recovered; explaiened as ‘an assignment’. See
+<div n="lb">property recovered; explained as ‘an assignment’. See
 <div n="lb">{%Vailabdhika.%}
 <LEND>
 
@@ -35891,7 +35891,7 @@
 <LEND>
 
 <L>6705<pc>379<k1>vizvagdevA<k2>vizvag-devA
-{%viṣvag-devā%}¦ (LL), Jain; a quardruple image.
+{%viṣvag-devā%}¦ (LL), Jain; a quadruple image.
 <LEND>
 
 <L>6706<pc>379<k1>viSvakarman<k2>viSvakarman
@@ -35969,7 +35969,7 @@
 <LEND>
 
 <L>6720<pc>380<k1>vittabanDa<k2>vitta-banDa
-{%vitta-bandha%}¦ (CII 4), mortage.
+{%vitta-bandha%}¦ (CII 4), mortgage.
 <LEND>
 
 <L>6721<pc>380<k1>viwwollakara<k2>viwwolla-kara
@@ -36240,7 +36240,7 @@
 
 <L>6771<pc>383<k1>vyAzeDa<k2>vyAzeDa
 {%vyāṣedha%}¦ (LP), {%vyāṣedhaḥ kāritaḥ%} or {%niṣedhaḥ kāritaḥ,%} ‘prov-
-<div n="lb">ed the countrary [in the court that it was his own land and not
+<div n="lb">ed the contrary [in the court that it was his own land and not
 <div n="lb">{%ḍohalikā%} land’]; {%vahamāna-bhūmi-vyāṣedha,%} ‘no one should stop him
 <div n="lb">when he is ploughing his own piece of land’.
 <div n="P">({%LP%}), seizure; confiscation as government property.
@@ -37330,7 +37330,7 @@
 
 <L>6954<pc>396<k1>parihftapaNgotkowa<k2>parihfta-paNg-otkowa
 {%parihṛta-paṅg-otkoṭa%}¦ (EI 33), ‘exempted from the levies
-<div n="lb">called {%paṅga%} and {%utkoṭa%}’. See the words as saparately noticed.
+<div n="lb">called {%paṅga%} and {%utkoṭa%}’. See the words as separately noticed.
 <LEND>
 
 <L>6955<pc>396<k1>parihftasarvapIqa<k2>parihfta-sarva-pIqa
@@ -37678,7 +37678,7 @@
 <L>7017<pc>400<k1>sakxptopakxptaka<k2>sa-kxpt-opakxptaka
 {%sa-kḷpt-opakḷptaka%}¦ (EI 24, 27), refers to the freedom of the
 <div n="lb">gift land from the payment of fixed taxes on permanent
-<div n="lb">tenants as well as occassional taxes or taxes on temporary tenants;
+<div n="lb">tenants as well as occasional taxes or taxes on temporary tenants;
 <div n="lb">same as {%s-odraṅga-s-oparikara.%}
 <LEND>
 
@@ -38200,7 +38200,7 @@
 <L>7114<pc>405<k1>sopajAtAnyavastuka<k2>s-opajAt-Anya-vastuka
 {%s-opajāt-ānya-vastuka%}¦ (EI 26), ‘together with all the
 <div n="lb">articles that may be produced [in the gift land] other than
-<div n="lb">those ment oned.’
+<div n="lb">those mentioned.’
 <LEND>
 
 <L>7115<pc>405<k1>sopaniDi<k2>s-opaniDi
@@ -38489,7 +38489,7 @@
 <LEND>
 
 <L>7157<pc>409<k1>AqippaccE<k2>Aqi-ppaccE
-{%āḍi-ppaccai%}¦ (SITI), Tamil; probably, perquisities payable
+{%āḍi-ppaccai%}¦ (SITI), Tamil; probably, prerequisites payable
 <div n="lb">in grain in the month of {%Āḍi%} after the harvest.
 <LEND>
 
@@ -38499,7 +38499,7 @@
 <LEND>
 
 <L>7159<pc>409<k1>AqukkalEppuram<k2>AqukkalE-ppuram
-{%āḍukkalai-ppuṟam%}¦ (SITI), Tamil; an enowment for the
+{%āḍukkalai-ppuṟam%}¦ (SITI), Tamil; an endowment for the
 <div n="lb">kitchen expenses of a temple.
 <LEND>
 
@@ -38656,7 +38656,7 @@
 
 <L>7190<pc>411<k1>ASuvikalkAsu<k2>ASuvikal-kAsu, ASuva-kkASu, ASuva-kkaqamE
 {%āśuvikaḻ-kāsu, āśuva-kkāśu, āśuva-kkaḍamai%}¦ (SITI), Tamil;
-<div n="lb">tax payable by the Ājīvakas or for maintaing Ājīvaka monks.
+<div n="lb">tax payable by the Ājīvakas or for maintaining Ājīvaka monks.
 <LEND>
 
 <L>7191<pc>411<k1>AwcippAwwam<k2>Awci-ppAwwam
@@ -38800,7 +38800,7 @@
 
 <L>7221<pc>412<k1>elavE<k2>elavE
 {%elavai%}¦ (SITI), also spelt {%ĕlavai;%} Tamil; death-duty; fee for
-<div n="lb">creamatorium.
+<div n="lb">crematorium.
 <LEND>
 
 <L>7222<pc>412<k1>e<k2>e
@@ -39147,7 +39147,7 @@
 <LEND>
 
 <L>7291<pc>415<k1>kirukula<k2>kirukula
-{%kirukula%}¦ (SITI), Tamil; commericial tax or tolls on retail
+{%kirukula%}¦ (SITI), Tamil; commercial tax or tolls on retail
 <div n="lb">articles; also called {%kirukūla-viśeṣam;%} cf. {%kūlam.%}
 <LEND>
 
@@ -39280,7 +39280,7 @@
 
 <L>7318<pc>416<k1>mAqukARikkE<k2>mAqu-kARikkE
 {%māḍu-kāṇikkai%}¦ (SITI), Tamil; obligation of supplying
-<div n="lb">draught cattle to the visting nobles by the tenants.
+<div n="lb">draught cattle to the visiting nobles by the tenants.
 <LEND>
 [Page-417+ 40]
 
@@ -39943,7 +39943,7 @@
 
 <L>7453<pc>423<k1>svarRAdAyam<k2>svarR-AdAyam
 {%svarṇ-ādāyam%}¦ (SITI), Sanskrit; revenue in gold; taxes
-<div n="lb">payable in coin; or, prefession tax payable by the goldsmiths.
+<div n="lb">payable in coin; or, profession tax payable by the goldsmiths.
 <LEND>
 
 <L>7454<pc>423<k1>SaqakkaqamE<k2>Saqa-kkaqamE
@@ -40130,7 +40130,7 @@
 <LEND>
 
 <L>7492<pc>424<k1>ulvari<k2>ul-vari
-{%uḻ-vari%}¦ (SITI), Tamil; internal revenued; taxes levie
+{%uḻ-vari%}¦ (SITI), Tamil; internal revenue; taxes levied
 [Page-425+ 40]
 <div n="lb">by the local body; same as {%antar-āyam;%} orders issued by the
 <div n="lb">government fixing the amount of such taxes.
@@ -40650,7 +40650,7 @@
 
 <L>7601<pc>430<k1>daric<k2>daric
 {%daric,%}¦ gold coin of ancient Iran (about 133 grains); double
-<div n="lb">{%daric%} = Greek {%stater%} or {%tetradrachma,%} fourt time the {%drachma%} in weight.
+<div n="lb">{%daric%} = Greek {%stater%} or {%tetradrachma,%} four times the {%drachma%} in weight.
 <LEND>
 
 <L>7602<pc>430<k1>dAyadramma<k2>dAya-dramma
