@@ -285,7 +285,7 @@ the (mythical) ancestor of the Angirases.
 <LEND>
 <L>64<pc>112-b<k1>ac<k2>ac
 {@√ac@}¦ {%or%} {@añc (ácati, áñcati; akná, añcitá;@}
-{@-ácya).@} bend. [<ab>cf.</ab> {@aṅka@} and vbl {@añc.@}]
+{@-ácya).@} bend. [<ab>cf.</ab> {@aṅka@} and <ab>vbl</ab> {@añc.@}]
 <div n="p"/>{@+ ā,@} bend.
 <LEND>
 <L>65<pc>112-b<k1>acara<k2>a-cara
@@ -374,7 +374,7 @@ out of ignorance.
 {@√añc,@}¦ {%see%} {@√ac.@}
 <LEND>
 <L>88<pc>113-a<k1>aYc<k2>aYc
-{@añc,@}¦ {%as vbl at end of <ab>cpds</ab>%} [{%see%} <ls n="wg,407">407</ls>-9],
+{@añc,@}¦ {%as <ab>vbl</ab> at end of <ab>cpds</ab>%} [{%see%} <ls n="wg,407">407</ls>-9],
 turning, directed; {%<ab>e. g.</ab>%} {@úd-añc,@} directed
 upward. [for <ab>mg</ab>, <ab>cf.</ab> <ab>Eng.</ab> {%-ward%} (in
 {%to-ward,%} <ab>etc.</ab>), which is akin <ab>w.</ab> {@√vṛt,@}
@@ -441,7 +441,7 @@ from this (cause), <ls n="lan,35,10">35<sup>10</sup></ls>; therefore, <ls n="lan
 <ls n="lan,42,21">42<sup>21</sup></ls>; so then, <ls n="lan,73,12">73<sup>12</sup></ls>. [<ab>pron.</ab> root a, <ls n="wg,502">502.</ls>]
 <LEND>
 <L>100<pc>113-b<k1>ati<k2>a/ti
-{@áti,@}¦ {%<ab>adv.</ab>%} across, beyond, past, over, {%as vbl%}
+{@áti,@}¦ {%<ab>adv.</ab>%} across, beyond, past, over, {%as <ab>vbl</ab>%}
 {%prefix; in <ab>cpds</ab>,%} to excess, excessive, {%see%}
 <ls n="wg,1289">1289b</ls>; {%as <ab>prep.</ab>%} beyond, over. [<ab>cf.</ab> <lang n="greek">ἔτι</lang>,
 ‘further, besides’; <ab>Lat.</ab> {%et,%} ‘besides, and.’]
@@ -605,7 +605,7 @@ quite different <ab>mg</ab> and origin.]
 <LEND>
 <L>129<pc>114-b<k1>adurmaNgala<k2>a/-durmaNgala
 {@á-durmaṅgala,@}¦ {%<ab>f.</ab>%} {@-ī,@} {%<ab>a.</ab>%} bringing no bad
-luck. [for deelension, <ab>cf.</ab> {@sumaṅgála,@}
+luck. [for declension, <ab>cf.</ab> {@sumaṅgála,@}
 {@-galī́,@} and <ls n="wg,355">355b</ls>.]
 <LEND>
 <L>130<pc>114-b<k1>adfzwa<k2>a-df/zwa
@@ -1263,7 +1263,7 @@ after, being behind. [{@ánu + áñc.@}]
 <LEND>
 <L>282<pc>118-a<k1>apatiGnI<k2>a/-patiGnI
 {@á-patighnī,@}¦ {%<ab>a.</ab> <ab>f.</ab>%} not husband-slaying.
-[<ls n="wg,402">402</ls>: acet, <ls n="wg,1288">1288a</ls>.]
+[<ls n="wg,402">402</ls>: <ab>acct</ab>, <ls n="wg,1288">1288a</ls>.]
 <LEND>
 <L>283<pc>118-a<k1>apatya<k2>a/patya
 {@ápatya,@}¦ {%<ab>n.</ab>%} offspring; child; young (of
@@ -1333,7 +1333,7 @@ disadvantage; diminution. [{@√i + apa,@}
 <LEND>
 [Page118-b+ 49]
 <L>297<pc>118-b<k1>apAra<k2>a-pAra/
-{@a-pārá,@}¦ {%<ab>a.</ab>%} boundless. [pārá: acet, <ls n="wg,1304">1304a</ls>.]
+{@a-pārá,@}¦ {%<ab>a.</ab>%} boundless. [pārá: <ab>acct</ab>, <ls n="wg,1304">1304a</ls>.]
 <LEND>
 <L>298<pc>118-b<k1>api<k2>a/pi
 {@ápi,@}¦ {%<ab>indecl.</ab>%} unto, close upon {%or%} on; <div n="2"/>{@—1.@}
@@ -2277,7 +2277,7 @@ in the sixth generation, {%see%} {@sapiṇḍa.@}
 <LEND>
 <L>517<pc>123-a<k1>asunIti<k2>a/su-nIti
 {@ásu-nīti,@}¦ {%<ab>f.</ab>%} the leading {%or%} continuing of
-life (in the other world); spirit-life; spiritworld. <lbinfo n="spirit-world."/>
+life (in the other world); spirit-life; spirit-world. <lbinfo n="spirit-world."/>
  [<ab>acct</ab>, <ls n="wg,1274">1274.</ls>]
 <LEND>
 <L>518<pc>123-a<k1>asunva<k2>a-sunva/
@@ -2613,7 +2613,7 @@ butter.
 <LEND>
 <L>597<pc>125-a<k1>Atmaka<k2>Atmaka
 {@ātmaka,@}¦ {%for%} {@ātman@} {%in <ab>mg</ab>%} 4 {%at end of <ab>cpds</ab>%}
-[<ls n="wg,1222">1222,</ls> <ls n="wg,1307">1307]</ls>; {%<ab>e. g.</ab>%} {@māra_ātmaka,@} murdernatured, <lbinfo n="murder-natured,"/>
+[<ls n="wg,1222">1222,</ls> <ls n="wg,1307">1307]</ls>; {%<ab>e. g.</ab>%} {@māra_ātmaka,@} murder-natured, <lbinfo n="murder-natured,"/>
  murderous.
 <LEND>
 <L>598<pc>125-a<k1>Atman<k2>Atma/n
@@ -2627,7 +2627,7 @@ his, <ls n="lan,17,16">17<sup>16</sup></ls>; her, <ls n="lan,46,5">46<sup>5</sup
 {%at end of <ab>cpds</ab>, see%} {@ātmaka;@} <div n="2"/>{@—5.@} the
 soul <lang n="greek">κατ᾽ ἐξοχήν</lang>, the soul of the universe, <lbinfo n="uni-verse,"/>
  <ls n="lan,66,8">66<sup>8</sup></ls>. [<ab>cf.</ab> <lang n="greek">ἀϋτμήν</lang>, ‘breath’; <lang n="greek">ἀτμός</lang>,
-‘vapor’; <ab>AS.</ab> {%ǣ<lang n="greek">þ</lang>m, ǣ<lang n="greek">ð</lang>m,%} ‘breath’: for
+‘vapor’; <ab>AS.</ab> {%ǣ<lang n="greek">þ</lang>m, ǣðm,%} ‘breath’: for
 <ab>mg</ab>, <ab>cf.</ab> <lang n="greek">πνεῦμα</lang> and <ab>Lat.</ab> {%anima,%} ‘breath,
 spirit.’]
 <LEND>
@@ -2688,7 +2688,7 @@ personal risk.
 …as the beginning, {%<ab>i. e.</ab>%}…and so forth;
 {%or, the qualified noun being omitted, and%}
 {%the <ab>adj.</ab> <ab>cpd</ab> being used as <ab>subst.</ab>,%}…and
-so forth. [undonbtedly <ab>fr.</ab> {@√1dā + ā,@}
+so forth. [undoubtedly <ab>fr.</ab> {@√1dā + ā,@}
 ‘take,’ ‘a taking hold of, {%<ab>i. e.</ab>%} beginning,’
 <ls n="wg,1155">1155.</ls> 2e: for <ab>mg</ab>, <ab>cf.</ab> <ab>Lat.</ab> {%in-cipere,%} <ab>Ger.</ab>
 {%an-fangen,%} ‘take hold of, begin.’]
@@ -3553,7 +3553,7 @@ of, {%<ab>w.</ab> <ab>gen.</ab>%} [<ab>cf.</ab> <ab>AS.</ab> {%āg-an,%} ‘poss
 ‘possess another's property, be in debt’;
 thence the participial <ab>adj.</ab> {%āgen,%} <ab>Eng.</ab> <ab>adj.</ab>
 {%own,%} ‘proprius’; thence the <ab>denom.</ab> {%āgnian,%}
-<ab>Eng.</ab> verb {%own;%} further, to {%āh,%} preteritopresent  <lbinfo n="preterito-present"/>
+<ab>Eng.</ab> verb {%own;%} further, to {%āh,%} preterito-present
 of {%āgan,%} is formed a secondary
 past tense, {%āhte,%} ‘possessed,’ <ab>Eng.</ab> {%ought,%}
 ‘possessed’ (so Spenser), ‘was under obligation. <lbinfo n="obli-gation."/>
@@ -3709,7 +3709,7 @@ upper hand, victorious, <ls n="lan,81,21">81<sup>21</sup></ls>; <div n="2"/>{@�
 (on account of the Himālayas, {%<ab>cf.</ab>%}
 {@udañc@}); {@ā_uttarasmāt,@} as far as the
 north (side), <ls n="lan,105,10">105<sup>10</sup></ls>; <div n="2"/>{@—3.@} the left (because
-in prayer the face is turned castward:
+in prayer the face is turned eastward:
 {%<ab>cf.</ab>%} {@dakṣiṇa@}), <ls n="lan,99,22">99<sup>22</sup></ls>; <div n="2"/>{@—4.@} ({%like%} <lang n="greek">ὕστερος</lang>) the
 latter ({%<ab>opp.</ab>%} {@pūrva@}); later; following,
 <ls n="lan,99,22">99<sup>22</sup></ls>; {@-am,@} {%as <ab>adv.</ab>%} finally, last, <ls n="lan,104,12">104<sup>12</sup></ls>; <div n="2"/>{@—5.@}
@@ -4087,7 +4087,7 @@ food), having fasted; {%as <ab>n.</ab>%} [<ls n="wg,1176">1176a</ls>], fasting. 
 <L>873<pc>134-a<k1>uBa<k2>uBa/
 {@ubhá,@}¦ {%<ab>a.</ab>%} both. [<ab>cf.</ab> <lang n="greek">ἄμφω</lang>, <ab>Lat.</ab> {%ambō,%} <ab>AS.</ab>
 <ab>nom.</ab> <ab>fem.</ab> <ab>neut.</ab> {%bā,%} <ab>Goth.</ab> <ab>nom.</ab> <ab>neut.</ab> {%ba,%}
-<ab>nom.</ab> <ab>masc.</ab> {%bai,%} <ab>w.</ab> dental extension, {%bajo<lang n="greek">ϸ</lang>s,%}
+<ab>nom.</ab> <ab>masc.</ab> {%bai,%} <ab>w.</ab> dental extension, {%bajoϸs,%}
 all meaning ‘both,’ <ab>Eng.</ab> {%bo-th:%} <ab>orig.</ab>, perhaps, <lbinfo n="per-haps,"/>
  ‘couple,’ and akin <ab>w.</ab> {@√ubh.@}]
 <LEND>
@@ -4176,7 +4176,7 @@ see {@uṣ@} and {@usra.@}]
 {@usrá,@}¦ {%<ab>a.</ab>%} bright; of {%or%} pertaining to the
 dawn; {%as <ab>f.</ab>,%} {@usrā́,@} dawn. [{@√1vas,@} ‘light
 up,’ <ls n="wg,252">252,</ls> <ls n="wg,1188">1188,</ls> <ls n="wg,181">181a</ls>: <ab>w.</ab> {@us-rā́,@} <ab>cf.</ab> Old
-Germanic {%Aus-t-rō,%} a goddess of the (yeardawn, <lbinfo n="(year-dawn,"/>
+Germanic {%Aus-t-rō,%} a goddess of the (year-dawn, <lbinfo n="(year-dawn,"/>
  <ab>i. e.</ab>) spring-light, and <ab>AS.</ab> {%Eos-t-ra,%}
 the name of whose festival, {%easter,%} ‘Easterday, <lbinfo n="‘Easter-day,"/>
 ’ occurring in April, was transferred
@@ -4684,7 +4684,7 @@ Indra and Brihaspati. [{@índrābṛ́haspáti,@}
 {@ókas,@}¦ {%<ab>n.</ab>%} wonted place; home. [{@√uc.@}]
 <LEND>
 <L>983<pc>138-a<k1>oMkfta<k2>oM-kfta
-{@oṃ-kṛta,@}¦ {%<ab>a.</ab>%} having an uttered om, accompanled  <lbinfo n="accom-panled"/>
+{@oṃ-kṛta,@}¦ {%<ab>a.</ab>%} having an uttered om, accompanied  <lbinfo n="accom-panled"/>
 by om. [the natural order would
 require {@kṛtaum:@} order inverted to avoid
 such an undeclinable stem.]
@@ -4778,7 +4778,7 @@ nothing, <ls n="lan,39,21">39<sup>21</sup></ls>; no, no one, <ls n="lan,20,10">2
 ‘whence, how’; <lang n="greek">τί-ς, τί</lang>, <ab>Lat.</ab> {%qui-s, qui-d,%}
 <ab>AS.</ab> {%hwā, hwœ-t,%} <ab>Eng.</ab> {%who, wha-t;%} <ab>w.</ab> {@katará,@} <lbinfo n="ka-tará,"/>
 ‘which of twain,’ <ab>cf.</ab> <lang n="greek">κό-τερο-ς</lang>, <ab>Lat.</ab>
-{%uter,%} <ab>AS.</ab> {%hwœ-<lang n="greek">ð</lang>er,%} <ab>Eng.</ab> {%whe-ther,%} ‘which of
+{%uter,%} <ab>AS.</ab> {%hwœ-ðer,%} <ab>Eng.</ab> {%whe-ther,%} ‘which of
 twain’; <ab>w.</ab> {@ka@} as <ab>indef.</ab>, <ab>cf.</ab> <lang n="greek">τι-ς</lang> ‘any one.’]
 <LEND>
 <L>994<pc>138-b<k1>ka<k2>ka<h>2
@@ -4813,7 +4813,7 @@ the district Cutch.
 [Page139-a+ 50]
 <L>1001<pc>139-a<k1>kacCapa<k2>kacCa-pa
 {@kaccha-pa,@}¦ {%<ab>m.</ab>%} tortoise. [‘keeping, {%<ab>i. e.</ab>%}
-inhabiting the marsh,’ vbl 2 pa.]
+inhabiting the marsh,’ <ab>vbl</ab> 2 pa.]
 <LEND>
 <L>1002<pc>139-a<k1>kawaka<k2>kawaka
 {@kaṭaka,@}¦ {%<ab>m.</ab> <ab>n.</ab>%} dale.
@@ -5113,7 +5113,7 @@ of a place.
 <L>1073<pc>140-b<k1>kavi<k2>kavi/
 {@kaví,@}¦ {%<ab>a.</ab>%} wise, possessed of insight (of gods,
 {%<ab>esp.</ab>%} Agni); {%as <ab>m.</ab>%} wise man, seer, sage;
-poet; {%<ab>pl.</ab>%} wise men of eld (whose spirits
+poet; {%<ab>pl.</ab>%} wise men of old (whose spirits
 hover about the sun), <ls n="lan,91,12">91<sup>12</sup></ls>. [<ab>prop.</ab> ‘seer,’
 {@√kū,@} ‘see,’ for {@*skū:@} <ab>cf.</ab> <lang n="greek">θυοσκόυς, *-σκοϝο-ς</lang>,
 ‘inspecting the sacrifice’; <ab>Lat.</ab> {%cav-ēre,%}
@@ -5592,7 +5592,7 @@ obeisance, <ls n="lan,36,7">36<sup>7</sup></ls>; {%<ab>caus.</ab> <ab>equiv.</ab
  <lang n="greek">Κρό-νος</lang>, an old harvest-god, ‘Perficus, <lbinfo n="‘Per-ficus,"/>
  the Completer, Ripener’; <ab>Lat.</ab> {%cer-us,%}
 ‘creator’; <lang n="greek">κραίνω</lang>, ‘accomplish’; <ab>Lat.</ab>
-{%creāre,%} ‘create’: {%see%} {@kratu:@} <ab>orig.</ab> rootform, <lbinfo n="root-form,"/>
+{%creāre,%} ‘create’: {%see%} {@kratu:@} <ab>orig.</ab> root-form, 
  perhaps, {@skṛ,@} <ls n="wg,1087">1087d</ls>.]
 <div n="p"/>{@+ adhi,@} put over; put in office.
 <div n="p"/>{@+ apa,@} put off; injure, {%<ab>opp.</ab> of%} {@upakṛ.@}
@@ -6077,7 +6077,7 @@ the distance of a Kos. [{@krośa-mātra +@}
 <LEND>
 <L>1259<pc>146-a<k1>kza<k2>kza
 {@kṣa,@}¦ {%as collateral form of%} {@√1kṣi@} {%in%} {@kṣa-tra,@}
-{%and as vbl of the same, <ab>w.</ab> the <ab>mg</ab>%} ‘abiding,
+{%and as <ab>vbl</ab> of the same, <ab>w.</ab> the <ab>mg</ab>%} ‘abiding,
 situate,’ {%in%} {@antari-kṣa.@}
 <LEND>
 <L>1260<pc>146-a<k1>kzaRa<k2>kzaRa
@@ -6915,7 +6915,7 @@ go {%lose their special reference to cattle and%}
 ‘ox, cow’; <ab>AS.</ab> {%cū,%} <ab>Eng.</ab> {%cow.%}]
 <LEND>
 <L>1399<pc>151-b<k1>goGna<k2>go-Gna/
-{@go-ghná,@}¦ {%<ab>a.</ab>%} kine-killing; {%as <ab>m.</ab>%} cowslayer. <lbinfo n="cow-slayer."/>
+{@go-ghná,@}¦ {%<ab>a.</ab>%} kine-killing; {%as <ab>m.</ab>%} cow-slayer. <lbinfo n="cow-slayer."/>
 
 <LEND>
 <L>1400<pc>151-b<k1>gotama<k2>go/tama
@@ -7195,7 +7195,6 @@ and…, <ls n="lan,85,5">85<sup>5</sup></ls>; {@sa ca,@} {%often at <ab>beg.</ab
 ({%<ab>e. g.</ab>%} <ls n="lan,24,23">24<sup>23</sup></ls>; {%so%} <ls n="lan,34,18">34<sup>18</sup></ls>; <ls n="lan,41,7">41<sup>7</sup></ls>); <div n="2"/>{@—3. anyac ca,@}
 {@api ca, kiṃ ca, tathā ca,@} {%joining two proverbs %} <lbinfo n="prov-erbs"/>
 {%of like drift,%} moreover, further, likewise; <lbinfo n="like-wise;"/>
-
 <div n="1"/><div n="2"/>{@—4.@} {%otiose,%} <ls n="lan,6,9">6<sup>9</sup></ls>; <div n="2"/>{@—5.@} {%connecting things%}
 {%contrasted:%} but, <ls n="lan,8,16">8<sup>16</sup></ls>, <ls n="lan,17,20">17<sup>20</sup></ls>, <ls n="lan,18,2, 3">18<sup>2, 3</sup></ls>, <ls n="lan,19,2">19<sup>2</sup></ls>; and
 yet, <ls n="lan,1,12">1<sup>12</sup></ls>, <ls n="lan,3,20">3<sup>20</sup></ls>; <div n="2"/>{@—6.@} (even, {%concessively, <ab>i. e.</ab>%})
@@ -7211,7 +7210,7 @@ for {@ca@} 8, <ab>cf.</ab> <lang n="greek">-τε</lang> and <lang n="greek">-κ�
 each.’]
 <LEND>
 <L>1449<pc>153-b<k1>cakra<k2>cakra/
-{@cakrá,@}¦ {%<ab>n.</ab>%} <div n="2"/>{@—1.@} wheel; chariot-wheel, wagonwheel; <lbinfo n="wagon-wheel;"/>
+{@cakrá,@}¦ {%<ab>n.</ab>%} <div n="2"/>{@—1.@} wheel; chariot-wheel, wagon-wheel; <lbinfo n="wagon-wheel;"/>
  <div n="2"/>{@—2.@} {%by synecdoche,%} wagon, {%in%} {@pīṭhacakra.@} <lbinfo n="pīṭha-cakra."/>
 [<ab>prob.</ab> reduplicated form, {@ca-kra,@}
 <ab>fr.</ab> {@√*kṛ@} or {@*kḷ,@} ‘roll,’ <ab>cf.</ab> <lang n="greek">κυλίω</lang>, ‘roll’: <ab>w.</ab>
@@ -7482,7 +7481,7 @@ and <ls n="wg,1208">1208f</ls>.]
 <L>1497<pc>155-b<k1>cAturmAsya<k2>cAturmAsya/
 {@cāturmāsyá,@}¦ {%<ab>n.</ab>%} a sacrifice to be made
 every four months, {%<ab>i. e.</ab>%} at the beginning
-of each of the three scasons. [{@catur +@}
+of each of the three seasons. [{@catur +@}
 {@māsa,@} <ls n="wg,1211">1211.</ls>]
 <LEND>
 <L>1498<pc>155-b<k1>cAndrAyaRa<k2>cAndrAyaRa
@@ -7848,7 +7847,7 @@ knee to ankle; shin. [<ab>prob.</ab> <ab>fr.</ab> {@√1hā,@}
 <LEND>
 <L>1566<pc>157-b<k1>jaWara<k2>jaWa/ra
 {@jaṭhára,@}¦ {%<ab>n.</ab>%} belly; womb. [akin are
-<ab>Goth.</ab> {%kil<lang n="greek">ϸ</lang>ei,%} ‘womb,’ <ab>AS.</ab> {%cild,%} <ab>Eng.</ab>
+<ab>Goth.</ab> {%kilϸei,%} ‘womb,’ <ab>AS.</ab> {%cild,%} <ab>Eng.</ab>
 {%child.%}]
 <LEND>
 <L>1567<pc>157-b<k1>jan<k2>jan
@@ -8265,7 +8264,7 @@ philosophy. [{@√jñā,@} <ls n="wg,1150">1150.</ls>]
 <L>1651<pc>160-a<k1>jyAyAMs<k2>jyA/yAMs
 {@jyā́yāṃs,@}¦ {%<ab>a.</ab>%} stronger {%or%} superior; older.
 [<ab>comp.</ab> of {@jyā,@} ‘being strong {%or%} superior,’
-the vbl of {@√jyā,@} <ls n="wg,470">470<sup>2, 3.</sup></ls>]
+the <ab>vbl</ab> of {@√jyā,@} <ls n="wg,470">470<sup>2, 3.</sup></ls>]
 <LEND>
 <L>1652<pc>160-a<k1>jyut<k2>jyut
 {@√jyut@}¦ ({@jyótati; -jyótya@}). light. [<ab>fr.</ab>
@@ -8273,7 +8272,7 @@ the vbl of {@√jyā,@} <ls n="wg,470">470<sup>2, 3.</sup></ls>]
 <LEND>
 <L>1653<pc>160-a<k1>jyezWa<k2>jye/zWa
 {@jyéṣṭha,@}¦ {%later%} {@jyeṣṭhá,@} {%<ab>a.</ab>%} best; principal;
-first; oldest. [<ab>superl.</ab> of {@jyā,@} the vbl of
+first; oldest. [<ab>superl.</ab> of {@jyā,@} the <ab>vbl</ab> of
 {@√jyā,@} <ls n="wg,470">470<sup>3</sup></ls>. see {@jyā́yāṃs.@}]
 <LEND>
 <L>1654<pc>160-a<k1>jyezWapraTama<k2>jyezWa-praTama
@@ -8351,8 +8350,8 @@ tell thou, {%<ab>i. e.</ab>%} do thou tell us then, <ls n="lan,96,13">96<sup>13<
 <div n="2"/>{@—4.@} {%attenuated in <ab>mg</ab> (like the Greek <lang n="greek">ὁ</lang>) to a%}
 {%simple article:%} {@te devās,@} the gods, <ls n="lan,92,14">92<sup>14</sup></ls>;
 {@sa bhīmas, Bhīma,@} <ls n="lan,1,15">1<sup>15</sup></ls>. [<ab>w.</ab> {@sa, sā, tad,@}
-<ab>cf.</ab> <lang n="greek">ὁ, ἡ, τό</lang>, <ab>Goth.</ab> {%sa, so, <lang n="greek">ϸ</lang>ata,%} <ab>AS.</ab> {%se, seō,%}
-{%<lang n="greek">ð</lang>œt,%} ‘he, she, it,’ <ab>Eng.</ab> {%that;%} <ab>cf.</ab> also <ab>Lat.</ab>
+<ab>cf.</ab> <lang n="greek">ὁ, ἡ, τό</lang>, <ab>Goth.</ab> {%sa, so, ϸata,%} <ab>AS.</ab> {%se, seō,%}
+{%ðœt,%} ‘he, she, it,’ <ab>Eng.</ab> {%that;%} <ab>cf.</ab> also <ab>Lat.</ab>
 {%is-tud,%} ‘that.’]
 <LEND>
 <L>1667<pc>160-b<k1>takz<k2>takz
@@ -8584,10 +8583,10 @@ light), beshine; stretch (a bow).
 <L>1709<pc>162-a<k1>tan<k2>tan<h>2
 {@√2tan@}¦ ({@tányati@}). resound. [<ab>cf.</ab> <lang n="greek">τόνος</lang>,
 ‘tone’; <ab>Lat.</ab> {%tonare,%} ‘thunder’; <ab>AS.</ab> noun
-{%<lang n="greek">ϸ</lang>unor,%} ‘thunder,’ whence <ab>denom.</ab> verb
-{%<lang n="greek">ϸ</lang>unrian,%} <ab>Eng.</ab> {%thunder;%} <ab>AS.</ab> {%<lang n="greek">ϸ</lang>unres dœg,%}
+{%ϸunor,%} ‘thunder,’ whence <ab>denom.</ab> verb
+{%ϸunrian,%} <ab>Eng.</ab> {%thunder;%} <ab>AS.</ab> {%ϸunres dœg,%}
 <ab>Eng.</ab> {%Thurs-day,%} ‘day sacred to the Old
-Germanic god of the thunder-storm, <lang n="greek">ϸ</lang>onar
+Germanic god of the thunder-storm, ϸonar
 {%or%} Thor’: see {@tanyatú,@} ‘thunder.’]
 <LEND>
 <L>1710<pc>162-a<k1>tanu<k2>tanu/
@@ -8652,7 +8651,7 @@ fundamental doctrine; division of a work.
 make glowing; burn, {%<ab>trans.</ab>;%} <div n="2"/>{@—3.@} {%<ab>fig.</ab>%} ({%like%}
 {@√śuc@}), distress, pain; <div n="2"/>{@—4.@} {%<ab>pass.</ab>%} suffer;
 suffer voluntarily, castigate one's self, do
-penance. [<ab>cf.</ab> <ab>Lat.</ab> {%tepēre,%} <ab>AS.</ab> {%<lang n="greek">ϸ</lang>efian,%} ‘be
+penance. [<ab>cf.</ab> <ab>Lat.</ab> {%tepēre,%} <ab>AS.</ab> {%ϸefian,%} ‘be
 warm.’]
 <div n="p"/>{@+ upa,@} heat; become sick; sicken, {%used%}
 {%<ab>impers.</ab>, <ab>w.</ab> <ab>acc.</ab> of the person,%} <ls n="lan,101,3">101<sup>3</sup></ls>.
@@ -8716,7 +8715,7 @@ darkness.
 {@taraṃ-ga,@}¦ {%<ab>m.</ab>%} wave; wave {%as%} subdivision
 of a work entitled “ocean,” <ls n="lan,56,13">56<sup>13</sup></ls>, {%<ab>cf.</ab>%} <ls n="lan,45,1">45<sup>1</sup></ls><ab>N.</ab>
 [<ab>lit.</ab> ‘which goes crossing the water’:
-{@taram,@} grd of {@√tṛ,@} <ls n="wg,995">995,</ls> <ab>cf.</ab> <ls n="wg,1250">1250a</ls>.]
+{@taram,@} <ab>grd</ab> of {@√tṛ,@} <ls n="wg,995">995,</ls> <ab>cf.</ab> <ls n="wg,1250">1250a</ls>.]
 <LEND>
 <L>1735<pc>163-a<k1>taraRi<k2>tara/Ri
 {@taráṇi,@}¦ {%<ab>a.</ab>%} pressing onward. [{@√tṛ,@} <ls n="wg,1159">1159b</ls>.]
@@ -8895,7 +8894,7 @@ crossing {%or%} going into the water,’ {@√tṛ.@}]
 {@√tu@}¦ ({@távīti@} [<ls n="wg,633">633]</ls>; {@tūtā́va@} [<ls n="wg,786">786<sup>4</sup></ls>]). have
 power; be strong. [<ab>orig.</ab> ‘swell, grow’:
 <ab>cf.</ab> <lang n="greek">τύ-λη</lang>, ‘swelling, lump,’ Corcyraean
-<lang n="greek">τῦ-μο-ς</lang>, ‘mound’; <ab>AS.</ab> {%<lang n="greek">ϸ</lang>ūma,%} ‘the big
+<lang n="greek">τῦ-μο-ς</lang>, ‘mound’; <ab>AS.</ab> {%ϸūma,%} ‘the big
 (finger),’ <ab>Eng.</ab> {%thumb;%} further, {@túm-ra,@}
 ‘fat, strong’; <ab>Lat.</ab> {%tum-ulus,%} ‘mound,’
 {%tum-or,%} ‘swelling.’]
@@ -8956,7 +8955,7 @@ raise up a thing so as to find its weight;
 weigh; <div n="2"/>{@—3.@} counterpoise; <div n="2"/>{@—4.@} equal.
 [<ab>orig.</ab> <ab>mg</ab>, ‘bear, {%<ab>i. e.</ab>%} hold up’: in the cognates, <lbinfo n="cog-nates,"/>
  the <ab>mg</ab> ‘bear, {%<ab>i. e.</ab>%} endure’ appears:
-<ab>cf.</ab> <ab>Lat.</ab> {%tul-i,%} ‘endured’; <ab>Goth.</ab> {%<lang n="greek">ϸ</lang>ul-an,%}
+<ab>cf.</ab> <ab>Lat.</ab> {%tul-i,%} ‘endured’; <ab>Goth.</ab> {%ϸul-an,%}
 <ab>Eng.</ab> {%thole,%} ‘endure’; <ab>Ger.</ab> {%Ge-dul-d,%} ‘endurance’; <lbinfo n="‘en-durance’;"/>
  also <lang n="greek">ἔ-τλη-ν</lang>, ‘bore,’ <lang n="greek">πολύ-τλᾱ-ς</lang>,
 ‘much enduring’; <ab>Lat.</ab> {%lātus, *tlā-tus,%}
@@ -9011,7 +9010,7 @@ gratify.
 over (a water, the sky); <div n="2"/>{@—2.@} get across {%or%}
 to the end; get through, escape; survive.
 [<ab>cf.</ab> <lang n="greek">τέρμων</lang>, <ab>Lat.</ab> {%terminus,%} ‘boundary’:
-see {@√trā@} and {@tiras:@} for treatment of rootvowel, <lbinfo n="root-vowel,"/>
+see {@√trā@} and {@tiras:@} for treatment of root-vowel, <lbinfo n="root-vowel,"/>
  see <ls n="wg,242">242</ls>.]
 <div n="p"/>{@+ ava,@} descend, {%<ab>esp.</ab>%} from heaven to
 earth; come down, {%<ab>esp.</ab>%} of divine beings
@@ -9055,7 +9054,7 @@ please,’ <lang n="greek">τρέφω</lang>, ‘nourish.’]
 <div n="p"/>{@+ ā,@} become content {%or%} glad.
 <LEND>
 <L>1797<pc>165-a<k1>tfp<k2>tfp<h>2
-{@√2tṛp,@}¦ steal, {%not actually occurring in vbl%}
+{@√2tṛp,@}¦ steal, {%not actually occurring in <ab>vbl</ab>%}
 {%forms, but rendered probable by the <ab>deriv.</ab>%}
 {@tṛpu,@} ‘thief,’ {%the <ab>cpds</ab>%} {@asu-@} {%and%} {@paśu-tṛp,@}
 {%and by the Avestan%} {@√tṛf,@} ‘steal.’
@@ -9459,7 +9458,7 @@ as curds.’]
 [Page167-b+ 50]
 <L>1880<pc>167-b<k1>dant<k2>da/nt
 {@dánt@}¦ [<ls n="wg,396">396]</ls>, {%<ab>m.</ab>%} tooth. [<ab>cf.</ab> <lang n="greek">ὀδόντα</lang>, <ab>Lat.</ab>
-{%dentem,%} <ab>Goth.</ab> {%tun<lang n="greek">ϸ</lang>us,%} <ab>AS.</ab> {%tō<lang n="greek">ð</lang>,%} <ab>Eng.</ab> {%tooth,%}
+{%dentem,%} <ab>Goth.</ab> {%tunϸus,%} <ab>AS.</ab> {%tōð,%} <ab>Eng.</ab> {%tooth,%}
 Old High <ab>Ger.</ab> {%zand,%} <ab>Ger.</ab> {%Zahn,%} ‘tooth.’]
 <LEND>
 <L>1881<pc>167-b<k1>danta<k2>da/nta
@@ -9700,7 +9699,7 @@ of alms-giving.
 <LEND>
 <L>1923<pc>169-a<k1>dAnava<k2>dAnava/
 {@dānavá,@}¦ {%<ab>m.</ab>%} child of Dānu, a Dānava, one
-of a class of demons, focs of the gods;
+of a class of demons, foes of the gods;
 Titan. [{@1dā́nu,@} <ls n="wg,1208">1208c</ls>.]
 <LEND>
 <L>1924<pc>169-a<k1>dAnu<k2>dA/nu<h>1
@@ -10023,7 +10022,7 @@ foolish.
 {@-ā,@} {%<ab>f.</ab>%} ugly woman. [<ab>acct</ab>, <ls n="wg,1304">1304b</ls>.]
 <LEND>
 <L>1986<pc>170-b<k1>durBikza<k2>dur-Bikza
-{@dur-bhikṣa,@}¦ {%<ab>a.</ab>%} (time) having its almsgetting  <lbinfo n="alms-getting"/>
+{@dur-bhikṣa,@}¦ {%<ab>a.</ab>%} (time) having its alms-getting  <lbinfo n="alms-getting"/>
 hard, {%<ab>i. e.</ab>%} in which alms-getting is
 hard; {%as <ab>n.</ab>%} famine. [{@bhikṣā.@}]
 <LEND>
@@ -10166,7 +10165,7 @@ send off. [{@dūra,@} <ls n="wg,1094">1094.</ls>]
 <lang n="greek">δίλλω</lang>, ‘glance at’; <ab>AS.</ab> {%tilian,%} 'be intent
 upon, attend to, {%<ab>esp.</ab>%} the earth, {%<ab>i. e.</ab>%} till (the
 soil),’ <ab>Eng.</ab> {%till;%} <ab>Ger.</ab> {%zielen,%} ‘aim at’; <ab>AS.</ab>
-{%eor<lang n="greek">ð</lang>-tilia,%} ‘earth-tiller.’]
+{%eorð-tilia,%} ‘earth-tiller.’]
 <div n="p"/>{@+ ā,@} (look at, {%<ab>i. e.</ab>%}) regard; {%<ab>pass.</ab>%} be regarded, <lbinfo n="re-garded,"/>
  {%<ab>i. e.</ab>%} respected.
 <LEND>
@@ -11107,7 +11106,7 @@ whence {%schrew-ed,%} ‘cursed, bad,’ <ab>Eng.</ab>
 swindlers.
 <LEND>
 <L>2181<pc>177-b<k1>DUsara<k2>DUsara
-{@dhūsara,@}¦ {%<ab>a.</ab>%} dusted over, dusty, dustcolored, <lbinfo n="dust-colored,"/>
+{@dhūsara,@}¦ {%<ab>a.</ab>%} dusted over, dusty, dust-colored, <lbinfo n="dust-colored,"/>
  gray. [{@√dhvaṃs, dhvas,@} <ls n="wg,1188">1188d</ls>:
 <ab>cf.</ab> <ls n="wg,181">181a</ls>.]
 <LEND>
@@ -11233,7 +11232,7 @@ bestrewn, covered over, {%<ab>esp.</ab>%} with dust.
 dark; <div n="2"/>{@—2.@} become extinguished; {%--<ab>caus.</ab>%}
 <div n="2"/>{@—1.@} envelope, cover over; <div n="2"/>{@—2.@} blacken.
 [perhaps akin <ab>w.</ab> {@√dhvaṃs:@} see {@dhūma:@}
-<ab>cf.</ab> <ab>AS.</ab> {%dunn,%} <ab>Eng.</ab> {%dun,%} ‘dark, brownishblack. <lbinfo n="brownish-black."/>
+<ab>cf.</ab> <ab>AS.</ab> {%dunn,%} <ab>Eng.</ab> {%dun,%} ‘dark, brownish-black. <lbinfo n="brownish-black."/>
 ’]
 <LEND>
 <L>2200<pc>178-b<k1>Dvan<k2>Dvan<h>2
@@ -11295,7 +11294,7 @@ not exactly, <ls n="lan,93,5">93<sup>5</sup></ls>; <div n="2"/>{@—1d.@} {%tant
 <lang n="greek">νη-κερδές</lang>, ‘gain-less,’ {%nĕ-fas,%} ‘not right,
 wrong’; <ab>AS.</ab> and Old <ab>Eng.</ab> {%ne,%} ‘not’; <ab>AS.</ab>
 {%nā (ne + ā),%} ‘not ever, never, no,’ <ab>Eng.</ab> {%no;%}
-<ab>Eng.</ab> {%na-%} in {%nathless,%} <ab>AS.</ab> {%nā <lang n="greek">ϸ</lang>ē lœs,%} ‘not
+<ab>Eng.</ab> {%na-%} in {%nathless,%} <ab>AS.</ab> {%nā ϸē lœs,%} ‘not
 the less’; <ab>Eng.</ab> {%n-%} in {%n-ever, n-aught,%} <ab>etc.</ab>]
 <LEND>
 <L>2205<pc>179-a<k1>nakis<k2>na/kis
@@ -12095,7 +12094,7 @@ insipid, <ls n="lan,54,11">54<sup>11</sup></ls>. [{@nis + rasa,@} <ls n="wg,174"
 <L>2361<pc>183-b<k1>nIla<k2>nI/la
 {@nī́la,@}¦ {%<ab>a.</ab>%} dark-colored, {%<ab>esp.</ab>%} dark blue; {%as <ab>n.</ab>%}
 indigo; {@nīlī,@} {%<ab>f.</ab>%} indigo. [hence, through
-the Arabic {%an-nîl,%} for {%al-nîl,%} ‘the indigoplant, <lbinfo n="indigo-plant,"/>
+the Arabic {%an-nîl,%} for {%al-nîl,%} ‘the indigo-plant, <lbinfo n="indigo-plant,"/>
 ’ come <ab>Eng.</ab> {%anil%} and {%aniline.%}]
 <LEND>
 <L>2362<pc>183-b<k1>nIlapawa<k2>nIla-pawa
@@ -12441,7 +12440,7 @@ lord; ruler, <ls n="lan,4,2">4<sup>2</sup></ls>; <div n="2"/>{@—2.@} {%then%} 
 husband, <ls n="lan,9,7">9<sup>7</sup></ls>, <ls n="lan,89,5">89<sup>5</sup></ls>, <ls n="lan,86,19">86<sup>19</sup></ls>, <ls n="lan,64,13">64<sup>13</sup></ls>. [<ab>cf.</ab> <lang n="greek">πόσις</lang>,
 ‘husband’; <ab>Lat.</ab> {%impos,%} stem {%im-pot,%} ‘not
 [Page186-a+ 50]
-master of’; <ab>Goth.</ab> {%fa<lang n="greek">ϸ</lang>s%} in {%bru<lang n="greek">ϸ</lang>-fa<lang n="greek">ϸ</lang>-s,%} ‘bridegroom. <lbinfo n="‘bride-groom."/>
+master of’; <ab>Goth.</ab> {%faϸs%} in {%bruϸ-faϸ-s,%} ‘bridegroom. <lbinfo n="‘bride-groom."/>
 ’]
 <LEND>
 <L>2432<pc>186-a<k1>patiGnI<k2>pati-GnI
@@ -12679,7 +12678,7 @@ the logical relation of the two parts--so,
 {%<ab>e. g.</ab>,%} in {@parasparaṃ nindanti,@} ‘they scold,
 the one the other’--but have come to
 be stereotyped and used often where the
-logical relation would require other caseforms:  <lbinfo n="case-forms:"/>
+logical relation would require other case forms:  <lbinfo n="case-forms:"/>
 <ab>cf.</ab> {@anyonya.@}]
 <LEND>
 <L>2472<pc>187-b<k1>parasparAdin<k2>parasparAdin
@@ -12771,7 +12770,7 @@ and c end.]
 {@pari-vatsará,@}¦ {%<ab>m.</ab>%} a full year. [<ls n="wg,1289">1289.</ls>]
 <LEND>
 <L>2491<pc>188-a<k1>parivartin<k2>parivartin
-{@parivartin,@}¦ {%<ab>a.</ab>%} turning round, cireling,
+{@parivartin,@}¦ {%<ab>a.</ab>%} turning round, circling,
 constantly returning into itself. [{@√vṛt +@}
 {@pari.@}]
 <LEND>
@@ -12870,7 +12869,7 @@ winnowing-fan. [{@√pū,@} <ls n="wg,1150">1150.</ls>]
 <L>2511<pc>188-b<k1>paS<k2>paS<h>1
 {@√1paś,@}¦ {%<ab>orig.</ab>%} {@spaś@} ({@páśyati, -te;@} {%in Veda:%}
 {@paspaśé; áspaṣṭa@} [<ls n="wg,834">834c</ls>]; {@spaṣṭá;@} {%later:%}
-{@dadárśa,@} <ab>etc.</ab>). <div n="2"/>{@—1.@} see; <div n="2"/>{@—2.@} perecive;
+{@dadárśa,@} <ab>etc.</ab>). <div n="2"/>{@—1.@} see; <div n="2"/>{@—2.@} perceive;
 behold; <div n="2"/>{@—3.@} look; <div n="2"/>{@—4.@} look on, <ls n="lan,39,7">39<sup>7</sup></ls>;
 gaze, <ls n="lan,13,7">13<sup>7</sup></ls>; <div n="2"/>{@—5.@} (see {%<ab>i. e.</ab>%}) experience, <ls n="lan,20,16">20<sup>16</sup></ls>,
 <ls n="lan,35,1">35<sup>1</sup></ls>; <div n="2"/>{@—6.@} look upon, <ls n="lan,21,23">21<sup>23</sup></ls>, <ls n="lan,40,15">40<sup>15</sup></ls>; consider
@@ -12991,7 +12990,7 @@ keep; {%for so-called <ab>caus.</ab>, see%} {@pālaya.@}
 [{@pā́ka + dū́rvā:@} <ab>acct</ab>, <ls n="wg,1280">1280<sup>2</sup></ls>.]
 <LEND>
 <L>2531<pc>189-a<k1>pAwala<k2>pAwala
-{@pāṭala,@}¦ {%<ab>a.</ab>%} palc red; {%as <ab>m.</ab>%} Bignonia
+{@pāṭala,@}¦ {%<ab>a.</ab>%} pale red; {%as <ab>m.</ab>%} Bignonia
 suaveolens.
 <LEND>
 <L>2532<pc>189-a<k1>pAwali<k2>pAwali
@@ -13083,7 +13082,7 @@ fourth (of a time). [{@pāda.@}]
 <LEND>
 <L>2550<pc>189-b<k1>pAna<k2>pA/na
 {@pā́na,@}¦ <div n="2"/>{@—1.@} {%<ab>n.</ab>%} the drinking ({%<ab>esp.</ab>%} of strong
-drink); <div n="2"/>{@—2.@} {%perhaps as vbl <ab>adj.</ab>%} drenching, <lbinfo n="drench-ing,"/>
+drink); <div n="2"/>{@—2.@} {%perhaps as <ab>vbl</ab> <ab>adj.</ab>%} drenching, <lbinfo n="drench-ing,"/>
  {%<ab>i. e.</ab>%} tränkend. [{@√1pā,@} ‘drink,’
 <ls n="wg,1150">1150.</ls>]
 <LEND>
@@ -13648,7 +13647,7 @@ full; {@sampūrṇa,@} full.
 over, cross’; <lang n="greek">πόρος</lang>, ‘passage, {%<ab>i. e.</ab>%} ford,
 ferry, bridge’; <ab>Lat.</ab> {%por-ta,%} ‘gate’; <ab>Eng.</ab>
 {%fare,%} ‘get on’; {%ferry, for-d;%} Avestan
-peretu, ‘bridge,’ and <lang n="greek">Εὐ-φράτης</lang>, ‘the wellbridged  <lbinfo n="well-bridged"/>
+peretu, ‘bridge,’ and <lang n="greek">Εὐ-φράτης</lang>, ‘the well-bridged  <lbinfo n="well-bridged"/>
 (stream)’; also <lang n="greek">Βόσ-πορος</lang> and
 {%Ox-ford.%}]
 <div n="p"/>{@+ ati,@} bring across.
@@ -13717,7 +13716,7 @@ king.
 <L>2677<pc>193-b<k1>pfTu<k2>pfTu/
 {@pṛthú,@}¦ {%<ab>f.</ab>%} {@pṛthvī́,@} {%<ab>a.</ab>%} wide, broad. [{@√prath,@}
 <ls n="wg,241">241</ls>: <ab>cf.</ab> <lang n="greek">πλατύς</lang>, ‘wide’: akin are Old
-<ab>Eng.</ab> {%fla<lang n="greek">ϸ</lang>e,%} <ab>Ger.</ab> {%Fladen,%} ‘broad, thin cake,’
+<ab>Eng.</ab> {%flaϸe,%} <ab>Ger.</ab> {%Fladen,%} ‘broad, thin cake,’
 Old High <ab>Ger.</ab> <ab>acc.</ab> <ab>s.</ab> {%fladon,%} ‘sacrificial
 cake,’ whence, through French {%flan,%} ‘flat
 cake,’ comes the <ab>Eng.</ab> {%flawn,%} ‘flat custard
@@ -13731,7 +13730,7 @@ cake,’ comes the <ab>Eng.</ab> {%flawn,%} ‘flat custard
 {%forhana,%} whence <ab>Ger.</ab> {%Forelle,%} ‘trout.’]
 <LEND>
 <L>2679<pc>193-b<k1>pfzadAjya<k2>pfzad-Ajya/
-{@pṛṣad-ājyá,@}¦ {%<ab>n.</ab>%} speekled butter, ghee
+{@pṛṣad-ājyá,@}¦ {%<ab>n.</ab>%} speckled butter, ghee
 clotted with curds. [{@pṛ́ṣant.@}]
 <LEND>
 <L>2680<pc>193-b<k1>pfzant<k2>pf/zant
@@ -14518,7 +14517,7 @@ modern <ab>mg</ab> ‘free’ is common also to the
 [Page198-b+ 50]
 must have been ‘loving {%or%} loved, kindly
 treated, spared’ (and so ‘free’), as is
-shown by the <ab>Goth.</ab> abstract {%frija-<lang n="greek">ϸ</lang>va,%}
+shown by the <ab>Goth.</ab> abstract {%frija-ϸva,%}
 <ab>AS.</ab> {%freōd,%} ‘love’: for <ab>mg</ab> 1b, <ab>cf.</ab> <ab>AS.</ab>
 {%freō,%} ‘woman’: <ab>cf.</ab> also Old High <ab>Ger.</ab>
 {%Frīa,%} ‘The Loving One,’ in {%frīā tag,%} <ab>Eng.</ab>
@@ -14542,9 +14541,9 @@ in; love, be favorably inclined to; <div n="2"/>{@—3.@}
 {@prītá:@} glad, pleased, satisfied; loved,
 dear. [<ab>cf.</ab> <ab>Goth.</ab> {%frijon,%} ‘love’; {%frijonds,%}
 <ab>AS.</ab> {%freōnd,%} ‘loving, {%<ab>i. e.</ab>%} friend,’ <ab>Eng.</ab>
-{%friend;%} also <ab>AS.</ab> {%freo-<lang n="greek">ϸ</lang>o,%} ‘a sparing {%or%}
+{%friend;%} also <ab>AS.</ab> {%freo-ϸo,%} ‘a sparing {%or%}
 indulgence, favor, grace, peace,’ <ab>Ger.</ab>
-{%Friede,%} ‘peace’; <ab>Goth.</ab> {%Fri<lang n="greek">ϸ</lang>a-reiks,%} <ab>Eng.</ab>
+{%Friede,%} ‘peace’; <ab>Goth.</ab> {%Friϸa-reiks,%} <ab>Eng.</ab>
 {%Frede-rick,%} ‘grace-ruler, gracious prince’:
 see also under {@priyá.@}]
 <LEND>
@@ -14755,7 +14754,7 @@ killing a beast, its liver, lights, heart,’
 and, <ab>fig.</ab>, ‘courage.’]
 <LEND>
 <L>2864<pc>200-a<k1>barhiRa<k2>barhiRa
-{@barhiṇa,@}¦ {%<ab>m.</ab>%} peacock, <ls n="lan,68,2">68<sup>2</sup></ls>. [transitionstem  <lbinfo n="[transition-stem"/>
+{@barhiṇa,@}¦ {%<ab>m.</ab>%} peacock, <ls n="lan,68,2">68<sup>2</sup></ls>. [transition stem  
 <ab>fr.</ab> {@barhin,@} <ls n="wg,1223">1223f</ls>, <ls n="wg,1209">1209c</ls>.]
 <LEND>
 <L>2865<pc>200-a<k1>barhin<k2>barhin
@@ -14983,7 +14982,7 @@ to notice {%or%} understand; <div n="2"/>{@—6b.@} teach;
 announce to.
 <div n="1"/>[for {@*bhudh,@} <ab>orig.</ab> ‘be awake,’ <ab>cf.</ab>
 Church Slavonic {%bŭd-ĕti,%} ‘be awake’: the
-cognate words of the related lauguages
+cognate words of the related languages
 agree closely in form, but show considerable  <lbinfo n="consider-able"/>
 diversity of <ab>mg</ab>s: <ab>mg</ab> 4 mediates
 the transition to the idea of the Greek
@@ -15177,7 +15176,7 @@ of the priestly caste, Brahmanee. [{@bráhman,@} <lbinfo n="[bráh-man,"/>
 [Page203-a+ 48]
 <L>2933<pc>203-a<k1>brAhmaRa<k2>brA/hmaRa
 {@brā́hmaṇa,@}¦ {%<ab>n.</ab>%} (of a {@brahmán,@} of a priest
-{%or%} Brahman, {%<ab>i. e.</ab>%}) the dietum of a priest
+{%or%} Brahman, {%<ab>i. e.</ab>%}) the dictum of a priest
 on matters of faith and cultus; {%<ab>esp.</ab>%} a
 Brāhmana, {%as%} designation of one of a
 class of Vedic writings which contain
@@ -15691,7 +15690,7 @@ be afraid of ({%<ab>abl.</ab>%}); {@bhīta,@} having feared,
 frightened; {%<ab>caus.</ab>%} affright. [<ab>w.</ab> {@bi-bhé-ti,@}
 <ab>cf.</ab> Old High <ab>Ger.</ab> {%bi-bē-t,%} ‘trembles,’ whose
 {%bi-%} is syllable of reduplication, <ab>Ger.</ab> {%bebt,%}
-<ab>AS.</ab> {%beofa<lang n="greek">ð</lang>,%} ‘trembles’: the connection of
+<ab>AS.</ab> {%beofað,%} ‘trembles’: the connection of
 these words with <lang n="greek">φέ-β-ομαι</lang>, ‘am afeard,
 flee in fright,’ and <lang n="greek">φόβος</lang>, ‘fear,’ is still a
 moot-point.]
@@ -15833,11 +15832,11 @@ be’; <ab>AS.</ab> {%beōm,%} ‘am’; <ab>Eng.</ab> {%be.%}]
 <div n="p"/>{@+ anu,@} <div n="2"/>{@—1.@} ({%perhaps%} be along after,
 {%and so%}) come up with, attain; <div n="2"/>{@—2.@} experience; <lbinfo n="ex-perience;"/>
  enjoy, <ls n="lan,24,9">24<sup>9</sup></ls>; <div n="2"/>{@—3.@} (experience,
-{%<ab>i. e.</ab>%}) make practical aequaintance with,
+{%<ab>i. e.</ab>%}) make practical acquaintance with,
 come to understand; perceive; hear, <ls n="lan,4,21">4<sup>21</sup></ls>.
 <div n="p"/>{@+ abhi,@} be against [<ls n="wg,1077">1077<sup>8</sup></ls>], oppress,
 {%and so%} overpower.
-<div n="p"/>{@+ ud,@} arise up, make itself pereeptible.
+<div n="p"/>{@+ ud,@} arise up, make itself perceptible.
 <div n="p"/>{@+ pari,@} <div n="2"/>{@—1.@} be around, surround, encompass; <lbinfo n="en-compass;"/>
  <div n="2"/>{@—2.@} ({%like the <ab>Eng.</ab> <ab>colloq.</ab>%} get
 around, {%<ab>i. e.</ab>%}) get the better of, prove
@@ -16039,7 +16038,7 @@ roast; parch, {%<ab>esp.</ab>%} grain. [<ab>cf.</ab> <lang n="greek">φρύγω<
 exceedingly pained.
 <LEND>
 <L>3052<pc>209-a<k1>Betavya<k2>Betavya
-{@bhetavya,@}¦ {%<ab>grdv.</ab>%} to be feared; bhetavyam,
+{@bhetavya,@}¦ {%<ab>grdv.</ab>%} to be feared; {@bhetavyam@},
 {%<ab>impers.</ab>%} [<ls n="wg,999">999]</ls>, timendum est, one should
 fear, <ls n="lan,42,3">42<sup>3</sup></ls>; {@na bhetavyam,@} never fear.
 [{@√bhī,@} <ls n="wg,964">964.</ls>]
@@ -16105,7 +16104,7 @@ real name.
 <L>3065<pc>209-b<k1>Bos<k2>Bos
 {@bhos,@}¦ {%<ab>excl.</ab> of address.%} thou, sir !, O !, ho !,
 halloo !; {%often repeated, <ab>e. g.</ab>%} <ls n="lan,6,23">6<sup>23</sup></ls>. [for origin, <lbinfo n="ori-gin,"/>
- see {@bhavant:@} for cuphonic combination, <lbinfo n="combina-tion,"/>
+ see {@bhavant:@} for euphonic combination, <lbinfo n="combina-tion,"/>
  see <ls n="wg,176">176a</ls> (in 2d ed., see <ls n="wg,174">174b</ls>).]
 <LEND>
 <L>3066<pc>209-b<k1>BoHSabda<k2>BoH-Sabda
@@ -16196,7 +16195,7 @@ with {%largess.%}]
 <LEND>
 <L>3077<pc>210-a<k1>maMhizWa<k2>ma/MhizWa
 {@máṃhiṣṭha,@}¦ {%<ab>a.</ab>%} granting most abundantly,
-most gencrous. [{@√maṃh,@} <ls n="wg,467">467.</ls>]
+most generous. [{@√maṃh,@} <ls n="wg,467">467.</ls>]
 <LEND>
 <L>3078<pc>210-a<k1>makAra<k2>ma-kAra
 {@ma-kāra,@}¦ {%<ab>m.</ab>%} the letter <ab>m.</ab> [<ls n="wg,18">Whitney 18</ls>.]
@@ -16224,7 +16223,7 @@ Southern Behar.
 liberal gifts, generous; {%<ab>esp.</ab>, as <ab>m.</ab>,%} generous  <lbinfo n="gener-ous"/>
 (patron), designation of the rich lord
 who institutes a sacrifice and pays the
-pricsts, <ls n="lan,88,1">88<sup>1</sup></ls>--{%<ab>cf.</ab>%} {@sūri;@} {%applied in particular%}
+priests, <ls n="lan,88,1">88<sup>1</sup></ls>--{%<ab>cf.</ab>%} {@sūri;@} {%applied in particular%}
 {%to%} Indra, {%as%} Rewarder (of priests and
 singers), <ls n="lan,70,6">70<sup>6</sup></ls>, <ls n="lan,71,5">71<sup>5</sup></ls>, <ls n="lan,73,20">73<sup>20</sup></ls>, <ls n="lan,75,10">75<sup>10</sup></ls>; <div n="2"/>{@—2.@} {%in the%}
 {%Epos,%} The Generous One, standing epithet
@@ -16478,7 +16477,7 @@ Mānavas. [<ab>cf.</ab> <ab>Goth.</ab> {%manna,%} <ab>Ger.</ab> {%Mann,%}
 <ab>AS.</ab> {%man,%} <ab>Eng.</ab> {%man:%} the noun is generalized  <lbinfo n="general-ized"/>
 to a quasi pronoun in <ab>AS.</ab> {%man,%} <ab>Ger.</ab>
 {%man,%} like <ab>Lat.</ab> {%homo%} in French {%on,%} but
-retains a distinet form as noun in <ab>Ger.</ab>
+retains a distinct form as noun in <ab>Ger.</ab>
 {%Mann%} (as {%homo%} does in French {%homme%}):
 <ab>cf.</ab> also {%Mannus,%} mythical ancestor of the
 West-Germans (Tacitus, Germania, ii.):
@@ -16651,7 +16650,7 @@ made of…, consisting of…, containing…
 in itself; <div n="2"/>{@—2.@} {%nomen agentis,%} maker,
 former; {%<ab>esp.</ab>%} Maya, The Former, name of
 an Asura, artificer of the Daityas, and
-skilled in all magie, <ls n="lan,45,6">45<sup>6</sup></ls>. [<ab>fr.</ab> {@mi,@} weak
+skilled in all magic, <ls n="lan,45,6">45<sup>6</sup></ls>. [<ab>fr.</ab> {@mi,@} weak
 form (<ab>cf.</ab> <ls n="wg,954">954c</ls>, <ls n="wg,250">250</ls>) of {@√1mā,@} ‘measure,
 arrange, form,’ <ls n="wg,1148">1148.</ls> 1a and b: so the
 <ab>Eng.</ab> <ab>deriv.</ab> suffix {%-hood, -head,%} <ab>Ger.</ab> {%-heit,%}
@@ -16777,7 +16776,7 @@ rejoice; {%then%} ({%<ab>trans.</ab>%} make great {%or%} high,
 for <ab>orig.</ab> <ab>mg</ab>, <ab>cf.</ab> participial <ab>adj.</ab> {@mahánt,@}
 ‘great’: for <ab>mg</ab>s 1 and 2, <ab>cf.</ab> American
 <ab>colloq.</ab> use of {%high%} as ‘high in spirit,
-clated, {%<ab>esp.</ab>%} intoxicated’:
+elated, {%<ab>esp.</ab>%} intoxicated’:
 <div n="1"/>--with <ab>orig.</ab> {@√*magh@} in the <ab>mg</ab>s ‘be
 great, mighty, {%<ab>i. e.</ab>%} powerful {%or%} able,’ <ab>trans.</ab>
 ‘make able, help,’ <ab>cf.</ab> <lang n="greek">μοχ-λός</lang>, ‘helpingbar, <lbinfo n="‘helping-bar,"/>
@@ -17243,7 +17242,7 @@ west-central India.
 dea’; <ab>Goth.</ab> {%mena,%} <ab>AS.</ab> {%mōna,%} <ab>Eng.</ab> {%moon;%}
 <ab>AS.</ab> {%mōnan dæg,%} ‘dies Lunae,’ <ab>Eng.</ab> {%Monday;%} <lbinfo n="Mon-day;"/>
 also <lang n="greek">μήν</lang>, stem <lang n="greek">μενς</lang>, <ab>Lat.</ab> {%mens-i-s,%}
-‘month’; <ab>AS.</ab> {%mōna<lang n="greek">ð</lang>,%} <ab>prop.</ab> ‘a lunation,’
+‘month’; <ab>AS.</ab> {%mōnað,%} <ab>prop.</ab> ‘a lunation,’
 <ab>Eng.</ab> {%month.%}]
 <LEND>
 <L>3263<pc>216-b<k1>mAsa<k2>mA/sa
@@ -17309,7 +17308,7 @@ title of the first book of the Hitopadeś<ab>a.</ab>
 <L>3274<pc>217-a<k1>mitrAtiTi<k2>mitrAtiTi
 {@mitrātithi,@}¦ {%<ab>m.</ab>%} Mitrātithi, name of a
 man. [‘having Mitra as his guest’ or
-else ‘guest of M.’: the <ab>mg</ab> of the cpd
+else ‘guest of M.’: the <ab>mg</ab> of the <ab>cpd</ab>
 depends on its accent (see <ls n="wg,1302">1302<sup>1</sup></ls> and
 <ls n="wg,1267">1267<sup>1</sup></ls>), and this is not known: {@mitrá +@}
 {@átithi.@}]
@@ -17602,7 +17601,7 @@ from which a thing grows {%or%} proceeds,
 root, basis; capital.
 <LEND>
 <L>3321<pc>219-a<k1>mUlya<k2>mUlya
-{@mūlya,@}¦ {%<ab>n.</ab>%} price, <ls n="lan,47,3, 11">47<sup>3, 11</sup></ls>; eapital, <ls n="lan,46,14">46<sup>14</sup></ls>.
+{@mūlya,@}¦ {%<ab>n.</ab>%} price, <ls n="lan,47,3, 11">47<sup>3, 11</sup></ls>; capital, <ls n="lan,46,14">46<sup>14</sup></ls>.
 [properly, perhaps, <ab>adj.</ab> ‘pertaining to
 the root, radical, basal,’ and then, as
 <ab>subst.</ab>, ‘basis’ of a transaction: <ab>fr.</ab> {@mūla,@}
@@ -17634,7 +17633,7 @@ die; {@mṛtá,@} dead. [<ab>w.</ab> {@mṛtá,@} <ab>cf.</ab> <lang n="greek">�
 <lang n="greek">*μροτος</lang>, ‘mortal’; <ab>cf.</ab> <lang n="greek">φλὸξ ἐ-μαρ-άν-θη</lang>,
 ‘flame died away’; <ab>Lat.</ab> {%mor-i,%} ‘die’;
 {%mors,%} stem {%mor-ti-,%} ‘death’; <ab>Goth.</ab> {%maur-%}
-<lang n="greek">ϸ</lang>, <ab>AS.</ab> {%mor<lang n="greek">ð</lang>or,%} <ab>Eng.</ab> {%murther, murder:%}
+ϸ, <ab>AS.</ab> {%morðor,%} <ab>Eng.</ab> {%murther, murder:%}
 see {@amṛta.@}]
 <div n="p"/>{@+ abhi,@} ({%<ab>lit.</ab>%} die against, {%<ab>i. e.</ab>%}) affect unpleasantly  <lbinfo n="un-pleasantly"/>
 by dying; {@guruṇā_abhimṛta,@}
@@ -17712,7 +17711,7 @@ see <ls n="lan,95,16">95<sup>16</sup></ls>.]
 {@√mṛd@}¦ ({@mṛdnā́ti; márdati, -te; mamárda;@}
 {@mardiṣyáte; mṛditá; márditum;@}
 {@mṛditvā́; -mṛ́dya@}). press {%or%} rub hard,
-squeeze, erush, smash, destroy.
+squeeze, crush, smash, destroy.
 [Page220-a+ 50]
 <div n="1"/>[extension of {@√2mṛ,@} ‘crush’; <ab>cf.</ab> <lang n="greek">ἀ-μαλδ</lang>-
 <lang n="greek">ύνω</lang>, ‘destroy’ <ab>e. g.</ab> a wall: <ab>w.</ab> {@mṛdú,@} ‘soft,
@@ -18082,7 +18081,7 @@ connection of the word with {@√yam,@}
 <ls n="wg,1157">1157<sup>1</sup></ls>, <ab>cf.</ab> <ls n="wg,954">954d</ls>.]
 <LEND>
 <L>3387<pc>222-b<k1>yatna<k2>yatna
-{@yatna,@}¦ {%<ab>m.</ab>%} a striving after; cffort; pains;
+{@yatna,@}¦ {%<ab>m.</ab>%} a striving after; effort; pains;
 {%<ab>w.</ab>%} {@kṛ:@} take pains; bestow effort upon
 ({%<ab>loc.</ab>%}), have a thing ({%<ab>loc.</ab>%}) at heart, <ls n="lan,1,13">1<sup>13</sup></ls>;
 {@yatne kṛte,@} pains having been taken.
@@ -18451,7 +18450,7 @@ pains of hell. [{@√yat,@} <ls n="wg,1150">1150.</ls>]
 of the night. [{@√yā,@} <ls n="wg,1166">1166</ls>: for <ab>mg</ab> 2, <ab>cf.</ab>
 <lang n="greek">περί-οδος</lang>, ‘way around, circuit, course at
 dinner,’ and <ab>Ger.</ab> {%Gang,%} ‘course’: for
-<ab>mg</ab> 3, <ab>cf.</ab> <lang n="greek">περίοδος</lang>, ‘time of cireuit.’]
+<ab>mg</ab> 3, <ab>cf.</ab> <lang n="greek">περίοδος</lang>, ‘time of circuit.’]
 <LEND>
 <L>3434<pc>225-a<k1>yAvant<k2>yA/vant
 {@yā́vant@}¦ [<ls n="wg,517">517]</ls>, <div n="2"/>{@—1.@} {%<ab>a.</ab>%} as great, <ls n="lan,101,9">101<sup>9</sup></ls>; as
@@ -18517,7 +18516,7 @@ descent), <lang n="greek">γένος ἀνθρώπων</lang>; <div n="2"/>{@—
 <ab>acc.</ab> <ab>s.</ab> <ab>n.</ab> of an <ab>adj.</ab> {@*yuga-pad,@}
 ‘pair-footed, even-footed, side by side,’ a
 possessive form (1301) of a descriptive
-epd (<ls n="wg,1280">1280b</ls>) {@*yuga-pad,@} ‘pair-foot.’]
+<ab>cpd</ab> (<ls n="wg,1280">1280b</ls>) {@*yuga-pad,@} ‘pair-foot.’]
 <LEND>
 <L>3443<pc>225-b<k1>yugma<k2>yugma/
 {@yugmá,@}¦ {%<ab>a.</ab>%} paired, even; {%as <ab>n.</ab>%} pair,
@@ -18544,7 +18543,7 @@ of, <ls n="lan,60,15">60<sup>15</sup></ls>; {@yukta:@} possessed of ({%<ab>instr
 <div n="2"/>{@—5.@} {%<ab>pass.</ab>%} be joined {%or%} made ready, {%and so%}
 be fitted, suited; {@yukta,@} fit, suitable,
 right, proper, <ls n="lan,23,19">23<sup>19</sup></ls>; {@yuktam,@} {%<ab>adv.</ab>%} fitly,
-rightly, <ab>etc.</ab>, <ls n="lan,36,2">36<sup>2</sup></ls>; <div n="2"/>{@—6.@} yojayati [<ls n="wg,1041">1041<sup>2</sup></ls>],
+rightly, <ab>etc.</ab>, <ls n="lan,36,2">36<sup>2</sup></ls>; <div n="2"/>{@—6.@} {@yojayati@} [<ls n="wg,1041">1041<sup>2</sup></ls>],
 apply; lay on, <ls n="lan,102,11">102<sup>11</sup></ls>. [<ab>cf.</ab> <lang n="greek">ζεύγ-νυμι</lang>, <ab>Lat.</ab>
 {%jung-o,%} ‘yoke, harness, join’; <ab>w.</ab> {@yugá,@}
 ‘yoke,’ <ab>cf.</ab> <lang n="greek">ζυγόν</lang>, <ab>Lat.</ab> {%jugum,%} <ab>Ger.</ab> {%Joch,%}
@@ -18622,7 +18621,7 @@ suffix an, not van, <ls n="wg,1160">1160</ls>: see {@yavīyāṃs,@}
 {@yaviṣṭha, yuvati:@} <ab>cf.</ab> <ab>Lat.</ab> {%juven-i-s,%}
 ‘young’; <ab>w.</ab> {%juven-cu-s,%} ‘young,’ <ab>cf.</ab> Germanic  <lbinfo n="Ger-manic"/>
 {%*yuvunga, yunga,%} <ab>Eng.</ab> {%young;%} also
-Old <ab>Eng.</ab> {%yung-<lang n="greek">ϸ</lang>e,%} Spenser's {%youngth,%} <ab>Eng.</ab>
+Old <ab>Eng.</ab> {%yung-ϸe,%} Spenser's {%youngth,%} <ab>Eng.</ab>
 {%youth.%}]
 <LEND>
 <L>3456<pc>226-b<k1>yuzma<k2>yuzma/
@@ -19683,7 +19682,7 @@ overjoyed, <ls n="lan,24,23">24<sup>23</sup></ls>.
 joyful {%or%} wanton.
 <LEND>
 <L>3615<pc>233-b<k1>lasa<k2>lasa
-{@lasa,@}¦ {%<ab>a.</ab>%} moving quiekly hither and
+{@lasa,@}¦ {%<ab>a.</ab>%} moving quickly hither and
 thither; lively. [{@√las.@}]
 <LEND>
 <L>3616<pc>233-b<k1>lAja<k2>lAja/
@@ -19976,7 +19975,7 @@ pure in its {%or%} his {@vaṃśa,@}’ <ls n="wg,1265">1265</ls>: {@√śudh.@}
  [{@√vak,@} <ls n="wg,1188">1188.</ls>]
 <LEND>
 <L>3657<pc>235-b<k1>vakzaRA<k2>vakza/RA
-{@vakṣáṇā,@}¦ {%<ab>f.</ab> <ab>pl.</ab>%} belly; bellies (of cloudmountains). <lbinfo n="cloud-mountains)."/>
+{@vakṣáṇā,@}¦ {%<ab>f.</ab> <ab>pl.</ab>%} belly; bellies (of cloud-mountains). <lbinfo n="cloud-mountains)."/>
 
 <LEND>
 [Page236-a+ 50]
@@ -20496,7 +20495,7 @@ Vritra, {%<ab>i. e.</ab>%} Indra. [<ls n="wg,1269">1269.</ls>]
 <LEND>
 <L>3739<pc>239-a<k1>vavri<k2>vavri/
 {@vavrí,@}¦ {%<ab>m.</ab> <ab>prop.</ab>%} cover, {%and so%} <div n="2"/>{@—1.@} place
-of hiding {%or%} refuge; <div n="2"/>{@—2.@} corporeal tegument  <lbinfo n="tegu-ment"/>
+of hiding {%or%} refuge; <div n="2"/>{@—2.@} corporeal tegument <lbinfo n="tegu-ment"/>
 (of the soul), {%<ab>i. e.</ab>%} body. [{@√1vṛ,@}
 ‘cover,’ <ls n="wg,1155">1155.</ls> 2c.]
 <LEND>
@@ -20878,7 +20877,7 @@ violence, tumultuous.
 food, {%<ab>i. e.</ab>%} fasting. [{@vāta + ekabhakṣa.@}]
 <LEND>
 <L>3790<pc>242-a<k1>vAda<k2>vAda
-{@vāda,@}¦ {%<ab>m.</ab>%} specch, expression, statement.
+{@vāda,@}¦ {%<ab>m.</ab>%} speech, expression, statement.
 [{@√vad.@}]
 <LEND>
 <L>3791<pc>242-a<k1>vAdayudDa<k2>vAda-yudDa
@@ -21095,14 +21094,14 @@ isolated, {%and so%} lonely.
 [Page243-b+ 50]
 <L>3832<pc>243-b<k1>vicakzaRa<k2>vicakzaRa/
 {@vicakṣaṇá,@}¦ {%<ab>a.</ab>%} appearing far and wide,
-conspieuous; {%or,%} far-seeing. [{@√cakṣ + vi.@}]
+conspicuous; {%or,%} far-seeing. [{@√cakṣ + vi.@}]
 <LEND>
 <L>3833<pc>243-b<k1>vicitra<k2>vi-citra
 {@vi-citra,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1.@} very variegated; <div n="2"/>{@—2.@}
 differently colored, varied; <div n="2"/>{@—3.@} (full of
 variety and surprises, {%and so%}) entertaining, <lbinfo n="entertain-ing,"/>
  beautiful. [in <ab>mg</ab> 1, vi- has perhaps
-intensive foree; in 2, perhaps variative.]
+intensive force; in 2, perhaps variative.]
 <LEND>
 <L>3834<pc>243-b<k1>vij<k2>vij
 {@√vij@}¦ ({@vijáte; vivijé; ávikta@} [<ls n="wg,834">834c</ls>]; {@vijiṣyáti;@} <lbinfo n="vijiṣ-yáti;"/>
@@ -21186,7 +21185,7 @@ whence {%wīt-ga,%} ‘seer, soothsayer, wizard’
 {%wicce,%} ‘witch,’ <ab>Eng.</ab> {%witch,%} <ab>masc.</ab> and <ab>fem.</ab>:
 {@véda@} is an old preterito-present, ‘have
 seen {%or%} perceived,’ and so, ‘know’--see
-{@√2vid:@} the forms of the other tensesystems  <lbinfo n="tense-systems"/>
+{@√2vid:@} the forms of the other tense-systems
 are comparatively modern.]
 <div n="p"/>{@+ anu,@} know along, {%<ab>i. e.</ab>%} from one end to
 the other, know thoroughly.
@@ -21430,7 +21429,7 @@ shop. [{@√paṇ + vi,@} <ls n="wg,1156">1156.</ls>]
 <LEND>
 <L>3889<pc>245-b<k1>vipAka<k2>vi/pAka
 {@vípāka,@}¦ {%<ab>m.</ab>%} the ripening, {%<ab>esp.</ab>%} of the fruit
-of good {%or%} bad deeds, {%and so%} the consequenees; <lbinfo n="conse-quenees;"/>
+of good {%or%} bad deeds, {%and so%} the consequences; <lbinfo n="conse-quenees;"/>
  the issue, {%in general.%} [{@√pac +@}
 {@vi,@} <ls n="wg,216">216.</ls> 1.]
 <LEND>
@@ -21717,7 +21716,7 @@ everywhere. [{@víśva,@} <ls n="wg,1098">1098b</ls>: <ab>acct</ab>, <ls n="wg,1
 <LEND>
 <L>3936<pc>247-b<k1>viSvatomuKa<k2>viSva/to-muKa
 {@viśváto-mukha,@}¦ {%<ab>a.</ab>%} having a face on
-all sides, whose face is turned everywhither. <lbinfo n="every-whither."/>
+all sides, whose face is turned every-whither. <lbinfo n="every-whither."/>
  [<ls n="wg,1306">1306.</ls>]
 <LEND>
 <L>3937<pc>247-b<k1>viSvadarSata<k2>viSva/-darSata
@@ -21900,7 +21899,7 @@ confounded. [<ls n="wg,1305">1305.</ls>]
 seek eagerly; <div n="2"/>{@—2.@} accept gladly; enjoy;
 <div n="2"/>{@—3.@} strive to get; <div n="2"/>{@—4.@} fall upon.
 <div n="1"/>[<ab>cf.</ab> <ab>Lat.</ab> {%vēnāri,%} ‘hunt,’ a <ab>denom.</ab> of
-{%*vē-na,%} ‘hunt’; <ab>AS.</ab> {%wā-<lang n="greek">ð</lang>,%} ‘hunt’; Old
+{%*vē-na,%} ‘hunt’; <ab>AS.</ab> {%wā-ð,%} ‘hunt’; Old
 High <ab>Ger.</ab> {%weida,%} ‘1. the seeking, {%<ab>esp.</ab>%} of
 food, {%<ab>i. e.</ab>%} hunting, fishing, {%and then%} 2. place
 for getting food, pasture, {%and%} 3. food,
@@ -22133,7 +22132,7 @@ at the head, be chief in importance, <ls n="lan,22,21">22<sup>21</sup></ls>;
 <ls n="lan,104,2">104<sup>2</sup></ls>; <div n="2"/>{@—6.@} proceed, behave; <div n="2"/>{@—7.@} {%attenuated %} <lbinfo n="atten-uated"/>
 {%in <ab>mg</ab> from sense%} 3 {%to that of a simple%}
 {%copula,%} be, <ls n="lan,51,4">51<sup>4</sup></ls>; {@--vṛttá,@} {%see <ab>s. v.</ab>%}
-<div n="1"/>[<ab>cf.</ab> <ab>Lat.</ab> {%vert-ere,%} ‘turn’; <ab>AS.</ab> {%weor<lang n="greek">ð</lang>an,%}
+<div n="1"/>[<ab>cf.</ab> <ab>Lat.</ab> {%vert-ere,%} ‘turn’; <ab>AS.</ab> {%weorðan,%}
 ‘become,’ <ab>Eng.</ab> {%worth,%} ‘become, be to’ (in
 [Page250-b+ 50]
 {%wo worth the day%}), <ab>Ger.</ab> {%werden,%} ‘become’;
@@ -22144,10 +22143,10 @@ in {%go south-ward,%} <ab>i. e.</ab> ‘turned to the south,’
 {%fly up-ward,%} <ab>i. e.</ab> ‘directed up,’ <ab>etc.</ab> (see
 {@añc@}); also <ab>Ger.</ab> {%Wirt-el,%} ‘spindle-ring’;
 Church Slavonic {%vret-eno,%} ‘spindle’:
-<div n="1"/>--further akin is, <ab>prob.</ab>, <ab>AS.</ab> {%wrī<lang n="greek">ð</lang>an,%}
+<div n="1"/>--further akin is, <ab>prob.</ab>, <ab>AS.</ab> {%wrīðan,%}
 ‘twist,’ whence come: <ab>Eng.</ab> {%writhe;%} <ab>AS.</ab>
-{%wrǣ<lang n="greek">ð</lang>,%} ‘a twisted band,’ <ab>Eng.</ab> {%wreath; wrist,%}
-earlier {%hand-wrist, *-wri<lang n="greek">ð</lang>-st,%} ‘hand-turner’:
+{%wrǣð,%} ‘a twisted band,’ <ab>Eng.</ab> {%wreath; wrist,%}
+earlier {%hand-wrist, *-wrið-st,%} ‘hand-turner’:
 <div n="1"/>--with {@vṛttá,@} <ab>cf.</ab> <ab>Lat.</ab> {%versus,%} ‘turned,’
 whence {%versāre,%} ‘turn much’: for <ab>mg</ab>s
 3-6 of {@vṛt,@} <ab>cf.</ab> <ab>Lat.</ab> {%versāri,%} whose senses
@@ -22328,7 +22327,7 @@ just as the sow (see {@sū́@}) from her fecundity. <lbinfo n="fe-cundity."/>
 {%or denoting%} all that was distinguished for
 [Page252-a+ 50]
 its strength and virility: <div n="2"/>{@—1.@} man, as
-opposed to a castruted person, <ls n="lan,70,14">70<sup>14</sup></ls>; <div n="2"/>{@—2.@}
+opposed to a castrated person, <ls n="lan,70,14">70<sup>14</sup></ls>; <div n="2"/>{@—2.@}
 of animals: stallion; bull; boar; <div n="2"/>{@—3.@} of
 gods: manly, mighty, great; of Indra,
 <ls n="lan,74,5">74<sup>5</sup></ls>; of the Maruts, <ls n="lan,73,5">73<sup>5</sup></ls>; of the Sun {%or%}
@@ -22659,7 +22658,7 @@ hundred attempts.
 covered by the stretched-out arms,
 a fathom, about six feet. [for {@vi-yāma,@}
 {@√ yam + vi:@} for <ab>mg</ab>, <ab>cf.</ab> the precisely
-parallel <ab>Eng.</ab> {%fathom%} <ab>w.</ab> <ab>AS.</ab> {%fæ<lang n="greek">ð</lang>m,%} ‘the
+parallel <ab>Eng.</ab> {%fathom%} <ab>w.</ab> <ab>AS.</ab> {%fæðm,%} ‘the
 extended arms’; <lang n="greek">ὀργυιά</lang>, ‘fathom,’ and
 <lang n="greek">ὀρέγω</lang>, ‘stretch’; French {%toise,%} Medieval
 <ab>Lat.</ab> {%tesa,%} ‘fathom,’ from <ab>Lat.</ab> {%tensa,%} <ab>ppl.</ab>
@@ -22870,7 +22869,7 @@ the word <ab>fr.</ab> {@√śad@} and as standing for
 <div n="1"/>if <ab>mg</ab> 2 is the <ab>orig.</ab> <ab>mg</ab>, we may analyse
 thus, {@śat-ru@} (1192), and compare Church
 Slavonic {%kot-ora,%} Irish {%cath,%} ‘battle’; <ab>AS.</ab>
-{%hea<lang n="greek">ð</lang>-o%} in <ab>cpds</ab>, as {%hea<lang n="greek">ð</lang>o-weorc,%} ‘battlework, <lbinfo n="‘battle-work,"/>
+{%heað-o%} in <ab>cpds</ab>, as {%heaðo-weorc,%} ‘battlework, <lbinfo n="‘battle-work,"/>
 ’ Old High <ab>Ger.</ab> {%had-u%} in names,
 as {%Hadu-brant,%} ‘Battle-flame,’ {%Hadu-wīch,%}
 ‘Battle-strife,’ <ab>Ger.</ab> {%Hedwig;%} <ab>Ger.</ab> {%Hader,%}
@@ -22925,7 +22924,7 @@ vow, {%<ab>w.</ab> <ab>dat.</ab> of person,%} <ls n="lan,97,7">97<sup>7</sup></l
 <LEND>
 [Page256-a+ 50]
 <L>4111<pc>256-a<k1>SabdaSAstra<k2>Sabda-SAstra
-{@śabda-śāstra,@}¦ {%<ab>n.</ab>%} word-theory, wordcompendium, <lbinfo n="word-compendium,"/>
+{@śabda-śāstra,@}¦ {%<ab>n.</ab>%} word-theory, word-compendium, <lbinfo n="word-compendium,"/>
  {%<ab>i. e.</ab>%} grammar.
 <LEND>
 <L>4112<pc>256-a<k1>Sam<k2>Sam<h>1
@@ -23343,7 +23342,7 @@ hare.
 <L>4197<pc>258-a<k1>Siva<k2>Siva/
 {@śivá,@}¦ <div n="2"/>{@—1.@} {%<ab>a.</ab>%} kind, <ls n="lan,90,2">90<sup>2</sup></ls>; friendly; gracious;
 agreeable, lovely; {%<ab>opp.</ab> of%} {@ghora;@} <div n="2"/>{@—2.@} {%<ab>m.</ab>%}
-The Friendly One, name cuphemistically
+The Friendly One, name euphemistically
 applied to the horrible god Rudra, who
 under this name (Śiva) becomes the third
 person of the Hindu Trinity. [for <ab>mg</ab> 2,
@@ -23565,8 +23564,8 @@ weal or woe.
 [{@√2śubh,@} ‘adorn,’ <ls n="wg,1188">1188a</ls>.]
 <LEND>
 <L>4239<pc>259-b<k1>Suz<k2>Suz
-{@√śuṣ@}¦ ({@śúṣyati; -śúṣya@}). be dry, dry up[for  <lbinfo n="up-[for"/>
-{@*suṣ@} (see {@śaśa@}), as shown by Avestan
+{@√śuṣ@}¦ ({@śúṣyati; -śúṣya@}). be dry, dry up
+[for {@*suṣ@} (see {@śaśa@}), as shown by Avestan
 {@√hush,@} ‘dry’: <ab>cf.</ab> <lang n="greek">αὕω</lang>, ‘dry’; Syracusan
 <lang n="greek">σαυ-κός</lang>, ‘dry’; <ab>AS.</ab> {%seārian,%} ‘dry up,’
 <ab>denom.</ab> of {%seār,%} <ab>Eng.</ab> {%sear.%}]
@@ -24851,7 +24850,7 @@ same village. [{@samāna-grāma,@} <ls n="wg,1215">1215.</ls>]
 {@samāsa,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} a putting together; {%and%}
 {%so%} ({%<ab>cf.</ab> <ab>Lat.</ab>%} con-trahere, ‘draw together,’
 then ‘abridge’) <div n="2"/>{@—2.@} a condensation;
-abridgment; {@-ena@} {%and%} {@samāsatas,@} succinetly. <lbinfo n="suc-cinetly."/>
+abridgment; {@-ena@} {%and%} {@samāsatas,@} succinctly. <lbinfo n="suc-cinetly."/>
  [{@√2as,@} ‘throw,’ {@+ sam.@}]
 <LEND>
 <L>4454<pc>268-a<k1>samiD<k2>sami/D
@@ -25299,7 +25298,7 @@ given, <ls n="lan,87,15">87<sup>15</sup></ls>; of persons who offer such
 gifts, <ls n="lan,91,9">91<sup>9</sup></ls>. [{@dakṣiṇā,@} <ls n="wg,1300">1300a</ls>.]
 <LEND>
 <L>4537<pc>270-b<k1>sahasradvAr<k2>saha/sra-dvAr
-{@sahásra-dvār@}¦ [<ls n="wg,388">388c</ls>], {%a%} thousanddoored. <lbinfo n="thousand-doored."/>
+{@sahásra-dvār@}¦ [<ls n="wg,388">388c</ls>], {%a%} thousand-doored. <lbinfo n="thousand-doored."/>
 
 <LEND>
 <L>4538<pc>270-b<k1>sahasraSfNga<k2>saha/sra-SfNga
@@ -25885,14 +25884,14 @@ husband), <ls n="lan,89,10">89<sup>10</sup></ls>; charming; amiable, <ls n="lan,
 <LEND>
 <L>4644<pc>274-b<k1>sumaNgala<k2>su-maNga/la
 {@su-maṅgála,@}¦ {%<ab>f.</ab>%} {@-galī́@} [<ls n="wg,355">355b</ls>], {%<ab>a.</ab>%} having
-{%or%} bringing good luck. [{@maṅgalá:@} acct
+{%or%} bringing good luck. [{@maṅgalá:@} <ab>acct</ab>
 irregular, <ab>cf.</ab> <ls n="wg,1304">1304b<sup>2</sup></ls> end.]
 <LEND>
 <L>4645<pc>274-b<k1>sumaDyama<k2>su-maDyama
 {@su-madhyama,@}¦ {%<ab>a.</ab>%} fair-waisted.
 <LEND>
 <L>4646<pc>274-b<k1>sumanas<k2>su-ma/nas
-{@su-mánas,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1.@} good-hearted, welldisposed, <lbinfo n="well-disposed,"/>
+{@su-mánas,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1.@} good-hearted, well-disposed, <lbinfo n="well-disposed,"/>
  <ls n="lan,90,2">90<sup>2</sup></ls>; kind; <div n="2"/>{@—2.@} (having good,
 {%<ab>i. e.</ab>%} happy feelings, {%<ab>i. e.</ab>%}) cheerful; glad,
 <ls n="lan,78,13">78<sup>13</sup></ls>; <div n="2"/>{@—3.@} {%as <ab>f.</ab> <ab>pl.</ab>%} (the cheerful ones,
@@ -25916,7 +25915,7 @@ important. [<ls n="wg,1288">1288b</ls>.]
 <LEND>
 <L>4650<pc>274-b<k1>sumeka<k2>su-me/ka
 {@su-méka,@}¦ {%<ab>a.</ab>%} (having a good setting-up,
-{%<ab>i. e.</ab>%}) firmly stablished.
+{%<ab>i. e.</ab>%}) firmly established.
 <LEND>
 <L>4651<pc>274-b<k1>sumeDas<k2>su-meDa/s
 {@su-medhás,@}¦ {%<ab>a.</ab>%} having good insight {%or%}
@@ -26758,7 +26757,7 @@ habit, {%<ab>i. e.</ab>%}) practicing religious ablutions.
 <L>4769<pc>280-b<k1>snAyu<k2>snA/yu
 {@snā́yu,@}¦ {%<ab>f.</ab> <ab>n.</ab>%} <div n="2"/>{@—1.@} sinew, <ls n="lan,25,7">25<sup>7</sup></ls>. [perhaps
 ‘ligament,’ from {@√sā@} or {@si,@} ‘bind, ligāre,’
-{%<ab>q. v.</ab>:%} if so, it is formed from the presentstem  <lbinfo n="present-stem"/>
+{%<ab>q. v.</ab>:%} if so, it is formed from the present-stem  <lbinfo n="present-stem"/>
 {@sinā@} (see <ls n="wg,1148">1148</ls>. 3b and <ab>cf.</ab> {@sunva@}),
 abbreviated to {@snā,@} with suffix {@u@} (<ls n="wg,1178">1178b</ls>)
 and interposed {@y@} (258): <ab>cf.</ab> Old High
@@ -26925,8 +26924,8 @@ jaws.
 <LEND>
 <L>4793<pc>281-b<k1>sraj<k2>sra/j
 {@sráj,@}¦ {%<ab>f.</ab>%} wreath, garland. [{@√sṛj,@} <ab>mg</ab> 4,
-‘twist,’ just as <ab>AS.</ab> {%wrǣ<lang n="greek">ð</lang>,%} <ab>Eng.</ab> {%wreath,%} <ab>fr.</ab>
-<ab>AS.</ab> {%wrī<lang n="greek">ð</lang>an,%} <ab>Eng.</ab> {%writhe,%} ‘twist’ (under
+‘twist,’ just as <ab>AS.</ab> {%wrǣð,%} <ab>Eng.</ab> {%wreath,%} <ab>fr.</ab>
+<ab>AS.</ab> {%wrīðan,%} <ab>Eng.</ab> {%writhe,%} ‘twist’ (under
 {@√vṛt@}).]
 <LEND>
 <L>4794<pc>281-b<k1>sravantI<k2>sra/vantI
@@ -27076,7 +27075,7 @@ also under {@svapna.@}]
 asleep, asleep, sunk in sleep.
 <LEND>
 <L>4815<pc>282-b<k1>svapas<k2>sva/pas
-{@svápas,@}¦ {%<ab>a.</ab>%} having good works, {%<ab>i. e.</ab>%} wonderworking. <lbinfo n="wonder-working."/>
+{@svápas,@}¦ {%<ab>a.</ab>%} having good works, {%<ab>i. e.</ab>%} wonder-working. <lbinfo n="wonder-working."/>
  [{@sú + ápas,@} <ls n="wg,1304">1304b</ls>.]
 <LEND>
 <L>4816<pc>282-b<k1>svapU<k2>svapU/
@@ -27230,7 +27229,7 @@ thee. [{@sú +@} an unused {@asti,@} ‘be-ing,’ <ab>fr.</ab>
 {@svasti-dā́@}¦ [<ls n="wg,352">352]</ls>, {%<ab>a.</ab>%} bestowing welfare.
 <LEND>
 <L>4840<pc>283-b<k1>svastyayana<k2>svastya/yana
-{@svastyáyana,@}¦ {%<ab>n.</ab> <ab>sing.</ab> and <ab>pl.</ab>%} (luckprogress, <lbinfo n="(luck-progress,"/>
+{@svastyáyana,@}¦ {%<ab>n.</ab> <ab>sing.</ab> and <ab>pl.</ab>%} (luck-progress, <lbinfo n="(luck-progress,"/>
  {%<ab>i. e.</ab>%}) wel-fare, prosperity; blessing; <lbinfo n="bless-ing;"/>
  {%and so%} benediction, <ls n="lan,101,2">101<sup>2</sup></ls>, <ls n="lan,106,4">106<sup>4</sup></ls>;
 {%<ab>pl.</ab>%} the blessings, {%<ab>i. e.</ab>%} Vedic hymns containing  <lbinfo n="con-taining"/>
@@ -27363,11 +27362,11 @@ smite {%or%} afflict, <ls n="lan,78,16">78<sup>16</sup></ls>;
 {@hatá, *ghata,@} <ab>cf.</ab> <lang n="greek">φατός</lang>, ‘slain’; <ab>w.</ab> {@ghaná,@}
 <ab>q. v.</ab>, ‘a slaying,’ <ab>cf.</ab> <lang n="greek">φόνος</lang>, ‘slaughter’; <ab>w.</ab>
 {@ha-ti,@} ‘a smiting, slaying,’ <ab>cf.</ab> Old High
-<ab>Ger.</ab> {%gun-d,%} <ab>AS.</ab> {%gū<lang n="greek">ð</lang>, *gun-<lang n="greek">ð</lang>,%} ‘battle’; <ab>AS.</ab>
-{%gū<lang n="greek">ð</lang>-fana,%} Old High <ab>Ger.</ab> {%gund-fano,%} ‘battleflag’; <lbinfo n="‘battle-flag’;"/>
+<ab>Ger.</ab> {%gun-d,%} <ab>AS.</ab> {%gūð, *gun-ð,%} ‘battle’; <ab>AS.</ab>
+{%gūð-fana,%} Old High <ab>Ger.</ab> {%gund-fano,%} ‘battleflag’; <lbinfo n="‘battle-flag’;"/>
  <ab>fr.</ab> the last form (not <ab>fr.</ab> the <ab>AS.</ab>),
 through the French, comes <ab>Eng.</ab> {%gonfanon,%}
-{%gonfalon;%} for <ab>mg</ab> of {%gū<lang n="greek">ð</lang>,%} <ab>cf.</ab> <ab>Ger.</ab> {%schlagen,%}
+{%gonfalon;%} for <ab>mg</ab> of {%gūð,%} <ab>cf.</ab> <ab>Ger.</ab> {%schlagen,%}
 ‘smite, slay,’ with {%Schlacht,%} ‘battle’: for
 senses under 1, observe that <ab>AS.</ab> {%sleān%}
 (whence <ab>Eng.</ab> {%slay%}) means ‘smite’ and
@@ -27705,7 +27704,7 @@ in the fire (of a corpse), <ls n="lan,84,12">84<sup>12</sup></ls>; {%as <ab>n.</
 {@-hū́ya@}). call; call upon; invoke, {%<ab>esp.</ab>%} a
 god. [<ab>orig.</ab> {@*ghū:@} <ab>w.</ab> {@hū-tá,@} ‘called upon,
 invoked,’ some identify the <ab>Goth.</ab> stem
-{%gu-<lang n="greek">ϸ</lang>a, gu-da,%} ‘God,’ <ab>AS.</ab> and <ab>Eng.</ab> {%God.%}]
+{%gu-ϸa, gu-da,%} ‘God,’ <ab>AS.</ab> and <ab>Eng.</ab> {%God.%}]
 <div n="p"/>{@+ ā,@} <div n="2"/>{@—1.@} call to {%or%} hither; summon, invite; <lbinfo n="in-vite;"/>
  <div n="2"/>{@—2.@} {%<ab>mid.</ab>%} challenge.
 <div n="p"/>{@+ upa,@} {%<ab>mid.</ab>%} <div n="2"/>{@—1.@} call {%or%} summon to
