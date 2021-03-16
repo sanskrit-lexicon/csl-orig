@@ -2,9 +2,6 @@ vcp-meta2.txt
 August 16, 2017. This supercedes vcp-meta.txt as a description of 
  the current digitization vcp.txt.
 
-The {X...X} style of coding serves one  in vcp.txt:
-{??} 46  : Unreadable text
-
 The lines of the digitization correspond to lines of the printed text.
 All of the text is Devanagari, which is currently coded in the SLP1 
 transliteration in vcp.txt.
