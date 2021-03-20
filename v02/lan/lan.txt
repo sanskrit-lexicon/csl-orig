@@ -431,7 +431,7 @@ wander about. [<ab>cf.</ab> {@√at.@}]
 {@a-tandrita,@}¦ {%<ab>a.</ab>%} unwearied.
 <LEND>
 <L>99<pc>113-b<k1>atas<k2>a/tas
-{@átas,@}¦ {%<ab>adv.</ab>%} <div n="2"/>{@—1.@} ({%as <ab>abl.</ab> of <ab>pron.</ab> root%} a [<ls n="wg,1098">1098]</ls>,
+{@átas,@}¦ {%<ab>adv.</ab>%} <div n="2"/>{@—1.@} ({%as <ab>abl.</ab> of <ab>pron.</ab> root%} {@a@} [<ls n="wg,1098">1098]</ls>,
 {%and synonymous <ab>w.</ab>%} {@asmāt@}) from it; {%so%} <ls n="lan,22,9">22<sup>9</sup></ls>,
 {%<ab>sc.</ab>%} {@paṅkāt;@} ato ‘{@nya,@} other than it, <ls n="lan,68,12">68<sup>12</sup></ls>;
 <div n="2"/>{@—2.@} from this (place), <ls n="lan,83,15">83<sup>15</sup></ls>; <div n="2"/>{@—3.@} from this
