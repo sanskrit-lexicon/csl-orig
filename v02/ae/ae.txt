@@ -773,7 +773,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{@2@} {#deSIya#} (with numerals); ‘a. five
 <div n="lb"/>years old’ {#paMcavarzadeSIyaH#}. {@3@} (Regard-
 <div n="lb"/>-ing) {#ADikftya, prati, uddiSya; saMbadDa-#}
-<div n="lb"/>{#-anuvidDa gata-viSaye#} in comp.; ‘I ask a.
+<div n="lb"/>{#-anuvidDa-gata-vizaye#} in comp.; ‘I ask a.
 <div n="lb"/>my friend’ {#mitragataM pfcCAmi; parAjayA-#}
 <div n="lb"/>{#-nuvidDA AlApAH#} &c. {@4@} {#kfte, arTe, arTaM,#}
 <div n="lb"/>{#hetoH#}. {@5@} {#paritaH, aBitaH,#} (acc.); {#samIpaM,#}
