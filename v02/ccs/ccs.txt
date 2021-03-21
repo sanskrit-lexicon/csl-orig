@@ -61483,7 +61483,7 @@ indische Kuckuck; {%f.%} {#A#} Kuckucksweibchen. <lbinfo n="9"/>
 
 <L>13345<pc>237-2<k1>parama<k2>parama/
 {#parama/#}¦ der fernste, letzte, äußerste, höchste,
-beste, schlimmste, {%auch compar. höher%},
+beste, schlimmste, {%auch compar.%} höher,
 besser, schlimmer als {%(Abl.).%} {#parama#} (°—)
 höchster, Haupt-; {%adv.%} in hohem Grade,
 sehr. {%n.%} = {#para#} {%(auch adj.—°), adv.%} {#paramam#}
