@@ -113220,11 +113220,11 @@ Staub habend).
 <LEND>
 
 <L>24425<pc>441-1<k1>SAnti<k2>SAnti
-{#SAnti#}¦ {%f.%} das Rugigwerden, Erlöschen,
+{#SAnti#}¦ {%f.%} das Ruhigwerden, Erlöschen,
 Aufhören, Ruhe, {%bes.%} Gemüts- {%o.%} Seelenruhe; <lbinfo n="5"/>
 Beruhigung, Abwendung eines
 Unheils, Sühnung {%(r.)%}; Friede, Heil,
-Heimagang, Tod.
+Heimgang, Tod.
 <LEND>
 
 <L>24426<pc>441-1<k1>SAntika<k2>SAntika
