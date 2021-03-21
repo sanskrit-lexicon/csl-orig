@@ -52006,7 +52006,7 @@ schwindend.
 <LEND>
 
 <L>11309<pc>201-1<k1>Dvaja<k2>Dvaja/
-{#Dvaja/#}¦ {%m. (n.)%} feldzeichen, Fahne, Flagge,
+{#Dvaja/#}¦ {%m. (n.)%} Feldzeichen, Fahne, Flagge,
 Kennzeichen, Merkmal.
 <LEND>
 
