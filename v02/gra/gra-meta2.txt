@@ -9,6 +9,7 @@ The digitization is in the utf-8 encoding.
 The {X...X} style of coding serves several purposes:
 {@X@}  : bold text
 {%X%}  : italic text 
+{nnn,n...}  Identify RV links. (04-06-2021)
 
 The pseudo-xml <> style of coding is used as follows:
 
