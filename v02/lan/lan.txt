@@ -205,7 +205,7 @@ trouble, evil; sin; sorrow. [like {@aṃhú,@}
 {@√*aṅgh@} or {@aṃh,@} ‘straiten’: <ab>cf.</ab> <lang n="greek">ἄχος</lang>, ‘distress’; <lbinfo n="‘dis-tress’;"/>
  <lang n="greek">ἄγχω</lang>, <ab>Lat.</ab> {%ango,%} ‘strangle’; <ab>AS.</ab>
 {%ange,%} ‘anxious,’ <ab>Ger.</ab> {%enge,%} ‘narrow,’ {%Angst,%}
-‘distress’: for connection of <ab>mg</ab>s, <ab>cf.</ab> <ab>Eng.</ab>
+‘distress’: for connection of <ab>mgs</ab>, <ab>cf.</ab> <ab>Eng.</ab>
 {%straiten,%} ‘to narrow’ and ‘to distress.’]
 <LEND>
 <L>49<pc>112-a<k1>aGAya<k2>aGAya
@@ -903,7 +903,7 @@ something unlawful.
 {@ánīka,@}¦ {%<ab>n.</ab>%} <div n="2"/>{@—1.@} face; <div n="2"/>{@—2.@} {%<ab>fig.</ab>%} appearance;
 <div n="2"/>{@—3.@} of a hatchet (face, {%<ab>i. e.</ab>%}), sharp edge;
 <div n="2"/>{@—4.@} front, {%and so, by synecdoche,%} troop.
-[so <ab>Lat.</ab> {%acies%} has <ab>mg</ab>s 3 and 4.]
+[so <ab>Lat.</ab> {%acies%} has <ab>mgs</ab> 3 and 4.]
 <LEND>
 <L>202<pc>116-a<k1>anItijYa<k2>a-nItijYa
 {@a-nītijña,@}¦ {%<ab>a.</ab>%} not knowing discreet conduct. <lbinfo n="con-duct."/>
@@ -3480,7 +3480,7 @@ behold. [<ab>desid.</ab> of {@√*aś,@} ‘see,’ contained in
 auf); regard; expect.
 <div n="p"/>{@+ ava,@} look after; look after one's self,
 {%<ab>i. e.</ab>%} look behind {%or%} around.
-<div n="p"/>{@+ upa,@} {%<ab>w.</ab> two <ab>mg</ab>s, like <ab>Eng.</ab>%} overlook:
+<div n="p"/>{@+ upa,@} {%<ab>w.</ab> two <ab>mgs</ab>, like <ab>Eng.</ab>%} overlook:
 <div n="2"/>{@—1.@} look over, {%<ab>i. e.</ab>%} inspect; {%and%} <div n="2"/>{@—2.@} ({%more%}
 {%commonly%}) look beyond, {%<ab>i. e.</ab>%} neglect.
 <div n="p"/>{@+ nis,@} look out {%or%} after; contemplate.
@@ -5026,7 +5026,7 @@ priest, <ls n="lan,101,21">101<sup>21</sup></ls>. [{@√1kṛ.@}]
 <LEND>
 <L>1052<pc>140-a<k1>kartavya<k2>kartavya
 {@kartavya,@}¦ {%<ab>grdv.</ab>%} to be done {%or%} made, {%<ab>w.</ab>%}
-{%the various <ab>mg</ab>s of%} {@√1kṛ. [√1kṛ.]@}
+{%the various <ab>mgs</ab> of%} {@√1kṛ. [√1kṛ.]@}
 <LEND>
 <L>1053<pc>140-a<k1>kartavyatA<k2>kartavyatA
 {@kartavyatā,@}¦ {%<ab>f.</ab>%} the to-be-done-ness; {@-tām@}
@@ -5930,7 +5930,7 @@ will, <ls n="lan,75,2">75<sup>2</sup></ls>; understanding, <ls n="lan,80,5">80<s
 inspiration, insight, {%<ab>esp.</ab>%} for sacred songs
 and acts; <div n="2"/>{@—3.@} sacred deed, sacrifice, <ls n="lan,16,7">16<sup>7</sup></ls>;
 ceremony, {%<ab>cf.</ab>%} {@yajñakratu.@} [{@√1kṛ,@} ‘do,
-effect,’ <ls n="wg,1161">1161</ls>: <ab>orig.</ab> sense of word in <ab>mg</ab>s 1
+effect,’ <ls n="wg,1161">1161</ls>: <ab>orig.</ab> sense of word in <ab>mgs</ab> 1
 and 2 was <ab>prob.</ab> ‘an effecting, a power to
 do {%or%} carry out’: for <ab>mg</ab> 3, see {@√1kṛ@} 12:
 <ab>cf.</ab> <lang n="greek">κρατύς</lang>, ‘mighty,’ <ab>AS.</ab> {%heard,%} ‘strong,
@@ -6410,7 +6410,7 @@ have told to one's self, <ls n="lan,105,7">105<sup>7</sup></ls>.
 <div n="p"/>{@+ praty-ā,@} ({%<ab>lit.</ab>%} show back, {%<ab>i. e.</ab>%}) turn
 away, repulse, reject, <ls n="lan,9,20">9<sup>20</sup></ls>; refuse. [the
 <ab>Ger.</ab> {%zurück-weisen%} has just the same
-<ab>mg</ab>s.]
+<ab>mgs</ab>.]
 <div n="p"/>{@+ vy-ā,@} show to discriminately, {%<ab>i. e.</ab>%} explain. <lbinfo n="ex-plain."/>
 
 <div n="p"/>{@+ sam,@} tell together, {%<ab>i. e.</ab>%} reckon up.
@@ -6743,7 +6743,7 @@ nature, {%to wit,%} {@sattva,@} ‘goodness,’ {@rajas,@}
 ‘passion,’ and {@tamas,@} ‘darkness,’ <ls n="lan,66,8">66<sup>8</sup></ls><ab>ff.</ab>;
 <div n="2"/>{@—4.@} {%as specialization of <ab>mg</ab>%} 2, a good quality, <lbinfo n="qual-ity,"/>
  virtue, <ls n="lan,1,4, 12">1<sup>4, 12</sup></ls>, <ab>etc.</ab>; excellence. [for
-play on <ab>mg</ab>s 1 and 4, see {@nirguṇa@} and
+play on <ab>mgs</ab> 1 and 4, see {@nirguṇa@} and
 <ls n="lan,18,5">18<sup>5</sup></ls>.]
 <LEND>
 <L>1372<pc>150-b<k1>guRadeva<k2>guRa-deva
@@ -6927,7 +6927,7 @@ tribe of Angiras.
 {%perhaps,%} pen of cattle, {%and so%} <div n="2"/>{@—3.@} group
 {%in general%} ({%see%} go 4); <div n="2"/>{@—4.@} {%<ab>esp.</ab>%} family, <ls n="lan,19,16">19<sup>16</sup></ls>;
 <div n="2"/>{@—5.@} family name, <ls n="lan,103,19">103<sup>19</sup></ls>, {%see%} {@nāman 2.@}
-[from go: <ab>mg</ab>s 2 and 3 are not authenticated  <lbinfo n="authenti-cated"/>
+[from go: <ab>mgs</ab> 2 and 3 are not authenticated  <lbinfo n="authenti-cated"/>
 by the literature.]
 <LEND>
 <L>1402<pc>151-b<k1>gotraja<k2>gotra-ja
@@ -6990,7 +6990,7 @@ Gautama, name of various men. [{@gótama,@}
 {@√grath@}¦ {%or%} {@granth (grathnā́ti; granthiṣyáti;@} <lbinfo n="granthi-ṣyáti;"/>
 {@grathitá; -gráthya). --1.@} string
 together, connect; <div n="2"/>{@—2.@} put together, {%<ab>i. e.</ab>%}
-com-pose (a literary work). [for <ab>mg</ab>s, <ab>cf.</ab>
+com-pose (a literary work). [for <ab>mgs</ab>, <ab>cf.</ab>
 <ab>Lat.</ab> {%com-pōnere,%} ‘put together, compose’;
 also {%serere,%} ‘connect, entwine,’ <ab>w.</ab> {%sermo,%}
 ‘discourse.’]
@@ -6998,7 +6998,7 @@ also {%serere,%} ‘connect, entwine,’ <ab>w.</ab> {%sermo,%}
 <L>1416<pc>152-a<k1>granTa<k2>granTa
 {@grantha,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} (a string of words, {%<ab>i. e.</ab>%})
 verse {%or%} couplet, <ls n="lan,53,6">53<sup>6</sup></ls>, etc; <div n="2"/>{@—2.@} a com-position, <lbinfo n="com-posi-tion,"/>
- book, work, <ls n="lan,17,8">17<sup>8</sup></ls>. [{@√granth:@} for <ab>mg</ab>s,
+ book, work, <ls n="lan,17,8">17<sup>8</sup></ls>. [{@√granth:@} for <ab>mgs</ab>,
 see under grath, and for 1, <ab>cf.</ab> <ab>Lat.</ab> {%serere%}
 <ab>w.</ab> {%series,%} ‘row, string.’]
 <LEND>
@@ -7759,7 +7759,7 @@ cover; cover over.
 <LEND>
 <L>1549<pc>157-a<k1>Cad<k2>Cad<h>2
 {@√2chad@}¦ {%or%} {@chand@} ({@chántti; cacchánda;@}
-{@ácchān@} [<ls n="wg,890">890<sup>2</sup></ls>]; {@chadáyati@} [<ab>mg</ab>s 1, 2];
+{@ácchān@} [<ls n="wg,890">890<sup>2</sup></ls>]; {@chadáyati@} [<ab>mgs</ab> 1, 2];
 {@chandáyati@} [<ab>mg</ab> 3]; {@chandayā́m āsa;@}
 {@chanditá@}). <div n="2"/>{@—1.@} appear, seem; <div n="2"/>{@—2.@} seem
 good to, please; <div n="2"/>{@—3.@} (please a person,
@@ -9080,7 +9080,7 @@ flame {%or%} ray; gleaming splendor, <ls n="lan,1,6">1<sup>6</sup></ls>; fire;
 <div n="2"/>{@—4.@} ({%like <ab>Eng.</ab>%} fire, {%<ab>i. e.</ab>%}) energy, vigor, power;
 <div n="2"/>{@—5.@} moral {%or%} magic power, <ls n="lan,11,23">11<sup>23</sup></ls>; influence,
 dignity, <ls n="lan,95,8">95<sup>8</sup></ls>; majesty, <ls n="lan,1,6">1<sup>6</sup></ls>, <ls n="lan,2,4">2<sup>4</sup></ls>. [{@√tij:@} observe  <lbinfo n="ob-serve"/>
-that <lang n="greek">ἀκμή</lang> has <ab>mg</ab>s 1 and 4.]
+that <lang n="greek">ἀκμή</lang> has <ab>mgs</ab> 1 and 4.]
 <LEND>
 <L>1802<pc>165-a<k1>tena<k2>te/na
 {@téna,@}¦ {%<ab>adv.</ab>%} in that way, <ls n="lan,47,17">47<sup>17</sup></ls>; so; therefore,
@@ -10855,7 +10855,7 @@ secondary development in the line (‘set,’
 The secondary <ab>mg</ab> has even won the more
 prominent place in Germanic and Slavic.
 <div n="1"/>For the primary <ab>mg</ab>, <ab>cf.</ab> <lang n="greek">τίθημι</lang>, ‘put’
-(the parallelism of its <ab>mg</ab>s is remarkable
+(the parallelism of its <ab>mgs</ab> is remarkable
 --<lang n="greek">θέσαν, λίθον</lang>, ‘they set a stone’; <lang n="greek">θέσθαι</lang>
 <lang n="greek">υἱόν</lang>, ‘conceive a son,’ <ab>etc.</ab>, <ab>etc.</ab>); <ab>Lat.</ab> {%abde-re,%} <lbinfo n="ab-de-re,"/>
 ‘put off {%or%} away,’ and {%con-de-re,%} ‘put
@@ -11114,8 +11114,8 @@ swindlers.
 {@√dhṛ@}¦ ({@dādhā́ra@} [<ls n="wg,786">786]</ls>, {@dadhré; ádhṛta;@}
 {@dhariṣyáti, -te; dhṛtá; dhártum; dhṛtvā́;@} <lbinfo n="dhṛ-tvā́;"/>
 {@-dhṛ́tya; dhāráyati; ádīdharat@}).
-{%<ab>mg</ab>s of <ab>caus.</ab> forms <ab>ident.</ab>%} [<ls n="wg,1041">1041<sup>2</sup></ls>] {%<ab>w.</ab> those of%}
-{%simple forms;%} hold, {%in its various <ab>mg</ab>s,%}
+{%<ab>mgs</ab> of <ab>caus.</ab> forms <ab>ident.</ab>%} [<ls n="wg,1041">1041<sup>2</sup></ls>] {%<ab>w.</ab> those of%}
+{%simple forms;%} hold, {%in its various <ab>mgs</ab>,%}
 {%<ab>trans.</ab> and <ab>intrans.</ab>;%}
 <div n="1"/>{%<ab>trans.</ab>%} <div n="2"/>{@—1.@} hold, bear, support, <ls n="lan,33,11">33<sup>11</sup></ls>,
 <ls n="lan,39,3">39<sup>3</sup></ls>, <ls n="lan,75,6, 7">75<sup>6, 7</sup></ls>, <ls n="lan,87,9">87<sup>9</sup></ls>, <ls n="lan,92,1">92<sup>1</sup></ls>; make firm, <ls n="lan,92,10">92<sup>10</sup></ls>;
@@ -13267,7 +13267,7 @@ is <lang n="greek">πτίσσω</lang>, ‘pound, husk.’]
 <LEND>
 <L>2591<pc>190-b<k1>pizwa<k2>pizwa/
 {@piṣṭá,@}¦ {%<ab>ppl.</ab>%} milled; {%as <ab>n.</ab>%} meal. [{@√piṣ:@} for
-the <ab>mg</ab>s, <ab>cf.</ab> {@piṣ, piṣṭa,@} and {%molere, mola,%}
+the <ab>mgs</ab>, <ab>cf.</ab> {@piṣ, piṣṭa,@} and {%molere, mola,%}
 with {%mill, meal.%}]
 <LEND>
 [Page191-a+ 50]
@@ -13741,9 +13741,9 @@ clotted with curds. [{@pṛ́ṣant.@}]
 the upper side, surface; <div n="2"/>{@—3.@} top, of a hill
 {%or%} palace. [<ab>cf.</ab> <ab>Ger.</ab> {%First,%} ‘ridge of a
 house’; <ab>AS.</ab> {%first-hrōf,%} ‘ridge-pole’: observe  <lbinfo n="ob-serve"/>
-that <lang n="greek">νῶτος</lang> has <ab>mg</ab>s 1, 2, and 3, that
-<ab>Lat.</ab> {%tergum%} has <ab>mg</ab>s 1 and 2, and that
-<ab>Eng.</ab> {%ridge%} has <ab>mg</ab>s 1 and 3.]
+that <lang n="greek">νῶτος</lang> has <ab>mgs</ab> 1, 2, and 3, that
+<ab>Lat.</ab> {%tergum%} has <ab>mgs</ab> 1 and 2, and that
+<ab>Eng.</ab> {%ridge%} has <ab>mgs</ab> 1 and 3.]
 <LEND>
 <L>2682<pc>193-b<k1>pfzWatas<k2>pfzWata/s
 {@pṛṣṭhatás,@}¦ {%<ab>adv.</ab>%} a tergo, from behind;
@@ -13982,7 +13982,7 @@ following, {%<ab>i. e.</ab>%} future. [{@pratyañc,@} <ls n="wg,1223">1223d</ls>
 {@pratīpá,@}¦ {%<ab>a.</ab>%} (against the stream, {%<ab>i. e.</ab>%}) contrary; <lbinfo n="con-trary;"/>
  {@-ám,@} {%<ab>adv.</ab>%} contrarily, frowardly.
 [{@prati + ap,@} <ls n="wg,1310">1310a</ls>, <ls n="wg,1315">1315c</ls>, <ab>cf.</ab> {@samīpa:@}
-for <ab>mg</ab>s, <ab>cf.</ab> <ab>Eng.</ab> {%contrary.%}]
+for <ab>mgs</ab>, <ab>cf.</ab> <ab>Eng.</ab> {%contrary.%}]
 <LEND>
 <L>2729<pc>195-a<k1>pratta<k2>pra/tta
 {@prátta,@}¦ {%see%} <ls n="wg,1087">1087e</ls>.
@@ -14702,7 +14702,7 @@ construct, {%<ab>e. g.</ab>%} a bridge; compose (verses,
 <lang n="greek">ερός</lang>, ‘connection (by marriage)’; <lang n="greek">πεῖσμα</lang>,
 <lang n="greek">*πενθμα</lang>, ‘rope’; <ab>Lat.</ab> {%of-fend-ix,%} ‘knot’;
 {%fĭd-es,%} ‘string’; {%foed-us,%} ‘league’; <ab>Eng.</ab>
-{%bind, band:%} for <ab>mg</ab>s, <ab>cf.</ab> <ab>Eng.</ab> {%connection%}
+{%bind, band:%} for <ab>mgs</ab>, <ab>cf.</ab> <ab>Eng.</ab> {%connection%}
 and {%league%} <ab>w.</ab> <ab>Lat.</ab> {%con-nectere%} and {%ligāre,%}
 ‘bind together.’]
 <div n="p"/>{@+ ni,@} <div n="2"/>{@—1.@} bind; fasten; <div n="2"/>{@—2.@} (bind down
@@ -14984,11 +14984,11 @@ announce to.
 Church Slavonic {%bŭd-ĕti,%} ‘be awake’: the
 cognate words of the related languages
 agree closely in form, but show considerable  <lbinfo n="consider-able"/>
-diversity of <ab>mg</ab>s: <ab>mg</ab> 4 mediates
+diversity of <ab>mgs</ab>: <ab>mg</ab> 4 mediates
 the transition to the idea of the Greek
-<lang n="greek">√πυθ, *φυθ</lang>, in <lang n="greek">πυθέσθαι</lang>, ‘find out’: <ab>mg</ab>s 5
+<lang n="greek">√πυθ, *φυθ</lang>, in <lang n="greek">πυθέσθαι</lang>, ‘find out’: <ab>mgs</ab> 5
 and 6 form the bridge to the principal
-Germanic <ab>mg</ab>s, ‘offer’ and ‘command’:
+Germanic <ab>mgs</ab>, ‘offer’ and ‘command’:
 <ab>cf.</ab> <ab>Goth.</ab> {%ana-biud-an,%} (<ab>prob.</ab> ‘give notice
 to,’ and so) ‘command,’ <ab>AS.</ab> {%beōd-an,%}
 ‘announce, offer, command,’ <ab>Eng.</ab> {%bid,%}
@@ -15414,7 +15414,7 @@ pondus, ‘weight,’ {%then also%} ‘pound’) a
 particular quantity {%or%} measure, {%in%} {@nir-.@}
 [{@√bhṛ:@} <ab>cf.</ab> <lang n="greek">φωσ-φόρο-ς</lang>, <ab>Lat.</ab> {%luci-fer(u-s),%}
 ‘light-bringing’; <ab>AS.</ab> {%horn-bora,%} ‘hornbearing, <lbinfo n="‘horn-bearing,"/>
- trumpeter’: for <ab>mg</ab>s 2-4, <ab>cf.</ab>
+ trumpeter’: for <ab>mgs</ab> 2-4, <ab>cf.</ab>
 <ab>Eng.</ab> {%weigh,%} <ab>orig.</ab> ‘bear up, lift,’ as in
 {%weigh anchor,%} <ab>AS.</ab> {%wegan,%} ‘carry, bear,’
 and {%weight,%} ‘burden,’ then ‘mass,’ then
@@ -15996,7 +15996,7 @@ to, <ls n="lan,22,2">22<sup>2</sup></ls>; maintain, <ab>RV.</ab> x. <ls n="wg,12
 tragen {%means%} ‘bear’ {%and%} ‘wear’); {%<ab>w.</ab>%}
 {@nakhāni,@} wear the nails, keep them untrimmed, <lbinfo n="un-trimmed,"/>
  <ls n="lan,64,19">64<sup>19</sup></ls>. [<ab>cf.</ab> <lang n="greek">φέρω</lang>, <ab>Lat.</ab> {%fero,%} <ab>Eng.</ab>
-{%bear,%} ‘bear’ in its various <ab>mg</ab>s, <ab>Ger.</ab> {%gebären,%} <lbinfo n="ge-bären,"/>
+{%bear,%} ‘bear’ in its various <ab>mgs</ab>, <ab>Ger.</ab> {%gebären,%} <lbinfo n="ge-bären,"/>
 ‘bring forth’: <ab>AS.</ab> {%bear-n,%} <ab>Eng.</ab>
 {%bairn,%} ‘child,’ is an old <ab>ppl.</ab>, <ab>lit.</ab> ‘that
 which is borne {%or%} born’; <ab>cf.</ab> also <lang n="greek">φώρ</lang>, <ab>Lat.</ab>
@@ -16551,7 +16551,7 @@ sacred texts, {%<ab>i. e.</ab>, as <ab>m.</ab>,%} Veda-teacher.
 {@√mantraya@}¦ ({@mantráyate@} [<ls n="wg,1067">1067]</ls>). <div n="2"/>{@—1.@}
 speak with solemn {%or%} formal utterance;
 <div n="2"/>{@—2.@} deliberate. [<ab>denom.</ab> of mantra--
-see its various <ab>mg</ab>s.]
+see its various <ab>mgs</ab>.]
 <div n="p"/>{@+ anu,@} follow with a mantra, accompany
 with a sacred text, {%like <ab>Lat.</ab>%} prosequi
 vocibus.
@@ -16774,10 +16774,10 @@ rejoice; {%then%} ({%<ab>trans.</ab>%} make great {%or%} high,
 ({%<ab>mid.</ab>%}), <ls n="lan,74,8">74<sup>8</sup></ls>; <div n="2"/>{@—3.@} esteem highly, honor.
 <div n="1"/>[for {@*magh,@} <ab>cf.</ab> {@magha,@} also {@√maṃh:@}
 for <ab>orig.</ab> <ab>mg</ab>, <ab>cf.</ab> participial <ab>adj.</ab> {@mahánt,@}
-‘great’: for <ab>mg</ab>s 1 and 2, <ab>cf.</ab> American
+‘great’: for <ab>mgs</ab> 1 and 2, <ab>cf.</ab> American
 <ab>colloq.</ab> use of {%high%} as ‘high in spirit,
 elated, {%<ab>esp.</ab>%} intoxicated’:
-<div n="1"/>--with <ab>orig.</ab> {@√*magh@} in the <ab>mg</ab>s ‘be
+<div n="1"/>--with <ab>orig.</ab> {@√*magh@} in the <ab>mgs</ab> ‘be
 great, mighty, {%<ab>i. e.</ab>%} powerful {%or%} able,’ <ab>trans.</ab>
 ‘make able, help,’ <ab>cf.</ab> <lang n="greek">μοχ-λός</lang>, ‘helpingbar, <lbinfo n="‘helping-bar,"/>
  lever’; <lang n="greek">μηχ-ανή</lang>, ‘means’; <ab>Goth.</ab> {%mag,%}
@@ -16810,7 +16810,7 @@ see <ls n="wg,400">400<sup>2</sup></ls>.]
 <L>3174<pc>214-a<k1>mahas<k2>ma/has
 {@máhas,@}¦ {%<ab>n.</ab>%} greatness; might; glory; gladness; <lbinfo n="glad-ness;"/>
  {@mahobhis,@} {%<ab>adv.</ab>:%} with power, <ls n="lan,79,12">79<sup>12</sup></ls>;
-joyfully, <ls n="lan,73,13">73<sup>13</sup></ls>. [{@√mah,@} see its various <ab>mg</ab>s.]
+joyfully, <ls n="lan,73,13">73<sup>13</sup></ls>. [{@√mah,@} see its various <ab>mgs</ab>.]
 <LEND>
 <L>3175<pc>214-a<k1>mahA<k2>mahA/
 {@mahā́,@}¦ {%used as prior member of a <ab>cpd</ab>, instead%}
@@ -17123,7 +17123,7 @@ of {@1māna:@} <ab>cf.</ab> <ls n="wg,1067">1067.</ls>]
 man {%or%} Manu ({%see%} {@manu@}); <div n="2"/>{@—2.@} {%as <ab>m.</ab>%} one
 of the sons of men, a man; <div n="2"/>{@—3.@} {%<ab>m.</ab>%}
 Mānava, name of a school of the Yajurveda. <lbinfo n="Yajur-veda."/>
- [{@mánu,@} <ls n="wg,1208">1208c</ls>: for <ab>mg</ab>s 1 and 2,
+ [{@mánu,@} <ls n="wg,1208">1208c</ls>: for <ab>mgs</ab> 1 and 2,
 observe that Old High <ab>Ger.</ab> {%mennisch,%}
 though <ab>prop.</ab> an <ab>adj.</ab> <ab>fr.</ab> {%man,%} ‘homo,’ and
 meaning ‘humanus,’ is used also as a
@@ -17524,7 +17524,7 @@ thumb’; further, <lang n="greek">μυῖα, *μυσια</lang>, <ab>Lat.</ab> 
 <L>3305<pc>218-b<k1>muzka<k2>muzka/
 {@muṣká,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} testicle; <div n="2"/>{@—2.@} pudenda
 muliebria. [from noun {@muṣ,@} {%<ab>i. e.</ab>%} (<ls n="wg,383">383a<sup>2</sup></ls>)
-{@mū́ṣ,@} ‘mouse’: for <ab>mg</ab>s, see under {@√muṣ:@}
+{@mū́ṣ,@} ‘mouse’: for <ab>mgs</ab>, see under {@√muṣ:@}
 <ab>cf.</ab> <lang n="greek">μύσ-χον• τὸ ἀνδρεῖον καὶ γυναικεῖον μόριον</lang>:
 <ab>w.</ab> {@muṣka,@} <ab>cf.</ab> also Persian {%mushk,%} <ab>Eng.</ab>
 {%musk,%} ‘perfume got from a bag behind
@@ -17935,7 +17935,7 @@ doubted.]
 {@yakṣá,@}¦ {%<ab>n.</ab>%} spirit {%or%} sprite {%or%} ghost; {%as <ab>m.</ab>%}
 a Yaksha, one of a class of fabulous genii,
 attendants of Kubera. [perhaps ‘a restless  <lbinfo n="rest-less"/>
-one,’ {@√yakṣ:@} for connection of <ab>mg</ab>s of
+one,’ {@√yakṣ:@} for connection of <ab>mgs</ab> of
 root and <ab>deriv.</ab>, <ab>cf.</ab> the converse relation
 of <ab>Eng.</ab> {%spirit%} or {%sprite%} to {%sprightly,%} ‘brisk,
 stirring,’ and <ab>cf.</ab> Scott's “restless sprite.”]
@@ -18007,7 +18007,7 @@ collection of such texts, the Yajur-veda.
 <L>3375<pc>222-a<k1>yajYa<k2>yajYa/
 {@yajñá,@}¦ {%<ab>m.</ab>%} worship, devotion ({%so in Veda%});
 {%later, <ab>esp.</ab>%} act of worship, sacrifice, offering
-({%these the prevailing <ab>mg</ab>s%}). [{@√yaj,@} <ls n="wg,1177">1177a</ls>,
+({%these the prevailing <ab>mgs</ab>%}). [{@√yaj,@} <ls n="wg,1177">1177a</ls>,
 <ls n="wg,201">201.</ls>]
 <LEND>
 <L>3376<pc>222-a<k1>yajYakratu<k2>yajYa-kratu/
@@ -18746,7 +18746,7 @@ to <lang n="greek">√ἀλκ</lang> or <lang n="greek">ἀρκ</lang> in <lang 
 {%arc-eo,%} ‘ward off,’ {%arx,%} ‘stronghold of defence, <lbinfo n="de-fence,"/>
  citadel’; <ab>AS.</ab> {%ealh-stede,%} ‘defencestead, <lbinfo n="‘defence-stead,"/>
  strong-hold’; {%ealgian,%} ‘protect’:
-for the two chief <ab>mg</ab>s of {@√rakṣ,@} <ab>cf.</ab> <ab>Lat.</ab>
+for the two chief <ab>mgs</ab> of {@√rakṣ,@} <ab>cf.</ab> <ab>Lat.</ab>
 {%de-fendere,%} ‘ward off, protect.’]
 <div n="p"/>{@+ pari,@} protect around; save.
 <LEND>
@@ -18807,7 +18807,7 @@ make happy.
 <ab>ident.</ab> {@√3ṛj@} and its cognates <lang n="greek">ἄργυρος</lang>, <ab>etc.</ab>;
 and <ab>cf.</ab> <lang n="greek">√ῥεγ</lang> in <ab>aor.</ab> <lang n="greek">ῥέξαι</lang>, ‘dye,’ and
 <lang n="greek">ῥεγεύς</lang>, ‘dyer’: <ab>w.</ab> this root may be connected  <lbinfo n="con-nected"/>
-the root {@rāj@} in its <ab>mg</ab>s given
+the root {@rāj@} in its <ab>mgs</ab> given
 under 2.]
 <div n="p"/>{@+ anu,@} <div n="2"/>{@—1.@} be colored after, take the
 tinge of; <div n="2"/>{@—2.@} feel affection towards.
@@ -18851,7 +18851,7 @@ the everlasting light beyond, the word is
 ‘be (colored, {%<ab>i. e.</ab>%}) not clear’: cognate are
 <lang n="greek">ἔ-ρεβος</lang>, ‘darkness, Erebus,’ and <ab>Goth.</ab>
 {%riqis,%} <ab>neut.</ab>, ‘darkness’: for connection of
-<ab>mg</ab>s 2 and 3, <ab>cf.</ab> <ab>Ger.</ab> {%Dunst,%} ‘vapor,’ and
+<ab>mgs</ab> 2 and 3, <ab>cf.</ab> <ab>Ger.</ab> {%Dunst,%} ‘vapor,’ and
 <ab>Eng.</ab> {%dust.%}]
 <LEND>
 <L>3489<pc>228-a<k1>rajju<k2>ra/jju
@@ -18945,7 +18945,7 @@ to; <div n="2"/>{@—4.@} {%<ab>caus.</ab>%} bring to a stand-still,
 stay, <ls n="lan,73,7">73<sup>7</sup></ls>. [<ab>cf.</ab> <lang n="greek">ἠ-ρέμ-α</lang>, ‘quietly’; <ab>Goth.</ab>
 {%rimis,%} ‘quiet’; <lang n="greek">ἔραμαι</lang>,
 <lang n="greek">ἔραται, *ῥm-μαι, *ῥμ-ται</lang>, ‘love, loves’; <lang n="greek">ἐ-ρατό-ς</lang>, ‘lovely,’
-formally <ab>ident.</ab> <ab>w.</ab> {@ratá:@} for <ab>mg</ab>s 2 and 3,
+formally <ab>ident.</ab> <ab>w.</ab> {@ratá:@} for <ab>mgs</ab> 2 and 3,
 <ab>cf.</ab> {@√2śam.@}]
 <div n="p"/>{@+ abhi,@} {%<ab>mid.</ab>%} <div n="2"/>{@—1.@} stop, {%<ab>intrans.</ab>;%} <div n="2"/>{@—2.@} find
 pleasure; please, {%<ab>intrans.</ab>,%} <ls n="lan,106,1">106<sup>1</sup></ls>.
@@ -19043,7 +19043,7 @@ one's self; {%--<ab>caus.</ab>%} cause to shine.
 [Page229-b+ 50]
 <div n="1"/>[<ab>orig.</ab>, perhaps, two distinct roots,
 but no longer distinguished in form,
-and with the two sets of <ab>mg</ab>s partly coincident:  <lbinfo n="co-incident:"/>
+and with the two sets of <ab>mgs</ab> partly coincident:  <lbinfo n="co-incident:"/>
 <ab>w.</ab> {@rāj@} 1, <ab>cf.</ab> {@√1ṛj,@} ‘reach out’;
 <ab>w.</ab> {@rāj@} 2, <ab>cf.</ab> {@√3ṛj,@} ‘be bright,’ and {@√raj:@}
 see under {@rājan.@}]
@@ -19573,11 +19573,11 @@ contemptible; low.
 <ab>cf.</ab> <lang n="greek">ἐ-λαχύ-ς</lang>, ‘small,’ <lang n="greek">ἐλάχιστος</lang>, ‘smallest’;
 Lithuanian {%lèngvas,%} ‘light’; <ab>Lat.</ab> {%lĕvis,%}
 {%*lenhu-i-s ?,%} ‘1. swift, 2. light, not heavy,
-3. insignificant, small’ (<ab>mg</ab>s quite parallel
+3. insignificant, small’ (<ab>mgs</ab> quite parallel
 <ab>w.</ab> those of {@laghu@}); <ab>AS.</ab> {%lung-re,%} ‘quickly’;
 <ab>Eng.</ab> {%lungs,%} ‘lights’: kinship of <ab>AS.</ab> {%leōh-t,%}
 <ab>Eng.</ab> {%light,%} ‘not heavy,’ {%lights,%} ‘lungs,’ not
-certain: for connection of <ab>mg</ab>s 1 and 2,
+certain: for connection of <ab>mgs</ab> 1 and 2,
 observe that {%swift%} and {%light,%} just as
 {%slow%} and {%heavy,%} name qualities naturally
 associated: for {%light,%} ‘not dark,’ see
@@ -19700,7 +19700,7 @@ write; write down; delineate. [younger
 [Page234-a+ 50]
 form of {@√rikh:@} <ab>cf.</ab> <lang n="greek">ἐ-ρείκ-ω</lang>, ‘furrow’
 (<lang n="greek">χθόνα</lang>, ‘ground’); <lang n="greek">ἐ-ρέχ-θω</lang>, ‘tear, rend’;
-<ab>Lat.</ab> {%rīma, *ric-ma,%} ‘slit, crack’: for <ab>mg</ab>s,
+<ab>Lat.</ab> {%rīma, *ric-ma,%} ‘slit, crack’: for <ab>mgs</ab>,
 observe that <ab>Eng.</ab> {%write%} is <ab>fr.</ab> the same
 root as <ab>Ger.</ab> {%ritzen,%} ‘scratch.’]
 <LEND>
@@ -20412,7 +20412,7 @@ describe; tell about; {%<ab>pass.</ab>%} <ls n="lan,12,3">12<sup>3</sup></ls>. [
 <L>3722<pc>238-b<k1>vartana<k2>vartana
 {@vartana,@}¦ {%<ab>n.</ab> <ab>prop.</ab>%} an existing, {%and so%}
 ({%like <ab>Eng.</ab>%} living), means of subsistence.
-[{@√vṛt,@} <ab>mg</ab>s 3, 5: <ab>cf.</ab> {@vṛtti.@}]
+[{@√vṛt,@} <ab>mgs</ab> 3, 5: <ab>cf.</ab> {@vṛtti.@}]
 <LEND>
 [Page239-a+ 50]
 <L>3723<pc>239-a<k1>vartf<k2>vartf/
@@ -21905,7 +21905,7 @@ food, {%<ab>i. e.</ab>%} hunting, fishing, {%and then%} 2. place
 for getting food, pasture, {%and%} 3. food,
 fodder’; {%weida%} appears <ab>w.</ab> <ab>mg</ab> 1 in <ab>Ger.</ab>
 {%Waid-mann,%} ‘hunter’ (also as family
-name, {%Weidmann,%} ‘Hunter’), and <ab>w.</ab> <ab>mg</ab>s
+name, {%Weidmann,%} ‘Hunter’), and <ab>w.</ab> <ab>mgs</ab>
 2 and 3 in {%Weide,%} ‘pasture, food’: perhaps  <lbinfo n="per-haps"/>
 {@2váyas,@} ‘food,’ <ab>q. v.</ab>, comes <ab>fr.</ab> {@√vī@}
 in <ab>mg</ab> 1, ‘seek for, hunt,’ and in this case
@@ -22148,7 +22148,7 @@ Church Slavonic {%vret-eno,%} ‘spindle’:
 {%wrǣð,%} ‘a twisted band,’ <ab>Eng.</ab> {%wreath; wrist,%}
 earlier {%hand-wrist, *-wrið-st,%} ‘hand-turner’:
 <div n="1"/>--with {@vṛttá,@} <ab>cf.</ab> <ab>Lat.</ab> {%versus,%} ‘turned,’
-whence {%versāre,%} ‘turn much’: for <ab>mg</ab>s
+whence {%versāre,%} ‘turn much’: for <ab>mgs</ab>
 3-6 of {@vṛt,@} <ab>cf.</ab> <ab>Lat.</ab> {%versāri,%} whose senses
 are quite parallel, and the <ab>Eng.</ab> phrase
 “in whom we live and {%move%} and have our
@@ -22285,7 +22285,7 @@ in; be inspired;
 strong; bring up (a child), <ls n="lan,46,8">46<sup>8</sup></ls>; increase,
 {%<ab>trans.</ab>,%} <ls n="lan,64,21">64<sup>21</sup></ls>; <div n="2"/>{@—2.@} {%<ab>fig.</ab>%} excite pleasantly,
 cheer, inspire; {%--distinction between the%}
-{%physical and <ab>fig.</ab> <ab>mg</ab>s not always to be made,%}
+{%physical and <ab>fig.</ab> <ab>mgs</ab> not always to be made,%}
 {%so%} <ls n="lan,80,19">80<sup>19</sup></ls>.
 <div n="1"/>[<ab>cf.</ab> <lang n="greek">βλάστη, *ϝλαθ-τη</lang>, ‘growth, a shoot,’
 <lang n="greek">βλαστάνω</lang>, ‘grow’; <lang n="greek">ὀρθός, *ϝορθος</lang>, ‘upright’; <lbinfo n="‘up-right’;"/>
@@ -25038,7 +25038,7 @@ Hesychian <lang n="greek">ἔλπ-ος</lang>, ‘olive oil, fat,’ and
 <ls n="lan,51,22">51<sup>22</sup></ls> {%<ab>w.</ab>%} <ls n="lan,52,23">52<sup>23</sup></ls>; {%similarly%} <ls n="lan,6,4">6<sup>4</sup></ls>, <ls n="lan,17,1, 9">17<sup>1, 9</sup></ls>, <ls n="lan,21,23">21<sup>23</sup></ls>,
 <ab>etc.</ab>; <div n="2"/>{@—2c. idaṃ sarvam,@} <ls n="lan,63,21">63<sup>21</sup></ls>, {%see%} {@idam;@}
 {%so for%} <ls n="lan,66,19">66<sup>19</sup></ls>;
-<div n="1"/>{%--observe that both <ab>mg</ab>s,%} 1 {%and%} 2, {%are%}
+<div n="1"/>{%--observe that both <ab>mgs</ab>,%} 1 {%and%} 2, {%are%}
 {%common to the post-Vedic literature; that in%}
 {%the oldest parts of the Veda,%} {@sarva@} {%occurs%}
 {%only in <ab>mg</ab>%} 1, {%while for <ab>mg</ab>%} 2 {%the proper%}
@@ -25138,7 +25138,7 @@ age, comrades’) comrades. [{@3vayas.@}]
 <L>4505<pc>270-a<k1>savarRa<k2>sa/-varRa
 {@sá-varṇa,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1.@} having the same external  <lbinfo n="ex-ternal"/>
 appearance, exactly similar, <ls n="lan,85,14">85<sup>14</sup></ls>;
-<div n="2"/>{@—2.@} of the same caste, <ls n="lan,62,7">62<sup>7</sup></ls>. [for <ab>mg</ab>s,
+<div n="2"/>{@—2.@} of the same caste, <ls n="lan,62,7">62<sup>7</sup></ls>. [for <ab>mgs</ab>,
 see {@varṇa.@}]
 <LEND>
 <L>4506<pc>270-a<k1>savitAna<k2>sa-vitAna
@@ -25146,7 +25146,7 @@ see {@varṇa.@}]
 canopy.
 <LEND>
 <L>4507<pc>270-a<k1>savitf<k2>savitf/
-{@savitṛ́,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} ({%with the two <ab>mg</ab>s of%}
+{@savitṛ́,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} ({%with the two <ab>mgs</ab> of%}
 {%<ab>Eng.</ab>%} quickener) impeller, enlivener; <div n="2"/>{@—2.@}
 The Enlivener, Savitar, name of a god,
 {%selection%} xxxvi.; <div n="2"/>{@—3.@} the sun, <ls n="lan,23,13">23<sup>13</sup></ls>.
@@ -26315,7 +26315,7 @@ cloud-born,’ {%and to be taken in its <ab>adj.</ab>%}
 <L>4721<pc>277-a<k1>sOBAgya<k2>sO/BAgya
 {@saúbhāgya,@}¦ {%<ab>n.</ab>%} happiness, {%<ab>esp.</ab>%} conjugal
 felicity, <ls n="lan,89,16">89<sup>16</sup></ls>; charmingness, <ls n="lan,2,5">2<sup>5</sup></ls>. [{@subhága@} <lbinfo n="[su-bhága"/>
-(<ls n="wg,1211">1211,</ls> <ls n="wg,1204">1204c</ls>)--see its <ab>mg</ab>s.]
+(<ls n="wg,1211">1211,</ls> <ls n="wg,1204">1204c</ls>)--see its <ab>mgs</ab>.]
 <LEND>
 <L>4722<pc>277-a<k1>sOmya<k2>sOmya/
 {@saumyá,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1.@} of {%or%} relating to Soma;
@@ -26381,7 +26381,7 @@ immovable, rigid. [<ab>cf.</ab> <lang n="greek">στέμφ-υλον</lang>, ‘o
 pressed hard, oil-cake’; <lang n="greek">στέμβ-ειν</lang>, ‘maltreat, <lbinfo n="‘mal-treat,"/>
 ’ collateral form of <lang n="greek">στείβ-ειν</lang>, ‘stamp
 on, tread’; <ab>Eng.</ab> {%stamp:%} for connection
-of <ab>mg</ab>s, <ab>cf.</ab> <lang n="greek">ἐρείδω</lang>, ‘make steady {%or%} firm,
+of <ab>mgs</ab>, <ab>cf.</ab> <lang n="greek">ἐρείδω</lang>, ‘make steady {%or%} firm,
 fix firm, plant.’]
 <div n="p"/>{@+ ud,@} prop up.
 <div n="p"/>{@+ vi,@} <div n="2"/>{@—1.@} prop asunder, <ls n="lan,78,10">78<sup>10</sup></ls>; <div n="2"/>{@—2.@}
@@ -26570,7 +26570,7 @@ is {%stand;%} <ab>cf.</ab> <ab>AS.</ab> {%stond-an,%} <ab>Eng.</ab>
 {%stand;%} <ab>Ger.</ab> preterit {%stand,%} ‘stood’: --with
 {@á-sthā-t,@} <ab>cf.</ab> <lang n="greek">ἔ-στη</lang>, ‘stood’; <ab>w.</ab> {@tí-ṣṭhā-mi,@}
 <ab>cf.</ab> <lang n="greek">ἵ-στη-μι</lang>, ‘set,’ <ab>Lat.</ab> {%si-sti-t,%} ‘sets’:--for
-<ab>mg</ab>s of {@√sthā,@} <ab>cf.</ab> in general those of
+<ab>mgs</ab> of {@√sthā,@} <ab>cf.</ab> in general those of
 <ab>Eng.</ab> {%stand.%}]
 <div n="p"/>{@+ adhi,@} stand upon.
 <div n="p"/>{@+ anu,@} --1. (stand along by, {%<ab>i. e.</ab>%}) take
@@ -26688,7 +26688,7 @@ after concealing himself (was) remaining,
 all beings, stands, {%<ab>i. e.</ab>%} with which it
 constantly pervades all beings, <ls n="lan,66,9">66<sup>9</sup></ls>.
 <div n="1"/>[<ab>ppl.</ab> of {@√sthā,@} <ls n="wg,954">954c</ls>: <ab>cf.</ab> <lang n="greek">στα-τό-ς</lang>, <ab>Lat.</ab>
-{%sta-tu-s,%} ‘standing, set’: for <ab>mg</ab>s above,
+{%sta-tu-s,%} ‘standing, set’: for <ab>mgs</ab> above,
 <ab>cf.</ab> {@√sthā.@}]
 <LEND>
 <L>4759<pc>280-a<k1>sTiti<k2>sTi/ti
@@ -26719,7 +26719,7 @@ by a thing; {%and so%} <div n="2"/>{@—3.@} devotion to
 High <ab>Ger.</ab> {%stollo, *stol-no,%} ‘prop, post’;
 <lang n="greek">στῦλ-ος</lang>, ‘post, pillar’; these words, like
 <lang n="greek">στήλη</lang>, Doric <lang n="greek">στάλα</lang>, ‘prop, post,’ presuppose  <lbinfo n="presup-pose"/>
-the root in causal <ab>mg</ab>s, ‘cause to
+the root in causal <ab>mgs</ab>, ‘cause to
 stand,’ <ab>i. e.</ab> ({%a%}) ‘keep from falling, prop
 up,’ and ({%b%}) ‘set up,’ as a pillar: the root
 [Page280-b+ 50]
@@ -27039,7 +27039,7 @@ drinks,’ <ab>RV.</ab>]
 {@svadhā́vant,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1.@} (having his wont,
 {%<ab>i. e.</ab>%}) keeping to his custom, faithful, constant; <lbinfo n="con-stant;"/>
  <div n="2"/>{@—2.@} (having bliss, {%<ab>i. e.</ab>%}) blessed,
-<ls n="lan,78,17">78<sup>17</sup></ls>, <ls n="lan,79,4, 15">79<sup>4, 15</sup></ls>. [{@1svadhā,@} <ls n="wg,1233">1233</ls>: see <ab>mg</ab>s 1
+<ls n="lan,78,17">78<sup>17</sup></ls>, <ls n="lan,79,4, 15">79<sup>4, 15</sup></ls>. [{@1svadhā,@} <ls n="wg,1233">1233</ls>: see <ab>mgs</ab> 1
 and 3.]
 <LEND>
 <L>4810<pc>282-b<k1>svaDiti<k2>sva/Diti
@@ -27418,7 +27418,7 @@ irregular <ab>pass.</ab> to {@√1hṛ,@} ‘take’ (<ab>reg.</ab>
 {%the <ab>Eng.</ab>%} carrying away, taking) charming; <lbinfo n="charm-ing;"/>
  <div n="2"/>{@—3.@} carrying off, removing, destroying; <lbinfo n="destroy-ing;"/>
  {%as <ab>m.</ab>%} Hara, the Destroyer, a name
-of Śiva, <ls n="lan,55,21">55<sup>21</sup></ls>. [{@√1hṛ,@} see its <ab>mg</ab>s.]
+of Śiva, <ls n="lan,55,21">55<sup>21</sup></ls>. [{@√1hṛ,@} see its <ab>mgs</ab>.]
 <LEND>
 <L>4867<pc>285-a<k1>haraRa<k2>ha/raRa
 {@háraṇa,@}¦ {%<ab>a.</ab>%} holding. [{@√1hṛ,@} ‘hold.’]
