@@ -209,7 +209,7 @@
 <L>17341.01<pc>0647-a<k1>nunna<k2>nunna<type>alt<LP>17341<k1P>nutta<ln1>145905<ln2>145909
 <L>17393.01<pc>0649-a<k1>nEcikI<k2>nEcikI<type>alt<LP>17393<k1P>nEcakI<ln1>146329<ln2>146333
 <L>17437.01<pc>0649-c<k1>nEbiqyaM<k2>nEbiqyaM<type>alt<LP>17437<k1P>nEviqyaM<ln1>146533<ln2>146537
-<L>17495.01<pc>0651-c<k1>kadaMbagolakanyAyaH<k2>kadaMbagolakanyAyaH<type>alt<LP>17495<k1P>kadaMbakorakanyAyaH<ln1>146996<ln2>147003
+;<L>17495.01<pc>0651-c<k1>kadaMbagolakanyAyaH<k2>kadaMbagolakanyAyaH<type>alt<LP>17495<k1P>kadaMbakorakanyAyaH<ln1>146996<ln2>147003
 <L>17634.01<pc>0659-c<k1>pawwISaH<k2>pawwISaH<type>alt<LP>17634<k1P>pawwiSaH<ln1>148604<ln2>148609
 <L>17746.01<pc>0665-b<k1>panUH<k2>panUH<type>alt<LP>17746<k1P>panuH<ln1>149817<ln2>149819
 <L>17787.01<pc>0668-c<k1>parasvaDaH<k2>parasvaDaH<type>alt<LP>17787<k1P>paraSvaDaH<ln1>150498<ln2>150502
