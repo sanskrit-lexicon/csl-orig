@@ -13899,7 +13899,7 @@ nachsenden, hinschicken. {#sa/pra#} jemand
 <LEND>
 
 <L>3134<pc>051-1<k1>iz<k2>iz<h>2
-2. {#iz#},¦ {#ecCa/ti, °te#}, suchen, außuchena,
+2. {#iz#},¦ {#icCa/ti, °te#}, suchen, aufsuchen,
 wünschen (dass etwas sei {%acc. mit Partic.)%},
 begehren, erbitten (von {%Abl. o. Loc.%}
 annehmen, statuieren als, wofür halten
@@ -28594,7 +28594,7 @@ ehrwürdige Person, {%d. i.%} Vater, Mutter,
 älterer Verwandter, {%bes.%} Lehrer {%(auch%}
 {%Pl.)%}, das Haupt von {%(Gen. o.%} —°).
 [Page110-1]
-{%Compar.%} {#gurutara#} {%u.%} {#gu/rIyas#} schwerer,
+{%Compar.%} {#gurutara#} {%u.%} {#ga/rIyas#} schwerer,
 würdiger als ({%Abl., so auch%} {#guru#}); {%auch%}
 {%absol.%} sehr schwer, würdig {%etc.; Superl.%}
 {#garizWa#} stark angeschwollen.
@@ -29629,7 +29629,7 @@ Rhapsode, Astrolog.
 {#graB#}¦ {%(jünger%} {#grah), gfBRA/ti, gfBRIte/, gfhlA/#}
 {#ti, gfhlIte/ (gfhlati, °te)#} greifen, fassen,
 packen, nehmen {%(in jeder Bed.)%} sammeln,
-pflücken {%(Blumen),)%} schöpfen {%(flüssigkeiten)%}, <lbinfo n="10"/>
+pflücken {%(Blumen),)%} schöpfen {%(Flüssigkeiten)%}, <lbinfo n="10"/>
 anlegen {%(Kleider)%}, betreten
 {%(einen Weg)%}; {#pARim#} die Hand nehmen
 {%(beim Heiraten)%}, kAryam eine Sache, Klage
@@ -43081,7 +43081,7 @@ Not.
 <LEND>
 
 <L>9390<pc>166-2<k1>dama<k2>da/ma<h>1
-1. {#da/ma#}¦ {%m. n.%} Haus, wohnung.
+1. {#da/ma#}¦ {%m. n.%} Haus, Wohnung.
 <LEND>
 
 <L>9391<pc>166-2<k1>dama<k2>dama/<h>2
@@ -98983,7 +98983,7 @@ gehalten; umringt, umgeben, bedeckt,
 erfüllt, voll von {%(Instr. o.%} —°). {%Caus.%}
 {#vAra/yati, °te#} zurück-, abhalten, wehren,
 hemmen, unterdrücken, ausschließen.
-{%p. p.%} {#varita#} zurückgehalten u. s. w. (versteck <lbinfo n="5"/>
+{%p. p.%} {#varita#} zurückgehalten u. s. w. (versteckt <lbinfo n="5"/>
 in— {%Instr.*%} ), verwehrt, verboten.
 {#apa#} aufdecken, enthüllen. {%Caus.%} verstecken; <lbinfo n="8"/>
 {#apavAritam#} {%u.%} {#apavArya#} {%(d.)%}
@@ -99000,7 +99000,7 @@ füllt von ({%Instr. o.%} —°); umgelegt, angethan. <lbinfo n="7"/>
 {#samA#} bedecken, erfüllen, hem-
 men. {%p. p.%} {#samAvfta#} bedeckt, erfüllt, erfüllt <lbinfo n="5"/>
 von, bedeckt mit ({%Instr. 0.%}  —°);
-verschlossen; vorethalten {%(Gen.).%} {#ni#}
+verschlossen; vorenthalten {%(Gen.).%} {#ni#}
 abwehren; {%p. p.%} {#ni/vfta#} zurück-, fest-
 gehalten. {%Caus. (auch%} {#vini)#} zurück-,
 ab-, aufhalten, hemmen, verbieten,
@@ -99036,8 +99036,8 @@ gern haben, lieben, annehmen; jemd.
 lassen; {%p. p.%} {#vfta/#}. {%Caus.%} {#varayati, °te#} erwählen, <lbinfo n="7"/>
 jemd. um etw. bitten {%(2 Acc.)%},
 werben um {%(Acc., auch mit)%} {#patim#} {%o.%}
-{#patnIm). A#} erwählen, wünschen; ge-
-währen, erfüllen {%(Wunsch).%} {#nis#} auswählen. <lbinfo n="7"/>
+{#patnIm). A#} erwählen, wünschen; gewähren, <lbinfo n="7"/>
+erfüllen {%(Wunsch).%} {#nis#} auswählen. <lbinfo n="7"/>
 {#pari#} {%u.%} erwählen.
 <LEND>
 
