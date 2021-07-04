@@ -114,7 +114,7 @@
 <div n="lb"/>ROXBURGHII ARN.</bot> = <bot>AMYRIS COMMIPHORA ROXB.</bot>;
 <div n="P"/>b) KB 1, p. 528-529: <bot>COMMIPHORA AGALLOCHA ENGL.</bot> = <bot>BALSA-
 <div n="lb"/>MODENDRUM ROXBURGHIII ARN.</bot> = <bot>AMYRIS COMMIPHORA
-<div n="lb"/>ROXB.</bot>; the Index Kewensis disagress with Chopra and KB
+<div n="lb"/>ROXB.</bot>; the Index Kewensis disagrees with Chopra and KB
 <div n="lb"/>and distinguishes:
 <div n="P"/>a) <bot>COMMIPHORA MUKUL ENGL.</bot> = <bot>C. ROXBURGHII ENGL.</bot> = <bot>BAL-
 <div n="lb"/>SAMODENDRUM ROXBURGHII STOCKS</bot> = <bot>B. WIGHTII ARN.</bot>;
