@@ -3196,7 +3196,7 @@
 <div n="lb"/>during the year while the sacrificial horse is allowed to wander
 <div n="lb"/>at its will is called the ‘cyclic’ ({%pari-plavam%}). The Aitareya
 <div n="lb"/>Brāhmaṇa<sup>3</sup> mentions also Ākhyāna-vids (‘men versed in
-<div n="lb"/>tales’), who tell the Sauparṇa legend, elswhere<sup>4</sup> known as a
+<div n="lb"/>tales’), who tell the Sauparṇa legend, elsewhere<sup>4</sup> known as a
 <div n="lb"/>{@Vyākhyāna.@} Yāska, in the Nirukta,<sup>5</sup> frequently uses the term,
 <div n="lb"/>sometimes in a pregnant sense as denoting the doctrine of the
 <div n="lb"/>Aitihāsikas or traditional interpreters of the Rigveda.<sup>6</sup>
@@ -6130,7 +6130,7 @@
 {@Ulūkhala@}¦ is the regular expression for ‘mortar’ from the
 <div n="lb"/>Rigveda<sup>1</sup> onwards, occurring frequently also in the compound<sup>2</sup>
 <div n="lb"/>Ulūkala-musala, ‘mortar and pestle.’ The exact construction
-<div n="lb"/>of the vessel is quite unkown till we reach the Sūtra period.
+<div n="lb"/>of the vessel is quite unknown till we reach the Sūtra period.
 <F>1) i. 28, 6; Av. x. 9, 26; xi. 3, 3;
 <div n="lb"/>xii. 3, 13: Taittirīya Saṃhitā, v. 2,
 <div n="lb"/>8, 7; vii. 2, 1, 3; Śatapatha Brāhmaṇa,
@@ -6883,7 +6883,7 @@
 <F>11) Agni as Hotṛ and Purohita occurs
 <div n="lb"/>in Rv. i. 1, 1; iii. 3, 2; 11, 1; v. 11, 2.
 <div n="lb"/>His Purohitaship is described in terms
-<div n="lb"/>characteristic of the Hotṛ's funcitons
+<div n="lb"/>characteristic of the Hotṛ's functions
 <div n="lb"/>in Rv. viii. 27, 1; x. 1, 6. Devāpi is
 <div n="lb"/>Purohita and Hotṛ. Rv. x. 98.</F>
 <F>12) Rv. x. 66, 13; in x. 70, 7, {%purohitāv%}
@@ -7493,7 +7493,7 @@
 <div n="lb"/>sense, from which Zimmer<sup>7</sup> conjectures that the wearing of
 [Page1-125+ 50]
 <div n="lb"/>false plaits of hair was not unknown in Vedic times. What
-<div n="lb"/>was the difference between the braic referred to in the
+<div n="lb"/>was the difference between the braids referred to in the
 <div n="lb"/>epithets {%pṛthu ṣṭuka,%}<sup>8</sup> ‘having broad braids,’ and {%viṣita-ṣṭuka,%}<sup>9</sup>
 <div n="lb"/>‘having loosened braids,’ and the Opaśa cannot be made out
 <div n="lb"/>from the evidence available. Geldner<sup>10</sup> thinks that the original
@@ -7659,7 +7659,7 @@
 {@Aupa-manyava,@}¦ ‘descendant of Upamanyu,’ is the patro-
 <div n="lb"/>nymic of various persons: see {@Kāmboja, Prācīnaśāla, Mahā-@}
 <div n="lb"/>{@śāla.@} The best known bearer of the name is the grammarian
-<div n="lb"/>who disagreed with the onomatopetic theory of the derivation
+<div n="lb"/>who disagreed with the onomatopoetic theory of the derivation
 <div n="lb"/>of names, and who is mentioned by Yāska.<sup>1</sup> An Aupamanyavī-
 <div n="lb"/>putra occurs in the Baudhāyana Śrauta Sūtra<sup>2</sup> as a teacher.
 <F>1) i. 1; ii. 2. 6. 11, etc.</F>
@@ -7968,7 +7968,7 @@
 <L>501<pc>1-133<k1>kaNkatIya<k2>kaNkatIya
 {@Kaṅkatīya@}¦ is the name of a family said in the Śatapatha
 <div n="lb"/>Brāhmaṇa<sup>1</sup> to have learned from {@Śāṇḍilya@} the piling up of the
-<div n="lb"/>sacrificial firse ({%agni-cayana.%}) In the Āpastamba Śrauta Sūtra<sup>2</sup>
+<div n="lb"/>sacrificial fire ({%agni-cayana.%}) In the Āpastamba Śrauta Sūtra<sup>2</sup>
 <div n="lb"/>a Kaṅkati Brāhmaṇa, no doubt the textbook of the school, is
 <div n="lb"/>referred to. It may have been identical with the Chāgaleya
 <div n="lb"/>Brāhmaṇa, cited in the Baudhāyana Śrauta Sūtra.<sup>3</sup>
@@ -9140,7 +9140,7 @@
 <div n="lb"/>already developed the sense of time as fate. The word is
 <div n="lb"/>frequent in the Brāhmaṇas,<sup>3</sup> superseding the earlier use of {@Ṛtu.@}
 <div n="lb"/>The more general division of time is into ‘past’ ({%bhūta%}),
-<div n="lb"/>‘present’ ({%bhavat%}), and ‘future’ ({%bhaviṣyat%}).<sup>4</sup> For other divisons
+<div n="lb"/>‘present’ ({%bhavat%}), and ‘future’ ({%bhaviṣyat%}).<sup>4</sup> For other divisions
 <div n="lb"/>see {@Ahan, Māsa, Saṃvatsara.@}
 <F>1) x. 42, 9.</F>
 <F>2) xix. 53. 54.</F>
@@ -11186,7 +11186,7 @@
 {@Kekaya@}¦ is the name of a tribe which in later days, and
 <div n="lb"/>probably also in Vedic times, was settled in the north-west,
 [Page1-186+ 48]
-<div n="lb"/>oetween the {@Sindhu@} (Indus) and {@Vitastā.@}<sup>1</sup> In the Vedic texts
+<div n="lb"/>between the {@Sindhu@} (Indus) and {@Vitastā.@}<sup>1</sup> In the Vedic texts
 <div n="lb"/>the Kekayas are mentioned indirectly only in the name of their
 <div n="lb"/>prince {@Aśvapati Kaikeya.@}<sup>2</sup>
 <F>1) Pargiter, {%Journal of the Royal Asiatic%}
@@ -14093,7 +14093,7 @@
 <div n="P"/>Oxen were regularly used for ploughing or for drawing
 <div n="lb"/>wagons ({%anaḍvāh%}), in which case they were, it seems, usually
 <div n="lb"/>castrated.<sup>22</sup> Cows were not properly used for drawing carts,
-<div n="lb"/>hough they at times did so.<sup>23</sup> The flesh of both cows and
+<div n="lb"/>though they at times did so.<sup>23</sup> The flesh of both cows and
 <div n="lb"/>bulls was sometimes eaten ({@Māmsa@}). Cattle were certainly the
 [Page1-234+ 44]
 <div n="lb"/>objects of individual ownership, and they formed one of the
@@ -15380,7 +15380,7 @@
 {@Caṇḍāla,@}¦<sup>1</sup> {@Cāṇḍāla,@}<sup>2</sup> are the variant forms of the name of a
 <div n="lb"/>despised caste, which in origin was probably a tribal body,<sup>3</sup> but
 <div n="lb"/>which in the Brahminical theory was the offspring of Śūdra
-<div n="lb"/>athers and Brahmin mothers.<sup>4</sup> The references to the caste in
+<div n="lb"/>fathers and Brahmin mothers.<sup>4</sup> The references to the caste in
 <div n="lb"/>he Yajurveda Saṃhitās and in the Upaniṣads show clearly
 <div n="lb"/>hat it was a degraded one, but they yield no particulars.
 <F>1) Chāndogya Upaniṣad, v. 10, 7;
@@ -16136,7 +16136,7 @@
 <div n="lb"/>passage of the Atharvaveda<sup>4</sup> the word designates a constella-
 <div n="lb"/>tion, and Whitney,<sup>5</sup> who does not decide whether that interpre-
 <div n="lb"/>tation is necessary, suggests that the constellation <lang n="greek"></lang>
-<div n="lb"/>Aquarii may be meant, sicne the next verse mentions {@Vicṛtau,@}
+<div n="lb"/>Aquarii may be meant, since the next verse mentions {@Vicṛtau,@}
 <div n="lb"/>which is the constellation <lang n="greek"></lang> and <lang n="greek"></lang> Scorpionis, and is not far
 <div n="lb"/>from Aquarius. See also {@Chardis.@}
 <F>1) x. 85, 10 (of Sūryā's bridal car).</F>
@@ -16620,7 +16620,7 @@
 <div n="lb"/>general sense of ‘woman’ is doubtful; for when Uṣas is called
 <div n="lb"/>a fair {@Janī,@}<sup>1</sup> ‘wife’ may be meant, and the other passage<sup>2</sup> cited
 <div n="lb"/>for this sense by Delbrück,<sup>3</sup> which refers to the begetting of
-<div n="lb"/>childern, seems to demand the sense of ‘wives.’ Since the
+<div n="lb"/>children, seems to demand the sense of ‘wives.’ Since the
 <div n="lb"/>words usually appear in the plural,<sup>4</sup> it is possible they may
 [Page1-275+ 45]
 <div n="lb"/>refer not to ‘wives’ proper, but to Hetairai. This is, how-
@@ -16795,7 +16795,7 @@
 <div n="P"/>({%a%}) Jayanta Pārāśarya (‘descendant of {@Parāśara@}’) is mentioned
 <div n="lb"/>as a pupil of {@Vipaścit@} in a Vaṃśa (list of teachers).<sup>1</sup>
 <div n="P"/>({%b%}) Jayanta Vārakya (‘descendant of Varaka’) appears in the
-<div n="lb"/>same Vaṃśa<sup>1</sup> as a pupil of {@Kubera Vārakya.@} His grandtather
+<div n="lb"/>same Vaṃśa<sup>1</sup> as a pupil of {@Kubera Vārakya.@} His grandfather
 <div n="lb"/>is also mentioned there as a pupil of {@Kaṃsa Vārakya.@}
 <div n="P"/>({%c%}) A Jayanta Vārakya, pupil of {@Suyajña Śāṇḍilya,@} perhaps
 <div n="lb"/>identical with the preceding, is found in another Vaṃśa.<sup>2</sup>
@@ -18316,7 +18316,7 @@
 <div n="P"/>The punishment of thieves appears primarily to have been
 <div n="lb"/>left to the action of the robbed. The practice of binding them
 <div n="lb"/>in stocks<sup>26</sup> seems clearly referred to. But later, at any rate — 
-<div n="lb"/>and in all probability earlier also, as in othe countries — a more
+<div n="lb"/>and in all probability earlier also, as in other countries — a more
 <div n="lb"/>severe penalty could be exacted, and death inflicted by the
 <div n="lb"/>king.<sup>27</sup> There is no hint in Vedic literature of the mode of
 <div n="lb"/>conviction; a fire ordeal is not known to the Atharvaveda,<sup>28</sup>
@@ -21037,7 +21037,7 @@
 <div n="lb"/>tended it to include demon foes. Roth<sup>14</sup> considers that the
 <div n="lb"/>meaning of human enemy is a transfer from the strife of gods
 [Page1-349+ 59]
-<div n="lb"/>and demons. Lassen<sup>15</sup> attempted to onnect the contrast
+<div n="lb"/>and demons. Lassen<sup>15</sup> attempted to connect the contrast
 <div n="lb"/>{%daqyu: dasyu%} with that of {%daeva: deva,%} and to see in it a result
 <div n="lb"/>of the religious differences which, according to Haug's theory,
 <div n="lb"/>had separated the Iranians and the Indians. The word may
@@ -21402,7 +21402,7 @@
 <div n="lb"/>{%lectio;%} see St. Petersburg Dictionary,
 <div n="lb"/>{%s.v.%}). {%Cf.%} Delbrück, {%Die indogermanischen%}
 <div n="lb"/>{%Verwandtschaftsnamen,%} 415, 416, who
-<div n="lb"/>igneres the Bṛhadāraṇyaka passage.</F>
+<div n="lb"/>ignores the Bṛhadāraṇyaka passage.</F>
 <LEND>
 
 <L>1291<pc>1-353<k1>dAru<k2>dAru
@@ -24661,7 +24661,7 @@
 <div n="lb"/>expression.<sup>4</sup> Jacobi<sup>5</sup> sees in the motion of the Dhruva the
 <div n="lb"/>possibility of fixing a date, on the ground that the only star
 <div n="lb"/>which could have been deemed a pole star, as ‘immovable,’ was
-<div n="lb"/>one ({%a%} Draconis) of the third millenium B.C. But this attempt
+<div n="lb"/>one ({%a%} Draconis) of the third millennium B.C. But this attempt
 <div n="lb"/>to extract chronology from the name of the star is of very
 <div n="lb"/>doubtful validity.<sup>6</sup>
 <F>1) Āśvalāyana Gṛhya Sūtra, i. 7, 22;
@@ -25720,8 +25720,8 @@
 <div n="lb"/>latter he did not regard as being in origin lunar mansions at all.
 <div n="lb"/>He thought that they were equatorial stars used, as in modern
 <div n="lb"/>astronomy, as a standard to which planets or other stars
-<div n="lb"/>observed in the neighbourhood can be eferred; they were, as
-<div n="lb"/>regards twenty-four of them, selecte about B.C. 2357 on
+<div n="lb"/>observed in the neighbourhood can be referred; they were, as
+<div n="lb"/>regards twenty-four of them, selected about B.C. 2357 on
 <div n="lb"/>account of their proximity to the equator, and of their having
 <div n="lb"/>the same right ascension as certain circumpolar stars which had
 <div n="lb"/>attracted the attention of Chinese observers. Four more were
@@ -28968,7 +28968,7 @@
 <div n="lb"/>in the singular, apparent exceptions being due to some mytho-
 <div n="lb"/>logical reason.<sup>46</sup> Zimmer<sup>47</sup> is of opinion that polygamy is
 <div n="lb"/>dying out in the Rigvedic period, monogamy being developed
-<div n="lb"/>from pologamy; Weber,<sup>48</sup> however, thinks that polygamy is
+<div n="lb"/>from polygamy; Weber,<sup>48</sup> however, thinks that polygamy is
 <div n="lb"/>secondary, a view that is supported by more recent anthro-
 <div n="lb"/>pology.<sup>49</sup>
 <div n="P"/>{%Polyandry.%} — On the other hand, polyandry is not Vedic.<sup>50</sup>
@@ -29197,7 +29197,7 @@
 <div n="lb"/>contemplate the custom anywhere, but on the contrary con-
 <div n="lb"/>siders the widow as married apparently to the brother of the
 <div n="lb"/>dead man.<sup>144</sup> The custom of Suttee would therefore appear
-<div n="lb"/>buring the Vedic age to have been in abeyance, at least as
+<div n="lb"/>during the Vedic age to have been in abeyance, at least as
 <div n="lb"/>a general rule. At all times the practice seems to have been
 <div n="lb"/>mainly usual among families of the warrior class, to judge
 <div n="lb"/>from the other Indo-Germanic parallels.<sup>145</sup> In other classes
@@ -29519,7 +29519,7 @@
 <div n="lb"/>adduced. The later custom is not con-
 <div n="lb"/>clusive, since it is bound up with the
 <div n="lb"/>usage of child marriage, which deprived
-<div n="lb"/>both son and daughter of anyfree choice.
+<div n="lb"/>both son and daughter of any free choice.
 <div n="lb"/>{%Cf. ibid.,%} 315; Kaegi, {%Der Rigveda,%} 15.</F>
 <F>83) This is so natural as not to need
 <div n="lb"/>express evidence. {%Cf., e.g.,%} the marriage
@@ -32034,7 +32034,7 @@
 
 <L>1817<pc>1-525<k1>pitAmaha<k2>pitAmaha
 {@Pitā-maha,@}¦ beside {@Tatāmaha,@} denotes from the Atharvaveda
-<div n="lb"/>onwards<sup>1</sup> the ‘paternal grandfather,’ apparmtly as a ‘father in
+<div n="lb"/>onwards<sup>1</sup> the ‘paternal grandfather,’ apparently as a ‘father in
 <div n="lb"/>a higher sense.’<sup>2</sup> The great-grandfather is {@Prapitāmaha@} and
 <div n="lb"/>{@Pratatāmaha.@}<sup>3</sup> It is significant that there are no corrésponding
 <div n="lb"/>Vedic words for maternal grandparents, and that the words
@@ -32671,7 +32671,7 @@
 <F>1) vi. 11, 1.</F>
 <F>2) Kauśika Sūtra, xxxv. 8. {%Cf.%} Bloom-
 <div n="lb"/>field, {%Hymns of the Atharvaveda,%} 460;
-<div n="lb"/>whitney, Translation of the Atharva-
+<div n="lb"/>Whitney, Translation of the Atharva-
 <div n="lb"/>veda, 288. The later Gṛhya ritual
 <div n="lb"/>knows a special rite called Puṃsavana.
 <div n="lb"/>See Āśvalāyana Gṛhya Sūtra, i. 13;
@@ -32882,7 +32882,7 @@
 <div n="lb"/>by overflowing rivers. Forts ‘with a hundred walls’ ({%śata-%}
 <div n="lb"/>{%bhuji%}) are spoken of.<sup>7</sup>
 <div n="P"/>It would probably be a mistake to regard these forts as
-<div n="lb"/>premanently occupied fortified places like the fortresses of the
+<div n="lb"/>permanently occupied fortified places like the fortresses of the
 <div n="lb"/>mediæval barony. They were probably merely places of refuge
 <div n="lb"/>against attack, ramparts of hardened earth with palisades and
 <div n="lb"/>a ditch ({%cf.%} {@Dehī@}). Pischel and Geldner,<sup>8</sup> however, think that
@@ -32954,7 +32954,7 @@
 <div n="lb"/>sometimes been built within the limits
 <div n="lb"/>of the village. Whether, as he urges
 <div n="lb"/>(144), the {%śāradī pur%} was a protection
-<div n="lb"/>against the floods of antumn is un-
+<div n="lb"/>against the floods of autumn is un-
 <div n="lb"/>certain. {%Cf.%} Rv. i. 131, 4; 174, 2;
 <div n="lb"/>vi. 20, 10. In particular, it is not
 <div n="lb"/>legitimate to connect the mention of
@@ -38801,7 +38801,7 @@
 <div n="lb"/>in the profit, besides securing the {@Dakṣiṇās.@} Disputes between
 <div n="lb"/>sacrificers and the priests were not rare, as in the case of
 <div n="lb"/>{@Viśvantara@} and the {@Śyāparṇas,@}<sup>114</sup> or {@Janamejaya@} and the
-<div n="lb"/>{@Asitamṛgas;@}<sup>115</sup> and the {@Aiṣāvīras@} are referred to as undersirable
+<div n="lb"/>{@Asitamṛgas;@}<sup>115</sup> and the {@Aiṣāvīras@} are referred to as undesirable
 <div n="lb"/>priests.<sup>116</sup> Moreover, {@Viśvāmitra@} once held the post of Puro-
 <div n="lb"/>hita to {@Sudās,@} but gave place to {@Vasiṣṭha.@}
 [Page2-090+ 53]
@@ -39827,7 +39827,7 @@
 <L>2256<pc>2-101<k1>BArgava<k2>BArgava
 {@Bhārgava,@}¦ ‘descendant of {@Bhṛgu,@}’ is the patronymic of
 <div n="lb"/>several teachers, including {@Cyavana@}<sup>1</sup> and {@Gṛtsamada.@}<sup>2</sup> Other
-<div n="lb"/>Bhārgavas are also mentioned without dication of their
+<div n="lb"/>Bhārgavas are also mentioned without indication of their
 <div n="lb"/>personal names.<sup>3</sup>
 <F>1) Śatapatha Brāhmaṇa, iv. 1, 5, 1;
 <div n="lb"/>Aitareya Brāhmaṇa. viii. 21.</F>
@@ -40027,7 +40027,7 @@
 <div n="lb"/>if we assume that Viśpalā was a mare, as has been suggested by
 <div n="lb"/>Pischel.<sup>14</sup> It would in all probability be a mistake to assume<sup>15</sup>
 <div n="lb"/>that the Vedic Indians had any surgical skill: they no doubt
-<div n="lb"/>applied simples to wounds,<sup>16</sup> but both their medicien and their
+<div n="lb"/>applied simples to wounds,<sup>16</sup> but both their medicine and their
 <div n="lb"/>surgery must have been most primitive. All that the Atharva-
 <div n="lb"/>veda shows in regard to medicine is the use of herbs combined
 <div n="lb"/>with spells,<sup>17</sup> and of water ({%cf.%} {@Jalāṣa@}), remedies Indo-European
@@ -43891,7 +43891,7 @@
 <div n="lb"/>legend as one of heavenly, not of human, events. Mudgala,
 <div n="lb"/>probably a variant form of Mudgara,<sup>10</sup> which in the later
 <div n="lb"/>language means a hammer or a similar weapon, may be meant
-<div n="lb"/>as a personfication of the thunderbolt of Indra, rather than
+<div n="lb"/>as a personification of the thunderbolt of Indra, rather than
 <div n="lb"/>a real man.<sup>11</sup> Later<sup>12</sup> Mudgala is a mythical sage.
 <F>1) x. 102.</F>
 <F>2) {%Vedische Studien,%} 1, 124.</F>
@@ -44207,7 +44207,7 @@
 <F>1) i. 64, 7; iv. 16, 14.</F>
 <F>2) St. Petersburg Dictionary, {%s.v.; Nirukta, Erläuterungen,%} 79.</F>
 <F>3) Pischel, {%Vedische Studien,%} 1, 99, 100,
-<div n="lb"/>combats the view that the eler hant was
+<div n="lb"/>combats the view that the elephant was
 <div n="lb"/>new to the Vedic Indian, because of
 <div n="lb"/>the similar use of {%mṛga mahiṣa%} and
 <div n="lb"/>{%mṛga sūkara%} (Av. xii. 1, 48) to denote
@@ -44321,7 +44321,7 @@
 
 <L>2515<pc>2-174<k1>mfgavyADa<k2>mfgavyADa
 {@Mṛga-vyādha,@}¦ ‘the hunter,’ is the name of Sirius in the
-<div n="lb"/>legned of Prajāpati's daughter in the Aitareya Brāhmaṇa.<sup>1</sup>
+<div n="lb"/>legend of Prajāpati's daughter in the Aitareya Brāhmaṇa.<sup>1</sup>
 <div n="lb"/>Prajāpati (Orion) pursues his daughter (Rohiṇī), and is shot
 <div n="lb"/>by the archer Sirius. The transference of the legend of
 <div n="lb"/>Prajāpati to the sky is no doubt secondary, caused by the
@@ -44377,7 +44377,7 @@
 <div n="lb"/>spoken of as a hundred years.<sup>7</sup> On the other hand, the evils
 <div n="lb"/>of old age in the loss of physical strength were clearly realized.<sup>8</sup>
 <div n="lb"/>one of the feats of the Aśvins was to restore old {@Cyavāna@} to
-<div n="lb"/>his former youth and powers, and another was the rejuventation
+<div n="lb"/>his former youth and powers, and another was the rejuvenation
 <div n="lb"/>of {@Kali.@}<sup>9</sup> The Atharvaveda<sup>10</sup> is full of charms of all sorts to
 <div n="lb"/>avert death and secure length of years ({%āyuṣya%}).
 <div n="P"/>The modes of disposing of the dead were burial and cremation
@@ -46461,7 +46461,7 @@
 <div n="lb"/>means not so much ‘reins’ as ‘headstall.’ In others<sup>2</sup> the
 <div n="lb"/>sense of ‘traces’ seems certain, though sometimes<sup>3</sup> ‘reins’ or
 <div n="lb"/>‘traces’ may equally well be intended. Elsewhere the more
-<div n="lb"/>general sense of ‘rope’ for stening is meant.<sup>4</sup>
+<div n="lb"/>general sense of ‘rope’ for fastening is meant.<sup>4</sup>
 <F>1) i. 162, 8. {%Cf.%} {@Rajju.@}</F>
 <F>2) Rv. i. 163, 2. 5; x. 79, 7.</F>
 <F>3) Rv. iv. 1. 9; ix. 87, 1; x. 18, 14.
@@ -46678,7 +46678,7 @@
 <div n="lb"/>probable that the king could assign the royal right of mainten-
 <div n="lb"/>ance to a Kṣatriya, thus developing a nobility supported by the
 <div n="lb"/>people. Taxation would not normally fall on Kṣatriya or
-<div n="lb"/>Brahmin; the texts contam emphatic assertions of the exemp-
+<div n="lb"/>Brahmin; the texts contain emphatic assertions of the exemp-
 <div n="lb"/>tion of the goods of the latter from the royal bounty.<sup>19</sup>In
 <div n="lb"/>the people, however, lay the strength of the king.<sup>20</sup> See also
 <div n="lb"/>{@Bali.@}
@@ -46700,7 +46700,7 @@
 <div n="lb"/>human king.<sup>25</sup> Possibly such spies could be used in war
 <div n="lb"/>also.<sup>26</sup>
 <div n="P"/>There is no reference in early Vedic literature to the exercise
-<div n="lb"/>of legislative activitv by the king, though later it is an essential
+<div n="lb"/>of legislative activity by the king, though later it is an essential
 [Page2-214+ 52]
 <div n="lb"/>part of his duties.<sup>27</sup> Nor can we say exactly what executive
 <div n="lb"/>functions devolved on the king.
@@ -48708,7 +48708,7 @@
 <div n="lb"/>82; Hopkins, {%Journal of the American%}
 <div n="lb"/>{%Oriental Society,%} 17, 67, who points out
 <div n="lb"/>that, even in the Rigveda, its use is
-<div n="lb"/>predominantly metraphorical, x. 28, 4,
+<div n="lb"/>predominantly metaphorical, x. 28, 4,
 <div n="lb"/>and x. 86, 4, being the only clear
 <div n="lb"/>instances of the real sense, and of these
 <div n="lb"/>x. 86, 4, is doubtful. See also Geldner,
@@ -49117,7 +49117,7 @@
 <div n="lb"/>tion of marriage between <lang n="greek"></lang>, no doubt ‘castes,’ a characteristic
 <div n="lb"/>of Indian life. The evidence of Pāli literature<sup>88</sup> is in favour of
 <div n="lb"/>this view, though it shows that a king could marry whom he
-<div n="lb"/>wished, and could make his son by that wife the heir appearent.
+<div n="lb"/>wished, and could make his son by that wife the heir apparent.
 <div n="lb"/>But it equally shows that there were others who held that not
 <div n="lb"/>the father's but the mother's rank determined the social
 <div n="lb"/>standing of the son. Though Manu<sup>89</sup> recognizes the possibility
@@ -49805,7 +49805,7 @@
 <div n="lb"/>{%et seq.;%} ii. 4, 9, 7, with Bühler's note;
 <div n="lb"/>Manu, iv. 210 {%et seq.;%} Viṣṇu, 41, 7 {%et seq.;%}
 <div n="lb"/>Fick, {%op. cit.,%} 30-33, who points out
-<div n="lb"/>that the Jātakas cohtain little evidence
+<div n="lb"/>that the Jātakas contain little evidence
 <div n="lb"/>on the practice. Senart, {%Les Castes dans%}
 <div n="lb"/>{%l'Inde,%} 48 {%et seq.,%} 212 {%et seq.,%} attributes
 <div n="lb"/>great importance to the question of
@@ -49819,7 +49819,7 @@
 <div n="lb"/>whole {%gens%} renewed its blood kinship.
 <div n="lb"/>If we have no evidence exactly estab-
 <div n="lb"/>lishing this for the Gotra in early Vedic
-<div n="lb"/>literature, we need not nesitate to
+<div n="lb"/>literature, we need not hesitate to
 <div n="lb"/>believe that in the earliest Vedic period
 <div n="lb"/>the Gotra had solemn festivals of union,
 <div n="lb"/>and of communication with the dead,
@@ -52299,7 +52299,7 @@
 <div n="lb"/>much light, as these institutions are themselves of obscure
 <div n="lb"/>character, and the parallelism need not be cogent. It is, at
 <div n="lb"/>any rate, possible that the Viś may in some cases have been no
-<div n="lb"/>more than a Gotra or clan, or different clans may sometirnes
+<div n="lb"/>more than a Gotra or clan, or different clans may sometimes
 [Page2-307+ 72]
 <div n="lb"/>have made up a Viś, while Grāma is more definitely, perhaps, a
 <div n="lb"/>local designation. But the Vedic evidence is quite inconclusive.<sup>11</sup>
@@ -52353,7 +52353,7 @@
 <div n="lb"/>tribe such as ‘canton.’</F>
 <F>10) xv. 8, 2, 3, {%Cf.%} xiv. 2, 27, and
 <div n="lb"/>Rv. x. 91, 2, in n. 9.</F>
-<F>11) The Viś may have been oringinally
+<F>11) The Viś may have been originally
 <div n="lb"/>a clan settled in one place: there is
 <div n="lb"/>no passage where ‘Gotra’ would not
 <div n="lb"/>probably make sense; Rv. ii. 26, 3,
@@ -52531,7 +52531,7 @@
 
 <L>2987<pc>2-309<k1>viSvamanas<k2>viSvamanas
 {@Viśva-manas@}¦ is the name of a Ṛṣi mentioned in two passages
-<div n="lb"/>of the Rigveda,<sup>1</sup> and as a frined of Indra in the Pañcaviṃśa
+<div n="lb"/>of the Rigveda,<sup>1</sup> and as a friend of Indra in the Pañcaviṃśa
 [Page2-310+ 47]
 <div n="lb"/>Brāhmaṇa.<sup>2</sup> According to the Anukramaṇī (Index), he was a
 <div n="lb"/>descendant of {@Vyaśva,@} and the author of certain hymns.<sup>3</sup>
@@ -52670,7 +52670,7 @@
 <div n="lb"/>and which omits all allusion to the
 <div n="lb"/>‘lordship’ of the Jahnus. This shows
 <div n="lb"/>how little stress can-be laid on this
-<div n="lb"/>latetradition.</F>
+<div n="lb"/>late tradition.</F>
 <F>17) xxi. 12, 2.
 <div n="P"/>{%Cf.%} Ludwig, Translation of the Rig-
 <div n="lb"/>veda, 3, 121; Oldenberg, {%Zeitschrift der%}
@@ -52798,7 +52798,7 @@
 <LEND>
 
 <L>3001<pc>2-314<k1>vizkanDa<k2>vizkanDa
-{@Vi-ṣkandha@}¦ occurs severai times in the Atharvaveda<sup>1</sup> as the
+{@Vi-ṣkandha@}¦ occurs several times in the Atharvaveda<sup>1</sup> as the
 <div n="lb"/>name of a disease. As rem dies against it a lead amulet,<sup>2</sup> or
 <div n="lb"/>hemp,<sup>3</sup> or a salve,<sup>4</sup> or the {@Ja giḍa@} plant are recommended for
 <div n="lb"/>use.<sup>5</sup> Weber<sup>6</sup> suggests that the disease meant is ‘rheumatism,’
@@ -54027,7 +54027,7 @@
 <F>10) Kauśika Sūtra, lxxx.</F>
 <F>11) ii. 5, 4, 4.</F>
 <F>12) Rhys Davids, {%Buddhist India,%} 55
-<div n="lb"/>{%et seq.,%} argues to the contrarya from
+<div n="lb"/>{%et seq.,%} argues to the contrary from
 <div n="lb"/>Buddhist evidence; but this has no
 <div n="lb"/>cogency for the Vedic period, and much,
 <div n="lb"/>if not all, of it is hardly in point as
@@ -54301,7 +54301,7 @@
 <L>3110<pc>2-339<k1>vyAsapArASarya<k2>vyAsapArASarya
 {@Vyāsa Pārāśarya@}¦ (‘descendant of {@Parāśara@}’) is the name of
 <div n="lb"/>a mythical sage who in the Vedic period is found only as a pupil
-<div n="lb"/>of {@Viṣvaksena@} in the Vaṃśa (list of teacheres) at the end of the
+<div n="lb"/>of {@Viṣvaksena@} in the Vaṃśa (list of teachers) at the end of the
 <div n="lb"/>Sāmavidhāna Brāhmaṇa and in the late Taittirīya Āraṇyaka.<sup>1</sup>
 <F>1) i. 9, 2. {%Cf.%} Weber, {%Indische Studien,%} 1, 156; 4, 377; {%Indian Literature,%} 184,
 <div n="lb"/>n. 199.</F>
@@ -54534,10 +54534,10 @@
 <div n="P"/>Some details are given of the life and dress of the Vrātyas.
 <div n="lb"/>Their principles were opposed to those of the Brahmins: they
 <div n="lb"/>beat those unworthy of correction.<sup>9</sup> Their leder (Gṛhapati) or
-<div n="lb"/>householder wore a turbrn ({@Uṣṇīṣa@}), carried a whip ({@Pratoda@}),
+<div n="lb"/>householder wore a turban ({@Uṣṇīṣa@}), carried a whip ({@Pratoda@}),
 <div n="lb"/>a kind of bow ({@Jyāhroḍa@}), was clothed in a black ({%kṛṣṇaśa%})
 <div n="lb"/>garment and two skins ({@Ajina@}), black and white ({%kṛṣṇa-valakṣa%}),
-<div n="lb"/>and owned a rough vagon ({@Vipatha@}) covered with planks
+<div n="lb"/>and owned a rough wagon ({@Vipatha@}) covered with planks
 [Page2-344+ 51]
 <div n="lb"/>({%phalakāstīrṇa%}). The others,<sup>10</sup> subordinate to the leader, had
 <div n="lb"/>garments with fringes of red ({%valūkāntāni dāmatūṣāṇi%}), two
@@ -54556,7 +54556,7 @@
 <div n="lb"/>Sūtras make the Brahmin receiving the gift of the Vrātya's
 <div n="lb"/>outfit an inhabitant of {@Magadha.@} The Atharvaveda<sup>13</sup> does not
 <div n="lb"/>help, for it treats the Vrātya in so mystical a way that he is
-<div n="lb"/>represented as being in all the quacters. Indeed, Roth<sup>14</sup>
+<div n="lb"/>represented as being in all the quarters. Indeed, Roth<sup>14</sup>
 <div n="lb"/>believed that it was here not a case of the Vrātya of the Pañca-
 <div n="lb"/>viṃśa Brāhmaṇa at all, but of a glorification of the Vrātya as
 <div n="lb"/>the type of the pious vagrant or wandering religious mendicant
@@ -54890,7 +54890,7 @@
 
 <L>3141<pc>2-349<k1>SaNku<k2>SaNku
 {@Śaṅku@}¦ in the Rigveda<sup>1</sup> and later<sup>2</sup> denotes a ‘wooden peg.’
-<div n="lb"/>Thus the {@term@} is used of the pags by which a skin is stretched
+<div n="lb"/>Thus the {@term@} is used of the pegs by which a skin is stretched
 <div n="lb"/>out in the Śatapatha Brāhmaṇa,<sup>3</sup> and of the pin of hobbles
 <div n="lb"/>({@Paḍbīśa@}).<sup>4</sup> {@In@} the Chāndogya Upaniṣad<sup>5</sup> it may mean ‘stalk’<sup>6</sup>
 <div n="lb"/>or ‘fibre of a {@leaf.@}’<sup>7</sup>
@@ -54951,7 +54951,7 @@
 <L>3147<pc>2-350<k1>SacIvant<k2>SacIvant
 {@Śacīvant@}¦ is apparently the name of a man in one passage of
 <div n="lb"/>the Rigveda,<sup>1</sup> where the vocative {%Śacīvaḥ%} occurs. But Roth<sup>2</sup>
-<div n="lb"/>perfers to read {%Śacī ca%} instead.
+<div n="lb"/>prefers to read {%Śacī ca%} instead.
 <F>1) x. 74. 5.</F>
 <F>2) St. Petersburg Dictionary, {%s.v.%}
 <div n="lb"/>{%Cf.%} Ludwig, Translation of the Rig-
@@ -55713,7 +55713,7 @@
 <F>1) Av. xi. 7, 21; Taittirīya Saṃhitā,
 <div n="lb"/>v. 1, 6, 2; 2, 6, 2; 6, 4, 4, etc.</F>
 <F>2) Taittirīya Brāhmaṇa, i. 1, 3, 7;
-<div n="lb"/>2, 1, 4; iii. 12, 6, atapatha Brāh-
+<div n="lb"/>2, 1, 4; iii. 12, 6, Śatapatha Brāh-
 <div n="lb"/>maṇa, ii. 1, 1, 8, etc.</F>
 <LEND>
 
@@ -56287,7 +56287,7 @@
 
 <L>3236<pc>2-372<k1>SAmulya<k2>SAmulya
 {@Śāmulya@}¦ in the marriage hymn of the Rigveda<sup>1</sup> denotes a
-<div n="lb"/>collen garment’ worn at night.
+<div n="lb"/>woollen garment’ worn at night.
 <F>1) x. 85, 29. {%Cf.%} Zimmer, {%Altindisches Leben,%} 262.</F>
 <LEND>
 [Page2-373+ 36]
@@ -56826,7 +56826,7 @@
 <div n="lb"/>of their identity with the <lang n="greek"></lang><sup>3</sup> or <lang n="greek"></lang><sup>4</sup> of the Greeks, who
 <div n="lb"/>dwelt between the Indus and the Akesines ({@Asiknī@}) in Alexander's
 <div n="lb"/>time. The village of Śiva-pura, mentioned by the scholiast on
-<div n="lb"/>Pāṇini<sup>5</sup> as situated in the northern country, may also perserve
+<div n="lb"/>Pāṇini<sup>5</sup> as situated in the northern country, may also preserve
 <div n="lb"/>the name. {%Cf.%} {@Śibi.@}
 <F>1) vii. 18, 7.</F>
 <F>2) {%Zur Litteratur und Geschichte des%}
@@ -57957,7 +57957,7 @@
 <F>8) iv. 29. 4; xviii. 3, 15.</F>
 <F>9) viii. 5. 9. Weber, {%Episches im%}
 <div n="lb"/>{%vedischen Ritual,%} 27, n. 4, bases on this
-<div n="lb"/>an improbable conjeciure that he was
+<div n="lb"/>an improbable conjecture that he was
 <div n="lb"/>a Kṣatriya.</F>
 <F>10) i. 11, 2. But {%cf.%} Sieg, {%op. cit.,%} 61,
 <div n="lb"/>n. 4, who takes the word adjectivally,
@@ -58543,7 +58543,7 @@
 <div n="lb"/>stream, probably a tributary of the Indus.<sup>2</sup>
 <F>1) x. 75, 6.</F>
 <F>2) Zimmer, {%Altindisches Leben,%} 14, 15;
-<div n="lb"/>udwig, Translation of the Rigveda, 3,
+<div n="lb"/>Ludwig, Translation of the Rigveda, 3,
 <div n="lb"/>200, gives the form as Śvetī; Geldner,
 <div n="lb"/>{%Rigveda, Glossar,%} 184, gives both forms.</F>
 <LEND>
@@ -59468,7 +59468,7 @@
 {@Sabhā@}¦ is the name of an ‘assembly’ of the Vedic Indians as
 <div n="lb"/>well as of the ‘hall’ where they met in assembly. It is often
 <div n="lb"/>mentioned in the Rigveda<sup>1</sup> and later,<sup>2</sup> but its exact character is
-<div n="lb"/>not certain. The hall was clearly used for dicing,<sup>3</sup> presurnably
+<div n="lb"/>not certain. The hall was clearly used for dicing,<sup>3</sup> presumably
 <div n="lb"/>when the assembly was not transacting public business: a
 <div n="lb"/>dicer is called {%sabhā-sthāṇu,%} ‘pillar of the assembly hall,’ doubt-
 <div n="lb"/>less because of his constant presence there.<sup>4</sup> The hall also
@@ -60881,7 +60881,7 @@
 <div n="lb"/>lion is spoken of as a marvel.<sup>8</sup> The lion, being dangerous to
 <div n="lb"/>men,<sup>9</sup> was trapped,<sup>10</sup> lain in wait for in ambush,<sup>11</sup> or chased by
 <div n="lb"/>hunting bands.<sup>12</sup> But dogs were terrified of lions.<sup>13</sup> The
-<div n="lb"/>liones ({%siṃhī%}) was also famous for her courage: the aid given
+<div n="lb"/>lioness ({%siṃhī%}) was also famous for her courage: the aid given
 <div n="lb"/>by Indra to {@Sudās@} against the vast host of his enemies is
 <div n="lb"/>compared to the defeat of a lioness by a ram ({@Petva@}).<sup>14</sup> The
 <div n="lb"/>gaping jaws of the lioness when attacking men are alluded to in
@@ -64326,7 +64326,7 @@
 <L>3807<pc>2-503<k1>himavant<k2>himavant
 {@Himavant,@}¦ ‘snowy,’ appears as an epithet of mountains in
 <div n="lb"/>the Atharvaveda.<sup>1</sup> It is also used both there<sup>2</sup> and in the
-<div n="lb"/>Rigveda,<sup>3</sup> as well as later,<sup>4</sup> as a noun. There seems no reasen
+<div n="lb"/>Rigveda,<sup>3</sup> as well as later,<sup>4</sup> as a noun. There seems no reason
 <div n="lb"/>to deny that in all the passages the word refers vaguely to the
 <div n="lb"/>mountains now called Himālaya, though it is possible that the
 <div n="lb"/>name may include mountains not strictly in that system, like
