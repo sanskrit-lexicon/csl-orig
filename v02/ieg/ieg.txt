@@ -21376,8 +21376,8 @@
 <div n="lb">collected]; may be Sanskrit {%bhāga.%}
 <LEND>
 
-<L>3950<pc>226<k1>pAG<k2>pAG
-{%pāgh%}¦ḏ{%ī,%} cf. {%talār-ābhāvya.%}
+<L>3950<pc>226<k1>pAGqI<k2>pAGqI
+{%pāghḏī,%}¦ cf. {%talār-ābhāvya.%}
 <LEND>
 
 <L>3951<pc>226<k1>pagod<k2>pagod, pagoda
