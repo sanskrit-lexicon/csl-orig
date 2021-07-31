@@ -3790,8 +3790,8 @@
 {%Auparika%}¦ (EI 8-3), same as {%Uparika%} (q. v.).
 <LEND>
 
-<L>661<pc>037<k1>OpaSatiko<k2>OpaSatiko
-{%Aupaśatiko,%}¦ cf. Prakrit {%Opasati%} (EI 16), name of a
+<L>661<pc>037<k1>OpaSatika<k2>OpaSatika
+{%Aupaśatika,%}¦ cf. Prakrit {%Opasati%} (EI 16), name of a
 <div n="lb">{%gotra.%}
 <LEND>
 
@@ -5880,8 +5880,8 @@
 {%bodhyaṅga,%}¦ cf. {%bojjhaṅga%} (EI 5), Buddhist; seven in number.
 <LEND>
 
-<L>1048<pc>060<k1>bo<k2>bo
-{%Bo%}¦ḏ{%iyā,%} local name of the Gujarātī alphabet ({%Ind. Ep.,%}
+<L>1048<pc>060<k1>boqiyA<k2>boqiyA
+{%Boḏiyā,%}¦ local name of the Gujarātī alphabet ({%Ind. Ep.,%}
 <div n="lb">p. 55).
 <LEND>
 
@@ -21376,8 +21376,8 @@
 <div n="lb">collected]; may be Sanskrit {%bhāga.%}
 <LEND>
 
-<L>3950<pc>226<k1>pAG<k2>pAG
-{%pāgh%}¦ḏ{%ī,%} cf. {%talār-ābhāvya.%}
+<L>3950<pc>226<k1>pAGqI<k2>pAGqI
+{%pāghḏī,%}¦ cf. {%talār-ābhāvya.%}
 <LEND>
 
 <L>3951<pc>226<k1>pagod<k2>pagod, pagoda
@@ -38891,7 +38891,7 @@
 {%ilakkulam%}¦ (SII 13), a tax.
 <LEND>
 
-<L>7241<pc>413<k1>ilampuYjE<k2>ilam-puYjE, Ilam-puwci
+<L>7241<pc>413<k1>iLampuYjE<k2>iLam-puYjE, Ilam-puwci
 {%iḻam-puñjai, īḻam-puṭci%}¦ (SITI), Tamil; tax for toddy-
 <div n="lb">drawing.
 <LEND>

@@ -55893,8 +55893,8 @@
 <div n="lb"/>tirīya Brāhmaṇa, i. 1, 9, 9; 2, 1, 15.</F>
 <LEND>
 
-<L>3202<pc>2-366<k1>Salmall<k2>Salmall
-{@Śalmall@}¦ is the name of the ‘silk cotton tree’ ({%Salmalia Mala-%}
+<L>3202<pc>2-366<k1>Salmali<k2>Salmali
+{@Śalmali@}¦ is the name of the ‘silk cotton tree’ ({%Salmalia Mala-%}
 <div n="lb"/>{%barica%}). Its fruit is regarded as poisonous in the Rigveda,<sup>1</sup> but
 <div n="lb"/>the car of the bridal procession is made of its wood.<sup>2</sup> It is
 <div n="lb"/>described as the tallest of trees.<sup>3</sup>

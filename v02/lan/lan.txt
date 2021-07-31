@@ -8321,8 +8321,8 @@ from outcast Kshatriyas).
 <L>1664<pc>160-b<k1>Wio<k2>Wio
 {@ṭhio,@}¦ {%a Prakrit form for%} {@sthito.@}
 <LEND>
-<L>1665<pc>160-b<k1>QAnk<k2>QAnk
-{@√ḍhānk@}¦ ({@ḍhaúkate; ḍuḍhauké; ḍhaukitá;@} <lbinfo n="ḍhauk-itá;"/>
+<L>1665<pc>160-b<k1>QOk<k2>QOk
+{@√ḍhāuk@}¦ ({@ḍhaúkate; ḍuḍhauké; ḍhaukitá;@} <lbinfo n="ḍhauk-itá;"/>
 {@ḍhaukáyati@}). approach; {%<ab>caus.</ab>%} bring
 near.
 <div n="p"/>{@+ upa,@} bring to; provide.
@@ -17703,8 +17703,8 @@ gracious; forgive. [for {@ḻ,@} see Whitney
 {@mṛtavat,@}¦ {%<ab>adv.</ab>%} as if dead. [{@mṛta,@}
 <ls n="wg,1107">1107.</ls>]
 <LEND>
-<L>3336<pc>219-b<k1>mftyO<k2>mftyO/
-{@mṛtyaú,@}¦ {%<ab>m.</ab>%} death. [{@√1mṛ,@} ‘die,’ <ls n="wg,1165">1165a</ls>:
+<L>3336<pc>219-b<k1>mftyu<k2>mftyu/
+{@mṛtyú,@}¦ {%<ab>m.</ab>%} death. [{@√1mṛ,@} ‘die,’ <ls n="wg,1165">1165a</ls>:
 see <ls n="lan,95,16">95<sup>16</sup></ls>.]
 <LEND>
 <L>3337<pc>219-b<k1>mfd<k2>mfd
@@ -25570,8 +25570,8 @@ sprinkle in token of consecration, {%and so%}
 <div n="p"/>{@+ ni,@} pour down {%or%} in; semen infundere
 feminae.
 <LEND>
-<L>4586<pc>272-b<k1>sie<k2>si/e
-{@síe,@}¦ {%<ab>f.</ab>%} hem of a garment {%or%} robe.
+<L>4586<pc>272-b<k1>sic<k2>si/e
+{@síc,@}¦ {%<ab>f.</ab>%} hem of a garment {%or%} robe.
 <LEND>
 <L>4587<pc>272-b<k1>sidDa<k2>sidDa
 {@siddha,@}¦ {%<ab>a.</ab>%} perfected; {%as <ab>m.</ab> <ab>pl.</ab>%} the Siddhas, <lbinfo n="Sid-dhas,"/>
