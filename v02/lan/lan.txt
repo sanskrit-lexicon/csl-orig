@@ -8321,8 +8321,8 @@ from outcast Kshatriyas).
 <L>1664<pc>160-b<k1>Wio<k2>Wio
 {@ṭhio,@}¦ {%a Prakrit form for%} {@sthito.@}
 <LEND>
-<L>1665<pc>160-b<k1>QAnk<k2>QAnk
-{@√ḍhānk@}¦ ({@ḍhaúkate; ḍuḍhauké; ḍhaukitá;@} <lbinfo n="ḍhauk-itá;"/>
+<L>1665<pc>160-b<k1>QOk<k2>QOk
+{@√ḍhāuk@}¦ ({@ḍhaúkate; ḍuḍhauké; ḍhaukitá;@} <lbinfo n="ḍhauk-itá;"/>
 {@ḍhaukáyati@}). approach; {%<ab>caus.</ab>%} bring
 near.
 <div n="p"/>{@+ upa,@} bring to; provide.

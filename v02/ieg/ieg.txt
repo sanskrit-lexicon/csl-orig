@@ -38891,7 +38891,7 @@
 {%ilakkulam%}¦ (SII 13), a tax.
 <LEND>
 
-<L>7241<pc>413<k1>ilampuYjE<k2>ilam-puYjE, Ilam-puwci
+<L>7241<pc>413<k1>iLampuYjE<k2>iLam-puYjE, Ilam-puwci
 {%iḻam-puñjai, īḻam-puṭci%}¦ (SITI), Tamil; tax for toddy-
 <div n="lb">drawing.
 <LEND>
