@@ -3790,8 +3790,8 @@
 {%Auparika%}¦ (EI 8-3), same as {%Uparika%} (q. v.).
 <LEND>
 
-<L>661<pc>037<k1>OpaSatiko<k2>OpaSatiko
-{%Aupaśatiko,%}¦ cf. Prakrit {%Opasati%} (EI 16), name of a
+<L>661<pc>037<k1>OpaSatika<k2>OpaSatika
+{%Aupaśatika,%}¦ cf. Prakrit {%Opasati%} (EI 16), name of a
 <div n="lb">{%gotra.%}
 <LEND>
 

@@ -17703,8 +17703,8 @@ gracious; forgive. [for {@ḻ,@} see Whitney
 {@mṛtavat,@}¦ {%<ab>adv.</ab>%} as if dead. [{@mṛta,@}
 <ls n="wg,1107">1107.</ls>]
 <LEND>
-<L>3336<pc>219-b<k1>mftyO<k2>mftyO/
-{@mṛtyaú,@}¦ {%<ab>m.</ab>%} death. [{@√1mṛ,@} ‘die,’ <ls n="wg,1165">1165a</ls>:
+<L>3336<pc>219-b<k1>mftyu<k2>mftyu/
+{@mṛtyú,@}¦ {%<ab>m.</ab>%} death. [{@√1mṛ,@} ‘die,’ <ls n="wg,1165">1165a</ls>:
 see <ls n="lan,95,16">95<sup>16</sup></ls>.]
 <LEND>
 <L>3337<pc>219-b<k1>mfd<k2>mfd
