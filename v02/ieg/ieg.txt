@@ -5880,8 +5880,8 @@
 {%bodhyaṅga,%}¦ cf. {%bojjhaṅga%} (EI 5), Buddhist; seven in number.
 <LEND>
 
-<L>1048<pc>060<k1>bo<k2>bo
-{%Bo%}¦ḏ{%iyā,%} local name of the Gujarātī alphabet ({%Ind. Ep.,%}
+<L>1048<pc>060<k1>boqiyA<k2>boqiyA
+{%Boḏiyā,%}¦ local name of the Gujarātī alphabet ({%Ind. Ep.,%}
 <div n="lb">p. 55).
 <LEND>
 

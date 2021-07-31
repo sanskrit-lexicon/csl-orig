@@ -25570,8 +25570,8 @@ sprinkle in token of consecration, {%and so%}
 <div n="p"/>{@+ ni,@} pour down {%or%} in; semen infundere
 feminae.
 <LEND>
-<L>4586<pc>272-b<k1>sie<k2>si/e
-{@síe,@}¦ {%<ab>f.</ab>%} hem of a garment {%or%} robe.
+<L>4586<pc>272-b<k1>sic<k2>si/e
+{@síc,@}¦ {%<ab>f.</ab>%} hem of a garment {%or%} robe.
 <LEND>
 <L>4587<pc>272-b<k1>sidDa<k2>sidDa
 {@siddha,@}¦ {%<ab>a.</ab>%} perfected; {%as <ab>m.</ab> <ab>pl.</ab>%} the Siddhas, <lbinfo n="Sid-dhas,"/>
