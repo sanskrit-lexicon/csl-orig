@@ -30561,7 +30561,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 
 <L>4400<pc>152-a<k1>anvayavyatirekin<k2>anvayavyatirekin
 {#anvayavyatirekin#}¦ m. f. n. ({#-kI-kiRI-ki#}) (In the Nyāya-Vai-
-<div n="lb">śeṣika philosophy.) Congruous and dispar, positive and ne-
+<div n="lb">śeṣika philosophy.) Congruous and disparate, positive and ne-
 <div n="lb">gative; one of the three kinds of inference; see {#anumAna#} and
 <div n="lb">the explanation given there. Compare also {#anvayavyatireka#}.
 <div n="lb">E. {#anvayavyatireka,#} taddh. aff. {#ini#}.
@@ -45894,7 +45894,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">{#vAnarAH#}) {#samutpeturnaBastalam;#} or {#ayaM mETilyaBijYAnaM kAkutsTa-#}
 <div n="lb">{#syANgurIyakaH#}. <sup>4</sup> The dark portion in the moon's disk. [A
 <div n="lb">nom. plur. masc. {#aBijYAnAH#} is mentioned by {%Langlois%} in
-<div n="lb">his tranel. of the {%Harivanśa%} as a v. 1. of {#aBiglAna#} q. v.]
+<div n="lb">his transl. of the {%Harivanśa%} as a v. 1. of {#aBiglAna#} q. v.]
 <div n="lb">E. {#jYA#} with {#aBi,#} kṛt aff. {#lyuw#}.
 <LEND>
 
@@ -51431,7 +51431,7 @@ II. {#abaDA#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <div n="lb">with the liquid (in the ladle or vessel), while reciting the
 <div n="lb">three {%Ṛgveda%}-verses, the {%Yajurveda%}-verse and uttering the
 [Page279-a+ 56]
-<div n="lb">three sacred words mentioned above (p{%a%}ge 276{%a,%} line 22 ff.).
+<div n="lb">three sacred words mentioned above (page 276{%a,%} line 22 ff.).
 <div n="lb">Lastly he addresses the king with the prayer that the Vasus,
 <div n="lb">the Rudras and the other divinities who performed this cere-
 <div n="lb">mony for Indra in the East, South &c. may severally do the
