@@ -11,7 +11,7 @@ BY
 {@VAMAN SHIVRAM APTE,@} M. A.,
 {%Author of the “Practical” and “Student's” Sanskrit-English%}
 {%Dictionaries, “Student's Guide to Sanskrit%}
-{%Composition”%} {??}{%c.%} {??}{%c.,%}
+{%Composition”%} {%&c.%} {%&c.,%}
 LATE PRINCIPAL AND PROFESSOR OF
 SANSKRIT FERGUSSON COLLEGE
 POONA
@@ -39388,7 +39388,7 @@ supply the forms, according to rules given in grammars.
 <div n="lb"/>{#upamAnaM, pratirUpaM, sAdfSyaM#}. -{@ive,@} {%a.%} {#anu-#}
 <div n="lb"/>{#-karaRaSIla, anukArin, anugAmin#}. -{@or,@} {%s.%}
 <div n="lb"/>{#anukartf#} {%m.,%} {#anukArakaH, anuyAyin-anu-#}
-<div n="lb"/>{#????#}
+
 <div n="lb"/>{#-kArin#} {%m.,%} {#anugatikaH#}.
 <LEND>
 
@@ -89522,7 +89522,7 @@ Arabic figures in the case of dramas &c. refer to the act or page.
 
 <C1>{@D. K.@} <C2>Dashakumarachari-
 -ta, I denothing the
-Purvapithi{??}a,
+Purvapithika,
 and II the Ut-
 -tarapithika, and
 the Arabic figure,
@@ -89569,7 +89569,7 @@ order.
 <C1>P. <C2>Panchatantra, the
 Roman figure de-
 -noting the num-
--ber of the {??}antra
+ber of the Tantra
 and the Arabic,
 the number of the
 story (Bombay

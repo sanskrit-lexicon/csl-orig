@@ -14377,7 +14377,7 @@
 <div n="lb">details of land, etc.; fees for the division of land; also the fee
 <div n="lb">for settlement of a dispute, etc.
 <div n="P">Cf. {%veli-kkāśu, veli-ppaya%}ṟ{%u%} (SITI), Tamil; tax payable in
-<div n="lb">cash, the exact nature of which is not clear. Cf. {%veli-kku%}l13{??}-
+<div n="lb">cash, the exact nature of which is not clear. Cf. {%veli-kkuḻ%}-
 <div n="lb">{%ppaṇam.%}
 <div n="P">{%Cf. inavari-kkāśu%} (SITI), communal tax payable in coin;
 <div n="lb">cf. {%jāti-siddh-āya%} of Telugu inscriptions.
@@ -30256,7 +30256,7 @@
 <LEND>
 
 <L>5631<pc>320<k1>SrIraNga<k2>SrI-raNga
-{%śrī-raṅga,%}¦ cf. Tamil {%tiru{??}-araṅgu%} (SITI), same as {%raṅga-%}
+{%śrī-raṅga,%}¦ cf. Tamil {%tiru-araṅgu%} (SITI), same as {%raṅga-%}
 <div n="lb">{%maṇḍapa.%}
 <LEND>
 

@@ -1484,7 +1484,7 @@
 <L>225<pc>007-a<k1>akzarapaNkti<k2>akzarapaNkti
 {#akzarapaNkti#}¦ Tatpur. f. ({#-NktiH#}) Name of a verse or metre con-
 <div n="lb">sisting of four lines, each of them containing one Dactylus
-<div n="lb">and one Spondaeus ({??}), named also {#paNkti#} and {#haMsa#}.
+<div n="lb">and one Spondaeus (¯˘˘¯¯), named also {#paNkti#} and {#haMsa#}.
 <div n="lb">E. {#akzara#} and {#paNkti#}.
 <LEND>
 
@@ -6386,7 +6386,7 @@
 <div n="lb">and {#kAkodumbarikA#}. In Bengal, the word derived from this
 [Page029-b+ 56]
 <div n="lb">implies the Guava; the term has, possibly, been borrowed
-<div n="lb">from the Persian. {??}. E. {#aYj,#} aff. {#Iran#}.
+<div n="lb">from the Persian انجیر. E. {#aYj,#} aff. {#Iran#}.
 <LEND>
 
 <L>1010<pc>029-b<k1>aw<k2>aw
@@ -8255,7 +8255,7 @@
 <div n="lb">{#cUqikA#} or {#cUlikA#}. <sup>2</sup> A metre regulated by number and
 <div n="lb">quantity; a variety of the metre {#atijagatI#} (q. v.) and con-
 <div n="lb">sisting of a stanza of four lines with the following feet
-<div n="lb">in each line: {??} Also called
+<div n="lb">in each line: ˘¯˘¯ | ˘˘˘˘¯˘¯˘¯. Also called
 <div n="lb">{#rucirA#}. E. {#ati#} and {#rucira#}.
 <LEND>
 
@@ -8583,7 +8583,7 @@
 <div n="P">II. f. ({#-nI#}) A metre regulated by number and quantity;
 <div n="lb">a variety of the class called {#atyazwi#} (q. v.) and consisting
 <div n="lb">of a stanza of four lines with the following feet in each
-<div n="lb">line: {??} Also called
+<div n="lb">line: ˘˘¯˘˘¯˘¯˘¯ | ˘˘˘¯˘¯¯. Also called
 <div n="lb">{#citraleKA#}.
 <div n="P">III. n. ({#-nam#}) used as adverb. Excessively. E. {#SI#} with
 <div n="lb">{#ati,#} kṛt aff. {#lyuw#}.
@@ -8834,7 +8834,7 @@
 <div n="P">II. m. ({#-raH#}) The name of a metre regulated by number
 <div n="lb">and quantity; a variety of the class called {#azwi,#} consisting
 <div n="lb">of a stanza of four lines with the following feet in each
-<div n="lb">line:{??} Also called
+<div n="lb">line: ¯˘¯˘¯˘¯˘ | ¯˘¯˘¯˘¯˘. Also called
 <div n="lb">{#citra, citrasaNga#} or {#caYcalA#}. E. {#ati#} and {#sundara#}.
 <LEND>
 
@@ -10906,7 +10906,7 @@
 <div n="lb">of the mountain Himālaya. <sup>2</sup> A metre regulated by number
 <div n="lb">and quantity; a variety of the class called {#vikfti#} q. v. It con-
 <div n="lb">sists of four lines, with the following twenty-three syllables
-<div n="lb">to each: {??},
+<div n="lb">to each: ˘˘˘˘¯˘¯˘˘˘¯ । ˘¯˘˘˘¯˘¯˘˘˘¯.
 <div n="lb">Also called {#aSvalalita#}. E. {#adri#} and {#tanayA#}.
 <LEND>
 [Page050-b+ 56]
@@ -15725,7 +15725,7 @@ III. {#ana#}¦ m. ({#-naH#}) Spiration; it is explained as the action
 <div n="P">II. f. ({#-tA#}) The name of a metre regulated by number and
 <div n="lb">quantity, a species of the class called Triṣṭubh (q. v.); it con-
 <div n="lb">sists of a stanza of four lines with the following eleven feet in
-<div n="lb">each line: {??} E. {#a#} neg. and {#avasita#}.
+<div n="lb">each line: ˘˘˘˘¯¯¯˘˘¯¯. E. {#a#} neg. and {#avasita#}.
 <LEND>
 
 <L>2445<pc>073-b<k1>anavaskara<k2>anavaskara
@@ -18387,7 +18387,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">polyandrum). See {#dantI#}. <sup>2</sup> The name of a metre regulated
 <div n="lb">by number and quantity; it belongs to the class, called
 <div n="lb">{#trizwuB#} q. v. and consists of a stanza of four lines with the
-<div n="lb">following eleven syllables in each: {??}
+<div n="lb">following eleven syllables in each: ¯˘˘¯¯ । ˘˘˘˘¯¯.
 <div n="lb">Also called {#kudmaladantI, mOktikamAlA#} and {#SrI#}.
 <div n="P">4. n. ({#-lam#}) (In Rhetoric.) An alaṅkāra or mode of writing
 <div n="lb">or speaking elegantly, viz. representing an act, unpleasant in
@@ -22935,7 +22935,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">may be departed from at the end of a Pāda, as in the instance
 <div n="lb">of the following first Pāda of the Āryā verse: {#aTa lulitapa-#}
 <div n="lb">{#tatrimAlaM rugnAsanavARakeSaratamAlam#} &c. where {#trimAlaM#} counts
-<div n="lb">for {??} |. ({#‘yadyapi CandaHSAstre sAnusvArasya gurutvamanuSizwaM#}
+<div n="lb">for ˘¯˘ |. ({#‘yadyapi CandaHSAstre sAnusvArasya gurutvamanuSizwaM#}
 <div n="lb">{#taTApi taTA pAdAntago'pi veti vacanAttasya laGutvAtpraTama-#}
 <div n="lb">{#pAde dvAdaSa mAtrA Bavanti’#}.) E. {#svf#} with {#anu,#} kṛt aff. {#GaY#}.
 <LEND>
@@ -33521,8 +33521,8 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <div n="lb">is composed of two equal and similar couplets but the
 <div n="lb">couplets of dissimilar verses; the first verse of the couplet
 <div n="lb">of the Aparavaktrā consists of the following eleven syllables:
-<div n="lb">{??}, and the second: of the following
-<div n="lb">twelve: {??} ||. E. {#apara#} and {#vaktra#}.
+<div n="lb">˘˘˘˘˘˘¯˘¯˘¯, and the second: of the following
+<div n="lb">twelve: ˘˘˘˘¯˘˘¯˘¯˘¯ ||. E. {#apara#} and {#vaktra#}.
 <LEND>
 
 <L>4738<pc>168-b<k1>aparavat<k2>aparavat
@@ -33713,7 +33713,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <div n="lb"><sup>4</sup> The name of a metre regulated by number and quantity,
 <div n="lb">a species of the metre called Śakvarī; it consists of a stanza
 <div n="lb">of four lines with the following fourteen syllables in each line:
-<div n="lb">{??} | {??}. <sup>5</sup> The name of several
+<div n="lb">˘˘˘˘˘˘¯ | ˘¯˘˘¯˘¯. <sup>5</sup> The name of several
 <div n="lb">plants: <sup>a.</sup> Clitoria ternatea; a species of a creeper with two
 <div n="lb">varieties, the one with white, the other with blue flowers (the
 <div n="lb">white variety described thus: {#latAviSezaH SvetAparAjitA .#}
@@ -35053,7 +35053,7 @@ II. {#apa#}¦ m. ({#-paH#}) A sea, an ocean. E. {#ap#} taddh. aff. {#ac#}.
 <div n="lb">Utkṛti; it consists of a stanza of four lines with the fol-
 [Page177-b+ 56]
 <div n="lb">lowing twenty six syllables in each line:
-<div n="lb">{??}
+<div n="lb">¯¯¯˘˘˘˘˘˘ । ˘˘˘˘˘˘ । ˘˘˘˘˘˘ । ˘˘¯¯¯.
 <div n="P">2. m. pl. ({#-hAH#}) The name of a country or people;
 <div n="lb">also read {#upavAha#} or {#pravAha#}. E. {#vah#} with {#apa,#} kṛt aff. {#GaY#}.
 <LEND>
@@ -53974,7 +53974,7 @@ II. {#aBIka#}¦ Tatpur. m. ({#-kaH#}) (ved.) [occurs especially in the
 <div n="lb">perhaps also in reference to time: {%soon; Nirukta:%} = {#A-#}
 <div n="lb">{#sanna#}); e. g. {%Ṛgv.:%} {#ko vAM mahaScittyajaso aBIka uruzyantaM#}
 <div n="lb">{#mADvI dasrA na UtI#} ({%Sāyaṇa:%} = {#AsannapradeSe#}); or {#sadyo#}
-<div n="lb">{#dasyUnpra mfRa kutsyena pra sUraSca{??} vfhatAdaBIke#} ({%Sāy.:%} = {#samIpe#}
+<div n="lb">{#dasyUnpra mfRa kutsyena pra sUraScakraM vfhatAdaBIke#} ({%Sāy.:%} = {#samIpe#}
 <div n="lb">or {#saMgrAme,#} see the following); or {#pari vAmaSvA vapuzaH pataNgA#}
 <div n="lb">{#vayo vahantvaruzA aBIke#} ({%Sāy.:%} = {#gfhasamIpe#}); or {#svarvatIrita#}
 <div n="lb">{#UtIryuvoraha citrA aBIke aBavannaBizwayaH#} ({%Sāy.:%} = {#samIpe#});
@@ -54255,9 +54255,9 @@ II. {#aBIti#}¦ Tatpur. f. ({#-tiH#}) Fearlessness; e. g. {%Hemach.nān.:%}
 <div n="lb">four lines with eleven {%mātrās%} in each line (the value of a
 <div n="lb">mātrā being a short syllable, and a long syllable equal to
 <div n="lb">two short), viz. each line being composed either of seven
-<div n="lb">mātrās and a Scolius ({??}), or of a Dactylus ({??}),
-<div n="lb">a Iambus ({??}) and a Scolius, or of a Scolius, a Tri-
-<div n="lb">brachys ({??}) and a Scolius. E. {#Ir#} with {#aBi,#} kṛt aff.
+<div n="lb">mātrās and a Scolius (˘¯˘), or of a Dactylus (¯˘˘),
+<div n="lb">a Iambus (˘¯) and a Scolius, or of a Scolius, a Tri-
+<div n="lb">brachys (˘˘˘) and a Scolius. E. {#Ir#} with {#aBi,#} kṛt aff.
 <div n="lb">{#ac#} (according to several comm. of the {%Amarak.%}); but the
 <div n="lb">word is probably not of Sanskṛ4tic origin.
 <LEND>

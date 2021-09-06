@@ -17,7 +17,7 @@
 [Pagetitle-iv+ 13]
 <>First Published 1978
 <>© Tej Ram Sharma 1976
-<>Tej Ram Sharma ({%b.%} 1941-{??})
+<>Tej Ram Sharma ({%b.%} 1941- )
 <>{%Published by%}
 <>Naurang Rai
 <>Concept Publishing Company
@@ -3010,7 +3010,7 @@
 <>zation of an Iranian name Farna-dāta which represents an old Iranian
 <>name Xvarenodāta, meaning ‘created by Majesty’; a name of the same
 <>type as Ahura-dāta.”
-<P>24. Fz. p. 606, col. 2; Cf. Lith. sparane; H. Germ. varn, farn; A{??}
+<P>24. Fz. p. 606, col. 2; Cf. Lith. sparane; H. Germ. varn, farn; Angl.
 <>Sax. fearn, Eng. fern; Skt. parṇa (leaf); Xz. p. 437.
 <P>25. See the appendix III.
 <P>26. Ibid.
@@ -12755,7 +12755,7 @@
 <>IV, 2386.
 <P>289. Pz. p. 55.
 <P>290. {#kOtsaSSAba iti KyAto vIrasenaH kulAKyayA .#}
-<>{#SabdArTa-nyAya-lokajYa{??}kavi{??}pAwalipunnakaH ..#}
+<>{#SabdArTa-nyAya-lokajYaᳲkaviᳲpAwalipunnakaH ..#}
 <P>291. {#daRqErgrAhayatEva kota-kulajaM puzpAhvaye krIqatA … #}
 <P>292. Girnar, Rock Edict No. 5, L. 7 (Hultzsch) p. 9:
 <>{# … pAwalipute ca bAhiresu ca .#}

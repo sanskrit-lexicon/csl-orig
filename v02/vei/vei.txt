@@ -1458,7 +1458,7 @@
 <F>2) St. Petersburg Dictionary, {%s.v.%}</F>
 <F>3) {%Altindisches Leben,%} 97. So also
 <div n="lb"/>Ludwig, Translation of the Rigveda,
-<div n="lb"/>{??} 342, 500.</F>
+<div n="lb"/>, 342, 500.</F>
 <F>4) {%American Journal of Philology,%} 11,
 <div n="lb"/>320 {%et seq.; Hymns of the Atharvaveda,%}
 <div n="lb"/>503, 504. {%Cf.%} Jolly, {%Medicin,%} 89;
@@ -64907,7 +64907,7 @@
 <>2^2, 482 {%et seq.;%} Grierson, {%Zeitschrift der Deutschen Morgenlän-%}
 <>{%dischen Gesellschaft,%} 66, 68, 73.
 <P>{@Brahmacarya.@} — The later rules are exhaustively given by
-<>O{??}aser, {%Zeitschrift der Deutschen Morgenländischen Gesellschaft,%}
+<>Glaser, {%Zeitschrift der Deutschen Morgenländischen Gesellschaft,%}
 <>66, 1 {%et seq.%}
 <P>{@Bhaṅga-śravas@} is the form of a man's name found in the
 <>Kāṭhaka Saṃhitā (xxxviii. 12) in the parallel to the passage of
@@ -66755,8 +66755,8 @@
 <HI>Tarku, ‘spindle,’ i. 300
 <HI>Tarda, ‘borer,’ i. 301
 <HI>Tardman, ‘hole in the yoke,’ i. 301
-<HI>Tarya, a man(?), i. 3{??}
-<HI>Talava, ‘musician,’ {??}
+<HI>Tarya, a man(?), i. 301
+<HI>Talava, ‘musician,’ i. 302
 <HI>Talāśa, a tree, i. 301
 <HI>Talpa, ‘bed,’ i. 301; ii. 54
 <HI>Taṣṭṛ, ‘carpenter,’ i. 302
@@ -67782,7 +67782,7 @@
 <>ii. 16, 330, 332
 <HI>Pṛthivī, ‘earth,’ i. 361; ii. 16, 17
 <HI>Pṛthu, a tribe(?), ii. 17
-<HI>1. Pṛthuśravas Kānīta, a patron, i. {??}
+<HI>1. Pṛthuśravas Kānīta, a patron, i. 147;
 <>ii. 17, 64
 <HI>2. Pṛthuśravas Daureśravasa, a mythic
 <>priest, i. 381; ii. 17
@@ -68033,7 +68033,7 @@
 <HI>Plākṣi, a man, ii. 55, 56
 <HI>Plāta, ii. 56
 <HI>Plāyogi, i. 70, 71; ii. 56
-<HI>Plā{??}i, ‘penis,’ ii. 361
+<HI>Plāśi, ‘penis,’ ii. 361
 <HI>Plāśuka, ‘quick-growing,’ ii. 56
 <HI>Plīhākarṇa, ‘with spleen-marked ears,’
 <>ii. 56
@@ -68874,7 +68874,7 @@
 <HI>1. Rohiṇī, ‘red cow,’ ii. 228
 <HI>2. Rohiṇī, a constellation, i. 410, 413,
 <>415, 418
-<HI>Rohit, ‘red ma{??}e,’ ‘red doe,’ ii. 228
+<HI>Rohit, ‘red mare,’ ‘red doe,’ ii. 228
 <HI>1. Rohita, ‘red horse,’ ii. 228
 <HI>2. Rohita, a man, ii. 228, 385, 499
 <HI>Rohitaka, a tree, ii. 228
@@ -69033,7 +69033,7 @@
 <HI>Vācaknavī, a woman, i. 226; ii. 280
 <HI>Vāja, ‘strength,’ ii. 280, 281
 <HI>Vājapeya, a feast, ii. 281, 433
-<HI>Vājabandhu, a man(?), ii. 28{??}
+<HI>Vājabandhu, a man(?), ii. 281
 <HI>Vājaratnāyana, ii. 282, 480
 <HI>Vājaśravas, a teacher, ii. 282
 <HI>Vājaśravasa, i. 88, 174, 432; ii. 282
@@ -69091,7 +69091,7 @@
 <HI>Vārṣagaṇīputra, ii. 289, 376
 <HI>Vārṣagaṇya, ii. 289, 460
 <HI>Vārṣāgira, i. 31, 108, 438; ii. 289
-<HI>Vārṣṇa, i. 238; ii. 61, 289, 393, 51{??}
+<HI>Vārṣṇa, i. 238; ii. 61, 289, 393, 512
 <HI>Vārṣṇivṛddha, i. 101: ii. 289
 <HI>Vārṣṇeya, ii. 289
 <HI>Vārṣṇya, ii. 290
@@ -69212,7 +69212,7 @@
 [Page2-559b+ 51]
 <HI>Viśvarūpa Tvāṣṭra, a mythical teacher,
 <>i. 59
-<HI>Vis{??}vayasa, a teacher, ii. 60
+<HI>Viśvavayasa, a teacher, ii. 60
 <HI>Viśvavāra, a sacrificer, ii. 310
 <HI>Viśvasāman, a seer, ii. 310
 <HI>Viśvasṛj (plur.), mythical sacrificers,
@@ -69662,12 +69662,12 @@
 <HI>2. Śūṣa Vāhneya, a teacher, ii. 101,
 <>393, 403
 <HI>Śṛṅga, ‘horn,’ ‘barb,’ i. 81, 324; ii. 393
-<HI>Śṛṅgavṛ{??}, a man, i. 161; ii. 393
+<HI>Śṛṅgavṛṣ, a man, i. 161; ii. 393
 <HI>Śepa, ‘penis,’ ii. 361
 <HI>Śerabha, Śerabhaka, a snake, or demon,
 <>ii. 393
 <HI>Śevadhi, ‘treasure,’ ii. 393
-<HI>Śevṛdha and Śevṛdhaka, a snake, o{??}
+<HI>Śevṛdha and Śevṛdhaka, a snake, or
 <>demon, ii. 394
 <HI>Śeṣaṇa, ‘leaving’ (of dice), ii. 394
 <HI>Śesas, ‘offspring,’ ii. 394
@@ -71079,7 +71079,7 @@
 <HĪ>Punarbhū (remarried wife), i. 537
 <HĪ>Pautra (grands n), ii. 26
 <HĪ>Praṇapāt (great grandson), ii. 29
-<HĪ>Prat{??}tāmaha (great grandfather),
+<HĪ>Pratatāmaha (great grandfather),
 <>ii. 29
 <HĪ>Pratyenas (heir), ii. 34
 <HĪ>Prapitāmaha (great granddada),
@@ -71093,7 +71093,7 @@
 <HĪ>Bhrātṛvya (cousin), ii. 114
 <HĪ>Māturbhrātra (maternal uncle), ii.
 <>150
-<HĪ>M{??}ula (maternal uncle), ii. 150
+<HĪ>Mātula (maternal uncle), ii. 150
 <HĪ>Mātṛ (mother), ii. 150, 151
 <HĪ>Vidhavā (widow), ii. 299, 300
 <HĪ>Śeṣas (offspring), ii. 394
@@ -72510,7 +72510,7 @@
 <HĪ>Sāsa (sword), ii. 374
 <HĪ>Siprā (helmet), ii. 379, 380
 <HĪ>Śṛṅga (barb), ii. 293
-<HĪ>Saṃgra{??}
+<HĪ>Saṃgrāma, ii. 416-418
 <HĪ>Saṃghāta, ii. 418
 <HĪ>Samara, ii. 429
 <HĪ>Savyaṣthā, Savyaṣṭhṛ, Savyeṣṭha,

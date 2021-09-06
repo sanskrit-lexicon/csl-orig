@@ -7726,7 +7726,7 @@
 <div n="lb"><s>kumbitA-trI, kumbayitA-trI, cukumbizitA-trI, cokumbitA-trI</s>,
 <sup>A</sup> <s>kumbitaH</s>;
 <div n="lb"><s>ityAdIni sarvARyapi rUpARi BOvAdikakuWi</s> (209) <s>DAtuvajjYeyAni .</s>
-<F>A. <s>‘UrDvaprasarbAnna tu carbitA mahI dikkuMbite'rke parilumbi{??}tAmbuje ..’ DA</s>. <s>kA</s>. 1-55.</F>
+<F>A. <s>‘UrDvaprasarbAnna tu carbitA mahI dikkuMbite'rke parilumbitAmbuje ..’ DA</s>. <s>kA</s>. 1-55.</F>
 <LEND>
 
 <L>227<pc>0215<k1>kubi<k2>kubi
@@ -9858,7 +9858,7 @@
 <div n="lb"><s>puruzakArastu curAdipAWaM nAnumanyate .</s></F>
 <F>2. <s>‘jAsiniprahaRanAwakrATapizAM—’</s> (2-3-56) <s>iti sUtre ‘krATa’ iti nipAtanAt</s>
 <div n="lb"><s>mittvaprayuktaH hrasvo bADyate . evaM Ryante sarvatra jYeyam .</s></F>
-<F>A. <s>‘SlaTyAtmanAM krATayatA'cyutena kiM nANgajo naH klaTayan aca{??}ni .’ DA</s>. <s>kA</s>. 2-10.</F>
+<F>A. <s>‘SlaTyAtmanAM krATayatA'cyutena kiM nANgajo naH klaTayan acAni .’ DA</s>. <s>kA</s>. 2-10.</F>
 <F>1. <s>‘supyajAtO RinistAcCIlye’</s> (3-2-78) <s>iti RiniH .</s></F>
 <F>2. <s>‘Kari ca’</s> (8-4-55) <s>iti carttvam .</s></F>
 <F>3. <s>‘jAsiniprahaRanAwakrATa—’</s> (2-3-56) <s>iti sUtre ‘krATa’ iti nipAtanAt</s>
@@ -10747,7 +10747,7 @@
 <sup>B</sup>
 <sup>2</sup> <s>alaMkliSitvA</s>
 <sup>C</sup>, <s>kleSayitvA, cikliSizitvA-cikleSizitvA-ciklikzitvA, cekliSitvA</s>;
-<div n="lb"><s>parikliSya, parikleSya, paricikliSizya-paricikli{??}Sizya-pariciklikzya, paricekliSya</s>;
+<div n="lb"><s>parikliSya, parikleSya, paricikliSizya-paricikleSizya-pariciklikzya, paricekliSya</s>;
 <div n="lb"><note n="1"/><s>kleSam</s> 2, <s>kliSitvA</s> 2, <s>klizwvA</s> 2, <s>kleSam</s> 2, <s>kleSayitvA</s> 2, <s>cikliSizam</s> 2 <s>-cikleSizam</s> 2 <s>-ciklikzam</s> 2, <s>cikliSizitvA</s> 2 <s>-cikleSizitvA</s> 2 <s>-ciklikzitvA</s> 2, <s>ceklilaSam</s> 2<s>; cekliSitvA</s> 2.
 <F><s>[a] ‘evamArADyamAno'pi kliSnAti Buvanatrayam .’ (kumArasamBave</s> 2-40) <s>ityAdi</s>-
 <div n="lb"><s>prayogAt sakarmakatvamapyasya DAtoriti jYAyate .</s></F>
@@ -16671,7 +16671,7 @@
 <div n="lb"><s>samAse, adantatvena prAptaM wApaM bADitvA jAtilakzaRo NIz Bavati .</s></F>
 <F>7. <s>sopasargAt ‘pAGrADmADewdfSaH SaH’</s> (3-1-137) <s>kartari SapratyayaH .</s>
 <div n="lb"><s>‘pAGrADmAsTAmnAdAR—’</s> (7-3-78) <s>ityAdinA jiGrAdeSaH . maDye vikaraRapratyayaH</s>
-<div n="lb"><s>Sap . ‘{??}pamitaM vyAGrAdiBiH—’</s> (2-1-56) <s>iti nirdeSAt saMjYAyAm upasfzwe'pi</s>
+<div n="lb"><s>Sap . ‘upamitaM vyAGrAdiBiH—’</s> (2-1-56) <s>iti nirdeSAt saMjYAyAm upasfzwe'pi</s>
 <div n="lb"><s>jiGrAdeSo na .</s></F>
 <F>B. <s>‘DvanInAmudDamEreBirmaDUnAmudDayErBfSam .</s>
 <div n="lb"><s>AjiGrEH puzpaganDAnAM pataNgErglapitA vayam ..’ Ba</s>. <s>kA</s>. 6-77.</F>
@@ -16693,7 +16693,7 @@
 <div n="lb"><s>NotA-trI, NAvayitA-trI, YuNUzitA-trI, YoNUyitA-trI</s>;
 <div n="P"><s>ityAdIni sarvARyapi rUpARi BOvAdikaSabdArTaka-kavati</s> (198) <s>vad</s>-
 <div n="lb"><s>boDyAni .</s>
-<F>5. <s>sannante yaNante cAByAse ‘kuhoScuH’</s> (7-4-62) <s>ityanena ca{??}rgavaYcamo Yakaro Bavati</s></F>
+<F>5. <s>sannante yaNante cAByAse ‘kuhoScuH’</s> (7-4-62) <s>ityanena cavargapaYcamo Yakaro Bavati</s></F>
 <LEND>
 
 <L>483<pc>0466<k1>caka<k2>caka
@@ -17854,7 +17854,7 @@
 <div n="lb"><note n="1"/><s>cAyam</s> 2, <s>cAyitvA</s> 2, <s>cAyam</s> 2, <s>cAyayitvA</s> 2, <s>cicAyizam</s> 2, <s>cicAyizitvA</s> 2, <s>cekIyam</s> 2<s>; cekIyitvA</s> 2.
 [Page0499+ 36]
 <div n="lb"><s>puwam paNktiH aSudDam SudDam</s>
-<div n="lb">251 1 <s>rkf{??} kfvi</s>
+<div n="lb">251 1 <s>rkfi kfvi</s>
 <div n="lb">252 1 112 252
 <div n="lb">254 27 <s>…mAgamaH . …mAgamo vA .</s>
 <div n="lb">255 22 <s>RyantAm RyantAt</s>
@@ -20544,7 +20544,7 @@
 <sup>3</sup> <s>jEvAtfkaH</s>,
 <sup>4</sup> <s>jIvantaH</s>.
 <F>4. <s>‘mANyAkroSa iti vaktavyam’ (vA</s>. 3-2-124) <s>iti SatA .</s></F>
-<F>A. <s>‘mA jIvan yaH parAvajYAduHKadagDo'pi jIvati .’ SiSu{??}lavaDe</s> 2. 45.</F>
+<F>A. <s>‘mA jIvan yaH parAvajYAduHKadagDo'pi jIvati .’ SiSupAlavaDe</s> 2. 45.</F>
 <F>5. <s>kvipi, ‘cCvoH SUqanunAsike ca’</s> (6-4-19) <s>ityUqAdeSe, IkArasya yaRi rUpam .</s>
 <div n="lb"><s>evaM ktinpratyaye'pi prakriyA boDyA .</s></F>
 <F>1. <s>‘supyajAtO—’</s> (3-2-78) <s>iti tAcCIlye RiniH .</s></F>
@@ -22572,7 +22572,7 @@
 <F>6. <s>‘dAmnISa—’</s> (3-2-182) <s>ityAdinA karaRe zwranpratyayaH . netram = cakzurindriyam .</s></F>
 <F>7. <s>‘tumunRvulO kriyAyAM kriyArTAyAm’</s> (3-3-10) <s>iti kriyArTAyAM kriyAyAM satyAM</s>
 <div n="lb"><s>Bavizyati Rvul . striyAm, ‘pratyayasTAt—’</s> (7-3-44) <s>itItvam .</s></F>
-<F>C. <s>‘parAkrapajYaH pri{??}santatistaM namraH kzitIndro'tunitIzurUce ..’ Ba</s>. <s>kA</s>. 2. 51.</F>
+<F>C. <s>‘parAkramajYaH priyasantatistaM namraH kzitIndro'tunitIzurUce ..’ Ba</s>. <s>kA</s>. 2. 51.</F>
 <F>8. <s>yaNantAt pacAdyaci</s> (3-1-134) <s>aNgasyAnekAcatvAt ‘eranekAcaH—’</s> (6-4-82)
 <div n="lb"><s>iti yaRAdeSaH .</s></F>
 <F>1. <s>‘vipUyavinIyajityA muYjakalkahalizu’</s> (3-1-117) <s>iti sUtreRa vipUrvakAdasmAt</s>
@@ -22744,7 +22744,7 @@
 <div n="lb"><s>ityaReva .</s></F>
 <F>D. <s>‘yadavAdizamapriyaM tava priyamADAya nunutsurasmi tat .’ nEzaDe-</s>- 2. 11.</F>
 <F>6. <s>kAkuH = jihvA . sA asmin nudyate iti kAkudam = tAlu . GaYarTe kaviDAnam .</s>
-<div n="lb"><s>pfzodarAditvAt—</s> (6-3-109) <s>nuSabdasya{??} lopaH .</s></F>
+<div n="lb"><s>pfzodarAditvAt—</s> (6-3-109) <s>nuSabdasya lopaH .</s></F>
 <F>1. <s>‘glAnudiByAM qOH’ [da</s>. <s>u</s>. 2-12<s>] iti qOpratyayaH . wilopaH . nudati, nudyate</s>
 <div n="lb"><s>GA nOH = plavaH .</s></F>
 <LEND>
@@ -26750,13 +26750,13 @@
 <F>8. <s>akzEH dIvyatIti akzadyUH . ‘kvip ca’</s> (3-4-76) <s>iti karmopapadAt kvip .</s>
 <div n="lb"><s>UW yaRAdeSaSca . ‘divaH karma ca’</s> (1-4-43) <s>iti akzaSabdasya karmasaMjYA . evaM</s>
 <div n="lb"><s>mfgadyUrityatrApi . dvivacanAdO uvaN .</s></F>
-<F>B. <s>{??}</s></F>
+<F>B. <s>‘harAmi rAmasOmitrI mfgo BUtvA mfgadyuvO .’  Ba</s>. <s>kA</s>. 5. 47.</F>
 <F>9. <s>RyantAt kvipi, Rijnimittake ‘pugantalaGUpaDasya ca’</s> (7-3-86) <s>iti guRe</s>,
 <div n="lb"><s>vakArasya UWi, ayAdeSe ca rUpamevam . dvivacanAdO yaRAdeSaH .</s></F>
 <F>10. <s>‘divo'vijigIzAyAm’</s> (8-2-49) <s>iti nizWAnatvam . vijigIzAdizu tu</s>
 <div n="lb"><s>dyUtam ityAdi . sarvatra, asya DAtorudittvena ktvAyAmiqvikalpanAt, nizWAyAm</s>
 <div n="lb"><s>‘yasya viBAzA’</s> (7-2-15) <s>itIRRizeDe, UWi yaRAdeSo Bavati .</s></F>
-<F>C. <s>{??}</s></F>
+<F>C. <s>‘AdyUnaH sadgfhiRyeva prAyo yazwyAvalambitaH ..’ Ba</s>. <s>kA</s>. 5. 47.</F>
 <F>1. <s>pacAdizu</s> (3-1-134) <s>devaw iti pAWAt igupaDalakzaRaM kapratyayaM</s> (3-1-135)
 <div n="lb"><s>bADitvA ajeva Bavati . wittvena striyAM ‘wiqQARaY—’</s> (4-1-15) <s>iti</s>
 <div n="lb"><s>NIp .</s></F>
@@ -28111,7 +28111,7 @@
 <div n="lb"><s>didrAGizizyamARaH; iti SAnaci viSezaH .</s>
 <sup>B</sup> <s>pradrAGitaH .</s> 
 [Page0779+ 26]
-<F>B. <s>‘nikAmamullAGatanoH samatyagAt pradrAGitA S{??}DyaguRasya bartanI ..’ DA</s>. <s>kA</s>. 1. 16.</F>
+<F>B. <s>‘nikAmamullAGatanoH samatyagAt pradrAGitA SlAGyaguRasya vartanI ..’ DA</s>. <s>kA</s>. 1. 16.</F>
 <LEND>
 
 <L>881<pc>0779<k1>drAqf<k2>drAqf
@@ -28181,7 +28181,7 @@
 <sup>6</sup> <s>draviRam</s>,
 <sup>7</sup> <s>droRaH</s>,
 <sup>8</sup> <s>drUH</s>.
-<F><s>[a] agnyAtapa{??}MyogAt “dravati Gftam” ityatra akarmakaH .</s>
+<F><s>[a] agnyAtapasaMyogAt “dravati Gftam” ityatra akarmakaH .</s>
 <div n="lb"><s>‘rakzAMsi BItAni diSo dravantI’ tyatra (gItA</s> 10) <s>sakarmakaH .</s></F>
 <F>3. <s>sannantARRvuli, ‘iko Jal’</s> (1-2-9) <s>iti sanaH kittve, ‘ajJanagamAM sani’</s>
 <div n="lb">(6-4-16) <s>iti dIrGaH . evaM sannante sarvatra jYeyam .</s></F>
@@ -28641,7 +28641,7 @@
 <div n="lb"><s>‘kazAdizu yaTAviDyanuprayogaH’</s> (3-4-46) <s>iti pUrvaprayuktaDAtoranuprayogaH .</s></F>
 <F>7. <s>‘dvitIyAyAM ca’</s> (3-4-53) <s>iti Ramul . atra sUtre pUrvasUtrAt ‘parIpsAyAm’ iti</s>
 <div n="lb"><s>nAnuvartate iti padamaYjaryAdO spazwam .</s></F>
-<F>C. <s>{??} ditvA karuRaM saSabde gotraBivAyaM saritaM sametya .’ Ba</s>. <s>kA</s>. 3.50. </F>
+<F>C. <s>‘ciraM ruditvA karuRaM saSabde gotraBivAyaM saritaM sametya .’ Ba</s>. <s>kA</s>. 3.50. </F>
 <F>8. <s>ORAdike [da</s>. <s>u</s>. 1-122<s>] tunpratyaye rUpam . daDAtyarTam, DIyate'sminnarTa iti</s>
 <div n="lb"><s>vA DAtuH = SabdaprakftiH, parvatanisrAvo vA .</s></F>
 <F>9. <s>karka daDAtIti karkanDUH = badarIvfkzaH . ‘andUdfmBUjambUkaPelUkarkanDUdiDizUH’</s>
@@ -30441,7 +30441,7 @@
 <div n="lb">8-30) <s>ityAdiprayogAnusArAt vyavahArArTe'pi AyapratyayaprayogaH nAsADutvajYApaka</s>
 <div n="lb"><s>iti pratiBAti . vidvAMsaH pramARamatra .</s></F>
 <F>1. <s>Rvuli, ‘gupUDUpavicCipaRipaniBya AyaH’</s> (3-1-28) <s>iti AyapratyayaH .</s>
-<div n="lb"><s>‘AyAdaya ArDaDAtuke vA’</s> (3-1-31) <s>iti ArDaDAtukezu vi{??}lpena Bavati .</s>
+<div n="lb"><s>‘AyAdaya ArDaDAtuke vA’</s> (3-1-31) <s>iti ArDaDAtukezu vikalpena Bavati .</s>
 <div n="lb"><s>tena tfjAdizvapi Ayapratyayapakze, AyapratyayABAvapakze ca rUpARi sarvARyapi gupU</s>-
 <div n="lb"><s>DAtuvat</s> (411) <s>jYeyAni .</s></F>
 <F>2. <s>Rijante'pi pUrvavadAyapratyayavikalpaH . tena rUpadvayaM jYeyam sarvatra .</s></F>
@@ -32873,7 +32873,7 @@
 <F>4. <s>‘Ato manin—’</s> (3-2-74) <s>ityanena bAhulakAt kvanippratyaye, ‘DyApyoH</s>
 <div n="lb"><s>samprasAraRaM ca’ (BAzyam</s>-3-2-178) <s>iti prakriyAsarvasvAnusAriBAzya</s>-
 <div n="lb"><s>vAkyena samprasAraRe ca rUpam . striyAm, ‘vano ra ca’</s> (4-1-7) <s>iti NIbrePO BavataH .</s></F>
-<F>B. <s>‘jaGa{??}malaGupIvaroru kfcCrAdurunibirIsanitambaBAraKedi .’ Si</s>. <s>va</s>. 7. 20.</F>
+<F>B. <s>‘jaGanamalaGupIvaroru kfcCrAdurunibirIsanitambaBAraKedi .’ Si</s>. <s>va</s>. 7. 20.</F>
 <F>5. <s>IzadAdyupapadezu, ‘Ato yuc’</s> (3-3-128) <s>iti yucpratyayaH . Kalo'pravAdaH .</s></F>
 <F>6. <s>‘AtaScopasarge’</s> (3-3-106) <s>ityaN .</s></F>
 <LEND>
@@ -33849,7 +33849,7 @@
 <sup>6</sup> <s>bAhuH .</s> 
 [Page0924+ 28]
 <F>4. <s>pacAdyaci, rUpamevam . striyAmajAdipAWAt wAp .</s></F>
-<F>C. <s>‘{??}lIhAyitAsuraBarakzativehitorvIBEzajyajehaparayA nijabAhayEva ..’ DA</s>. <s>kA</s>. 1. 81.</F>
+<F>C. <s>‘plIhAyitAsuraBarakzativehitorvIBEzajyajehaparayA nijabAhayEva ..’ DA</s>. <s>kA</s>. 1. 81.</F>
 <F>5. <s>‘kzubDasvAntaDvAntalagnamlizwaviribDaPARwabAQAni manTamanastamassaktAvispazwasvarA</s>-
 <div n="lb"><s>nAyAsaBfSezu’</s> (7-2-18) <s>ityanenAsmAd DAtornizWAyAM BfSArTe iqaBAva</s>-
 <div n="lb"><s>nipAtanAt, DAtuhakArasya Qatve Datva-zwutva-Qalopa-dIrGezu ca bAQam iti rUpam .</s>
@@ -34724,7 +34724,7 @@
 <F>3. <s>‘anudAttetaSca halAdeH’</s> (3-2-149) <s>iti tAcCIliko yucpratyayaH .</s></F>
 <F>4. <s>bAhulakAdORAdike awapratyaye rUpamevam . Ballate = parito BAzate'yamiti BallawaH =</s>
 <div n="lb"><s>kaviviSezaH .</s></F>
-<F>A. <s>‘mAmalyamAnaM smitamallikAvalImABAlyadEtyADi{??} BallanodDuram .’ DA</s>. <s>kA</s>. 1. 64</F>
+<F>A. <s>‘mAmalyamAnaM smitamallikAvalImABAlyadEtyADipa BallanodDuram .’ DA</s>. <s>kA</s>. 1. 64</F>
 <LEND>
 
 <L>1151<pc>0945<k1>Baza<k2>Baza
@@ -41900,7 +41900,7 @@
 <div n="lb"><s>kartari lyuH . ‘rAvaRo lokarAvaRaH .’ ityAdayaH rAmAyaRaprayogAH atrAnu</s>-
 <div n="lb"><s>sanDeyAH .</s></F>
 <F>5. <s>‘in’ (da</s>. <s>u</s>. 1. 46) <s>itInpratyayaH . rOtIti, rUyate iti vA raviH = BAnuH .</s></F>
-<F>6. <s>‘ruSAtiByAM krun’ (da</s>. <s>u</s>. 1. 159) <s>iti {??}npratyayaH . ruruH = mfyaH .</s></F>
+<F>6. <s>‘ruSAtiByAM krun’ (da</s>. <s>u</s>. 1. 159) <s>iti trunpratyayaH . ruruH = mfyaH .</s></F>
 <F>7. <s>‘purUravAH’ (da</s>. <s>u</s>. 9-92) <s>ityasipratyaye nirUQaH . puru rUyate svayaSaH sarvatreti</s>
 <div n="lb"><s>purUravAH = rAjaviSezaH . puruSabdasya dIrGo'pi nipAtanAt .</s></F>
 <LEND>
@@ -48995,7 +48995,7 @@
 <div n="lb"><s>AtiSAyikaH, aDyAtmAditvAt</s> (5-4-44) <s>WaY . anuSatikAditvAt</s> (7-3-20)
 <div n="lb"><s>uBayapadavfdDiH . ‘vyAptamAtiSayikena rasena’ (mAGaH</s> 10-23) <s>ityatra tu vina</s>-
 <div n="lb"><s>yAditvAt</s> (5-4-34) <s>Wak .</s></F>
-<F>2. <s>BAve ktin . saMSItiH = saMSayaH . ‘titutra—’</s> (7-2-9) <s>itIRn{??}eizeDaH .</s></F>
+<F>2. <s>BAve ktin . saMSItiH = saMSayaH . ‘titutra—’</s> (7-2-9) <s>itIRnizeDaH .</s></F>
 <F>3. <s>‘saMjYAyAM samajanizadanipatamanavidazuYSINBfYiRaH’</s> (3-3-99) <s>iti saMjYAyAM</s>
 <div n="lb"><s>gamyamAnAyAM striyAM BAvAdO kyappratyayaH . Serate'syAmiti SayyA . kittvAdayaN .</s></F>
 <F>A. <s>‘SayyotTAyaM mfgAn viGyannAtiTeyo vicakrame ..’ Ba</s>. <s>kA</s>. 4-8</F>
@@ -51903,7 +51903,7 @@
 <F>3. <s>‘lakzaRahetvoH kriyAyAH’</s> (3-2-126) <s>iti lakzaRe SAnac .</s></F>
 <F>4. <s>‘ajviDO BayAdInAmupasaMKyAnam’ (vA</s>. 3-3-56) <s>iti ac . atra lyuqapavAdo</s>-
 <div n="lb"><s>'yamiti kecit . smayanam ityapi lakzye'sti iti kecit .</s></F>
-<F>5. <s>‘namikampismyajasakamahiMsadIpo raH’</s> (3-2-167) <s>iti tAcCa{??} rapratyayaH .</s></F>
+<F>5. <s>‘namikampismyajasakamahiMsadIpo raH’</s> (3-2-167) <s>iti tAcCIliko rapratyayaH .</s></F>
 <LEND>
 
 <L>1887<pc>1367<k1>zmiN<k2>zmiN
@@ -53948,7 +53948,7 @@
 <div n="lb"><s>mADavaH .</s></F>
 <F>9. <s>jahAtIti jahakaH tyAgI, kAlapuruzaSca . ‘jahAterdve ca’ (da</s>. <s>u</s>. 3-6) <s>iti</s>
 <div n="lb"><s>kvun, dvitvaM ca .</s></F>
-<F>10. <s>‘naYi jahAteH’ (da</s>. <s>u</s>. 6-52) <s>iti kaninpratyaye AkAralo{??} . ahaH = dinam .</s></F>
+<F>10. <s>‘naYi jahAteH’ (da</s>. <s>u</s>. 6-52) <s>iti kaninpratyaye AkAralopaH . ahaH = dinam .</s></F>
 <F>11. <s>‘kalaM jahAtIti kalahaH . ‘supi—’</s> (3-2-5) <s>iti kapratyayaH . AkAralopaH .’</s>
 <div n="lb"><s>iti kzIrasvAmI .</s></F>
 <F>12. <s>‘nO haH’ (da</s>. <s>u</s>. 3-22) <s>iti kan . nihAkA goDA .</s></F>
@@ -54314,7 +54314,7 @@
 <div n="NI"><s>prAyeRAyaM nipUrvakaH, apapUrvako'pi . devadattAya</s>
 <sup>1</sup> <s>nihnuvAnaH . hnAvakaH-vikA</s>,
 <div n="lb"><s>hnAvakaH-vikA, juhrUzakaH-zikA, johnUyakaH-yikA; hnotA-trI, hnAvayitA-trI</s>,
-<div n="lb"><s>juhnUzitA-trI, johnU{??}yitA-trI; ityAdikAni rUpARi knUY</s> (266) <s>DAtuvat</s>
+<div n="lb"><s>juhnUzitA-trI, johnUyitA-trI; ityAdikAni rUpARi knUY</s> (266) <s>DAtuvat</s>
 <div n="lb"><s>yaTAsamBavamUhyAni .</s>
 <F>1. <s>‘SlAGahnuNsTASapAM jYIpsyamAnaH’</s> (1-4-34) <s>iti devadattasya sampradAnatvAt</s>
 <div n="lb"><s>caturTI . jYIpsyamAnaH = boDayitumaBipretaH . devadattavizayakaM apahnavaM boDayitu</s>-

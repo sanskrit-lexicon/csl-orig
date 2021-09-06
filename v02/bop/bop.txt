@@ -1501,7 +1501,7 @@
 
 <L>250<pc>009-a<k1>anahaNkfta<k2>anahaNkfta
 {#anahaNkfta#}¦ ({%KARM.%} ex {#an#} et {#ahaNkfta#} ex {#aham#} ego et
-<div n="lb">{#kfta#} fact{??}is) non sui studiosus. IN. 4. 12.
+<div n="lb">{#kfta#} factus) non sui studiosus. IN. 4. 12.
 <LEND>
 
 <L>251<pc>009-a<k1>anAgas<k2>anAgas
@@ -7470,7 +7470,7 @@
 <LEND>
 
 <L>1296<pc>046-b<k1>utPullanayana<k2>utPullanayana
-{#utPullanayana#}¦ ({%BAH.%} e praec. et {#nayana#} oculus) late di{??}ctos
+{#utPullanayana#}¦ ({%BAH.%} e praec. et {#nayana#} oculus) late diductos
 <div n="lb">oculos habens. IN. 2. 26. BR. 3. 21.
 <LEND>
 
@@ -8585,8 +8585,8 @@
 <L>1518<pc>052-b<k1>urv<k2>urv
 {#urv#}¦ 1. {%P.%} ({#hiMsAyAm#}) ferire, laedere, occidere. (Hae
 <div n="lb">radix ex idem valente {#arv#} orta esse videtur, att-
-<div n="lb">nuato {#a#} in {#u,#} quâ in re ambae radices eandem ra{??}o-
-<div n="lb">nem inter se habent quam gothica Praeterita sing. {??} pl.
+<div n="lb">nuato {#a#} in {#u,#} quâ in re ambae radices eandem ratio-
+<div n="lb">nem inter se habent quam gothica Praeterita sing. et pl.
 <div n="lb">veluti {%band, bundum,%} et sanscr. {#karomi#} ejusque duet pl.
 <div n="lb">{#kurvas, kurmas;#} v. gr. comp. 490.).
 <LEND>
@@ -8602,7 +8602,7 @@
 <LEND>
 
 <L>1521<pc>052-b<k1>ulUka<k2>ulUka
-{#ulUka#}¦ {%m.%} ulula (lat. {%ulula,%} germ. vet. {%uwila, ûla,%} {??}strum
+{#ulUka#}¦ {%m.%} ulula (lat. {%ulula,%} germ. vet. {%uwila, ûla,%} nostrum
 <div n="lb">{%Eule%}).
 <LEND>
 [Page053-a+ 37]
@@ -8930,7 +8930,7 @@
 
 <L>1581<pc>054-b<k1>UrdDvANguli<k2>UrdDvANguli
 {#UrdDvANguli#}¦ ({%BAH.%} ex {#UrdDva#} et {#aNguli#} {%f.%} digitus) erectos
-<div n="lb">digito{??} habens. H. 2. 6.
+<div n="lb">digitos habens. H. 2. 6.
 <LEND>
 
 <L>1582<pc>054-b<k1>Urmi<k2>Urmi
@@ -9888,7 +9888,7 @@
 <LEND>
 
 <L>1737<pc>061-b<k1>kaMs<k2>kaMs
-{#kaMs#}¦ 2. {%A.%} ({#gatiSAtanayoH;#} scribitur {#kas,#} gr. 110.{??}
+{#kaMs#}¦ 2. {%A.%} ({#gatiSAtanayoH;#} scribitur {#kas,#} gr. 110^a).,
 <div n="lb">{#kaS#}) destruere; ire; v. {#kas#}.
 <LEND>
 
@@ -35599,7 +35599,7 @@
 
 <L>5783<pc>243-a<k1>BaR<k2>BaR
 {#BaR#}¦ 1. {%P.%} loqui, dicere, {%in recentioribus scriptis, praeser-%}
-<div n="lb">{%{??}tim in dial. Prâcrit.%} (v. Delii Radices Prâcr. p. 19.).
+<div n="lb">{%tim in dial. Prâcrit.%} (v. Delii Radices Prâcr. p. 19.).
 <div n="lb">Lass. 3. 2.: {#rAjYA…BaRitam;#} BHATT. 14. 46.: {#baBARa;#}
 <div n="lb">15. 15.: {#aBARIt#}. (Cf. {#BAz#}.)
 <LEND>
@@ -41786,7 +41786,7 @@
 <LEND>
 
 <L>6686<pc>289-b<k1>rikTa<k2>rikTa
-{#rikTa#}¦ {%n.%} (r. {#ric#} s. {#Ta#}) facultates, bona, divitiae, opesi {??}
+{#rikTa#}¦ {%n.%} (r. {#ric#} s. {#Ta#}) facultates, bona, divitiae, opes. MAN.
 <div n="lb">9. 104.
 <LEND>
 
@@ -47075,7 +47075,7 @@
 <LEND>
 
 <L>7490<pc>327-b<k1>vItamatsara<k2>vItamatsara
-{#vItamatsara#}¦ ({%BAH.%} e {#vIta#} qui abiit, profectus, et {??}
+{#vItamatsara#}¦ ({%BAH.%} e {#vIta#} qui abiit, profectus, et {#matsara#} in-
 <div n="lb">vidia) profectam invidiam habens, liber ab invidiâ. IN. 4. 8.
 <LEND>
 
@@ -54511,7 +54511,7 @@
 
 <L>8587<pc>383-a<k1>so<k2>so
 {#so#}¦ 1. {%P.%} 4. {#syAmi,#} {%part. pass.%} {#sita,#} v. gr. 694. ({#antakAre#}
-<div n="lb">{??} {%K.%} {#nASe#} {%V.%}) finire, finem facere, occidere, destruere.
+<div n="lb">{%K.%} {#nASe#} {%V.%}) finire, finem facere, occidere, destruere.
 <div n="pfx">c. {#ava#} finire, ad finem adducere. RAGH. 11. 37.: {#avasi-#}
 <div n="lb">{#te kriyAviDO#}. {%Caus.%} {#avasAyayAmi#} finiendum, pera-
 <div n="lb">gendum curare aliquid, facere ut quis finiat. RAGH. 5.
