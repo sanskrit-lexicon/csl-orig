@@ -6386,7 +6386,7 @@
 <div n="lb">and {#kAkodumbarikA#}. In Bengal, the word derived from this
 [Page029-b+ 56]
 <div n="lb">implies the Guava; the term has, possibly, been borrowed
-<div n="lb">from the Persian انجیر. E. {#aYj,#} aff. {#Iran#}.
+<div n="lb">from the Persian <lang script="Arabic" n="Persian">انجیر</lang>. E. {#aYj,#} aff. {#Iran#}.
 <LEND>
 
 <L>1010<pc>029-b<k1>aw<k2>aw
