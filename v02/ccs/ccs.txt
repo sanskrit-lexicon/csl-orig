@@ -46873,12 +46873,12 @@ Gewand.
 {#dfMh#}¦ {%s.%} {#darh#}
 <LEND>
 
-<L>10207<pc>181-1<k1>dfMhaRa<k2>dfM/haRa
-{#dfM/haRa#}¦ {%n.%} das Befestigen.
+<L>10207<pc>181-1<k1>dfMhaRa<k2>df/MhaRa
+{#df/MhaRa#}¦ {%n.%} das Befestigen.
 <LEND>
 
-<L>10208<pc>181-1<k1>dfMhita<k2>dfM/hita/
-{#dfM/hita/#}¦ {%(s.%} {#darh)#}, {%n. = vor.%}
+<L>10208<pc>181-1<k1>dfMhita<k2>df/Mhita/
+{#df/Mhita/#}¦ {%(s.%} {#darh)#}, {%n. = vor.%}
 <LEND>
 
 <L>10209<pc>181-1<k1>dfMhitar<k2>dfMhita/r
