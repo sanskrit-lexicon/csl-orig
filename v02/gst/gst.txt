@@ -12213,7 +12213,7 @@
 
 <L>1917<pc>056-b<k1>aDiyajYa<k2>aDiyajYa
 {#aDiyajYa#}¦ I. Tatpur. m. ({#-jYaH#}) <sup>1</sup> The supreme sacrifice, the
-<div n="lb">sacrifice <lang n="greek"></lang>. <sup>2</sup> An influence superior to or pre-
+<div n="lb">sacrifice <lang n="greek">ϰατ᾽ἐξοχήν</lang>. <sup>2</sup> An influence superior to or pre-
 <div n="lb">siding over sacrifice.
 <div n="P">II. Avyayībh. ({#-jYam#}) Concerning or with respect to sa-
 <div n="lb">crifice. E. {#aDi#} and {#yajYa#}.
@@ -15122,7 +15122,7 @@ III. {#ana#}¦ m. ({#-naH#}) Spiration; it is explained as the action
 
 <L>2350<pc>070-b<k1>anaPA<k2>anaPA
 {#anaPA#}¦ f. ({#-PA#}) A certain configuration of the planets; a
-<div n="lb">transcription of the greek word <lang n="greek"></lang>.
+<div n="lb">transcription of the greek word <lang n="greek">ἀναφή</lang>.
 <LEND>
 
 <L>2351<pc>070-b<k1>anaBijYa<k2>anaBijYa
@@ -21214,8 +21214,8 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">four, or according to a different reading, of three stars; its
 <div n="lb">chief and middlemost star is placed by the authorities in
 <div n="lb">3º or 2º or 1º 45'S. and in 224º or 224º 5'E., and must in-
-<div n="lb">tend the star near the head of the Scorpion (<lang n="greek"></lang> Scorpionis)
-<div n="lb">and the asterism probably comprises <lang n="greek"></lang> and <lang n="greek"></lang> Scorpionis.
+<div n="lb">tend the star near the head of the Scorpion (<lang n="greek">δ</lang> Scorpionis)
+<div n="lb">and the asterism probably comprises <lang n="greek">βδπ</lang> and <lang n="greek">ρ</lang> Scorpionis.
 <div n="lb">Also written {#anUrADA#}. See {#rADAnurADA#} and {#viSAKAnurADA#}.
 <div n="lb">E. {#anu#} and {#rADA,#} the name of the sixteenth Nakshatra.
 <div n="P">II. 1. m. f. n. ({#-DaH-DA-Dam#}) Born under the constellation
@@ -21228,8 +21228,8 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 
 <L>3264<pc>100-a<k1>anurADagrAma<k2>anurADagrAma
 {#anurADagrAma#}¦ Tatpur. m. ({#-maH#}) The village (later the town)
-<div n="lb">Anurādha; the same as {#anurADapura#} q. v. and the <lang n="greek"></lang>-
-<div n="lb"><lang n="greek"></lang> or <lang n="greek"></lang> of Ptolemæus. E. {#anurADa#}
+<div n="lb">Anurādha; the same as {#anurADapura#} q. v. and the <lang n="greek">Ἀνουρι</lang>-
+<div n="lb"><lang n="greek">γραμμον</lang> or <lang n="greek">Ανουρογραμμον</lang> of Ptolemæus. E. {#anurADa#}
 <div n="lb">and {#grAma#}.
 <LEND>
 
@@ -26710,7 +26710,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">or {#mInarASi#}. See {#antyaBa#}. <sup>3</sup> (In Astronomy.) The last or
 <div n="lb">twenty seventh mansion in the circumference of the moon's
 <div n="lb">periodical revolution, the Nakshatra Revatī, the Yoga star
-<div n="lb">of which is <lang n="greek"></lang> Piscium. See {#antyaBa#}. E. {#anta,#} taddh. aff. {#yat#}.
+<div n="lb">of which is <lang n="greek">ζ</lang> Piscium. See {#antyaBa#}. E. {#anta,#} taddh. aff. {#yat#}.
 <LEND>
 
 <L>3984<pc>129-a<k1>antyaka<k2>antyaka
@@ -26847,7 +26847,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">of the Zodiac, the sign Pisces. <sup>2</sup> The last or twenty seventh
 <div n="lb">mansion in the circumference of the moon's periodical re-
 <div n="lb">volution, the Nakshatra Revatī, the Yoga star of which
-<div n="lb">is <lang n="greek"></lang> Piscium. Compare {#antya#} 4. E. {#antya#} and {#Ba#}.
+<div n="lb">is <lang n="greek">ζ</lang> Piscium. Compare {#antya#} 4. E. {#antya#} and {#Ba#}.
 <LEND>
 
 <L>3999<pc>130-a<k1>antyamUla<k2>antyamUla
@@ -31290,7 +31290,7 @@ II. {#anu#}¦ m. ({#-nuH#}) <sup>1</sup> (in the Vedas; esp. in the plural {#ana
 <div n="lb">1. 4. 12.); {#apAmIvam#} of 2. 502-504. (= II. 4. 2. 7.); {#apAM niDiH#}
 <div n="lb">of 1. 151. (= I. 2. 2. 1. 7.); {#apAM sarpam#} of the Āraṇyagāna (of
 <div n="lb">the Sāmav.) II. 7. (not in the Sāmav.). <sup>2</sup> (ved.) The same as
-<div n="lb">{#antarikza#}. <sup>3</sup> (In Astronomy.) The star <lang n="greek"></lang> {%Virginis.%} [Com-
+<div n="lb">{#antarikza#}. <sup>3</sup> (In Astronomy.) The star <lang n="greek">δ</lang> {%Virginis.%} [Com-
 <div n="lb">pounds the latter part of which is {#ap#} assume the samās. aff.
 <div n="lb">{#a,#} e. g. {#pra#} or {#parA#} and {#ap#} form {#prApa, parApa;#} but some-
 <div n="lb">times the word remains unchanged, if it is a Bahuvr. com-
@@ -38499,7 +38499,7 @@ I. {#apUrva#}¦ 1. Bahuvr. 1. m. f. n. ({#-rvaH-rvA-rvam#}) <sup>1</sup> Not pre
 <div n="lb">{#nAwakaviDiryaH Sikzito durjanEH .#}. <sup>4</sup> Not having had before
 <div n="lb">(scil. a husband); used so in {%Pāṇini'%}s {%Sūtra:%} {#kOmArApUrvavacane#}.
 <div n="P">2. n. ({#-rvam#}) <sup>1</sup> (In the Mīmānsā philosophy.) <sup>a.</sup> The
-<div n="lb">{%unseen or transcendental power%} (<lang n="greek"></lang>, = {#adfzwapUrvam#} or
+<div n="lb">{%unseen or transcendental power%} (<lang n="greek">δυναμις</lang>, = {#adfzwapUrvam#} or
 <div n="lb">{#atyantamadfzwam#} liter. which has not been seen before or
 <div n="lb">which is very invisible) of a {%religious or sacrificial%} act which
 <div n="lb">produces the desired result at another than the present or
@@ -40555,7 +40555,7 @@ II. {#apUrva#}¦ Bahuvr. m. f. n. ({#-rvaH-rvA-rvam#}) (In Pāṇini's grammar.)
 <L>5459<pc>211-a<k1>apratisaNkrama<k2>apratisaNkrama
 {#apratisaNkrama#}¦ Bahuvr. m. f. n. ({#-maH-mA-mam#}) Having no as-
 <div n="lb">sociations with, free from connexion with; as Purusha or
-<div n="lb">his <lang n="greek"></lang> (of the Yoga philosophy) who is immutable
+<div n="lb">his <lang n="greek">δυναμις</lang> (of the Yoga philosophy) who is immutable
 <div n="lb">and does not intermix with wordly objects; e. g. in the
 <div n="lb">{%Yoga Sūtra:%} {#citterapratisaMkramAyAstadAkArApattO budDisaMveda-#}
 <div n="lb">{#nam#} ({%Bhojadeva:%} {#puruzaScidrUpatvAccittiH . sA apratisaMkramA .#}
