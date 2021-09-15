@@ -558,7 +558,7 @@
 {@Aṅka.@}¦ — The Taittirīya Saṃhitā<sup>1</sup> and Brāhmaṇa<sup>2</sup> refer to two
 <div n="lb"/>Aṅkas and two Nyaṅkas as parts of a chariot. The meaning
 <div n="lb"/>of these terms is quite obscure. The commentators refer them
-<div n="lb"/>to the sides or wheels. Zimmer<sup>3</sup> compares the Greek <lang n="greek"></lang><sup>4</sup>
+<div n="lb"/>to the sides or wheels. Zimmer<sup>3</sup> compares the Greek <lang n="greek">ἄντυγες</lang><sup>4</sup>
 <div n="lb"/>and thinks that the Aṅkau were the upper border of the body
 <div n="lb"/>of the chariot ({%kośa, vandhura%}), and the Nyaṅkau the lower rims
 <div n="lb"/>for greater security. Oldenberg<sup>5</sup> confesses that the exact sense
@@ -5176,7 +5176,7 @@
 <div n="lb"/>Delbrück,<sup>2</sup> is clearly correct, as against the older version,
 <div n="lb"/>‘march out,’ given by von Schroeder<sup>3</sup> and accepted by
 <div n="lb"/>Böhtlingk.<sup>4</sup> The Udāja thus corresponds precisely with the
-<div n="lb"/>Homeric <lang n="greek"></lang> This sense also suits Nirāja, the variant of
+<div n="lb"/>Homeric <lang n="greek">γέρας</lang> This sense also suits Nirāja, the variant of
 <div n="lb"/>both the Kāṭhaka<sup>5</sup> and the Kapiṣṭhala<sup>6</sup> Saṃhitās.
 <F>1) i. 10, 16; iv. 3, 1.</F>
 <F>2) {%Festgruss an Böhtlingk,%} 25.</F>
@@ -5892,7 +5892,7 @@
 <div n="lb"/>‘horse.’ A parallel division of animals is that of the Taittirīya<sup>10</sup>
 <div n="lb"/>and Vājasaneyi Saṃhitās<sup>11</sup> into ‘whole-hoofed’ ({%eka-śapha%}) and
 <div n="lb"/>‘small’ ({%kṣudra%}).
-<div n="P"/>Zimmer<sup>12</sup> seeks to show from the Greek <lang n="greek"></lang><sup>13</sup> and the
+<div n="P"/>Zimmer<sup>12</sup> seeks to show from the Greek <lang n="greek">ἀμφώδοντα</lang><sup>13</sup> and the
 <div n="lb"/>Latin {%ambidens%}<sup>14</sup> that the Indo-European was familiar with
 <div n="lb"/>the division of the five sacrificial animals into the two classes
 <div n="lb"/>of man and horse on the one hand, and cattle, sheep, and
@@ -5960,7 +5960,7 @@
 
 <L>389<pc>1-099<k1>urvarA<k2>urvarA
 {@Urvarā@}¦ is with {@Kṣetra@} the regular expression, from the
-<div n="lb"/>Rigveda<sup>1</sup> onwards, denoting a piece of ‘ploughland’ (<lang n="greek"></lang>).
+<div n="lb"/>Rigveda<sup>1</sup> onwards, denoting a piece of ‘ploughland’ (<lang n="greek">ἄρουρα</lang>).
 <div n="lb"/>Fertile ({%apnasvatī%}) fields<sup>2</sup> are spoken of as well as waste fields
 <div n="lb"/>({%ārtanā%}).<sup>3</sup> Intensive cultivation by means of irrigation is
 <div n="lb"/>clearly referred to both in the Rigveda<sup>4</sup> and in the Atharva-
@@ -6217,7 +6217,7 @@
 <div n="lb"/>but for this there is no clear evidence. His theory is based
 <div n="lb"/>merely on the fact that the Anukramaṇī (Index) of the Rigveda
 <div n="lb"/>ascribes one hymn<sup>6</sup> to Śibi Auśīnara, and that the Śibis were
-<div n="lb"/>known to Alexander's followers as <lang n="greek"></lang>,<sup>7</sup> living between the
+<div n="lb"/>known to Alexander's followers as <lang n="greek">Σίβοι</lang>,<sup>7</sup> living between the
 <div n="lb"/>Indus and the Akesines (Chenab). But this is in no way
 <div n="lb"/>conclusive, as the Śibis, at any rate in Epic times,<sup>8</sup> occupied
 <div n="lb"/>the land to the north of Kurukṣetra, and there is no reason
@@ -6457,7 +6457,7 @@
 <div n="lb"/>occupied by the Vedic Indians. Not more frequent<sup>3</sup> is the use
 <div n="lb"/>of the word in the plural to denote the ‘seven bears,’ later
 <div n="lb"/>called the ‘seven Ṛṣis,’<sup>4</sup> the constellation of the ‘Great Bear’
-<div n="lb"/>(<lang n="greek"></lang>, {%ursa%}).
+<div n="lb"/>(<lang n="greek">ἄρκτος</lang>, {%ursa%}).
 <F>1) v. 56, 3.</F>
 <F>2) Maitrāyaṇī Saṃhitā, iii. 14, 17;
 <div n="lb"/>Vājasaneyi Saṃhitā, xxiv. 36; Jai-
@@ -9784,7 +9784,7 @@
 <L>635<pc>1-162<k1>kuBA<k2>kuBA
 {@Kubhā@}¦ is the name of a river mentioned twice in the Rigveda,<sup>1</sup>
 <div n="lb"/>and no doubt identical with the modern Kabul river, the
-<div n="lb"/>Greek <lang n="greek"></lang>.
+<div n="lb"/>Greek <lang n="greek">Κωφήν</lang>.
 <F>1) v. 53, 9; x. 75. 6. {%Cf.%} Zimmer, {%Altindisches Leben,%} 14; Ludwig, Translation
 <div n="lb"/>of the Rigveda, 3, 200.</F>
 <LEND>
@@ -16135,9 +16135,9 @@
 <div n="lb"/>something analogous to these. Weber<sup>3</sup> thinks that in one
 <div n="lb"/>passage of the Atharvaveda<sup>4</sup> the word designates a constella-
 <div n="lb"/>tion, and Whitney,<sup>5</sup> who does not decide whether that interpre-
-<div n="lb"/>tation is necessary, suggests that the constellation <lang n="greek"></lang>
+<div n="lb"/>tation is necessary, suggests that the constellation <lang n="greek">γ, ξ, η, π</lang>
 <div n="lb"/>Aquarii may be meant, since the next verse mentions {@Vicṛtau,@}
-<div n="lb"/>which is the constellation <lang n="greek"></lang> and <lang n="greek"></lang> Scorpionis, and is not far
+<div n="lb"/>which is the constellation <lang n="greek">λ</lang> and <lang n="greek">ν</lang> Scorpionis, and is not far
 <div n="lb"/>from Aquarius. See also {@Chardis.@}
 <F>1) x. 85, 10 (of Sūryā's bridal car).</F>
 <F>2) Taittirīya Saṃhitā, vi. 2, 9, 4;
@@ -16357,9 +16357,9 @@
 <div n="lb"/>patriarchal family of sons who still lived with their father — and
 <div n="lb"/>by the clan, the later {@Gotra,@} which included all those who
 <div n="lb"/>claimed a common ancestor. The Gotra may be regarded as
-<div n="lb"/>roughly corresponding to the Latin {%gens%} and the Greek <lang n="greek"></lang>,
+<div n="lb"/>roughly corresponding to the Latin {%gens%} and the Greek <lang n="greek">γένος</lang>,
 <div n="lb"/>and possibly the Viś may be the equivalent of the {%curia%} and
-<lang n="greek"></lang>, and the Jana of the {%tribus%} and <lang n="greek"></lang> or <lang n="greek"></lang>.<sup>15</sup> These
+<lang n="greek">φρήτρη</lang>, and the Jana of the {%tribus%} and <lang n="greek">φῦλον</lang> or <lang n="greek">φῦλη</lang>.<sup>15</sup> These
 <div n="lb"/>three divisions may also be seen in the Viś, Zantu, and Daqyu
 <div n="lb"/>of the Iranian world, where the use of Viś suggests that in the
 <div n="lb"/>Indian Viś a relationship based on blood rather than locality is
@@ -16377,7 +16377,7 @@
 <div n="lb"/>there is no sure trace<sup>20</sup> of any intermediate cult between that of
 <div n="lb"/>the king and that of the individual householder. The real
 <div n="lb"/>elements in the state are the Gotra and the Jana, just as
-<div n="lb"/>ultimately the {%gens%} and {%tribus,%} the <lang n="greek"></lang> and <lang n="greek"></lang> are alone
+<div n="lb"/>ultimately the {%gens%} and {%tribus,%} the <lang n="greek">γένος</lang> and <lang n="greek">φῦλον</lang> are alone
 <div n="lb"/>important. It may be that Viś sometimes represents in the
 <div n="lb"/>older texts what later was known as the Gotra. See {@Viś.@}
 <div n="P"/>This appears clearly when the constitution of society in the
@@ -17604,7 +17604,7 @@
 <div n="lb"/>or ‘companions’); ii. 2, 2, 20; 5, 2,
 <div n="lb"/>20; xi. 3, 3, 7, etc.</F>
 <F>4) For the transition from the etymo-
-<div n="lb"/>logical meaning, {%cf.%} <lang n="greek"></lang>,
+<div n="lb"/>logical meaning, {%cf.%} <lang n="greek">γνωτός, γνωτή</lang>,
 <div n="lb"/>which in Homer designate ‘brother’
 <div n="lb"/>and ‘sister’; St. Petersburg Dic-
 <div n="lb"/>tionary, {%s.v.%}</F>
@@ -18758,7 +18758,7 @@
 [Page1-311+ 57]
 <div n="lb"/>Parśu, though Weber<sup>5</sup> thinks that the singers were Yadus, not
 <div n="lb"/>the princes. The latter he holds to have been Iranian ({%cf.%}
-<lang n="greek"></lang>, and see {@Parśu@}), and he thinks that in this there is
+<lang n="greek">Τιρίβαζος</lang>, and see {@Parśu@}), and he thinks that in this there is
 <div n="lb"/>evidence of continual close relations between India and Iran.
 <div n="lb"/>This is perfectly possible, but the evidence for it is rather
 <div n="lb"/>slight.
@@ -20574,7 +20574,7 @@
 <div n="lb"/>etc.; Vājasaneyi Saṃhitā, viii. 24.</F>
 <F>2) St. Petersburg Dictionary, {%s.v.%} But
 <div n="lb"/>this seems very doubtful in view of the
-<div n="lb"/>apparent connexion of <lang n="greek"></lang> and <lang n="greek"></lang>,
+<div n="lb"/>apparent connexion of <lang n="greek">δόμος</lang> and <lang n="greek">δέμω</lang>,
 <div n="lb"/>‘build,’ in Greek.</F>
 <LEND>
 
@@ -21078,7 +21078,7 @@
 <div n="lb"/>{%schaft,%} 41, 496.</F>
 <F>7) This view is supported by Mega-
 <div n="lb"/>sthenes' report as to natives who were
-<lang n="greek"></lang>: see Strabo, p. 711; Pliny,
+<lang n="greek">ἄστομοι</lang>: see Strabo, p. 711; Pliny,
 <div n="lb"/>{%Nat. Hist.,%} vii. 2, 18, cited by Zimmer,
 <div n="lb"/>{%Altindisches Leben,%} 430. See also Ludwig,
 <div n="lb"/>Translation of the Rigveda, 2, 109;
@@ -21244,7 +21244,7 @@
 2. {@Dāna@}¦ (‘distribution’)<sup>1</sup> seems in several passages of the
 <div n="lb"/>Rigveda<sup>2</sup> to be a designation of the sacrificial feast to which
 [Page1-351+ 46]
-<div n="lb"/>the god is invited ({%cf.%} <lang n="greek"></lang>). In one passage<sup>3</sup> Sāyaṇa
+<div n="lb"/>the god is invited ({%cf.%} <lang n="greek">δαίς, δαίτη</lang>). In one passage<sup>3</sup> Sāyaṇa
 <div n="lb"/>thinks that it denotes the {%mada-jalāni,%} ‘drops of water falling
 <div n="lb"/>from the temples of a rutting elephant,’<sup>4</sup> but this is doubtful.
 <div n="lb"/>In another passage<sup>5</sup> Roth thinks that ‘pasture land’ is meant.
@@ -23997,7 +23997,7 @@
 <div n="lb"/>vi. 22; Tacitus, {%Germania,%} 26, for
 <div n="lb"/>Germany; Mommsen, {%Römisches Staats-%}
 <div n="lb"/>{%recht,%} 3, 1, 21, for the Roman {%hortus;%}
-<div n="lb"/>and the Greek <lang n="greek"></lang>, Lang, {%Homer and%}
+<div n="lb"/>and the Greek <lang n="greek">κλῆρος</lang>, Lang, {%Homer and%}
 <div n="lb"/>{%the Epic,%} 236-241; Ridgeway, {%Journal%}
 <div n="lb"/>{%of Hellenic Studies,%} 6, 319 {%et seq.;%}
 <div n="lb"/>Grote, {%History of Greece,%} 2, 36, 37. See
@@ -25138,14 +25138,14 @@
 <div n="lb"/>Brāhmaṇa, i. 5, 2, 8. Whitney, Trans-
 <div n="lb"/>lation of the Atharvaveda, 361, equates
 <div n="lb"/>it with Antares or Cor Scorpionis, with
-<div n="lb"/>or without <lang n="greek"></lang>, Scorpionis (Jyaīṣṭhaghnī
+<div n="lb"/>or without <lang n="greek">σ, τ</lang>, Scorpionis (Jyaīṣṭhaghnī
 <div n="lb"/>is a misreading in the edition of Whitney
 <div n="lb"/>and Roth).</F>
 <F>36) vi. 110, 2. It is also mentioned
 <div n="lb"/>in ii. 8, 1; iii. 7, 4; vi. 121, 3. It is
 <div n="lb"/>identified by the commentators with
-<div n="lb"/>Mūla, ‘the root,’ the two stars, <lang n="greek"></lang> and
-<lang n="greek"></lang> Scorpionis, which form the sting of
+<div n="lb"/>Mūla, ‘the root,’ the two stars, <lang n="greek">λ</lang> and
+<lang n="greek">υ</lang> Scorpionis, which form the sting of
 <div n="lb"/>the Scorpion's tail; Whitney, {%op. cit.,%} 48.</F>
 <F>37) ix. 7, 3.</F>
 <F>38) viii. 1.</F>
@@ -25219,7 +25219,7 @@
 <LEND>
 
 <L>1475<pc>1-415<k1>kfttikAs<k2>kfttikAs<h>1
-1. {@Kṛttikās@}¦ are unquestionably <lang n="greek"></lang> Tauri, etc., the Pleiades.
+1. {@Kṛttikās@}¦ are unquestionably <lang n="greek">η</lang> Tauri, etc., the Pleiades.
 <div n="lb"/>The names of the seven stars forming this constellation, and
 <div n="lb"/>given above from Yajurveda texts,<sup>68</sup> include three — {%abhrayantī,%}
 <div n="lb"/>‘forming clouds’; {%meghayantī,%} ‘making cloudy’; {%varṣayantī,%}
@@ -25232,8 +25232,8 @@
 
 <L>1476<pc>1-415<k1>rohiRI<k2>rohiRI<h>2
 2. {@Rohiṇī,@}¦ ‘ruddy,’ is the name of the conspicuously reddish
-<div n="lb"/>star, {%a%} Tauri or Aldebaran, and denotes the group of the
-<div n="lb"/>Hyades, <lang n="greek"></lang> Tauri. Its identification seems absolutely
+<div n="lb"/>star, <lang n="greek">α</lang> Tauri or Aldebaran, and denotes the group of the
+<div n="lb"/>Hyades, <lang n="greek">α θ γ δ ε</lang> Tauri. Its identification seems absolutely
 <div n="lb"/>assured by the legend of Prajāpati in the Aitareya Brāhmaṇa.<sup>69</sup>
 <div n="lb"/>He is there represented as pursuing his daughter with incestuous
 <div n="lb"/>intention, and as having been shot with an arrow ({@Iṣu Trikāṇḍā,@}
@@ -25247,7 +25247,7 @@
 <L>1477<pc>1-415<k1>mfgaSIrza<k2>mfgaSIrza<h>3
 3. {@Mṛgaśīrṣa@}¦ or {@Mṛgaśiras,@} also called Invakā or Invagā,
 [Page1-416+ 47]
-<div n="lb"/>seems to be the faint stars <lang n="greek"></lang>, Orionis. They are called
+<div n="lb"/>seems to be the faint stars <lang n="greek">λ, φ<sup>1</sup>, φ<sup>2</sup></lang>, Orionis. They are called
 <div n="lb"/>Andhakā, ‘blind,’ in the Śāntikalpa of the Atharvaveda,
 <div n="lb"/>probably because of their dimness.<sup>70</sup>
 <F>70) Whitney, {%op. cit.,%} 401. {%Cf.%} Tilak,
@@ -25255,7 +25255,7 @@
 <LEND>
 
 <L>1478<pc>1-416<k1>ArdrA<k2>ArdrA<h>4
-4. {@Ārdrā,@}¦ ‘moist,’ is the name of the brilliant star, <lang n="greek"></lang> Orionis.
+4. {@Ārdrā,@}¦ ‘moist,’ is the name of the brilliant star, <lang n="greek">α</lang> Orionis.
 <div n="lb"/>But the names by which it is styled, in the plural as Ārdrās in
 <div n="lb"/>the Śāṅkhāyana Gṛhya Sūtra<sup>71</sup> and the Nakṣatrakalpa,<sup>72</sup> and
 <div n="lb"/>in the dual as Bāhū, in the Taittirīya Brāhmaṇa,<sup>73</sup> point to a
@@ -25271,7 +25271,7 @@
 
 <L>1479<pc>1-416<k1>punarvasU<k2>punarvasU<h>5
 5. {@Punarvasū,@}¦ ‘the two that give wealth again,’ denotes the
-<div n="lb"/>two stars, <lang n="greek"></lang> and <lang n="greek"></lang> Geminorum, on the heads of Castor and
+<div n="lb"/>two stars, <lang n="greek">α</lang> and <lang n="greek">β</lang> Geminorum, on the heads of Castor and
 <div n="lb"/>Pollux. The name is no doubt connected with the beneficent
 <div n="lb"/>character of the Aśvins, who correspond to the Dioscuri.<sup>75</sup>
 <F>75) Oldenberg, {%Religion des Veda,%} 212;
@@ -25280,7 +25280,7 @@
 
 <L>1480<pc>1-416<k1>tizya<k2>tizya<h>6
 6. {@Tiṣya@}¦ or {@Puṣya@} includes the somewhat faint group in the
-<div n="lb"/>body of the Crab, <lang n="greek"></lang>, and <lang n="greek"></lang> Cancri. The singular is rather
+<div n="lb"/>body of the Crab, <lang n="greek">γ, δ</lang>, and <lang n="greek">θ</lang> Cancri. The singular is rather
 <div n="lb"/>curious, as primarily one star would seem to have been meant.
 <div n="lb"/>and none of the group is at all prominent.<sup>76</sup>
 <F>76) Whitney, {%op. cit.,%} 403, n. 1.</F>
@@ -25288,8 +25288,8 @@
 
 <L>1481<pc>1-416<k1>ASrezAs<k2>ASrezAs<h>7
 7. {@Āśreṣās@}¦ or {@Āśleṣās,@} which in some texts<sup>77</sup> is certainly to
-<div n="lb"/>be read Aśreṣās or Aśleṣas, denotes <lang n="greek"></lang>, and perhaps
-<div n="lb"/>also <lang n="greek"></lang>, Hydræ. The word means ‘embracer,’ a name which
+<div n="lb"/>be read Aśreṣās or Aśleṣas, denotes <lang n="greek">δ, ε, η, ρ, σ</lang>, and perhaps
+<div n="lb"/>also <lang n="greek">ζ</lang>, Hydræ. The word means ‘embracer,’ a name which
 <div n="lb"/>admirably fits the constellation.
 <F>77) Aśreṣās, Śāṅkhāyana Gṛhya Sūtra,
 <div n="lb"/>i. 26; Śāntikalpa; Nakṣatrakalpa;
@@ -25298,13 +25298,13 @@
 <LEND>
 
 <L>1482<pc>1-416<k1>maGAs<k2>maGAs<h>8
-8. {@Maghās,@}¦ the ‘bounties,’ are the Sickle, or <lang n="greek"></lang>,
+8. {@Maghās,@}¦ the ‘bounties,’ are the Sickle, or <lang n="greek">α, η, γ, ζ, μ, ε</lang>,
 <div n="lb"/>Leonis. The variants {@Anaghā,@} the ‘sinless one,’ etc., clearly
 <div n="lb"/>refer to the auspicious influence of the constellation.
 <div n="P"/>9, 10. {@Phalgunī, Phalgunyau, Phalgū,@}<sup>78</sup> {@Phalgunīs, Phal-@}
 <div n="lb"/>{@gunyas,@} is really a-double constellation, divided into Pūrve,
-<div n="lb"/>‘former,’ and Uttare, ‘latter.’ The former is <lang n="greek"></lang> and <lang n="greek"></lang> Leonis,
-<div n="lb"/>the latter <lang n="greek"></lang> and 93 Leonis. According to Weber, the word
+<div n="lb"/>‘former,’ and Uttare, ‘latter.’ The former is <lang n="greek">δ</lang> and <lang n="greek">θ</lang> Leonis,
+<div n="lb"/>the latter <lang n="greek">β</lang> and 93 new Leonis. According to Weber, the word
 <div n="lb"/>denotes, like {@Arjunī,@} the variant of the Rigveda,<sup>79</sup> a ‘bright-
 <div n="lb"/>coloured’ constellation.
 <F>78) Kauṣītaki Brāhmaṇa, v. 1.</F>
@@ -25314,7 +25314,7 @@
 
 <L>1483<pc>1-417<k1>hasta<k2>hasta<h>11
 11. {@Hasta,@}¦ ‘hand,’ is made up of the five conspicuous stars
-<div n="lb"/>(<lang n="greek"></lang>) in Corvus, a number which the word itself
+<div n="lb"/>(<lang n="greek">δ, γ, ε, α, β</lang>) in Corvus, a number which the word itself
 <div n="lb"/>suggests. According to Geldner,<sup>80</sup> the ‘five bulls’ of the
 <div n="lb"/>Rigveda are this constellation.
 <F>80) {%Vedische Studien,%} 3, 177; Rv. i. 105,
@@ -25322,7 +25322,7 @@
 <LEND>
 
 <L>1484<pc>1-417<k1>citrA<k2>citrA<h>12
-12. {@Citrā,@}¦ ‘bright,’ is the beautiful star, <lang n="greek"></lang> Virginis. It is
+12. {@Citrā,@}¦ ‘bright,’ is the beautiful star, <lang n="greek">α</lang> Virginis. It is
 <div n="lb"/>mentioned in a legend of Indra in the Taittirīya Brāhmaṇa,<sup>81</sup>
 <div n="lb"/>and in that of the ‘two divine dogs’ ({%divyau śvānau%}) in the Śata-
 <div n="lb"/>patha Brāhmaṇa.<sup>82</sup>
@@ -25332,17 +25332,17 @@
 
 <L>1485<pc>1-417<k1>svAtI<k2>svAtI<h>13
 13. {@Svātī@}¦ or {@Niṣṭyā@} is later clearly the brilliant star Arcturus
-<div n="lb"/>or <lang n="greek"></lang> Bootis, its place in the north being assured by the notice
+<div n="lb"/>or <lang n="greek">α</lang> Bootis, its place in the north being assured by the notice
 <div n="lb"/>in the Śāntikalpa,<sup>83</sup> where it is said to be ‘ever traversing the
 <div n="lb"/>northern way’ ({%nityam uttara-mārgagam%}). The Taittirīya
 <div n="lb"/>Brāhmaṇa,<sup>84</sup> however, constructs an asterismal Prajāpati,
-<div n="lb"/>giving him Citrā ({%a%} Virginis) for head, Hasta (Corvus) for
-<div n="lb"/>hand, the Viśākhe ({%a%} and <lang n="greek"></lang> Libræ) for thighs, and the
-<div n="lb"/>Anurādhās (<lang n="greek"></lang>, and <lang n="greek"></lang> Scorpionis) for standing place, with
+<div n="lb"/>giving him Citrā (<lang n="greek">α</lang> Virginis) for head, Hasta (Corvus) for
+<div n="lb"/>hand, the Viśākhe (<lang n="greek">α</lang> and <lang n="greek">β</lang> Libræ) for thighs, and the
+<div n="lb"/>Anurādhās (<lang n="greek">β, δ,</lang>, and <lang n="greek">π</lang> Scorpionis) for standing place, with
 <div n="lb"/>Niṣṭyā for heart. But Arcturus, being 30º out, spoils this
 <div n="lb"/>figure, while, on the other hand, the Arabic and Chinese
-<div n="lb"/>systems have respectively, instead of Arcturus, <lang n="greek"></lang>, and <lang n="greek"></lang>
-<div n="lb"/>Virginis and <lang n="greek"></lang> Virginis, which would well fit into the Prajāpati
+<div n="lb"/>systems have respectively, instead of Arcturus, <lang n="greek">ι, κ</lang>, and <lang n="greek">λ</lang>
+<div n="lb"/>Virginis and <lang n="greek">κ</lang> Virginis, which would well fit into the Prajāpati
 <div n="lb"/>figure. But in spite of the force of this argument of Weber's,<sup>85</sup>
 <div n="lb"/>Whitney<sup>86</sup> is not certain that Niṣṭyā here must mean a star in
 <div n="lb"/>Virgo, pointing out that the name Niṣṭyā, ‘outcast,’ suggests
@@ -25354,7 +25354,7 @@
 <LEND>
 
 <L>1486<pc>1-417<k1>viSAKe<k2>viSAKe<h>14
-14. {@Viśākhe@}¦ is the couple of stars <lang n="greek"></lang> and <lang n="greek"></lang> Libræ. This
+14. {@Viśākhe@}¦ is the couple of stars <lang n="greek">α</lang> and <lang n="greek">β</lang> Libræ. This
 <div n="lb"/>mansion is later called Rādhā according to the Amarakośa, and
 <div n="lb"/>it is curious that in the Atharvaveda<sup>87</sup> the expression {%rādho%}
 <div n="lb"/>{%Viśākhe,%} ‘the Viśākhe are prosperity,’ should occur. But
@@ -25369,32 +25369,32 @@
 <LEND>
 
 <L>1487<pc>1-417<k1>anUrADAs<k2>anUrADAs<h>15
-15. {@Anūrādhās@}¦ or {@Anurādhā,@} ‘propitious,’ is <lang n="greek"></lang>, and <lang n="greek"></lang>
-<div n="lb"/>(perhaps also <lang n="greek"></lang>) Scorpionis.
+15. {@Anūrādhās@}¦ or {@Anurādhā,@} ‘propitious,’ is <lang n="greek">β, δ</lang>, and <lang n="greek">π</lang>
+<div n="lb"/>(perhaps also <lang n="greek">ρ</lang>) Scorpionis.
 <LEND>
 [Page1-418+ 47]
 
 <L>1488<pc>1-418<k1>rohiRI<k2>rohiRI<h>16
 16. {@Rohiṇī,@}¦ ‘ruddy’; {@Jyeṣṭhaghnī,@} ‘slaying the eldest’; or
-<div n="lb"/>{@Jyeṣṭhā,@} ‘eldest,’ is the name of the constellation <lang n="greek"></lang>, and <lang n="greek"></lang>
-<div n="lb"/>Scorpionis, of which the central star, <lang n="greek"></lang>, is the brilliant reddish
+<div n="lb"/>{@Jyeṣṭhā,@} ‘eldest,’ is the name of the constellation <lang n="greek">σ, α</lang>, and <lang n="greek">τ</lang>
+<div n="lb"/>Scorpionis, of which the central star, <lang n="greek">α</lang>, is the brilliant reddish
 <div n="lb"/>Antares (or Cor Scorpionis).
 <LEND>
 
 <L>1489<pc>1-418<k1>vicftO<k2>vicftO<h>17
 17. {@Vicṛtau,@}¦ ‘the two releasers’; {@Mūla,@} ‘root’; or {@Mūla-@}
-<div n="lb"/>{@barhaṇī,@} ‘uprooting,’ denote primarily <lang n="greek"></lang> and <lang n="greek"></lang> at the extremity
+<div n="lb"/>{@barhaṇī,@} ‘uprooting,’ denote primarily <lang n="greek">λ</lang> and <lang n="greek">ν</lang> at the extremity
 <div n="lb"/>of the tail of the Scorpion, but including also the nine or
-<div n="lb"/>eleven stars from <lang n="greek"></lang> to <lang n="greek"></lang>.
+<div n="lb"/>eleven stars from <lang n="greek">ε</lang> to <lang n="greek">ν</lang>.
 <div n="P"/>18, 19. {@Aṣāḍhās@} (‘unconquered’), distinguished as {@Pūrvās,@}
 <div n="lb"/>‘former,’ and {@Uttarās,@} ‘latter,’ are really two constellations, of
-<div n="lb"/>which the former is composed of <lang n="greek"></lang>, and <lang n="greek"></lang> Sagittarii, or of
-<lang n="greek"></lang> and <lang n="greek"></lang> only, and the latter of <lang n="greek"></lang>, and <lang n="greek"></lang> Sagittarii, or of two,
-<lang n="greek"></lang> and <lang n="greek"></lang>, only. It is probable that originally only four stars
+<div n="lb"/>which the former is composed of <lang n="greek">γ, δ, ε</lang>, and <lang n="greek">η</lang> Sagittarii, or of
+<lang n="greek">δ</lang> and <lang n="greek">ε</lang> only, and the latter of <lang n="greek">θ, σ, τ</lang>, and <lang n="greek">ζ</lang> Sagittarii, or of two,
+<lang n="greek">σ</lang> and <lang n="greek">ζ</lang>, only. It is probable that originally only four stars
 <div n="lb"/>forming a square were meant as included in the whole con-
-<div n="lb"/>stellation<sup>89</sup> — viz., <lang n="greek"></lang> and <lang n="greek"></lang>, with <lang n="greek"></lang> and <lang n="greek"></lang>.
-<div n="P"/>20. {@Abhijit@} is the brilliant star <lang n="greek"></lang> Lyræ with its two com-
-<div n="lb"/>panions <lang n="greek"></lang> and <lang n="greek"></lang>. Its location in 60º north latitude is completely
+<div n="lb"/>stellation<sup>89</sup> — viz., <lang n="greek">σ</lang> and <lang n="greek">ζ</lang>, with <lang n="greek">δ</lang> and <lang n="greek">ε</lang>.
+<div n="P"/>20. {@Abhijit@} is the brilliant star <lang n="greek">α</lang> Lyræ with its two com-
+<div n="lb"/>panions <lang n="greek">ε</lang> and <lang n="greek">ζ</lang>. Its location in 60º north latitude is completely
 <div n="lb"/>discordant with the position of the corresponding Arabian and
 <div n="lb"/>Chinese asterisms. This fact is considered by Oldenberg<sup>90</sup> to
 <div n="lb"/>support the view that it was a later addition to the system; its
@@ -25403,7 +25403,7 @@
 <div n="lb"/>the Taittirīya Brāhmaṇa<sup>93</sup> Abhijit is said to be ‘over Aṣāḍhās,
 <div n="lb"/>under Śroṇā,’ which Weber<sup>94</sup> held to refer to its position in
 <div n="lb"/>space, inferring thence that its Vedic position corresponded to
-<div n="lb"/>that of the Arab Manāzil and the Chinese Sieou — viz., <lang n="greek"></lang>,
+<div n="lb"/>that of the Arab Manāzil and the Chinese Sieou — viz., <lang n="greek">α, β</lang>
 <div n="lb"/>Capricorni. But Whitney<sup>95</sup> argues effectively that the words
 <div n="lb"/>‘over’ and ‘under’ really refer to the place of Abhijit in the
 <div n="lb"/>list, ‘after’ Aṣāḍhās and ‘before’ Śroṇā.
@@ -25426,7 +25426,7 @@
 
 <L>1490<pc>1-418<k1>SroRA<k2>SroRA<h>21
 21. {@Śroṇā,@}¦ ‘lame,’ or {@Śravaṇa,@} ‘ear,’ denotes the bright star
-<lang n="greek"></lang> Aquilæ with <lang n="greek"></lang> below and <lang n="greek"></lang> above it. Weber<sup>96</sup> very need-
+<lang n="greek">α</lang> Aquilæ with <lang n="greek">β</lang> below and <lang n="greek">γ</lang> above it. Weber<sup>96</sup> very need-
 [Page1-419+ 48]
 <div n="lb"/>lessly thinks that the name Śravaṇa suggested two ears and the
 <div n="lb"/>head between. It is quite out of correspondence with the
@@ -25437,8 +25437,8 @@
 
 <L>1491<pc>1-419<k1>SravizWAs<k2>SravizWAs<h>22
 22. {@Śraviṣṭhās,@}¦ ‘most famous,’ or later {@Dhaniṣṭhās,@}<sup>98</sup> ‘most
-<div n="lb"/>wealthy,’ is the diamond-shaped group, <lang n="greek"></lang>, and <lang n="greek"></lang>, in the
-<div n="lb"/>Dolphin, perhaps also <lang n="greek"></lang> in the same constellation. Like the
+<div n="lb"/>wealthy,’ is the diamond-shaped group, <lang n="greek">α, β, δ</lang>, and <lang n="greek">γ</lang>, in the
+<div n="lb"/>Dolphin, perhaps also <lang n="greek">ζ</lang> in the same constellation. Like the
 <div n="lb"/>preceding Nakṣatra, it is out of harmony with the Manāzil and
 <div n="lb"/>Sieou.
 <F>98) Śāṅkhāyana Gṛhya Sūtra, i. 26;
@@ -25447,12 +25447,12 @@
 
 <L>1492<pc>1-419<k1>SataBizaj<k2>SataBizaj<h>23
 23. {@Śatabhiṣaj@}¦ or {@Śatabhiṣa,@}<sup>99</sup> ‘having a hundred physicians,’
-<div n="lb"/>seems to be <lang n="greek"></lang> Aquarii with the others around it vaguely
+<div n="lb"/>seems to be <lang n="greek">λ</lang> Aquarii with the others around it vaguely
 <div n="lb"/>conceived as numbering a hundred.
 <div n="P"/>24, 25. {@Proṣṭha-padās@} (fem. plur.), ‘feet of a stool,’ or later
 <div n="lb"/>{@Bhadra-padās,@}<sup>100</sup> ‘auspicious feet,’ a double asterism forming
-<div n="lb"/>a square, the former ({%pūrva%}) consisting of <lang n="greek"></lang> and <lang n="greek"></lang> Pegasi, the
-<div n="lb"/>latter ({%uttara%}) of <lang n="greek"></lang> Pegasi and <lang n="greek"></lang> Andromedæ.
+<div n="lb"/>a square, the former ({%pūrva%}) consisting of <lang n="greek">α</lang> and <lang n="greek">β</lang> Pegasi, the
+<div n="lb"/>latter ({%uttara%}) of <lang n="greek">γ</lang> Pegasi and <lang n="greek">α</lang> Andromedæ.
 <F>99) So probably in Maitrāyaṇī Saṃ-
 <div n="lb"/>hitā, ii. 13, 20, where see von
 <div n="lb"/>Schroeder's critical note. The Śānti-
@@ -25464,14 +25464,14 @@
 
 <L>1493<pc>1-419<k1>revatI<k2>revatI<h>26
 26. {@Revatī,@}¦ ‘wealthy,’ denotes a large number of stars
-<div n="lb"/>(later 32), of which <lang n="greek"></lang> Piscium, close upon the ecliptic where
+<div n="lb"/>(later 32), of which <lang n="greek">ζ</lang> Piscium, close upon the ecliptic where
 <div n="lb"/>it was crossed by the equator of about 570 A.D., is given as the
 <div n="lb"/>southernmost.
 <LEND>
 
 <L>1494<pc>1-419<k1>aSvayujO<k2>aSvayujO<h>27
 27. {@Aśva-yujau,@}¦ ‘the two horse-harnessers,’ denotes the stars
-<lang n="greek"></lang> and <lang n="greek"></lang> Arietis. Aśvinyau<sup>101</sup> and Aśvinī<sup>102</sup> are later names.
+<lang n="greek">β</lang> and <lang n="greek">ζ</lang> Arietis. Aśvinyau<sup>101</sup> and Aśvinī<sup>102</sup> are later names.
 <F>101) Śāṅkhāyana Gṛhya Sūtra, i. 26:
 <div n="lb"/>Nakṣatrakalpa, 9. 30.</F>
 <F>102) Nakṣatrakalpa, 4. 45; Śānti-
@@ -25527,7 +25527,7 @@
 <div n="lb"/>only fair to suppose that there was some special reason for this
 <div n="lb"/>fact. Now the later list of the Nakṣatras begins with Aśvinī,
 <div n="lb"/>and it was unquestionably rearranged because at the time of its
-<div n="lb"/>adoption the vernal equinox coincided with the star <lang n="greek"></lang> Piscium
+<div n="lb"/>adoption the vernal equinox coincided with the star <lang n="greek">ζ</lang> Piscium
 <div n="lb"/>on the border of Revatī and Aśvinī,<sup>115</sup> say in the course of the
 <div n="lb"/>sixth century A.D. Weber<sup>116</sup> has therefore accepted the view
 <div n="lb"/>that the Kṛttikās were chosen for a similar reason, and the
@@ -25580,7 +25580,7 @@
 <div n="lb"/>basis of 1º = 72 years as the precession. Pratt<sup>129</sup> arrived at
 <div n="lb"/>precisely the same date, taking the same rate of precession and
 <div n="lb"/>adopting as his basis the ascertained position in the Siddhāntas
-<div n="lb"/>of the junction star<sup>130</sup> of Maghā, <lang n="greek"></lang> Leonis or Regulus. Davis<sup>131</sup>
+<div n="lb"/>of the junction star<sup>130</sup> of Maghā, <lang n="greek">α</lang> Leonis or Regulus. Davis<sup>131</sup>
 <div n="lb"/>and Colebrooke<sup>132</sup> arrived at a different date, B.C. 1391, by
 <div n="lb"/>taking as the basis of their calculation the junction star of Citrā,
 <div n="lb"/>which happens to be of uncertain position, varying as much as
@@ -25593,7 +25593,7 @@
 <div n="lb"/>of stars which stood in conjunction with the moon; and the
 <div n="lb"/>result of subsequently making them strictly equal divisions
 <div n="lb"/>was to throw the principal stars of the later groups altogether
-<div n="lb"/>out of their asterisms.<sup>134</sup> Nor can we say that the star <lang n="greek"></lang> Piscium
+<div n="lb"/>out of their asterisms.<sup>134</sup> Nor can we say that the star <lang n="greek">ζ</lang> Piscium
 <div n="lb"/>early formed the eastern boundary of Revatī; it may possibly
 <div n="lb"/>not even have been in that asterism at all, for it is far remote
 <div n="lb"/>from the Chinese and Arabic asterisms corresponding to Revatī.
@@ -28241,7 +28241,7 @@
 <div n="lb"/>appear as one of the tribes that opposed<sup>2</sup> the {@Tṛtsu-Bharatas@} in
 <div n="lb"/>the {@Dāśarājña.@} or ‘battle of the ten kings.’ Zimmer<sup>3</sup> compares
 [Page1-464+ 44]
-<div n="lb"/>them with the tribe of <lang n="greek"></lang> and their country <lang n="greek"></lang>,
+<div n="lb"/>them with the tribe of <lang n="greek">Πάκτυες</lang> and their country <lang n="greek">Πακτυική</lang>,
 <div n="lb"/>mentioned as in the north-west of India by Herodotus,<sup>4</sup> and
 <div n="lb"/>with the modern Pakhthūn in Eastern Afghanistan, holding
 <div n="lb"/>that they were a northern tribe; this is probable, since the
@@ -28261,8 +28261,8 @@
 <div n="lb"/>{%Journal of the American Oriental Society,%}
 <div n="lb"/>15, 260.</F>
 <F>3) {%Altindisches Leben,%} 430, 431.</F>
-<F>4) vii. 65 (<lang n="greek"></lang>); iii. 102 and iv. 44
-<div n="lb"/>(<lang n="greek"></lang>).</F>
+<F>4) vii. 65 new (<lang n="greek">Πάκτυες</lang>); iii. 102 new and iv. 44
+<div n="lb"/>(<lang n="greek">Πακτυική</lang>).</F>
 <F>5) viii. 22, 10; 49, 10; x. 61, 1.</F>
 <F>6) Pischel, {%Vedische Studien,%} 1, 71-77.</F>
 <LEND>
@@ -28682,7 +28682,7 @@
 <div n="lb"/>tirīya Saṃhitā, vi. 1, 10, 1.</F>
 <F>3) iii. 3, 2, 19. The root does not
 <div n="lb"/>occur in the Rigveda, but its etymology
-<div n="lb"/>is vouched for by the Greek <lang n="greek"></lang>,
+<div n="lb"/>is vouched for by the Greek <lang n="greek">πέρνημι</lang>,
 <div n="lb"/>{%Cf.%} Hillebrandt, {%Vedische Mythologie,%} 1,
 <div n="lb"/>84, n. 3.</F>
 <LEND>
@@ -28732,14 +28732,14 @@
 <div n="lb"/>were associated with the Dahae ({@Dāsa@}). Moreover, he finds
 <div n="lb"/>them associated in one passage<sup>17</sup> with the {@Pārāvatas,@} whom
 [Page1-473+ 45]
-<div n="lb"/>he identifies with the <lang n="greek"></lang> of Ptolemy,<sup>18</sup> and with {@Bṛṣaya,@}
-<div n="lb"/>whom he connects with <lang n="greek"></lang> of Arrian;<sup>19</sup> he also con-
+<div n="lb"/>he identifies with the <lang n="greek">Παρουῆται</lang> of Ptolemy,<sup>18</sup> and with {@Bṛṣaya,@}
+<div n="lb"/>whom he connects with <lang n="greek">Βαρσαέντης</lang> of Arrian;<sup>19</sup> he also con-
 <div n="lb"/>siders that the frequent<sup>20</sup> mention of the Paṇis as opponents
 <div n="lb"/>of {@Divodāsa@} shows that the latter was on the Arachosian
 <div n="lb"/>Haraqaiti ({@Sarasvatī@}) fighting against the Parnians and Dahae,
 <div n="lb"/>as well as other Iranian tribes. But the identification of Paṇi
 <div n="lb"/>and the Parnians is needless, especially as the root {%paṇ,%} which
-<div n="lb"/>is found also in the Greek <lang n="greek"></lang>, shows a satisfactory deri-
+<div n="lb"/>is found also in the Greek <lang n="greek">πέρνημι</lang>, shows a satisfactory deri-
 <div n="lb"/>vation, while the transfer of Divodāsa to the Haraqaiti is
 <div n="lb"/>improbable. See also {@Divodāsa@} and {@Bekanāṭa.@}
 <F>1) Rv. i. 33, 3; 83, 2; 151, 9; 180, 7;
@@ -31652,10 +31652,10 @@
 <div n="lb"/>name of a people on the {@Yamunā@} (Jumna). It is certain that
 <div n="lb"/>in the Pañcaviṃśa Brāhmaṇa the Pārāvatas are a people on
 <div n="lb"/>that river ({%cf.%} {@Turaśravas@}). Hillebrandt<sup>4</sup> sees in all the
-<div n="lb"/>passages<sup>5</sup> the name of a people, comparing the <lang n="greek"></lang> of
+<div n="lb"/>passages<sup>5</sup> the name of a people, comparing the <lang n="greek">Παρυῆται</lang> of
 [Page1-519+ 52]
 <div n="lb"/>Ptolemy,<sup>6</sup> who apparently were settled on the northern border
-<div n="lb"/>of Gedrosia, or the <lang n="greek"></lang>, who were found in <lang n="greek"></lang><sup>7</sup> He
+<div n="lb"/>of Gedrosia, or the <lang n="greek">Παροῦται</lang>, who were found in <lang n="greek">Αρεία</lang><sup>7</sup> He
 <div n="lb"/>suggests that they were originally ‘mountaineers’ ({%Cf.%} {@Parvata@}).
 <div n="lb"/>Ludwig<sup>8</sup> holds a similar view, and Geldner<sup>9</sup> recognizes a people
 <div n="lb"/>as meant. The mention of the {@Sarasvatī@} in connexion with
@@ -31674,7 +31674,7 @@
 <div n="lb"/>{%Turan,%} 99.</F>
 <F>5) See notes 2 and 3.</F>
 <F>6) vi. 20, 3. It is suggested by Hille-
-<div n="lb"/>brandt that the <lang n="greek"></lang> of Herodotus,
+<div n="lb"/>brandt that the <lang n="greek">Ἀπαρύται</lang> of Herodotus,
 <div n="lb"/>iii. 91, may be the same.</F>
 <F>7) Ptolemy, vi. 17.</F>
 <F>8) Translation of the Rigveda, 3, 162.
@@ -31842,7 +31842,7 @@
 <div n="lb"/>1, 105.</F>
 <F>5) {%Cf.%} Ludwing, Translation of the
 <div n="lb"/>Rigveda, 3, 196 {%et seq.%} Herodotos,
-<div n="lb"/>iii. 93, mentions the <lang n="greek"></lang>.</F>
+<div n="lb"/>iii. 93, mentions the <lang n="greek">Πάρθοι</lang>.</F>
 <LEND>
 
 <L>1796<pc>1-522<k1>pArTaSravasa<k2>pArTaSravasa
@@ -32886,8 +32886,8 @@
 <div n="lb"/>mediæval barony. They were probably merely places of refuge
 <div n="lb"/>against attack, ramparts of hardened earth with palisades and
 <div n="lb"/>a ditch ({%cf.%} {@Dehī@}). Pischel and Geldner,<sup>8</sup> however, think that
-<div n="lb"/>there were towns with wooden walls and ditches (<lang n="greek"></lang> and
-<lang n="greek"></lang>) like the Indian town of Pāṭaliputra known to Megas-
+<div n="lb"/>there were towns with wooden walls and ditches (<lang n="greek">περίβολος</lang> and
+<lang n="greek">τάφρος</lang>) like the Indian town of Pāṭaliputra known to Megas-
 <div n="lb"/>thenes<sup>9</sup> and the Pāli texts.<sup>10</sup> This is possible, but hardly
 <div n="lb"/>susceptible of proof, and it is not without significance that the
 <div n="lb"/>word {@Nagara@} is of late occurrence. On the whole it is hardly
@@ -34413,7 +34413,7 @@
 <div n="lb"/>earlier days they were to be found to the west of the Indus
 <div n="lb"/>with {@Divodāsa.@} This theory must fall with the theory that
 <div n="lb"/>Divodāsa was in the far west. It might, however, be held to
-<div n="lb"/>be supported by the fact that Alexander found a <lang n="greek"></lang> — that
+<div n="lb"/>be supported by the fact that Alexander found a <lang n="greek">Πῶρος</lang> — that
 <div n="lb"/>is, a Paurava prince on the Hydaspes,<sup>12</sup> a sort of half-way
 <div n="lb"/>locality between the Sarasvatī and the West. But it is quite
 <div n="lb"/>simple to suppose either that the Hydaspes was the earlier
@@ -35038,7 +35038,7 @@
 {@Pesas@}¦ denotes in the Rigveda<sup>1</sup> and later<sup>2</sup> an embroidered
 <div n="lb"/>garment such as a female dancer would wear.<sup>3</sup> The fondness
 <div n="lb"/>of the Indians for such raiment is noted by Megasthenes<sup>4</sup> and
-<div n="lb"/>by Arrian,<sup>5</sup> who refer to their <lang n="greek"></lang>. So in one
+<div n="lb"/>by Arrian,<sup>5</sup> who refer to their <lang n="greek">ἐσθής κατάστικτος</lang>. So in one
 <div n="lb"/>passage<sup>6</sup> a garment ({%vastra%}) is called {%peśana,%} with which Roth<sup>7</sup>
 <div n="lb"/>happily compares the Roman {%vestis coloribus intexta.%} The
 <div n="lb"/>making of such garments was a regular occupation of women,
@@ -35053,7 +35053,7 @@
 <div n="lb"/>xx. 40; Aitareya Brāhmaṇa, iii. 19, etc.</F>
 <F>3) Rv. i. 92, 4. 5.</F>
 <F>4) See Štrabo, p. 509, where he refers
-<div n="lb"/>to a <lang n="greek"></lang>.</F>
+<div n="lb"/>to a <lang n="greek">σιδών εὐανθής</lang>.</F>
 <F>5) {%Indica,%} 5, 9.</F>
 <F>6) Rv. x. 1, 6.</F>
 <F>7) St. Petersburg Dictionary, {%s.v.%}</F>
@@ -35271,7 +35271,7 @@
 <L>1958<pc>2-026<k1>pOra<k2>pOra
 {@Paura,@}¦ ‘descendant of Pūru,’ is the name of a man, presum-
 <div n="lb"/>ably a Pūru prince helped by Indra, in a hymn of the Rigveda.<sup>1</sup>
-<div n="lb"/>The Greek <lang n="greek"></lang> the name of Alexander's rival, is probably
+<div n="lb"/>The Greek <lang n="greek">Πῶρος</lang> the name of Alexander's rival, is probably
 <div n="lb"/>the representative of this word. Oldenberg<sup>2</sup> sees the same
 <div n="lb"/>name in another passage also.<sup>3</sup>
 <F>1) viii. 3, 12.</F>
@@ -37913,7 +37913,7 @@
 <div n="lb"/>with Babylon, but this conjecture must be regarded as
 <div n="lb"/>quite improbable. Hillebrandt<sup>6</sup> sensibly expresses no opinion
 <div n="lb"/>as to Bṛbu, while Brunnhofer's<sup>7</sup> attempt to recognize a
-<div n="lb"/>people named <lang n="greek"></lang>, and to connect them with the
+<div n="lb"/>people named <lang n="greek">Τάσκοι</lang>, and to connect them with the
 <div n="lb"/>Vedic word {%takṣan,%} is valueless, especially considering the
 <div n="lb"/>fact that Takṣan is not found as an epithet of Bṛbu in the
 <div n="lb"/>Rigveda.
@@ -37950,7 +37950,7 @@
 <div n="lb"/>second passage<sup>2</sup> used as an appellative, perhaps meaning
 <div n="lb"/>‘sorcerer.’<sup>4</sup> Hillebrandt<sup>5</sup> thinks that a people is meant
 <div n="lb"/>locating them in Arachosia or Drangiana with the Pārāvatas
-<div n="lb"/>and the Paṇis, and comparing <lang n="greek"></lang>, satrap of Arachosia
+<div n="lb"/>and the Paṇis, and comparing <lang n="greek">Βαρσαέντης</lang>, satrap of Arachosia
 <div n="lb"/>and Drangiana in the time of Darius.<sup>6</sup> But this theory is not
 <div n="lb"/>probable.
 <F>1) i. 93, 4.</F>
@@ -41223,7 +41223,7 @@
 <div n="lb"/>‘honey,’<sup>5</sup> which, however, is the most definite sense in the
 <div n="lb"/>later literature. Taboos against the use of honey are recorded.<sup>6</sup>
 <F>1) The word is etymologically identical
-<div n="lb"/>with Greek <lang n="greek"></lang>, ‘intoxicating drink,’
+<div n="lb"/>with Greek <lang n="greek">μέθυ</lang>, ‘intoxicating drink,’
 <div n="lb"/>and Anglo-Saxon {%medu,%} ‘mead.’</F>
 <F>2) Used as an adjective, ‘sweet,’ in
 <div n="lb"/>Rv. i. 90, 6. 8; 187, 2; iii. 1, 8;
@@ -41530,7 +41530,7 @@
 <div n="lb"/>tion of gifts, where it is described as ‘golden’ ({%sacā manā%}
 <div n="lb"/>{%hiraṇyayā%}). It therefore seems to designate some ornament, or
 <div n="lb"/>possibly a weight, and has accordingly been compared<sup>2</sup> with
-<div n="lb"/>the Greek <lang n="greek"></lang> (Herodotus has <lang n="greek"></lang>), the Latin {%mina.%} All three
+<div n="lb"/>the Greek <lang n="greek">μνᾶ</lang> (Herodotus has <lang n="greek">μνέα</lang>), the Latin {%mina.%} All three
 <div n="lb"/>words have been considered Semitic in origin, as borrowed from
 <div n="lb"/>the Phœnicians<sup>3</sup> in the case of Greece, from Carthage by way
 [Page2-129+ 55]
@@ -44177,7 +44177,7 @@
 <div n="lb"/>seems more probable<sup>2</sup> that Mṛga there really covers the whole
 <div n="lb"/>of Orion, not merely the inconspicuous group of stars in the
 <div n="lb"/>head of Orion that make up the Nakṣatra Mṛgaśiras, but also
-<div n="lb"/>the star {%a%} in his shoulder, which is reckoned as Ārdrā, and <lang n="greek"></lang>
+<div n="lb"/>the star <lang n="greek">α</lang> in his shoulder, which is reckoned as Ārdrā, and <lang n="greek">γ</lang>
 <div n="lb"/>in his left shoulder. Tilak,<sup>3</sup> however, makes Mṛga or Mṛgaśiras
 <div n="lb"/>into a different group, consisting of the belt of Orion, with two
 <div n="lb"/>stars in the knees and one in the left shoulder, which he
@@ -46113,7 +46113,7 @@
 <div n="lb"/>Rv. viii. 91, 7; but it has also been
 <div n="lb"/>taken as the opening in the yoke
 <div n="lb"/>through which the ox's head passed
-<div n="lb"/>(the Homeric <lang n="greek"></lang>). See Cowell's
+<div n="lb"/>(the Homeric <lang n="greek">ζεύγλη</lang>). See Cowell's
 <div n="lb"/>note on Wilson's translation; Griffith,
 <div n="lb"/>{%Hymns of the Rigveda,%} 2, 237, n.</F>
 <F>11) Av. xiv. 1, 40.</F>
@@ -46287,7 +46287,7 @@
 <L>2638<pc>2-205<k1>raTavAhana<k2>raTavAhana
 {@Ratha-vāhana@}¦ is the name in the Rigveda<sup>1</sup> and later<sup>2</sup> for a
 <div n="lb"/>movable stand to hold the chariot. According to Roth,<sup>3</sup> it
-<div n="lb"/>corresponds to the Greek <lang n="greek"></lang>, on which the chariot rested
+<div n="lb"/>corresponds to the Greek <lang n="greek">βωμός</lang>, on which the chariot rested
 <div n="lb"/>when out of use. The word Rathavāhana-vāha is employed in
 <div n="lb"/>the sense of the two horses that draw the stand.<sup>4</sup> Weber<sup>5</sup> thinks
 <div n="lb"/>it was used to convey the war chariot to the scene of action.
@@ -46310,7 +46310,7 @@
 <div n="lb"/>by Geldner, {%Vedische Studien,%} 2, 275.
 <div n="lb"/>Weber, however, admits that the Ratha-
 <div n="lb"/>vāhana may at times have served as a
-<div n="lb"/>mere stand, like the Homeric <lang n="greek"></lang>
+<div n="lb"/>mere stand, like the Homeric <lang n="greek">βωμός</lang>
 <div n="lb"/>while Geldner expresses the opinion
 <div n="lb"/>that it never has that sense. The use
 <div n="lb"/>of the term Rathavāhanavāha shows
@@ -49114,7 +49114,7 @@
 <div n="lb"/>occupation, and restriction on intermarriage.
 <div n="P"/>3. {%Restrictions on Intermarriage.%} — Arrian, in his {%Indica,%}<sup>87</sup>
 <div n="lb"/>probably on the authority of Megasthenes, makes the prohibi-
-<div n="lb"/>tion of marriage between <lang n="greek"></lang>, no doubt ‘castes,’ a characteristic
+<div n="lb"/>tion of marriage between <lang n="greek">γένη</lang>, no doubt ‘castes,’ a characteristic
 <div n="lb"/>of Indian life. The evidence of Pāli literature<sup>88</sup> is in favour of
 <div n="lb"/>this view, though it shows that a king could marry whom he
 <div n="lb"/>wished, and could make his son by that wife the heir apparent.
@@ -49427,7 +49427,7 @@
 <div n="lb"/>A man must marry a woman of equal birth, but not one of the
 <div n="lb"/>same {%gens,%} according to Roman law as interpreted by Senart
 <div n="lb"/>and Kovalevsky;<sup>160</sup> and an Athenian must marry an Athenian
-<div n="lb"/>woman, but not one of the same <lang n="greek"></lang>. In India these rules
+<div n="lb"/>woman, but not one of the same <lang n="greek">γένος</lang>. In India these rules
 <div n="lb"/>are reproduced in the form that one must not marry within
 <div n="lb"/>the {@Gotra,@} but not without the caste. The theory, though
 <div n="lb"/>attractively developed, is not convincing; the Latin and Greek
@@ -49436,10 +49436,10 @@
 <div n="lb"/>in strictness as the evidence grows later in date.<sup>162</sup>
 <div n="P"/>On the other hand, it is not necessary to deny that the
 <div n="lb"/>development of caste may have been helped by the family
-<div n="lb"/>traditions of some {%gentes,%} or <lang n="greek"></lang>, or Gotras. The Patricians
+<div n="lb"/>traditions of some {%gentes,%} or <lang n="greek">γένη</lang>, or Gotras. The Patricians
 <div n="lb"/>of Rome for a long time declined intermarriage with the
 <div n="lb"/>plebeians; the Athenian Eupatridai seem to have kept their
-<lang n="greek"></lang> pure from contamination by union with lower blood; and
+<lang n="greek">γένη</lang> pure from contamination by union with lower blood; and
 <div n="lb"/>there may well have been noble families among the Vedic
 <div n="lb"/>Indians who intermarried only among themselves. The
 [Page2-269+ 49]
@@ -51647,7 +51647,7 @@
 <F>4) Zimmer, {%Altindisches Leben,%} 356;
 <div n="lb"/>Whitney, Translation of the Atharva-
 <div n="lb"/>veda, 361, points out that Vicṛtau are
-<lang n="greek"></lang> and <lang n="greek"></lang> Scorpionis, while Mūla includes
+<lang n="greek">λ</lang> and <lang n="greek">υ</lang> Scorpionis, while Mūla includes
 <div n="lb"/>the tail as a whole.</F>
 <LEND>
 
@@ -52295,7 +52295,7 @@
 <div n="lb"/>{@Gotra@} is quite uncertain. In one passage of the Atharvaveda<sup>10</sup>
 <div n="lb"/>the Viśaḥ are mentioned along with the {%sabandhavaḥ%} or relatives,
 <div n="lb"/>but no definite conclusion can be drawn from that fact. Nor
-<div n="lb"/>does the analogy of the Roman {%curia%} or the Greek <lang n="greek"></lang> throw
+<div n="lb"/>does the analogy of the Roman {%curia%} or the Greek <lang n="greek">φρήτρη</lang> throw
 <div n="lb"/>much light, as these institutions are themselves of obscure
 <div n="lb"/>character, and the parallelism need not be cogent. It is, at
 <div n="lb"/>any rate, possible that the Viś may in some cases have been no
@@ -52395,7 +52395,7 @@
 <div n="lb"/>576; Cuq, {%Les institutions juridiques des%}
 <div n="lb"/>{%Romains,%} 30-36, For the Greek Phratria
 <div n="lb"/>which was probably similar in char-
-<div n="lb"/>acter, consisting of a union of <lang n="greek"></lang> see
+<div n="lb"/>acter, consisting of a union of <lang n="greek">γένη</lang> see
 <div n="lb"/>{%Dictionary of Antiquities,%} 2, 876 {%et seq.;%}
 <div n="lb"/>Greenidge, {%Greek Constitutional History,%}
 <div n="lb"/>128 {%et seq.;%} Bury, {%History of Greece,%} 69,
@@ -54746,7 +54746,7 @@
 <L>3129<pc>2-347<k1>Sakuna<k2>Sakuna
 {@Śakuna,@}¦ ‘bird,’ is mentioned frequently in the Rigveda<sup>1</sup> and
 <div n="lb"/>later.<sup>2</sup> It usually denotes a large bird,<sup>3</sup> or a bird which gives
-<div n="lb"/>omens.<sup>4</sup> Zimmer<sup>5</sup> compares <lang n="greek"></lang> which also is a bird of
+<div n="lb"/>omens.<sup>4</sup> Zimmer<sup>5</sup> compares <lang n="greek">κύκνος</lang> which also is a bird of
 <div n="lb"/>omen.
 <F>1) iv. 26, 6; ix. 85, 11; 86, 13;
 <div n="lb"/>107, 20; 112, 2; x. 68, 7; 106, 3; 123, 6;
@@ -56823,7 +56823,7 @@
 <div n="lb"/>{@Viṣāṇins@} the honour of being defeated by {@Sudās,@} not of being,
 <div n="lb"/>as Roth<sup>2</sup> thought, his allies. There can hardly be any doubt
 [Page2-382+ 39]
-<div n="lb"/>of their identity with the <lang n="greek"></lang><sup>3</sup> or <lang n="greek"></lang><sup>4</sup> of the Greeks, who
+<div n="lb"/>of their identity with the <lang n="greek">Σίβαι</lang><sup>3</sup> or <lang n="greek">Σίβοι</lang><sup>4</sup> of the Greeks, who
 <div n="lb"/>dwelt between the Indus and the Akesines ({@Asiknī@}) in Alexander's
 <div n="lb"/>time. The village of Śiva-pura, mentioned by the scholiast on
 <div n="lb"/>Pāṇini<sup>5</sup> as situated in the northern country, may also preserve
@@ -57277,7 +57277,7 @@
 <div n="lb"/>illicit unions of Ārya and Śūdrā, or Śūdra and Āryā, are
 <div n="lb"/>referred to in the Saṃhitās of the Yajurveda.<sup>35</sup>
 <div n="P"/>The origin of the term Śūdra is quite obscure, but Zimmer<sup>36</sup>
-<div n="lb"/>points out that Ptolemy<sup>37</sup> mentions <lang n="greek"></lang> as a people, and he
+<div n="lb"/>points out that Ptolemy<sup>37</sup> mentions <lang n="greek">Σύδροι</lang> as a people, and he
 <div n="lb"/>thinks that the Brāhui may be meant. Without laying any
 <div n="lb"/>stress on this identification,<sup>38</sup> it is reasonable to accept the
 [Page2-392+ 53]
@@ -59472,7 +59472,7 @@
 <div n="lb"/>when the assembly was not transacting public business: a
 <div n="lb"/>dicer is called {%sabhā-sthāṇu,%} ‘pillar of the assembly hall,’ doubt-
 <div n="lb"/>less because of his constant presence there.<sup>4</sup> The hall also
-<div n="lb"/>served, like the Homeric <lang n="greek"></lang>, as a meeting-place for social
+<div n="lb"/>served, like the Homeric <lang n="greek">λέσχη</lang>, as a meeting-place for social
 <div n="lb"/>intercourse and general conversation about cows and so forth,<sup>5</sup>
 <div n="lb"/>possibly for debates and verbal contests.<sup>6</sup>
 <div n="P"/>According to Ludwig,<sup>7</sup> the Sabhā was an assembly not of all
@@ -61672,7 +61672,7 @@
 [Page2-461+ 52]
 <div n="lb"/>the people, and once feminine,<sup>3</sup> though Roth<sup>4</sup> sees in the word
 <div n="lb"/>the designation of a Soma vessel. Its identification is quite
-<div n="lb"/>uncertain, though it has been thought to be the <lang n="greek"></lang> of
+<div n="lb"/>uncertain, though it has been thought to be the <lang n="greek">Σόανος</lang> of
 <div n="lb"/>Megasthenes,<sup>5</sup> the modern Suwan.
 <F>1) x. 75, 5; Nirukta, ix. 26, where it is absurdly identified with the {@Sindu@}
 <div n="lb"/>(Indus).</F>
@@ -61681,7 +61681,7 @@
 <F>4) St. Petersburg Dictionary, {%s.v.%} 2.</F>
 <F>5) See Arrian, {%Indica,%} iv. 12; Schwan-
 <div n="lb"/>beck, {%Megasthenes,%} 31, where there is a
-<div n="lb"/>various reading <lang n="greek"></lang>.
+<div n="lb"/>various reading <lang n="greek">Σόαμος</lang>.
 <div n="P"/>{%Cf.%} Hillebrandt, {%Vedische Mythologie,%}
 <div n="lb"/>1, 126 {%et seq.;%} Max Müller, {%Sacred Books%}
 <div n="lb"/>{%of the East,%} 32, 398, 399; Zimmer,
@@ -61712,7 +61712,7 @@
 <div n="lb"/>by {%mṛga,%}<sup>4</sup> the combined words apparently meaning ‘wild hog,’
 <div n="lb"/>as opposed to {@Varāha,@} ‘boar.’
 <F>1) The {%sū-%} corresponding to Lat. {%sū-s,%}
-<div n="lb"/>Gk. <lang n="greek"></lang>-{%s,%} Old High German, {%sū. Cf.%}
+<div n="lb"/>Gk. <lang n="greek">ὗς</lang>-{%s,%} Old High German, {%sū. Cf.%}
 <div n="lb"/>Brugmann, {%Grundriss,%} 2^2, 483.</F>
 <F>2) vii. 55, 4.</F>
 <F>3) Av. ii. 27, 2; v. 14, 1; Maitrāyaṇī
@@ -62059,7 +62059,7 @@
 <div n="lb"/>Academy of Sciences, May, 1885;
 <div n="lb"/>Translation of the Rigveda, 6, x.</F>
 <F>15) See Rv. iv. 28, 23; v. 33, 4;
-<div n="lb"/>x. 37, 3<lang n="greek"></lang> 138, 4.</F>
+<div n="lb"/>x. 37, 3; 138, 4.</F>
 <F>16) {%Proceedings of the American Oriental%}
 <div n="lb"/>{%Society,%} October, 1885, xvii ({%Journal of%}
 <div n="lb"/>{%the American Oriental Society,%} 13, lxi-
@@ -62237,7 +62237,7 @@
 <div n="lb"/>Hillebrandt<sup>15</sup> suggests that in early times they must be looked
 <div n="lb"/>for west of the Indus with Divodāsa; he also mentions, though
 <div n="lb"/>he does not definitely adopt, the suggestion of Brunnhofer that
-<div n="lb"/>the Sṛñjayas are to be compared with the <lang n="greek"></lang><sup>16</sup> of the
+<div n="lb"/>the Sṛñjayas are to be compared with the <lang n="greek">Σαράγγαι</lang><sup>16</sup> of the
 <div n="lb"/>Greeks, and to be located in Drangiana. Zimmer<sup>17</sup> is inclined
 <div n="lb"/>to locate them on the upper Indus; but it is difficult to decide
 <div n="lb"/>definitely in favour of any particular location. They may well
@@ -62284,9 +62284,9 @@
 <F>13) xii. 3.</F>
 <F>14) vi. 6, 2, 2, 3.</F>
 <F>15) {%Op. cit.,%} 1, 106.</F>
-<F>16) Herodotus has the form <lang n="greek"></lang>
-<div n="lb"/>and <lang n="greek"></lang>, Strabo and Arrian
-<lang n="greek"></lang>. The Avestic is {%zrayaṅk,%} Old
+<F>16) Herodotus has the form <lang n="greek">Σαράγγαι</lang>
+<div n="lb"/>and <lang n="greek">Σαράγγεες</lang>, Strabo and Arrian
+<lang n="greek">Δράγγαι</lang>. The Avestic is {%zrayaṅk,%} Old
 <div n="lb"/>Persian {%daraya.%} The Indian {%s%} is curious
 <div n="lb"/>if the words are parallel (see, however,
 <div n="lb"/>Bloomfield, {%American Journal of Philology,%}
@@ -63265,7 +63265,7 @@
 <F>9) Taittirīya Saṃhitā, vi. 5, 8, 2;
 <div n="lb"/>Maitrāyaṇī Saṃhitā, iv. 6, 4; Śatapatha
 <div n="lb"/>Brāhmaṇa, iv. 4, 2, 13; Nirukta, iii. 4.</F>
-<F>10) {%Cf.%} the Attic <lang n="greek"></lang>, Keith,
+<F>10) {%Cf.%} the Attic <lang n="greek">ἐπίκληρος</lang>, Keith,
 <div n="lb"/>{%Journal of the Royal Asiatic Society,%} 1912,
 <div n="lb"/>427.</F>
 <LEND>
@@ -63526,7 +63526,7 @@
 <L>3744<pc>2-490<k1>syUman<k2>syUman
 {@Syūman@}¦ in one passage of the Rigveda<sup>1</sup> denotes, according to
 <div n="lb"/>Roth,<sup>2</sup> the strap fastening the door of a house, the Homeric
-<lang n="greek"></lang>.
+<lang n="greek">ἱμάς, δεσμός</lang>.
 <F>1) iii. 61, 4.</F>
 <F>2) St. Petersburg Dictionary, {%s.v.%}</F>
 <LEND>
@@ -64272,7 +64272,7 @@
 <L>3801<pc>2-502<k1>hAridrava<k2>hAridrava
 {@Hāridrava@}¦ is the name of a yellow bird in the Rigveda,<sup>1</sup>
 <div n="lb"/>perhaps the ‘yellow water-wagtail.’<sup>2</sup> Geldner<sup>3</sup> compares the
-<div n="lb"/>Greek <lang n="greek"></lang>
+<div n="lb"/>Greek <lang n="greek">χαραδριός.</lang>
 <F>1) i. 50, 12; viii. 35, 7.</F>
 <F>2) Sāyaṇa on Rv. i. 50, 12; Taittirīya
 <div n="lb"/>Brāhmaṇa, iii. 7, 6, 2, treats it as the
@@ -64695,7 +64695,7 @@
 <div n="lb"/>reads {%huḍu,%} ‘ram.’ Henry<sup>2</sup> has conjectured that the word is
 <div n="lb"/>the equivalent of a proto-Semitic {%ḥarāḍu,%} ‘gold’ (Assyrian
 <div n="lb"/>{%huraçu%} and Hebrew {%ḥarāç%}), while Halévy<sup>3</sup> suggests that it may
-<div n="lb"/>be the Greek <lang n="greek"></lang> ‘greenish-yellow’; but both conjectures
+<div n="lb"/>be the Greek <lang n="greek">χλωρός,</lang> ‘greenish-yellow’; but both conjectures
 <div n="lb"/>are highly improbable.<sup>4</sup> Weber<sup>5</sup> thinks ‘cramp’ is meant.
 <F>1) i. 25, 2. 3.</F>
 <F>2) {%Journal Asiatique,%} 9th series, 10, 513.</F>
