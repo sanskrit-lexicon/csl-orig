@@ -442,3 +442,12 @@
 <L>26226.4<pc>0984-c<k1>viBItakaM<k2>viBItakaM<type>alt<LP>26226.1<k1P>viBItaH<ln1>221437<ln2>221442
 <L>26226.5<pc>0984-c<k1>viBItakI<k2>viBItakI<type>alt<LP>26226.1<k1P>viBItaH<ln1>221437<ln2>221442
 <L>26226.6<pc>0984-c<k1>viBItA<k2>viBItA<type>alt<LP>26226.1<k1P>viBItaH<ln1>221437<ln2>221442
+;2021-09-17
+<L>11623.1<pc>0427-c<k1>kOtUhalyaM<k2>kOtUhalyaM<type>alt<LP>11623<k1P>kOtUhalaM<ln1>97433<ln2>97441
+<L>11659.1<pc>0428-c<k1>kOSalyaM<k2>kOSalyaM<type>alt<LP>11659<k1P>kOSalaM<ln1>97687<ln2>97695
+<L>11902.1<pc>0437-b<k1>kzipastiH<k2>kzipastiH<type>alt<LP>11902<k1P>kzipatiH<ln1>99619<ln2>99621
+<L>13534.1<pc>0499-a<k1>coloMqukaH<k2>coloMqukaH<type>alt<LP>13534<k1P>colaMqukaH<ln1>113294<ln2>113297
+<L>13671.1<pc>0503-b<k1>jagannuH<k2>jagannuH<type>alt<LP>13671<k1P>jaganuH<ln1>114280<ln2>114283
+<L>14211.1<pc>0522-c<k1>wiwwiBaH<k2>wiwwiBaH<type>alt<LP>14211<k1P>wiwiBaH<ln1>118542<ln2>118547
+<L>17407.1<pc>0649-a<k1>nEpuRyaM<k2>nEpuRyaM<type>alt<LP>17407<k1P>nEpuRaM<ln1>146397<ln2>146405
+
