@@ -450,3 +450,16 @@
 <L>13671.1<pc>0503-b<k1>jagannuH<k2>jagannuH<type>alt<LP>13671<k1P>jaganuH<ln1>114280<ln2>114283
 <L>14211.1<pc>0522-c<k1>wiwwiBaH<k2>wiwwiBaH<type>alt<LP>14211<k1P>wiwiBaH<ln1>118542<ln2>118547
 <L>17407.1<pc>0649-a<k1>nEpuRyaM<k2>nEpuRyaM<type>alt<LP>17407<k1P>nEpuRaM<ln1>146397<ln2>146405
+<L>17524.1<pc>0653-c<k1>nyUMKa<k2>nyUMKa<type>alt<LP>17524<k1P>nyuMKa<ln1>147295<ln2>147298
+<L>21037.1<pc>0769-b<k1>prahlAdaH<k2>prahlAdaH<type>alt<LP>21037<k1P>prahrAdaH<ln1>174118<ln2>174150
+<L>21038.1<pc>0769-b<k1>prahlAdana<k2>prahlAdana<type>alt<LP>21038<k1P>prahrAdana<ln1>174151<ln2>174156
+<L>22212.1<pc>0818-c<k1>BIlUkaH<k2>BIlUkaH<type>alt<LP>22212<k1P>BIlukaH<ln1>184905<ln2>184907
+<L>22748.1<pc>0846-b<k1>marUbaka<k2>marUbaka<type>alt<LP>22748<k1P>marUvaka<ln1>190761<ln2>190766
+<L>25071.1<pc>0946-c<k1>varivasyita<k2>varivasyita<type>alt<LP>25071<k1P>varivasita<ln1>212507<ln2>212510
+<L>26254.1<pc>0985-c<k1>vimaMT<k2>vimaMT<type>alt<LP>26254<k1P>vimaT<ln1>221604<ln2>221609
+<L>26668.1<pc>1000-b<k1>vizvadryaMc<k2>vizvadryaMc<type>alt<LP>26668<k1P>vizvadryac<ln1>224946<ln2>224952
+<L>27966.1<pc>1045-a<k1>SiviH<k2>SiviH<type>alt<LP>27966<k1P>SibiH<ln1>235163<ln2>235172
+<L>30184.1<pc>1120-a<k1>sArpyaH<k2>sArpyaH<type>alt<LP>30184<k1P>sArpaH<ln1>252319<ln2>252322
+<L>30473.1<pc>1135-c<k1>sUrkzy<k2>sUrkzy<type>alt<LP>30473<k1P>sUrkz<ln1>255618<ln2>255622
+<L>30474.1<pc>1135-c<k1>sUrkzyaRaM<k2>sUrkzyaRaM<type>alt<LP>30474<k1P>sUrkzaRaM<ln1>255623<ln2>255625
+<L>31126.1<pc>1159-b<k1>svaMk<k2>svaMk<type>alt<LP>31126<k1P>svaMg<ln1>261025<ln2>261028
