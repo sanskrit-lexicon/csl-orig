@@ -17,6 +17,8 @@ The {X...X} style of coding serves several purposes:
 {% %}  57590  : italic text (primarily, perhaps entirely, used for
                 Sanskrit text)
 {! !}    492  : Homonym number for word in PWK dictionary
+               Sep 2021: This homonym number now appears (without markup)
+	       before the {%X%} IAST headword in first line of digitization.
 {part=,seq=1,type=,n=1} : This exemplifies a coding that appears for
  each entry, at the end of the body of the entry.  
  - part  when blank, the entry occurs in the main part of the dictionary
@@ -24,8 +26,8 @@ The {X...X} style of coding serves several purposes:
  - seq  a sequence number for the entry in the original digitization. 
    For about 350 cases of homonyms merged in the original digitization, 
    a variant of this might be, e.g., seq=6109a.
- - type - Some entries appear with a preceding code (*, º, +). 
-    For example, ºaMSumatPala, *aMSumatPalA, *+jyotiriNgaRa.
+ - type - Some entries appear with a preceding code (*, °, +). 
+    For example, °aMSumatPala, *aMSumatPalA, *+jyotiriNgaRa.
  - n This is the number of lines taken by the entry in the printed edition.
 
 Meta lines: 
@@ -76,9 +78,8 @@ Sanskrit words, a few (e.g. ï) appear within words of other languages, and a fe
 ¦  (\u00a6) 29114 := BROKEN BAR
 §  (\u00a7)     3 := SECTION SIGN
 ª  (\u00aa)     2 := FEMININE ORDINAL INDICATOR
-°  (\u00b0)  2254 := DEGREE SIGN
+°  (\u00b0) 24447 := DEGREE SIGN
 ³  (\u00b3)     1 := SUPERSCRIPT THREE
-º  (\u00ba) 12875 := MASCULINE ORDINAL INDICATOR
 ½  (\u00bd)     1 := VULGAR FRACTION ONE HALF
 Ä  (\u00c4)    37 := LATIN CAPITAL LETTER A WITH DIAERESIS
 Ç  (\u00c7)     1 := LATIN CAPITAL LETTER C WITH CEDILLA
