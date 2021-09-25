@@ -4269,8 +4269,8 @@
 <div n="lb">with {%di%} or {%ti%} (see {%ba-di, la-ti%}) and also by itself. Cf. {%va.%}
 <LEND>
 
-<L>753<pc>042<k1>bA<k2>bAº
-{%Bāº%}¦ (PJS), contraction of the honorific {%Bāi%} (q. v.)
+<L>753<pc>042<k1>bA<k2>bA°
+{%Bā°%}¦ (PJS), contraction of the honorific {%Bāi%} (q. v.)
 <div n="lb">applied to ladies (especially in medieval Jain inscriptions of
 <div n="lb">Western India).
 <LEND>
@@ -4320,7 +4320,7 @@
 
 <L>764<pc>043<k1>badi<k2>ba-di
 {%ba-di%}¦ (IE 8-1; CII 3; etc.), contraction of {%bahula-pakṣa-dina%}
-<div n="lb">or {%ºdivasa;%} also spelt {%va-di,%} cf. {%śu-di;%} abbreviations of separate
+<div n="lb">or {%°divasa;%} also spelt {%va-di,%} cf. {%śu-di;%} abbreviations of separate
 <div n="lb">words (see {%ba, di, śu%} and {%va%}) and not words in themselves,
 <div n="lb">{%ba-di%} or {%va-di%} referring to the dark fortnight and {%śu-di%} the
 <div n="lb">bright fortnight; they denote the fortnight and the solar
@@ -4415,7 +4415,7 @@
 
 <L>781<pc>044<k1>bAi<k2>bAi, bAI
 {%Bāi, Bāī%}¦ (EI 8), honorific epithet or name-ending of
-<div n="lb">ladies in Western India; cf. {%Bāyi, Bā.º%}
+<div n="lb">ladies in Western India; cf. {%Bāyi, Bā.°%}
 <LEND>
 
 <L>782<pc>044<k1>bala<k2>bala
@@ -4658,13 +4658,13 @@
 {%bha%}¦ (IE 7-1-2), ‘twentyseven’.
 <LEND>
 
-<L>825<pc>047<k1>Ba<k2>Baº
-{%Bhaº%}¦ (PJS), abbreviation of {%Bhagavān%} (especially in
+<L>825<pc>047<k1>Ba<k2>Ba°
+{%Bha°%}¦ (PJS), abbreviation of {%Bhagavān%} (especially in
 <div n="lb">medieval Jain inscriptions).
 <LEND>
 
-<L>826<pc>047<k1>BA<k2>BAº
-{%bhāº%}¦ (PJS), abbreviation of {%bhāryā%} (especially in medieval
+<L>826<pc>047<k1>BA<k2>BA°
+{%bhā°%}¦ (PJS), abbreviation of {%bhāryā%} (especially in medieval
 <div n="lb">Jain inscriptions).
 <LEND>
 
@@ -4894,8 +4894,8 @@
 {%bhakt-oddeśaka%}¦ (LL), Buddhist; distributor of food.
 <LEND>
 
-<L>868<pc>049<k1>BaM<k2>BaMº
-{%Bhaṃº%}¦ (PJS), abbreviation of {%Bhaṇḍārin%} (especially in
+<L>868<pc>049<k1>BaM<k2>BaM°
+{%Bhaṃ°%}¦ (PJS), abbreviation of {%Bhaṇḍārin%} (especially in
 <div n="lb">medieval Jain inscriptions). See {%Bhīṇḍārin,%} etc.
 <LEND>
 
@@ -5080,8 +5080,8 @@
 <div n="P">({%IE%} 8-3), a minstrel.
 <LEND>
 
-<L>903<pc>051<k1>BawwA<k2>BawwAº
-{%Bhaṭṭāº%}¦ (PJS), abbreviation of {%Bhaṭṭāraka%} (in medieval
+<L>903<pc>051<k1>BawwA<k2>BawwA°
+{%Bhaṭṭā°%}¦ (PJS), abbreviation of {%Bhaṭṭāraka%} (in medieval
 <div n="lb">Jain inscriptions); an epithet of Jain teachers.
 <LEND>
 
@@ -5809,8 +5809,8 @@
 {%bilkoḍe%}¦ (EI 28), Kannaḍa; tolls.
 <LEND>
 
-<L>1034<pc>059<k1>biM<k2>biMº
-{%biṃº%}¦ (PJS), abbreviation of {%bimba,%} ‘an image’ (especia-
+<L>1034<pc>059<k1>biM<k2>biM°
+{%biṃ°%}¦ (PJS), abbreviation of {%bimba,%} ‘an image’ (especia-
 <div n="lb">cially in medieval Jain inscriptions).
 <LEND>
 
@@ -6848,8 +6848,8 @@
 {%catvāraka%}¦ (IA 17), used in the sense of {%catuṣṭaya.%}
 <LEND>
 
-<L>1226<pc>071<k1>CO<k2>COº
-{%Chauº%}¦ (PJS), contraction of {%Caudharī (Caturdhara)%} especially
+<L>1226<pc>071<k1>CO<k2>CO°
+{%Chau°%}¦ (PJS), contraction of {%Caudharī (Caturdhara)%} especially
 <div n="lb">in medieval Jain inscriptions.
 <LEND>
 
@@ -9377,7 +9377,7 @@
 <div n="lb">records; name of a tax, according to some; probably, the
 <div n="lb">same as {%datti,%} i. e. a gift or occasional present to be offered
 <div n="lb">to the landlord; cf. {%sarva-ditya-viṣṭi-prātibhedikā-parihīna%} or
-<div n="lb">{%ºparihṛta%} ({%Ep. Ind.,%} Vol. VI, p. 298, text line 20); also cf.
+<div n="lb">{%°parihṛta%} ({%Ep. Ind.,%} Vol. VI, p. 298, text line 20); also cf.
 <div n="lb">{%sa-ditya-dāna-karaṇa%} ({%Ep. Ind.,%} Vol. XXXI, p. 301, text line 14),
 <div n="lb">an epithet of the gift land. {%Ditya%} is probably derived from
 <div n="lb">Prakrit {%dijja%} = Sanskrit {%deya,%} ‘to be given’, ‘an object that has
@@ -13987,7 +13987,7 @@
 <div n="P">({%EI%} 6; ASLV), same as {%Korṇam%} or {%Senabova;%} a village
 <div n="lb">accountant.
 <div n="P">{%Cf. Vāśal-karaṇikam%} (SITI), same as {%Vāśal-kaṇakkam%}
-<div n="lb">{%(ºgaṇaka).%}
+<div n="lb">{%(°gaṇaka).%}
 <LEND>
 
 <L>2575<pc>146<k1>kAraRika<k2>kAraRika
@@ -14770,7 +14770,7 @@
 
 <L>2717<pc>155<k1>KaRqala<k2>KaRqala, KaRqalaka
 {%khaṇḍala, khaṇḍalaka,%}¦ same as {%khaṇḍa;%} cf. {%kṣetra-khaṇḍala%}
-<div n="lb">or {%ºkhaṇḍalaka%} ({%Ep. Ind.,%} Vol. XXXV, p. 135, text time 22;
+<div n="lb">or {%°khaṇḍalaka%} ({%Ep. Ind.,%} Vol. XXXV, p. 135, text time 22;
 <div n="lb">p. 139, text line 22).
 <LEND>
 
@@ -16273,8 +16273,8 @@
 <div n="lb">medieval records especially of the Kannaḍa-speaking area.
 <LEND>
 
-<L>3008<pc>170<k1>lOki<k2>lOkiº, lOkikaº
-{%laukiº, laukikaº%}¦ (IA 18), abbreviation of {%laukika-gaṇanayā.%}
+<L>3008<pc>170<k1>lOki<k2>lOki°, lOkika°
+{%lauki°, laukika°%}¦ (IA 18), abbreviation of {%laukika-gaṇanayā.%}
 <div n="lb">{%Laukika-saṃvatsara%} is a year of the Laukika era.
 <LEND>
 
@@ -17391,7 +17391,7 @@
 <L>3207<pc>183<k1>mahApraDAna<k2>mahApraDAna
 {%Mahāpradhāna%}¦ (IE 8-3; EI 30; CII 4; BL; HD), ‘the
 <div n="lb">great minister’; ‘the chief minister or administrator’; sometimes
-<div n="lb">also called {%Mahāsāmant-ādhipati, Antaḥpura-vĕrgaḍĕ (ºādhyakṣa),%}
+<div n="lb">also called {%Mahāsāmant-ādhipati, Antaḥpura-vĕrgaḍĕ (°ādhyakṣa),%}
 <div n="lb">{%Mahāpasāyita, Senāpati, Hĕri (Mahā) sandhivigrahika, Manĕ-%}
 <div n="lb">{%vĕrgaḍĕ, Kaḍitavĕrgaḍĕ, Senādhipati, Antaḥpur-ādhyakṣa, Hĕri-Lāḻa-%}
 <div n="lb">{%Kannaḍa-sandhivigrahin, Bhānasa-vĕrgaḍĕ, Accupanāyadadhiṣṭhāyaka,%}
@@ -19520,8 +19520,8 @@
 <div n="lb">{%ātmanepada.%}
 <LEND>
 
-<L>3600<pc>206<k1>mUnA<k2>mUº-nAº
-{%Mūº-nāº%}¦ (PJS), contraction of {%Mūla-nāyaka,%} ‘the principal
+<L>3600<pc>206<k1>mUnA<k2>mU°-nA°
+{%Mū°-nā°%}¦ (PJS), contraction of {%Mūla-nāyaka,%} ‘the principal
 <div n="lb">deity in a Jain temple’; often found in medieval Jain inscrip-
 <div n="lb">tions.
 <LEND>
@@ -20021,7 +20021,7 @@
 <LEND>
 
 <L>3695<pc>212<k1>nandAvilakku<k2>nandA-vilakku
-{%nandā-viḻakku%}¦ (SII 1, 2), also spelt as {%nondāº, nundāº;%} a
+{%nandā-viḻakku%}¦ (SII 1, 2), also spelt as {%nondā°, nundā°;%} a
 <div n="lb">perpetual lamp; same as {%nandā-dīpa, akhaṇḍa-dīpa.%}
 <LEND>
 
@@ -20060,7 +20060,7 @@
 <LEND>
 
 <L>3703<pc>212<k1>narasvAmin<k2>narasvAmin
-{%Narasvāmin,%}¦ probably ‘a {%Jāgīrdār%}’; cf. {%ºgrāme mahattama-%}
+{%Narasvāmin,%}¦ probably ‘a {%Jāgīrdār%}’; cf. {%°grāme mahattama-%}
 <div n="lb">{%narasvāminaḥ%} ({%Ep. Ind.,%} Vol. XXV, p. 51).
 <LEND>
 
@@ -21889,7 +21889,7 @@
 <LEND>
 
 <L>4037<pc>232<k1>paYcaparamezWipada<k2>paYcaparamezWi-pada
-{%pañcaparameṣṭhi-pada%}¦ (EI 2), also called {%ºpaṭṭa;%} a slab for
+{%pañcaparameṣṭhi-pada%}¦ (EI 2), also called {%°paṭṭa;%} a slab for
 <div n="lb">worship containing the {%oṅkāra.%}
 <LEND>
 
@@ -22524,7 +22524,7 @@
 <div n="lb">many such privileges, see Appendix I. Cf. certain privileges
 <div n="lb">in respect of a number of taxes and obligations enumerated in
 <div n="lb">Tamil records as follows: {%vaṭṭi-nāḻi%} (payment of one {%nāḻi%} per
-<div n="lb">{%vaṭṭi%}), {%pudā-nāḻi%} (or {%pidāº,%} cess on each door or tax for the main-
+<div n="lb">{%vaṭṭi%}), {%pudā-nāḻi%} (or {%pidā°,%} cess on each door or tax for the main-
 <div n="lb">tenance of sluices), {%maṇṟupādu%} (fine imposed by a court of law),
 <div n="lb">{%ūrāṭci%} (tax for running the village administration), {%taragu%} (tax
 <div n="lb">on brokers), {%kūlam%} (tax on grains), {%ī%}l13{%am-puṭi%} (tax on toddy-
@@ -23223,7 +23223,7 @@
 <LEND>
 
 <L>4290<pc>246<k1>pawwaSAla<k2>pawwa-SAla
-{%paṭṭa-śāla%}¦ (CITD), Sanskrit {%ºśālā;%} a reading hall; probably,
+{%paṭṭa-śāla%}¦ (CITD), Sanskrit {%°śālā;%} a reading hall; probably,
 <div n="lb">‘the main hall’; in Kannaḍa, ‘a silk-shop’.
 <div n="P">({%EI%} 3), name applied to the abode of certain Brāhmaṇas.
 <div n="P">({%LP%}), cf. Gujaratī {%Paḍaśāla;%} the first room in a house.
@@ -36224,7 +36224,7 @@
 <L>6768<pc>382<k1>vyApfta<k2>vyApfta
 {%Vyāpṛta%}¦ (IE 8-3; EI 6), cf. {%Vāpata%} (EI 9), a governor; a
 <div n="lb">superintendent; cf. also official designations like {%Hasty-aśva-%}
-<div n="lb">{%naubala-vyāpṛta%} or {%ºvyāpṛtaka,%} etc.
+<div n="lb">{%naubala-vyāpṛta%} or {%°vyāpṛtaka,%} etc.
 <LEND>
 
 <L>6769<pc>382<k1>vyAsa<k2>vyAsa
@@ -36884,7 +36884,7 @@
 <LEND>
 
 <L>6889<pc>390<k1>akUracullakavEnASiKawvAvAsa<k2>a-kUra-cullaka-vEnASi-Kawv-AvAsa
-{%a-kūra-cullaka-vaināśi-khaṭv-āvāsa%}¦ (or {%ºsaṃvāsa%}), cf. {%a-kūra-%}
+{%a-kūra-cullaka-vaināśi-khaṭv-āvāsa%}¦ (or {%°saṃvāsa%}), cf. {%a-kūra-%}
 <div n="lb">{%yollaka-venesi-khaṭṭ-āvāsa%} (EI 26); refers to the freedom of the
 <div n="lb">gift village from the obligation of supplying boiled or unboiled
 <div n="lb">rice, pots or fire-places for cooking, attendant or fuel, cot and
@@ -37116,7 +37116,7 @@
 <LEND>
 
 <L>6927<pc>393<k1>BUmicCidranAyena<k2>BUmi-cCidra-nAyena
-{%bhūmi-cchidra-nāyena%}¦ or {%ºcchidra-pidhāna-vyāyena,%} ‘in accor-
+{%bhūmi-cchidra-nāyena%}¦ or {%°cchidra-pidhāna-vyāyena,%} ‘in accor-
 <div n="lb">dance with the principle of cultivating the land for the first
 <div n="lb">time and enjoying it free of taxes as a result’. The word {%chidra%}
 <div n="lb">in the first means ‘cultivation’ and {%chidra-pidhāna%} in the second
@@ -37139,7 +37139,7 @@
 <L>6930<pc>393<k1>candrArkasTitikAlaM<k2>candr-Arka-sTiti-kAlaM yAvat
 {%candr-ārka-sthiti-kālaṃ yāvat,%}¦ ‘as long as the moon and sun
 <div n="lb">endure ({%Ep. Ind.,%} Vol. XXXV, p. 135, text lines 21-22); some-
-<div n="lb">times {%candr-ārka-ksitiº, candr-ārk-ārṇāva-kṣīti-sarit-parvataº,%} etc.
+<div n="lb">times {%candr-ārka-ksiti°, candr-ārk-ārṇāva-kṣīti-sarit-parvata°,%} etc.
 <LEND>
 
 <L>6931<pc>393<k1>caluHsImAvacCinna<k2>caluH-sIm-AvacCinna
@@ -37384,8 +37384,8 @@
 <div n="lb">{%opabhogya,%} etc. Cf. {%Ind. Ep.,%} p. 399.
 <LEND>
 
-<L>6964<pc>397<k1>putrapOtrAdyanvayopaBogA<k2>putra-pOtr-Ady-anvay-opaBogA, ºAnugaminI
-{%putra-pautr-ādy-anvay-opabhogā, ºānugaminī,%}¦ etc.; same as
+<L>6964<pc>397<k1>putrapOtrAdyanvayopaBogA<k2>putra-pOtr-Ady-anvay-opaBogA, °AnugaminI
+{%putra-pautr-ādy-anvay-opabhogā, °ānugaminī,%}¦ etc.; same as
 <div n="lb">{%putra-pautr-ānugamaka.%} Cf. {%Ind. Ep.,%} pp. 394-95.
 <LEND>
 
@@ -41376,7 +41376,7 @@
 
 <L>7753<pc>436<k1>pEsA<k2>pEsA
 {%paisā,%}¦ (1/64) or (1/100) of a {%rupee;%} same as {%pāvīsā%} = Sanskrit
-<div n="lb">{%pāda-viṃśaka%} ({%ºviṃśatika%} or {%ºviṃśopaka%}).
+<div n="lb">{%pāda-viṃśaka%} ({%°viṃśatika%} or {%°viṃśopaka%}).
 <LEND>
 
 <L>7754<pc>436<k1>pala<k2>pala
@@ -41474,7 +41474,7 @@
 
 <L>7773<pc>437<k1>pAvIsA<k2>pAvIsA
 {%pāvīsā,%}¦ (1/20) of a {%lohaḍiyā;%} same as Sanskrit {%pāda-viṃśaka%}
-<div n="lb">({%ºviṃśatika%} or {%ºviṃśopaka%}) and modern {%paisā%} (q. v.).
+<div n="lb">({%°viṃśatika%} or {%°viṃśopaka%}) and modern {%paisā%} (q. v.).
 <LEND>
 
 <L>7774<pc>437<k1>PadiyA<k2>PadiyA
