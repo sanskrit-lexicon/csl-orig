@@ -9052,7 +9052,7 @@
 <L>1594<pc>056-a<k1>fkza<k2>fkza
 {#fkza#}¦ {%m.%} (fortasse a r. {#fkz#} s. {#a,#} vel a r. {#fz#} ire s. {#sa,#} mu-
 <div n="lb">tato {#z#} in {#k#}) ursus ({#fkza#} ex {#arkza,#} v. {#f#} et cf. gr.
-<div n="lb"><lang n="greek"></lang> hib. {%art,%} lat. {%ursus,%} ejecto {#k;#} lith. {%lokys%} per me-
+<div n="lb"><lang n="greek">ἄρκτος</lang> hib. {%art,%} lat. {%ursus,%} ejecto {#k;#} lith. {%lokys%} per me-
 <div n="lb">tathesin ex {%olkys,%} mutato {%r%} in {%l.%}
 <LEND>
 
