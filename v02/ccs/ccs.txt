@@ -97162,9 +97162,9 @@ gewahren, beobachten, prüfen.
 
 <L>20995<pc>377-1<k1>loka<k2>loka/<h>1
 1. {#loka/#}¦ {%m.%} Platz, Raum, Strecke, Weltraum, <lbinfo n="5"/>
-Welt {%(meist 2, 3, 0. 7 angen.)%},
+Welt {%(meist 2, 3, o. 7 angen.)%},
 Erde; Weltlichkeit, das gemeine Leben
-{%(oft opp. Wossenschaft)%}; die Leute, die
+{%(oft opp. Wissenschaft)%}; die Leute, die
 Menschen {%(Sgl. u. Pl.)%}; eine Versammlung <lbinfo n="4"/>
 von {#(—°)#}.
 <LEND>
