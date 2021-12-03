@@ -5,10 +5,10 @@
  <teiHeader xml:lang="en-Latn">
   <fileDesc>
    <titleStmt>
-    <title type="main">Sørensen's Index to the Names in the <foreign xml:lang="sa-Latn-x-SLP1">{m}ahABArata</foreign></title>
+    <title type="main">Sörensen's Index to the Names in the <foreign xml:lang="sa-Latn-x-SLP1">{m}ahABArata</foreign></title>
     <title type="desc">XML edition</title>
-    <title type="key">Sørensen</title>
-    <title type="short"><name>Sørensen, Søren</name>. <title rend="italic">Index to the Names in the Mahabharata</title>. <date>1904-1925</date>.</title>
+    <title type="key">Sörensen</title>
+    <title type="short"><name>Sörensen, Sören</name>. <title rend="italic">Index to the Names in the Mahabharata</title>. <date>1904-1925</date>.</title>
     <editor>Jim Funderburk</editor>
     <editor>Thomas Malten</editor>
     <editor>Peter M. Scharf</editor>
@@ -46,7 +46,7 @@
    <sourceDesc>
     <biblStruct type="original" xml:id="INM1">
      <monogr>
-      <author>Sørensen, Søren</author>
+      <author>Sörensen, Sören</author>
       <title type="main" level="m">Index to the Names in the Mahabharata</title>
       <title type="subordinate" level="m">with short explanations and a concordance to the Bombay and Calcutta editions and P. C. Roy's translation</title>
       <editor>Elof Olesen</editor>
@@ -62,11 +62,11 @@
        <measure unit="pages" quantity="849">xli, 807, [1] p.</measure>
       </extent>
      </monogr>
-     <note>Issued in parts. When Dr. Sørensen died, pages 1-32 had been put into type and the manuscript of the preface, the concordance and pages 33-153 had been put into final shape. The revision and final preparation of the manuscript was committed to Elof Olesen under the superintendence of Dines Andersen. Cf. Postscriptum.</note>
+     <note>Issued in parts. When Dr. Sörensen died, pages 1-32 had been put into type and the manuscript of the preface, the concordance and pages 33-153 had been put into final shape. The revision and final preparation of the manuscript was committed to Elof Olesen under the superintendence of Dines Andersen. Cf. Postscriptum.</note>
     </biblStruct>
     <biblStruct xml:id="INM2">
      <monogr>
-      <author>Sørensen, Søren</author>
+      <author>Sörensen, Sören</author>
       <title type="main" level="m">Index to the Names in the Mahabharata</title>
       <title type="subordinate" level="m">with short explanations and a concordance to the Bombay and Calcutta editions and P. C. Roy's translation</title>
       <editor>Elof Olesen</editor>
