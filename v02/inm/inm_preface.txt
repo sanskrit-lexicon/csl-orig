@@ -1,0 +1,226 @@
+%***This_File_is_I:\SANSKRIT\INM\INM.TXT
+;
+; TITLE
+;
+[Page01+ 16]
+<H>{#BAratIyADiSAsanasaMrakzakatAyAM prakASitam#}
+<>{%Published under the auspices of Government of India%}
+<>AN
+<>INDEX TO THE NAMES
+<>IN THE
+<>MAHĀBHĀRATA
+<>WITH SHORT EXPLANATIONS
+<>AND
+<>A CONCORDANCE
+<>TO THE
+<>BOMBAY AND CALCUTTA EDITIONS AND P.C. ROY'S
+<>TRANSLATION.
+<>BY THE LATE
+<>S. SÖRENSEN, PH.D.
+<>MOTILAL BANARSIDASS
+<>DELHI :: VARANASI :: PATNA
+[Page02+ 17]
+<>@ MOTILAL BANARSIDASS
+<>BUNGALOW ROAD, JAWAHARNAGAR, DELHI-6
+<>NEPALI KHAPRA, VARANASI
+<>BANKIPORE, PATNA
+<>{%By arrangement with%}
+<>M/S ERNEST BENN LIMITED, LONDON
+<>First published in 1904
+<>and reprinted by
+<>{@Motilal Banarsidass@}
+<>1963
+<>{#granTo'yaM BAratIyADiSAsanaviniyojitAvaSyakAlaByasaMskftagranTapunarmudraRayojanAyAM prakASitaH#}
+<>{%This book has been published under the Scheme of reprinting of important out-of-print%}
+<>{%Sanskrit books sponsored by the Government of India.%}
+<>{@Price Rs. 73.20@}
+<P>Published by Sundarlal Jain, Motilal Banarsidass, Bungalow Road, Jawahar Nagar,
+<>Delhi-6 and printed by Shantilal Jain, Shri Jainendra Press,
+<>Bungalow Road, Jawahar Nagar, Delhi-6.
+;
+; FOREWARD
+;
+[Page-I+ 27]
+<H>FOREWORD
+<P>The Index to the Proper Names in the {%Mahābhārata%}
+<>by Sörensen has long been out-of-print. Its want was
+<>being felt by scholars interested in Indological studies
+<>all over the world. In order that the book may be made
+<>available in the market at a reasonable price, the
+<>Ministry of Education have sponsored the reprinting of
+<>the work by offset process under their scheme of re-
+<>printing of important out-of-print Sanskrit works. I hope,
+<>the reprint will go a long way towards facilitating
+<>Indological studies, specially studies in the {%Mahābhārata.%}
+<P>At the time when this indexing was attempted
+<>by Sörensen, no critical edition of the {%Mahābhārata%} was
+<>available. Now that the entire {%Mahābhārata%} has already
+<>been critically edited by the Bhandarkar Oriental Research
+<>Institute, it would be quite in the fitness of things if
+<>someone undertakes the revision of the material presented
+<>by the learned author in the present work in the light
+<>of the material found in the critical edition. That
+<>would perhaps be the best way of our honouring
+<>Sörensen and his aspirations. I am quite sure, this
+<>reprint will inspire such an undertaking in our country.
+<P>I am deeply appreciative of the efforts of M/S
+<>Motilal Banarsidass in bringing out this reprint expeditiously.
+<>{%Ministry of Education%}
+<>New Delhi.
+<HS>R. P. NAIK
+[Page-II+ 1]
+<>Inventar M-487
+;
+; PREFACE
+;
+[Page-III+ 37]
+<H>{@PREFACE.@}
+<NI>THE present work consists of two portions—the Index proper and the Concordance. The
+<>Index deals mainly with the proper names occurring in the Mahābhārata. The student
+<>should therefore first look for information under such headings as are {%names,%} and not under
+<>narrative headings such as {@Indravijaya@} and the like.
+<P>The paragraph references found under the names in the Index are given sometimes alone
+<>[e.g. § 547], and sometimes with the addition of small italic letters [e.g. § 201{%b%}]. If there
+<>is no such addition, the paragraphs (viz. abstracts or paraphrases of the text) are themselves
+<>sections of the narrative, and given under the name in question, because the bearer of the
+<>name is the principal actor. Such paragraph references, without small italic letters, are often
+<>followed by a parenthesis. Thus, under the heading {@Agni,@} we find the quotation “§§ 254—260
+<>(Khāṇḍavadah.).” Here the references are {%suggestive%} of a narrative which will be found in
+<>full under the heading given within parenthesis, viz. Khāṇḍavadahanaparvan, and the name
+<>in question, in this case Agni, is the name of one among several principal actors, so that it
+<>would seem arbitrary to refer the narrative to him alone.
+<P>A small italic letter after a paragraph reference and followed by a word within parenthesis
+<>is used when the name to which it is added does not connote the principal actor or the chief item
+<>of the narrative, but is only incidentally mentioned, though the reference is of interest for, and
+<>solely, or at least chiefly, concerned with it. If further information is wanted it will have to
+<>be looked for under the heading given within parenthesis, where the name in question is
+<>mentioned, the small italic letter being added within parenthesis as a kind of cross-reference.
+<P>Under {@Māhiṣmatī@} we thus find the quotation “§ 282{%b%} (Sahadeva)” followed by a remark
+<>concerning Māhiṣmatī. Further particulars must then be looked for under {@Sahadeva,@} where
+<>we read, “§ 282: From Kiṣkindhā Shd. marched towards Māhiṣmatī {%(b)%}…”
+<P>A small Greek letter indicates that the reference is chiefly of interest on account of the
+<>connection in which it occurs, and that further information will be found under the heading
+<>referred to within parenthesis, where the same Greek letter has likewise been added, within
+<>parenthesis, as a cross-reference.
+<P>Take, for instance, the reference given under {@Duḥśāsana,@} “§ 83 (Ādivaṃśāv.) <lang n="greek"></lang>: I, {@63,@}
+<>2447” (or, I, {@63<lang n="greek"></lang>,@} 2447). Similarly, we find under {@Duḥsaha,@} “§ 83 (Ādivaṃśāv.) <lang n="greek"></lang>: I, {@63,@}
+<>2448.” These references show that Duḥśāsana and Duḥsaha are mentioned under the heading
+<>{@Ādivaṃśāvatāraṇa,@} and that no immediate interest attaches to their being referred to in that
+<>place. The statement made under {@Ādivaṃśāvatāraṇa@} runs, “§ 83: the 101 sons of
+<>Dhṛtarāṣṭra…of whom 11 (<lang n="greek"></lang>)…are enumerated as mahārathas.” Here the
+<lang n="greek"></lang> indicates that I have not thought it worth while to enumerate those 11 names (they must
+<>accordingly be looked for in the Sanskrit texts), but the passage in question has been referred to
+<>under the headings of each of them.
+[Page-IV+ 42]
+<P>To return to the quotation under {@Duḥśāsana,@} “83 (Ādivaṃśāv.) <lang n="greek"></lang>: I, {@63,@} 2447.”
+<P>The figures {@63,@} 2447 refer to a passage where Duḥśāsana is actually mentioned.
+<P>The small <lang n="greek"></lang> shows that the mention of his name presumably is of little or no general
+<>importance, and may be practically neglected from a mythological or legendary point of view.
+<P>If the reader nevertheless wishes to know the purport of the reference, the word given
+<>within parenthesis shows that information will be found under {@Ādivaṃśāvatāraṇa,@} and {%one%}
+<>inspection under that heading will show that Duḥśāsana is there only mentioned, among eleven
+<>of Dhṛtarāṣṭra's sons, as a mahāratha.
+<P>The heading {@Ādivaṃśāvatāraṇa,@} with or without {%one%} additional inspection of the
+<>Concordance under § 83, will at once show the reader who in his memory has a general idea of
+<>the contents of the Mahābhārata that the quotation has been taken from a kind of preface or
+<>introduction to the principal narrative of the Epos, which is placed after the sections where, not
+<>Vaiśampāyana, but Sauti is the speaker. According to his critical disposition he will, or will not,
+<>draw conclusions from this fact.
+<P>Mere comparisons have been marked by the addition of {%(iva)%} or the like.
+<P>The signs *, **, †, (†), ††, and (††) have a critical value. I have not, of course, allowed
+<>the book to be influenced by critical theories. I have only intended to draw attention to such
+<>facts as seem to be of critical importance. According to his disposition, the reader may or may
+<>not draw conclusions from those signs. The danger is that they may sometimes have been
+<>omitted through inadvertence.
+<P>The numbers of verses, in ordinary type, refer to the Calcutta edition; the numbers of
+<>chapters, in {@clarendon type,@} to the Bombay text. By using the Concordance it will be possible,
+<>with very little uncertainty, to calculate what verse in the Bombay edition corresponds to
+<>a given one in the Calcutta Mahābhārata.
+<P>The books are quoted in Roman numbers.
+<P>The enumeration of verses is, except where the heading is marked by an asterisk, intended
+<>to be complete, and I hope that it is so, at least with regard to all instances where there cannot
+<>be any doubt that the heading occurs as a {%name.%} In such cases, on the other hand, where it
+<>may have been a matter of subjective feeling during the reading whether a word should be
+<>considered as a proper name or as a mere laudatory epithet, I fear that there may be some
+<>incompleteness and inconsistency. Thus some synonyms of Agni and Arjuna, which will be
+<>found in Mr. Holtzmann's lists, have not been registered
+<P>There are also some other inconsistencies, sometimes voluntary, for the sake of convenience,
+<>sometimes involuntary, due to the fact that my work has extended over a very great span of
+<>time. These latter ones are faults for which I must ask indulgence, but I hope that they will
+<>not cause any serious misunderstanding or inconvenience. I do not now venture to correct
+<>them, lest the numerous cross-references should be imperilled.
+<P>The numerous synonyms, such as {%Kirīṭin%} for {%Arjuna,%} have, as a rule, been put together
+<>under the principal name; eg. {%Kirīṭin,%} etc., under {%Arjuna.%} Such denominations as {%Kaurava,%}
+<>{%Kuruśreṣṭha,%} etc., have, however, been given separately in their proper places, the principal
+<>aim to be held in view with regard to them clearly being to be able to know easily what
+<>person is meant in each instance.
+[Page-V+ 42]
+<P>In the case of such synonyms, and of articles the contents of which are unimportant, I have
+<>only quoted book and verse. In other cases I have usually also added reference to paragraph
+<>and chapter. Take, for instance, under the heading {@Arjuna,@} the quotation § 613 (Gadāyuddh.),
+<>IX, {@32—33: 33,@} 1890, 1921. Here the explanatory addition (Gadāyuddh.) refers the reader to
+<>the heading {@Gadāyuddhaparvan,@} where a summary of the narrative in question will be found
+<>under Book ix, chapters 32—33. The quotation {@33,@} 1890, 1921 indicates the places where the
+<>name Arjuna actually occurs.
+<P>In some cases the summary of the narrative has also, for the sake of convenience, been
+<>repeated, in a more or less abridged form, under the special heading; thus, in our present case,
+<>under Arjuna.
+<P>In these, probably not very numerous, cases the reference to the paragraph is only necessary
+<>in order to get an idea of the wider connection in which the quotation occurs. In other instances
+<>the exposition must almost entirely be looked for in the paragraph quoted. Thus in the case of
+<>the quotation §§ 254—260 (Khāṇḍavadah.), I, {@222—234,@} under the heading {@Arjuna.@} Here the
+<>narrative will be found in §§ 254—260 under the heading Khāṇḍavadahanaparvan. By referring
+<>to the Concordance, under the same paragraphs, the place which the narrative occupies in the
+<>epic as a whole will immediately be seen.
+<P>By arranging in numerical order, i.e. in the order of the Concordance, the paragraphs as
+<>given in the Index, we should obtain a synopsis of the contents of the whole epic, in the
+<>order of the original. Essentially the same result may be obtained from the article {@Arjuna,@}
+<>where I have introduced more repetitions (i.e. statements which are also found under other
+<>headings) than in any other article.
+<P>With regard to repetitions, I have thought it more important to enable the reader to use
+<>the Index conveniently and without unnecessary waste of time, than to save space. I have not,
+<>therefore, strictly avoided them in the principal articles, though I have done so in most cases
+<>by referring to paragraph articles and to the headings under which the quotations concerned
+<>are first given.
+<P>The text on which the Index is based is, on the whole, the Calcutta edition. Readings
+<>from other sources (i.e. almost exclusively the Bombay edition) have only been noticed for
+<>special reasons.
+<P>In transliterating the Sanskrit words, it will be noticed that I have followed the order of
+<>the Latin alphabet, without paying any attention to diacritical marks. I have adopted the usual
+<>system of transliteration, with some modifications. Thus the palatal mute is given as {%c, ch%} being
+<>reserved for the corresponding aspirate; {%j%} is the palatal media, and {%y%} the corresponding semi-
+<>vowel. The palatal and cerebral {%s%}-sounds have been transliterated {%ś%} and {%ṣ%} respectively.
+<P>The only exception from the strict adherence to the arrangement in accordance with the
+<>Latin alphabet is that the letters {%ś%} and {%ṛ%} have been treated as separate letters and placed after
+<>{%c%} and {%r%} respectively. This has been done because these sounds are often transliterated as {%ś%} and {%ṛi%}
+<>respectively.
+<P>IN THE CONCORDANCE it will be noticed that the mutual relationship between the two
+<>divisions in paragraphs and chapters has been indicated in various ways. My principal aim has
+<>here been to save space and trouble.
+[Page-VI+ 25]
+<P>{%Where the paragraphs are separated from the synopsis of chapters and verses, the headings to%}
+<>{%which they belong in the Index have simply been printed after the other indications relating to them.%}
+<>{%E.g.,%} § 19 ({%giving the contents of Mhbhr.%} I, {@5,@} 1—11) {%will be found under the heading%} ‘BHṚGU.’
+<>{%Where the paragraphs are not so separated, it should be generally understood that the title of the minor%}
+<>{%parvan to which a paragraph belongs is also the heading under which it will be found in the Index.%}
+<>{%E.g.,%} § 249 ({%Mhbhr.%} I, {@215@}) {%under the heading%} ‘ARJUNAVANAVĀSAPARVAN.’ {%If this is not the case,%}
+<>{%the paragraphs are to be found in the Index under the titles of those chapters of the parvan in question%}
+<>{%which have been printed with spaced type. E.g.,%} § 177 ({%Mhbhr.%} I, {@113@}) {%under the heading%}
+<>‘PĀṆḌUDIGVIJAYA,’ § 161 ({%Mhbhr.%} I, {@96@}) {%under the heading%} ‘MAHĀBHISHOPĀKHYĀNA,’ {%and not under%}
+<>‘SAMBHAVAPARVAN.’
+<P>My sincere thanks are due to those who have helped me with their advice or have in other
+<>ways shown their interest in my work. In this connection I beg to mention Professor V. Fausböll,
+<>Professor K. F. Geldner, Professor Ch. R. Lanman, Dr. Sten Konow, and Dr. G. A. Grierson.
+<>The valuable suggestions made by Professor Lanman have, in many respects, left material
+<>traces in the arrangement of the Index, and certainly rendered it much more convenient and
+<>useful to the student than would otherwise have been the case. My young friend Mr. Elof
+<>Olesen deserves my warmest thanks for the care and sagacity with which he has assisted
+<>me in the revision of the manuscript.
+<P>Finally, I tender my respectful thanks for the pecuniary assistance which has rendered the
+<>compilation of this work possible, viz., the very liberal support which I have received from
+<>the Carlsberg Fond at Copenhagen, and from the Danish Government and the Danish
+<>Parliament.
+<HS>S. SÖRENSEN.
+<>COPENHAGEN.
+<>{%February,%} 1902.
+;

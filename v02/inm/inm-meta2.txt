@@ -1,21 +1,27 @@
 inm-meta2.txt
 Feb 10, 2018
+Dec  3, 2021
 
 This supercedes inm-meta.txt as a description of 
  the current digitization inm.txt.
 
 The digitization is in the utf-8 encoding.
 
-inm.txt contains digitization of the preface, the concordance,
-the body of entries (the index), and corrections.
+(Dec 3, 2021)
+The digitization inm.txt at commit 6af7b3c54d was separated into 6 parts:
+inm_preface.txt
+inm_abbr.txt  abbreviations
+inm_concord.txt concordance
+inm.txt index (the entries)
+inm_ac.txt additions and corrections
+
 The following descriptions generally apply to the entries only, not
-to the other sections.
+to the other sections, though some of the markup appears in other sections.
 
 The {X...X} style of coding serves several purposes:
 {@X@}  : bold text
 {%X%}  : italic text 
 {#X#}  : Devanagari text in slp1 transcoding. (twice in title section)
-{??}   : Unreadable text. about 100 instances.
 
 The pseudo-xml <> style of coding is used as follows:
 

@@ -1,0 +1,128 @@
+; ABBREVIATIONS
+;
+[PageVII-a+ 42]
+<H>LIST OF ABBREVIATIONS.
+<HI>{@A.@} = Aśvin.
+<HI>{@Ā.@} = Āditya.
+<HI>{@adj.@} = adjective.
+<HI>{@all.@} = allusion.
+<HI>{@Aps.@} = Apsaras.
+<HI>{@Arj.@} = Arjuna.
+<HI>{@As.@} = Asura.
+<HI>{@B.@} = Bombay edition.
+<HI>{@Bh.@} = Bhūta.
+<HI>{@Bhīmas.@} = Bhīmasena.
+<HI>{@B.-ṛ@} = Brahmarṣi.
+<HI>{@Bṛh.@} = Bṛhaspati.
+<HI>{@C.@} = Calcutta edition.
+<HI>{@Cā.@} = Cāraṇa.
+<HI>{@Śak.@} = Śakuni.
+<HI>{@cf.@} = compare.
+<HI>{@D.@} = Deva.
+<HI>{@Dā.@} = Dānava.
+<HI>{@Dai.@} = Daitya.
+<HI>{@Dhanurv.@} = Dhanurveda.
+<HI>{@Dhārt.@} = Dhārtarāṣṭra.
+<HI>{@Dhṛṣṭady.@} = Dhṛṣṭadyumna.
+<HI>{@Dhṛt.@} = Dhṛtarāṣṭra.
+<HI>{@do.@} = ditto.
+<HI>{@D.-ṛ.@} = Devarṣi.
+<HI>{@G.@} = Gandharva.
+<HI>{@Gh.@} = Guhyaka.
+<HI>{@Hanūm.@} = Hanūmat.
+<HI>{@I.@} = Indra.
+<HI>{@Janam.@} = Janamejaya.
+<HI>{@Jayadr.@} = Jayadratha.
+<HI>{@K.@} = Kinnara.
+<HI>{@Kp.@} = Kimpurusha.
+<HI>{@Kṛ.@} = Kṛṣṇa.
+<HI>{@Kub.@} = Kubera.
+<HI>{@LIA.@} = Lassen's Indische Alter-
+<>tumskunde.
+<HI>{@Lp.@} = Lokapāla.
+<HI>{@M.@} = Marut.
+<HI>{@Mhbhr.@} = Mahābhārata.
+<HI>{@M°Pu°st.@} = Mahāpuruṣastave.
+[PageVII-b+ 41]
+<HI>{@M.-ṛ.@} = Maharshi.
+<HI>{@MSNSt.@} = Mahādevasahasranāma-
+<>stotra.
+<HI>{@Mu.@} = Muni.
+<HI>{@M.-U.@} = Mahoraga.
+<HI>{@N.@} = Nāga.
+<HI>{@Nak.@} = Nakula.
+<HI>{@Nīl.@} = Nīlakaṇṭha.
+<HI>{@P.@} = Pitṛ.
+<HI>{@Pāṇḍ.@} = Pāṇḍava.
+<HI>{@Pa°vra°mā°@} = Pativratāmāhātmya.
+<>parvan.
+<HI>{@Pś.@} = Piśāca.
+<HI>{@PCR.@} = Protap Chandra Roy's
+<>translation.
+<HI>{@pl., plur.@} = plural.
+<HI>{@Pn.@} = Pannaga.
+<HI>{@q.v.@} = quod vide.
+<HI>{@R.@} = Rudra.
+<HI>{@Ṛ.@} = Ṛṣi.
+<HI>{@Rā.@} = Rākṣasa.
+<HI>{@S.@} = Sādhya.
+<HI>{@Sapt.@} = Saptarṣayaḥ.
+<HI>{@sg.@} = singular.
+<HI>{@Shd.@} = Sahadeva.
+<HI>{@Si.@} = Siddha.
+<HI>{@Sp.@} = Serpent.
+<HI>{@Sū.@} = Sūrya.
+<HI>{@Sū. Si.@} = the Sūrya Siddhānta
+<>(Journal of the American
+<>Oriental Society, vol. vi,
+<>1860).
+<HI>{@U.@} = Uraga.
+<HI>{@V.@} = Burdwan edition.
+<HI>{@V.@} = Vasu.
+<HI>{@Vaiś.@} = Vaiśampāyana.
+<HI>{@Vaiv.@} = Vaivasvata.
+<HI>{@Var.@} = Varuṇa.
+<HI>{@V.-D.@} = Viśve devāḥ.
+<HI>{@VDSNK.@} = Viṣṇor divyasahasra-
+<>nāmakathana.
+[PageVII-c+ 38]
+<HI>{@Ved.@} = Veda.
+<HI>{@Vi.@} = Viśva.
+<HI>{@VP.@} = the Viṣṇu Purāṇa, trans-
+<>lated by H. H. Wilson, edited
+<>by FitzEdward Hall, London,
+<>1864—77.
+<HI>{@v.s.@} = vide supra.
+<HI>{@Y.@} = Yakṣa.
+<HI>{@Yudh.@} = Yudhiṣṭhira.
+<HI>° abbreviation of a word.
+<HI>[] (1) headings not occurring as
+<>names in the text; (2) passages
+<>of the text in which a synonym
+<>is substituted for the name
+<>in question; (3) explanatory
+<>additions.
+<HI>() headings occurring in the prose
+<>remark before the verse quoted.
+<HI>* (1) a blessing on the reader; (2)
+<>headings which are not, or
+<>possibly are not, proper names.
+<HI>** repeated.
+<HI>† in triṣṭubh (or jagatī).
+<HI>(†) in triṣṭubh (or jagatī) mixed
+<>with ślokas.
+<HI>†† prose passage.
+<HI>(††) mixed prose and ślokas.
+<HI>> succession.
+<HI>~ married to.
+<HI>& fights against.
+<HI>+ assisted by.
+<HI>Capitals in italics denote the heading
+<>of the article in which they occur.
+<HI>Numbers of verses (in ordinary type)
+<>refer to the Calcutta edition.
+<HI>Numbers of chapters ({@in clarendon@}
+<>{@type@}) refer to the Bombay
+<>edition, Śaka 1799.
+[PageVII+ No]
+blank
