@@ -13,7 +13,7 @@ The {X...X} style of coding serves several purposes:
 
 The following  <> type tags are found in acc.txt:
 <HI>  53695  : Marks headwords
-<>  30653  : start of new line
+<>  30653  : start of new line. Removed 12-15-2021.
 <P>  166  :  start of new line
 <HI1>  26991  : start of new line
 <H>  52  : Title line
