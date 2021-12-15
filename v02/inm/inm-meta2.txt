@@ -32,12 +32,14 @@ The pseudo-xml <> style of coding is used as follows:
 Often line breaks have semantic significance, such as indicating the
    row of a table. Three types of line break divisions are indicated, although
    the distinction among these types is not currently understood.
-<div n="lb">  Line break
+   The following pertain to the Index (inm.txt). The other sections
+   have not been analyzed.
+implicit (not marked)  common line break
 <div n="P">   Line break with indentation
 <div n="HI">  Line break - Possible list of headwords; 22 instances.
 <C n="N">  (N=1,2,3,4,5,6).  Indicates columns in a tabular display. 200 instances.
-<lang n="greek"></lang>  Uncoded Greek text
-
+<lang n="greek">X</lang>  Greek text
+<is>X</is>  Widely spaced text.
 Meta lines: 
 Each entry of the digitization is contained within a beginning and ending
 markup. As example,

@@ -6,11 +6,11 @@
 <HI>BR. = Böhtlingh & Roth's Sanskrit Wörterbuch.
 <HI>R.-ṛ. = Rājarṣi.
 [Page790-b+ 2]
-<>* add under (2): or of which a complete list of quotations
-<>has not been recorded.
+* add under (2): or of which a complete list of quotations
+has not been recorded.
 [Page790-a1+ 40]
 <H>CONCORDANCE.
-<>(The corrected words or numbers and the additions are given in Italics.)
+(The corrected words or numbers and the additions are given in Italics.)
 <HI>§ 24. I, {@9@}…{%Sahasrapad.%}
 <HI>§ {@69,@} I, {@58@}…Sarpasattra {%(v. Āstīkaparvan).%}
 <HI>(I), 59, 1—{@60,@} 24 (2198—2230).
@@ -26,18 +26,18 @@
 <HI>§ 257, I, 225…{%(d) Sudarśana, (e) Kaumodakī.%}
 <HI>§ 361, III, {@83,@} 1—8 (5071—5078).
 <HI>§ 383…{%(b) Gaṅgā, (c) Bhṛgos tīrthaṃ.%}
-<HI>§ 392, III, {@114@}…Mahendrācalagamana {%(v. Tīrtha-%}
-<>{%yātrāparvan).%}
-<HI>§ 393, III, {@115@}…Paraśurāma {%(v. Tīrthayātrāparvan).%}
-<HI>§ 403, III, {@121,@} 1—15…{%dele: (c)%} Gaya.
-<HI>§ 407, III, {@126,@} 1—47…Māndhātrupākhyāna.
+<HI>§ 392, III, {@114@} … <is>Mahendrācalagamana</is> ({%v. Tīrtha-%}
+{%yātrāparvan%}).
+<HI>§ 393, III, {@115@}…Paraśurāma ({%v. Tīrthayātrāparvan%}).
+<HI>§ 403, III, {@121,@} 1—15 … {%dele: (c)%} Gaya.
+<HI>§ 407, III, {@126,@} 1—47 … <is>Māndhātrupākhyāna</is>.
 <HI>§ 418, III, {@139,@}…{%dele: (e)%} Kṛṣṇā.
 <HI>III, {@146@}…{%Bhīma-kadalī-khaṇḍa-praveśa.%}
 <HI>§ 424…{%Bhīma-kadalī-khaṇḍa-praveśa.%}
 <HI>§ 427…Tretā-yuga {%(v. Tretā).%}
 <HI>§ 428…Dvāpara-yuga {%(v. Dvāpara).%}
 <HI>§ 457, III, {@187,@} 1—58 (12746—12804).
-<>(<lang n="greek"></lang>) {%Skandayuddha:%} III, {@231.@}
+(<lang n="greek"></lang>) {%Skandayuddha:%} III, {@231.@}
 <HI>§ 519, III, {@259,@} 1—35 (15370—15403).
 <HI>§ 520, III, {@260,@} 1—36 (15404—15440).
 <HI>(III), {@282,@} 1—71…{%Hanūmat-pratyāgamana.%}
@@ -83,123 +83,123 @@
 <HI>(XIV), {@70,@} 1—21 (2033—2054).
 <HI>(XIV), {@71,@} 1—26 (2055—2082).
 <P>{%Note.%}—The numbers of chapters in the Concordance refer
-<>to the Bombay edition of Śāka, 1799. Those of the Bombay
-<>edition of Śāka, 1785, are the same with the following
-<>exceptions:—
-<><C n="1"/>Ed. 1799.
-<>XII, {@249—366.@}
+to the Bombay edition of Śāka, 1799. Those of the Bombay
+edition of Śāka, 1785, are the same with the following
+exceptions:—
+<C n="1"/>Ed. 1799.
+XII, {@249—366.@}
 <C n="2"/>Ed. 1785.
-<>XII, {@248,@} bis—{@365.@}
+XII, {@248,@} bis—{@365.@}
 [Page791-a+ 57]
 <H>INDEX TO THE NAMES.
 <H>A
 <HI>{@Abhibhū@}¦ {%(b),%} read: = Viṣṇu (Nārāyaṇa, Kṛṣṇa): III,
-<>12984 (B. {%Avibhū%}); XII, 1509 (B. {%Atibhū%}).
+12984 (B. {%Avibhū%}); XII, 1509 (B. {%Atibhū%}).
 <HI>{@Abhimanyu@}¦…killed by Jayadratha and his people, read:
-<>killed by Duḥśāsana's son.—§ 10: I, 400, read: I, 401.—
-<>§ 130{%g%} (Aṃśāv.), add: Soma let his son Varcas be incarnate
-<>as A° only on the condition that when he was 16 years
-<>old, he should be slain towards the close of the day in the
-<>middle of the cakravyūha, after having killed a fourth
-<>part of the enemies, Nara and Nārāyaṇa not being present,
-<>and that he should beget one heroic son to continue the
-<>Bharata race.—§ 253 (Haranāhar.), read: (Haraṇāhar.).—
-<>§ 570 (Sainyaniryānap.), read: (Sainyaniryāṇap.).—§ 587,
-<>add: VI, {@115<lang n="greek"></lang>,@} 5361 (only B., C. {%Yudhāmanyuḥ%}).—§ 608,
-<>add: VIII, {@68,@} 3395/6 (only B.).—Cf. also Arjunadāyāda,
-<>Arjunanandana, Bhārata, Capalākṣa, Capalekṣaṇa,
-<>Devavarātmajātmaja (v. Add.), Jayātmaja, Karṇikāra-
-<>dhvaja, Kurunandana, Kurupuṅgava, Phālgunātmaja,
-<>Pāṇḍavadāyāda, Pāṇḍaveya, Pāṇḍunandana, Sātvatīputra,
-<>Somasūnu, Vajrahastātmajātmaja, Vārṣṇeya.
+killed by Duḥśāsana's son.—§ 10: I, 400, read: I, 401.—
+§ 130{%g%} (Aṃśāv.), add: Soma let his son Varcas be incarnate
+as A° only on the condition that when he was 16 years
+old, he should be slain towards the close of the day in the
+middle of the cakravyūha, after having killed a fourth
+part of the enemies, Nara and Nārāyaṇa not being present,
+and that he should beget one heroic son to continue the
+Bharata race.—§ 253 (Haranāhar.), read: (Haraṇāhar.).—
+§ 570 (Sainyaniryānap.), read: (Sainyaniryāṇap.).—§ 587,
+add: VI, {@115<lang n="greek"></lang>,@} 5361 (only B., C. {%Yudhāmanyuḥ%}).—§ 608,
+add: VIII, {@68,@} 3395/6 (only B.).—Cf. also Arjunadāyāda,
+Arjunanandana, Bhārata, Capalākṣa, Capalekṣaṇa,
+Devavarātmajātmaja (v. Add.), Jayātmaja, Karṇikāra-
+dhvaja, Kurunandana, Kurupuṅgava, Phālgunātmaja,
+Pāṇḍavadāyāda, Pāṇḍaveya, Pāṇḍunandana, Sātvatīputra,
+Somasūnu, Vajrahastātmajātmaja, Vārṣṇeya.
 <HI>{@Abhimanyujananī:@}¦ VIII, 4448, read: 4488.
 <HI>{@Abhiprāya@}¦ = Viṣṇu (1000 names).
 <HI>{@Abhisāra,@}¦ sg. = Citrasena<sup>6</sup>: VIII, 527.
 <HI>{@Acala@}<sup>1</sup>,¦ add: Cf. Gāndhāra, dual, Gāndhāramukhya, dual.
 <HI>{@Ācārya@}<sup>1</sup>,¦ read: {@*Ācārya<sup>1</sup>,@} and dele VIII, 1044?—Do<sup>2</sup> =
-<>Kṛpa, add: VII, 7058; VIII, 329 {%(Gautamaḥ),%} 1044.
+Kṛpa, add: VII, 7058; VIII, 329 {%(Gautamaḥ),%} 1044.
 <HI>{@Acāryamukhya,@}¦ read: {@Ā°@} and add: VI, 660; VII, 3604,
-<>8800.
+8800.
 <HI>{@Ācāryapravara@}¦ (IV, 2056), {@Ācāryapuṅgava@} (VII, 3478),
-<>{@Ācāryasattama<sup>3</sup>@} (VII, 7612) = Droṇa.
+{@Ācāryasattama<sup>3</sup>@} (VII, 7612) = Droṇa.
 <HI>{@Acyuta@}¦ {%(a),%} add: (only selected passages): I, 8201 {%(Arjunā-%}
-<>{%cyutau);%} VII, 1252 {%(°Pārthayoḥ),%} 2895 {%(Arjunācyutau),%}
-<>6099 (do.); VIII, 1961 {%(°Ārjunau),%} 3309 (do.), 3317 (do.),
-<>†4066 (do.), †4504 {%(Dhanañjayācyutau),%} †4960 {%(°Ārjunau).%}
-<>{%—(b)%} add: also applied to Agastya, Anukampaka, Bhṛgu,
-<>Śuka, Dharma, Dhṛṣṭadyumna, Dhṛtarāṣṭra, Kṛta-
-<>varman, Manu, Nahuṣa, Pāṇḍu, Rāma Dāśarathi, Sātyaki.
+{%cyutau);%} VII, 1252 {%(°Pārthayoḥ),%} 2895 {%(Arjunācyutau),%}
+6099 (do.); VIII, 1961 {%(°Ārjunau),%} 3309 (do.), 3317 (do.),
+†4066 (do.), †4504 {%(Dhanañjayācyutau),%} †4960 {%(°Ārjunau).%}
+{%—(b)%} add: also applied to Agastya, Anukampaka, Bhṛgu,
+Śuka, Dharma, Dhṛṣṭadyumna, Dhṛtarāṣṭra, Kṛta-
+varman, Manu, Nahuṣa, Pāṇḍu, Rāma Dāśarathi, Sātyaki.
 <HI>{@Acyutatasthala,@}¦ name of a place (in the country of the
-<>Bāhīkas). § 409 (Plakṣāvataraṇag.): III, {@129,@} 10521.—
-<>§ 607 (Karṇap.): VIII, {@44<lang n="greek"></lang>,@} 2062.
+Bāhīkas). § 409 (Plakṣāvataraṇag.): III, {@129,@} 10521.—
+§ 607 (Karṇap.): VIII, {@44<lang n="greek"></lang>,@} 2062.
 <HI>{@Acyutāyus,@}¦ add: VI, {@51<lang n="greek"></lang>,@} 2108 (only B.)
 <HI>{@Āśā,@}¦ a goddess. § 270 (Brahmasabhāv.): II, {@11,@} 459 (in the
-<>palace of Brahmán).
+palace of Brahmán).
 <HI>{@Aśleṣā:@}¦ XIII, 4259, read: ({%Aśleṣāyāṃ,%} C.); 7163—6, read:
-<>6163—6.
+6163—6.
 <HI>{@Aśmakuṭṭa,@}¦ pl. {%(°āḥ),%} a kind of asceties: III, †12360;
-<>IX, 2166, 2183; XII, 521, 8895; XIII, 647, 6494, 6516;
-<>XIV, 2851.
+IX, 2166, 2183; XII, 521, 8895; XIII, 647, 6494, 6516;
+XIV, 2851.
 <HI>{@Aśoka@}<sup>3</sup>¦ = Viśoka<sup>1</sup>: VI, 2303.
 <HI>{@Aśrama,@}¦ read: Ā°. {@Aśramavāsa<sup>2</sup>,@} read: Ā°.
 <HI>{@Aśvapati@}<sup>2</sup>,¦ add: cf. Madrādhipa, Madrarāja.
 <HI>{@Aśvatīrtha,@}¦ add: III, {@95,@} 8512 (so B., C. by error {%ca tīrthe%}).
 <HI>{@Aśvattha@}<sup>1</sup>:¦ III, 156, read: 151.
 <HI>{@Aśvatthāman@}<sup>1</sup>:¦ § 203: {@132@} (“separates Bhīma and
-<>Duryodhana”—these words ought to be inserted after
-<>{@135,@} 5349).—Add: VI, {@55<lang n="greek"></lang>,@} 2364; VII, {@151,@} 6550.—
+Duryodhana”—these words ought to be inserted after
+{@135,@} 5349).—Add: VI, {@55<lang n="greek"></lang>,@} 2364; VII, {@151,@} 6550.—
 [Page791-b+ 57]
-<>VII, 7363, read: 7367.—Add: Cf. also Bhāradvājasuta,
-<>Śāradvatīputra, °suta, Droṇaja, Droṇanandana, Droṇasuta,
-<>Droṇatanaya, Droṇātmaja, Siṃhagrīva.
+VII, 7363, read: 7367.—Add: Cf. also Bhāradvājasuta,
+Śāradvatīputra, °suta, Droṇaja, Droṇanandana, Droṇasuta,
+Droṇatanaya, Droṇātmaja, Siṃhagrīva.
 <HI>{@Aśvavat,@}¦ a son of Kuru. § 154 (Pūruvaṃś.): I, {@94,@} 3740
-<>(only B., C. {%Avikṣitaṃ%}).
+(only B., C. {%Avikṣitaṃ%}).
 <HI>{@Aśvayuja,@}¦ read: Ā°.
 <HI>{@Aśvin,@}¦ add: III, 10345, 10378; V, {@48,@} †1816 (i.e. Nakula and
-<>Sahadeva); VII, {@23,@} 1035 (dele the words in the parenthesis),
-<>VII, {@87,@} 4418, read: VIII, {@87,@} 4418 (to be inserted after
-<>VIII, 3304); add: VII, {@201,@} 9594.
+Sahadeva); VII, {@23,@} 1035 (dele the words in the parenthesis),
+VII, {@87,@} 4418, read: VIII, {@87,@} 4418 (to be inserted after
+VIII, 3304); add: VII, {@201,@} 9594.
 <HI>{@Āśvina:@}¦ VII, 1740, read: 1040 (only C., B. has {%Aśvijaṃ%}).
 <HI>{@Adbhuta,@}¦ add: § 495 (Skandotpatti): III, {@223,@} 14242 ({%°sya%}
-<>{%adbhutaṃ putraṃ,%} i.e. Skanda). Cf. Mahādbhuta.
+{%adbhutaṃ putraṃ,%} i.e. Skanda). Cf. Mahādbhuta.
 <HI>{@Ādhayah@}¦ (pl.) = Śiva (1000 names<sup>1</sup>)
 <HI>{@Adhidaiva@}¦ (“the governing Deity”, read “the state of
-<>a presiding deity”): XII, 9175, add: = VII, 2061 (but
-<>here B. reads {%Ādideva,%} voc. = Brahmán).
+a presiding deity”): XII, 9175, add: = VII, 2061 (but
+here B. reads {%Ādideva,%} voc. = Brahmán).
 <HI>{@Adhirājādhipa@}¦ (“king of the Adhirājas”) = Dantavakra:
-<>II, 1107 (cf. Adhirājya(ṃ)).
+II, 1107 (cf. Adhirājya(ṃ)).
 <HI>{@Adhirājya(m)@}¦ and Adhirāja-Kuśādyaḥ, read Adhirājya-°.
 <HI>{@Adhiratha,@}¦ add: § 131{%b%} (Karṇa): I, {@67,@} 2775 (adopted
-<>Karṇa; C. by error {%Adhirathiḥ%}). Cf. Rādhābhartṛ, Sūta,
-<>Sūtanandana.
+Karṇa; C. by error {%Adhirathiḥ%}). Cf. Rādhābhartṛ, Sūta,
+Sūtanandana.
 <HI>{@Adhirathi,@}¦ read {@Ādhirathi;@} add: VII, †52, 5435, 5452; VIII
-<>2403, 3737, 3945, †4532.
+2403, 3737, 3945, †4532.
 <HI>{@Adhivājya-Kulādyaḥ,@}¦ reading of V. {%Adhirājaṃ%} correct to
-<>{%Adhirājyaṃ,%} and cf. Kuśādya, pl. (see additions below).
+{%Adhirājyaṃ,%} and cf. Kuśādya, pl. (see additions below).
 <HI>{@Adhokshaja@}<sup>1</sup>,¦ add: VIII, 1257.
 <HI>{@Adhṛṣyā,@}¦ a river. § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 332.
 <HI>{@Ādidaitya@}¦ = Hiraṇyakaśipu: III, 8758.
 <HI>{@Ādideva@}<sup>2—3</sup>¦ = Viṣṇu (Kṛṣṇa), add: III, 8402, 10934,
-<>13005; VI, 1216, 1284, †2611.—Do.<sup>4</sup> = Brahmán: VII,
-<>2061 (only B.).—Do.<sup>5</sup> = Śiva: VII, †9464.
+13005; VI, 1216, 1284, †2611.—Do.<sup>4</sup> = Brahmán: VII,
+2061 (only B.).—Do.<sup>5</sup> = Śiva: VII, †9464.
 <HI>{@Ādikartṛ@}¦ = Kṛṣṇa: VI, 1283.
 <HI>{@Adīkṣita@}¦ = Śiva (1000 names<sup>1</sup>).
 <HI>{@Aditi@}<sup>1</sup>,¦ add: § 156 (Pūruvaṃś.): I, {@95,@} ††3760 (mother of
-<>Vivasvat).—§ 773 (Ānuśāsanik.): XIII, {@159,@} †7387 (read
-<>{%devamātā 'ditiś ca%}). Cf. Devamātṛ, Diti, and dele Śiva.
+Vivasvat).—§ 773 (Ānuśāsanik.): XIII, {@159,@} †7387 (read
+{%devamātā 'ditiś ca%}). Cf. Devamātṛ, Diti, and dele Śiva.
 <HI>{@Āditya@}<sup>1</sup>¦ (pl.), § 308 (Āraṇyakap.), read § 310{%b%} (Sūrya).—
-<>Add: § 556 (Sañjayayānap.): V, {@29<lang n="greek"></lang>,@} †823 {%(Rudrādityāḥ).%}
-<>—§ 567 (Bhagavadyānap.): V, {@131,@} 4420.
+Add: § 556 (Sañjayayānap.): V, {@29<lang n="greek"></lang>,@} †823 {%(Rudrādityāḥ).%}
+—§ 567 (Bhagavadyānap.): V, {@131,@} 4420.
 <HI>{@*Āditya@}<sup>4</sup>,¦ add selected passages from books I-VIII: I,
-<>1266—67, 7677, 7682; II, 421, 424, 1395, 2648 {%(Rāhur%}
-<>{%agrasad °aṃ);%} III, 486 {%(°sadane),%} 11869, 11874; V, 1760
-<>{%(°o girate candraṃ, °aṃ girate paraḥ),%} 4757 {%(°vacanāt);%}
-<>VI, 210 (goes round Meru), 404, 488, 3707 {%(yugāntā°),%}
-<>5671 {%(dakṣiṇāvarte),%} 5672 {%(udagāyane);%} VII, 3974
-<>{%(yugāntā°),%} 8458 {%(°sya puraḥsaraḥ | Aruṇaḥ);%} VIII, 577
-<>(dual), 1506, etc.
+1266—67, 7677, 7682; II, 421, 424, 1395, 2648 {%(Rāhur%}
+{%agrasad °aṃ);%} III, 486 {%(°sadane),%} 11869, 11874; V, 1760
+{%(°o girate candraṃ, °aṃ girate paraḥ),%} 4757 {%(°vacanāt);%}
+VI, 210 (goes round Meru), 404, 488, 3707 {%(yugāntā°),%}
+5671 {%(dakṣiṇāvarte),%} 5672 {%(udagāyane);%} VII, 3974
+{%(yugāntā°),%} 8458 {%(°sya puraḥsaraḥ | Aruṇaḥ);%} VIII, 577
+(dual), 1506, etc.
 <HI>{@Āditya@}<sup>7</sup>,¦ add: V, 3551 {%(hayaśirāḥ);%} XII, 12945 {%(dvādaśā-%}
-<>{%dityaḥ).%}
+{%dityaḥ).%}
 <HI>{@Ādityakula,@}¦ the solar race of kings: V, {@115,@} 3920.
 <HI>{@Ādityaparvata, Adityapatha, Adityapratima,@}¦ read {@Ā°.@}
 <HI>{@Ādityatanaya@}<sup>2</sup>,¦ add: III, 8428.
@@ -211,43 +211,43 @@
 <HI>{@Adrija,@}¦ pl. {%(°āḥ)%} (“mountaineers”): VII, {@161<lang n="greek"></lang>,@} 7208.
 <HI>{@Ādya@}<sup>3</sup>,¦ delete this article.
 <HI>{@Aghamarṣaṇa,@}¦ add: Do. (neutr.), name of a sacred hymn:
-<>XII, 5664, 7776; XIII, 1742, 6236, 6242; cf. III, 15548.
+XII, 5664, 7776; XIII, 1742, 6236, 6242; cf. III, 15548.
 <HI>{@Aghaṇṭin,@}¦ read {@Aghaṇṭaghaṇṭin.@}
 <HI>{@*Āgneya@}<sup>1</sup>,¦ add: § 603 (Nārāyaṇāstramokṣap.): VII, {@202,@}
-<>9632 ({%urūbhyām ardham °aṃ,%} scil. Śiva's).—Do.<sup>2</sup>, add:
-<>I, 5107—8, 6464—66, 6915, 8472; III, 877, 14985, 14995;
-<>IV, 1876; VII, 402 (i.e. Kṛṣṇa's cakra), 1424, 3657, 3659.
+9632 ({%urūbhyām ardham °aṃ,%} scil. Śiva's).—Do.<sup>2</sup>, add:
+I, 5107—8, 6464—66, 6915, 8472; III, 877, 14985, 14995;
+IV, 1876; VII, 402 (i.e. Kṛṣṇa's cakra), 1424, 3657, 3659.
 <HI>{@*Agni,@}¦ I, {@4,@} 854 {%(°-caraṇam),%} read {%(°-śaraṇaṃ).%}—§ 20 (Puloma),
-<>read (Pulomā).—Add: I, {@130,@} 5108; {@223,@} 8151; {@224,@}
-<>8165; {@229,@} 8331, 8334.—II, {@7,@} 302 {%(Indrāgnī, Agnīṣomau);%}
-<>{@48,@} 1709.—III, {@132,@} †10605; {@147,@} 11195; {@222,@} 14215—17;
-<>{@232,@} 14519, 14522.—§ 526{%a,%} read: § 526 (Rāmopākhyānap.).
-<>—§ 552 (Gograhaṇap.), read: (Goharaṇap.).—Add: IV,
-<>{@37,@} 1211.—V, {@16,@} 483.—VI, {@98,@} 4453.—§ 594…dele
-<>VII (to be inserted before {@25,@} 1084).—Add: VII, {@35,@}
-<>1536; {@66,@} 2335; {@101,@} 3786; {@194,@} 8972; {@201,@} 9421;
-<>†9457 ({%Vāgagnī,%} add: B. {%Vāyvagnī%}); {@202,@} 9568, 9594,
-<>9632-3.—VIII, {@31,@} 1250, 1305 ({%Agnidattaḥ,%} scil. the chariot
-<>of Arjuna); {@34,@} 1510, 1535, 1555; {@37,@} 1742; {@46,@} 2160;
-<>{@60,@} 2983; {@96,@} †5042.—§ 615: dele brought (to be inserted
-<>after 1985 {%(°īn).%}—Add: XII, {@141,@} 5343 {%(°devatāḥ);%} {@263,@}
-<>9381 (= 2922).—The translation of XIII, 4165, ought to
-<>be altered thus: When fire is not obtainable, gold is used
-<>as a substitute by one who knows the authorities, according
-<>to the injunction of the Veda {%(pramāṇajño veda-śruti-%}
-<>{%nidarśanāt)%}—and {%Jāmadagnyaḥ%} of the text is to be corrected
-<>into {%Jāmadagnya%} (vocative = Rāma).—XIII, {@103,@} 5142,
-<>read {@106,@} 5142.
+read (Pulomā).—Add: I, {@130,@} 5108; {@223,@} 8151; {@224,@}
+8165; {@229,@} 8331, 8334.—II, {@7,@} 302 {%(Indrāgnī, Agnīṣomau);%}
+{@48,@} 1709.—III, {@132,@} †10605; {@147,@} 11195; {@222,@} 14215—17;
+{@232,@} 14519, 14522.—§ 526{%a,%} read: § 526 (Rāmopākhyānap.).
+—§ 552 (Gograhaṇap.), read: (Goharaṇap.).—Add: IV,
+{@37,@} 1211.—V, {@16,@} 483.—VI, {@98,@} 4453.—§ 594…dele
+VII (to be inserted before {@25,@} 1084).—Add: VII, {@35,@}
+1536; {@66,@} 2335; {@101,@} 3786; {@194,@} 8972; {@201,@} 9421;
+†9457 ({%Vāgagnī,%} add: B. {%Vāyvagnī%}); {@202,@} 9568, 9594,
+9632-3.—VIII, {@31,@} 1250, 1305 ({%Agnidattaḥ,%} scil. the chariot
+of Arjuna); {@34,@} 1510, 1535, 1555; {@37,@} 1742; {@46,@} 2160;
+{@60,@} 2983; {@96,@} †5042.—§ 615: dele brought (to be inserted
+after 1985 {%(°īn).%}—Add: XII, {@141,@} 5343 {%(°devatāḥ);%} {@263,@}
+9381 (= 2922).—The translation of XIII, 4165, ought to
+be altered thus: When fire is not obtainable, gold is used
+as a substitute by one who knows the authorities, according
+to the injunction of the Veda {%(pramāṇajño veda-śruti-%}
+{%nidarśanāt)%}—and {%Jāmadagnyaḥ%} of the text is to be corrected
+into {%Jāmadagnya%} (vocative = Rāma).—XIII, {@103,@} 5142,
+read {@106,@} 5142.
 <P>Synonyms:—
 <P>{@Adbhuta,@} dele this article and see p. 12 Adbhuta<sup>1</sup>.
 <P>{@Anala,@} add: VIII, †4787 {%(°daṇḍa-sannibhaṃ).%} Cf.
-<>Kālānala.
+Kālānala.
 <P>{@Anilasakha@} (“friend of the wind”): XII, 13918 {%(devaḥ).%}
 <P>{@*Anilasārathi,@} add: I, 2073; XII, 2583.
 <P>{@*Citrabhānu,@} add: I, 8226; VIII, †4680; XII, 1756
-<>{%(sa-Haihayaḥ);%} XIII, 4060; XIV, 1737.
+{%(sa-Haihayaḥ);%} XIII, 4060; XIV, 1737.
 <P>{@*Hiraṇyaretas,@} add: I, 8408, and read XIV, 118
-<>instead of [XIV, 118 = the sun)
+instead of [XIV, 118 = the sun)
 <P>{@Kavi:@} XIII, 7220.
 <P>{@Kṛśānu:@} VIII, †3402 ({%°dattañ ca rathaṃ,%} sc. Arjuna's).
 <P>{@*Kṛṣṇagati:@} IX, †1334.
@@ -255,137 +255,137 @@
 <P>{@*Saptarcis,@} add: III, 5035, 5041.
 <P>{@*Tamonuda:@} III, 14114.
 <PTEMP>{@Vaiśvānara, Vasuretas, Vātasārathi, Vibhāvasu,@}
-<>{@Yajnabhuj,@}¦ q.v.
+{@Yajnabhuj,@}¦ q.v.
 <HI>{@Agnidāyāda, Agnija@}¦ = Skanda, q.v.
 <HI>{@Agnisambhava@}¦ = Aṅgiras<sup>1</sup>: XIII, {@106,@} 5142.
 <HI>{@Agnī-Ṣomau, Agnīṣoma,@}¦ cf. also the articles Agni and
-<>Soma.
+Soma.
 <HI>{@Agnisvattāh,@}¦ read {@Agnisvāttāḥ@} (B. {%°ṣvāttāḥ%}).
 <HI>{@Agnitīrtha,@}¦ add: § 366 (Tīrthayātrāp.): III, {@83,@} 7008.
 <HI>{@Agniveśa@}<sup>2</sup>,¦ pl. {%(°āḥ),%} a people. § 578 (Bhīṣmavadhap.):
-<>VI, {@50<lang n="greek"></lang>,@} 2084 (only B.).
+VI, {@50<lang n="greek"></lang>,@} 2084 (only B.).
 <HI>{@Agniveśya,@}¦ add: § 324 (Dvaitavanapr.): III, {@26<lang n="greek"></lang>,@} 986.
 <HI>{@Agraha,@}¦ name of a fire. § 493 (Āṅgirasa): III, {@221,@} 14189.
 [Page792-b+ 60]
 <HI>{@Agraṇī@}<sup>2</sup>,¦ name of a fire. § 493 (Āṅgirasa): III, {@221,@} 14198.
 <HI>{@Aha(ḥ),@}¦ dele this article, and see Ahas.<sup>2</sup>
 <HI>{@Ahalyā,@}¦ add: § 772{%e%} (Gautama): XIII, {@154,@} 7218 ({%°āṃ%}
-<>{%kāmayānaḥ,%} sc. Indra).
+{%kāmayānaḥ,%} sc. Indra).
 <HI>{@Ahaṃkāra,@}¦ add: III, 13916; XII, 6780 (= Brahmán), 6785
-<>({%°asya sraṣṭā,%} scil. Viṣṇu).
+({%°asya sraṣṭā,%} scil. Viṣṇu).
 <HI>{@Ahar@}<sup>2</sup>,¦ name of a tīrtha. § 364 (Tīrthayātrāp.): III, {@83,@}
-<>6070.
+6070.
 <HI>{@Ahas@}<sup>1—2</sup>,¦ read {@Ahar<sup>3—4</sup>.@}
 <HI>{@Ahara,@}¦ an asura: I, 2660 (only B., C. {%Suharaḥ,%} q.v.).
 <HI>{@Ahicchatra,@}¦ add: a country: I, {@138,@} 5515 {%(°añ ca viṣayaṃ%}
-<>{%Droṇaḥ samabhipadyata).%}
+{%Droṇaḥ samabhipadyata).%}
 <HI>{@Ahirbradhna,@}¦ add: (B. always {%Ahirbudhnya%}).
 <HI>{@Ahitā,@}¦ a river: VI, 328 (only B., C. has {%Mahitāṃ%}).
 <HI>{@Āhuka@}<sup>1</sup>,¦ a Yādava prince, add: (= Ugrasena<sup>6</sup>).—V, 4297
-<>(dele: father of Ugrasena). Cf. Dvārakādhipati (so read
-<>III, 829).
+(dele: father of Ugrasena). Cf. Dvārakādhipati (so read
+III, 829).
 <HI>{@Āhuka@}<sup>2</sup>:¦ V, 3041 ({%°ānām adhipatiḥ,%} add: i.e. Kṛṣṇa), 5351
-<>(add: B. has {%Ākūtīnāṃ,%} probably for {%Ākṛtīnāṃ%}).
+(add: B. has {%Ākūtīnāṃ,%} probably for {%Ākṛtīnāṃ%}).
 <HI>{@Āhvṛti,@}¦ add: (B. has {%Āhutiḥ%}).
 <HI>{@Aikṣvāka@}¦ (“descendent of Ikṣvāku”) = Bhagīratha: VII,
-<>2256 (Bh°). Cf. next.
+2256 (Bh°). Cf. next.
 <HI>{@Aikṣvāku@}<sup>1</sup>,¦ add: (only C., B. has {%Ikṣvākuṃ%}).—Do<sup>2</sup>, add:
-<>(B. has {%Aikṣvākaṃ%}).—Do.<sup>3</sup>, add: (B. has {%Aikṣvākaḥ%}).—
-<>Do.<sup>4</sup> = Sāgara (the ocean): III, 16303 (only C., B. has
-<>{%Aikṣvākaḥ%}).
+(B. has {%Aikṣvākaṃ%}).—Do.<sup>3</sup>, add: (B. has {%Aikṣvākaḥ%}).—
+Do.<sup>4</sup> = Sāgara (the ocean): III, 16303 (only C., B. has
+{%Aikṣvākaḥ%}).
 <HI>{@Aindava,@}¦ adj. (“belonging to Indu, i.e. Soma”): VII,
-<>†2467 {%(°vīm ātmatanuṃ).%}
+†2467 {%(°vīm ātmatanuṃ).%}
 <HI>{@*Aindra,@}¦ add: II, 278 {%(vaijayantaḥ),%} 2577 {%(jaye);%} III, 1494
-<>{%(yogena),%} 12023 {%(rathaṃ);%} V, 5462 {%(puraṃ);%} VI, 83
-<>{%(nakṣatraṃ Jyeṣṭhāṃ);%} VIII, †3238 {%(jālaṃ).%}
+{%(yogena),%} 12023 {%(rathaṃ);%} V, 5462 {%(puraṃ);%} VI, 83
+{%(nakṣatraṃ Jyeṣṭhāṃ);%} VIII, †3238 {%(jālaṃ).%}
 <HI>{@Aindrāgna,@}¦ dele § 555 foll. and add: v. Aindrāgnya.
 <HI>{@Aindrāgnya,@}¦ add: V, 517 ({%bhāgaḥ,%} only C., B. has {%Indrā-%}
-<>{%gnyoḥ%}); XII, 2307 (add: so C., B. reads {%Aindrāgnena%}).
+{%gnyoḥ%}); XII, 2307 (add: so C., B. reads {%Aindrāgnena%}).
 <HI>{@Aindri,@}¦ add: VII, †1301.
 <HI>{@Airāvata@}<sup>1</sup>,¦ instead of § 576 (Bhagavadgītāp.): VI, {@21,@} read:
-<>§ 575{%c%} (Samā): VI, {@12,@} and insert before {@31,@} 1231: § 576
-<>(Bhagavadgītāp.): VI.—VI, 2761 (read: {%Airāvatopamaṃ%}).
-<>—Add: VII, {@26,@} 1174 (only B.).—VIII, 4830, read: VII,
-<>4830.—VIII, 6436 (read: {%Airāvatopamān%}).—§ 730 (Megha-
-<>vāhanop., read: Ānuśāsanik.).—Cf. also III, 188 {%(mahā-%}
-<>{%ghanāḥ sairāvatāḥ);%} VII, 3639 {%(°śatahradāḥ).%}
+§ 575{%c%} (Samā): VI, {@12,@} and insert before {@31,@} 1231: § 576
+(Bhagavadgītāp.): VI.—VI, 2761 (read: {%Airāvatopamaṃ%}).
+—Add: VII, {@26,@} 1174 (only B.).—VIII, 4830, read: VII,
+4830.—VIII, 6436 (read: {%Airāvatopamān%}).—§ 730 (Megha-
+vāhanop., read: Ānuśāsanik.).—Cf. also III, 188 {%(mahā-%}
+{%ghanāḥ sairāvatāḥ);%} VII, 3639 {%(°śatahradāḥ).%}
 <HI>{@Airāvatī,@}¦ see Irāvatī (below).
 <HI>{@Aja@}<sup>1</sup>,¦ add: I, 2431—32.—Do.<sup>3</sup>, add: VII, 2863, 2867, 9462,
-<>9602; VIII, 1442.—Do<sup>4</sup>: XII, 8756, read 8766; XII,
-<>8802, add: (neutr.); Do.<sup>5</sup>, add: I, 7306; III, 8754,
-<>13005; V, 151; XII, 7874.—Do.<sup>7</sup>, add: III, 15877 (father
-<>of Daśaratha).—Do.<sup>8</sup>, add: V, 1574 (the supreme soul);
-<>XII, 11485 (do.).
+9602; VIII, 1442.—Do<sup>4</sup>: XII, 8756, read 8766; XII,
+8802, add: (neutr.); Do.<sup>5</sup>, add: I, 7306; III, 8754,
+13005; V, 151; XII, 7874.—Do.<sup>7</sup>, add: III, 15877 (father
+of Daśaratha).—Do.<sup>8</sup>, add: V, 1574 (the supreme soul);
+XII, 11485 (do.).
 <HI>{@Ajabindu@}¦ ({%°vindu,%} C.), a king. § 562 (Bhagavadyānap.):
-<>V, {@74<lang n="greek"></lang>,@} 2730 {%(Suvīrāṇāṃ).%}
+V, {@74<lang n="greek"></lang>,@} 2730 {%(Suvīrāṇāṃ).%}
 <HI>{@Ajagaraparvan,@}¦ read Ā°.—§ 449…Mahendrasena, read
-<>Indrasena.
+Indrasena.
 <HI>{@Ajaka,@}¦ add: § 92 (Aṃśāvat.): I, {@65,@} 2532 (among the sons
-<>of Danu).
+of Danu).
 <HI>{@Ājamīḍha@}<sup>2</sup>,¦ add: III, †10231; V, †1815.—Do<sup>3</sup>, add:
-<>(so C., but B. has Ājamīḍha (voc.) = Dhṛtarāṣṭra).—
-<>Do.<sup>4</sup>, add: II, 1962; VII, †5838 (only B., C. has {%°aṃ%} =
-<>Duḥśāsana).—Do.<sup>8</sup>, add: III, †10835 ({%sarvājamīḍhāpacitaṃ%}
-<>{%narendraṃ,%} scil. Yudhiṣṭhira).
+(so C., but B. has Ājamīḍha (voc.) = Dhṛtarāṣṭra).—
+Do.<sup>4</sup>, add: II, 1962; VII, †5838 (only B., C. has {%°aṃ%} =
+Duḥśāsana).—Do.<sup>8</sup>, add: III, †10835 ({%sarvājamīḍhāpacitaṃ%}
+{%narendraṃ,%} scil. Yudhiṣṭhira).
 [Page793-a+ 60]
 <HI>{@Ajātaśatru,@}¦ add: II, †1995; III, †254, †14757; V, †653,
-<>†681.
+†681.
 <HI>{@Ajita@}<sup>3</sup>¦ = Kṛṣṇa (Viṣṇu): III, 1698, 1896, 15850.
 <HI>{@Ajitaśatru,@}¦ add: ({%Ṛṣabho 'jitaśatruś ca,%} so C., but the
-<>reading of B. {%Ṛṣabho jita-°%} seems to be preferable,
-<>{%jitaśatru%} being either adj. or nom. pr.).
+reading of B. {%Ṛṣabho jita-°%} seems to be preferable,
+{%jitaśatru%} being either adj. or nom. pr.).
 <HI>{@Ajodara,@}¦ v. Gajodara (below).
 <HI>{@Ākhaṇḍala:@}¦ VIII, 4353 ({%…Karṇam,%} read: scil. the banner
-<>of Karṇa); add: XII, 12712 ({%°sakhaḥ,%} i.e. Vasu Uparicara).
+of Karṇa); add: XII, 12712 ({%°sakhaḥ,%} i.e. Vasu Uparicara).
 <HI>{@Akrodhana,@}¦ add: (husband of Karambhā and father of
-<>Devātithi).
+Devātithi).
 <HI>{@Akrūra@}<sup>1</sup>,¦ add: § 353 (Vaivāhikap.): IV, {@72,@} 2357.—§ 570
-<>(Sainyaniryāṇap.); V, {@157<lang n="greek"></lang>,@} 5330.—XII, 3037 (add:
-<>(?) PCR.).
+(Sainyaniryāṇap.); V, {@157<lang n="greek"></lang>,@} 5330.—XII, 3037 (add:
+(?) PCR.).
 <HI>{@Ākṛṣṭa,@}¦ add: (B. A°).
 <HI>{@Akṛti,@}¦ read Ā° and add: § 264 (Sabhākriyāp.): II, {@4<lang n="greek"></lang>,@} 126
-<>(so B., C. has {%Aṅkṛti%}).
+(so B., C. has {%Aṅkṛti%}).
 <HI>{@*Akshara,@}¦ add: III, 10941 (= Viṣṇu), 10946 (do.); VI,
-<>1162 {%(puruṣaḥ paraḥ),%} 1398 {%(puruṣaḥ).%}
+1162 {%(puruṣaḥ paraḥ),%} 1398 {%(puruṣaḥ).%}
 <HI>{@Akṣayavaṭa,@}¦ a holy banyan-tree. § 370 (Tīrthayātrāp.):
-<>III, {@84,@} 8061 (in Gayā).—[§ 377 (Dhaumyatīrthak.): III,
-<>{@87,@} 8307 {%(akṣayyakaraṇo vaṭaḥ).%}]—§ 380 (Brahmasaras):
-<>III, {@95,@} 8523.—[§ 595 (Ṣoḍaśarāj., v. Gaya): VII, {@66,@}
-<>2353 {%(vaṭaś cākṣayyakaraṇaḥ).%}—§ 749{%b%} (Gayā): XIII,
-<>{@88,@} 4253 {%(akṣayyakaraṇo vaṭaḥ).%}]
+III, {@84,@} 8061 (in Gayā).—[§ 377 (Dhaumyatīrthak.): III,
+{@87,@} 8307 {%(akṣayyakaraṇo vaṭaḥ).%}]—§ 380 (Brahmasaras):
+III, {@95,@} 8523.—[§ 595 (Ṣoḍaśarāj., v. Gaya): VII, {@66,@}
+2353 {%(vaṭaś cākṣayyakaraṇaḥ).%}—§ 749{%b%} (Gayā): XIII,
+{@88,@} 4253 {%(akṣayyakaraṇo vaṭaḥ).%}]
 <HI>{@Akshisantarjana,@}¦ a celestial weapon. § 563 (Bhagavad-
-<>yānap.): V, {@96<lang n="greek"></lang>,@} 3490 (to be employed by Arjuna).
+yānap.): V, {@96<lang n="greek"></lang>,@} 3490 (to be employed by Arjuna).
 <HI>{@Alaka,@}¦ pl. {%(°āḥ),%} the inhabitants of Alakā. § 438 (Yakṣa-
-<>yuddhap.): III, {@162,@} 11813.
+yuddhap.): III, {@162,@} 11813.
 <HI>{@Alambusha,@}¦ add: VII, {@167,@} 7505 (only C.); {@174,@} 7858 (do.).
-<>Cf. Ārṣyaśṛṅga (°-gi), Jāṭāsuri, Jaṭāsurasuta, Rakshas
-<>(etc.).
+Cf. Ārṣyaśṛṅga (°-gi), Jāṭāsuri, Jaṭāsurasuta, Rakshas
+(etc.).
 <HI>{@Alarka@}<sup>1</sup>,¦ add: III, {@25,@} †957.—Do.<sup>2</sup>…originally a
-<>Rākṣasa, read: Asura, named Daṃśa.
+Rākṣasa, read: Asura, named Daṃśa.
 <HI>{@Alinda,@}¦ read: (B. has {%Aṭhidāḥ%}).
 <HI>{@Alolupa,@}¦ add: § 586 (Bhīṣmavadhap.): VI, {@64<lang n="greek"></lang>,@} 2838.
 <HI>{@*Amara@}<sup>1</sup>,¦ pl., add: I, 7715 (read {%amarāv iva%}); VI, 215 (read
-<>{%amaraśreṣṭhāṃs%}); VII, 386 ({%°saṃkāśaṃ,%} read with B.
-<>{%Antaka-°%}); 2516 ({%°striyaḥ,%} only C., B. has {%samupāsanti%}
-<>{%yaṃ purā paramastriyaḥ%}); X, 771 (read with B. {%aparaṃ%});
-<>XIII, † 1031 (read {%Amaraprabhāva,%} i.e. Kṛṣṇa), 7483
-<>(C. {%mahārudraṃ,%} read with B. {%'marā Rudraṃ%}).—
-<>{@Amaraśreṣṭa:@} I, 3942 (= Dyaus). —{@Amaraloka@}
-<>(= Devaloka): III, 8238.—{@Amarāṇāṃ hradaḥ,@} a tīrtha:
-<>III, {@83,@} 6076.
+{%amaraśreṣṭhāṃs%}); VII, 386 ({%°saṃkāśaṃ,%} read with B.
+{%Antaka-°%}); 2516 ({%°striyaḥ,%} only C., B. has {%samupāsanti%}
+{%yaṃ purā paramastriyaḥ%}); X, 771 (read with B. {%aparaṃ%});
+XIII, † 1031 (read {%Amaraprabhāva,%} i.e. Kṛṣṇa), 7483
+(C. {%mahārudraṃ,%} read with B. {%'marā Rudraṃ%}).—
+{@Amaraśreṣṭa:@} I, 3942 (= Dyaus). —{@Amaraloka@}
+(= Devaloka): III, 8238.—{@Amarāṇāṃ hradaḥ,@} a tīrtha:
+III, {@83,@} 6076.
 <HI>{@*Amaraṇa,@}¦ dele this article.
 <HI>{@Amaraparvata,@}¦ a mountain: § 285 (Nakula): II, {@32,@} 1193
-<>(in the west, conquered by Nakula).
+(in the west, conquered by Nakula).
 <HI>{@Amararāj@}¦ = Indra (q.v. below).
 <HI>{@Amaratha,@}¦ pl., a people (?), see Vātaja.
 <HI>{@Amareśa@}<sup>1</sup>¦ = Indra (q.v.).—Do.<sup>2</sup> = Śiva (1000 names<sup>2</sup>).
 <HI>{@Amarottama@}<sup>1</sup>¦ = Indra (q.v.).—Do.<sup>2</sup> = Brahmán: I, 1588.—
-<>Do.<sup>3</sup> = Viṣṇu: V, 299.
+Do.<sup>3</sup> = Viṣṇu: V, 299.
 <HI>{@Amatsyācin,@}¦ add: B. reads {%Cārumatsya.%}
 <HI>{@Ambarāvṛta,@}¦ dele this article and see Ārdracarmāmbaravṛta
 <HI>{@Ambaṣṭha@}<sup>1</sup>,¦ add: V, {@30,@} †889 (only B., C. has {%Āvantyāḥ%});
-<>VI, {@51<lang n="greek"></lang>,@} 2105 (only B., C. has {%Vāmana%}); VIII, {@79<lang n="greek"></lang>,@}
-<>4040.
+VI, {@51<lang n="greek"></lang>,@} 2105 (only B., C. has {%Vāmana%}); VIII, {@79<lang n="greek"></lang>,@}
+4040.
 <HI>{@Ambhoruda,@}¦ so B. for Ambhoruha (q.v.).
 <HI>[{@Ambopākhyānaparvan@}]¦ in § 573 read {%vīryaśulkāḥ%}
 [Page793-b+ 60]
@@ -394,125 +394,125 @@
 <HI>{@Ambupati, Amburāj, Ambvīśa@}¦ = Varuṇa, q.v.
 <HI>{@Ambuvāhinī,@}¦ add: VI, 334 (only B., C. has {%Madhuvāhinīṃ%}).
 <HI>[{@Aṃśāvataraṇa(ṃ)@}]¦ § 127, instead of Krodha…{%(Krodha-%}
-<>{%vaśāḥ)%} read: Krodhavaśā begat nine daughters sprung
-<>from wrath {%(krodhasambhavāḥ).%}
+{%vaśāḥ)%} read: Krodhavaśā begat nine daughters sprung
+from wrath {%(krodhasambhavāḥ).%}
 <HI>{@Aṃśumālin@}¦ = Sūrya: III, 190.
 <HI>{@Amoghā@}<sup>2</sup>,¦ name of the dart of Indra. § 546 (Kuṇḍalāharaṇap.):
-<>III, {@302,@} 16990—91 {%(śaktiṃ).%}—§ 547 (Karṇa): III, {@310,@}
-<>17197—98, 17201, 17706—7, 17210.—§ 561 (Yānasandhip.):
-<>V, {@55<lang n="greek"></lang>,@} 2198 {%(śaktyā).%}—§ 600 (Ghaṭotkacavadhap.): VII,
-<>{@158,@} 6977 {%(śaktiṃ Śakra-vinirmitāṃ),%} 7022 {%(śaktiḥ);%}
-<>{@180<lang n="greek"></lang>,@} (read {%śaktir Amoghā 'sya%}); {@182,@} 8247 {%(śaktiḥ),%}
-<>8253 (do.), 8258, 8262, 8264, 8276 {%(śaktiṃ).%}—§ 604 (Karṇap.):
-<>VIII, {@3<lang n="greek"></lang>,@} 63 {%(śaktyā).%}—Do.<sup>3</sup>, name of the dart of Skanda.
-<>§ 748{%b%} (Tārakavadhop.): XIII, {@86,@} 4214 {%(śaktyā).%}
+III, {@302,@} 16990—91 {%(śaktiṃ).%}—§ 547 (Karṇa): III, {@310,@}
+17197—98, 17201, 17706—7, 17210.—§ 561 (Yānasandhip.):
+V, {@55<lang n="greek"></lang>,@} 2198 {%(śaktyā).%}—§ 600 (Ghaṭotkacavadhap.): VII,
+{@158,@} 6977 {%(śaktiṃ Śakra-vinirmitāṃ),%} 7022 {%(śaktiḥ);%}
+{@180<lang n="greek"></lang>,@} (read {%śaktir Amoghā 'sya%}); {@182,@} 8247 {%(śaktiḥ),%}
+8253 (do.), 8258, 8262, 8264, 8276 {%(śaktiṃ).%}—§ 604 (Karṇap.):
+VIII, {@3<lang n="greek"></lang>,@} 63 {%(śaktyā).%}—Do.<sup>3</sup>, name of the dart of Skanda.
+§ 748{%b%} (Tārakavadhop.): XIII, {@86,@} 4214 {%(śaktyā).%}
 <HI>{@Amūrtarayasa@}<sup>1</sup>,¦ add: probably wrong reading for
-<>{%Āmūrtarayasaḥ%} (= Gaya).
+{%Āmūrtarayasaḥ%} (= Gaya).
 <HI>{@Amūrtarayasa@}<sup>2</sup>,¦ read {@Ā°.@}
 <HI>{@Anādhṛṣṭi@}<sup>2</sup>,¦ add: VII, 360 (only B., = Vārddhakṣemi,
-<>q.v.).
+q.v.).
 <HI>{@Anādi-madhyānta@}¦ = Viṣṇu (q.v.).
 <HI>{@Anagha@}<sup>1</sup>,¦ add: an ancient king. § 267 (Yamasabhāv.): II,
-<>{@8,@} 332 (only B., C. has {%Nalaḥ%}).
+{@8,@} 332 (only B., C. has {%Nalaḥ%}).
 <HI>{@Analā,@}¦ instead of (one of the Krodhavaśāḥ) read (daughter of
-<>Surabhi).
+Surabhi).
 <HI>{@Analasakha@}¦ = Vāyu, q.v.
 <HI>{@Anaṅgā,@}¦ a river: VI, 342 (only B., C. has {%Maniṅgāṃ%}).
 <HI>{@Ananta@}<sup>1</sup>,¦ add: § 665 (Gālavac.): V, {@110,@} 3818 {%(°asya%}
-<>{%niveśanaṃ).%}—§ 768{%b%} (Kṛṣṇa Vāsudeva): XIII, {@147,@} 6863,
-<>6866 {%(vasudhādharaḥ).%} Cf. Phaṇīndra.
+{%niveśanaṃ).%}—§ 768{%b%} (Kṛṣṇa Vāsudeva): XIII, {@147,@} 6863,
+6866 {%(vasudhādharaḥ).%} Cf. Phaṇīndra.
 <HI>{@Anantavijaya,@}¦ VI, 2166, read 2116.
 <HI>{@Anantayaśas,@}¦ name of a ṛṣi(?). § 377 (Dhaumyatīrthak.):
-<>III, {@90,@} 8383.
+III, {@90,@} 8383.
 <HI>{@Anaraka,@}¦ a tīrtha: III, 7039 (so B. prob. more correctly for
-<>Naraka<sup>2</sup>).
+Naraka<sup>2</sup>).
 <HI>{@Aṇḍa,@}¦ dele “the Sun” and add: Do.<sup>2</sup> = Vivasvat, q.v.
 <HI>{@Andha,@}¦ v. Badhirāndha (Additions).
 <HI>{@Andha,@}¦ pl., add: Do.<sup>2</sup> = Ā̆ndhra, pl.: V, 5510 (only C.),
-<>VI, 357 (do.).
+VI, 357 (do.).
 <HI>{@Andhaka@}<sup>2</sup>,¦ add: § 730{%g%} (Upamanyu): XIII, {@14<lang n="greek"></lang>,@} 805.—
-<>§ 770 (Ānuśāsanik.): XIII, {@151<lang n="greek"></lang>,@} 7130 (slain by Śveta<sup>1</sup>,
-<>only PCR.).
+§ 770 (Ānuśāsanik.): XIII, {@151<lang n="greek"></lang>,@} 7130 (slain by Śveta<sup>1</sup>,
+only PCR.).
 <HI>{@Andhaka-ghātin,@}¦ dele (1000 names<sup>1</sup>) and add q.v.
 <HI>{@Andhaka-nipātin@}¦ = Śiva, q.v.
 <HI>{@Andhra,@}¦ pl.: VI, 357 add (C. has {%Andhāḥ%}); XII, 2439, read
-<>2429.
+2429.
 <HI>{@Anenas@}<sup>2</sup>,¦ a king in Ayodhyā. § 475 (Dhundhumārop.): III,
-<>{@202,@} 13516 (son of Kakutstha and father of Pṛthu).
+{@202,@} 13516 (son of Kakutstha and father of Pṛthu).
 <HI>{@Aṅga@}<sup>1</sup>,¦ pl., add: V, {@50,@} 1986 ({%Kāśīn Aṅga-Magadhān,%} B.,
-<>{%Kāśī-Vaṅga-Magadhān,%} C.), 1997; VI, {@9,@} 357.
+{%Kāśī-Vaṅga-Magadhān,%} C.), 1997; VI, {@9,@} 357.
 <HI>{@Aṅga@}<sup>8</sup>,¦ add: VIII, {@45,@} 2112.
 <HI>{@Aṅgāra@}<sup>2</sup>,¦ a people. § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 368 {%(Kukkurā°-%}
-<>{%Māriṣāḥ).%}
+{%Māriṣāḥ).%}
 <HI>{@Aṅgāraka@}<sup>1</sup>,¦ add: cf. {%Kṛttikāṅgāraka(?):%} XIII, 1708;
-<>Dharāputra, Lohitāṅga.
+Dharāputra, Lohitāṅga.
 <HI>{@Āṅgariṣṭha:@}¦ XII, 4534 (…Kamanda, read: Kāmanda).
 <HI>{@Aṅgiras@}<sup>1</sup>,¦ XII, {@69,@} 2666 (two verses sung by his son Bṛhaspati),
-<>add: so PCR., our texts read {%gītāv Aṅgirasā svayaṃ.%}
+add: so PCR., our texts read {%gītāv Aṅgirasā svayaṃ.%}
 [Page794-a+ 60]
 <HI>{@Aṅgirasa(ṃ),@}¦ read Ā°.
 <HI>{@Aniketa,@}¦ a Yakṣa. § 269 (Vaiśravaṇasabhāv.): II, {@10,@}
-<>399 (in the palace of Kubera, {%Vṛkṣavāsy-Aniketaś, ca,%} C.
-<>by error {%Vṛkṣavāsp-°%}).
+399 (in the palace of Kubera, {%Vṛkṣavāsy-Aniketaś, ca,%} C.
+by error {%Vṛkṣavāsp-°%}).
 <HI>{@*Aṇiman,@}¦ add: XIII, 1015 (among the attributes of Śiva).
 <HI>{@Aṇimat,@}¦ read {%Pāṇimān%} instead of {%Māṇimān.%}
 <HI>{@Aniruddha@}<sup>1</sup>,¦ add: § 232 (Svayaṃvarap.): I, {@186,@} 6999
-<>{%('niruddhaḥ).%}—§ 287 (Rājasūyikap.): II, {@34,@} 1274.—
-<>§ 402 (Tīrthayātrāp.): III, {@120,@} †10276.—XII, 13470
-<>(read: “Bráhman develops into Purusha” instead of
-<>Brahmán, etc.).
+{%('niruddhaḥ).%}—§ 287 (Rājasūyikap.): II, {@34,@} 1274.—
+§ 402 (Tīrthayātrāp.): III, {@120,@} †10276.—XII, 13470
+(read: “Bráhman develops into Purusha” instead of
+Brahmán, etc.).
 <HI>{@Añjalikāśrama(?),@}¦ v. Cāṇḍālikāśrama.
 <HI>{@Aṅkṛti@}¦ (or {@Āṅkṛti@}), probably error in C. for {%Ākṛti%} (B.).
 <HI>{@Annapati@}<sup>2</sup>¦ = Sūrya: III, 197.
 <HI>{@Antakṛt,@}¦ add: the reading of the text is {%Tamontakṛt,%} which
-<>probably ought to be taken as one name (q.v.).
+probably ought to be taken as one name (q.v.).
 <HI>{@Antardhāna,@}¦ add: § 208{%b%} (Arjuna): I, {@135,@} 5366 {%(astreṇa).%}
-<>Cf. VII, 2417, where it seems to denote the power of dis-
-<>appearing at will.
+Cf. VII, 2417, where it seems to denote the power of dis-
+appearing at will.
 <HI>{@Antargirya,@}¦ pl. {%(°āḥ),%} a people. § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@}
-<>357 (C. by error {%°aḥ%}).
+357 (C. by error {%°aḥ%}).
 <HI>{@Antavāsa,@}¦ pl. {%(°āḥ),%} a people. § 295 (Dyūtap.): II, {@51,@} 1837
-<>(Niṣādas, PCR.).
+(Niṣādas, PCR.).
 <HI>{@Antraśilā,@}¦ v. Citraśilā.
 <HI>{@Anudyūta,@}¦ add: cf. VII, 6370 (only B.).
 <HI>{@Anudyūtaparvan:@}¦ the number § 304 after (II, 75).—ought
-<>to be inserted after (II, {@76@}).—
+to be inserted after (II, {@76@}).—
 <HI>{@Anugītāparvan:@}¦ in (XIV, {@66@}) correct (<lang n="greek"></lang>) to (<lang n="greek"></lang>), and in
-<>(XIV, {@83@}) after {%Draviḍas, Andhras,%} insert: {%Audras%} (or
-<>{%Raudras?%}).
+(XIV, {@83@}) after {%Draviḍas, Andhras,%} insert: {%Audras%} (or
+{%Raudras?%}).
 <HI>{@Anumati,@}¦ add: § 606 (Tripurākhyāna): VIII, {@34,@} 1486
-<>(among the auspicious days who became the {%yoktrāṇi%} of
-<>Śiva's chariot).
+(among the auspicious days who became the {%yoktrāṇi%} of
+Śiva's chariot).
 <HI>{@Ānūpa,@}¦ pl. {%(°āḥ),%} a people. § 295 (Dyūtap.): II, {@51,@} 1844
-<>{%(Nīpānūpān).%}
+{%(Nīpānūpān).%}
 <HI>{@Anūpā,@}¦ add: ({%Arūpā,%} B.).
 <HI>{@Anūpādhipati@}¦ (“the king of the sea-coast”) = Nīla: VI,
-<>4153 {%(N°),%} 4210 (do.).
+4153 {%(N°),%} 4210 (do.).
 <HI>{@Anūpaka,@}¦ pl. {%(°āḥ),%} a people. § 578 (Bhīṣmavadhap.): VI,
-<>{@50<lang n="greek"></lang>,@} 2080.
+{@50<lang n="greek"></lang>,@} 2080.
 <HI>{@Anūpavāsin@}¦ = Nīla: VIII, 166.
 <HI>{@Anurādhā,@}¦ add: cf. Maitra (IX, 1982).
 <HI>{@Anuṣṭubh,@}¦ dele (1000 names) and add: XIII, 6949.
 <HI>{@anuvākāḥ,@}¦ pl., instead of “= Kṛṣṇa” read: XII, 1613
-<>(cf. vāka, pl.).
+(cf. vāka, pl.).
 <HI>{@Anuvinda@}<sup>1</sup>,¦ instead of “§ 593 (Ambop.): V, {@195@}” read:
-<>§ 573 (etc.), and instead of “VI, 1742 (do.)” read: 1740
-<>(do.), 1742.—Add: VI, {@47<lang n="greek"></lang>,@} 1851 (do., only B.); {@49,@}
-<>2014/15 (do., do.); VII, {@20<lang n="greek"></lang>,@} 801.
+§ 573 (etc.), and instead of “VI, 1742 (do.)” read: 1740
+(do.), 1742.—Add: VI, {@47<lang n="greek"></lang>,@} 1851 (do., only B.); {@49,@}
+2014/15 (do., do.); VII, {@20<lang n="greek"></lang>,@} 801.
 <HI>{@Anvagbhānu,@}¦ add: cf. Ṛceyu.
 <HI>{@Apagā@}<sup>1-2</sup>,¦ {@Apagāsuta, Apageya,@} read: Āp°.
 <HI>{@Āpagā@}<sup>1</sup>,¦ instead of “a river” read: name of various tīrthas,
-<>and add: § 368 (do.): III, {@83,@} 7048 ({%Āpagānāṃ,%} both C.
-<>and B.; read {%Apagāyāṃ%}).
+and add: § 368 (do.): III, {@83,@} 7048 ({%Āpagānāṃ,%} both C.
+and B.; read {%Apagāyāṃ%}).
 <HI>{@Apāṃ pati,@}¦ add: III, 2138, 2228, 10123, †10225; V, 515,
-<>3527.—Do. = Śiva: VII, 9540.
+3527.—Do. = Śiva: VII, 9540.
 <HI>{@Aparājita@}<sup>2</sup>,¦ add: § 554 (Sainyodyogap.): V, {@4<lang n="greek"></lang>,@} 84.
 <HI>{@Apava,@}¦ read Āpava.
 <HI>{@Apavāha,@}¦ pl. {%(°āḥ),%} a people. § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 352
-<>({%Vārapāśyāpavāhāḥ,%} B. has {%Vāravāsyāyavāhāḥ%}).
+({%Vārapāśyāpavāhāḥ,%} B. has {%Vāravāsyāyavāhāḥ%}).
 [Page794-b+ 59]
 <HI>{@Apsaras@}<sup>2</sup>,¦ add: § 412 (Aṣṭāvakrīya): III, {@134,@} †10662
-<>{%(dṛṣṭā vede pañcacūḍāpsarāḥ).%}
+{%(dṛṣṭā vede pañcacūḍāpsarāḥ).%}
 <HI>{@Apta,@}¦ read Āpta.
 <HI>{@Arāli,@}¦ a son of Viśvāmitra, so B. instead of Arāṇi (q.v.).
 <HI>{@*Āraṇyaśāstra,@}¦ add: § 621 (Rājadh.): XII, {@9,@} 253.
@@ -524,102 +524,102 @@
 <HI>{@Arihan@}¦ = Sūrya: III, 152.
 <HI>{@Arimejaya,@}¦ add: § 232 (Svayaṃvarap.): I, {@186,@} 6999.
 <HI>{@Ariṣṭa,@}¦ according to Hariv. an Asura, son of Bali, incarnate
-<>as a bull. § 567 (Bhagavadyānap.): V, {@130,@} 4410 (slain
-<>by Kṛṣṇa), 4411 (?).
+as a bull. § 567 (Bhagavadyānap.): V, {@130,@} 4410 (slain
+by Kṛṣṇa), 4411 (?).
 <HI>{@Ariṣṭanemi,@}¦ add: cf. V, 2578 ({%°-iṃ Garuḍam Suparṇaṃ%}
-<>{%Hariṃ,%} in some verses praising Kṛṣṇa).
+{%Hariṃ,%} in some verses praising Kṛṣṇa).
 <HI>{@Arivindavaktra,@}¦ misprint for Aravindavaktra (v. above).
 <HI>{@Arjava(ṃ)@}¦ = Śiva (1000 names<sup>1</sup>).
 <HI>{@Arjuna@}<sup>1</sup>,¦ add: § 325 (Draupadīparitāpav.): III, {@27,@} 1012
-<>{%(bahubāhunā).%}
+{%(bahubāhunā).%}
 <HI>{@Arjuna@}<sup>2</sup>:¦ I, 5252, read 5257, and add: 5269, 5396, 5534—5,
-<>5820 (6490), 7974, 8082—3, 8207; II, 666; III, (923),
-<>1515, 1815, 11936, (11992), (12079), (12103), (12132), (12162),
-<>(12196—7), (12212), (12274), 14995, (15018), 15178, 15340,
-<>†15607, (15752), 17225, (17244), 17289; IV, 1455, 1553,
-<>(1926); V, †653; {@48,@} 1831 read: {@49,@} 1931; (2920);
-<>VI, (851), (859), (882), 1189, (†1261), (†1282), 1488, 3564,
-<>5291, 5806/7 (only B.); VII, 1964, (2586), (3150), 3398,
-<>4958, 6121, 6474 (only B.), 8183, 8603 (instead of 8605),
-<>9114, 9391, 9433, (9497); VIII, 325 (only B.), †702, †710,
-<>734, 2354 (only B.), (†3289), (3298), (†3358), (†3493),
-<>(†3587), (4010), †4621, 4706, 4798.
+5820 (6490), 7974, 8082—3, 8207; II, 666; III, (923),
+1515, 1815, 11936, (11992), (12079), (12103), (12132), (12162),
+(12196—7), (12212), (12274), 14995, (15018), 15178, 15340,
+†15607, (15752), 17225, (17244), 17289; IV, 1455, 1553,
+(1926); V, †653; {@48,@} 1831 read: {@49,@} 1931; (2920);
+VI, (851), (859), (882), 1189, (†1261), (†1282), 1488, 3564,
+5291, 5806/7 (only B.); VII, 1964, (2586), (3150), 3398,
+4958, 6121, 6474 (only B.), 8183, 8603 (instead of 8605),
+9114, 9391, 9433, (9497); VIII, 325 (only B.), †702, †710,
+734, 2354 (only B.), (†3289), (3298), (†3358), (†3493),
+(†3587), (4010), †4621, 4706, 4798.
 <P>Add to the synonyms:—
 <HI>{@Bībhatsu:@}¦ III, 10877; V, 5429 (only B.); VI, 2466,
-<>4658; VII, 3247, 9224 (only B.), 9392.
+4658; VII, 3247, 9224 (only B.), 9392.
 <P>{@Bṛhannalā:@} IV, (1226), (1249).
 <P>{@Śakrātmaja:@} I, †7316.
 <P>{@*Śvetāśva,@} etc., ought to have been marked by asterisks,
-<>as only selected places are quoted.
+as only selected places are quoted.
 <P>{@Dhanañjaya:@} III, 10877; IV, 1602 (only B.); VI, 2395,
-<>4998; VII, 2662, 2840, 3246, 3383, 3396, 4279, 5960, 8190;
-<>VIII, †1983, †1984, 2415, 3630, †4076, 4766.
+4998; VII, 2662, 2840, 3246, 3383, 3396, 4279, 5960, 8190;
+VIII, †1983, †1984, 2415, 3630, †4076, 4766.
 <P>{@Gāṇḍīvadhārin:@} V, 5932; VI, 1533.
 <P>{@Gāṇḍīvin:@} V, 4869.
 <P>{@Guḍākeśa:@} I, 7770; V, 4691; VI, 1224.
 <P>{@Jaya:@} III, 3088, 11525; VIII, †1742.
 <P>{@Jiṣṇu:@} I, 7945; III, 1523, 4019; IV, 1737 (only B.),
-<>2075; VII, 2479, 2783 (read {%Jiṣṇu-priyaṅkaraḥ%}).—Dele:
-<>VI, 2024; VIII, 1435.
+2075; VII, 2479, 2783 (read {%Jiṣṇu-priyaṅkaraḥ%}).—Dele:
+VI, 2024; VIII, 1435.
 <P>{@Kapidhvaja:@} V, 4707, 4785; VI, †786, 849, 5226, 5633
-<>(instead of 5663); VII, 109, 2478; VIII, 1829, †3296,
-<>†4952.
+(instead of 5663); VII, 109, 2478; VIII, 1829, †3296,
+†4952.
 <P>{@Kapiketana:@} V, 2202; VIII, 4479.
 <P>{@Kapipravara,@} read: {@Kapipravaraketana@} (“with the
-<>excellent ape in the banner”) and add: IV, 1442; VII,
-<>1209; VIII, 2179.
+excellent ape in the banner”) and add: IV, 1442; VII,
+1209; VIII, 2179.
 <P>{@Kapirājadhvaja@} (= do.): VII, 3013.—{@Kapirājaketu@}
-<>(= do.): VI, †2657, †2670, †2677, †2678.
+(= do.): VI, †2657, †2670, †2677, †2678.
 [Page795-a+ 59]
 <P>{@Kapivaradhvaja:@} VII, 2821; VIII, 4123.
 <P>{@Kirīṭamālin:@} III, †11908; IV, †1689, 2029; VI, †2627,
-<>†2676; VII, 3276, †6146, †6148; VIII, †3287, †3866,
-<>†4514, †4582, †4615, †4797.
+†2676; VII, 3276, †6146, †6148; VIII, †3287, †3866,
+†4514, †4582, †4615, †4797.
 <P>{@Kirīṭavat:@} VIII, 4733.
 <P>{@Kirīṭin:@} I, 535 (only B.); IV, 1590 (do.); V, 2358;
-<>VI, †2586, 3586, 5617; VII, 739 (only B.), 6535, 8081;
-<>VIII, 4023/4 (only B.).
+VI, †2586, 3586, 5617; VII, 739 (only B.), 6535, 8081;
+VIII, 4023/4 (only B.).
 <P>{@Phālguna:@} I, 5522 (only B.); III, 1903; VII, 1453,
-<>4241, 6458/9 (only B.), 6991, 9227; VIII, †3396/7 (only B.),
-<>4105.
+4241, 6458/9 (only B.), 6991, 9227; VIII, †3396/7 (only B.),
+4105.
 <P>{@*Savyasācin,@} add: (only selected passages).
 <P>{@Sitāśva@} (“with white horses”): III, †11898.
 <P>{@Tāpatya:@} I, 6509, 6632.—{@Tāpatyavardhana@} (= do.):
-<>I, 6505.
+I, 6505.
 <P>{@Vānaradhvaja:@} VI, 3865, 5360, 5550; VII, 1416, 2495.—
-<>{@Vānaraketana:@} VII, 6762.—{@Vānaraketu:@} V, 1859.—
-<>{@Vānarapravaradhvaja:@} VII, 742.—{@Vānararṣabhalak-@}
-<>{@ṣaṇa:@} VII, 5101.
+{@Vānaraketana:@} VII, 6762.—{@Vānaraketu:@} V, 1859.—
+{@Vānarapravaradhvaja:@} VII, 742.—{@Vānararṣabhalak-@}
+{@ṣaṇa:@} VII, 5101.
 <P>{@Vijaya:@} III, 425, 11334; IV, 1725; V, 3219; VI,
-<>3619; VII, 3891, 4545/6 (only B.); VIII, 4441.
+3619; VII, 3891, 4545/6 (only B.); VIII, 4441.
 <P>[Cf. also Ājamīḍha<sup>6</sup>, Bhā̆rataśreṣṭha, Bhāratāgrya,
-<>Bharata-rathaśreṣṭha, °-rshabha, °-sattama, Śākhāmṛga-
-<>dhvaja (v. Add.), Dviyodha, Indraprabhava, Kaurava-
-<>nandana, °-rājaputra, °-rshabha, °-sattama, Kuntibhojāt-
-<>majāputra, Kuntīmātṛ, Kuntinandana, Kuntīsuta, Kuru-
-<>śārdūla, °-śreṣṭha, °-ūdvaha, °-kulaśreṣṭha, °-kulodvaha,
-<>°-mukhya, °-nandana, °-Pāṇḍavasattama, °-pravīra,
-<>°-puṅgava, °-rājaputra, °-sattama, °-ūttama, °-vīra,
-<>°-vīramukhya, Mahendratanaya, Nivātakavacāntaka,
-<>Pākaśāsana-dāyāda, °-nandana, Pāṇḍavaśreṣṭha, °-āgrya,
-<>°-mukhya, °-nandana, °-rshabha, °-vīra, °-yodha, Pāṇḍu-
-<>putra, °-sūnu, °-suta, °-tanaya, Purandarasuta, Saṃśaptaka-
-<>nihantṛ, °-niṣūdana, Sarvakurūttama, Surarājaputra,
-<>Surasūnu.
+Bharata-rathaśreṣṭha, °-rshabha, °-sattama, Śākhāmṛga-
+dhvaja (v. Add.), Dviyodha, Indraprabhava, Kaurava-
+nandana, °-rājaputra, °-rshabha, °-sattama, Kuntibhojāt-
+majāputra, Kuntīmātṛ, Kuntinandana, Kuntīsuta, Kuru-
+śārdūla, °-śreṣṭha, °-ūdvaha, °-kulaśreṣṭha, °-kulodvaha,
+°-mukhya, °-nandana, °-Pāṇḍavasattama, °-pravīra,
+°-puṅgava, °-rājaputra, °-sattama, °-ūttama, °-vīra,
+°-vīramukhya, Mahendratanaya, Nivātakavacāntaka,
+Pākaśāsana-dāyāda, °-nandana, Pāṇḍavaśreṣṭha, °-āgrya,
+°-mukhya, °-nandana, °-rshabha, °-vīra, °-yodha, Pāṇḍu-
+putra, °-sūnu, °-suta, °-tanaya, Purandarasuta, Saṃśaptaka-
+nihantṛ, °-niṣūdana, Sarvakurūttama, Surarājaputra,
+Surasūnu.
 <HI>{@Ārjuni@}<sup>1</sup>,¦ add: VII, 1708, 1857, 1869.—Do.<sup>3</sup> (so read instead
-<>of Arjuni<sup>3</sup>): VII, 1738, read: VI, 1738.
+of Arjuni<sup>3</sup>): VII, 1738, read: VI, 1738.
 <HI>{@*Arka@}<sup>1</sup>:¦ I, 42 (add: a son or form of Vivasvat; cf.
-<>Āśāvaha); add: V, 4909; VII, 8681.
+Āśāvaha); add: V, 4909; VII, 8681.
 <HI>{@Ārkṣa@}¦ (“son of Ṛkṣa”) = Saṃvaraṇa: I, 3725 {%(S°).%}
 <HI>{@Arocaka@}¦ (pl. {%°-āḥ%}), a people. § 578 (Bhīṣmavadhap.):
-<>VI, {@51<lang n="greek"></lang>,@} 2097 (only B., C. has {%Recakāḥ%}).
+VI, {@51<lang n="greek"></lang>,@} 2097 (only B., C. has {%Recakāḥ%}).
 <HI>{@Ārṣabha,@}¦ add: VII, {@147,@} 6342.
 <HI>{@Arṣṭiṣeṇa@}<sup>1</sup>,¦ read: {@Ā°,@} and add: § 786 (Anugītāp.):
-<>XIV, {@91<lang n="greek"></lang>,@} 2843.
+XIV, {@91<lang n="greek"></lang>,@} 2843.
 <HI>{@Aruja,@}¦ read {@Ā°.@}
 <HI>{@Aruṇa@}<sup>1</sup>,¦ add: § 574{%j%} (Mālyavat): VI, {@7,@} 285.—Dele {@Aruṇa<sup>3</sup>@}
-<>(cf. Varuṇa<sup>4</sup>), and insert: {@Aruṇa<sup>3</sup>,@} a serpent: XVI, 119
-<>(only B., C. has {%Varuṇa<sup>3</sup>,%} q.v.).
+(cf. Varuṇa<sup>4</sup>), and insert: {@Aruṇa<sup>3</sup>,@} a serpent: XVI, 119
+(only B., C. has {%Varuṇa<sup>3</sup>,%} q.v.).
 <HI>{@Aruṇā@}<sup>2</sup>,¦ add: III, 7022 (see Ruṇā).
 <HI>{@Aruṇānuja,@}¦ add: IX, 301.
 <HI>{@Arundhatī,@}¦ add: cf. Akṣamālā.
@@ -629,27 +629,27 @@
 <HI>{@Āsā@}¦ (?): III, 14451 (among the names of Devasenā).
 <HI>{@Āṣāḍha@}<sup>4</sup>,¦ read: {@Aṣāḍhā@} (so B. always; C. sometimes {%Ā°%}).
 <HI>{@Aṣṭaka,@}¦ add: § 267 (Yamasabhāv.): II, {@8,@} 333.—V, {@122,@}
-<>4089. Cf. Kauśika, Mādhavīsuta, Vaiśvāmitra.
+4089. Cf. Kauśika, Mādhavīsuta, Vaiśvāmitra.
 [Page795-b+ 59]
 <HI>{@Aṣṭamūrti@}¦ = Śiva: III, 1939.
 <HI>{@Aṣṭaṅgavidyā@}¦ (“medical science”): VIII, †4594 (only C.)
-<>Cf. II, 224 {%(cikitsāyām aṣṭaṅgāyāṃ)%} and Āyurveda (II,
-<>442).
+Cf. II, 224 {%(cikitsāyām aṣṭaṅgāyāṃ)%} and Āyurveda (II,
+442).
 <HI>{@Asī,@}¦ a river. § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 338 ({%Varuṇām%}
-<>{%Asīṃ,%} C., B. reads {%Varāṇasīṃ%}).
+{%Asīṃ,%} C., B. reads {%Varāṇasīṃ%}).
 <HI>{@Asitasārathi@}¦ = Arjuna: VII, 6197.
 <HI>{@*Asta,@}¦ add: V, 3806 ({%parvataḥ%} (C. {%sarvataḥ%}) {%/°o nama%}); IX,
-<>827 {%(śailāv Astodayāv iva),%} and read IX, 1631 instead of
-<>1651, and XI, 650 instead of X, 650.
+827 {%(śailāv Astodayāv iva),%} and read IX, 1631 instead of
+1651, and XI, 650 instead of X, 650.
 <HI>{@Asti,@}¦ daughter of Jarāsandha and wife of Kaṃsa. § 273
-<>(Rājasūyārambhap.): II, {@14,@} 595 {%(°ḥ Prāptiś ca nāmnā%}
-<>{%te Sahadevānuje).%}
+(Rājasūyārambhap.): II, {@14,@} 595 {%(°ḥ Prāptiś ca nāmnā%}
+{%te Sahadevānuje).%}
 <HI>{@Asura@}<sup>1</sup>,¦ add: I, 2750, 2795; III, 15341 ({%surarahitaṃ,%} read
-<>{%surā°%}); IV, 2176, 2206, 2271; V, 457, 2353, †2580; VI,
-<>2990; VII, 454; XIII, 6624. Cf. Amaradviṣaḥ, Amarāri,
-<>pl., devaśatru, pl., devāri, pl., devaripu, pl., suraśatru,
-<>pl., suradvish, pl., tridaśadviṣ, pl., tridaśāri, pl.,
-<>vibudhadvish, pl.
+{%surā°%}); IV, 2176, 2206, 2271; V, 457, 2353, †2580; VI,
+2990; VII, 454; XIII, 6624. Cf. Amaradviṣaḥ, Amarāri,
+pl., devaśatru, pl., devāri, pl., devaripu, pl., suraśatru,
+pl., suradvish, pl., tridaśadviṣ, pl., tridaśāri, pl.,
+vibudhadvish, pl.
 <HI>{@Asura@}<sup>2</sup>,¦ add to the names of single Asuras.—
 <P>{@Aśvagrīva:@} I, 2653.
 <P>{@Bala:@} II, 897.
@@ -657,218 +657,218 @@
 <P>{@Vṛṣaparvan:@} I, 2651.
 <P>{@Vṛtra:@} I, 2541; VII, 3458; 3472 (only B.).
 <HI>{@Āsura,@}¦ adj., add: II, 12 {%(abhiprāyān),%} 2321 {%(dharmasya);%} VI,
-<>1126 {%(bhāvaṃ),%} 1409 {%(janāḥ),%} 1422 {%(yoniṃ),%} 5009 ({%yuddhān,%}
-<>read {%vyūhān%}); VII, 4646 {%(camūṃ),%} 6348.
+1126 {%(bhāvaṃ),%} 1409 {%(janāḥ),%} 1422 {%(yoniṃ),%} 5009 ({%yuddhān,%}
+read {%vyūhān%}); VII, 4646 {%(camūṃ),%} 6348.
 <HI>{@Asurasūdana:@}¦ XII, 3923, read XIII, 3923.
 <HI>{@Asurāyaṇi,@}¦ read {@Ā°,@} and add (B. has {%°ṇah%}).
 <HI>{@Asurendra,@}¦ add: V, 1073 (= Prahlāda).
 <HI>{@Asurī,@}¦ add: I, 6523.
 <HI>{@Asūrya,@}¦ add: (B. has {%Asuryā%}).
 <HI>{@Āsyamodaka,@}¦ name of a weapon. § 563 (Bhagavadyānāp.):
-<>V, {@96<lang n="greek"></lang>,@} 3491.
+V, {@96<lang n="greek"></lang>,@} 3491.
 <HI>{@Atapana,@}¦ read Ā°.
 <HI>{@Aṭavika,@}¦ add (or Āṭavika): II, 1119; III, 15255
-<>{%(sa-Mlecchā°ān);%} VII, 2188 {%(vasumatīṃ Mlecchā°-varjitāṃ);%}
-<>XII, 2169.
+{%(sa-Mlecchā°ān);%} VII, 2188 {%(vasumatīṃ Mlecchā°-varjitāṃ);%}
+XII, 2169.
 <HI>{@Athida,@}¦ read Aṭh°.
 <HI>{@Ātithi(n),@}¦ read A°.
 <HI>{@Ātman@}<sup>3</sup>,¦ a son or form of Vivasvat: I, 42.
 <HI>{@Atrisuta,@}¦ add: (? {%Nāsatya-Dasr'-Ātrisutodbhavādyaiḥ,%} surgeons
-<>of Indra, only C.).
+of Indra, only C.).
 <HI>{@Aṭṭaśūlapraharaṇā, Aṭṭahāsā@}¦ = Umā (Durgā), q.v.
 <HI>{@Atula@}¦ = Viṣṇu (1000 names) [dele these words under
-<>{@Atulya@}].
+{@Atulya@}].
 <HI>{@Auśanasa,@}¦ add: III, {@285,@} 16369 {%(vyūhaṃ);%} XIII, 5284
-<>(read {%Mārutauśanasaṃ(?),%} B. has {%°se%}).
+(read {%Mārutauśanasaṃ(?),%} B. has {%°se%}).
 <HI>{@Auḍra@}¦ (B. {%Auṃdrāḥ,%} read {%Oṃḍrāḥ%}).
 <HI>{@Audra@}¦ (pl. {%°āḥ%}), add: (or Raudra, pl. {%°āḥ%}).
 <HI>{@Aurva@}<sup>2</sup>,¦ adj. (“belonging to Aurva”); I, 1242 {%(vahniḥ).%}
 <HI>{@Aushija,@}¦ add: I, 224 (only B.) {%(K°);%} II, 112.
 <HI>{@Auṣṇīka@}¦ (pl. {%°āḥ%}), a people. § 295 (Dyūtap.): II, {@51,@}
-<>1837.
+1837.
 <HI>{@Autaṅka,@}¦ add: (B. Auttaṅka).
 <HI>{@Autathya@}¦ (“son of Utatha”) = Dīrghatamas: I, 4182.
 <HI>{@Āvantya:@}¦ (<lang n="greek"></lang>) II, 1915 ({%A°-āḥ…,%} read: {%Ā°as…%}):
-<>II, 2206, add: ({%Ā°au,%} B.); IX, 72 ({%A°o,%} read: {%Ā°o%});
+II, 2206, add: ({%Ā°au,%} B.); IX, 72 ({%A°o,%} read: {%Ā°o%});
 [Page796-a+ 59]
-<>—(<lang n="greek"></lang>) add: VI, {@47<lang n="greek"></lang>,@} 1851 (only B.), {@49,@} 2014/15 (do.);—
-<>(<lang n="greek"></lang>) IX, 93, add: (only C., B. {%Ā°aḥ%});—(<lang n="greek"></lang>) add: § 556
-<>(Sañjayayānap.): V, {@30,@} 889 (only C, B. has {%Ambaṣṭhāḥ%}).
+—(<lang n="greek"></lang>) add: VI, {@47<lang n="greek"></lang>,@} 1851 (only B.), {@49,@} 2014/15 (do.);—
+(<lang n="greek"></lang>) IX, 93, add: (only C., B. {%Ā°aḥ%});—(<lang n="greek"></lang>) add: § 556
+(Sañjayayānap.): V, {@30,@} 889 (only C, B. has {%Ambaṣṭhāḥ%}).
 <HI>{@Avikshit@}<sup>2</sup>,¦ add: § 767 (Ānuśāsanik.): XIII, {@137<lang n="greek"></lang>,@} 6260
-<>{%(Marutto 'vikṣitaḥ sutaḥ).%} Cf. Kārandhama<sup>2</sup>.
+{%(Marutto 'vikṣitaḥ sutaḥ).%} Cf. Kārandhama<sup>2</sup>.
 <HI>{@Avikshita,@}¦ read: Āvikṣita<sup>1</sup>.
 <HI>{@Avikshita@}<sup>2</sup>,¦ adj.: XIV, 1882 {%(dhanaṃ).%}
 <HI>{@Avisthala,@}¦ add: § 556 (Sañjayayānap.): V, {@31,@} 934 (only
-<>B., C. has {%Kuśasthalaṃ%}).
+B., C. has {%Kuśasthalaṃ%}).
 <HI>{@Avṛhaka,@}¦ dele this article, and see Bṛhaka (Vṛhaka).
 <HI>{@Avṛtta:@}¦ V, 3630, add: {%(Saṃvṛtto Vṛtta eva ca),%} cf. I, 1555
-<>(see Vṛtta).
+(see Vṛtta).
 <HI>{@*Avyaya,@}¦ add: I, 1593 ({%devaḥ%} = Brahmán), 2430—32 (i.e.
-<>Nārāyaṇa), 2494 ({%devaṃ%} = Brahmán); III, 8125
-<>{%(Viṣṇuṃ),%} 10919 {%(Viṣṇuḥ),%} 13556 {%(Viṣṇuṃ);%} V, 288
-<>(do.), 3502 (= Brahmán), 4503 {%(Viṣṇuḥ);%} VI, 1182
-<>({%bhūtādiṃ%} = Kṛṣṇa), 3000 {%(Vāsudevaṃ);%} VII, 9578
-<>{%(Brahmāṇaṃ).%}
+Nārāyaṇa), 2494 ({%devaṃ%} = Brahmán); III, 8125
+{%(Viṣṇuṃ),%} 10919 {%(Viṣṇuḥ),%} 13556 {%(Viṣṇuṃ);%} V, 288
+(do.), 3502 (= Brahmán), 4503 {%(Viṣṇuḥ);%} VI, 1182
+({%bhūtādiṃ%} = Kṛṣṇa), 3000 {%(Vāsudevaṃ);%} VII, 9578
+{%(Brahmāṇaṃ).%}
 <HI>{@Ayati@}¦ and {@Āyāti.@} § 136 (Yayātyup.), read: § 143 (Nahusha).
 <HI>{@Ayavāha,@}¦ pl., see Apavāha, pl. above.
 <HI>{@Ayobhuja,@}¦ son of Dhṛtarāṣṭra. § 600 (Ghaṭotkacavadhap.):
-<>VII, {@157<lang n="greek"></lang>,@} 6938 (slain by Bhīma). Cf. Ayobāhu.
+VII, {@157<lang n="greek"></lang>,@} 6938 (slain by Bhīma). Cf. Ayobāhu.
 <HI>{@Āyu(s),@}¦ add: § 142 (Nahuṣa): I, {@75,@} 3151 {%(Āyuṣo Nahuṣaḥ%}
-<>{%putraḥ);%} III, {@180,@} 12461 ({%Āyoḥ putraḥ,%} i.e. Nahuṣa).
+{%putraḥ);%} III, {@180,@} 12461 ({%Āyoḥ putraḥ,%} i.e. Nahuṣa).
 <H>B
 <HI>{@Babhru@}<sup>1</sup>,¦ add: § 589 (Droṇābhiṣekap.): VII, {@11<lang n="greek"></lang>,@} 409.
 <HI>{@Babhru@}<sup>6</sup>.¦ a Kāśi prince. § 556 (Sañjayayānap.); V, {@28,@} †806
-<>({%Kāśyaḥ,%} attained to prosperity through the favour of
-<>Kṛṣṇa).
+({%Kāśyaḥ,%} attained to prosperity through the favour of
+Kṛṣṇa).
 <HI>{@Babhru@}<sup>7</sup>.¦ § 561 (Yānasandhip.): V, {@57<lang n="greek"></lang>,@} 2264 (in the army
-<>of Yudhiṣṭhira).
+of Yudhiṣṭhira).
 <HI>{@Badarī.@}¦ § 333{%b%} (Arjunap.), read (Arjuna<sup>2</sup>).
 <HI>{@Badhirāndha,@}¦ add: (only C., B. reads {%Badhirāndhau,%} i.e.
-<>Badhira and Andha).
+Badhira and Andha).
 <HI>{@Bahirgiri@}¦ (C.) or {@Bahirgirya@} (B.), name of a country or its
-<>people. § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 357.
+people. § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 357.
 <HI>{@Bāhuli,@}¦ son of Viśvāmitra. § 721{%b%} (Viśvāmitrop.): XIII,
-<>{@4<lang n="greek"></lang>,@} 252 (only C., B. has {%Vāduliḥ%}).
+{@4<lang n="greek"></lang>,@} 252 (only C., B. has {%Vāduliḥ%}).
 <HI>{@Bahurūpa,@}¦ add: Do.<sup>2</sup>, a Rudra. § 665 (Mokṣadh.): XII,
-<>{@208<lang n="greek"></lang>,@} 7585.
+{@208<lang n="greek"></lang>,@} 7585.
 <HI>{@Bahuvadyāḥ,@}¦ read {@Bahuvādyāḥ,@} v. Bāhubādhāḥ.
 <HI>{@Bahuvedya,@}¦ read {@Bahuvidya.@}
 <HI>{@Baka@}<sup>5</sup>,¦ add: (B. reads {%Vyūkāḥ%}).
 <HI>{@Bakanakha,@}¦ add: (C. has by error {%Vakanakaḥ%}).
 <HI>{@Bala@}<sup>1</sup>,¦ add: VI, 1714 (only B.); VII, 5507 (do., C. reads
-<>{%badhāya%}); VIII, †3869 {%(yathā Marutvān °bhedane purā),%}
-<>†4963 (only B., C. has {%Baliṃ%}).
+{%badhāya%}); VIII, †3869 {%(yathā Marutvān °bhedane purā),%}
+†4963 (only B., C. has {%Baliṃ%}).
 <HI>{@Bala@}<sup>9</sup>,¦ read = Śiva (1000 names<sup>2</sup>).
 <HI>{@Bālabhadrāḥ,@}¦ add: (B. reads {%Bala°%}).
 <HI>{@Balabhedana,@}¦ dele this article (cf. Bala<sup>1</sup> above).
 <HI>{@Balabhid,@}¦ add: I, †1586; III, 10716, 14447, 14583; V, †820;
-<>VII, †8210 (only B., C. has {%Balajit%}).
+VII, †8210 (only B., C. has {%Balajit%}).
 <HI>[{@Baladevatīrthayātrā@}],¦ in (IX, {@43@}) the words “D. and Dā.,
-<>Dai., and a Rā., named {%Tāraka%}” ought to be corrected into:
-<>D. and Dā., Dai., and Rā., named after the Asura {%Tāraka.%}
+Dai., and a Rā., named {%Tāraka%}” ought to be corrected into:
+D. and Dā., Dai., and Rā., named after the Asura {%Tāraka.%}
 <HI>{@Balāhaka@}<sup>2</sup>,¦ add: § 562 (Bhagavadyānap.): V, {@83,@} 2938.
 <HI>{@Balajit@}¦ Indra: VII, †8210 (only C., B. has {%Balabhid%}).
 <HI>{@Balāka,@}¦ add: § 641 (Rājadh.): XII, {@109,@} 4029 {%(°o 'ndhavadhāa%}
-<>{%iva).%}
+{%iva).%}
 [Page796-b+ 60]
 <HI>{@Balanisūdana,@}¦ add: (B. always {%Balaniṣūdana%}).
 <HI>{@Bala-Rāma,@}¦ add: I, {@207,@} 7595 (R.)—[§ 611 (Śalyap.): IX,
-<>{@12,@} 598 (R., {%Yadunandanāt%})].—IX, {@35,@} 1988 (B.D.); {@52,@}
-<>3004 (Hal.); {@55,@} 3106 (R.); {@60,@} 3348 (B.D., only B.).—
-<>Dele: V, 2197; VIII, 1952.—(Cf. also the following
-<>synonyms: Bala, Balabhadra, Baladeva, Śauri, Halabhṛt,
-<>Haladhara, Halāyudha, Halin, Keśavāgraja, Keśavapūrvaja,
-<>Lāṅgaladhārin, Lāṅgaladhvaja, Lāṅgalin, Mādhava,
-<>Mādhavottama, Madhupravīra, Muṣalāyudha, Nīlavāsas,
-<>Pralambahan, Rāma,<sup>2</sup> Rauhiṇeya, Rohiṇinandana, Rohiṇī-
-<>suta, Saṅkarṣaṇa, Sarvalokeśvara, Sātvata, Sīrabhṛt,
-<>Sita, Tāladhvaja, Tālaketu, Vanamālin, Vārṣṇeya,
-<>Vāsudeva, Vṛṣṇipravara, Vṛṣṇivīra (dual), Yādava (dual),
-<>Yaduśreṣṭha, Yadunandana, Yadupravīra (sg. and dual),
-<>Yadusiṃha, Yaduvara (dual).
+{@12,@} 598 (R., {%Yadunandanāt%})].—IX, {@35,@} 1988 (B.D.); {@52,@}
+3004 (Hal.); {@55,@} 3106 (R.); {@60,@} 3348 (B.D., only B.).—
+Dele: V, 2197; VIII, 1952.—(Cf. also the following
+synonyms: Bala, Balabhadra, Baladeva, Śauri, Halabhṛt,
+Haladhara, Halāyudha, Halin, Keśavāgraja, Keśavapūrvaja,
+Lāṅgaladhārin, Lāṅgaladhvaja, Lāṅgalin, Mādhava,
+Mādhavottama, Madhupravīra, Muṣalāyudha, Nīlavāsas,
+Pralambahan, Rāma,<sup>2</sup> Rauhiṇeya, Rohiṇinandana, Rohiṇī-
+suta, Saṅkarṣaṇa, Sarvalokeśvara, Sātvata, Sīrabhṛt,
+Sita, Tāladhvaja, Tālaketu, Vanamālin, Vārṣṇeya,
+Vāsudeva, Vṛṣṇipravara, Vṛṣṇivīra (dual), Yādava (dual),
+Yaduśreṣṭha, Yadunandana, Yadupravīra (sg. and dual),
+Yadusiṃha, Yaduvara (dual).
 <HI>{@*Bala-Vṛtra-han,@}¦ add: III, 2120, 2233, 9992, 9996; V, 3671,
-<>3681; XIV, 167 (only C., B. has {%Balasūdanaḥ%})
+3681; XIV, 167 (only C., B. has {%Balasūdanaḥ%})
 <HI>{@Bālhī,@}¦ a country. § 295 (Dyūtap.): II, {@51,@} 1846 ({%°-Cīna-%}
-<>{%samudbhavaṃ,%} only B.).
+{%samudbhavaṃ,%} only B.).
 <HI>{@Bālhī̆ka@}<sup>3</sup>,¦ add: § 232 (Svayaṃvarap.): I, {@186,@} 7001.
 <HI>{@Bālhī̆ka@}<sup>7</sup>,¦ add: VI, 354; VIII, 2762 (B. {%Vāhīkān%}).
 <HI>{@Bālhī̆ka@}<sup>8</sup>,¦ add: I, 2667 {%(Prahlādo nāma).%}
 <HI>{@Bālhī̆ka-puṅgava,@}¦ add: (B. reads {%Vāhīka-°%}).
 <HI>{@Bali@}<sup>1</sup>,¦ XI, 646 (add: B. reads {%tv Ahinā yathā%}).
 <HI>{@Balīna,@}¦ I, 2679 (read: {%Asurottamaḥ,%} B. has {%Balīvīra iti…%}
-<>{%Asurottamaḥ%}).
+{%Asurottamaḥ%}).
 <HI>{@Ballavāḥ,@}¦ see also Vallabha, pl.
 <HI>{@Bandin,@}¦ ({%V°,%} C.), name of a sūta: III, 10612 (cf. I, 450).
 <HI>{@Bārhaspatya,@}¦ add: § 640 (Rājadharm.): XII, {@56,@} 2023/24
-<>({%śāstre,%} only B.).
+({%śāstre,%} only B.).
 <HI>{@Bhadrā@}<sup>2</sup>,¦ add: § 270 (Brahmasabhāv,): II, {@11,@} 458.
 <HI>{@Bhadrā@}<sup>3</sup>,¦ add: (probably identical with Bhadrā<sup>6</sup>).
 <HI>{@Bhadramanas,@}¦…Krodha, read Krodhavaśā.
 <HI>{@Bhadravaṭa,@}¦ add: § 358 (Tīrthayātrāp.): III, {@82,@} 4092 (only
-<>B., C. has {%Rudravaṭaṃ%}).
+B., C. has {%Rudravaṭaṃ%}).
 <HI>{@Bhagadatta,@}¦ add: V, †5531 (only C.); VI, 3532 (only B., C.
-<>has {%Somadattaḥ%}); 3855 (only C., B. has {%Prāgjyotiṣād%});
-<>4294; 5280/81 (only B.). Cf. the synonyms Mleccha,
-<>Parvatapati, Parvateśvara, Prāgjyotiṣa, Prāgjyoti-
-<>ṣādhipa, Prāgjyotiṣapati, Yavanādhipa.
+has {%Somadattaḥ%}); 3855 (only C., B. has {%Prāgjyotiṣād%});
+4294; 5280/81 (only B.). Cf. the synonyms Mleccha,
+Parvatapati, Parvateśvara, Prāgjyotiṣa, Prāgjyoti-
+ṣādhipa, Prāgjyotiṣapati, Yavanādhipa.
 <HI>{@Bhaganetrahan:@}¦ II, 420, read 402.
 <HI>[{@Bhagavadgītāparvan@}]:¦ VI, {@19,@} {%(śucīmukha),%} read {%(sūcīmukha).%}
 <HI>{@Bhaima@}¦ (pl. patron.), add: (or adj. = relating to Bhīma).
 <HI>{@Bhaimaseni@}<sup>2</sup>,¦ add: I, 6081/82 (only B.)
 <HI>{@Bhaimi,@}¦ add: VII, 8016 (only B., C. has {%Bhīmaṃ%}).
 <HI>{@Bhānu@}<sup>2</sup>:¦ I, 42 (add: a son or form of Vivasvat, cf. Āśāvaha);
-<>dele XVIII, 162.—Do.<sup>5</sup> (a man), read: (a Vṛṣṇi prince);
-<>add: § 511 (Draupadī-Satyabhāmās.): III, {@235,@} 14735.—
-<>§ 795 (Svargārohaṇap.): XVIII, {@5<lang n="greek"></lang>,@} 162.
+dele XVIII, 162.—Do.<sup>5</sup> (a man), read: (a Vṛṣṇi prince);
+add: § 511 (Draupadī-Satyabhāmās.): III, {@235,@} 14735.—
+§ 795 (Svargārohaṇap.): XVIII, {@5<lang n="greek"></lang>,@} 162.
 <HI>{@Bhānudatta,@}¦ one of five brothers of Śakuni. § 600 (Ghaṭotka-
-<>cavadhap.): VII, {@157<lang n="greek"></lang>,@} 6944/45 (in a half-śloka wanting
-<>in C.).
+cavadhap.): VII, {@157<lang n="greek"></lang>,@} 6944/45 (in a half-śloka wanting
+in C.).
 <HI>{@Bhānumat@}<sup>2</sup>,¦ add: VI, {@53<sup>6</sup>,@} 2230 ({%Bhānumantaṃ,%} B., C. has
-<>{%Kāliṅgaṃ%}).
+{%Kāliṅgaṃ%}).
 <HI>{@Bharadvāja@}<sup>1</sup>,¦ add: III, (10740), (10781); XII, 2094 (only B.,
-<>C. has {%Bhā°%}).
+C. has {%Bhā°%}).
 <HI>{@Bhāradvāja@}<sup>4</sup>,¦ add: VI, 3597; VII, 3988, 7678; XII, 2094
-<>({%Bha°,%} B.).
+({%Bha°,%} B.).
 <HI>{@Bharata@}<sup>1</sup>,¦ add: § 409 (Plakṣāvataraṇag.): III, {@129,@} 10527
-<>(performed a horse-sacrifice).
+(performed a horse-sacrifice).
 [Page797-a+ 59]
 <HI>{@Bharata@}<sup>4</sup>,¦ add: V, 2596, 2736, 2781, 5652/53 (B.); VI,
-<>5381/82 (B.); VII, 7696 (B.)
+5381/82 (B.); VII, 7696 (B.)
 <HI>{@Bhārata@}<sup>1</sup>,¦ add: V, 5780 {%(°yuddhasya);%} VII, 1725 {%(°sainyānāṃ).%}
 <HI>{@Bhārata@}<sup>3</sup>,¦ add: VII, 7657 ({%°ī camūḥ,%} only B.), 8793 (sc.
-<>{%mārgaṃ%}).
+{%mārgaṃ%}).
 <HI>{@Bhārata@}<sup>4—17</sup>,¦ add: [the list of quotations is not quite complete,
-<>the name is also occasionally (wrongly) applied to other
-<>persons: VI, 2508 (C. = Sañjaya), 2509 (only B. do.),
-<>4584 (only C., B. has {%Sañjaya%})].
+the name is also occasionally (wrongly) applied to other
+persons: VI, 2508 (C. = Sañjaya), 2509 (only B. do.),
+4584 (only C., B. has {%Sañjaya%})].
 <HI>{@Bhārata@}<sup>18</sup>,¦ add: I, 100/01 (only B.); VI, 1532/33 (do.);
-<>XVIII, 192/93 (do., {%mahat%}); 211/12 {%(°kathāṃ)%} only B.).
+XVIII, 192/93 (do., {%mahat%}); 211/12 {%(°kathāṃ)%} only B.).
 <HI>{@Bhārata@}<sup>20</sup>¦ (= {%Bha°varṣa,%} read: {%Bhā°varṣa%}).
 <HI>{@Bharataśreṣṭha@}<sup>1—10</sup>¦ (not quite complete), add: [wrongly
-<>applied to Kṛṣṇa, XI, 481/82 (B.)].
+applied to Kṛṣṇa, XI, 481/82 (B.)].
 <HI>{@Bharatarshabha@}<sup>1—10</sup>¦ (not quite complete), add: (5) Dhṛṣṭa-
-<>dyumna: VI, 2066 (only C., B. has {%puruṣarṣabha%}).—
-<>Dele (7) Droṇa and add to (8) Duryodhana: VII, 684.—
-<>Wrongly applied to Karṇa: VIII, 1690 (only C.).
+dyumna: VI, 2066 (only C., B. has {%puruṣarṣabha%}).—
+Dele (7) Droṇa and add to (8) Duryodhana: VII, 684.—
+Wrongly applied to Karṇa: VIII, 1690 (only C.).
 <HI>{@Bharatarshabhau,@}¦ add: = Bhīṣma and Arjuna: IV, 2057;
-<>= Bhīma and Arjuna: VI, 5298, 5301.
+= Bhīma and Arjuna: VI, 5298, 5301.
 <HI>{@Bhāratasattama,@}¦ add: = Yudhiṣṭhira: VII, 7270 (B. has
-<>{%Bha°%}).
+{%Bha°%}).
 <HI>{@Bhārgava@}<sup>2</sup>,¦ add: III, 10441 (= Bhṛgunandana<sup>1</sup>).
 <HI>{@Bhārgava@}<sup>4</sup>,¦ add: III, 10374; IV, 550 read: IV, 650.
 <HI>{@Bhārgava@}<sup>8</sup>,¦ add: (but read with B. {%Bhārgavaṃ%}) = Vipula).
 <HI>{@Bhārgava@}<sup>11</sup>,¦ dele: I, 3175; III, 220 (add: (?) PCR. Uśanas);
-<>V, 1475 (add: PCR. Uśanas); add 7059, 7320; XII,
-<>2086 (add: probably = Vālmīki, cf. Hopkins: Great
-<>Epic, p. 61).
+V, 1475 (add: PCR. Uśanas); add 7059, 7320; XII,
+2086 (add: probably = Vālmīki, cf. Hopkins: Great
+Epic, p. 61).
 <HI>{@Bhārgava@}<sup>13</sup>,¦ add: III, 10648.
 <HI>{@Bhārgavanandana@}<sup>3</sup>¦ = Śunaka: I, 940/41 (only B.).
 <HI>{@*Bhāskara@}<sup>1</sup>,¦ add: III, 200 (B.); VI, 3831; VII, 7546 (B.);
-<>VIII, †4809 (only C.); XII, 2577/78 (by error wanting
-<>in C.).
+VIII, †4809 (only C.); XII, 2577/78 (by error wanting
+in C.).
 <HI>{@Bhauma@}<sup>1</sup>,¦ add: V, †2421 {%(°sya hantā…Vāsudevaḥ).%}
 <HI>{@Bhaumana,@}¦ add: V, †4816.
 <HI>{@Bhīma@}<sup>5</sup>¦ = Śiva, q.v.; dele (1000 names<sup>2</sup>).
 <HI>{@Bhīma@}<sup>6</sup>,¦ add: II, (2251) (Bh.); III, 11820 (Bhs.), 12459
-<>(Bhs.); IV, (641) (Bhs.), 712 (Bhs., only C.); VI, 1650
-<>(Bhs., only B.), 3345 (Bhs.), 3563 (Bh., read with B.
-<>{%Bhīṣmaṃ%}), 5184 to be inserted after {@111,@} 5183; VIII,
-<>2202—3 (Bh.).
+(Bhs.); IV, (641) (Bhs.), 712 (Bhs., only C.); VI, 1650
+(Bhs., only B.), 3345 (Bhs.), 3563 (Bh., read with B.
+{%Bhīṣmaṃ%}), 5184 to be inserted after {@111,@} 5183; VIII,
+2202—3 (Bh.).
 <P>Add to the synonyms:—
 <P>{@Anilātmaja:@} I, 6240; VIII, 3820.—{@Anilaprabhava@} (do.):
-<>III, †14745.
+III, †14745.
 <P>{@Bhārata,@} etc. (q.v.).
 <P>{@Dhanañjayāgraja@} (q.v.).
 <P>{@Māruti:@} VIII, 2435.—{@Marutsuta@} (q.v.).
 <P>{@Somavaṃśīya@} (q.v.).
 <P>{@Vātātmaja, Vāyutanaya@} (q.v.).
 <P>{@Vṛkodara:@} I, 2451, 4774, 5067/8 (only B.), 5520, 5902,
-<>6279—80, 7113; II, 927, 929; III, 456, 542, 10841, †12357,
-<>12434, 14936, 15750; V, 2061 2179, 2183, 2261; VI, 2827
-<>(only B.), 3361 (do.), 4205 (do.); VII, 1154, 7207 (only B.),
-<>7161/2 (do.); VIII, 3301, †4215.
+6279—80, 7113; II, 927, 929; III, 456, 542, 10841, †12357,
+12434, 14936, 15750; V, 2061 2179, 2183, 2261; VI, 2827
+(only B.), 3361 (do.), 4205 (do.); VII, 1154, 7207 (only B.),
+7161/2 (do.); VIII, 3301, †4215.
 <HI>{@Bhīma@}<sup>10</sup>,¦ add: III, 2655, 2758—59.—Cf. Vidarbha, Vidar-
-<>bhādhipati, Vidarbhapati, Vidarbharāja.
+bhādhipati, Vidarbhapati, Vidarbharāja.
 <HI>{@Bhīmā@}<sup>2</sup>,¦ add: § 494 (Āṅgirasa): III, {@222,@} 14232.
 <HI>{@Bhīmapūrvaja,@} add: V, 4689.
 [Page797-b+ 59]
@@ -877,11 +877,11 @@
 <P>{@Bhīṣma,@} add to the synonyms:—
 <P>{@Āpagāsuta:@} IV, 1985.
 <P>{@Āpageya:@} I, †181; II, 1340, 1785; V, 5314, 6085, 6092,
-<>7311; VII, 436; VIII, 18; XII, 1907, XIII, 588, 614.
+7311; VII, 436; VIII, 18; XII, 1907, XIII, 588, 614.
 <P>{@Bharatasṃha@} (q.v.).
 <P>{@Gāṅgeya:@} V, 7389; VI, 1958 (only B.), 2027/8 (do.)
-<>2348 (do.), 4849 (do.), 4994; VII, 5648 (only B.); VIII
-<>30, 34.
+2348 (do.), 4849 (do.), 4994; VII, 5648 (only B.); VIII
+30, 34.
 <P>{@Kauravāgrya, Kurusiṃha@} (q.v.).
 <P>{@Mahānadīsuta, Nadīsuta, Nimnagāsuta@} (q.v.).
 <P>{@Pitāmaha,@} read {@*Pitāmaha@} (only selected passages).
@@ -889,60 +889,60 @@
 <P>{@Tālaketu@} (q.v.).
 <P>{@Vasusambhava@} (q.v.).
 <HI>{@Bhīṣmaka@}<sup>2</sup>,¦ add: Cf. Bhoja<sup>2</sup>. Dākṣiṇātyapati,
-<>Hiraṇyaroman.
+Hiraṇyaroman.
 <HI>{@Bhīṣmavadhaparvan,@}¦ after the word “Universe” (VI, {@65@})
-<>add: (v. 2967—8, according to the reading of B.).—In
-<>(VI, {@106@}) instead of “{%Bhīṣma%} and the {%Sauvīras%}” read:
-<>{%Bhīṣma%} + the {%Sauvīras%} (otherwise PCR.).—In (VI, {@119@})
-<>instead of “the {%Sauvīras,%} etc. (<lang n="greek"></lang>), abandoned” read: did
-<>not abandon.
+add: (v. 2967—8, according to the reading of B.).—In
+(VI, {@106@}) instead of “{%Bhīṣma%} and the {%Sauvīras%}” read:
+{%Bhīṣma%} + the {%Sauvīras%} (otherwise PCR.).—In (VI, {@119@})
+instead of “the {%Sauvīras,%} etc. (<lang n="greek"></lang>), abandoned” read: did
+not abandon.
 <HI>{@Bhītī,@}¦ v. Bhīṇī.
 <HI>{@Bhoja,@}¦ pl. add: § 317 (Arjunābhigamanap.): III, {@12,@} 461.—
-<>§ 576 (Bhagavadgītāp.): VI, {@20,@} 753.—§ 608 (Karṇap.):
-<>VIII, {@73,@} 3650.
+§ 576 (Bhagavadgītāp.): VI, {@20,@} 753.—§ 608 (Karṇap.):
+VIII, {@73,@} 3650.
 <HI>{@Bhoja@}<sup>1</sup>,¦ add: § 580 (do.): VI, {@57,@} 2452 (only B.).
 <HI>{@Bhoja@}<sup>2</sup>,¦ {%Dākṣiṇapateḥ,%} read: {%Dākṣiṇātyapateḥ.%}
 <HI>{@Bhoja@}<sup>3</sup>¦ {@Mārtikāvata,@} read: {@Mārtikavatika@} (B. {%°taka%}). After
-<>“descendant of Mahābhoja” add: BR.).
+“descendant of Mahābhoja” add: BR.).
 <HI>{@Bhoja@}<sup>4</sup>,¦ add: VII, 5857 {%(K°);%} dele in XII: 3037 (?)
-<>{%(Akrūra° prabhavāḥ).%}
+{%(Akrūra° prabhavāḥ).%}
 <HI>{@Bhoja@}<sup>5</sup>¦ = Kaṃsa: II, 1544 ({%°sya purusne,%} i.e. Kṛṣṇa).
 <HI>{@Bhoja@}<sup>6</sup>¦ = Ugrasena: XII, 3037 ({%Akrūra°prabhavā,%} scil. {%āpad%}).
 <HI>{@Bhojyā@}¦ = Rukmiṇī: III, 490.
 <HI>{@Bhṛgu@}<sup>1</sup>,¦ I, 901, read {@6,@} 901: add: § 581 (Bhīṣmavadhap.):
-<>VI, {@68<lang n="greek"></lang>,@} 3039 (only B.); Cf. Prajāpatisuta, Vāruṇa,
+VI, {@68<lang n="greek"></lang>,@} 3039 (only B.); Cf. Prajāpatisuta, Vāruṇa,
 <HI>{@Bhṛgūdvaha@}<sup>7</sup>,¦ read XIII, 2317.
 <HI>{@Bhṛgunandana@}<sup>3</sup>¦ = Cyavana, dele q.v., add: I, 900 (according
-<>to the reading of B.); XIII, 2659, 2673, 2758, 2776, 2787,
-<>2802, 2843, 2864, 2866, 2903.
+to the reading of B.); XIII, 2659, 2673, 2758, 2776, 2787,
+2802, 2843, 2864, 2866, 2903.
 <HI>{@Bhṛgunandana@}<sup>7</sup>¦ = Kuru, read Ruru.
 <HI>{@Bhṛgusuta,@}¦ add: Do.<sup>2</sup> = Cyavana: III, 10369.
 <HI>{@Bhṛgūttama@}<sup>2</sup>,¦ add: VII, 5412/13 ({%°dhanurdharaḥ,%} so B. in
-<>a verse wanting in C.).
+a verse wanting in C.).
 <HI>{@Bhujagendrāri@}¦ = Garuḍa: V, 3858.
 <HI>{@Bhujiṅga,@}¦ pl. {%(°āḥ),%} a people. § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 349
-<>(B. {%Kaliṅgāḥ%}).
+(B. {%Kaliṅgāḥ%}).
 <HI>{@Bhūliṅga,@}¦ add: a species of bird. § 290 (Śiśupālavadhap.):
-<>II, {@41,@} 1450 {%(prakṛtiṃ yānti bhūtāni °-śakunir yathā).%}
+II, {@41,@} 1450 {%(prakṛtiṃ yānti bhūtāni °-śakunir yathā).%}
 <HI>{@Bhumanyu@}<sup>3</sup>,¦ v. Sumanyu<sup>1</sup>.
 <HI>{@*Bhūmi,@}¦ add: I, 2496 foll. Cf. Jagatī, Kāśyapī, Medinī,
-<>Pṛthivī, Urvī.
+Pṛthivī, Urvī.
 <HI>{@Bhūmipati,@}¦ add: Cf. I, 2499 (= Brahmán, q.v.).
 <HI>{@Bhūrbhuva(s),@}¦ a devarshi (?): XIII, {@107,@} 5285 ({%°aś cāpi%}
-<>{%devarṣiṃ viśvarūpaṃ,%} B. has {%°aṃ;%} perhaps Śiva is meant,
-<>cf. {%bhūrbhuvam devam,%} VII, {@202,@} 9502).
+{%devarṣiṃ viśvarūpaṃ,%} B. has {%°aṃ;%} perhaps Śiva is meant,
+cf. {%bhūrbhuvam devam,%} VII, {@202,@} 9502).
 [Page798-a+ 59]
 <HI>{@Bhūriśravas,@}¦ add: § 555 (Sainyodyogap.): V, {@19<lang n="greek"></lang>,@} 585 (came
-<>to Duryodhana with one akṣauhiṇī of troops).—VI, {@84,@}
-<>3432, read 3732.
+to Duryodhana with one akṣauhiṇī of troops).—VI, {@84,@}
+3432, read 3732.
 <P>Add to the synonyms:—
 <P>{@Saumadatti, Somadattasuta, Yūpadhvaja,@} q.v. (cf. VII,
-<>5933, 5950, where he is called {%yajñaśīla%}).
+5933, 5950, where he is called {%yajñaśīla%}).
 <HI>{@Bhūṣika,@}¦ v. Mūṣika.
 <HI>{@Bhūta,@}¦ read Śiva (1000 names<sup>1</sup>).
 <HI>{@*Bhūta,@}¦ pl., IX, 2442, read 2472: XII, 652, read 655.
 <HI>{@Bhūtabhāvana@}<sup>3</sup>¦ = Agni: I, 928.—Do.<sup>4</sup> = Kṛṣṇa: III, 513,
-<>11175; VI, 1219.
+11175; VI, 1219.
 <HI>{@Bhūtabhaviṣyakṛt@}¦ = Kṛṣṇa: VIII, 3753.
 <HI>{@Bhūta-bhavya-bhavan-nātha,@}¦ add: = Kṛṣṇa, II, 1214.
 <HI>{@Bhūta-bhavyeśa,@}¦ add: = Śiva, VII, 9589; VIII, 1456.
@@ -950,51 +950,51 @@
 <HI>{@Bhūtādi,@}¦ add: = Kṛṣṇa, VI, 1182.
 <HI>{@Bhūtagrāma@}¦ (etc.), read: (1000 names<sup>1</sup>).
 <HI>{@Bhūtakṛt@}<sup>1</sup>,¦ add: I, 2501; II, 1320; XII, 4466.—Do.<sup>3</sup>,
-<>add: III, 12823.—Do.<sup>5</sup> = Indra: III, 17192.
+add: III, 12823.—Do.<sup>5</sup> = Indra: III, 17192.
 <HI>{@Bhūtamaheśvara,@}¦ add: (1000 names).—Do.<sup>2</sup> = Kṛṣṇa: VI,
-<>1180.
+1180.
 <HI>{@Bhūtamātaraḥ@}¦ (pl.). § 310{%b%} (Sūrya): III, {@3,@} 199 (= Gaurī,
-<>etc. [Nīl.]).
+etc. [Nīl.]).
 <HI>{@Bhūtapati@}<sup>1</sup>,¦ add: I, 1583 (= Brahmán); III, 153
-<>(= Sūrya); XIV, 1177 (= Agni).
+(= Sūrya); XIV, 1177 (= Agni).
 <HI>{@*Bhūtātman@}<sup>3</sup>¦ (only selected passages).
 <HI>{@Bhūteśa@}<sup>1</sup>,¦ add: V, 7379.—Do.<sup>2</sup>, add: III, 513.—Do.<sup>4</sup> =
-<>Brahmán: I, 7679.
+Brahmán: I, 7679.
 <HI>{@Bhūti@}<sup>2</sup>,¦ a son of Viśvāmitra: XIII, 256 (only B., C. has
-<>{%Sūtiḥ%}).—Do.<sup>3-4</sup>, personif. = Śrī (Lakṣmī): XII, 8354;
-<>= Umā (Durgā): VI, 808 {%(°r bhūtimatāṃ).%}
+{%Sūtiḥ%}).—Do.<sup>3-4</sup>, personif. = Śrī (Lakṣmī): XII, 8354;
+= Umā (Durgā): VI, 808 {%(°r bhūtimatāṃ).%}
 <HI>{@Bhuvaḥ@}<sup>1—2</sup>,¦ read {@Bhuvas.@}
 <HI>{@Bhuvaneśvara@}<sup>1</sup>,¦ add: VII, 9503, 9505, 9529, 9561, 9586, 9624.
-<>—Do.<sup>4</sup> = Indra: V, 3667.—Do.<sup>5</sup> = Viṣṇu: III, 13499.
+—Do.<sup>4</sup> = Indra: V, 3667.—Do.<sup>5</sup> = Viṣṇu: III, 13499.
 <HI>{@Bindu,@}¦ read (1000 names<sup>1-2</sup>).
 <HI>{@Brāhma,@}¦ adj. (read: “belonging to Brahmán, or Bráhman,
-<>or to bráhman [i.e. the Brahman caste]”).—Add: I, 3238
-<>{%(māyāṃ),%} 7218 {%(parigrahena);%} II, 476 {%(śriyā);%} III, 10179
-<>{%(lakṣmyā);%} V, 1570 {%(yoniṃ);%} 1619 {%(śrīḥ),%} †1768 (fem.
-<>{%brāhmī,%} scil. {%vṛtti%} ?), †1782 (do.), 2979 {%(śriyā);%} VI, 950
-<>{%(sthitiḥ);%} VII, 271 {%(daive);%} VIII, 1098 (neutr. {%°aṃ,%} i.e.
-<>sacred knowledge); IX, 2799 {%(rūpaṃ);%} XII, 5413 {%(vidhinā);%}
-<>XIII, 438 {%(°āśramapade),%} 634 {%(lakṣmyā),%} 2147 {%(śrīḥ),%} 2150
-<>{%(śriyā),%} 2168 (neutr. {%°aṃ%}), 2178 {%(durvasatīḥ),%} †4886 {%(vācaṃ),%}
-<>†4913 {%(vrataṃ);%} XV, 517 {%(rajanī),%} 722 {%(vapuṣā),%} 734
-<>{%(śriyaṃ).%}
+or to bráhman [i.e. the Brahman caste]”).—Add: I, 3238
+{%(māyāṃ),%} 7218 {%(parigrahena);%} II, 476 {%(śriyā);%} III, 10179
+{%(lakṣmyā);%} V, 1570 {%(yoniṃ);%} 1619 {%(śrīḥ),%} †1768 (fem.
+{%brāhmī,%} scil. {%vṛtti%} ?), †1782 (do.), 2979 {%(śriyā);%} VI, 950
+{%(sthitiḥ);%} VII, 271 {%(daive);%} VIII, 1098 (neutr. {%°aṃ,%} i.e.
+sacred knowledge); IX, 2799 {%(rūpaṃ);%} XII, 5413 {%(vidhinā);%}
+XIII, 438 {%(°āśramapade),%} 634 {%(lakṣmyā),%} 2147 {%(śrīḥ),%} 2150
+{%(śriyā),%} 2168 (neutr. {%°aṃ%}), 2178 {%(durvasatīḥ),%} †4886 {%(vācaṃ),%}
+†4913 {%(vrataṃ);%} XV, 517 {%(rajanī),%} 722 {%(vapuṣā),%} 734
+{%(śriyaṃ).%}
 <HI>{@Brahmabhavana,@}¦ add: III, 12832.
 <HI>{@Brahmacārinī@}¦ = Umā (Durgā): IV, 184.
 <HI>{@Brahmacarya@}¦ = Śiva (1000 names<sup>1</sup>).
 <HI>{@*Brahmaśāpa,@}¦ add: § 717{%c%} (Uparicara): XII, {@337,@} 12814.
 <HI>{@*Brahmadaṇḍa:@}¦ VII, 8767, read 8766; add: XII, 1440, 3820;
-<>XIII, 4506. Cf. Brahmaśapa, read °śāpa.
+XIII, 4506. Cf. Brahmaśapa, read °śāpa.
 <HI>{@Brahmadeva,@}¦ a Pāṇḍava warrior: V, {@196,@} 7646 (only B.,
-<>v. Kshatrahan).
+v. Kshatrahan).
 <HI>{@Brahmaguhā:@}¦ XIII, 7370 (read: {%praviṣṭo…Bhāratāgre%}).
 <HI>{@Brahmaloka,@}¦ add: IX, {@12,@} 635 {%(°parāḥ).%}
 <HI>{@Brahmán@}<sup>1</sup>,¦ add: § 494 (Āṅgirasa): III, {@222,@} 14235 {%(°-ṇo%}
-<>{%mānasāḥ prajāḥ).%}—§ 552{%m,%} read: § 552{%d.%}—§ 561, read:
-<>§ 561{%d%} (Nara-Nārāyaṇau).—§ 641, add: XII, {@121,@} 4457,
+{%mānasāḥ prajāḥ).%}—§ 552{%m,%} read: § 552{%d.%}—§ 561, read:
+§ 561{%d%} (Nara-Nārāyaṇau).—§ 641, add: XII, {@121,@} 4457,
 [Page798-b+ 59]
-<>4463.—XII, {@337,@} 12742, read: 12772.—§ 774 (Ānuśāsanik.):
-<>XIII, {@163,@} 7564 ({%B°aḥ putraṃ Dharmam āhur,%} B.;
-<>{%brāhmaṇāḥ putra,%} C.).
+4463.—XII, {@337,@} 12742, read: 12772.—§ 774 (Ānuśāsanik.):
+XIII, {@163,@} 7564 ({%B°aḥ putraṃ Dharmam āhur,%} B.;
+{%brāhmaṇāḥ putra,%} C.).
 <P>Add to the synonyms:—
 <P>{@Haṃsa,@} q.v.
 <P>{@Jalajakusumayoni,@} q.v.
@@ -1002,61 +1002,61 @@
 <P>{@Lokapitāmaha,@} add: III, 15821.
 <P>{@Paramātman,@} q.v.
 <P>{@Pitāmaha,@} add: I, 8159 (only B.); III, 4067, 5028, 8672,
-<>10961, 16632, 16634; VI, 419, 3023 (only B.); VII, 2085
-<>(only C.), 9587; VIII, 1397, 1401, 1418, 1429, 1430, 1623;
-<>XII, †13640; XIII, (6113) (only B.).
+10961, 16632, 16634; VI, 419, 3023 (only B.); VII, 2085
+(only C.), 9587; VIII, 1397, 1401, 1418, 1429, 1430, 1623;
+XII, †13640; XIII, (6113) (only B.).
 <P>{@Prapitāmaha,@} VII, 1626, read: VIII, 1626.
 <P>{@Sarvalokapitāmaha,@} add: III, 12989; VIII, 1398.
 <HI>{@Bráhman,@}¦ add: I, 6317 {%(paraṃ),%} 8424 {%(vyāhṛtaṃ);%} III, 1344
-<>(= the Vedas), ††10639 {%(advaitaṃ),%} 11240 {%(paramakaṃ),%}
-<>12530; V, 1713; VI, 2951 ({%anantavidita°,%} scil. Nārāyaṇa),
-<>2978 {%(paraṃ padaṃ);%} VII, 8860 {%(om ity ekākṣaraṃ);%}
-<>XII, 1897 {%(sanātanaṃ),%} 6738 {%(°vākyeṣu),%} 7264 {%(ekākṣaraṃ),%}
-<>7770 {%(°ṇo rūpaṃ),%} 8509 {%(°ākṣayaṃ),%} 8652 {%(śabda-°),%} 8799
-<>(do.), 9257 {%(°lakṣaṇaṃ),%} 9630 {%(om iti °ṇo yoniḥ),%} 9689
-<>{%(°stenāḥ),%} 11924 {%(brahmavidāṃ balaṃ),%} 12354 {%(°śuśrūṣave),%}
-<>††13214 {%(utsādanaṃ jagāma),%} †13641 ({%°mahānidhānaṃ,%}
-<>scil. Vyāsa); XIII, 121 {%(sanātanaṃ),%} 376 {%(yeṣāṃ °a paraṃ%}
-<>{%dhanaṃ),%} 876 {%(paraṃ),%} 1138, 5361 {%(°jñāna°),%} 6247
-<>{%(nirguṇaṃ).%}
+(= the Vedas), ††10639 {%(advaitaṃ),%} 11240 {%(paramakaṃ),%}
+12530; V, 1713; VI, 2951 ({%anantavidita°,%} scil. Nārāyaṇa),
+2978 {%(paraṃ padaṃ);%} VII, 8860 {%(om ity ekākṣaraṃ);%}
+XII, 1897 {%(sanātanaṃ),%} 6738 {%(°vākyeṣu),%} 7264 {%(ekākṣaraṃ),%}
+7770 {%(°ṇo rūpaṃ),%} 8509 {%(°ākṣayaṃ),%} 8652 {%(śabda-°),%} 8799
+(do.), 9257 {%(°lakṣaṇaṃ),%} 9630 {%(om iti °ṇo yoniḥ),%} 9689
+{%(°stenāḥ),%} 11924 {%(brahmavidāṃ balaṃ),%} 12354 {%(°śuśrūṣave),%}
+††13214 {%(utsādanaṃ jagāma),%} †13641 ({%°mahānidhānaṃ,%}
+scil. Vyāsa); XIII, 121 {%(sanātanaṃ),%} 376 {%(yeṣāṃ °a paraṃ%}
+{%dhanaṃ),%} 876 {%(paraṃ),%} 1138, 5361 {%(°jñāna°),%} 6247
+{%(nirguṇaṃ).%}
 <HI>{@Brāhmaṇagītā:@}¦ instead of (XIV, {@32—33@}) read: (XIV, {@32@}).
-<>The brahman then described himself as emancipated, and
-<>said that his wife would enter his soul (XIV, {@33@}).
+The brahman then described himself as emancipated, and
+said that his wife would enter his soul (XIV, {@33@}).
 <HI>{@Brahmaṇaḥ sthāna(ṃ),@}¦ add: § 573 (Ambopākhyānap.): V,
-<>{@186,@} 7353 (a tīrtha).
+{@186,@} 7353 (a tīrtha).
 <HI>{@Brahmaṇya@}<sup>1</sup>,¦ add: III, 14568.
 <HI>{@*Brahmarshi@}<sup>1</sup>,¦ pl., add: I, 1386; V, 466, †5032; VI, 2971,
-<>3037.—Do.<sup>2</sup>, add: {@Paraśurāma:@} V, 7069.—{@Viśvāmitra:@}
-<>XIII 246, add: ({%°iḥ,%} C., {%°eḥ,%} B., but read with PCR.
-<>{%brahmarṣiṃ%}).—Do.<sup>3</sup>, dual = Yāja and Upayāja: I, 6362.
+3037.—Do.<sup>2</sup>, add: {@Paraśurāma:@} V, 7069.—{@Viśvāmitra:@}
+XIII 246, add: ({%°iḥ,%} C., {%°eḥ,%} B., but read with PCR.
+{%brahmarṣiṃ%}).—Do.<sup>3</sup>, dual = Yāja and Upayāja: I, 6362.
 <HI>{@Brahmasama,@}¦ adj.: VIII, 1577 ({%naye,%} scil. Śalya); 4510
-<>(scil. Droṇa); XII, 2870 {%(brāhmaṇāḥ),%} 2877 (do.).
+(scil. Droṇa); XII, 2870 {%(brāhmaṇāḥ),%} 2877 (do.).
 <HI>{@Brahmayajña,@}¦ add: VII, 8236 ({%°vināśanāḥ,%} said of Rākṣasas).
 <HI>{@Brāhmya,@}¦ adj.: VII, 344, read 343; XIII, 6619 {%(°ṃ mārgaṃ).%}
 <HI>{@Bṛhadbala@}<sup>4</sup>,¦ add from B. VI, 1851, 2014/15. Cf. Kausalendra,
-<>read: Kosalendra<sup>2</sup>.
+read: Kosalendra<sup>2</sup>.
 <HI>{@Bṛhadbhānu@}<sup>4</sup>,¦ the first son of Heaven: I, 42 (cf. Āśāvaha).
 <HI>{@Bṛhaddhvanī,@}¦ a river: VI, 339 (only B., C. has Bṛhadvatī).
 <HI>{@Bṛhaka@}¦ (Vṛh°, C.), a Devagandharva: I, 4813.
 <HI>{@Bṛhanta@}<sup>3</sup>,¦ add: VII, {@23,@} 1024 (C. {%Bṛhantaṃ tam aridhvajāḥ,%}
-<>B. {%Bṛhantaṃ tam Araṭṭajāḥ;%} but that here is alluded to
-<>Yuyutsu (cf. VII, {@43@}) seems to be confirmed by the reading
-<>of the southern texts: {%Yuyutsuṃ makaradhvajaṃ%}).
+B. {%Bṛhantaṃ tam Araṭṭajāḥ;%} but that here is alluded to
+Yuyutsu (cf. VII, {@43@}) seems to be confirmed by the reading
+of the southern texts: {%Yuyutsuṃ makaradhvajaṃ%}).
 <HI>{@Bṛhanta@}<sup>5</sup>,¦ add: § 573 (Ambop.): V, {@196,@} 7629.
 <HI>{@Bṛhaspati,@}¦ add: III, {@32,@} 1262 {%(nītiṃ B°-proktāṃ);%} XII, 12765.
-<>Cf. also Devācārya, Devadeva, Devaguru, Devapurohita,
-<>Devarshi, Suraguru.
+Cf. also Devācārya, Devadeva, Devaguru, Devapurohita,
+Devarshi, Suraguru.
 <HI>{@Bṛhat@}<sup>1</sup>¦ ({%bṛhadbhānuḥ%} of the text ought probably to have been
-<>taken as one name, cf. above).
+taken as one name, cf. above).
 <HI>{@Bṛhatkṣattra@}<sup>1—4</sup>¦ (B. more correctly {%°kṣatra%}).
 <HI>{@Bṛhatkṣattra@}<sup>2</sup>,¦ instead of {%Naiṣadaṃ%} read {%Naiṣadhaṃ.%}
 <HI>{@Bṛhatkṣattra@}<sup>3</sup>,¦ father of Jayadratha, otherwise named
 [Page799-a+ 58]
-<>Vṛddhakṣatra (q.v.): VI, {@47<lang n="greek"></lang>,@} 1851 ({%°sya dāyādaḥ,%} only
-<>B.), 2014/15 (do. do.).
+Vṛddhakṣatra (q.v.): VI, {@47<lang n="greek"></lang>,@} 1851 ({%°sya dāyādaḥ,%} only
+B.), 2014/15 (do. do.).
 <HI>{@Bṛhatkṣattra@}<sup>4</sup>¦ (B. {%Vṛddhakṣatra%}), a Paurava prince. § 603
-<>(Nārāyaṇāstramokṣap.): VII, {@200<lang n="greek"></lang>,@} 9330; {@201,@} 9400
-<>(slain).
+(Nārāyaṇāstramokṣap.): VII, {@200<lang n="greek"></lang>,@} 9330; {@201,@} 9400
+(slain).
 <HI>{@Bṛhatvan@}¦ (?), see {%satvāvṛhattvā.%}
 <HI>{@Bṛṃhitā@}¦ (C. Bṛṃhilā, read Vṛṃhilā).
 <HI>{@Buddhi,@}¦ add: § 717{%b%} (Nārāyaṇīya): XII, {@350,@} 13658 foll.
@@ -1066,19 +1066,19 @@
 <HI>{@Caitrī:@}¦ XII, 3691 ({%…senayogaḥ,%} read {%senāyogaḥ%}).
 <HI>{@Cakradhara,@}¦ add: Do.<sup>2</sup> = Kṛṣṇa, q.v.
 <HI>{@Cakramaṇḍa,@}¦ dele the words: issued from the mouth of
-<>Balarāma.
+Balarāma.
 <HI>{@Cakravyūha,@}¦ add: § 596 (Pratijñāp.): VII, {@72,@} 2497.
 <HI>{@Cakṣurvardhanikā,@}¦ add: cf. XIII, 7648 ({%Vaṅkṣur%}
-<>{%Mandākinī,%} C., {%Cakṣur Mandākinī,%} B.).
+{%Mandākinī,%} C., {%Cakṣur Mandākinī,%} B.).
 <HI>{@Cākṣuṣā,@}¦ read {@Cākṣuṣī…@} § 221{%b,%} read § 221{%c.%}
 <HI>{@Caṇḍakauśika,@}¦ add: cf. Kauśika.
 <HI>{@*Cāṇḍāla@}<sup>1</sup>,¦ add: XIII, {@48,@} 2586 (the son of a {%C.%} with a
-<>Māgadhī becomes a Pukkasa). Instead of XIII, 2613 read
-<>2621.
+Māgadhī becomes a Pukkasa). Instead of XIII, 2613 read
+2621.
 <HI>{@Cāṇḍālikāśrama@}¦ (B. {%Āñjalikā°%}), read {%(Añjalikā°).%}
 <HI>{@Candanāṅgadin@}¦ = Viṣṇu (1000 names).
 <HI>{@Candramaso hrada(ḥ),@}¦ a lake. § 574 (Jambūkh.): VI, {@6,@} 224
-<>{%(hrade candramasaḥ).%}
+{%(hrade candramasaḥ).%}
 <HI>{@Candramauli@}¦ = Śiva: VII, †9455 (only B.).
 <HI>{@Caṇūra@}<sup>1-2</sup>,¦ correct into {@Cāṇūra.@}
 <HI>{@Cārucitra,@}¦ add: VI, {@79,@} 3470/71 (only B.).
@@ -1093,94 +1093,94 @@
 <HI>{@Citrā@}<sup>2</sup>,¦ an Apsaras: XIII, 1424 (only B., C. has {%Mitrā%}).
 <HI>{@Citrabarha:@}¦ {@101<lang n="greek"></lang>,@} 3597, read V, {@101<lang n="greek"></lang>,@} 3597.
 <HI>{@Citrabarhin,@}¦ add: § 748{%b%} (Tārakavadhop.): XIII, {@86<lang n="greek"></lang>,@}
-<>4206 (read: {%Suparṇo 'sya dadau putraṃ mayūraṃ C°inaṃ%}).
+4206 (read: {%Suparṇo 'sya dadau putraṃ mayūraṃ C°inaṃ%}).
 <HI>{@Citradarśana,@}¦ son of Dhṛtarāṣṭra (?): VI, {@79,@} 3470/71
-<>(only B.).
+(only B.).
 <HI>{@Citrāṅga,@}¦ -add: VI, {@79,@} 3470/71 (only B.).
 <HI>{@Citrāṅgada@}<sup>1</sup>,¦ add: Cf. Śāntanava, Kurumukhya, Kuru-
-<>sattama.
+sattama.
 <HI>{@Citraratha@}<sup>4</sup>,¦ add: (v. Aṅga<sup>1</sup>, pl.).
 <HI>{@Citrasena@}<sup>1</sup>,¦ add: VI, 3436 (only B., C. by error has
-<>{%Durjayo'tha%}); 3470/71 (only B.); 5193 (do. instead of
-<>{%citrahasto,%} C.)
+{%Durjayo'tha%}); 3470/71 (only B.); 5193 (do. instead of
+{%citrahasto,%} C.)
 <HI>{@Citravāhana,@}¦ add: I, {@217,@} 7884 (in some verses wanting in C.).
 <HI>{@Cola@}<sup>1</sup>,¦ add: II, {@27,@} 1029 (only B., {%Sumālān,%} C.); VI, {@50<lang n="greek"></lang>,@}
-<>2084 ({%Colāḥ Pāṇḍyāś ca,%} B., {%Pāṇḍyāś codhrāś ca,%} C.).
+2084 ({%Colāḥ Pāṇḍyāś ca,%} B., {%Pāṇḍyāś codhrāś ca,%} C.).
 <H>Ś
 <HI>{@Śacī:@}¦ III, 10141 ({%°sahayaṃ%} read: {%°sahāyaṃ;%} III, 12003
-<>{%(°sahayaḥ),%} read: {%(°sahāyaḥ).%}
+{%(°sahayaḥ),%} read: {%(°sahāyaḥ).%}
 <P>{@Paulomī,@} add: X, 599 {%(°īm iva Maghavān).%}
 [Page799-b+ 60]
 <HI>{@Śāśabindava@}<sup>1</sup>,¦ add: XII, 999 (only B., C. has {%Śaśabindavaḥ%}).
 <HI>{@Śaśāṅka@}<sup>1</sup>,¦ add: VIII, 3392.
 <HI>{@Śaibya@}<sup>1</sup>,¦ add: I, 224 bis (B. has {%Śvaityāya%}).
 <HI>{@Śailarājasutā@}<sup>1</sup>:¦ add: XIII, 6771 (so C., but B. has {%°-āṃ%}
-<>{%devīṃ%} = Umā).
+{%devīṃ%} = Umā).
 <HI>{@Śaka,@}¦ pl., add: § 578 (Bhīṣmavadhap.): VI, {@51<lang n="greek"></lang>,@} 2106 (only
-<>B., C. has {%Vṛkaiḥ%}).
+B., C. has {%Vṛkaiḥ%}).
 <HI>{@Śākhāmṛgadhvaja@}¦ (“having a monkey in his banner”) =
-<>Arjuna: VII, 5802.
+Arjuna: VII, 5802.
 <HI>{@Śakrānuja@}¦ (“younger brother of Indra”) = Viṣṇu (Kṛṣṇa)
-<>VII, 6458/59. (only B.).
+VII, 6458/59. (only B.).
 <HI>{@Śaktidhṛk@}¦ = Skanda: III, 14383.
 <HI>{@Śaktipāṇi@}¦ = Skanda: V, 5720.
 <HI>{@Śaktreḥ putraḥ@}¦ and {@Śāktreya,@} read (B. Śakteḥ and
-<>Śakteya).
+Śakteya).
 <HI>{@Śakuni,@}¦ add from B. VI, 2145 (C. has {%Vikarṇaḥ%}); VII, 7707;
-<>IX, 1503.
+IX, 1503.
 <HI>{@Śala@}<sup>2</sup>,¦ add: VI, 1652 (only B.).—Do.<sup>3</sup>, add: V, 5574—75
-<>(only B.); VI, 2145 (only C., B. has {%Śalyaḥ%}).
+(only B.); VI, 2145 (only C., B. has {%Śalyaḥ%}).
 <HI>{@Śālāvṛka,@}¦ pl. {%(°āḥ),%} a class of brahmans. § 635 (Rājadh.):
-<>XII, {@33,@} 1188.
+XII, {@33,@} 1188.
 <HI>{@Śalu,@}¦ add: (only C., B. has {%Khalu%}).
 <HI>{@Śalya,@}¦ add: § 241 (Vidurāgamanap.): I, {@200,@} 7367
-<>{%(Madrarājaṃ).%}—V, {@161,@} 5547 (= 5529), read: 5547, 5574
-<>(= 5529).—VI, {@52,@} 2145 (only B., C. has {%Śalaḥ%}), 2148 (only
-<>B.); {@57<lang n="greek"></lang>,@} 2452 (only B.).
+{%(Madrarājaṃ).%}—V, {@161,@} 5547 (= 5529), read: 5547, 5574
+(= 5529).—VI, {@52,@} 2145 (only B., C. has {%Śalaḥ%}), 2148 (only
+B.); {@57<lang n="greek"></lang>,@} 2452 (only B.).
 <HI>{@Śambara,@}¦ add: IX, {@16,@} 828 (only B.).
 <HI>{@Śambhu@}<sup>4</sup>,¦ add: II, 2574 (instructed Yudhiṣṭhira).
 <HI>{@Śaṅkhacakragadāpāṇi, Śaṅkhacakrāsipāṇi@}¦ = Kṛṣṇa, q.v.
 <HI>{@Śāntanu,@}¦ add: Cf. Kaurava, Paurava, Pauravanandana,
-<>Prātipeya, Satyavāc.
+Prātipeya, Satyavāc.
 <HI>{@Śāradaṇḍāyanī,@}¦ add: (B. {%°āyinī%}).
 <HI>{@Śarmiṣṭhā,@}¦ add to the synonyms:—
-<>{@Daityakanyā:@} I, 3410.
+{@Daityakanyā:@} I, 3410.
 <HI>[{@Śārṅgacakragadāpāṇi,@}¦ etc., delendum.]
 <HI>{@Śaryāti:@}¦ XIV, {@9,@} 249, add: (C. has by error {%Saryāti°%}).
 <HI>{@Śatalocana@}<sup>2</sup>¦ = Indra. VIII, 4445.
 <HI>{@Śatānīka@}<sup>1</sup>,¦ add to the synonyms:—
-<>{@Kaurava, Pāñcāleya,@} q.v.
+{@Kaurava, Pāñcāleya,@} q.v.
 <HI>{@Śatānīka@}<sup>4</sup>,¦ add: VII, {@158<lang n="greek"></lang>,@} 7011 (only B.).
 <HI>{@Śataparvā:@}¦ V, 3972 ({%…Ś°āyāṃ,%} read {%Ś°ayā%} (B. {%Ś°aṇā%})).
 <HI>{@Śatruñjaya@}<sup>7</sup>,¦ add: Cf. Suvīrarāṣṭrapa.
 <HI>{@Śauṇḍika,@}¦ add: (C. has by error {%Śauṇḍīkāḥ%}).
 <HI>{@Śeṣa:@}¦ § 524, read § 524{%c%} (Viṣṇu); add: XII, {@340,@} 12900
-<>(= Saṅkarṣaṇa, identified with {%jīva%} (Viṣṇu)).—Cf. Ananta,
-<>add: Dharādhara, Nāga, pl., Pannaga, sg., Vasudhā-
-<>dhara.
+(= Saṅkarṣaṇa, identified with {%jīva%} (Viṣṇu)).—Cf. Ananta,
+add: Dharādhara, Nāga, pl., Pannaga, sg., Vasudhā-
+dhara.
 <HI>{@Śibi@}<sup>1</sup>:¦ IV, 1768 (…between Bhīṣma and Arjuna, read:
-<>between Kṛpa and Arjuna).
+between Kṛpa and Arjuna).
 <HI>{@Śibisūnu@}¦ = Vṛṣādarbha, read Vṛṣādarbhi.
 <HI>{@Śiśira@}<sup>3</sup>,¦ a mountain (in Himavat, PCR.): § 603{%b%} (Nārāyaṇa):
-<>VII, {@201,@} 9448 {%(giriṃ).%}
+VII, {@201,@} 9448 {%(giriṃ).%}
 <HI>{@Śiśupāla,@}¦ add to the synonyms:—
 <P>{@Sātvatīsuta, Sunītha,@} q.v.
 <HI>{@Śiśupālavadhaparvan,@}¦ section {%(e)%} read: that disguising him-
-<>self he had, for the sake of the Kārūṣa king, ravished the
-<>wife of his uncle (Vasudeva) {%Bhadrā Vaiśāli.%}
+self he had, for the sake of the Kārūṣa king, ravished the
+wife of his uncle (Vasudeva) {%Bhadrā Vaiśāli.%}
 <HI>{@Śikhaṇḍin@}<sup>1</sup>,¦ add: VI, {@59,@} 2542 (only B.); VII, 368 (B.
-<>{%Śaikhaṇḍinaṃ%}).
+{%Śaikhaṇḍinaṃ%}).
 <P>Synonym: {@Śikhandinī,@} read: {@Śikhaṇḍinī.@}
 [Page800-a+ 59]
 <HI>{@Śini@}<sup>2</sup>,¦ pl. add: VII, 4470 {%(°īnām ṛṣabhaṃ);%} 5819 ({%°īnam,%}
-<>read: {%īnām%}).
+read: {%īnām%}).
 <HI>{@Śinivṛṣabha@}¦ = Sātyaki, q.v.
 <HI>{@Śītāśī@}¦ (?), see Sītā<sup>3</sup>.
 <HI>{@Śiva,@}¦ add to the synonyms:—
 <P>{@Ananta:@} XIII, 898 (only B.).
 <P>{@Bahurūpa:@} XIV, 205 (only B., C. {%Vasurūpāya%}).
 <P>{@Bhava:@} III, 788; VII, 9509 (only B.); XIII, 1312 (only
-<>B., C. {%Haraḥ%}), 7469 (only B.).
+B., C. {%Haraḥ%}), 7469 (only B.).
 <P>{@Bhuvaneśvara,@} q.v.
 <P>{@Candramauli:@} VII, †9455 (only B.).
 <P>{@Caturbāhu:@} XII, 6166.
@@ -1192,41 +1192,41 @@
 <P>{@Paśupati:@} I, 7884/85 (only B., {%-eḥ sthānaṃ,%} sc. {%Gokarṇaṃ%}).
 <P>{@Pūṣṇo dantavināśana(ḥ):@} XIII, 6565 (B. {%°nipātanaḥ%}).
 <P>{@Rudra:@} III, 17478 (in some verses added in B.); VII,
-<>1543 (only B.); VII, 2046 (do., C. {%Haraḥ%}); XIII, 5283
-<>{%(°devarṣi-kanyābhiḥ),%} insert here after 5283: (only C., read
-<>with B. {%Raudraṃ%}), 5335; 7483 ({%mahā-,%} add: so C., read
-<>with B. {%sarve 'marā Rudraṃ jagmuḥ%}),
+1543 (only B.); VII, 2046 (do., C. {%Haraḥ%}); XIII, 5283
+{%(°devarṣi-kanyābhiḥ),%} insert here after 5283: (only C., read
+with B. {%Raudraṃ%}), 5335; 7483 ({%mahā-,%} add: so C., read
+with B. {%sarve 'marā Rudraṃ jagmuḥ%}),
 <P>{@Sarva:@} II, 1642 (B. {%C°,%} read {%Ś°%}); VII, 9565 (do.).—Add:
-<>III, 1628 (B. {%Ś°%}); XIII, 1120 (only B.), 1298 (B. {%Ś°%}),
-<>1336 (do.), †1374 (do.), 1398 (do.), 6818 (do.); XIV, 208
-<>(only B.).
+III, 1628 (B. {%Ś°%}); XIII, 1120 (only B.), 1298 (B. {%Ś°%}),
+1336 (do.), †1374 (do.), 1398 (do.), 6818 (do.); XIV, 208
+(only B.).
 <P>{@Ugrāyudha:@} XII, 10676.
 <P>{@Vibudhacreṣṭha, Vibudheśvara,@} q.v.
 <P>{@Śivasahasranāmastotra(ṃ):@} {%Adhayaḥ,%} read {%Ādhayaḥ;%}
-<>{%Aditya,%} read {%Āditya; Bhuvaḥ,%} read {%Bhuvas; Ghaṇṭamā-%}
-<>{%lapriya,%} read {%Ghaṇṭā°; Huṃhuṃhuṃkārapāra,%} read {%Hūṃ-%}
-<>{%hūṃhūṃk°; Huṃhuṃkārapriya,%} read {%Hūṃhūṃk°; Kāla-%}
-<>{%puṣpaphalaprada,%} read {%Kālapuṣpaphalapradā; Mūrtau%}
-<>{%hi te…sarvā vai devatā,%} read {%devatāḥ; Udbhidjāḥ,%}
-<>read {%Udbhijjāḥ%} (B. and C. {%Udbhijāḥ%}); {%Varātivarada,%} read
-<>{%Varātivaradā; Viṣāgrapā,%} read {%Viṣāgrapād%} (B. also here
-<>{%Viṣāgnipā%})
+{%Aditya,%} read {%Āditya; Bhuvaḥ,%} read {%Bhuvas; Ghaṇṭamā-%}
+{%lapriya,%} read {%Ghaṇṭā°; Huṃhuṃhuṃkārapāra,%} read {%Hūṃ-%}
+{%hūṃhūṃk°; Huṃhuṃkārapriya,%} read {%Hūṃhūṃk°; Kāla-%}
+{%puṣpaphalaprada,%} read {%Kālapuṣpaphalapradā; Mūrtau%}
+{%hi te…sarvā vai devatā,%} read {%devatāḥ; Udbhidjāḥ,%}
+read {%Udbhijjāḥ%} (B. and C. {%Udbhijāḥ%}); {%Varātivarada,%} read
+{%Varātivaradā; Viṣāgrapā,%} read {%Viṣāgrapād%} (B. also here
+{%Viṣāgnipā%})
 <P>{@Mahādevasahasranāmastotra:@} {%Ahas,%} read {%Ahar;%}
-<>{%Paridhīpatikhecara,%} add: (Nīl. takes this as two separate
-<>names: {%Paridhin%} and {%Patikhecara%}); {%Uṣaṅga,%} read
-<>{%Uṣaṅgu; Uttamaḥ sarvakarmānāṃ,%} read {%Utthānaḥ sarva-%}
-<>{%karmaṇāṃ.%}
+{%Paridhīpatikhecara,%} add: (Nīl. takes this as two separate
+names: {%Paridhin%} and {%Patikhecara%}); {%Uṣaṅga,%} read
+{%Uṣaṅgu; Uttamaḥ sarvakarmānāṃ,%} read {%Utthānaḥ sarva-%}
+{%karmaṇāṃ.%}
 <HI>{@Śiva@}<sup>4</sup>¦ add: = Viṣṇu: XIII, 6953, 7013 (1000 names).
 <HI>{@Śivakarṇī,@}¦ add: (B. has {%Mukhakarṇā%}).
 <HI>{@Śīveṇikā,@}¦ see Sītā<sup>3</sup>.
 <HI>{@Śoṇa,@}¦ add: cf. Mahāśoṇa.
 <HI>{@Śraddhā@}<sup>1</sup>,¦ add: § 266 (Śakrasabhāv.); II, {@7,@} 300.
 <HI>{@Śrīvatsa,@}¦ add: III, 12933 ({%°kṛtalakṣaṇaṃ,%} do.), 12934
-<>({%°dhārī,%} do.), 13004 {%(°vakṣā Govindaḥ);%} XII, 13326
-<>({%°āṅkavibhūṣaṇaṃ,%} i.e. Nārāyaṇa).
+({%°dhārī,%} do.), 13004 {%(°vakṣā Govindaḥ);%} XII, 13326
+({%°āṅkavibhūṣaṇaṃ,%} i.e. Nārāyaṇa).
 <HI>{@Śrutaśravas@}<sup>3</sup>,¦ a warrior in Yudhiṣṭhira's army. § 608
-<>(Karṇap.): VIII, {@75,@} †3811 (attacked Aśvatthāman; only
-<>C., B. has {%śrutas tathā%}).
+(Karṇap.): VIII, {@75,@} †3811 (attacked Aśvatthāman; only
+C., B. has {%śrutas tathā%}).
 <HI>{@Śrutakarman@}<sup>1</sup>,¦ add: cf. Sahadevasūnu, Sāhadevi.
 <HI>{@Śṛgāla,@}¦ add: (B. reads {%Sṛgālaḥ%}).
 <HI>{@śrṅgāṭaka,@}¦ name of a vyūha: VI, 3863.
@@ -1234,33 +1234,33 @@
 [Page800-b+ 58]
 <HI>{@Śūcī,@}¦ see {@Sūcī.@}
 <HI>{@Śuka@}<sup>1</sup>,¦ add: § 659 (Mokṣadh.): XII, {@177,@} 6600 ({%aho samyak%}
-<>{%°enoktaṃ,%} a sentence of his is quoted). Cf. Dvaipāyanasuta,
-<>Kārṣṇi.
+{%°enoktaṃ,%} a sentence of his is quoted). Cf. Dvaipāyanasuta,
+Kārṣṇi.
 <HI>{@Śukī,@}¦ add: cf. Dākṣeyī.
 <HI>{@Śukra@}<sup>1</sup>:¦ V, 3543 ({%etac chāstraṃ%} [read: {%chastraṃ%}]…{%mahac%}
-<>{%Chukreṇa%} [B. has {%mahac cakreṇa%}]).
+{%Chukreṇa%} [B. has {%mahac cakreṇa%}]).
 <P>{@Kāvya:@} IX, 2551, read: 2251.
 <HI>{@Śunaḥśepha,@}¦ add: cf. Ṛcīkatanaya, XII, 10759.
 <HI>{@Śūra@}<sup>8</sup>,¦ pl. {%(°āḥ),%} add: VII, 798 ({%°ābhīrāḥ,%} only B., C. has
-<>{%Śūdrā°%}).
+{%Śūdrā°%}).
 <HI>{@*Śvasana,@}¦ dele I, 1489, and add:
 <HI>{@Śvasana@}<sup>2</sup>,¦ a nāga (Nīl. a yaksha). § 32 (Garuḍa): I, {@46<lang n="greek"></lang>,@}
-<>1489.
+1489.
 <HI>{@Śveta@}<sup>6</sup>,¦ VI, 83 ({%…pājvakaḥ |%} read: {%pāvakaḥ |%}).
 <HI>{@Śveta@}<sup>8</sup>,¦ add from B. VI, {@47,@} 1851; {@48,@} 1942, 1956 ({%Bhīṣmaṃ,%}
-<>C. by error {%Śvetaṃ%}); {@49,@} 2009.
+C. by error {%Śvetaṃ%}); {@49,@} 2009.
 <HI>{@Śveta@}<sup>12</sup>,¦ pl. {%(°āḥ),%} add: (cf. XII †12705, 12804 (C. {%draṣṭāraḥ%}
-<>{%puruṣāḥ svetāḥ,%} read with B. {%dṛṣṭā vaḥ puruṣāḥ śvetāḥ%}),
-<>12861, 13356).
+{%puruṣāḥ svetāḥ,%} read with B. {%dṛṣṭā vaḥ puruṣāḥ śvetāḥ%}),
+12861, 13356).
 <HI>{@Śvetagraha,@}¦ VI, 3588 ({%°am evoditaṃ,%} read: {%ivoditaṃ,%} but B.
-<>reads {%Śvetaṃ grahaṃ%}).
+reads {%Śvetaṃ grahaṃ%}).
 <H>D
 <HI>{@Dāśaratha,@}¦ adj., add: (Nīl. explains: “affording place for
-<>ten waggons”).
+ten waggons”).
 <HI>{@Dāśārha,@}¦ pl., add: V, 2889 (only B., C. has {%Dāśārha,%} i.e.
-<>Kṛṣṇa).
+Kṛṣṇa).
 <HI>{@Dāśārhaputraja:@}¦ XI, 229, read 729; add: (is not to be read:
-<>{%Dāśārhīputrajaṃ%} ?).
+{%Dāśārhīputrajaṃ%} ?).
 <HI>{@Dāśārṇeśa,@}¦ VI, 2080 (only C., B. has {%Dāśārṇakāḥ%}).
 <HI>{@Dāśasutā@}¦ = Satyavatī: I, 7230/31 (only B.).
 <HI>{@Dāśeyī,@}¦ add: I, 4247.
@@ -1268,46 +1268,46 @@
 <HI>{@Daksha@}<sup>1</sup>,¦ add: cf. Deveśa, Ka, Lokaguru, Lokapitāmaha.
 <HI>{@Dākṣeyī:@}¦ XIII, 227, read 275.
 <HI>{@Dākṣiṇātya,@}¦ adj.: XII, {@199,@} read III, {@199;@} add: XVI,
-<>160 {%(nṛpān).%}
+160 {%(nṛpān).%}
 <HI>{@Dālbhya@}<sup>2</sup>,¦ add: (prob. name of the āśrama of Dālbhya, or
-<>perhaps we have to read {%Dālbhyasya%} instead of {%Dālbhyaś ca%}).
+perhaps we have to read {%Dālbhyasya%} instead of {%Dālbhyaś ca%}).
 <HI>{@Dāmā,@}¦ see Sudāmā.
 <HI>{@Dāmin,@}¦ read: name of a tīrtha and its saint: III, 5014—16.
 <HI>{@Dānabhāri,@}¦ pl. {%(°ayaḥ),%} a people. § 578 (Bhīṣmavadhap.):
-<>VI, {@50<lang n="greek"></lang>,@} 2084 (only B.).
+VI, {@50<lang n="greek"></lang>,@} 2084 (only B.).
 <HI>{@Danadeśvara:@}¦ II, 410, see: Dhanadeśvara.
 <HI>{@Daṇḍapāṇi@}<sup>1</sup>,¦ add: III, 431 {%(iva).%}
 <HI>{@Darada,@}¦ pl., add: VII, 5242 (only B., C. has {%Kāmbojānāṃ%}).
 <HI>{@Dasyu,@}¦ pl., add: II, 527, 1054; III, 13070; IV, 704, 839,
-<>read. V, 704, 838—39; V, †1877, 2564, 2719; VI, 456;
-<>VII, 2160, 2162, 2165, 2458, 4325, 4833; VIII, 2081;
-<>XIII, 7297 {%(°hantā).%}
+read. V, 704, 838—39; V, †1877, 2564, 2719; VI, 456;
+VII, 2160, 2162, 2165, 2458, 4325, 4833; VIII, 2081;
+XIII, 7297 {%(°hantā).%}
 <HI>{@Dauryodhana,@}¦ add: VII, 12/13 (only B.), †8145; VIII, †4583;
-<>IX, 156 (only B.).
+IX, 156 (only B.).
 <HI>{@Devadevaśa@}<sup>4</sup>:¦ XII, 7742, read XIII, 7742.
 <HI>{@*Devadūta@}<sup>1</sup>,¦ add: XIII, 5936, (5947), 7210 {%(Vāyuḥ).%}
 <HI>{@*Devakanyā,@}¦ add: I, 5076, 6612; III, 16175 (pl.); V, 354,
-<>541 (pl.); XII, 6337 ({%°sutaḥ,%} i.e. Rājadharman); XIII,
-<>5266 foll.—Sometimes only an appellation of an Apsaras:
-<>I, 7617; III, 15580.
+541 (pl.); XII, 6337 ({%°sutaḥ,%} i.e. Rājadharman); XIII,
+5266 foll.—Sometimes only an appellation of an Apsaras:
+I, 7617; III, 15580.
 [Page801-a+ 59]
 <HI>{@Devamātṛ@}<sup>1</sup>,¦ add: XIII, †7387 {%(A°).%}
 <HI>{@Devarāja@}<sup>3</sup>,¦ read {@Devarāj<sup>3</sup>@} = Vasiṣṭha: XIII, 6257 {%(V°).%}
 <HI>{@Devasenāpati,@}¦ add: IX, 2722; XIII, 4214.
 <HI>{@Devavara@}<sup>2</sup>,¦ add: VI, †1277 (i.e. Kṛṣṇa); XIII, 6812.
 <HI>{@Devayānī:@}¦ § 146 {%…Sañjīvanī,%} read {%Sañjīvinī;%} I, (3285),
-<>read (3286); add: 3305.
+read (3286); add: 3305.
 <HI>{@Devī@}<sup>4</sup>,¦ add: V, 3969 (B. has {%Vedyāṃ,%} cf. Vedi<sup>2</sup>).
 <HI>{@Devī@}<sup>5</sup>¦ = Pṛthivī (“the Earth” personif.): I, 1941 {%(P°),%}
-<>5128 {%(Dharā);%} II, 458 (?); VII, 1288, 8223 {%(Dharāṃ);%}
-<>XI, 220; XII, 421 {%(P°),%} 1789 {%(P°),%} 11117 (Nīl.); XIII,
-<>4096 {%(P°),%} 4653 {%(P°).%}
+5128 {%(Dharā);%} II, 458 (?); VII, 1288, 8223 {%(Dharāṃ);%}
+XI, 220; XII, 421 {%(P°),%} 1789 {%(P°),%} 11117 (Nīl.); XIII,
+4096 {%(P°),%} 4653 {%(P°).%}
 <HI>{@Dhanya@}¦ = Viṣṇu (1000 names). Dele: {@Dhara<sup>4</sup>.@}
 <HI>{@Dharma@}<sup>1</sup>,¦ add: I, 1940 {%(vigrahavān iva),%} 4919, 6500, 7302;
-<>II, 369 ({%°pāśadharaṃ,%} scil. {%Varuṇaṃ%}); IV, 2269 {%(vigrahavān);%}
-<>XII, 12878 {%(°gṛhe),%} 13247 {%(Vṛṣaḥ),%} 13390 {%(°asya gṛhe);%}
-<>XVIII, 216 ({%°āḥ,%} pl., B. {%°aḥ%}). Cf. also Devadeva,
-<>Trivargamukhya, Yakṣa.
+II, 369 ({%°pāśadharaṃ,%} scil. {%Varuṇaṃ%}); IV, 2269 {%(vigrahavān);%}
+XII, 12878 {%(°gṛhe),%} 13247 {%(Vṛṣaḥ),%} 13390 {%(°asya gṛhe);%}
+XVIII, 216 ({%°āḥ,%} pl., B. {%°aḥ%}). Cf. also Devadeva,
+Trivargamukhya, Yakṣa.
 <HI>{@Dharma@}<sup>7</sup>¦ = Yudhiṣṭhira, q.v.
 <HI>{@Dharmagupta,@}¦ read {@Dharmagup.@}
 <HI>{@*Dharmāraṇya,@}¦ add: XII, 13888 ({%°aṃ,%} read {%°āt%} ?).
@@ -1315,136 +1315,136 @@
 <HI>{@Dharmavyādha,@}¦ add: § 481 (do.): III, {@210,@} 13898.
 <HI>{@Dhātrī@}¦ (“mother, nurse”) = Pṛthivī (personif.): XI, 215.
 <HI>{@Dhātṛ,@}¦ add: § 603 (Nārāyaṇāstramokṣap.): VII, {@202<lang n="greek"></lang>,@}
-<>9597 ({%Dhātā ca sa Vidhātā ca,%} identified with Śiva).
+9597 ({%Dhātā ca sa Vidhātā ca,%} identified with Śiva).
 <HI>{@Dhātu,@}¦ read {@Dhātu(r) uttama(ḥ).@}
 <HI>{@Dhaumya@}<sup>1</sup>:¦ II, 2641 {%(Nairṛtāṃ),%} read {%(Nairṛtān).%}
 <HI>{@Dhenuka,@}¦ pl., v. Laḍaka, pl.
 <HI>{@Dhruva@}<sup>11</sup>,¦ a nakshatra: XIV, 1888 (cf. Anugītāparvan).
 <HI>{@Dhṛṣṭadyumna,@}¦ add to the synonyms: {@Drupadaputra,@}
-<>{@Drupadātmaja, Hutabhugjanman@} (v. Additions), {@Saumaki.@}
+{@Drupadātmaja, Hutabhugjanman@} (v. Additions), {@Saumaki.@}
 <HI>{@Dhṛtarāṣṭra@}<sup>5</sup>,¦ Vaicitravīryi, read Vaicitravīryin.
 <HI>{@Dhūmapa,@}¦ pl. {%(°āḥ)%} (“drinking smoke”), a class of beings:
-<>V, 3774; XII, 10280; XIII, †1372 (only B., C. has
-<>{%Dṛṣṭipāḥ%}).
+V, 3774; XII, 10280; XIII, †1372 (only B., C. has
+{%Dṛṣṭipāḥ%}).
 <HI>{@Dhūmaprāśa,@}¦ pl. {%(°āḥ)%} (“eating smoke”), do.: XIII,
-<>†646.
+†646.
 <HI>{@Dhūmorṇā,@}¦ add: V, 3968 (only B., C. has {%Ūrmilā,%} q.v.).
 <HI>{@Dīkṣā@}¦ = Skanda: III, 14643 (only B., C. has {%Dakṣa%}).
 <HI>{@Dīnakṛt,@}¦ read Dinakṛt.
 <HI>{@Ditija,@}¦ pl. add: V, {@105<lang n="greek"></lang>,@} 3685.
 <HI>{@Draupadī,@}¦ in fine dele: cf. Madhusūdanī, and add: cf. Kaura-
-<>varājapatnī, Mālinī<sup>5</sup>, Pāvakātmajā.
+varājapatnī, Mālinī<sup>5</sup>, Pāvakātmajā.
 <HI>{@Draupadīja,@}¦ read {@°dija.@}
 <HI>{@Drāviḍa,@}¦ pl., add: VII, 3379 ({%kākavarṇā durācārāḥ strīlolāḥ%}
-<>{%kalahapriyāḥ,%} only B.).
+{%kalahapriyāḥ,%} only B.).
 <HI>{@Droṇa@}<sup>1</sup>,¦ add to the synonyms:—
 <P>{@Śoṇāśva:@} VII, 954, 3266, 3426, 7213.
 <P>{@Kalaśottamasambhava@} (v. Additions). {@Kumbhasam-@}
-<>{@bhava, Kumbhayoni@} (q.v.).
+{@bhava, Kumbhayoni@} (q.v.).
 <P>{@Rukmavāhana@} (q.v.).
 <HI>{@Droṇaputra,@}¦ add: VII, 6892; VIII, 3029/30 (only B.).
 <HI>{@Dṛśadvatī,@}¦ see Dṛṣadvatī.
 <HI>{@Dṛṣṭipa,@}¦ pl.: XIII, †1372, add: (only C., B. has {%Dhūmapāḥ,%}
-<>v. additions).
+v. additions).
 <HI>{@Duḥsaha@}<sup>1</sup>,¦ IV, 1151, add: (B. has {%Duḥśalaḥ%}).
 <HI>{@Durjaya@}<sup>2</sup>,¦ VI, 3436, add: (read with B. {%Citrasenaḥ%}).
 <HI>{@Dushyanta@}<sup>1</sup>,¦ XIII, 7676, add: (C. has {%Duṣmantaḥ%}). Cf.
-<>Paurava<sup>4</sup>.
+Paurava<sup>4</sup>.
 [Page801-b+ 56]
 <HI>{@Dvārakā,@}¦ add: cf. Ānartta-nagara and °purī (v. Ānartta<sup>1</sup>),
-<>Andhakapura (v. Andhaka<sup>1</sup>), Vṛṣṇipura.
+Andhakapura (v. Andhaka<sup>1</sup>), Vṛṣṇipura.
 <HI>{@Dvijaketana@}¦ (“who has a bird in his banner”) = Kṛṣṇa:
-<>VII, 2836.
+VII, 2836.
 <H>E
 <HI>{@Ekacandrā,@}¦ so B. for Ekavaktrā (q.v.).
 <HI>{@Ekakuṇḍalin@}¦ (“having one ear-ring”) = Balarāma: IX,
-<>2132.
+2132.
 <HI>{@Ekalavyasuta,@}¦ add: cf. Naiṣādi<sup>2</sup>, Niṣādarājan.
 <H>G
 <HI>{@Gada,@}¦ add: III, 8444 (C. {%°ādayaḥ,%} but read with B. {%Gayādayaḥ,%}
-<>v. Gaya<sup>1</sup>).
+v. Gaya<sup>1</sup>).
 <HI>{@Gādhi(n),@}¦ add: Cf. Kuśikanandana.
 <HI>{@Gālava,@}¦ pl., v. Mālava, pl.
 <HI>{@Gajodara,@}¦ add: (B. has {%Ajodaraḥ%}).
 <HI>{@Gaṇḍakaṇḍa,@}¦ read {%Gaṇḍakaṇḍu%} (B. {%°ū%}).
 <HI>{@Gaṇḍakī:@}¦ VI, 325, add: (B. has {%Vandanā%}).
 <HI>{@Gāndhāra,@}¦ pl. add: § 516{%b%} (Kṛṣṇa Vāsudeva): V, {@48,@} †1882
-<>(vanquished by Kṛṣṇa).
+(vanquished by Kṛṣṇa).
 <HI>{@Gandharva,@}¦ pl., add: III, 4014 {%(°mukhyān),%} 10903; V, 5723
-<>(read: {%Gāndharva°,%} adj. q.v.); VIII, 423 (only B.).
+(read: {%Gāndharva°,%} adj. q.v.); VIII, 423 (only B.).
 <HI>{@Gāndharva,@}¦ (“music”), add: II, 143 {%(yuddha-g°-sevī).%}
 <HI>{@Gāṇḍivin,@}¦ read {@Gāṇḍīvin.@}
 <HI>{@Gaṇeśvara,@}¦ pl. (“lords of divine hosts”): IX, 2592; XII,
-<>10308; XIII, 7102 {%(sarvabhūta-°āḥ),%} 7103 {%(°-vināyakāḥ).%}
+10308; XIII, 7102 {%(sarvabhūta-°āḥ),%} 7103 {%(°-vināyakāḥ).%}
 <HI>{@Gaṅgā,@}¦ add: Cf. also Trilokagā, Trilokapathagā.
 <HI>{@Gardabhi,@}¦ read {@Gārdabhi@} (so B., C. has by error {%Garddhabhiḥ%}).
 <HI>{@Garuḍa@}<sup>1</sup>,¦ add: Cf. also Patagarāja, Patagendra, Patagottama
-<>Pataṅgarāja.
+Pataṅgarāja.
 <HI>{@Gaya@}<sup>1</sup>,¦ add: II, 332 (only C., perhaps error for {%Layaḥ,%} B.);
-<>III, 8444 ({%°ādayaḥ,%} only B., C. by error {%Gadā°%}).—IV, 1768
-<>(read: Kṛpa and Arjuna, instead of Bhīṣma and Arjuna).
+III, 8444 ({%°ādayaḥ,%} only B., C. by error {%Gadā°%}).—IV, 1768
+(read: Kṛpa and Arjuna, instead of Bhīṣma and Arjuna).
 <HI>{@Gaya@}<sup>4</sup>,¦ son of Āyus. § 141 (Purūravas): I, {@75,@} 3150
-<>({%rājiṅgayaṃ,%} C., but read with B. {%Rajiṃ Gayaṃ%}).
+({%rājiṅgayaṃ,%} C., but read with B. {%Rajiṃ Gayaṃ%}).
 <HI>{@Gayā,@}¦ add: XIII, 4888 (only B., C. has {%Gaṅgāṃ%}).
 <HI>{@Ghūrṇiā,@}¦ read {@Ghūrṇikā.@}
 <HI>{@Gokarṇā,@}¦ add: (B. has {%Gokarṇī%}).
 <HI>{@Gomatī,@}¦ XIII, 6764, add: (B. has {%Gautamī,%} cf. v. 7647).
 <HI>{@graha@}<sup>1</sup>,¦ add: I, 8283 ({%sārkacandra-°,%} adj.); II, 304 ({%grahās%}
-<>{%tārāś ca,%} B. probably more correctly: {%grahā-stobhāś ca,%}
-<>i.e. {%grahāḥ stobhāś ca%} [sacrificial rites?]), 447; III, 13100;
-<>IV, 1322, 1763; V, †7; VI, 80 (sg. {%mahā-°%}), 94 (dual),
-<>404 (read with B. {%grahaṃ,%} i.e. Rāhu), 2457 (only B., C. has
-<>{%gṛhāḥ%}), 3181 (do. do.), 3347 {%(mahā-°),%} 5209; VII, 6435,
-<>7212 (read {%grahaiḥ%}), †7310 (sg., i.e. the sun), 7320; VIII,
-<>589 {%(°yuddhaṃ),%} 2240, 3136, †3859, 4391 (dual), 4407 (do.).
+{%tārāś ca,%} B. probably more correctly: {%grahā-stobhāś ca,%}
+i.e. {%grahāḥ stobhāś ca%} [sacrificial rites?]), 447; III, 13100;
+IV, 1322, 1763; V, †7; VI, 80 (sg. {%mahā-°%}), 94 (dual),
+404 (read with B. {%grahaṃ,%} i.e. Rāhu), 2457 (only B., C. has
+{%gṛhāḥ%}), 3181 (do. do.), 3347 {%(mahā-°),%} 5209; VII, 6435,
+7212 (read {%grahaiḥ%}), †7310 (sg., i.e. the sun), 7320; VIII,
+589 {%(°yuddhaṃ),%} 2240, 3136, †3859, 4391 (dual), 4407 (do.).
 <P>do. (sg.) of special planets:—
 <P>{@Aṅgāraka:@} VIII, 711 {%(A°).%}
 <P>{@Śveta:@} VI, 3588 ({%Śvetagrahaṃ,%} C. {%Śvetaṃ grahaṃ,%} B.).
 <P>{@Rāhu:@} VI, 86 (read 85), 95 (only B.), 404 (do.), 480
-<>(read 481).
+(read 481).
 <HI>{@Guṇāvatī,@}¦ a river. § 595 (Ṣoḍaśarāj. v. Rāma Jāmadagnya):
-<>VII, {@70,@} 2432 (in a passage inserted in B.).
+VII, {@70,@} 2432 (in a passage inserted in B.).
 <HI>{@Guru@}<sup>1</sup>,¦ add: I, 3224 ({%°dehajaḥ,%} i.e. Kaca).—Do.<sup>2</sup>: VII,
-<>6302, 9073; VIII, †811 ({%°oḥ sutāya,%} i.e. Aśvatthāman),
-<>†4510; XII, 50.
+6302, 9073; VIII, †811 ({%°oḥ sutāya,%} i.e. Aśvatthāman),
+†4510; XII, 50.
 [Page802-a+ 57]
 <H>H
 <HI>{@Haiḍimbasūnu,@}¦ add: (C. has {%Haiḍamba°,%} B. {%Haiḍimbi°%}).
 <HI>{@Hanūmat,@}¦ add: Cf. Kesarin and the synonym Laṅkeśavanāri.
 <HI>{@Harāhara,@}¦ read: {%Virūpākṣo Harāharau?%} (instead of
-<>{%Virūpākṣā,%} etc.).
+{%Virūpākṣā,%} etc.).
 <HI>{@Hari@}<sup>8</sup>,¦ add: VII, 9323 {%(vyasṛjat…vajraṃ Vṛtre yathā%}
-<>{%H°ḥ).%}
+{%H°ḥ).%}
 <HI>{@Harivarsha,@}¦ add: Cf. XII, 12228 {%(Meror Hareś ca dve varṣe).%}
 <HI>{@Hayaśiras,@}¦ add: Cf. I, 6863 ({%mahad dhayaśiro bhūtvā,%} scil.
-<>the fire of Aurva's wrath).
+the fire of Aurva's wrath).
 <HI>{@Hayagrīva@}<sup>3</sup>,¦ add: Cf. Aśvagrīva, Vājigrīva.
 <HI>{@Hayarāja,@}¦ add: = Hayarājan (C.); probably Keśin is meant,
-<>cf. Hariv. 3110, 3130, 4279 foll.
+cf. Hariv. 3110, 3130, 4279 foll.
 <HI>{@Hiḍimba,@}¦ add: VII, {@156,@} 6841 (B. {%°ānucaraiḥ saha,%} C. by error
-<>{%Haiḍimbo 'nucaraiḥ saha%}).
+{%Haiḍimbo 'nucaraiḥ saha%}).
 <HI>{@Himādri@}¦ = Himavat: VIII, †701 {%(°kūṭa°),%} †705 (do.).
 <HI>{@Hiraṇyagarbha@}<sup>4</sup>¦ = Skanda: III, 14407.
 <HI>{@Hṛdika,@}¦ add: VII, 4528 ({%°syātmasambhavaḥ,%} i.e. Kṛtavarman).
 <HI>{@Hutabhugjanman@}¦ (“arosen from fire”) = Dhṛṣṭadyumna:
-<>VII, 5279.
+VII, 5279.
 <H>I
 <HI>{@Īśa@}<sup>6</sup>¦ = Skanda: IX, 2721.
 <HI>{@Īśvara@}<sup>2</sup>,¦ dele I, 6615 {%(Gopatiṃ).%}—Add: XIII, 792, 795,
-<>797 ({%parameśvarāt,%} with incorrect sandhi, i.e. {%parama%}
-<>{%īśvarāt%}).
+797 ({%parameśvarāt,%} with incorrect sandhi, i.e. {%parama%}
+{%īśvarāt%}).
 <HI>{@Īśvara@}<sup>11</sup>¦ = Sūrya (the sun): I, 6615 {%(Gopatiṃ).%}
 <HI>{@Ikṣvāku@}<sup>6</sup>,¦ sg. = Bhagīratha: XII, 962 (= {%Bh°,%} only B., C.
-<>has {%Aikṣvākuṃ%}).
+has {%Aikṣvākuṃ%}).
 <HI>{@Ilā@}<sup>2</sup>,¦ a river. § 434 (Saugandhikāharaṇa): III, {@156,@} 11437.
 <HI>{@Indra,@}¦ add: VI, 2000 ({%Indraṃ,%} C., {%Aindraṃ,%} B.); VII, 3786
-<>{%(°-Āgnyoḥ);%} XII, 13802 {%(°-ātikramaṃ cakre Māndhātā).%}—
-<>Synonyms:—
+{%(°-Āgnyoḥ);%} XII, 13802 {%(°-ātikramaṃ cakre Māndhātā).%}—
+Synonyms:—
 <P>{@Akhaṇḍala,@} read: Ākhaṇḍala.
 <P>{@Amararāj,@} IV, 1573 ({%Amararāṭ-samaṃ,%} i.e. Arjuna).
 <P>{@Bhuvaneśvara,@} q.v. (Additons).
 <P>{@Śakra,@} I, 2822; VI, 3039 (only B., C. has {%cakraṃ%}), 4453
-<>(only B., C. has {%śatrūn%}).
+(only B., C. has {%śatrūn%}).
 <P>{@Śatalocana,@} VIII, 4445
 <P>{@Devādhipa,@} XII, 3662.
 <P>{@Devarāj,@} V, 5961.
@@ -1453,7 +1453,7 @@
 <P>{@Lokādhipati,@} q.v.
 <P>{@Maghavat,@} VI, 4265 (only B., C. has {%Bhagavān%}).
 <P>{@Mahendra,@} VI, †782 (so B. instead of {%mahīndraṃ,%} C.),
-<>2000 (only B., C. by error {%Upendra-°%}).
+2000 (only B., C. by error {%Upendra-°%}).
 <P>{@Surarāj,@} VII, †88.
 <P>{@Surottama,@} XIII, 283 (B. {%Surādhipa%}).
 <P>{@Trailokyeśa,@} III, 13614.
@@ -1468,113 +1468,113 @@
 [Page802-b+ 57]
 <HI>{@Indraloka,@}¦ add: cf. Surendraloka.
 <HI>{@Indrasena@}<sup>2</sup>,¦ add: § 600 (Ghaṭotkacavadhap.): VII, {@153,@}
-<>6630 (only B.).
+6630 (only B.).
 <HI>{@Indrāstra@}¦ (“the weapon of Indra”): VI, 2001 (only B., C. has
-<>{%Aindrāstra%}).
+{%Aindrāstra%}).
 <HI>{@Irāmā,@}¦ read {@Īrāmā@} (B. {%Irāmā%}).
 <HI>{@Irāvat,@}¦ add: VI, {@95,@} 9322. Cf. Nāgarājasutāsuta, Phālguni.
 <HI>{@Irāvatī,@}¦ add: VIII, {@44<lang n="greek"></lang>,@} 2055 ({%Airāvatī,%} both C. and B.).
 <HI>{@itihāsa@}<sup>1</sup>,¦ add: I, 26, 54, 87, 309, 311, 648, 938, 1025, 2299,
-<>2326—7, 3967, 4178; II, 2314; III, 1137, 3073, 3075, 3078,
-<>15404; V, 1073, 1185, 1260, 3511, 3720, 4494; VII, 2126;
-<>VIII, 1581; XII, 305, 536, 615, 668, 744, 834, 905, 1293,
-<>2536, 2750, 2780, 2810, 2888, 3025, 3059, 3183, 3464, 3795,
-<>3848, 4084, 4197, 4254, 4469, 4534, 4567, 4629, 4718, 4851,
-<>4930, 5124, 5249, 5330, 5593, 5600, 5676, 5800, 5804, 6293,
-<>6464, 6523, 6563, 6589, 6640, 6654, 6693, 6769, 7151, 7156,
-<>7199, 7366, 7642, 7652, 7882, 8023, 8059, 8187, 8217, 8335,
-<>8431, 8483, 9277, 9467, 9482, 9560, 9600, 9756, 9874, 9916,
-<>9929, 10533, 10555, 10613, 10993, 11220, 11545, 11839,
-<>11854, 12484, 12648, 12656, 12819, 13720; XIII, 16, 87,
-<>410, 529, 990, 1340, 1390, 1777, 1863, 1864, 1872, 2009,
-<>2046, 2129, 2165, 2203, 2248, 2722, 3153, 3253, 3396, 3486,
-<>3546, 3852, 3884, 3959, 4303, 4415, 4547, 4678, 4686, 4745,
-<>4814, 4845, †4863, 4909, 5104, 5440, 5794, 5883, 7153, 7186;
-<>XIV, 599, 628, 655, 667, 684, 711, 728, 751, 793, 817, 839,
-<>887, 935, 2849; XVIII, 183, 194, 200, 220.
+2326—7, 3967, 4178; II, 2314; III, 1137, 3073, 3075, 3078,
+15404; V, 1073, 1185, 1260, 3511, 3720, 4494; VII, 2126;
+VIII, 1581; XII, 305, 536, 615, 668, 744, 834, 905, 1293,
+2536, 2750, 2780, 2810, 2888, 3025, 3059, 3183, 3464, 3795,
+3848, 4084, 4197, 4254, 4469, 4534, 4567, 4629, 4718, 4851,
+4930, 5124, 5249, 5330, 5593, 5600, 5676, 5800, 5804, 6293,
+6464, 6523, 6563, 6589, 6640, 6654, 6693, 6769, 7151, 7156,
+7199, 7366, 7642, 7652, 7882, 8023, 8059, 8187, 8217, 8335,
+8431, 8483, 9277, 9467, 9482, 9560, 9600, 9756, 9874, 9916,
+9929, 10533, 10555, 10613, 10993, 11220, 11545, 11839,
+11854, 12484, 12648, 12656, 12819, 13720; XIII, 16, 87,
+410, 529, 990, 1340, 1390, 1777, 1863, 1864, 1872, 2009,
+2046, 2129, 2165, 2203, 2248, 2722, 3153, 3253, 3396, 3486,
+3546, 3852, 3884, 3959, 4303, 4415, 4547, 4678, 4686, 4745,
+4814, 4845, †4863, 4909, 5104, 5440, 5794, 5883, 7153, 7186;
+XIV, 599, 628, 655, 667, 684, 711, 728, 751, 793, 817, 839,
+887, 935, 2849; XVIII, 183, 194, 200, 220.
 <H>J
 <HI>{@Jagannātha@}<sup>2</sup>,¦ add: II, 779; III, 15529.
 <HI>{@Jaguḍa,@}¦ read {@Jāguḍa.@}
 <HI>{@Jājñasenī@}¦ (II, 2294; III, 10874), v. Yājñasenī.
 <HI>{@Jalasandha@}<sup>1</sup>¦ or <sup>2</sup>, add: VI, 1926 (so B. instead of {%Jārā-%}
-<>{%sandhiḥ%}).
+{%sandhiḥ%}).
 <HI>{@Jaleśvarī,@}¦ a matṛ. IX, 2631 (only B.).
 <HI>{@Jāmbavatī,@}¦ add: according to Hariv. 2072, 6701, a daughter
-<>of Jāmbavat.—Cf. Vidyādharendra(sya sutā).
+of Jāmbavat.—Cf. Vidyādharendra(sya sutā).
 <HI>{@Jambha@}<sup>1</sup>,¦ add: § 600 (Ghaṭotkacavadhap.): VII, {@167,@} 7485
-<>(only B., C. has {%Bali-°%}).
+(only B., C. has {%Bali-°%}).
 <HI>{@Janaka,@}¦ after (XIV, {@32@}) dele the foll. words: “who described
-<>himself as emancipated, and said that J. would enter his
-<>soul (XIV, {@33@}).”
+himself as emancipated, and said that J. would enter his
+soul (XIV, {@33@}).”
 <HI>{@Janamejaya@}<sup>8</sup>,¦ add: Cf. Somaka.
 <HI>{@Jaṭālikā,@}¦ add: (C. by error {%Jāṭālikā%}).
 <HI>{@Jaya@}<sup>1</sup>,¦ add: § 580 (Bhīṣmavadhap.): VI, {@57<lang n="greek"></lang>,@} 2452 (only B.)
-<>—Do.<sup>8</sup>, add: (B. has {%Jayāśvaṃ%}).
+—Do.<sup>8</sup>, add: (B. has {%Jayāśvaṃ%}).
 <HI>{@Jayadratha@}<sup>1</sup>,¦ add from B.: VI, 1851, 2014/15; VII, 6456—57,
-<>6474. Cf. also the synonym Varāhadhvaja.
+6474. Cf. also the synonym Varāhadhvaja.
 <HI>{@Jayatsena@}<sup>1</sup>,¦ add from B.: VI, 1851, 2014—15.
 <HI>{@Jeṣṭhila,@}¦ a tīrtha: III, {@84,@} 8112 (probably wrong reading
-<>in B. and C. for {%Jyeṣṭhila,%} q.v.).
+in B. and C. for {%Jyeṣṭhila,%} q.v.).
 <HI>{@Jitaśatru,@}¦ a ṛṣi: II, 442 (so B. for Ajitaśatru, q.v.).
 <HI>{@Jyotishka@}<sup>2</sup>:¦ VII, {@30,@} 1315 ({%uttamāstre,…%} read: 1325
-<>({%Uttamāstreṇa,%} only C., B. has {%Jyautiṣeṇa,…%}).
+({%Uttamāstreṇa,%} only C., B. has {%Jyautiṣeṇa,…%}).
 <H>K
 <HI>{@Ka@}<sup>1</sup>,¦ add: (cf. XII, 11752, 11764).
 <HI>{@Kaca,@}¦ add: cf. Guru (Additions above).
 <HI>{@Kāśirāja@}<sup>5</sup>,¦ add: § 592 (Saṃśaptakavadhap.): VII, {@23<lang n="greek"></lang>,@}
-<>987—88 (only B.).
+987—88 (only B.).
 [Page803-a+ 60]
 <HI>{@Kāśisuta,@}¦ read Kāśisuta.
 <HI>{@Kāśya@}<sup>2</sup>,¦ in fine read Kāśipati<sup>2</sup>, Kāśirāja<sup>5</sup>.
 <HI>{@Kaśyapa,@}¦ add: III, 12955 (read so with B. instead of {%Kā°%});
-<>XIII, 7237 (only B.).
+XIII, 7237 (only B.).
 <HI>{@Kāśyapa@}<sup>1</sup>,¦ III, 189, read III, {@189.@}
 <HI>{@Kāśyapa,@}¦ dual {%(°au),%} read = Yāja and Upayāja.
 <HI>{@Kāśyapī,@}¦ XIII, 7237 (only C., B. has {%Kaśyapaḥ%}).
 <HI>{@Kadhmora,@}¦ an ancient king: § 775 (Ānuśāsanik.): XIII,
-<>{@166<lang n="greek"></lang>,@} 7678/79 (only B.).
+{@166<lang n="greek"></lang>,@} 7678/79 (only B.).
 <HI>{@Kaiśikī,@}¦ III, 10095 (so C. by error instead of {%Kauś°%}).
 <HI>{@Kaikaya,@}¦ dele VI, 2695, etc.
 <HI>{@Kaikeya,@}¦ add: § 581 (Bhīṣmavadhap.): VI, {@61<lang n="greek"></lang>,@} 2695
-<>(attached by Dhṛṣṭadyumna).
+(attached by Dhṛṣṭadyumna).
 <HI>{@Kaikeya@}<sup>1</sup>,¦ add: VI, 1721 (read with B. {%Gautamaṃ Kaikeyaḥ%}
-<>{%kruddhaḥ%}).
+{%kruddhaḥ%}).
 <HI>{@Kaikeya@}<sup>4</sup>,¦ add: (B. has {%Kekaya%}).
 <HI>{@Kākudika,@}¦ read Kākudīka.
 <HI>{@Kalā,@}¦ pl., add: Do.<sup>3</sup> = Durgā (Umā): VI, 804.
 <HI>{@Kalaśottamasambhava@}¦ (“born from the excellent jar”) =
-<>Droṇa: VII, 5019 (C. has {%Kalaso°%}).
+Droṇa: VII, 5019 (C. has {%Kalaso°%}).
 <HI>{@Kālāgni,@}¦ add: XII, 8305.
 <HI>{@Kālakañja,@}¦ IV, 1539 {%(Dānavaḥ),%} read: {%(Dānavāḥ).%}
 <HI>{@Kālakūṭa@}<sup>1</sup>,¦ add: § 197 (Bhīmasena-rasapāna): I, {@129,@}
-<>5067/68 (only B.).—§ 608 (Karṇap.): VIII, {@83,@} 4251 (all.
-<>to § 197).
+5067/68 (only B.).—§ 608 (Karṇap.): VIII, {@83,@} 4251 (all.
+to § 197).
 <HI>{@Kali@}<sup>1</sup>,¦ § 773{%b%} (Kṛṣṇa), read: XIII, {@159,@} 7363 (in the {%K. yuga%}
-<>Kṛṣṇa is {%adharma,%} C. has {%Kalavadharmaḥ%} by error instead
-<>of {%Kalāv adharmaḥ;%} B. {%Kalau tvadharmaḥ%}).
+Kṛṣṇa is {%adharma,%} C. has {%Kalavadharmaḥ%} by error instead
+of {%Kalāv adharmaḥ;%} B. {%Kalau tvadharmaḥ%}).
 <HI>{@Kālika,@}¦ v. Pāṇika (additions).
 <HI>{@Kālikeya,@}¦ VII, 1933 (read: {%Subaladāyādaṃ%}).
 <HI>{@Kaliṅga,@}¦ pl., add: VI, 2300 (B. {%Kā°%}), 2314 (C. {%Kā°%}), 2335
-<>(only B.); VII, 360 (only B.),
+(only B.); VII, 360 (only B.),
 <HI>{@Kāliṅga@}<sup>1</sup>,¦ add: VI, 2230 (B. has {%Bhānumantaṃ%}); 2272/73
-<>(only B.).
+(only B.).
 <HI>{@Kāliṅga,@}¦ pl., add: VI, 2330 (B. {%Ka°%}), 2338 (do.), 3117
-<>(C. {%Ka°%}); VII, 1854 (B. {%Ka°%}).
+(C. {%Ka°%}); VII, 1854 (B. {%Ka°%}).
 <HI>{@Kaliṅgaputra,@}¦ (“son of the king of the Kaliṅgas”): VIII,
-<>†4328 (so B. probably better instead of {%Kulindaputraḥ%}).
+†4328 (so B. probably better instead of {%Kulindaputraḥ%}).
 <HI>{@Kāliṅgatanaya,@}¦ (do. = Śakradeva): VI, 2258 (only B.).
 <HI>{@Kalkin,@}¦ § 460, read: § 460{%c.%}
 <HI>{@Kalmāṣa,@}¦ a certain breed of horses: II, 1043, 1056, 1824,
-<>2083; III, 4015; VI, 3497; VII, 958; XII, 4560. Cf.
-<>V, 2228.
+2083; III, 4015; VI, 3497; VII, 958; XII, 4560. Cf.
+V, 2228.
 <HI>{@Kalpavṛkṣa,@}¦ add: I, 7908.
 <HI>{@Kāma@}<sup>1</sup>,¦ add: cf. Madana.
 <HI>{@Kamalāsana@}¦ (“having a lotus as seat”) = Brahmán: III,
-<>4067.
+4067.
 <HI>{@Kāmaṇḍa, Kāmaṇḍaka,@}¦ read: Kāmanda, Kāmandaka.
 <HI>{@Kāmaratha:@}¦ VII, 7012 (add: only C., B. has {%Samarathaḥ%}).
 <HI>{@Kāmboja,@}¦ pl.: VI, 2408 (only C., B. has {%Kāmbojaḥ,%} i.e. Sudak-
-<>ṣiṇa); VII, 5242 (only C., B. has {%Daradānāṃ%}).
+ṣiṇa); VII, 5242 (only C., B. has {%Daradānāṃ%}).
 <HI>{@Kāmboja@}<sup>1</sup>,¦ add: VI, 1851 (only B.).
 <HI>{@Kāmboja,@}¦ adj., add: VIII, †200 (sc. horses).
 <HI>{@Kaṃsa,@}¦ add: Cf. Bhoja<sup>5</sup>, Bhojarāja<sup>1</sup>.
@@ -1582,48 +1582,48 @@
 <HI>{@Kānvaśira,@}¦ v. Konvaśira.
 <HI>{@Kapaṭa,@}¦ add: I, 2665 (only B., C. has {%Kratha%}).
 <HI>{@Kapāṭa,@}¦ a city of the Pāṇḍyas (?). § 561{%c%} (Kṛṣṇa): V, {@48,@}
-<>†1883 (according to a var. lect. mentioned by Nīl.: {%ayaṃ%}
-<>{%Kapāṭe nijaghāna Pāṇḍyaṃ;%} B.C. read {%kapaṭena jaghāna%}).—
+†1883 (according to a var. lect. mentioned by Nīl.: {%ayaṃ%}
+{%Kapāṭe nijaghāna Pāṇḍyaṃ;%} B.C. read {%kapaṭena jaghāna%}).—
 [Page803-b+ 60]
-<>Cf. § 592 (Saṃśaptakavadhap.): VII, {@23<lang n="greek"></lang>,@} 1016 ({%bhinne%}
-<>{%Kapāṭe Pāṇḍyānāṃ,%} which Nīl. explains by {%nagaraviśeṣe%}).
+Cf. § 592 (Saṃśaptakavadhap.): VII, {@23<lang n="greek"></lang>,@} 1016 ({%bhinne%}
+{%Kapāṭe Pāṇḍyānāṃ,%} which Nīl. explains by {%nagaraviśeṣe%}).
 <HI>{@Kapiskandha,@}¦ v. Pratiskandha.
 <HI>{@Karandhama,@}¦ add: § 775 (Ānucāsanik.): XIII, {@166<lang n="greek"></lang>,@} 7678/79
-<>(only B.).
+(only B.).
 <HI>{@Karṇa@}<sup>1</sup>,¦ add: I, 7037 (read with B. {%yat Karṇa-Śalya-%}
-<>{%pramukhaiḥ%}); V, †35 (only B.); VII, 5304 (B. {%Karṇaḥ%}
-<>{%samāplutya%}), 7467 (B. {%śaraiḥ Karṇaḥ%} for {%śitair bāṇaiḥ%});
-<>VIII, 333 (B. {%Droṇe%}), 1703 (only B.).
+{%pramukhaiḥ%}); V, †35 (only B.); VII, 5304 (B. {%Karṇaḥ%}
+{%samāplutya%}), 7467 (B. {%śaraiḥ Karṇaḥ%} for {%śitair bāṇaiḥ%});
+VIII, 333 (B. {%Droṇe%}), 1703 (only B.).
 <P>{@Ravitanaya,@} q.v.
 <HI>{@Karṇa@}<sup>2</sup>,¦ add: § 600 (Ghaṭotkacavadhap.): VII, {@164<lang n="greek"></lang>,@} 7337,
-<>({%Karṇañ ca,%} B., C. has {%Vikarṇaṃ%}).
+({%Karṇañ ca,%} B., C. has {%Vikarṇaṃ%}).
 <HI>{@Karṇaputra@}<sup>1</sup>,¦ add: VII, 7646 (only B.).
 <HI>{@Karṇasuta@}<sup>1</sup>,¦ add: VIII, 3728/29 (only B.).
 <HI>{@Kārṣṇa,@}¦ add: XVIII, 209/10 (only B.).
 <HI>{@kāṣṭhāḥ@}<sup>2</sup>,¦ add: Do.<sup>4</sup> = Durgā (Umā): VI, 804.
 <HI>{@Kātyāyana,@}¦ a ṛṣi. § 795{%c%} (Mahābhārata): XVIII, {@6<lang n="greek"></lang>,@} 216
-<>(only B.: {%muniḥ Kātyāyano varaḥ,%} C. has {%munibhiḥ%}
-<>{%kāyagocaraḥ%}).
+(only B.: {%muniḥ Kātyāyano varaḥ,%} C. has {%munibhiḥ%}
+{%kāyagocaraḥ%}).
 <HI>{@Kauśija,@}¦ pl., add: (only C., B. has {%Kosalāḥ%}).
 <HI>{@Kaulūtaka,@}¦ adj. (“originating from the Kulūtas”): VII, 3897
-<>({%hayāḥ,%} only B., C. has {%kulīnāś ca%})
+({%hayāḥ,%} only B., C. has {%kulīnāś ca%})
 <HI>{@Kaumāra,@}¦ adj., add: § 11 (Parvasaṅgr.): I, {@2,@} 551 ({%°an%}
-<>{%ākhyānaṃ,%} only B., referring to IX, {@44,@} foll.).
+{%ākhyānaṃ,%} only B., referring to IX, {@44,@} foll.).
 <HI>{@Kaunteya@}<sup>1</sup>,¦ add: VI, 4654, 5620 (only B.); VII, 3873/74
-<>(only B.); XII, 13179.—Do.<sup>2</sup>: VII, 5384 (only B.).—
-<>Do.<sup>4</sup>: I, 7884 (only B.); dele VI, 4654; VI, 4973 (only
-<>B.); VIII, 2357 (only B.); dele XII, 13179; XIII, 7721
-<>(only B.).
+(only B.); XII, 13179.—Do.<sup>2</sup>: VII, 5384 (only B.).—
+Do.<sup>4</sup>: I, 7884 (only B.); dele VI, 4654; VI, 4973 (only
+B.); VIII, 2357 (only B.); dele XII, 13179; XIII, 7721
+(only B.).
 <HI>{@Kaurava,@}¦ pl., add: VII, 7061, †8155 (only C.).
 <HI>{@Kauravya@}<sup>1</sup>,¦ add: III, 1528.
 <HI>{@Kausalya@}<sup>1</sup>,¦ add: VI, 1851 ({%B°,%} only B.) 2014/15 (do. do.).—
-<>Do., pl.: VIII, 2226 (B. {%Kosalaiḥ%}).
+Do., pl.: VIII, 2226 (B. {%Kosalaiḥ%}).
 <HI>{@Kāverakā,@}¦ add: (only C., B. has {%Śīveṇikā%}).
 <HI>{@Kavīndra@}<sup>1</sup>¦ = Uśanas: XIII, 4690.—Do.<sup>2</sup> = Vyāsa: VI,
-<>118.
+118.
 <HI>{@*Kāvya@}<sup>3</sup>,¦ adj. (“originating from Kavi [i.e. Śukra]”): V,
-<>857 ({%vācaṃ,%} according to Nīl. = {%Śaukraṃ%}), 3327. Cf. II,
-<>2097, 2117, 2197; V, 1262; XII, 4583 foll.
+857 ({%vācaṃ,%} according to Nīl. = {%Śaukraṃ%}), 3327. Cf. II,
+2097, 2117, 2197; V, 1262; XII, 4583 foll.
 <HI>{@Kekaya,@}¦ pl., add: VIII, 3395/96 (only B.).
 <HI>{@Ketuvarman,@}¦ so B. instead of Ketudharman (q.v.).
 <HI>{@Ketumat@}<sup>2</sup>:¦ VI, 2239 ({%Naiṣādaṃ,%} read {%Naiṣādiṃ%}).
@@ -1633,31 +1633,31 @@
 <HI>{@Khalu,@}¦ see Śalu.
 <HI>{@Khāṇḍava,@}¦ add: § 595 (Shoḍaśarāj.): VII, {@70,@} 2432 (only B.).
 <HI>{@Khara,@}¦ add: § 539 (Kumbhakarṇādiv.): III, {@287,@} 16443
-<>(only B.)
+(only B.)
 <HI>{@Kiṅkara@}<sup>2</sup>¦…§ 345, read § 545; add: § 793 (Mausalap.):
-<>XVI, {@1,@} 26 {%(musalaṃ °pratimaṃ).%}
+XVI, {@1,@} 26 {%(musalaṃ °pratimaṃ).%}
 <HI>{@Kīrti,@}¦ add: XII, 12919, 13536.
 <HI>{@Koṇvaśira,@}¦ read Konvaśira (B. Kānvaśira).
 <HI>{@Kosala,@}¦ pl., add: VI, 349 (only B.); VIII, 2226 (do.).
 <HI>{@Koṭikāsya,@}¦ add: Cf. Śaibya<sup>6</sup>, Śibi, pl.
 <HI>{@Koṭirā,@}¦ a mātṛ: IX, 2632 (only C., B. has {%Koṭarā,%} q.v.).
 <HI>{@Krama,@}¦ add: I, 2880 {%(pada-°),%} 2885 {%(°-cikṣā-viśāradaiḥ),%}
-<>XII, 13527 {%(Pañcālena kramaḥ prāptaḥ).%}
+XII, 13527 {%(Pañcālena kramaḥ prāptaḥ).%}
 <HI>{@Krauñca@}<sup>1</sup>,¦ add: VII, {@134,@} 5529 ({%Krauñca-°,%} read with B.
-<>{%Krauñcaṃ%}).
+{%Krauñcaṃ%}).
 [Page804-a+ 58]
 <HI>{@Krodhavaca,@}¦ pl., add: § 438 (Yakṣayuddhap.): III, {@161,@}
-<>11757 ({%gaṇāḥ,%} slain by Bhīmasena).
+11757 ({%gaṇāḥ,%} slain by Bhīmasena).
 <HI>{@Krodhavaśā,@}¦ add: cf. Hariv. 170 (where K. is mentioned
-<>among the wives of Kaśyapa).
+among the wives of Kaśyapa).
 <HI>{@Kṛśānu,@}¦ add: I, 5831; XIII, †1850.
 <HI>{@Kṛpa,@}¦ add: IV, 1624 (only B.); VI, 663 (B. {%Māgadhasya%}
-<>{%Kṛpo yayau,%} C. {%Māgadhaś ca ripuṃ yayau%}), 1910/11 (only
-<>B.); VII, 6314 (only B.).
+{%Kṛpo yayau,%} C. {%Māgadhaś ca ripuṃ yayau%}), 1910/11 (only
+B.); VII, 6314 (only B.).
 <P>Synonyms: {@Acārya,@} read: {@Ācārya.@}
 <HI>{@Kṛṣṇa@}<sup>1</sup>,¦ add: VI, {@43<sup>4</sup>,@} 1532/3 (only B.), †3767 (do.); VIII,
-<>3395/96 (do.), 4023—24 (do.); XIII, 7391 ({%Kṛṣṇāt,%} B.,
-<>C. has {%Kṛtsnaṃ%}).
+3395/96 (do.), 4023—24 (do.); XIII, 7391 ({%Kṛṣṇāt,%} B.,
+C. has {%Kṛtsnaṃ%}).
 <P>Synonyms: {@Atman,@} read {@Ātman.@}
 <P>{@Cakradhara:@} XII, 8879.
 <P>{@Cakrapāṇi,@} add: (only C.), 2604 (only B.).
@@ -1667,53 +1667,53 @@
 <P>{@Devakīsuta:@} XIII, 6949, dele (Viṣṇu's 1000 names).
 <P>{@Dvijaketana,@} q.v. (Additions).
 <P>{@Govinda,@} add from B.: VI, 1532/33, 2604, 3022; VII,
-<>6456/57.
+6456/57.
 <P>{@Jagadbhartṛ, Jagadgoptṛ@} (q.v.).
 <P>{@Janārdana,@} add from B.: V, 4453; VI, 3022; VII.
-<>6458/59, 6474; VIII, 3760/61; XI, 486.
+6458/59, 6474; VIII, 3760/61; XI, 486.
 <P>{@Keśava,@} add from B.: II, 1534/35; VI, 1532/33; VII,
-<>1296/97, 3718/19; VIII, 2357; XI, 471/72; XIII, 2026.
+1296/97, 3718/19; VIII, 2357; XI, 471/72; XIII, 2026.
 <P>{@Madhunisūdana, Pakshivaradhvaja, Pītāmbaradhara,@}
-<>q.v.
+q.v.
 <P>{@Pītavāsas:@} III, 12882 read 12822; add: XII, 1678,
-<>1681.
+1681.
 <PTEMP>{@Sarveśa, Sarveśvara, Tārkṣyaketana, Tārkṣyalak-@}
-<>{@ṣaṇa,@}¦ q.v.
+{@ṣaṇa,@}¦ q.v.
 <P>{@Vāsudeva,@} add from B.: VI, 3039, 4856; VII, (2966),
-<>7715, 8182; VIII, 3063.
+7715, 8182; VIII, 3063.
 <P>{@Vibudhārighna, Vṛṣṇikulaśreṣṭha, Yogācārya,@} q.v.
 <HI>{@Kṛṣṇa@}<sup>4</sup>,¦ add: VII, 7023 ({%hate tu Pāṇḍave Kṛṣṇe,%} only B.,
-<>C. has {%Kṛṣṇo%}).
+C. has {%Kṛṣṇo%}).
 <HI>{@Kṛṣṇa@}<sup>1</sup>,¦ dual., add: IX, 798 (only B., C. {%Kṛṣṇa-%}
-<>{%Pārthayoḥ%}).
+{%Pārthayoḥ%}).
 <HI>{@Kṛṣṇavarṇā,@}¦ add: (only C., B. has {%Kṛṣṇakarṇī%}).
 <HI>{@*kṛtānta,@}¦ dele XII, 7907; add: I, †1259 {%(kupita°),%} 1397;
-<>VI, 2773; VII, 2750 {%(gatiḥ °asya),%} 3066 {%(°asya vidhiḥ);%}
-<>XII, 10011 {%(°vidhi-);%} XVI, 25.
+VI, 2773; VII, 2750 {%(gatiḥ °asya),%} 3066 {%(°asya vidhiḥ);%}
+XII, 10011 {%(°vidhi-);%} XVI, 25.
 <HI>{@Kṛtayuga,@}¦ add: cf. Ādiyuga.
 <HI>{@Kṛttikā,@}¦ pl. III, 14103 {%(Radrāc ca sambhūto),%} read {%(Rudrāc%}
-<>{%…).%}
+{%…).%}
 <HI>{@Kṣaṇadācara,@}¦ pl. (“night-walkers”) = Rākṣasa, pl.:
-<>III, 11427, †15590 {%(°-strī),%} 16357, 16383 (sg., {%Prahastaṃ%});
-<>VII, †6920.
+III, 11427, †15590 {%(°-strī),%} 16357, 16383 (sg., {%Prahastaṃ%});
+VII, †6920.
 <HI>{@Kshatradeva,@}¦ VII, 974 (B. has {%Ṛkṣadevaṃ%}).
 <HI>{@Kṣemakīrti,@}¦ IX, 1100 (B. has {%Kṣemadhūrtiṃ%}).
 <HI>{@Kucīrā,@}¦ add: (B. {%Kuvīrā%}).
 <HI>{@Kuśādya,@}¦ pl. {%(°āḥ),%} the plural form {%°āḥ%} is not in our editions
-<>(B. {%Kuśādyaḥ,%} C. {%Kulādyaḥ%}), but PCR. translates
-<>“Kulādyas”; for the rest, see Adhivājya<sup>6</sup>.
+(B. {%Kuśādyaḥ,%} C. {%Kulādyaḥ%}), but PCR. translates
+“Kulādyas”; for the rest, see Adhivājya<sup>6</sup>.
 <HI>{@Kuśalin,@}¦ name of a certain low caste (Caṇḍāla, Nīl.): XII,
-<>10730.
+10730.
 [Page804-b+ 57]
 <HI>{@Kuhū@}<sup>1</sup>,¦ add: VIII, 1486 (C. {%Kuhuṃ,%} was made one of the
-<>traces of Śiva's chariot).
+traces of Śiva's chariot).
 <HI>{@Kukuna,@}¦ add: (B. {%Kukuṇaḥ%}).
 <HI>{@Kulinda,@}¦ pl., add. from B.: VI, 3853; VII, 4847 (C. in both
-<>places {%Pu°%}).
+places {%Pu°%}).
 <HI>{@Kulindaputra@}<sup>3</sup>,¦ add: (B. {%Kaliṅga°%} (v. supra)).
 <HI>{@Kumbhāṇḍaka,@}¦ add: (B. {%Kumbhāṇḍakodaraḥ%}).
 <HI>{@Kumudanātha@}¦ (“lord of the lotuses”) = Soma (the moon):
-<>VII, 8408.
+VII, 8408.
 <HI>{@Kuṇḍabheda,@}¦ add: (B. {%Kuṇḍabhediṃ%}).
 <HI>{@Kundāparanta,@}¦ see Kuṭṭāparanta.
 <HI>{@Kuntīnandana@}<sup>1-2</sup>,¦ read {@Kunti-°.@}
@@ -1722,178 +1722,178 @@
 <H>L
 <HI>{@Labdhalaksha,@}¦ add: (only C.).
 <HI>{@*lavanodaka@}¦ (do.): III, 13677 {%(sāgaraḥ);%} XIII, 2136
-<>{%(samudraḥ),%} 7219 (do.).
+{%(samudraḥ),%} 7219 (do.).
 <HI>{@Laya,@}¦ an ancient king. § 267 (Yamasabhāv.): II, {@8,@} 332
-<>(only B., C. has by error {%Gayaḥ%}).
+(only B., C. has by error {%Gayaḥ%}).
 <HI>{@Lokādi@}<sup>1</sup>¦ (“beginning of the world”) = Brahmán: XII,
-<>12914.—Do.<sup>2</sup> = Śiva: VII, 2863.
+12914.—Do.<sup>2</sup> = Śiva: VII, 2863.
 <HI>{@Lokamaheśvara@}¦ = Kṛṣṇa: VI, 1207.
 <HI>{@Lokapāla,@}¦ pl., add: III, 1937, 2139, 2572, 12006, 16179,
-<>17288.
+17288.
 <HI>{@Lokapāla,@}¦ sg.
 <P>{@Varuṇa,@} add: I, 8174 {%(V°).%}
 <HI>{@Lokasākṣin@}<sup>2</sup>,¦ add: XII, 13050.
 <HI>{@Lokeśa@}<sup>2</sup>,¦ add: VII, 2086 (only C., B. has {%Deveśa%}); 3754, read
-<>3454.
+3454.
 <HI>{@Lokeśvareśvara@}<sup>3</sup>¦ = Viṣṇu: VI, 2946.
 <HI>{@Lomaśa@}<sup>1</sup>,¦ add: § 746 (Ānuśāsanik.): XIII, {@67,@} 3383.
 <H>M
 <HI>{@Mādhava@}<sup>2</sup>,¦ add: VI, 2604 (only B.); VII, 112 (only C.);
-<>VIII, 4654 (do.); IX, 3499 (only B.); XVI, 101 (only C.).
+VIII, 4654 (do.); IX, 3499 (only B.); XVI, 101 (only C.).
 <HI>{@Mādhava@}<sup>4</sup>,¦ add: VII, 8657 (only B., C. {%Sāttvataḥ%}), 9179
-<>(only C.).
+(only C.).
 <HI>{@Mādhava,@}¦ dual, = Kṛṣṇa and Sātyaki: IX, 124 (only B., C.
-<>{%Sāttvatau%}).
+{%Sāttvatau%}).
 <HI>{@Mādhavarṣabha,@}¦ VI, 4862, add: (B. {%Yādavarṣabhaḥ%}).
 <HI>{@Madhu-mādhava,@}¦ neutr., name of the two spring-months:
-<>I, 4867.
+I, 4867.
 <HI>{@Madhumatta,@}¦ pl. {%(°āḥ),%} add: (B. has {%Madhumantaḥ%}).
 <HI>{@Madhusūdana,@}¦ add: V, 4856 (only B.); VII, 8257 (only B.,
-<>C. {%Madhuhā%}).
+C. {%Madhuhā%}).
 <HI>{@Madhuvāhinī,@}¦ add: (B. has {%Ambuvāhinīṃ%}).
 <HI>{@Madhyadeśaja,@}¦ adj. (“born in the midland country”): II,
-<>1276 {%(rājānaḥ).%}
+1276 {%(rājānaḥ).%}
 <HI>{@Madraka,@}¦ pl., add: § 600 (Ghaṭotkacavadhap.): VII, {@157<lang n="greek"></lang>,@}
-<>6950.
+6950.
 <HI>{@Mādrikā,@}¦ add: (B. has {%Ma°%}).
 <HI>{@Mādrinandana@}<sup>1</sup>,¦ add: (only C.).
 <HI>{@Mādrīputra@}<sup>3</sup>,¦ add: V, †861 (only B., C. {%°sutau%}).
 <HI>{@Mādrīsuta@}<sup>2</sup>,¦ add: VII, 7471 (only C.).
 <HI>{@Magadha,@}¦ pl.: V, 2107, add: (B. has {%Mā°%}); VI, 353 (only B.,
-<>C. {%Mā°%}), 357 (do.).
+C. {%Mā°%}), 357 (do.).
 <HI>{@Māgadha@}<sup>6</sup>,¦ add: VI, 1851 ({%J°,%} only B.), 2014/15 (do. do.).
 [Page805-a+ 60]
 <HI>{@Māgadha@}<sup>10</sup>,¦ add: § 277 (do.): II, {@21,@} 803 ({%vaṃśaṃ,%} only B.,
-<>C. has {%Mānavaṃ%}); XI, 712 (only C.).
+C. has {%Mānavaṃ%}); XI, 712 (only C.).
 <HI>{@*Māgadha,@}¦ pl., add: I, 7056; IV, 2280, 2365; V, 3144, 7620;
-<>VI, †747; VII, 2517, 2912, 2995—96, 3016; VIII, 1770
-<>(fem. {%°īnāṃ%}).
+VI, †747; VII, 2517, 2912, 2995—96, 3016; VIII, 1770
+(fem. {%°īnāṃ%}).
 <HI>{@Mahābāhu@}<sup>1</sup>:¦ VII, 6938, add: (only B., C. has {%Vīrabāhu%}).
 <HI>{@Mahābhārata,@}¦ add: § 164 (Āpavop.): I, {@99,@} 3967. Cf. also
-<>Bhārata<sup>1</sup> and <sup>3</sup>.
+Bhārata<sup>1</sup> and <sup>3</sup>.
 <HI>{@*mahābhūta,@}¦ pl., add: VI, 172; VII, 9413; XII, 8527,
-<>10487, 10493, 11060, 11556, 11561 (m. pl.), 11580, 12465,
-<>13038—39; XIII, 7074; XIV, 1093—94, 1102—03—04, 1147,
-<>1312, 1329, 1400, 1403, 1436—37; XV, 924.
+10487, 10493, 11060, 11556, 11561 (m. pl.), 11580, 12465,
+13038—39; XIII, 7074; XIV, 1093—94, 1102—03—04, 1147,
+1312, 1329, 1400, 1403, 1436—37; XV, 924.
 <HI>{@Mahādeva@}<sup>3</sup>,¦ VI, 3036, add: (only C., B. {%mahātmānaṃ%}).
 <HI>{@Mahādyuti@}<sup>2</sup>,¦ XIV, 206, add: (only C.).
 <HI>{@Mahāmegha,@}¦ add: (B. {%Meghavegaṃ%}).
 <HI>{@Mahāpuruṣa,@}¦ add: § 768 (Ānuśasanik.): XIII, {@148,@} 6914
-<>{%(°sambhavaṃ).%}—Do.<sup>2</sup> = Śiva: VII, 9483 ({%°vigrahaṃ,%} an
-<>image of him?).
+{%(°sambhavaṃ).%}—Do.<sup>2</sup> = Śiva: VII, 9483 ({%°vigrahaṃ,%} an
+image of him?).
 <HI>{@Maheśa,@}¦ add: VII, 5413 (only B., {%śiṣyo °sya,%} sc. Rāma
-<>Jāmadagnya).
+Jāmadagnya).
 <HI>{@Maheśvara@}<sup>4</sup>¦ = Puruṣa or Brahmán: VI, 1343 (opp. to
-<>{%prakṛti%}); XII, 7837, 9115.
+{%prakṛti%}); XII, 7837, 9115.
 <HI>{@Maheśvarapada, Maheśvarapura,@}¦ read: Māheśvara°.
 <HI>{@*Mahī@}<sup>1</sup>,¦ add: I, 1582 foll.; XII, 1788.
 <HI>{@Mahīja@}¦ (“earth-born”), pl. {%(°āḥ)%} said of a particular breed of
-<>horses: VI, 3973.
+horses: VI, 3973.
 <HI>{@*Mahoraga,@}¦ add: III, 1841 {%(°gaṇeṣu);%}—VII, 5618, read:
-<>{%(śvasan iva °aḥ).%}
+{%(śvasan iva °aḥ).%}
 <HI>{@Mālava,@}¦ pl., II, 1270, add: (only C., B. has {%Gālavāḥ%});—add:
-<>VI, 357 (only B.), 2084 (do.).
+VI, 357 (only B.), 2084 (do.).
 <HI>{@Malla,@}¦ pl., add: XII, 2655.
 <HI>{@Mānava,@}¦ adj., add: III, 186 ({%jagato,%} B. has {%'mānavasya%}); VII,
-<>169 {%(arthavidyāṃ mānavīṃ).%}
+169 {%(arthavidyāṃ mānavīṃ).%}
 <HI>{@Mānavarjaka,@}¦ pl., add: (only C., B. has {%Mālavā narāḥ%}).
 <HI>{@Mānavāstra,@}¦ name of a particular weapon. § 599 (Jayadra-
-<>thavadhap.): VII, {@103,@} 3864 (only B.).
+thavadhap.): VII, {@103,@} 3864 (only B.).
 <HI>{@Mandhātṛ@}<sup>1</sup>,¦ add: § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 314 (only B.).
 <HI>{@Manu@}<sup>1</sup>,¦ add: § 577 (Bhīṣmavadhap.): VI, {@43,@} 1532/33
-<>(only B.).
+(only B.).
 <HI>{@*Marīcipa,@}¦ pl., add: XIII, 647.
 <HI>{@Mārkaṇḍeya,@}¦ add: § 599 (Jayadrathavadhap.): VII, {@149,@}
-<>6474 (only B.).
+6474 (only B.).
 <HI>{@Mārttikāvatika,@}¦ add: (B. has {%Mārttikāvataka%}).
 <HI>{@Māruta,@}¦ adj., add: § 759 (Ānuśāsanik.): XIII, {@107<lang n="greek"></lang>,@} 5284.
 <HI>{@Matsya@}<sup>1</sup>,¦ pl., add: § 578 (Bhīṣmavadhap.); VI, {@47<lang n="greek"></lang>,@} 1866
-<>({%Cedi-Matsyeṣu,%} only B., C. has {%Cedisainyeṣu%}).—VII,
-<>{@198<lang n="greek"></lang>,@} 9182 (only C.).—VIII, {@78,@} 3967 (do., only B.).—
-<>IX, †1087 (only C.).
+({%Cedi-Matsyeṣu,%} only B., C. has {%Cedisainyeṣu%}).—VII,
+{@198<lang n="greek"></lang>,@} 9182 (only C.).—VIII, {@78,@} 3967 (do., only B.).—
+IX, †1087 (only C.).
 <HI>{@Matsyanagara,@}¦ dele: = Upaplavya.
 <HI>{@Mātsyeya,@}¦ pl. {%(°āḥ)%} = Matsya<sup>1</sup>, pl. § 556 (Sañjayayānap.):
-<>V, {@22,@} †663 {%(°ānām adhipo vai Virāṭaḥ).%}
+V, {@22,@} †663 {%(°ānām adhipo vai Virāṭaḥ).%}
 <HI>{@Maushala,@}¦ v. Mausala<sup>2</sup>.
 <HI>{@Maya,@}¦ add: I, 8324/25 (only B.); II, 57/58 (only B.).
 <HI>{@Megharavā,@}¦ add: (B. has {%Meghakarṇā%}).
 <HI>{@Meghavega@}¦ (only B.), v. Mahāmegha.
 <HI>{@Meru,@}¦ add: § 582 (do.): VI, {@74,@} 3259 (only B.).
 <HI>{@Mitra,@}¦ add: § 597 (Pratijñāp.): VII, {@84,@} 2994 {%(sahāmbupati-%}
-<>{%Mitrābhyāṃ yathendras Tārakāmaye).%}
+{%Mitrābhyāṃ yathendras Tārakāmaye).%}
 <HI>{@Mitra@}<sup>2</sup>¦ (only B.), v. Citrā.
 <HI>{@Mitrasaha,@}¦ add: I, 6891 {%(nṛpaṃ).%}
 [Page805-b+ 56]
 <HI>{@Mleccna,@}¦ pl., add: VI, {@9<lang n="greek"></lang>,@} 365 (only B., C. has {%Pauṇḍrāḥ%}).
 <HI>{@*mokshadharma,@}¦ add: III, 14000.
 <HI>{@Mṛdaṅgaketu@}¦ (“having drums in his standard”) = Yudhi-
-<>ṣṭhira: VII, 6746.
+ṣṭhira: VII, 6746.
 <HI>{@Mṛgacārin,@}¦ pl. {%(°aḥ),%} a kind of ascetics: XIII, 647.
 <HI>{@*Mṛtyu@}<sup>1</sup>,¦ add: XIII, 163; dele: XIII, 164 (= Dharma).
 <HI>{@Mṛtyuloka,@}¦ add: VII, 1307, 6136 (only C.), 6950 (only B.).
 <HI>{@Mucukunda,@}¦ add: § 574 (Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 314 (only B.).
 <HI>{@Mudgala,@}¦ add: III, (15481) (only C.); XIII, 250 (only C.,
-<>B. has {%Yamadūta%}). Cf. Viprarṣi.
+B. has {%Yamadūta%}). Cf. Viprarṣi.
 <HI>{@Mukhakarṇā,@}¦ a mātṛ. § 615{%u%} (Skanda): (IX, {@46<lang n="greek"></lang>,@} 2647 (only
-<>B., C. has {%Śivakarṇī%}).
+B., C. has {%Śivakarṇī%}).
 <HI>{@Mukhasecaka,@}¦ a serpent. § 67 (Sarpasattra): I, {@57,@} 2156 (only
-<>B., C. has {%Sukhasecaka%}).
+B., C. has {%Sukhasecaka%}).
 <HI>{@Musala, Musalāyudha,@}¦ so B. for Mush° (q.v.)
 <H>N
 <HI>{@Nābhāga@}<sup>2</sup>¦ = {@Nābhāgi:@} XII, 993 (B. 2nd ed. agrees with C.).
 <HI>{@Nabhakānana,@}¦ pl. v. Nalakānana.
 <HI>{@nadīja,@}¦ pl., a particular breed of horses: VI, 3973; VIII,
-<>†200.
+†200.
 <HI>{@Nāga,@}¦ pl., add: asterisk (*) before this heading, and the foll.
-<>passages: I, 8154 {%(bahuśīrṣāḥ),%} 8293; III, 1899; V,
-<>3859 {%(naravaktrān);%} VI, 4043, 4045; VII, 602 {%(°kanyā),%}
-<>2897 (dual), †6921, †9456 ({%°yajñopavītaṃ,%} sc. Civa); VIII,
-<>1481 {%(°patīn).%}
+passages: I, 8154 {%(bahuśīrṣāḥ),%} 8293; III, 1899; V,
+3859 {%(naravaktrān);%} VI, 4043, 4045; VII, 602 {%(°kanyā),%}
+2897 (dual), †6921, †9456 ({%°yajñopavītaṃ,%} sc. Civa); VIII,
+1481 {%(°patīn).%}
 <P>Names of single Nāgas:—
 <P>{@Aśvasena,@} add: VIII, †4634 ({%°vīraḥ,%} only C.), †4646,
-<>†4661—62, †4673, †4675, †4682.
+†4661—62, †4673, †4675, †4682.
 <P>{@Śeṣa,@} add: XII, 13514 {%(śayane °bhogāḍhye).%}
 <P>{@Takshaka,@} add VI, 4900 {%(T°)%}
 <P>{@Ulūpī:@} XV, 23 {%(U°).%} Cf. Kauravya.
 <HI>{@Nāgarājasutāsuta@}¦ (“son of the daughter of the Nāga king”),
-<>i.e. Irāvat: VI, 3661 (cf. 3977).
+i.e. Irāvat: VI, 3661 (cf. 3977).
 <HI>{@Nāgavatmān,@}¦ read: Nāgavatman (probably misprint in C. for
-<>Nāgavartman).
+Nāgavartman).
 <HI>{@Nagnajita,@}¦ pl. {%(°āḥ),%} add: or better according to B.: Nagnajit,
-<>pl. {%(°aḥ).%}
+pl. {%(°aḥ).%}
 <HI>{@Nahusha@}<sup>2</sup>,¦ add: III, 8777 (B. by error {%Nā°%}).—§ 574
-<>(Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 314 (only B.).—Cf. Pannaga<sup>2</sup>.
+(Jambūkh.): VI, {@9<lang n="greek"></lang>,@} 314 (only B.).—Cf. Pannaga<sup>2</sup>.
 <HI>{@Nakshatra@}<sup>1</sup>,¦ add: V, 1148 {%(tāpyate loko °āṇi grahair iva);%}
-<>XII, 8905 {%(anakṣatrāḥ…jyotiṣāṃ gaṇāḥ).%}
+XII, 8905 {%(anakṣatrāḥ…jyotiṣāṃ gaṇāḥ).%}
 <HI>{@Nakula,@}¦ add: VIII, {@48<lang n="greek"></lang>,@} 2286/7 (only B.).
 <HI>{@Nala@}<sup>1</sup>,¦ add: II, 332 (B. {%'naghaḥ%}).
 <HI>{@Nalakānana,@}¦ add: B. reads {%Nabhakānanāḥ.%}
 <HI>{@nalinī,@}¦ add: II, 390 {%(Alakākhyāyāḥ);%} III, 11377—80, 11416—18,
-<>12364.
+12364.
 <HI>{@Nanda@}<sup>1</sup>,¦ add: § 583 (do.): VI, {@79<lang n="greek"></lang>,@} 3470/71 ({%°opanandakau,%}
-<>only B.).
+only B.).
 <HI>{@Nandaka@}<sup>4</sup>,¦ add: B. reads {%Nandanaḥ.%}
 <HI>{@Nara@}<sup>1</sup>,¦ add: I, {@224,@} 8159 ({%°-Nārāyaṇau,%} twice in verses in
-<>serted in B.).—§ 573 (Ambop.): V, {@185,@} 7308/9 (= Arjuna,
-<>only B.).
+serted in B.).—§ 573 (Ambop.): V, {@185,@} 7308/9 (= Arjuna,
+only B.).
 <HI>{@Nārada@}<sup>1</sup>,¦ add: VII, {@149<lang n="greek"></lang>,@} 6474 (only B.).—§ 615{%ff.%} (Asita
-<>Devala): IX, {@50,@} 2919 (only B., C. has {%Gālavaḥ%}).—Cf.
-<>Pārameṣṭha, Viprarṣi.
+Devala): IX, {@50,@} 2919 (only B., C. has {%Gālavaḥ%}).—Cf.
+Pārameṣṭha, Viprarṣi.
 <HI>{@Naraka@}<sup>1</sup>,¦ V, 4407, read 4408; add: 4409 (only B.).
 [Page806-a+ 57]
 <HI>{@Nārāyaṇa,@}¦ add: I, {@224,@} 8159 ({%Nara-°,%} only B.).—VI, {@67<lang n="greek"></lang>,@}
-<>3023 ({%devadevaḥ,%} only B.).—VII, {@149<lang n="greek"></lang>,@} 6474.
+3023 ({%devadevaḥ,%} only B.).—VII, {@149<lang n="greek"></lang>,@} 6474.
 <HI>{@Nārāyaṇa,@}¦ pl., add: § 11 (Parvasaṅgr.): I, {@2,@} 535 ({%gopālāḥ,%}
-<>only B.).
+only B.).
 <HI>{@nāstika,@}¦ add: I, 2300 {%(a°),%} 3088 (do.); XIII, 5004 ({%nāstike,%}
-<>B. {%°-aiḥ%}).
+B. {%°-aiḥ%}).
 <HI>{@Niśā@}<sup>2</sup>¦ = Upaśruti(?), read = Rātrī (q.v.).
 <HI>{@Nepāla,@}¦ a country (Nepal): § 515 (Karṇadigvijaya): III,
-<>{@254,@} 15242/3 ({%°viṣaye,%} only B.).
+{@254,@} 15242/3 ({%°viṣaye,%} only B.).
 <HI>{@*Niśācara,@}¦ sg., add: III, 16370 (= Rāvaṇa); V, 7492
-<>(= Sthūṇa); VI, 4075 (= Ghaṭotkaca).
+(= Sthūṇa); VI, 4075 (= Ghaṭotkaca).
 <HI>{@Nīlavāsas,@}¦ add: III, 734 {%(Keśavasyāgrajo…Baladevaḥ);%}
-<>IX, 1966.
+IX, 1966.
 <HI>{@*Niraya,@}¦ add: XII, †12074 {%(parama-°),%} †12075 {%(mahā°).%}
 <HI>{@Niṣṭhurika,@}¦ add: (B. Niṣṭhūrika).
 <H>P
@@ -1901,18 +1901,18 @@
 <HI>{@Padmagarbha@}<sup>2</sup>,¦ add: VI, 2946 (only B., C. Padmanābha).
 <HI>{@Padmanābha@}<sup>1</sup>,¦ add: VI, 1532/33 (only B.); XII, 7630.
 <HI>{@Padmanābha@}<sup>3</sup>,¦ add: Cf. Bhogipati, Bhujagapati, Nāga,
-<>Nāgendra, Pannaga, Pannagapati, Uragaśreṣṭha.
+Nāgendra, Pannaga, Pannagapati, Uragaśreṣṭha.
 <HI>{@Pahlava,@}¦ add: (B. sometimes Palhava)…VI, {@20,@} †753
-<>(only B.).
+(only B.).
 <HI>{@Paiṅga,@}¦ add: (B. has Paiṅgya).
 <HI>{@Paippalādi,@}¦ add: [XII, 7208 {%(viprarṣe)%}].
 <HI>{@Pakshivaradhvaja@}¦ (“having the best of birds [i.e. Garuḍa]
-<>for his banner”) = Kṛṣṇa: VIII, †4952.
+for his banner”) = Kṛṣṇa: VIII, †4952.
 <HI>{@Pāñcāla,@}¦ pl., add: VII, {@182<lang n="greek"></lang>,@} 8269; {@189,@} 8689; VIII, {@10<lang n="greek"></lang>,@}
-<>393, 395; {@47<lang n="greek"></lang>,@} 2224 [instead of 2214]; {@73,@} 3639…and
-<>the foll. passages only from B.: VI, {@9<lang n="greek"></lang>,@} 355; VII, {@167,@}
-<>7480; {@170,@} 7679; {@183<lang n="greek"></lang>,@} 8345; VIII, {@73,@} 3735/6, 3738/9
-<>…del. (VIII) 2662 (to be inserted under Pañcāla, pl.).
+393, 395; {@47<lang n="greek"></lang>,@} 2224 [instead of 2214]; {@73,@} 3639…and
+the foll. passages only from B.: VI, {@9<lang n="greek"></lang>,@} 355; VII, {@167,@}
+7480; {@170,@} 7679; {@183<lang n="greek"></lang>,@} 8345; VIII, {@73,@} 3735/6, 3738/9
+…del. (VIII) 2662 (to be inserted under Pañcāla, pl.).
 <HI>{@Pāñcāla,@}¦ sg.<sup>1</sup>, add: VII, 7342 (only B.).
 <HI>{@Pāñcālarāja@}<sup>2</sup>,¦ add: IX, 1379/80 (only B.).
 <HI>{@Pāñcālarājan,@}¦ add: VII, 7351 ({%°rājānaṃ,%} B. {%°rājaṃ ca%}).
@@ -1920,139 +1920,139 @@
 <HI>{@Pañcanada,@}¦ add: Cf. III, †1364 {%(pañca nadyaḥ).%}
 <HI>{@Pañcarātra,@}¦ add: XII, {@350,@} 13637 (B. {%Pā°%}).
 <HI>{@Pāṇḍava,@}¦ pl., only C.: II, 1565; III, 13142; IV, 1493;
-<>VI, 2458, 2885 (B. {%Pāṇḍaveyaiḥ%}), 3135, 4277 (B. {%Pāṇḍa-%}
-<>{%veyāḥ%}); VII, 463 (B. {%Pāṇḍaveyeṣu%}), 4871, 6021, 6622,
-<>7072, 7821; IX, 456, 1041;…only B.: I, 6081/82,
-<>7884; IV, 2361; VI, 1910/11, 2197, 2433 (C. {%Pāṇḍa-%}
-<>{%veyānāṃ%}), 3333/34, 4292 (C. {%Pāṇḍūnāṃ%}); VII, 1751,
-<>†4133, 6693 (C. {%Pāṇḍaveyān%}), 8268 (C. {%Pāṇḍuṣu%}); VIII,
-<>3718/19; IX, 1218.
+VI, 2458, 2885 (B. {%Pāṇḍaveyaiḥ%}), 3135, 4277 (B. {%Pāṇḍa-%}
+{%veyāḥ%}); VII, 463 (B. {%Pāṇḍaveyeṣu%}), 4871, 6021, 6622,
+7072, 7821; IX, 456, 1041;…only B.: I, 6081/82,
+7884; IV, 2361; VI, 1910/11, 2197, 2433 (C. {%Pāṇḍa-%}
+{%veyānāṃ%}), 3333/34, 4292 (C. {%Pāṇḍūnāṃ%}); VII, 1751,
+†4133, 6693 (C. {%Pāṇḍaveyān%}), 8268 (C. {%Pāṇḍuṣu%}); VIII,
+3718/19; IX, 1218.
 <HI>{@Pāṇḍava,@}¦ sg.<sup>1</sup>, add: VII, 6480;…only C.: VI, 2197;
-<>VII, 6199, †8167, 8180; VIII, 3055;…only B.: VI,
-<>2458, 5131/2, 5514; VII, 1269, 6141, 6276/7; VIII,
-<>4023/4.
+VII, 6199, †8167, 8180; VIII, 3055;…only B.: VI,
+2458, 5131/2, 5514; VII, 1269, 6141, 6276/7; VIII,
+4023/4.
 <HI>{@Pāṇḍava,@}¦ sg.<sup>2</sup>, only C.: VI, 2850, 3357 (B. {%Pāṇḍaveyaḥ%});
-<>VII, 7672;…only B.: VI, 1554 (C. {%Pāṇḍuputre%}), 2791;
-<>VII, 5362, 5660, 9264; VIII, 3055.
+VII, 7672;…only B.: VI, 1554 (C. {%Pāṇḍuputre%}), 2791;
+VII, 5362, 5660, 9264; VIII, 3055.
 <HI>{@Pāṇḍava,@}¦ sg.<sup>5</sup>: IX, 1218 (only C.).
 <HI>{@Pāṇḍava,@}¦ sg.<sup>6</sup>, only C.: VI, 2091, 2412; VII, 6288, 6953; XV,
-<>736…only B.: VII, 1081, 4871, 6480, 6630; IX, 1044;
-<>XIV, 394.
+736…only B.: VII, 1081, 4871, 6480, 6630; IX, 1044;
+XIV, 394.
 [Page806-b+ 60]
 <HI>{@Pāṇḍava,@}¦ adj., only C.: VII, 3521 (B. {%Pārṣataṃ%}); VIII,
-<>†4809;…only B.: VII, 6630 {%(senā).%}
+†4809;…only B.: VII, 6630 {%(senā).%}
 <HI>{@Pāṇḍavarṣabha@}<sup>1</sup>,¦ add: IV, 1436 (only B., C. {%Pāṇḍu—%}
-<>{%nandanaḥ%}).
+{%nandanaḥ%}).
 <HI>{@Pāṇḍaveya,@}¦ pl., add: VI, 4321 (only B., C. {%Sṛñjayaiḥ%}); VII,
-<>7309/10 (only B.); XIV, 322 (only B., C. {%Pāṇḍuputrāṇāṃ%}).
+7309/10 (only B.); XIV, 322 (only B., C. {%Pāṇḍuputrāṇāṃ%}).
 <HI>{@Pāṇḍaveya,@}¦ sg.<sup>7</sup>, add: VI, 2106 (B. {%Saubaleyasya%}).
 <HI>{@Pāṇḍaveya,@}¦ adj., add: VII, 7343 (B. {%°vīyeṣu%}).
 <HI>{@Pāṇḍu,@}¦ add: § 581 (Bhīṣmavadhap.): VI, {@65,@} 2919 ({%°pūrvaja,%}
-<>i.e. Dhṛtarāṣṭra).
+i.e. Dhṛtarāṣṭra).
 <HI>{@Pāṇḍu,@}¦ pl., only C.: VIII, †4325…only B.: VI, 2100
-<>(C. {%Pārthānāṃ%}); VII, 4545/46, 7278, 9031 {%(°senāṃ).%}
+(C. {%Pārthānāṃ%}); VII, 4545/46, 7278, 9031 {%(°senāṃ).%}
 <HI>{@Pāṇḍunandana@}<sup>1</sup>,¦ pl., only B. in a verse after III, 17478.—
-<>Do.<sup>3</sup>, add: I, 7884 (only B.).—Do.<sup>4</sup>, add: VII, 5302 (only
-<>C., B. {%Bhīmaḥ%}).—Do.<sup>8</sup> = Ghaṭotkaca: VII, 7924 (only B.).
+Do.<sup>3</sup>, add: I, 7884 (only B.).—Do.<sup>4</sup>, add: VII, 5302 (only
+C., B. {%Bhīmaḥ%}).—Do.<sup>8</sup> = Ghaṭotkaca: VII, 7924 (only B.).
 <HI>{@Pāṇḍuputra,@}¦ pl., only C.: VII, 7069, 9031; XIV, 322.
-<>…only B.: VIII, 3776.
+…only B.: VIII, 3776.
 <HI>{@Pāṇḍuputra@}<sup>2</sup>,¦ add: VII, 112 (only C.), †6145 (only B., C.
-<>{%°sūnuṃ%}).—Do.<sup>6</sup>, add: VII, 6630 (only B.).
+{%°sūnuṃ%}).—Do.<sup>6</sup>, add: VII, 6630 (only B.).
 <HI>{@Pāṇḍusūnu@}<sup>2</sup>,¦ add: (only C., B. {%Dharmasūnunā%}).
 <HI>{@Pāṇḍya@}<sup>4</sup>,¦ Śrī, read: Śrīśaila.
 <HI>{@Pāṇika,@}¦ add: (B. has {%Kālikaṃ%}).
 <HI>{@Pannaga,@}¦ pl., only C.: VII, 6803…only B.: IV, 1801
-<>(C. {%pāvakaiḥ%}); VII, 6132 (C. {%°Vātikaiḥ%}), 7711.
+(C. {%pāvakaiḥ%}); VII, 6132 (C. {%°Vātikaiḥ%}), 7711.
 <HI>{@Pannaga,@}¦ sg., add: IX, 49 (B. {%jihmaga iva%}).
 <HI>{@Parāśara@}<sup>1</sup>,¦ add: cf. Viprarṣi.
 <HI>{@Paramātman,@}¦ add: VII, 6474 (only B.).
 <HI>{@Parameśvara,@}¦ dele XIII, 792, 795, 797, and see Īśvara (Add.).
 <HI>{@Parāvasu,@}¦ III, 10757 and 10793 (read {%bhāryāṃ%} and {%bhāryā%}).
 <HI>{@Paridhīpatikhecara@}¦ = Śiva (1000 names<sup>2</sup>), v. Additions
-<>above.
+above.
 <HI>{@Pārṣata@}<sup>2</sup>,¦ only C.: VI, 3400; VII, 7184…only B.:
-<>VI, 2324.
+VI, 2324.
 <HI>{@Pārṣata@}<sup>4</sup>,¦ adj. (“belonging to Dhṛṣṭadyumna”): VII,
-<>3521 (only B.).
+3521 (only B.).
 <HI>{@Pārtha@}<sup>1</sup>,¦ pl., only C.: VI, 2100, 4060; VII, 1751…only
-<>B.: I, 5067/8, VII, 448, 7111.
+B.: I, 5067/8, VII, 448, 7111.
 <HI>{@Pārtha@}<sup>2</sup>,¦ only C.: IV, 571, †1690, 1736, 1737, 1800; VI,
-<>3207; VII, 196, 448, 1256, 6141, 7111, 7657, 8283; IX,
-<>798…only B.: IV, 1454, VI, 4849, 5099, 5486; VII,
-<>1296/7, 3718/9, 5139/40, 5263, 5316, 6238, 6455, 6474,
-<>6539, 6576, 7096, 7123, 7655; VIII, 300, 668/9, 3024,
-<>3395/6, 3728/9, 4023/4.
+3207; VII, 196, 448, 1256, 6141, 7111, 7657, 8283; IX,
+798…only B.: IV, 1454, VI, 4849, 5099, 5486; VII,
+1296/7, 3718/9, 5139/40, 5263, 5316, 6238, 6455, 6474,
+6539, 6576, 7096, 7123, 7655; VIII, 300, 668/9, 3024,
+3395/6, 3728/9, 4023/4.
 <HI>{@Pārtha@}<sup>3</sup>,¦ only B.: IV, 571; VII, 1177; VIII, 3062/3;
-<>IX, 584.
+IX, 584.
 <HI>{@Pārtha@}<sup>5</sup>,¦ only B.: VI, 2091.
 <HI>{@*Pārvatīya@}<sup>1</sup>,¦ pl., add: § 562 (Bhagavadyānap.): V, {@86,@}
-<>3048 {%(āvikaṃ..P°air upāhṛtaṃ).%}—Do.<sup>2</sup>, adj., add:
-<>§ 793 (Mausalap.): XVI, {@6<lang n="greek"></lang>,@} 160 {%(nṛpān).%}
+3048 {%(āvikaṃ..P°air upāhṛtaṃ).%}—Do.<sup>2</sup>, adj., add:
+§ 793 (Mausalap.): XVI, {@6<lang n="greek"></lang>,@} 160 {%(nṛpān).%}
 <HI>{@Patagendra,@}¦ add: III, 665.
 <HI>{@Patikhecara@}¦ = Śiva (1000 names<sup>2</sup>), v. Additions above.
 <HI>{@Patitri,@}¦ read: {@Patatri.@}
 <HI>{@Paurava,@}¦ pl., add: VII, 7655 (only B., C. {%Kauravāḥ%}).
 <HI>{@Pauravanandana@}<sup>5</sup>¦ = Babhruvāhana: I, 7884 (only B.).
 <HI>{@Pavana@}<sup>3</sup>,¦ an ancient king. § 775 (Ānuśāsanik.): XIII, {@166<lang n="greek"></lang>,@}
-<>7676 (only B., C. {%Cyavana.%} q.v.).
+7676 (only B., C. {%Cyavana.%} q.v.).
 <HI>{@Picchalā,@}¦ add: (B. {%Picchilā%}).
 <HI>{@Piṅga,@}¦ add: VII, 9541 (only B.).
 <HI>{@Pitrīśa@}¦ = Yama (q.v.).
 <HI>{@*Pitṛ,@}¦ pl., add: XIII, 6606 (read with B. {%pitṛdevātithi-kṛte%}).
 [Page807-a+ 31]
 <HI>{@Pitṛ-vittāmbu-deveśāḥ@}¦ (“the lords of Pitṛs, riches, water
-<>and gods”) = Yama, Kubera, Varuṇa, and Indra: VII, 37.
+and gods”) = Yama, Kubera, Varuṇa, and Indra: VII, 37.
 <HI>{@Plakṣāvataraṇa@}¦…their king {%Bharata…,%} read: there king
-<>{%Bh.%}
+{%Bh.%}
 <HI>{@Prabhadra,@}¦ pl., {%(°āḥ),%} a people: VI, 2080 (only B., C. has
-<>{%Prayāgāḥ%}).
+{%Prayāgāḥ%}).
 <HI>{@Prādheya,@}¦ pl.: I, {@65,@} 2556 (only C., B. has {%Prādhāyāḥ%}).
 <HI>{@Pradyumna,@}¦ add: II, 622 (only B.).
 <HI>{@Prajñāstra,@}¦ add: § 319 (Saubhavadhap.): III, {@20,@} 816
-<>(employed by Kṛṣṇa).
+(employed by Kṛṣṇa).
 <HI>{@*prakṛti,@}¦ add: VI, 1341/42 (only B.).
 <HI>{@Pramāthin,@}¦ pl. = Pramatha, pl.: VIII, 1507.
 <HI>{@*Prāṇa@}<sup>3</sup>,¦ add: XII, {@237,@} 8653; {@240,@} 8746.—XIII, {@162,@}
-<>7521 ({%°āpānaḥ,%} sic!).
+7521 ({%°āpānaḥ,%} sic!).
 <HI>{@Prāṇadhāraṇa@}<sup>1</sup>,¦ add: (B. {%Prāṇadhāraka%}).
 <HI>{@Prastuta,@}¦ add: (B. {%Prasruta%}).
 <HI>{@Prātīpeya@}<sup>1—2</sup>,¦ add: (both B. and C. read {%Prātip°%}).—
 <HI>{@Prātīpeya@}<sup>3</sup>¦ (do.) = Dhṛtarāṣṭra: V, †1353 (read {%Prātipeya,%}
-<>voc., with B.).—{@Prātīpeya@} (pl.) (do.), add: § 301 (Dyūtap.):
-<>II, {@71,@} †2395.—{@Prātīpīya@} (C. {%Prātip°,%} B. {%Prātipeya%}).
+voc., with B.).—{@Prātīpeya@} (pl.) (do.), add: § 301 (Dyūtap.):
+II, {@71,@} †2395.—{@Prātīpīya@} (C. {%Prātip°,%} B. {%Prātipeya%}).
 <HI>{@Pratiskandha,@}¦ add: (B. {%Kapiskandha%}).
 <HI>{@Pravīra@}<sup>2</sup>¦ (“hero”), according to Nīl. nom. pr. of Pāṇḍya<sup>2</sup>
-<>(Malayadhvaja): VIII, 770/71
+(Malayadhvaja): VIII, 770/71
 <HI>{@*Pṛthivī,@}¦ add: I, 1941 {%(devīṃ).%}
 <HI>{@Pṛthu Vainya,@}¦ § 795, read § 775.
 <HI>{@Pṛthuvaktrā,@}¦ add: (B. {%Pṛthuvastrā%}).
 <HI>{@Pulinda,@}¦ pl.: VI, 3853 (add: B. {%Kulindaiḥ%}); VII, 4847
-<>(add: B. {%Kulindāḥ%}).
+(add: B. {%Kulindāḥ%}).
 <HI>{@Pundra,@}¦ read: (I, 228).
 <HI>{@Purushavara,@}¦ add: = Kṛṣṇa: VIII, †1740 ({%°-āvarajā,%} i.e.
-<>Subhadrā).
+Subhadrā).
 [Page807-b+ 25]
 <HI>{@Pūrvadeva,@}¦ add: = Kṛṣṇa, VI, 3021 (only B.); = Arjuna
-<>(Nara), V, 7308 (only B.).—Do. pl.: VII, 9480 ({%°ānāṃ%}
-<>{%paramau…ṛṣī,%} = Nara-Nārāyaṇau).
+(Nara), V, 7308 (only B.).—Do. pl.: VII, 9480 ({%°ānāṃ%}
+{%paramau…ṛṣī,%} = Nara-Nārāyaṇau).
 <HI>{@Puṣpāyudha@}¦ (“flower-armed”) = Kāma: I, 6576.
 <H>R
 <HI>{@Rākā@}<sup>2</sup>,¦ add: § 606 (Tripurākhyāna): VIII, {@34,@} 1486 (was
-<>made one of the traces of Śiva's chariot).
+made one of the traces of Śiva's chariot).
 <HI>{@Rathoraga,@}¦ pl., a people (BR.?): VI, 362 (see Vātaja).
 <HI>{@*Raudra@}<sup>5</sup>,¦ adj., add: XIII, 5283 (scil. {%sthānaṃ,%} only B.,
-<>C. has by error {%Rudraṃ%}).
+C. has by error {%Rudraṃ%}).
 <HI>{@Rāvaṇa,@}¦ add: I, 6081/82 (only B.).
 <HI>{@Rohaka,@}¦ pl., a class of beings § 606 (Tripurākhyāna): VIII,
-<>{@34,@} 1486 (were made the pins of Śiva's chariot).
+{@34,@} 1486 (were made the pins of Śiva's chariot).
 <HI>{@Rudra,@}¦ pl., add: XVIII, 215 (only B.).
 <HI>{@Rukmaratha@}<sup>1</sup>,¦ add: VI, 1851 (only B.), 2014/15 (only B.).—
-<>Do.<sup>2</sup> = Droṇa, add: VI, †751; VII, 8629.
+Do.<sup>2</sup> = Droṇa, add: VI, †751; VII, 8629.
 <HI>{@Rukmavāhana,@}¦ add: VII, 8705.
 <HI>{@Rushardika,@}¦ read {@Rusharddhika.@}
 <H>Ṛ
 <HI>{@Ṛkṣadeva,@}¦ son of Śikhaṇḍin. § 592 (Saṃśaptakavadhap.):
-<>VII, {@23<lang n="greek"></lang>,@} 974, (only B., C. by error {%Kṣatradevaṃ%}).
+VII, {@23<lang n="greek"></lang>,@} 974, (only B., C. by error {%Kṣatradevaṃ%}).
 <H>S
 <HI>{@Sāgara@}<sup>2—4</sup>,¦ read {@Sāgara<sup>1—3</sup>.@}
 <H>V
