@@ -9,7 +9,7 @@ The {X...X} style of coding serves several purposes:
 {??}        10 : unreadable text
 
 The <> style of coding is used as follows:
-<>     53027  :  beginning of normal line
+<>     53027  :  beginning of normal line (removed 12-16-2021)
 <P>       69  :  beginning of paragraph (only in preface)
 <H>       49  :  Headline. Primarily at 'letter' breaks in lexicon
 <Poem>X</Poem> 9 : Delimit a Poem.
