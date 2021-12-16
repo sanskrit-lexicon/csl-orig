@@ -27,8 +27,8 @@ markup. As example,
 
 <L>1<pc>0001-a<k1>a<k2>a
 {#a'#}¦ {%a-,%} a negative prefix, corre-
-<div n="lb">sponding to the {%á-%} privative in Greek;
-<div n="lb">see {%an-,%}
+sponding to the {%á-%} privative in Greek;
+see {%an-,%}
 <LEND>
 
 The ending markup is <LEND>.
@@ -46,7 +46,7 @@ required fields
 XML tags within entries
 ---------------------------------------------------------------------------
 A few xml tags are introduced as markup within the body of entries.
-076325 <div n="lb"> : Beginning of normal lines.
+076325 <div n="lb"> : Beginning of normal lines. (Removed this markup 12-16-2021)
 001513 <lang n="greek"></lang> : Greek text (not yet coded)
 000001 <pic name='vatsa.png'/> : An image, under headword 'vatsa'
 
