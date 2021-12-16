@@ -12,7 +12,7 @@ The {X...X} style of coding serves several purposes:
 {@X@}    1 : bold text. in a header
 
 The following  <> type tags are found in yat.txt:
-<>  24834  : start of new line
+<>  24834  : start of new line (markup removed 12-16-2021)
 <P>  166  :  start of new line
 <H>  49  : Title line
 <F>..</F>  2  : Footnote
