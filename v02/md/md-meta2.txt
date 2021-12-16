@@ -33,7 +33,7 @@ Each entry of the digitization is contained within a beginning and ending
 markup. As example,
 <L>1<pc>001-1<k1>a<k2>a<h>1
 {#a#}¦a, {%pn.%} {%root used in the inflexion of%} idam 
-<>{%and in some particles%}: a-tra, a-tha.
+{%and in some particles%}: a-tra, a-tha.
 <LEND>
 
 The ending markup is <LEND>.
@@ -49,7 +49,7 @@ optional field for homonym
   hom The homonym number (usually a digit). Not present in acc dictionary
 
 Where there is more than one line of text for an entry, the subsequent
-lines start with  <> markup.  
+lines start with  <> markup.  (as of 12-15-2021, no <> is present).
 
 There are a small number (8) of Greek text fragments indicated as 
 <lang n="greek">X</lang>
