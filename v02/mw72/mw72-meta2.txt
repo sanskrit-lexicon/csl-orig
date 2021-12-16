@@ -24,7 +24,7 @@ The pseudo-xml <> style of coding is used as follows:
 <L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
 
 Types of line break divisions appear in the entries:
-<div n="lb"/>  Line break
+<div n="lb"/>  Line break (removed 12-15-2021)
 <div n="P"/>   Line break with indentation
 <lang n="greek">X</lang>  Greek text; partially coded (about 1500 instances)
 <lang n="arabic">X</lang> Arabic text  (about 60 instances)
