@@ -8,7 +8,7 @@ transliteration in vcp.txt.
 
 The <> style of coding is used as follows:
 <>   355827  :  At beginning of 'normal' lines, other than the first line
-                of an entry
+                of an entry (This markup removed 12-15-2021).
 <H>    66  : At start of line. A 'headline' (various usage)
 <P>  2331  : At start of line, indicating a paragraph indentation
 <Picture> 71 : Diagrams in text
