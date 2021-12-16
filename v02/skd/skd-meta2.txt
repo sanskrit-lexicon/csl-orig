@@ -11,7 +11,7 @@ transliteration in skd.txt.
 
 The <> style of coding is used as follows:
 <>   4424807  :  At beginning of 'normal' lines, other than the first line
-                of an entry
+                of an entry (Removed <> 12-15-2021)
 <H>   158  : At start of line. A 'headline' (various usage)
 <P>  1130  : At start of line, indicating a paragraph indentation
 <Picture> 5 : Diagrams in text
