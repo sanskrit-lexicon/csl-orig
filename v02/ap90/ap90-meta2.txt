@@ -20,11 +20,11 @@ Each entry of the digitization is contained within a beginning and ending
 markup. As example,
 <L>2<pc>0001-c<k1>afRin<k2>afRin
 {#afRin#}¦ {%a.%} ({#f#} being regarded as
-<>a consonant) Not a debtor, free from
-<>debt; {#divasasyAzwame BAge SAkaM pacati yo#}
-<>{#naraH . afRI cApravAsI ca sa vAricara#}
-<>{#modate ..#} Mb. The form {#anfRin#} also
-<>occurs in this sense.
+a consonant) Not a debtor, free from
+debt; {#divasasyAzwame BAge SAkaM pacati yo#}
+{#naraH . afRI cApravAsI ca sa vAricara#}
+{#modate ..#} Mb. The form {#anfRin#} also
+occurs in this sense.
 <LEND>
 
 The ending markup is <LEND>.
@@ -41,7 +41,7 @@ optional field for homonym
 
 
 Other markup:
-<>  :   begins most lines.  Indicates a line break. 
+<>  :   begins most lines.  Indicates a line break. Removed 12-15-2021.
 <H>  86 :  A title line of some sort, such as for letter break
 <P> 232 : An indented paragraph. Mostly in the digitization of preface.
 <NI>  1 : similar to <P>
