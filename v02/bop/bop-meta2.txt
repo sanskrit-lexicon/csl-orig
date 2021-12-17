@@ -23,7 +23,7 @@ The pseudo-xml <> style of coding is used as follows:
 Often line breaks have semantic significance, such as indicating the
    row of a table. Three types of line break divisions are indicated, although
    the distinction among these types is not currently understood.
-<div n="lb">  Line break
+<div n="lb">  Line break (Removed 12-16-2021)
 <div n="pfx">  Line break at a prefix within then entry fora root
 <lang n="greek"> Greek text. This text is not code as of 02-02-2018.
 
