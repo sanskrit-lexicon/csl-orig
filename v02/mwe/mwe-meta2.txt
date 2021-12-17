@@ -19,7 +19,7 @@ The pseudo-xml <> style of coding is used as follows:
 <L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
 
 Types of line break divisions appear in the entries:
-<div n="lb"/>  Line break
+<div n="lb"/>  Line break (Removed 12-17-2021)
 
 Meta lines: 
 Each entry of the digitization is contained within a beginning and ending
