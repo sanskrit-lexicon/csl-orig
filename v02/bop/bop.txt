@@ -290,8 +290,7 @@
 <div n="lb">quâ plerumque tenues in aspiratas sunt conversae, quam
 <div n="lb">ob rem {%auhô%} exspectaveris, cujus {%au%} ex vi euphonica lit-
 <div n="lb">terae {%h%} explicari posset, ita ut genuinum {%a%} in {%u%} sit atte-
-<div n="lb">nuatum
-<sup>(*)</sup> -- sicut e. c. in lith. {%ugni-s%} = {#agni#} ignis--
+<div n="lb">nuatum <sup>(*)</sup> -- sicut e. c. in lith. {%ugni-s%} = {#agni#} ignis--
 <div n="lb">vocali {%u%} vero, propter sequens {%h, a%} euphonicum sit
 <div n="lb">praefixum; russ. <lang n="greek"></lang> v. {#akzi#}). 2) talus. N. 7. 5. 3) rota
 <div n="lb">(cf. lat. {%axis%} = {#akzi#} q. v.; gr. <lang n="greek"></lang> = {#akzan#} q. v.;
@@ -424,7 +423,7 @@
 <div n="lb">{%ugni-s,%} slav. {%ognj,%} goth. {%auhn'-s%} hypocaustum, fornax
 [Page003-a+ 37]
 <div n="lb">v. Graff I. p. 176.; huc etiam pertinere videntur gr. <lang n="greek"></lang>
-<lang n="greek"></lang>).
+<div n="lb"><lang n="greek"></lang>).
 <LEND>
 
 <L>53<pc>003-a<k1>agnicit<k2>agnicit
@@ -1253,8 +1252,7 @@
 <L>202<pc>008-a<k1>aDityakA<k2>aDityakA
 {#aDityakA#}¦ {%f.%} (ut videtur, ex perdito primitivo {#aDitya#}-
 <div n="lb">quod ipsum descendit ab {#aDi#} s. {#tya#} cui respondet lat. s.
-<div n="lb">{%tiu-s%} <lang n="greek"></lang> {%propitiu-s%}
-<sup>(*)</sup> et gr. <lang n="greek"></lang>, per assimilationem ex
+<div n="lb">{%tiu-s%} <lang n="greek"></lang> {%propitiu-s%} <sup>(*)</sup> et gr. <lang n="greek"></lang>, per assimilationem ex
 <div n="lb"><lang n="greek"></lang> - s. {#ka#} in {%fem.%}) regio in montis ver-
 <div n="lb">tice (cf. {#upatyakA#}). HIT. 101. 18.
 <F>(*) V. Gramm. comp. p. 400.</F>
@@ -1938,8 +1936,7 @@
 <div n="lb">293. et Burnoufii «Yaçna» p. XCIX.) 1) inter, intus, in
 <div n="lb">medio. SA. 5. 106. BH. 5. 24. 8. 22. N. 24. 34. {%c. gen.%} BH.
 <div n="lb">13. 15. 2) sub, v. {#antarBUmi, antarBUmigata, antarhita#}
-<div n="lb">(lat. {%inter,%} goth. {%undar,%} nostrum {%unter,%} slav. {%on-ûtrj%}
-<sup>(*)</sup>
+<div n="lb">(lat. {%inter,%} goth. {%undar,%} nostrum {%unter,%} slav. {%on-ûtrj%} <sup>(*)</sup>
 <div n="lb">intra).
 <F>(*) De {%û%} pro {%an%} v. gr. comp. 255.</F>
 <LEND>
@@ -2765,8 +2762,7 @@
 
 <L>493<pc>016-a<k1>aBra<k2>aBra
 {#aBra#}¦ {%n.%} (ut mihi videtur, ex {#abBara#} aquam gerens, ejecto {#b#}
-<div n="lb">et {#a#}
-<sup>(*)</sup> cf. {#ambuda#} et {#jalada#}) nubes (gr. <lang n="greek"></lang> lat.
+<div n="lb">et {#a#} <sup>(*)</sup> cf. {#ambuda#} et {#jalada#}) nubes (gr. <lang n="greek"></lang> lat.
 [Page016-b+ 37]
 <div n="lb">{%imber%} insertâ nasali, nisi haec pertinent ad {#ambara#} coe-
 <div n="lb">lum vel {#amBas#} aqua; cf. etiam {%umbra%}).
@@ -3511,8 +3507,8 @@
 <div n="lb">vum cui respondet slav. <lang n="greek"></lang> Th. <lang n="greek"></lang> hic, ille, fem. <lang n="greek"></lang>
 <div n="lb">neut. <lang n="greek"></lang> Huc etiam trahimus gr. <lang n="greek"></lang> in composito
 <div n="lb"><lang n="greek"></lang> et posteriorem partem vocum <lang n="greek"></lang>
-<lang n="greek"></lang> porro <lang n="greek"></lang>
-<lang n="greek"></lang> et particulam negativam <lang n="greek"></lang> lat. {%au-t%} et {%au-tem,%} quod
+<div n="lb"><lang n="greek"></lang> porro <lang n="greek"></lang>
+<div n="lb"><lang n="greek"></lang> et particulam negativam <lang n="greek"></lang> lat. {%au-t%} et {%au-tem,%} quod
 <div n="lb">posterius suffixo convenit cum {#kaTam#} et {#itTam;#} no-
 <div n="lb">strum {%au-ch,%} goth. {%au-k;%} v. gr. comp. 377. sq.).
 <LEND>
@@ -4088,8 +4084,7 @@
 
 <L>741<pc>024-a<k1>aSvameDa<k2>aSvameDa
 {#aSvameDa#}¦ {%m.%} (ex {#aSva#} et {#meDa#} {%m.%} sacrificium) equi sacrifi-
-<div n="lb">cium.
-<sup>(*)</sup>
+<div n="lb">cium. <sup>(*)</sup>
 <F>(*) Wils. ad hanc vocem: „{%The actual or emblematic sa-%}
 <div n="lb">{%crifice of a horse. This sacrifice is one of the highest or-%}
 <div n="lb">{%der, and performed a hundred times, entitles the sacrificer%}
@@ -4456,8 +4451,7 @@
 <div n="lb">ejusdem organi. Gothico {%aika%} respondere videtur
 <div n="lb">germ. vet. {%jihu%} dico, fateor, puto (v. Graff I. p. 581.), a
 <div n="lb">radice {%JAH%} - gr. comp. p. 116. - ita ut {%j%} vocali initiali
-<div n="lb">sit antepositum,
-<sup>(*)</sup> sicut fortasse in goth. {%jains%} Th.
+<div n="lb">sit antepositum, <sup>(*)</sup> sicut fortasse in goth. {%jains%} Th.
 <div n="lb">{%jaina,%} nostro {%jener,%} si hoc pertinet ad scr. {#ena#} q. v. A
 <div n="lb">{%jihu%} praefixo {%bi%} est {%bijihu%} confiteor unde substantivum
 <div n="lb">{%bijiht%} confessio, nostrum {%Beichte.%} Pottius apte confert
@@ -6391,8 +6385,7 @@
 <div n="lb">{#idam,#} v. gr. 270. et cf. lat. {%idem%}) hic. {%Hoc pronomen,%}
 <div n="lb">{%ubi ad sermonem spectat, semper verbis dicendis antepo-%}
 <div n="lb">{%nitur, quâ in re, quod primus Rückertus ingeniose obser-%}
-<div n="lb">{%vavit%}
-<sup>(*)</sup> {%ab%} {#etat#} {%et%} {#etAvat#} {%se distinguit, quippe quae%}
+<div n="lb">{%vavit%} <sup>(*)</sup> {%ab%} {#etat#} {%et%} {#etAvat#} {%se distinguit, quippe quae%}
 <div n="lb">{%ad res narratas referuntur;%} e. c. N. 6. 5.: {#uvAce'daM va-#}
 <div n="lb">{#canam#} dixit hunc sermonem, {%qui sequentibus versibus%}
 <div n="lb">{%continetur;%} 7. 4.: {#Ahe'dam ehi dIvya nalena vE#} dixit
@@ -6428,8 +6421,7 @@
 <div n="lb">{%tivi sed etiam obliquorum casuum, e. c.%} RAM. ed. Schl. I.
 <div n="lb">59. 5.: {#yas tvam#} quia tu; H. 1. 35.: {#yoham#} quod ego
 <div n="lb">{%«dafs ich»;%} 1. 47. 22.: {#yasya me#} quia mei; H. 3. 19.: {#yAn#}
-<div n="lb">{#imAn#} quia hos.
-<sup>(*)</sup>
+<div n="lb">{#imAn#} quia hos. <sup>(*)</sup>
 <F>(*), Berlin. Jahrb. Jul. 1831. p. 89.</F>
 <F>(*) Cf. Rückert I. c. p. 92.</F>
 <LEND>
@@ -7248,8 +7240,7 @@
 <div n="lb">ex <lang n="greek"></lang> = {#uttara;#} hib. {%uas,%} quod separatum usur-
 <div n="lb">patur et {%os, ois%} tanquam praefixa, e. c. in {%os-car%} «a leap,
 <div n="lb">bound» quasi {#uccara,#} {%os-nadh%} «a sigh, a groan» quasi
-<div n="lb">{#unnAda,#} {%os-griobhan%} «an epigram», {%ois-gribhin%}
-<sup>(*)</sup> «a
+<div n="lb">{#unnAda,#} {%os-griobhan%} «an epigram», {%ois-gribhin%} <sup>(*)</sup> «a
 <div n="lb">superscription»; respicias etiam formam {%oin,%} cambro-brit.
 <div n="lb">{%yn,%} in {%oin-mhid, yn-wyd%} stultus, fatuus = {#unmada,#} v. gr.
 <div n="lb">58. et Piktet p. 88.; etiam {%udh%} in {%udhbhairt%} «an offering,
@@ -8691,8 +8682,7 @@
 
 <L>1536<pc>053-b<k1>uzarbuDa<k2>uzarbuDa
 {#uzarbuDa#}¦ {%m.%} (ex {#uzar#} - quod separatum non invenitur - a
-<div n="lb">r. {#uz#} s. {#ar#}
-<sup>(*)</sup> et {#buDa#} sciens a r. {#buD#} s. {#a#}) ignis. AM.
+<div n="lb">r. {#uz#} s. {#ar#} <sup>(*)</sup> et {#buDa#} sciens a r. {#buD#} s. {#a#}) ignis. AM.
 <F>(*), Cf. {%ušas.%} Quod ad suffixum {%ar%} attinet, respicias vo-
 <div n="lb">cem {%ahar,%} quae sicut {%ahas%} praesertim in initio composito-
 <div n="lb">rum invenitur.</F>
@@ -8702,8 +8692,7 @@
 {#uzas#}¦ {%n.%} (r. {#uz#} s. {#as#}) diluculum (lith. {%aufzra%} aurora,
 <div n="lb">lat. {%aurôra%} (= {#uzAsA#} gr. 681.) cum Gunae vel Vrid-
 <div n="lb">dhis incremento; goth. {%uh-tvô%} Th. {%uh-tvôn%} diluculum,
-<div n="lb">germ. vet. {%uohta%} Th. {%uohtûn%}
-<sup>(**)</sup>
+<div n="lb">germ. vet. {%uohta%} Th. {%uohtûn%} <sup>(**)</sup>
 <F>(**). Littera {%h%} pro sanscr. {%s%} nititur eo quod haec sibilans
 <div n="lb">cognata est cum {%k,%} cui ex consonantium permutandarum lege
 <div n="lb">gothicum {%h%} respondet, cf. {%ašṭâu,%} <lang n="greek"></lang> {%ahtau.%}</F>
@@ -8802,8 +8791,7 @@
 <L>1558<pc>054-a<k1>UDas<k2>UDas
 {#UDas#}¦ {%n.%} uber, <lang n="greek"></lang> AM. (Gr. <lang n="greek"></lang> anglo-sax. {%uder,%}
 <div n="lb">germ. vet. {%ûtar,%} nostrum {%Euter,%} hib. {%uit, uitche,%} lat.
-<div n="lb">{%ûber%}
-<sup>(*)</sup>
+<div n="lb">{%ûber%} <sup>(*)</sup>
 <F>(*). Latina lingua saepe adhibet {%f%} pro sanscr. {%ď%} et gr. <lang n="greek"></lang>;
 <div n="lb">in vocum medio autem aspiratae praefert mediam (v. gr. comp.
 <div n="lb">18.) unde etiam {%ruber%} pro {%rufer%} respondet graeco <lang n="greek"></lang>.</F>
@@ -8993,8 +8981,7 @@
 <div n="lb">vocalis nusquam est primitiva, sed semper orta ex {#r,#} an-
 <div n="lb">tecedente vel subsequente quâpiam vocali, ut e. c. {#Sf-#}
 <div n="lb">{#Romi#} a r. {#Sru,#} abjecto {#u,#} quo facto consonans {#r#} vocalis
-<div n="lb">naturam induit
-<sup>(*)</sup> ire, perveire, {%transl.%} adipisci (v. r.
+<div n="lb">naturam induit <sup>(*)</sup> ire, perveire, {%transl.%} adipisci (v. r.
 <div n="lb">{#i#}). NALOD. 1. 32.: {#tAN gAm…Ara#} ad illam regionem
 <div n="lb">pervenit; 42.: {#na riraMsAm Ara#} non gaudium adepta est.
 <div n="lb"> -- {%Caus.%} {#arpay#} (gr. 521.) facere ut aliquis eat, perve-
@@ -9137,8 +9124,7 @@
 <LEND>
 
 <L>1608<pc>056-b<k1>ftu<k2>ftu
-{#ftu#}¦ {%m.%} (r. {#f#} s. {#tu#}) 1) anni tempus. BH. 10. 35.
-<sup>(*)</sup> 2) men-
+{#ftu#}¦ {%m.%} (r. {#f#} s. {#tu#}) 1) anni tempus. BH. 10. 35. <sup>(*)</sup> 2) men-
 <div n="lb">sis. 3) menstrua (Ita {#amas#} tempus a r. {#am#} ire; c. {#ftu#}
 <div n="lb">cf. hib. {%raithe%} «a quarter of a year»; huc etiam traxerim
 <div n="lb">hib. {%alt%} - ex primitivâ formâ {#artu#} mutato {%r%} in {%l%} -
@@ -9260,8 +9246,7 @@
 [Page057-1a+ 4]
 
 <L>1627<pc>057-b<k1>F<k2>F
-{#F#}¦ 9. {%P.:%} {#fRAmi#} gr. 385. ({#gatO#}) ire. (Haec radix origine eadem est atque {#f#} q. v.)
-<sup>(*)</sup>
+{#F#}¦ 9. {%P.:%} {#fRAmi#} gr. 385. ({#gatO#}) ire. (Haec radix origine eadem est atque {#f#} q. v.) <sup>(*)</sup>
 <F>(*) De adulterinâ vocali {%ṝ%} v. librum meum „{%Vocalismus%}”
 <div n="lb">p. 181.</F>
 <LEND>
@@ -9899,8 +9884,7 @@
 
 <L>1739<pc>062-a<k1>kak<k2>kak
 {#kak#}¦ 1. {%A.%} ({#lOlye#} {%K.%} {#icCAgarBacApale#} {%v.%}) vacillare; desi-
-<div n="lb">derare.
-<sup>(*)</sup>
+<div n="lb">derare. <sup>(*)</sup>
 <div n="lb">(Huc trahi possit lat. {%vacillo,%} ita ut or-
 <div n="lb">tum sit e {%qVacillo%} abjectâ gutturali, sicut {%vermis%} e
 <div n="lb">{%qVermis%} = {#kfmi,#} et {%vivo%} e {%uivo%} e {%gVivo%} = {#jIv,#} goth. {%qviv'-s%}
@@ -10321,8 +10305,7 @@
 {#kaTam#}¦ {%Adv.%} (a stirpe interrog. {#ka,#} gr. 284., s. {#Tam,#} gr. 652.)
 <div n="lb">quomodo. N. 11. 24. (Huc trahimus gr. <lang n="greek"></lang> cum
 <div n="lb">praepositiones primitivae omnes a pronominibus des-
-<div n="lb">cendant.
-<sup>(*)</sup>
+<div n="lb">cendant. <sup>(*)</sup>
 <F>(*)) V. libros meos {%„Über einige Demonstrativstämme%}
 <div n="lb">{%und ihren Zusammenhang mit verschiedenen Präpositionen%}
 <div n="lb">{%und Conjunktionen”%} p. 9. sq. et {%„Einflufs der Pronomina%}
@@ -11105,8 +11088,7 @@
 <LEND>
 
 <L>1970<pc>068-b<k1>kaliNga<k2>kaliNga
-{#kaliNga#}¦ {%m.%} nomen regionis. DR. 2. 7.
-<sup>(*)</sup>
+{#kaliNga#}¦ {%m.%} nomen regionis. DR. 2. 7. <sup>(*)</sup>
 <F>(*) Wils.: {%The name Calinga is applied in the Purânas%}
 <div n="lb">{%to several places, but it especially signifies a district on%}
 <div n="lb">{%the Coromandel coast, extending from below Cuttack to%}
@@ -15719,8 +15701,7 @@
 
 <L>2733<pc>099-b<k1>gaRqa<k2>gaRqa
 {#gaRqa#}¦ {%m.%} gena, mala, totum faciei latus complectens. (Lith.
-<div n="lb"><lang n="greek"></lang>{%ndas%} maxilla;
-<sup>(*)</sup> fortasse etiam huc referenda sunt
+<div n="lb"><lang n="greek"></lang>{%ndas%} maxilla; <sup>(*)</sup> fortasse etiam huc referenda sunt
 <div n="lb">goth. {%kinnus%} mentum, per assimil. e {%kindus,%} nostrum
 [Page100-a+ 36]
 <div n="lb">{%Kinn,%} gr. <lang n="greek"></lang> lat. {%gena,%} nisi pertinent ad {#hanu,#} quod
@@ -15772,8 +15753,7 @@
 1. {#gad#}¦ 1. {%P.%} dicere, loqui. N. 15. 9.: {#Slokam ekaY ja-#}
 <div n="lb">{#gAda;#} DR. 9. 10.: {#hetum me gadataH SfRu#}. (Cf. {#kaT;#})
 <div n="lb">lith. {%gádijos%} appellor, v. gr. comp. 476. 506.; <lang n="greek"></lang>{%adas%} lin-
-<div n="lb">gua, oratio, <lang n="greek"></lang>{%odis%} verbum
-<sup>(*)</sup> {%giedmi%} cano, v. {#gE#} ca-
+<div n="lb">gua, oratio, <lang n="greek"></lang>{%odis%} verbum <sup>(*)</sup> {%giedmi%} cano, v. {#gE#} ca-
 <div n="lb">nere; polon. {%gadać%} loqui; hib. {%gadh%} vox.)
 <div n="pfx">c. {#ni#} {%i. q. simpl.%} HIT.: {#evam astu iti nigadya;#} RAGH.
 <div n="lb">2. 33.: {#BUpAlasiMhan nijagAda siMhaH;#} 11. 70.: {#rAGavo#}
@@ -15961,8 +15941,7 @@
 2. {#gam#}¦ terra, {%in dialecto Vêd.,%} unde genitivus {#gmas#} {%ejecto%} {#a#}.
 <div n="lb">Ros. 41. 20. (Huc nunc traxerim zend. <lang n="greek"></lang> {%zĕm,%} con-
 <div n="lb">tra eam, quam alibi de hac voce dixi sententiam; lith.
-<div n="lb"><lang n="greek"></lang>{%émiē4,%} slav. <lang n="greek"></lang> {%emlje%}
-<sup>(*)</sup> russ. <lang n="greek"></lang> {%emlà%}
+<div n="lb"><lang n="greek"></lang>{%émiē4,%} slav. <lang n="greek"></lang> {%emlje%} <sup>(*)</sup> russ. <lang n="greek"></lang> {%emlà%}
 <div n="lb">cum {%l%} epenthetico, radice ad eandem vocem pertinent,
 <div n="lb">derivatione autem cum cognato Vêdico {#gmA#} conveniunt,
 <div n="lb">quod e {#gamA#} ejecto {%a%} ortum est.)
@@ -16229,13 +16208,11 @@
 <div n="pfx">c. {#ati#} praeterire, {%de tempore, c. acc. pers.%} BR. 3. 16.: {#mA#}
 <div n="lb">{#tvAN kAlo 'tyagAd ayam#}. - Praef. {#vi (vyatigam)#}
 <div n="lb">praeterire, {%c. acc. rei.%} RAGH. 6. 52.: {#nfpan tam…sA#}
-<div n="lb">{#vyatyagAd anyavaDUr BavitrI#}.
-<sup>(*)</sup>
+<div n="lb">{#vyatyagAd anyavaDUr BavitrI#}. <sup>(*)</sup>
 <div n="pfx">c. {#aDi#} 1) adire. N. 10. 16.: {#aDyagAd rAjA vastrArDasyA#}
 <div n="lb">{#'vakartanam#}. 2) {%A.%} legere. MAH. 1. 1928.: {#vedAMScA 'Di-#}
 <div n="lb">{#jage;#} 4001.: {#vedAn aDijage;#} 5106. et 6332.: {#aDyagI-#}
-<div n="lb">{#zwa#}
-<sup>(**)</sup> {#sa vedAMSca vedANgAnica sarvaSaH#}.
+<div n="lb">{#zwa#} <sup>(**)</sup> {#sa vedAMSca vedANgAnica sarvaSaH#}.
 <div n="pfx">c. {#anu#} sequi. N. 9. 11.: {#damayantI tam anvagAt;#} RAGH.
 <div n="lb">8. 49.: {#dayitAm…anvagAt#}.
 <div n="pfx">c. {#aBi#} adire. IN. 4. 4.: {#apsarasam aByagAd urvaSIm;#}
@@ -16546,8 +16523,7 @@
 <L>2851<pc>106-a<k1>gup<k2>gup<h>1
 1. {#gup#}¦ 1. {%P.A.%} 10. {%P.%} custodire, tueri, servare. N. 17. 22.:
 <div n="lb">{#guptAm balena mahatA;#} H. 4. 43.: {#nakulaH sahade-#}
-<div n="lb">{#vaSca mAtaraN gopayizyataH#}.
-<sup>(*)</sup> -- {%Desid.%} {#jugups#} 1) la-
+<div n="lb">{#vaSca mAtaraN gopayizyataH#}. <sup>(*)</sup> -- {%Desid.%} {#jugups#} 1) la-
 <div n="lb">tere velle, abscondere. RAM. III. 53. 42.: {#jugupsann iva#}
 <div n="lb">{#AtmAnam;#} III. 75. 42.: {#karma jugupsitam#} facinus ce-
 <div n="lb">landum. 2) spernere, vituperare. MAN. 11. 189.: {#kfta-#}
@@ -16804,8 +16780,7 @@
 <div n="lb">{#te DiyaH#} «canunt, sapiens! tua facinora». {%Schol.%} {#tva-#}
 <div n="lb">{#dIyAni karmARi kaTayAnte#}. (V. {#gir#} et cf. hib. {%goi-%}
 [Page108-a+ 37]
-<div n="lb">{%rim%}
-<sup>(*)</sup> clamo; gr. <lang n="greek"></lang> zacon. <lang n="greek"></lang> v.
+<div n="lb">{%rim%} <sup>(*)</sup> clamo; gr. <lang n="greek"></lang> zacon. <lang n="greek"></lang> v.
 <div n="lb">«Vocalismus» p. 173. Huc etiam germ. vet. {%QUAR%} ge-
 <div n="lb">mere, {%quir, quar, quâr;%} boruss. vet. {%gerbu%} dico, loquor,
 <div n="lb">trahi possent, adjecto {%b;%} ita lat. {%verbum%} e {%guerbum,%} sicut
@@ -16823,8 +16798,7 @@
 <div n="lb">venitur, quum gutturales facile in palatales transeant; V.
 <div n="lb">RIGV. Ros. p. 2.)
 <div n="pfx">c. {#aBi#} {%in dial. vêd.%} affari, alloqui, laudare, celebrare.
-<div n="lb">RIGV. Ros. p. 14. 4.: {#ehi stomAM#}
-<sup>(**)</sup> {#aBisvarA 'Bi-#}
+<div n="lb">RIGV. Ros. p. 14. 4.: {#ehi stomAM#} <sup>(**)</sup> {#aBisvarA 'Bi-#}
 <div n="lb">{#gfRIhy Aruva#} «Veni, hymnos comproba, affare, allo-
 <div n="lb">quere»; 95. 14.: {#sA naH stomAM aBigfRIhi#} «Tu no-
 <div n="lb">stras preces comproba».
@@ -16969,8 +16943,7 @@
 
 <L>2911<pc>109-a<k1>gopAy<k2>gopAy
 {#gopAy#}¦ ({%Denominativum%} a praec. s. {#y,#} v. gr. 585.) custodire.
-<div n="lb">N. 18. 8. 22. 25.
-<sup>(*)</sup>
+<div n="lb">N. 18. 8. 22. 25. <sup>(*)</sup>
 <F>(*) Forsterus {%gôpây%} radicibus primitivis adscribit; Wil-
 <div n="lb">kinsius, in libro suo, The Radicals etc. perperam deducit
 <div n="lb">{%gôpâyâmi%} a {%gup%} cl. 4. quod {%gôpâmi, gôpasi%} etc. for-
@@ -17011,8 +16984,7 @@
 
 <L>2919<pc>109-b<k1>gorocanA<k2>gorocanA
 {#gorocanA#}¦ {%f.%} (e {#go#} et {#rocanA,#} a r. {#ruc#} splendere s. {#ana#} in
-<div n="lb">{%fem.%}) pigmentum flavum, splendidum.
-<sup>(*)</sup> UR. 67. 2. infr.
+<div n="lb">{%fem.%}) pigmentum flavum, splendidum. <sup>(*)</sup> UR. 67. 2. infr.
 <div n="lb">91. 20.
 <F>(*) Wils. {%„A bright yellow pigment prepared from the%}
 <div n="lb">{%urine of a cow or vomited in the shape of a scibulae by%}
@@ -17150,16 +17122,14 @@
 <div n="lb">munt, formis, syllabam {#ra#} in {#f#} corripit et vocalem inter-
 <div n="lb">mediam {#i#} in {#I#} producit, unde part. in {#ta gfhIta,#}
 <div n="lb">gerundd. {#gfhItvA, gfhya,#} praet. mltf. {#agrahizam;#} Pass.
-<div n="lb">{#gfhye;#} Desid. {#jiGfkz#}
-<sup>(*)</sup> gr. 102. {%d.%}) 1) capere, sumere,
+<div n="lb">{#gfhye;#} Desid. {#jiGfkz#} <sup>(*)</sup> gr. 102. {%d.%}) 1) capere, sumere,
 <div n="lb">accipere, prehendere, tollere. BHAG. 2. 22.: {#vAsAMsi#}
 <div n="lb">{#navAni gfhRAti;#} IN. 1. 27.: {#pItvA pARIyam tezAm#}
 <div n="lb">{#arTena jagrAha;#} RAGH. 1. 18.: {#balim agrahIt;#} MAN.
 <div n="lb">5. 157.: {#na nAmA 'pi gfhRIyAt parasya;#} RAGH. 5. 59.: {#a-#}
 <div n="lb">{#stramantraN jagrAha tasmAt;#} IN. 2. 20.: {#pARO gfhItvE#}
 <div n="lb">{#'nam;#} N. 1. 19.: {#tezAm ekaY jagrAha pakziRam;#} 20.: {#pawe#}
-<div n="lb">{#nipatite tadA grahIzyAmI#}
-<sup>(**)</sup> {#'ti taM rAjA nalam#}
+<div n="lb">{#nipatite tadA grahIzyAmI#} <sup>(**)</sup> {#'ti taM rAjA nalam#}
 <div n="lb">{#Aha#}. 2) captare. N. 1. 24.: {#grahItuN KagamAMs tvaramA-#}
 <div n="lb">{#Ro 'pacakrame#}. 3) percipere, audire. RAGH. 11. 15.: {#jyA-#}
 <div n="lb">{#ninAdam aTa gfhRatI tayoH#}. - {%Caus.%} facere ut aliquis
@@ -17232,8 +17202,7 @@
 <div n="lb">{#hum pragfhya…aByadravata…BImasenam;#} DR. 8. 4.:
 <div n="lb">{#gadAm pragfhyA 'Byadravat;#} 5. 25. A. 5. 25. 6. 16. 7. 11.
 <div n="pfx">c. {#prati#} 1) prehendere. IN. 2. 19.: {#sacE 'nam vfttapInA-#}
-<div n="lb">{#ByAm bAhuByAm pratyagfhRata#}.
-<sup>(*)</sup> RAM. III. 56. 3.: {#pra-#}
+<div n="lb">{#ByAm bAhuByAm pratyagfhRata#}. <sup>(*)</sup> RAM. III. 56. 3.: {#pra-#}
 <div n="lb">{#tijagrAha jananyAS caraRO#}. 2) accipere. A. 6. 24. N.
 <div n="lb">25. 4. 18.; {#vAkyam, vacanam, AjYAm pratigrahItum#}
 <div n="lb">sermonem, jussum {%alicujus%} accipere, excipere. R. Schl.
@@ -17250,8 +17219,7 @@
 <div n="lb">{#BavAn vigrahItuM samarTaH;#} 118. 9.: {#etEH sanDin na#}
 <div n="lb">{#kurvIta vigfhRIyAt tu kevalam;#} A. 10. 29.: {#tato Sa-#}
 [Page112-a+ 36]
-<div n="lb">{#rajAlena…vyagfhRaM#}
-<sup>(*)</sup> {#saha dEteyEH;#} {%v.%} {#vigraha#}.
+<div n="lb">{#rajAlena…vyagfhRaM#} <sup>(*)</sup> {#saha dEteyEH;#} {%v.%} {#vigraha#}.
 <div n="pfx">c. {#sam#} 1) capere, sumere, prehendere. SU. 4. 17.: {#gade#}
 <div n="lb">{#BIme saNgfhRItAm uBO tadA#} (omisso augmento).
 <div n="lb">2) colligere, continere, {%zusammennehmen, e. c. vestem.%}
@@ -17351,8 +17319,7 @@
 <L>2954<pc>112-b<k1>grEveya<k2>grEveya
 {#grEveya#}¦ {%n.%} (a {#grIvA#} s. {#eya#}) {%id.%} RAGH. 4. 75.: {#mAtaNgagrEveya;#}
 <div n="lb">R. Schl. I. 53. 17.: {#hiraRyakakzagrEveyAn…dadAmi kuYja-#}
-<div n="lb">{#rARAn te sahasrARi caturdaSa#}
-<sup>(*)</sup>
+<div n="lb">{#rARAn te sahasrARi caturdaSa#} <sup>(*)</sup>
 <F>(*) Notetur, Adjectivum supra laudatum solo casu conve-
 <div n="lb">nire cum substantivo, ad quod pertinet, genere autem cum
 <div n="lb">illo, ad quod sensu refertur; sic sl. 18.</F>
@@ -18033,8 +18000,7 @@
 
 <L>3058<pc>117-b<k1>caR<k2>caR<h>2
 2. {#caR#}¦ 1. {%P.%} ({#hiMsAgatyoH dAne#}) laedere, ferire, abscin-
-<div n="lb">dere
-<sup>(*)</sup> ire; cf. {#cuR, caw, cuw#}.
+<div n="lb">dere <sup>(*)</sup> ire; cf. {#cuR, caw, cuw#}.
 <F>(*) Vocem {%dâna%} non a {%dâ%} dare sed a {%dô%} abscindere
 <div n="lb">derivandum esse censeo.</F>
 <LEND>
@@ -18405,8 +18371,7 @@
 <div n="lb">{#SvAn upacaryaca SAstrataH;#} SAK. 43. 11.: {#yatnAd upa-#}
 <div n="lb">{#caryatAm;#} {%c. instr. rei%} RAGH. 14. 17.: {#sugrIvaviBIza-#}
 <div n="lb">{#RAdIn upAcarat kftrimasamviDABiH;#} MAH. 1. 769.: {#na#}
-<div n="lb">{#yuktam BavatA 'ham anfteno 'pacaritum#}.
-<sup>(*)</sup>
+<div n="lb">{#yuktam BavatA 'ham anfteno 'pacaritum#}. <sup>(*)</sup>
 <div n="pfx">c. {#nis#} egredi. BH. 6. 26.: {#niScarati manaH#}.
 <div n="pfx">c. {#pari#} circumgredi. N. 10. 17.; {%reverentiae causâ.%} RAM.
 <div n="lb">III. 47. 6.: {#lakzmaRaScA 'pi rAmasya pAdO paricaran vane#}.
@@ -19256,8 +19221,7 @@
 <LEND>
 
 <L>3233<pc>127-a<k1>cur<k2>cur<h>1
-1. {#cur#}¦ 4. {%A.:%} {#cUrye#}
-<sup>(*)</sup> ({#dAhe#}) urere. (Lith. {%kurrù%} calefacio
+1. {#cur#}¦ 4. {%A.:%} {#cUrye#} <sup>(*)</sup> ({#dAhe#}) urere. (Lith. {%kurrù%} calefacio
 <div n="lb">cubiculum, per assimil. e {%kurju,%} v. gr. comp. 501.,
 <div n="lb">praet. {%kuriau; sukurrù ugniṅ%} ignem accendo; goth. {%hauri%}
 <div n="lb">et gr. <lang n="greek"></lang> abjecto {%r%} finali, nituntur
@@ -19530,8 +19494,7 @@
 <div n="lb">facere ut alqs cadat. RAM. III. 60. 48.: {#gatan nA 'rhasi#}
 <div n="lb">{#taM svargAt punaS cyAvayitum#}. {%In dialecto Vêd.%} ex-
 <div n="lb">citare. RIGV. Ros. p. 72. 12.: {#janAM#} (pro {#janAn#}) {#acu-#}
-<div n="lb">{#cyavItana girIMr#}
-<sup>(*)</sup> {#acucyavItana#} «homines excitate,
+<div n="lb">{#cyavItana girIMr#} <sup>(*)</sup> {#acucyavItana#} «homines excitate,
 <div n="lb">nubes excitate». (Cf. {#jyu, Cyu, ju, Ju;#} scot. {%siab%} «motu
 <div n="lb">celere transiens»; hib. {%seabhais%} «wandering, strolling,
 <div n="lb">straying»; {%seabhasach%} «fatigued, weary».
@@ -19663,8 +19626,7 @@
 <LEND>
 
 <L>3287<pc>130-a<k1>Cad<k2>Cad<h>3
-3. {#Cad#}¦ 10. {%P.%} {#CadayAmi (Urjane)#}
-<sup>(*)</sup> educare, nutrire {%libe-%}
+3. {#Cad#}¦ 10. {%P.%} {#CadayAmi (Urjane)#} <sup>(*)</sup> educare, nutrire {%libe-%}
 <div n="lb">{%ros. K.:%} {#Cadayati putraN Gftena pitA#}.
 <F>(*) Sic legimus pro {%uǵǵanê%} apud Wilkins., quod ex
 <div n="lb">{%ûrǵǵanê%} corruptum esse censeo; {%ûrǵana%} autem hoc loco
@@ -20102,8 +20064,7 @@
 <LEND>
 
 <L>3348<pc>133-b<k1>jawA<k2>jawA
-{#jawA#}¦ {%f.%} (r. {#jaw#} s. {#A#}) coma implicata, involuta
-<sup>(*)</sup> SU. 1. 8.
+{#jawA#}¦ {%f.%} (r. {#jaw#} s. {#A#}) coma implicata, involuta <sup>(*)</sup> SU. 1. 8.
 <F>(*) Wils.: {%The hair matted as worn by the god Siwa,%}
 <div n="lb">{%and by ascetics; the long hairs occasionally clotted toge-%}
 <div n="lb">{%ther, and brought over the head, so as to project like a%}
@@ -20378,8 +20339,7 @@
 
 <L>3384<pc>135-b<k1>jambudvIpa<k2>jambudvIpa
 {#jambudvIpa#}¦ {%m.%} (e {#jambu#} et {#dvIpa#} {%m.%} insula, paeninsula) In-
-<div n="lb">dia
-<sup>(*)</sup> N. 26. 37.
+<div n="lb">dia <sup>(*)</sup> N. 26. 37.
 <F>(*) Wils.: Jambu Dwîpa, {%said to be so named from%}
 <div n="lb">{%the preceding plant abounding in it, and implying accor-%}
 <div n="lb">{%ding to the Purana's, the central division of the world%}
@@ -20671,8 +20631,7 @@
 <L>3435<pc>137-b<k1>jAtavedas<k2>jAtavedas
 {#jAtavedas#}¦ {%m.%} (natos Vêdos habens, qui Vêdos genuit,
 <div n="lb">e {#jAta#} et {#vedas#} {%Collect.%} Vêdi) 1) cognomen dei Ag-
-<div n="lb">nis.
-<sup>(*)</sup> 2) ignis. MAH. 1. 883. RAGH. 12. 104. 15. 72.
+<div n="lb">nis. <sup>(*)</sup> 2) ignis. MAH. 1. 883. RAGH. 12. 104. 15. 72.
 <F>(*) Wils.: {%One legend makes the Vêdas to have issued%}
 <div n="lb">{%from the mouth of Agni.%}</F>
 <LEND>
@@ -20754,8 +20713,7 @@
 <LEND>
 
 <L>3448<pc>138-a<k1>jAmbUnada<k2>jAmbUnada
-{#jAmbUnada#}¦ {%n.%} aurum. (Wils.: {%E%} {#jambunadI#}
-<sup>(*)</sup> {%a river flo-%}
+{#jAmbUnada#}¦ {%n.%} aurum. (Wils.: {%E%} {#jambunadI#} <sup>(*)</sup> {%a river flo-%}
 <div n="lb">{%wing from mount%} Sumêru, {%the Indian Pactolus, and%}
 <div n="lb">{#a#} {%aff.%}) DR. 7. 7. A. 2. 5. {%Ejus originis mythus exponi-%}
 <div n="lb">{%tur%} RAM. I. 31. 49.
@@ -20984,8 +20942,7 @@
 <div n="lb">{#vitum#} mori. SA. 5. 99.: {#purA mAtuH pitur vA 'pi yadi#}
 <div n="lb">{#paSyAmi vipriyam . na jIvizye#}. -- {%Caus.%} facere ut
 <div n="lb">alqs reviviscat, vitam recipiat. MAH. 1. 1994.: {#vfkzam#}
-<div n="lb">{#jIvayAmAsa;#} 1995.: {#pArTivaY jIvayizyati#}.
-<sup>(*)</sup> --
+<div n="lb">{#jIvayAmAsa;#} 1995.: {#pArTivaY jIvayizyati#}. <sup>(*)</sup> --
 [Page140-a+ 33]
 <div n="lb">{%Desid.%} {#jijIvizAmi#}. BH. 2. 6.: {#yAn eva hatvA na ji-#}
 <div n="lb">{#jIvizAmas te 'vasTitAH pramuKe#}. (Lith. {%gywénu%} vivo,
@@ -21306,8 +21263,7 @@
 <div n="lb">nostrum {%kann, kenne,%} quae aut ita explicari possunt, ut
 <div n="lb">nasales finales origine ex intermedia syllaba <lang n="greek"></lang> {#jA-nA-#}
 <div n="lb">{#mi#} ortae sint, sicut in persico {%dânem%} scio, aut ita ut
-<div n="lb">per metathesin e {#jYA#} ortum sit {%kann%}
-<sup>(*)</sup> reduplicatâ na-
+<div n="lb">per metathesin e {#jYA#} ortum sit {%kann%} <sup>(*)</sup> reduplicatâ na-
 <div n="lb">sali, nisi separandum est {%kan-n%} et altera nasalis ad radi-
 <div n="lb">cem primitivam altera ad derivationem pertinet. Lith.
 <div n="lb"><lang n="greek"></lang>{%innaù%} scio, <lang n="greek"></lang>{%innē4%} scientia, {%sa%}<lang n="greek"></lang>{%innē4%} conscientia; quae
@@ -21386,8 +21342,7 @@
 <LEND>
 
 <L>3522<pc>143-b<k1>jYAti<k2>jYAti
-{#jYAti#}¦ {%m.%} (r. {#jYA#} s. {#ti#}) cognatus, propinquus
-<sup>(*)</sup> H. 1. 39.
+{#jYAti#}¦ {%m.%} (r. {#jYA#} s. {#ti#}) cognatus, propinquus <sup>(*)</sup> H. 1. 39.
 <div n="lb">41. N. 9. 35. 16. 37. (Goth. {%knô-ds,%} Th. {%knô-di%} f., genus.)
 <F>(*) Wils.: {%A distant Kinsman, one who does not par-%}
 <div n="lb">{%ticipate in the oblations of food or water offered to de-%}
@@ -24965,8 +24920,7 @@
 <L>4093<pc>169-a<k1>diS<k2>diS
 {#diS#}¦ 6. {%P. A.%} {#diSAmi, diSe, adikzam, adikzi, de-#}
 <div n="lb">{#zwAsmi, dezwAhe, dekzyAmi, dekzye#}. 1) monstrare,
-<div n="lb">ostendere. MAN. 8. 57.: {#sAkziRaH santi me 'ty#}
-<sup>(*)</sup> {#u-#}
+<div n="lb">ostendere. MAN. 8. 57.: {#sAkziRaH santi me 'ty#} <sup>(*)</sup> {#u-#}
 <div n="lb">{#ktrA diSe 'ty ukto diSen na yaH#}. 2) decernere. A. 9.
 <div n="lb">31.: {#dizwam atre 'ti#}. 3) dare, largiri. RAGH. 16. 72.:
 <div n="lb">{#yat (jEtrABaraRam)…rAmaH kuSAya rAjyena saman dide-#}
@@ -25057,8 +25011,7 @@
 <div n="lb">in {%l, li-no, li-tum,%} abjectâ gutturali; fortasse {%tingo%} mutatâ
 <div n="lb">mediâ in tenuem, sicut e. c. sanscrit. {#dfh#} et {#tfh#} idem
 <div n="lb">valent; germ. vet. {%zehôm%} tingo nititur formâ caus. {#deha-#}
-<div n="lb">{#yAmi;#} ita lith. {%da%}<lang n="greek"></lang>{%au%} intingo, coloro.
-<sup>(*)</sup>
+<div n="lb">{#yAmi;#} ita lith. {%da%}<lang n="greek"></lang>{%au%} intingo, coloro. <sup>(*)</sup>
 <div n="pfx">c. {#pra#} {%i. q. simpl.%} BH. 2. 5.: {#ruDirapradigDa#}.
 <div n="pfx">c. {#sam, sandigDa#} 1) pollutus. UR. 37. 6. 2) oppressus,
 <div n="lb">suffocatus, {%de voce.%} N. 12. 100.: {#vAzpasandigDayA girA;#}
@@ -32660,8 +32613,7 @@
 <L>5291<pc>223-b<k1>pfTvI<k2>pfTvI
 {#pfTvI#}¦ {%f.%} (magna, lata, {%fem.%} a {#pfTu#}) terra, {%cf.%} {#mahI;#} {%usi-%}
 <div n="lb">{%tatius est%} {#pfTivI,#} {%quod e%} {#pfTvI#} inserto {#i#} ortum esse
-<div n="lb">censeo.
-<sup>(*)</sup> (Cambro-brit. {%prîz%} «mould or earth».)
+<div n="lb">censeo. <sup>(*)</sup> (Cambro-brit. {%prîz%} «mould or earth».)
 <F>(*) Wilsonus deducit {#pfTvI#} a {#pfTu#} nomine regis, {#praTivI#}
 <div n="lb">vero a rad. {#praT#} celebrem esse.</F>
 <LEND>
@@ -35537,8 +35489,7 @@
 
 <L>5774<pc>242-b<k1>Baj<k2>Baj<h>2
 2. {#Baj#}¦ 10. {%P.%} {#BAjayAmi#} ({#viSrARane#} {%K.%} {#pAke#} {%V.%}) dare, lar-
-<div n="lb">giri (?)
-<sup>(*)</sup>, coquere. (Cf. {#Brajj, Bfj,#} germ. vet.
+<div n="lb">giri (?) <sup>(*)</sup>, coquere. (Cf. {#Brajj, Bfj,#} germ. vet.
 <div n="lb">{%BACH, PACH, BAKK%} torrere, coquere, nostrum {%ba-%}
 <div n="lb">{%cken.%})
 <F>(*) Fortasse pro {#viSrARane#} a r. {#SraR#} dare legendum est
@@ -36833,8 +36784,7 @@
 {#BrazwABaraRakeSAnta#}¦ ({%BAH.%} e {#Brazwa#} elapsus et {%DVANDV.%}
 <div n="lb">{#ABaraRakeSAnta, ABaraRa + keSAnta, keSa#} et
 [Page253-a+ 27]
-<div n="lb">{#anta#}
-<sup>(*)</sup>) elapsa ornamenta et capillos habens. SU. 1. 15.
+<div n="lb">{#anta#} <sup>(*)</sup>) elapsa ornamenta et capillos habens. SU. 1. 15.
 <F>(*) {#keSAnta#} idem significare videtur ac {#keSa,#} {%cf.%} {#suBrUnAsA-#}
 <div n="lb">{#kzikeSAnta#}. H. 3. 14.</F>
 <LEND>
@@ -38684,8 +38634,7 @@
 <div n="lb">{%Caus.%} claudere, {%de oculis.%} MEGH. 109.: {#locane mIlayi-#}
 <div n="lb">{#tvA#}.
 <div n="pfx">c. {#ut#} aperire {%oculos,%} aufschlagen. BHATT. 15. 102.:
-<div n="lb">{#udamIlIl locane;#} MAH. 3. 11155.: {#Izad unmIlya#}
-<sup>(*)</sup>
+<div n="lb">{#udamIlIl locane;#} MAH. 3. 11155.: {#Izad unmIlya#} <sup>(*)</sup>
 <div n="lb">{#locane#}. Se aperire, {%de oculis.%} BHATT. 16. 8.: {#unmIli-#}
 <div n="lb">{#zyati cakzur me vfTA#}. -- {%Caus.%} aperire {%oculos.%} UR. 5.
 <div n="lb">14.: {#etad unmIlaya cakzur Ayatam#}.
@@ -38694,8 +38643,7 @@
 <div n="lb">{%voce.%} RAGH. 8. 37.: {#nimimIla narottamapriyA hftacandrA#}
 <div n="lb">{#tamase 'va kOmudI#}.{# nimIlita = nimIlitAkza#} clau-
 <div n="lb">sos oculos habens. RAGH. 1. 68.: {#prajAlopanimIli-#}
-<div n="lb">{#taH#}
-<sup>(*)</sup>. 2) dormire. MAN. 1. 52.: {#yadA svapiti DarmA-#}
+<div n="lb">{#taH#} <sup>(*)</sup>. 2) dormire. MAN. 1. 52.: {#yadA svapiti DarmA-#}
 <div n="lb">{#tmA tadA sarvan nimIlati;#} HIT. 107. 13.: {#nareSvare#}
 <div n="lb">{#jagat sarvan nimIlati nimIlati#}. -- {%Caus.%} clau-
 <div n="lb">dere {%oculos, expressâ vel omissâ oculos significante voce.%}
@@ -42258,8 +42206,7 @@
 <div n="lb">{#BavAn…raTam;#} 14.: {#devalokam…Arohasva;#} N. 13.
 <div n="lb">14.: {#vfkzezv Aruhya;#} H. 3. 5.: {#Aruhe 'mAm mama SroRIm;#}
 [Page294-a+ 36]
-<div n="lb">M. 30.: {#tatra…AruheTAH#}
-<sup>(*)</sup> Adire, adipisci. HIT. 10.
+<div n="lb">M. 30.: {#tatra…AruheTAH#} <sup>(*)</sup> Adire, adipisci. HIT. 10.
 <div n="lb">16.: {#saMSayam punar Aruhya;#} BH. 6. 4.: {#yogArUQaH#}. --
 <div n="lb">{%Caus.%} efficere ut quis adscendat; tollere, levare, collo-
 <div n="lb">care {%in aliquo loco.%} N. 8. 19. 13. 52. IN. 2. 21. SA. 5. 62.
@@ -42502,8 +42449,7 @@
 <LEND>
 
 <L>6773<pc>295-b<k1>rohiRI<k2>rohiRI
-{#rohiRI#}¦ {%f.%} (r. {#ruh#} s. {#in#} in {%fem.%}) astrum lunare
-<sup>(*)</sup> {%in, my-%}
+{#rohiRI#}¦ {%f.%} (r. {#ruh#} s. {#in#} in {%fem.%}) astrum lunare <sup>(*)</sup> {%in, my-%}
 <div n="lb">{%thologia%} una e {%Dakshi%} filiis et dei {%Tschandri%} (lunae) con-
 <div n="lb">jugibus. N. 16. 22.
 <F>(*) Wilson: {%The fourth lunar asterism figured by a%}
@@ -49258,8 +49204,7 @@
 <LEND>
 
 <L>7770<pc>345-b<k1>SaraBa<k2>SaraBa
-{#SaraBa#}¦ {%m.%} animalis species
-<sup>(*)</sup> DR. 4. 13.
+{#SaraBa#}¦ {%m.%} animalis species <sup>(*)</sup> DR. 4. 13.
 <F>(*) Wilson: 1) {%A fabulous animal, supposed to have%}
 <div n="lb">{%eight legs and to inhabit particularly the snowy mountains.%}
 <div n="lb">AM. 2) {%A young elephant.%} 3) {%A monkey in Rama's army.%}
@@ -53058,8 +53003,7 @@
 <div n="lb">{%dextimus,%} gr. comp. 293.-et gr. <lang n="greek"></lang> huc perti-
 <div n="lb">nent, ita ut {%sinis-%} ortum sit e {%sivis-%} et <lang n="greek"></lang> e <lang n="greek"></lang>
 <div n="lb"><lang n="greek"></lang> cum semivocales vel liquidae facile inter se
-<div n="lb">mutentur, v. gr. comp. 20.)
-<sup>(*)</sup>
+<div n="lb">mutentur, v. gr. comp. 20.) <sup>(*)</sup>
 <F>(*) De cognatis formis in linguis Malayicis v. librum
 <div n="lb">meum {%Über die Verwandtschaft der malayisch-polynesi-%}
 <div n="lb">{%schen Sprachen mit den indisch-europäischen%} p. 86. et 148.</F>
@@ -53795,8 +53739,7 @@
 <div n="lb">4695.: {#suzAvaca bahUn somAn;#} RIGV. 109. 4.: {#so-#}
 <div n="lb">{#mam…sunoti;#} 28. 6.: {#indrAya patave sunu somam u-#}
 <div n="lb">{#lUKala#} «Indrae ad bibendum para {%libamen%} (asclepiadem
-<div n="lb">acidam effunde)». Mortarium. 28. 8.: {#maDumat sutam#}
-<sup>(*)</sup>
+<div n="lb">acidam effunde)». Mortarium. 28. 8.: {#maDumat sutam#} <sup>(*)</sup>
 <div n="lb">«dulce {%libamen%} parate (dulce libate)»; 84. 1.: {#asAvi#}
 <div n="lb">{#soma indra te#}. (Cf. {#sru, snu;#} fortasse gr. <lang n="greek"></lang> nisi hoc
 <div n="lb">pertinet ad {#und,#} q. v.)
@@ -55520,8 +55463,7 @@
 
 <L>8717<pc>391-a<k1>sPuw<k2>sPuw<h>1
 1. {#sPuw#}¦ 6. {%P.%} ({%fut. part.%} {#sPuwitAsmi,#} {%fut. aux.%} {#sPuwi-#}
-<div n="lb">{#zyAmi,#} {%infin.%} {#sPuwitum#}
-<sup>(*)</sup>) 1) dissilire, dirumpi.
+<div n="lb">{#zyAmi,#} {%infin.%} {#sPuwitum#} <sup>(*)</sup>) 1) dissilire, dirumpi.
 <div n="lb">MAH. 1. 3023.: {#SataDA mUrDA tatas te 'dya sPuwizyati#}.
 <div n="lb">2) rumpi, se aperire, se pandere, dehiscere, {%de floribus.%}
 <div n="lb">GITA-GOV. 5. 2.: {#sPuwan kusumanikaraH#}. 3) diffugere.
@@ -55787,8 +55729,7 @@
 <L>8752<pc>393-b<k1>sru<k2>sru
 {#sru#}¦ 1. {%P.%} (scribitur etiam {#Sru#}) ire, fluere. MAH. 1. 5081.: {#su-#}
 <div n="lb">{#srAva reto 'sya;#} 2. 2592.: {#sravannetrajalAvilA;#} R. Schl.
-<div n="lb">II. 63. 18.: {#srotAMsi vimalAny api susruvur#}
-<sup>(*)</sup> {#gi-#}
+<div n="lb">II. 63. 18.: {#srotAMsi vimalAny api susruvur#} <sup>(*)</sup> {#gi-#}
 <div n="lb">{#riDAtuByaH;#} 40 34.: {#susrAva nayanEH strIRAm aSram#}.
 <div n="lb">{%TROP.%} MAH. 1. 5329.: {#tumulA vAcaH susruvuH#}. -- {#sruta#}
 <div n="lb">fluens. MAN. 4. 122.: {#ruDire srute gAtrAt#}. 2) effundere.
