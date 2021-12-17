@@ -20,7 +20,7 @@ The pseudo-xml <> style of coding is used as follows:
 <L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
 
 Types of line break divisions appear in the entries:
-<div n="lb"/>  Line break
+<div n="lb"/>  Line break (Removed 12-17-2021)
 <div n="1"/>X</div>   Subsection delimited by a number: (1), (2), etc.
 <div n="I"/>X</div>   Subsection delimited by a roman numeral: I, II, etc.
 <div n="xe">X</div>  <div n="xs">Y</div>  Indicates a usage example;
