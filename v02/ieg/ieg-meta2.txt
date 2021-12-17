@@ -22,7 +22,7 @@ The {X...X} style of coding serves several purposes:
 The pseudo-xml <> style of coding is used as follows:
 
 <L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
-<div n="lb">  Line break
+<div n="lb">  Line break (Removed 12-16-2021)
 <div n="P">   Line break, indented.
 
 Meta lines: 
