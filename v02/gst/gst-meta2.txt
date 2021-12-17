@@ -26,6 +26,7 @@ The pseudo-xml <> style of coding is used as follows:
 <s>X</s> Sanskrit text, in SLP1 transcoding.
 <sup>N</sup>  Section indicator within entry
 <div n="lb">  Line break. The digitization has a line for each line of text.
+              (Removed 12-16-2021)
 <div n="P">   Line break with indentation.
 <lang n="greek"></lang>  Greek text, not coded (on 11 lines).
 
