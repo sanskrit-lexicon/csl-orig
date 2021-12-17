@@ -25,9 +25,9 @@ The pseudo-xml <> style of coding is used as follows:
 <sup>N</sup>  Superscript text for homonyms and homonym references.
 Often line breaks have semantic significance.
    Two types of line break divisions appear in the entries:
-<div n="lb">  Line break
+<div n="lb">  Line break (Removed 12-16-2021)
 <div n="P">   Line break with indentation
-
+<info .../>   Once.
 
 Meta lines: 
 Each entry of the digitization is contained within a beginning and ending
