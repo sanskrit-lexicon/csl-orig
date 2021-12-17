@@ -22708,7 +22708,9 @@ c.; {%See%} {@Separate.@} {%-v. t.%} {#viyuj-viSliz-#}
 
 <L>3114<pc>118<k1>diuretic<k2>diuretic
 {@Diuretic,@}¦ {%a.%} {#mUtravarDaka#}.
+<LEND>
 
+<L>3114.1<pc>118<k1>diurnal<k2>diurnal
 {@Diurnal,@} {%a.%} {#Ahnika-dEnika#} ({#kI#} {%f.%}), {#dEnaM-#}
 {#-dina#} ({#nI#} {%f.%}); {%See%} {@Daily.@}
 <LEND>
@@ -35625,8 +35627,6 @@ size’ {#pra-upa-cIyamAna-avayava#}. {@-Growth,@} {%s.%}
 
 <L>4699<pc>192<k1>guard<k2>guard
 {@Guard,@}¦ {%v. t.%} {#saM-, pari-, rakz#} 1 P; {#pA#} 2 P; {#pA#}
-
-
 c. ({#pAlayati#}), {#trE#} 1 A, {#av#} 1 P, {#gup#} 1 P;
 {%See%} {@Protect. 2@} {#vf#} c., {#vAr#} 10, {#ni°;#} ‘g.
 against’ {#ava-DA#} 3 U; {#sAvaDAna-avahita#} {%-a.%}
@@ -64540,8 +64540,7 @@ fault with him’. {@-Presumption,@} {%s.%}
 {#sAhasaM, DArzwyaM, prAgalByaM#}. {@3@} {#avalepaH, darpaH,#}
 {#aBimAnaH, ahaMkAraH, garvaH#}. {@4@} {#saMBAvyatA,#}
 {#saMBavaH#}. {@-Presumptive,@} {%a.%} {#AnumAnika#}
-({#kI#} {%f.%}), {#anumAnasidDa, saMBAvita;#} ‘p.’
-
+({#kI#} {%f.%}), {#anumAnasidDa, saMBAvita;#} ‘p.
 proof’ {#anumAnanirRayaH#}. {@-Presump-@}
 {@-tuous,@} {%a.%} {#sAhasika#} ({#kI#} {%f.%}), {#Dfzwa, DfzRu,#}
 {#pragalBa#}. {@2@} {#avalipta, atyaBimAnin;#} ‘a p.
@@ -71692,7 +71691,9 @@ in comp.
 {@Rue,@}¦ {%v. t.%} {#anuSuc#} 1 P, {#anutap#} 4 A; {%See%}
 {@Repent, Regret,@} {%s.%} {#brAhmI#}. {@-ful,@} {%-s.%} {#anuSo-#}
 {#-kAkula, anutApArta, SokArta, vizaRRa, udvigna#}.
+<LEND>
 
+<L>9035.1<pc><k1>ruffian<k2>ruffian
 {@Ruffian,@} {%s.%} {#AtatAyin#} {%m.,%} {#sAhasikaH,#}
 {#vaDo-dyataH#}.
 <LEND>
@@ -71707,7 +71708,9 @@ disposition’ {#prakftigaMBIra, SAMtAtman#}. {%-s.%}
 {#aSAMti#} {%f.%} {@-ed,@} {%a.%} {#saM-, kzubDa, kzoBita, prako-#}
 {#-pita, Akula, vyAkula, vyagra, asTira, saMBrAMta,#}
 {#aSAMta, udvigna, kAtara, pAriplava#}.
+<LEND>
 
+<L>9036.1<pc>403<k1>rug<k2>rug
 {@Rug,@} {%s.%} {#kaMbalaH, rallakaH; AsvaraH-raRaM#}.
 <LEND>
 
@@ -80210,8 +80213,10 @@ instr.); {#SuD#} c.; {#etAnayutaviyutAn#} (Li
 {@-ion,@} {%s.%} {#viyojanaM, viyogaH, vyavakalitaM,#}
 {#vyavakalanaM, SoDanaM, vi-, varjanaM#}. {@2@} {#udDAraH#}.
 {@-Subtrahend,@} {%s.%} {#fRaM, SoDakaH#}.
+<LEND>
 
-{@suburb,@} {%s.%} ({#nagara-#}) {#parisaraH, upakaMWaM, paryaMta-#}
+<L>10018.1<pc>454<k1>suburb<k2>suburb
+{@Suburb,@} {%s.%} ({#nagara-#}) {#parisaraH, upakaMWaM, paryaMta-#}
 {#-BUmi#} {%f.,%} {#upaSalyaM, upAMtaM, SAKAnagaraM, upanagaraM#}.
 {@-en,@} {%a.%} {#nagaropAMtasTa-vartin, upakaMWa#}.
 <LEND>
