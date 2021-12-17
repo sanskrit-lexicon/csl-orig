@@ -14,7 +14,7 @@ The pseudo-xml <> style of coding is used as follows:
 
 <L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
 <lang n="greek">X</lang>  2 X in Greek unicode (X currently empty - not coded)
-<div n="lb">  line break
+<div n="lb">  line break (markup removed 12-16-2021)
 <H>     40  : Headline, letter breaks
 
 Meta lines: 
