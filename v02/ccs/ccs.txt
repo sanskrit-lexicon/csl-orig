@@ -97958,7 +97958,7 @@ Wortanspielung).*
 <LEND>
 
 <L>21162<pc>380-2<k1>vacas<k2>va/cas
-{#va/cas#}¦ {%m.%} Rede, Wort, Gesang; Aussprech,
+{#va/cas#}¦ {%n.%} Rede, Wort, Gesang; Aussprech,
 Rat, Geheiß.
 <LEND>
 
@@ -100449,7 +100449,7 @@ bergen. {#vi#} sich fortbegeben von {%(Abl.)%},
 zubringen, verleben {%(Acc.). Caus.%} ver-
 jagen, verbannen. {#sam#} zusammen
 wohnen, verkehren mit {%(Instr. mit u.%}
-{%ohne%} {#saha#}), sich aufhlaten, leben in {%(Loc.).%}
+{%ohne%} {#saha#}), sich aufhalten, leben in {%(Loc.).%}
 {%Caus.%} zusammenbringen; beherbergen.
 <LEND>
 
@@ -132844,13 +132844,13 @@ vorhanden. gegenwärtig, übrig
 geblieben. {%n.%} das Stehen, Verweilen.
 <LEND>
 
-<L>28653<pc>516-2<k1>sTita<k2>sTi/ta
-{#sTi/ta#}¦ {#(sTiti/)#} {%f.%} das Stehen Verweilen,
+<L>28653<pc>516-2<k1>sTiti<k2>sTi/ti
+{#sTi/ti#}¦ {#(sTiti/)#} {%f.%} das Stehen, Verweilen,
 Aufenthalt, Sichbefinden in ({%Loc. o.%} —°);
 Stellung, Rang; das Fortbestehen, Beharrlichkeit, <lbinfo n="13"/>
 Dauer, Beständigkeit,
 Tugend; das Bedachtsein {%o.%} Bestehen
-auf {%(Loc.)%}; Zustand, Lange, Verfahren,
+auf {%(Loc.)%}; Zustand, Lage, Verfahren,
 Benehmen, Art und Weise, Ordnung,
 Einrichtung, Satzung, Regel.
 <LEND>
