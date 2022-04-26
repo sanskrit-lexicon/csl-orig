@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>-->
+<?oxygen RNGSchema="//www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?>
+<TEI xmlns="//www.tei-c.org/ns/1.0" xmlns:xi="//www.w3.org/2001/XInclude">
+ <teiHeader xml:lang="en-Latn">
+  <fileDesc>
+   <titleStmt>
+    <title type="main">Böhtlingk Sanskrit-Wörterbuch in kürzerer Fassung, Nachträge und Verbesserungen</title>
+  
+    <editor>Jim Funderburk</editor>
+    <editor>Thomas Malten</editor>
+    <principal>Thomas Malten</principal>
+    <funder>Jim Funderburk</funder> 
+   </titleStmt>
+   <editionStmt>
+    <edition>digital edition<date when="2022">2022</date></edition>
+    <respStmt>
+     <resp>Primary digitization</resp>
+     <name>Thomas Malten</name>
+    </respStmt>
+    <respStmt>
+     <resp>Programming, integration of dictionary into Sanskrit-lexicon</resp>
+     <name>Jim Funderburk</name>
+    </respStmt>
+    <respStmt>
+     <resp>Correction analysis</resp>
+     <name>Jim Funderburk</name>
+    </respStmt>
+   </editionStmt>
+   <extent>3.2 MB (for pwkvn.txt dictionary at Cologne)</extent>
+   <publicationStmt>
+    <publisher>University of Cologne</publisher>
+    <pubPlace>Cologne, Germany</pubPlace>
+    <publisher>Institut für Südasien- und Südostasienstudien (SASOA)</publisher>
+    <pubPlace>Köln</pubPlace>
+    <date when="2022">2022</date>
+    <availability>
+      <p>Copyright © 2022 Thomas Malten</p>
+     <p>All rights reserved other than those granted under the Creative Commons Attribution 4.0 International License available in full at <ref target="https://creativecommons.org/licenses/by/4.0/"></ref>.  Permission is granted to build upon this work, as long as credit is explicitly acknowledged exactly as described herein, and derivative work is distributed under the same license.</p>
+      
+    </availability>
+    <distributor>
+     <ptr target="//www.sanskrit-lexicon.uni-koeln.de/scans/PWKVNScan/2020/web/index.php"/>
+    </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct type="original" xml:id="LAN">
+     <monogr>
+      <author>Otto Böhtlingk</author>
+      <title type="main" level="m">Sanskrit-Wörterbuch in kürzerer Fassung, Nachträge und Verbesserungen</title>
+      <edition></edition>
+      <imprint>
+       <pubPlace>St. Petersburg</pubPlace>
+       <publisher>Buchdruckerei der Kaiserlichen Akademie der Wissenschaften</publisher>
+       <date>1879-1889</date>
+      </imprint>
+      <imprint>
+       <pubPlace>Graz</pubPlace>
+       <publisher>Akademische Druck- U. Verlagsanstalt</publisher>
+       <date>1959</date>
+      </imprint>
+      <extent>
+       <measure unit="volumes" quantity="7">7 vols.</measure>
+       <measure unit="pages" quantity="200">200 p.</measure>
+      </extent>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.-->
+   <projectDesc>
+    <p>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and merge all published Sanskrit dictionaries. Its aim is to create a basic lexical corpus that provides easy access to all available meanings of Sanskrit words and allows the creation of a number of computer programs that will help to analyze Sanskrit texts.</p>
+    <p>See <ptr target="//www.sanskrit-lexicon.uni-koeln.de/CDSL.pdf"/>.</p>
+   </projectDesc>
+   <editorialDecl>
+    <p></p>
+   </editorialDecl>
+   <tagsDecl>
+  </tagsDecl>
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+     <p>Data-entry in Kyoto-Harvard and Anglicized Sanskrit encoding by typists in <placeName>Azhivaikkal</placeName> in <placeName>Thanjavur district</placeName>, <placeName>Tamilnadu</placeName> under the direction of Thomas Malten, with character codes partially marking divisions in the text.
+     <persName>Funderburk</persName> transformed it to Unicode and SLP1 transcoding of Sanskrit, with markup of abbreviations and reference links.
+     Corrections were evaluated by <persName>Malten</persName> and <persName>Funderburk</persName>, and implemented by <persName>Funderburk</persName>.</p>
+    <p>XML generated programmatically from the dictionary digitization, pwkvn.txt</p>
+   </creation>
+   <langUsage>
+    <language ident="en-Latn">German</language>
+    <language ident="sa-Latn-x-AS">Sanskrit</language>
+    <language ident="sa-Latn-x-SLP1">Sanskrit in Sanskrit Library Phonetic Basic encoding, a phonetic Romanization using only ASCII characters</language>
+   </langUsage>
+   <textClass>
+    <keywords scheme="#lcsh">
+     <list>
+      <item>Sanskrit language -- Dictionaries -- German.</item>
+     </list>
+    </keywords>
+
+    <catRef target="../../Publication/tei/IndicSubjectClassification.xml#koSa"/>
+   </textClass>
+  </profileDesc>
+ </teiHeader>
+ <text>
+  
+  <body>
+   <xi:include href="lan.xml"><!-- The file that has the xml data -->
+    <xi:fallback>
+     <p>See the file pwkvn.xml downloadable from <ref target="//www.sanskrit-lexicon.uni-koeln.de">//www.sanskrit-lexicon.uni-koeln.de</ref>.</p>
+    </xi:fallback>
+   </xi:include>
+  </body>
+ </text>
+</TEI>

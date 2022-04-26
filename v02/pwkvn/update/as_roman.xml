@@ -1,0 +1,41 @@
+<fsm start='INIT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
+<!-- Adapated for pwkvn  Mar 24, 2022 -->
+<e> <s>INIT</s> <in>A1</in> <out>Ā</out> </e>
+<e> <s>INIT</s> <in>a1</in> <out>ā</out> </e>
+<e> <s>INIT</s> <in>D2</in> <out>Ḍ</out> </e>
+<e> <s>INIT</s> <in>d2</in> <out>ḍ</out> </e>
+<e> <s>INIT</s> <in>I1</in> <out>Ī</out> </e>
+<e> <s>INIT</s> <in>i1</in> <out>ī</out> </e>
+<e> <s>INIT</s> <in>M3</in> <out>Ṃ</out> </e>
+<e> <s>INIT</s> <in>m3</in> <out>ṃ</out> </e>
+<e> <s>INIT</s> <in>N2</in> <out>Ṇ</out> </e>
+<e> <s>INIT</s> <in>n2</in> <out>ṇ</out> </e>
+<e> <s>INIT</s> <in>N5</in> <out>Ñ</out> </e> 
+<e> <s>INIT</s> <in>n5</in> <out>ñ</out> </e>
+<e> <s>INIT</s> <in>N3</in> <out>Ṅ</out> </e> 
+<e> <s>INIT</s> <in>n3</in> <out>ṅ</out> </e> 
+<e> <s>INIT</s> <in>R2</in> <out>Ṛ</out> </e>
+<e> <s>INIT</s> <in>r2</in> <out>ṛ</out> </e>
+<e> <s>INIT</s> <in>SH</in> <out>Ṣ</out> </e>
+<e> <s>INIT</s> <in>sh</in> <out>ṣ</out> </e>
+<e> <s>INIT</s> <in>T2</in> <out>Ṭ</out> </e>
+<e> <s>INIT</s> <in>t2</in> <out>ṭ</out> </e>
+<e> <s>INIT</s> <in>U1</in> <out>Ū</out> </e>
+<e> <s>INIT</s> <in>u1</in> <out>ū</out> </e>
+<e> <s>INIT</s> <in>s4</in> <out>ś</out> </e> 
+<e> <s>INIT</s> <in>S4</in> <out>Ś</out> </e> 
+<e> <s>INIT</s> <in>H2</in> <out>Ḥ</out> </e>
+<e> <s>INIT</s> <in>h2</in> <out>ḥ</out> </e>
+
+<!-- sometimes in <as1>X</as1> -->
+<e> <s>INIT</s> <in>e4</in> <out>é</out> </e> 
+
+<!-- Not used for pwkvn
+<e> <s>INIT</s> <in>O7</in> <out>Ö</out> </e>
+<e> <s>INIT</s> <in>o7</in> <out>ö</out> </e>
+<e> <s>INIT</s> <in>U7</in> <out>Ü</out> </e>
+<e> <s>INIT</s> <in>u7</in> <out>ü</out> </e>
+<e> <s>INIT</s> <in>S2</in> <out>Ṣ</out> </e>
+<e> <s>INIT</s> <in>s2</in> <out>ṣ</out> </e>
+-->
+</fsm>

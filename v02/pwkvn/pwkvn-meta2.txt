@@ -1,0 +1,117 @@
+pwkvn-meta2.txt
+April 15, 2022
+
+Digitization of the 'Nachträge und Verbesserungen' sections of
+the Böhtlingk Sanskrit-Wörterbuch in kürzerer Fassung.
+
+The digitization is in the utf-8 encoding.
+
+The {X...X} style of coding serves several purposes:
+{#X#}  : Devanagari text, X is in SLP1 transcoding.
+{%X%}  44619 : italic text 
+
+The pseudo-xml <> style of coding is used as follows:
+
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below)
+
+<H> not part of entries.  Title of sections in the different volumes.
+
+<is>X</is> 31604 Sanskrit word in (modern) IAST coding. Displayed with
+ extra space between characters.
+<lang n="greek">X</lang>      3 words in Greek unicode 
+<ls>X</ls>   78714 literary source 
+<lb/>  line breaks
+<althws>{#A, B, ...#}</althws>  list of alternate headwords.  The entry
+  may be accessed either by the headword (k1) in the meta line, or by
+  one of these alternate headwords.
+  present for about 1600 of the 22000+ entries.
+<as1>X</as1> (64 instances) identifies miscellaneous IAST text.
+<ab>X</ab> 71390  general abbreviation. The expansion is from a separate table.
+<ab n="Y">X</ab> 9 local abbreviation. Y is the expansion of X.
+------------------------------------------------------------------------------
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>9<pc>1-282-a<k1>aMsadaGna<k2>aMsadaGna/
+<hw>{#aMsadaGna/#}</hw> <ab>Adj.</ab> (<ab>f.</ab> {#A/#}) {%bis zur Schulter reichend%} <ls>ŚAT. <lb/>BR. 14, 1, 3, 10.</ls> 
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image. 
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling in slp1 coding.
+
+Page breaks are coded as [Page...].  
+Page breaks are more specifically coded as
+[PageVPPP-C] where
+V is volume number (1 to 7),
+P is page number, and 
+C is column number (a-d)
+------------------------------------------------------------------------------
+
+Words using diacritics with the Latin alphabet are represented in Unicode 
+characters.  Such words identified as Sanskrit are enclosed in the <is> tag,
+and the spelling aims to be modern IAST unicode,
+generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration.
+
+Here are the extended ASCII characters that occur,
+with their approximate frequency.  
+«  (\u00ab)     2 := LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+°  (\u00b0)  2045 := DEGREE SIGN
+»  (\u00bb)     2 := RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+Ñ  (\u00d1)   142 := LATIN CAPITAL LETTER N WITH TILDE
+Ö  (\u00d6)     1 := LATIN CAPITAL LETTER O WITH DIAERESIS
+Ü  (\u00dc)    99 := LATIN CAPITAL LETTER U WITH DIAERESIS
+ä  (\u00e4)  1315 := LATIN SMALL LETTER A WITH DIAERESIS
+ñ  (\u00f1)    13 := LATIN SMALL LETTER N WITH TILDE
+ö  (\u00f6)   746 := LATIN SMALL LETTER O WITH DIAERESIS
+ü  (\u00fc)  2014 := LATIN SMALL LETTER U WITH DIAERESIS
+Ā  (\u0100)  6666 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101)   387 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)   756 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)    80 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a)  3428 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)    71 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)    25 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)    28 := LATIN SMALL LETTER U WITH MACRON
+Ζ  (\u0396)     1 := GREEK CAPITAL LETTER ZETA
+α  (\u03b1)    15 := GREEK SMALL LETTER ALPHA
+β  (\u03b2)     9 := GREEK SMALL LETTER BETA
+γ  (\u03b3)     6 := GREEK SMALL LETTER GAMMA
+δ  (\u03b4)     1 := GREEK SMALL LETTER DELTA
+ε  (\u03b5)     2 := GREEK SMALL LETTER EPSILON
+ζ  (\u03b6)     2 := GREEK SMALL LETTER ZETA
+η  (\u03b7)     2 := GREEK SMALL LETTER ETA
+θ  (\u03b8)     1 := GREEK SMALL LETTER THETA
+κ  (\u03ba)     1 := GREEK SMALL LETTER KAPPA
+ν  (\u03bd)     3 := GREEK SMALL LETTER NU
+ο  (\u03bf)     1 := GREEK SMALL LETTER OMICRON
+π  (\u03c0)     1 := GREEK SMALL LETTER PI
+ρ  (\u03c1)     1 := GREEK SMALL LETTER RHO
+ς  (\u03c2)     1 := GREEK SMALL LETTER FINAL SIGMA
+σ  (\u03c3)     1 := GREEK SMALL LETTER SIGMA
+τ  (\u03c4)     1 := GREEK SMALL LETTER TAU
+υ  (\u03c5)     1 := GREEK SMALL LETTER UPSILON
+ό  (\u03cc)     1 := GREEK SMALL LETTER OMICRON WITH TONOS
+Ḍ  (\u1e0c)   211 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)    23 := LATIN SMALL LETTER D WITH DOT BELOW
+ḥ  (\u1e25)     2 := LATIN SMALL LETTER H WITH DOT BELOW
+Ṃ  (\u1e42)   262 := LATIN CAPITAL LETTER M WITH DOT BELOW
+ṃ  (\u1e43)    20 := LATIN SMALL LETTER M WITH DOT BELOW
+Ṅ  (\u1e44)   272 := LATIN CAPITAL LETTER N WITH DOT ABOVE
+ṅ  (\u1e45)    29 := LATIN SMALL LETTER N WITH DOT ABOVE
+Ṇ  (\u1e46)   429 := LATIN CAPITAL LETTER N WITH DOT BELOW
+ṇ  (\u1e47)   140 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   744 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)    43 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ  (\u1e62)   674 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63)   152 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)   299 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)    37 := LATIN SMALL LETTER T WITH DOT BELOW
+”  (\u201d)    14 := RIGHT DOUBLE QUOTATION MARK
+„  (\u201e)    14 := DOUBLE LOW-9 QUOTATION MARK
