@@ -51646,8 +51646,8 @@ propinquitas, praesentia. N. 1. 21. 24. 2.
 comp. unus significat, et {#kft#} faciens) semel. SA. 2. 26.
 (Cum priore hujus compositi parte cf. lat. {%se, si, sim%}
 [Page363-a+ 37]
-(cum signo acc. = {#sam#} v. {#sa#}), gr. <lang n="greek"></lang> vocum {%se-mel, si-%}
-{%mul, sim-plex,%} <lang n="greek"></lang> Cum {#kft#} e {#kart#} cf. lith. subst.
+(cum signo acc. = {#sam#} v. {#sa#}), gr. <lang n="greek">ἁ</lang> vocum {%se-mel, si-%}
+{%mul, sim-plex,%} <lang n="greek">ἁ-πλοῦς</lang> Cum {#kft#} e {#kart#} cf. lith. subst.
 {%kartas%} vicis, e. c. {%wienaṅ kartaṅ%} (acc.) semel, {%dù kartù%}
 bis (acc. du.), {%tris kartus%} (acc. pl.) ter, v. gr. comp. 325.
 308. annot. et librum meum {%Über die Verwandtschaft%}
