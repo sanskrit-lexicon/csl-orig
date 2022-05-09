@@ -17,7 +17,6 @@
 <L>550.1<pc>1-287-b<k1>ananvavajaya<k2>ananvavajaya<type>alt<LP>550<k1P>ananvagBAva
 <L>630.1<pc>1-288-a<k1>anATasaBA<k2>anATasaBA<type>alt<LP>630<k1P>anATakuwI
 <L>651.1<pc>1-288-b<k1>anAlambanatA<k2>anAlambanatA<type>alt<LP>651<k1P>anAlamba
-<L>725.1<pc>1-289-a<k1>anuttara<k2>anuttara<type>alt<LP>725<k1P>anutKAta
 <L>745.1<pc>1-289-b<k1>anupakramya<k2>anupakramya<type>alt<LP>745<k1P>anupakramaRIya
 <L>745.2<pc>1-289-b<k1>anupakrAmya<k2>anupakrAmya<type>alt<LP>745<k1P>anupakramaRIya
 <L>773.1<pc>1-289-c<k1>anupAyena<k2>anupAyena<type>alt<LP>773<k1P>anupAya
@@ -223,9 +222,9 @@
 <L>2712.1<pc>2-295-a<k1>uccodarkI<k2>uccodarkI<type>alt<LP>2712<k1P>uccodarki
 <L>2726.1<pc>2-295-a<k1>uttaragArgya<k2>uttaragArgya<type>alt<LP>2726<k1P>uttamaSlokacandrikA
 <L>2726.2<pc>2-295-a<k1>uttaracampU<k2>uttaracampU<type>alt<LP>2726<k1P>uttamaSlokacandrikA
-<L>2727.1<pc>2-295-b<k1>uttaraprAyaScitta<k2>uttaraprAyaScitta<type>alt<LP>2727<k1P>uttaraparicCeda
-<L>2727.2<pc>2-295-b<k1>uttararAGavIya<k2>uttararAGavIya<type>alt<LP>2727<k1P>uttaraparicCeda
-<L>2727.3<pc>2-295-b<k1>uttararAmAyaRa<k2>uttararAmAyaRa<type>alt<LP>2727<k1P>uttaraparicCeda
+<L>2726.3<pc>2-295-a<k1>uttaraprAyaScitta<k2>uttaraprAyaScitta<type>alt<LP>2726<k1P>uttamaSlokacandrikA
+<L>2726.4<pc>2-295-a<k1>uttararAGavIya<k2>uttararAGavIya<type>alt<LP>2726<k1P>uttamaSlokacandrikA
+<L>2726.5<pc>2-295-a<k1>uttararAmAyaRa<k2>uttararAmAyaRa<type>alt<LP>2726<k1P>uttamaSlokacandrikA
 <L>2730.1<pc>2-295-b<k1>uttarasArasvAdinI<k2>uttarasArasvAdinI<type>alt<LP>2730<k1P>uttarasaMhitA
 <L>2730.2<pc>2-295-b<k1>uttarATarvaRa<k2>uttarATarvaRa<type>alt<LP>2730<k1P>uttarasaMhitA
 <L>2762.1<pc>2-295-c<k1>udyApanaviDAna<k2>udyApanaviDAna<type>alt<LP>2762<k1P>udBUtarUpakAraRatAvAda
@@ -511,7 +510,7 @@
 <L>3234.19<pc>2-301-b<k1>jAticandrikA<k2>jAticandrikA<type>alt<LP>3234<k1P>janmavarzAdiPala
 <L>3280.1<pc>3-247-a<k1>akzetratara<k2>akzetratara<type>alt<LP>3280<k1P>akzetra
 <L>3365.1<pc>3-248-a<k1>atinamAmi<k2>atinamAmi<type>alt<LP>3365<k1P>atinanAmin
-<L>3429.1<pc>3-248-c<k1>adUre<k2>adUre<type>alt<LP>3429<k1P>adUrabAnDava
+<L>3429.1<pc>3-248-c<k1>adUrebAnDava<k2>adUrebAnDava<type>alt<LP>3429<k1P>adUrabAnDava
 <L>3446.1<pc>3-248-c<k1>adroGam<k2>adroGam<type>alt<LP>3446<k1P>adroGa
 <L>3511.1<pc>3-249-b<k1>anapavyayant<k2>anapavyayant<type>alt<LP>3511<k1P>anapavyant
 <L>3538.1<pc>3-249-c<k1>anAgAmitva<k2>anAgAmitva<type>alt<LP>3538<k1P>anAgAmin
@@ -625,9 +624,7 @@
 <L>7110.1<pc>5-252-c<k1>kruDmin<k2>kruDmin<type>alt<LP>7110<k1P>kruDmi
 <L>7133.1<pc>5-253-a<k1>KalekapotikA<k2>KalekapotikA<type>alt<LP>7133<k1P>KalekapotanyAya
 <L>7140.1<pc>5-253-a<k1>KeqqatAla<k2>KeqqatAla<type>alt<LP>7140<k1P>Keqqa
-<L>7164.1<pc>5-253-b<k1>garmuti<k2>garmuti<type>alt<LP>7164<k1P>garmud
-<L>7164.2<pc>5-253-b<k1>garmudi<k2>garmudi<type>alt<LP>7164<k1P>garmud
-<L>7164.3<pc>5-253-b<k1>garmut<k2>garmut<type>alt<LP>7164<k1P>garmud
+<L>7164.1<pc>5-253-b<k1>garmut<k2>garmut<type>alt<LP>7164<k1P>garmud
 <L>7168.1<pc>5-253-b<k1>gAQavarcastva<k2>gAQavarcastva<type>alt<LP>7168<k1P>gAQavarcas
 <L>7178.1<pc>5-253-c<k1>guruvartitA<k2>guruvartitA<type>alt<LP>7178<k1P>guruvartin
 <L>7190.1<pc>5-253-c<k1>gopAlagiri<k2>gopAlagiri<type>alt<LP>7190<k1P>gopAcala
@@ -676,8 +673,6 @@
 <L>8376.1<pc>6-295-a<k1>aparADInatA<k2>aparADInatA<type>alt<LP>8376<k1P>aparADIna
 <L>8437.1<pc>6-295-c<k1>avakUlana<k2>avakUlana<type>alt<LP>8437<k1P>avakalana
 <L>8508.1<pc>6-296-c<k1>aSocyatA<k2>aSocyatA<type>alt<LP>8508<k1P>aSocya
-<L>8508.2<pc>6-296-c<k1>aSocyatva<k2>aSocyatva<type>alt<LP>8508<k1P>aSocya
-<L>8508.3<pc>6-296-c<k1>aSocyaM<k2>aSocyaM<type>alt<LP>8508<k1P>aSocya
 <L>8607.1<pc>6-297-c<k1>AtmaSlAGanA<k2>AtmaSlAGanA<type>alt<LP>8607<k1P>AtmaSlAGana
 <L>8626.1<pc>6-298-a<k1>ABiSastya<k2>ABiSastya<type>alt<LP>8626<k1P>ABiSasya
 <L>8628.1<pc>6-298-a<k1>AyuDIyaka<k2>AyuDIyaka<type>alt<LP>8628<k1P>AyuDika
@@ -1832,6 +1827,7 @@
 <L>16155.1<pc>7-332-d<k1>kucelopAKyAna<k2>kucelopAKyAna<type>alt<LP>16155<k1P>kucelavftta
 <L>16156.1<pc>7-332-d<k1>kuYjavant<k2>kuYjavant<type>alt<LP>16156<k1P>kuYjarI
 <L>16164.1<pc>7-332-d<k1>kuww<k2>kuww<type>alt<LP>16164<k1P>kuwumbaparigraha
+<L>16168.1<pc>7-332-d<k1>kuRW<k2>kuRW<type>alt<LP>16168<k1P>kuRapa
 <L>16173.1<pc>7-332-d<k1>kuRqalaka<k2>kuRqalaka<type>alt<LP>16173<k1P>kuRqala
 <L>16175.1<pc>7-332-d<k1>kuRqyAgrIya<k2>kuRqyAgrIya<type>alt<LP>16175<k1P>kuRqikopanizad
 <L>16180.1<pc>7-333-a<k1>kutUhalavftti<k2>kutUhalavftti<type>alt<LP>16180<k1P>kutIrTika

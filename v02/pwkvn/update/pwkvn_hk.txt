@@ -988,7 +988,7 @@
 
 <L>246<pc>1-284-b<k1>aRqantara<k2>aRqantara
 <althws>{#aRqAta#}</althws>
-<hw>{#aRqantara#}</hw> u. <hw>{#aRqAta#}</hw> {%eine Art Tanz%} <ls>S. S. S. 261.</ls> 
+<hw>{#aRqantara#}</hw> und <hw>{#aRqAta#}</hw> {%eine Art Tanz%} <ls>S. S. S. 261.</ls> 
 <LEND>
 
 <L>247<pc>1-284-b<k1>aRqAraka<k2>aRqAraka
@@ -2912,8 +2912,15 @@
 <LEND>
 
 <L>725<pc>1-289-a<k1>anutKAta<k2>anutKAta
-<althws>{#anuttara#}</althws>
-<hw>{#anutKAta#}</hw> <ab>n.</ab> {%kein unebener Boden%} <ls>S4A1K.192</ls>, <ab>v. l.</ab> ²<hom>1.</hom> <hw>{#anuttara#}</hw> <ab>n.</ab> {%eine mangelhafte Antwort in einem ²Process%} <ls>KA1TY.</ls> in <ls>MIT. 16.</ls> <ab>Nom. abstr.</ab> {#ºtva#} <ab>n.</ab> <ab>ebend.</ab> ²<hom>2.</hom> {#anuttara#} 1) {%e%}) {%mit keiner Stipulation verbunden%} ²<ls>NA1R. 1, 5.</ls> 
+<hw>{#anutKAta#}</hw> <ab>n.</ab> {%kein unebener Boden%} <ls>S4A1K.192</ls>, <ab>v. l.</ab> 
+<LEND>
+
+<L>725.1<pc>1-289-a<k1>anuttara<k2>anuttara<h>1
+<hom>1.</hom> <hw>{#anuttara#}</hw> <ab>n.</ab> {%eine mangelhafte Antwort in einem ²Process%} <ls>KA1TY.</ls> in <ls>MIT. 16.</ls> <ab>Nom. abstr.</ab> {#ºtva#} <ab>n.</ab> <ab>ebend.</ab>
+<LEND>
+
+<L>725.2<pc>1-289-a<k1>anuttara<k2>anuttara<h>2
+<hom>2.</hom> {#anuttara#} 1) {%e%}) {%mit keiner Stipulation verbunden%} ²<ls>NA1R. 1, 5.</ls>
 <LEND>
 
 <L>726<pc>1-289-a<k1>anuttaraMga<k2>anuttaraMga
@@ -11006,13 +11013,8 @@
 <LEND>
 
 <L>2726<pc>2-295-a<k1>uttamaSlokacandrikA<k2>uttamaSlokacandrikA
-<althws>{#uttaragArgya, uttaracampU#}</althws>
-<hw>{#uttamaSlokacandrikA#}</hw> <ab>f.</ab>, <hw>{#uttaragArgya#}</hw>, <hw>{#uttaracampU#}</hw> <ab>f.</ab>, [Page2-295-b] 
-<LEND>
-
-<L>2727<pc>2-295-b<k1>uttaraparicCeda<k2>uttaraparicCeda
-<althws>{#uttaraprAyaScitta, uttararAGavIya, uttararAmAyaRa#}</althws>
-<hw>{#uttaraparicCeda#}</hw> <ab>m.</ab>, <hw>{#uttaraprAyaScitta#}</hw> <ab>n.</ab>, <hw>{#uttararAGavIya#}</hw> ²<ab>n.</ab> und <hw>{#uttararAmAyaRa#}</hw> <ab>n.</ab> Titel von Werken <ls>OPP. Cat. 1.</ls> 
+<althws>{#uttaragArgya, uttaracampU, uttaraprAyaScitta, uttararAGavIya, uttararAmAyaRa#}</althws>
+<hw>{#uttamaSlokacandrikA#}</hw> <ab>f.</ab>, <hw>{#uttaragArgya#}</hw>, <hw>{#uttaracampU#}</hw> <ab>f.</ab>, [Page2-295-b]<hw>{#uttaraparicCeda#}</hw> <ab>m.</ab>, <hw>{#uttaraprAyaScitta#}</hw> <ab>n.</ab>, <hw>{#uttararAGavIya#}</hw> ²<ab>n.</ab> und <hw>{#uttararAmAyaRa#}</hw> <ab>n.</ab> Titel von Werken <ls>OPP. Cat. 1.</ls> 
 <LEND>
 
 <L>2728<pc>2-295-b<k1>uttaralakzman<k2>uttaralakzman
@@ -13908,7 +13910,7 @@
 <LEND>
 
 <L>3429<pc>3-248-c<k1>adUrabAnDava<k2>adUrabAnDava
-<althws>{#adUre#}</althws>
+<althws>{#adUrebAnDava#}</althws>
 <hw>{#adUrabAnDava#}</hw> und <hw>{#adUreº#}</hw> <ab>m.</ab> {%ein naher Ver-²wandter%} <ls>VASISHT2HA 15, 6.</ls> 
 <LEND>
 
@@ -28948,8 +28950,8 @@
 <LEND>
 
 <L>7164<pc>5-253-b<k1>garmud<k2>garmud
-<althws>{#garmuti, garmudi, garmut#}</althws>
-<hw>{#garmud#}</hw>, <ls>HARSHAC.</ls> (1936) 478, 2 liest <hw>{#garmuti#}</hw> st. ²<hw>{#garmudi#}</hw>. Nach dem <ab>Comm.</ab> ist <hw>{#garmut#}</hw> {%eine Schling-²pflanze.%} 
+<althws>{#garmut#}</althws>
+<hw>{#garmud#}</hw>, <ls>HARSHAC.</ls> (1936) 478, 2 liest {#garmuti#} st. ²{#garmudi#}. Nach dem <ab>Comm.</ab> ist <hw>{#garmut#}</hw> {%eine Schling-²pflanze.%} 
 <LEND>
 
 <L>7165<pc>5-253-b<k1>galaranDra<k2>galaranDra
@@ -34366,8 +34368,8 @@
 <LEND>
 
 <L>8508<pc>6-296-c<k1>aSocya<k2>aSocya
-<althws>{#aSocyatA, aSocyatva, aSocyaM#}</althws>
-<hw>{#aSocya#}</hw>, <ab>Nom. abstr.</ab> <hw>{#ºtA#}</hw> <ab>f.</ab> <ls>RAGH. 8, 27.</ls> <hw>{#ºtva#}</hw> <ab>n.</ab> ²<ls>MBH. 4, 18, 1.</ls> <hw>{#aSocyaM#}</hw> (<ab>n.</ab> impers.) {#BavatAM mftAnAm#} ²{%ihr sollt nicht über Verstorbene trauern%} <ls>HARIV. ²6062.</ls> 
+<althws>{#aSocyatA#}</althws>
+<hw>{#aSocya#}</hw>, <ab>Nom. abstr.</ab> <hw>{#ºtA#}</hw> <ab>f.</ab> <ls>RAGH. 8, 27.</ls> {#ºtva#} <ab>n.</ab> ²<ls>MBH. 4, 18, 1.</ls> {#aSocyaM#}</hw> (<ab>n.</ab> impers.) {#BavatAM mftAnAm#} ²{%ihr sollt nicht über Verstorbene trauern%} <ls>HARIV. ²6062.</ls> 
 <LEND>
 
 <L>8509<pc>6-296-c<k1>aSOklya<k2>aSOklya
@@ -65818,7 +65820,8 @@
 <LEND>
 
 <L>16168<pc>7-332-d<k1>kuRapa<k2>kuRapa
-<hom>1.</hom> <hw>{#kuRapa#}</hw> (*<ab>m.</ab> {%eine <ab>best.</ab> Hölle%} <ls>MA-²HA1VY. 215</ls>) und 2. {#kuRW#} II. 6. 
+<althws>{#kuRW#}</althws>
+<hom>1.</hom> <hw>{#kuRapa#}</hw> (*<ab>m.</ab> {%eine <ab>best.</ab> Hölle%} <ls>MA-²HA1VY. 215</ls>) und 2. <hw>{#kuRW#}</hw> II. 6. 
 <LEND>
 
 <L>16169<pc>7-332-d<k1>kuRWarava<k2>kuRWarava
