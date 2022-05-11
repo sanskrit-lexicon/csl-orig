@@ -1,8 +1,7 @@
 <H>[Page1-282-a]Nachträge und Verbesserungen. [1] 
 
 <L>2<pc>1-282-a<k1>a<k2>a
-<althws>{#asvaptum#}</althws>
-<hom>2.</hom> <hw>{#aº#}</hw>, <hw>{#asvaptum#}</hw> <ls>TA1N2D2YA-BR. 10, 4, 4.</ls> 
+<hom>2.</hom> <hw>{#aº#}</hw>, {#asvaptum#} <ls>TA1N2D2YA-BR. 10, 4, 4.</ls> 
 <LEND>
 
 <L>3<pc>1-282-a<k1>aMSa<k2>aMSa
@@ -102,8 +101,7 @@
 <LEND>
 
 <L>27<pc>1-282-b<k1>akAraRa<k2>akAraRa
-<althws>{#akAraRatas#}</althws>
-<hom>1.</hom> <hw>{#akAraRa#}</hw>, <hw>{#ºtas#}</hw> = {#akAraRAt#} <ab>u. s. w.</ab> <ls>S4IS4. 10, 16.</ls> 
+<hom>1.</hom> <hw>{#akAraRa#}</hw>, {#ºtas#} = {#akAraRAt#} <ab>u. s. w.</ab> <ls>S4IS4. 10, 16.</ls> 
 <LEND>
 
 <L>28<pc>1-282-b<k1>akArpaRya<k2>akArpaRya
@@ -187,8 +185,7 @@
 <LEND>
 
 <L>48<pc>1-282-b<k1>akrama<k2>akrama
-<althws>{#akramam#}</althws>
-<hom>2.</hom> <hw>{#akrama#}</hw>, <hw>{#ºm#}</hw> <ab>Adv.</ab> {%gleichzeitig%} <ls>NAISH. 8, 4.</ls> 
+<hom>2.</hom> <hw>{#akrama#}</hw>, {#ºm#} <ab>Adv.</ab> {%gleichzeitig%} <ls>NAISH. 8, 4.</ls> 
 <LEND>
 
 <L>49<pc>1-282-b<k1>akramaSas<k2>akramaSas
@@ -272,8 +269,7 @@
 <LEND>
 
 <L>69<pc>1-282-c<k1>akzayya<k2>akzayya
-<althws>{#akzayyodaka#}</althws>
-<hw>{#akzayya#}</hw>, <hw>{#akzayyodaka#}</hw> <ab>n.</ab> {%Wasser, begleitet von dem ²Wunsche, dass es nie mangeln möge%}, <ls>YA1JN5. 1, 242.</ls> ²<ls>VISHN2US. 21, 4.</ls> <ls n="VISHN2US.">73, 27.</ls> {#akzayyasTAne#} <ls>S4A1N3KH. GR2HY. 4, ²2.</ls> <ls>YA1JN5. 1, 251.</ls> 
+<hw>{#akzayya#}</hw>, {#akzayyodaka#} <ab>n.</ab> {%Wasser, begleitet von dem ²Wunsche, dass es nie mangeln möge%}, <ls>YA1JN5. 1, 242.</ls> ²<ls>VISHN2US. 21, 4.</ls> <ls n="VISHN2US.">73, 27.</ls> {#akzayyasTAne#} <ls>S4A1N3KH. GR2HY. 4, ²2.</ls> <ls>YA1JN5. 1, 251.</ls> 
 <LEND>
 
 <L>70<pc>1-282-c<k1>akzara<k2>akzara
@@ -293,8 +289,7 @@
 <LEND>
 
 <L>74<pc>1-282-c<k1>akzarya<k2>akzarya
-<althws>{#akzaryaM#}</althws>
-<hw>{#akzarya#}</hw>, <hw>{#ºryaM#}</hw> {#revat#} Name eines {|Sa1man|} <ls>A1RSH. BR.</ls> 
+<hw>{#akzarya#}</hw>, {#ºryaM#} {#revat#} Name eines {|Sa1man|} <ls>A1RSH. BR.</ls> 
 <LEND>
 
 <L>75<pc>1-282-c<k1>akzaSIla<k2>akzaSIla
@@ -1340,8 +1335,7 @@
 <LEND>
 
 <L>334<pc>1-285-b<k1>atiSIGra<k2>atiSIGra
-<althws>{#atiSIGram#}</althws>
-<hw>{#atiSIGra#}</hw>, <hw>{#ºm#}</hw> <ab>Adv.</ab> <ls>SAM3HITOPAN. 9, 1.</ls> 
+<hw>{#atiSIGra#}</hw>, {#ºm#} <ab>Adv.</ab> <ls>SAM3HITOPAN. 9, 1.</ls> 
 <LEND>
 
 <L>335<pc>1-285-b<k1>atiSuBra<k2>atiSuBra
@@ -3113,8 +3107,7 @@
 <LEND>
 
 <L>773<pc>1-289-c<k1>anupAya<k2>anupAya
-<althws>{#anupAyena#}</althws>
-<hw>{#anupAya#}</hw>, <hw>{#ºyena#}</hw> so <ab>v. a.</ab> {%zwecklos%} <ls>MBH. 12, 88, 13.</ls> 
+<hw>{#anupAya#}</hw>, {#ºyena#} so <ab>v. a.</ab> {%zwecklos%} <ls>MBH. 12, 88, 13.</ls> 
 <LEND>
 
 <L>774<pc>1-289-c<k1>anupAyin<k2>anupAyin
@@ -3604,8 +3597,7 @@
 <LEND>
 
 <L>895<pc>1-290-c<k1>apacAyin<k2>apacAyin
-<althws>{#vfdDApacAyitva#}</althws>
-<hw>{#apacAyin#}</hw>, <hw>{#vfdDApacAyitva#}</hw> <ab>n.</ab> (so zu lesen) <ls>MBH. ²14, 2198.</ls> 
+<hw>{#apacAyin#}</hw>, {#vfdDApacAyitva#} <ab>n.</ab> (so zu lesen) <ls>MBH. ²14, 2198.</ls> 
 <LEND>
 
 <L>896<pc>1-290-c<k1>apatanIya<k2>apatanIya
@@ -4839,8 +4831,7 @@
 <LEND>
 
 <L>1202<pc>1-293-c<k1>arjunArcapArijAta<k2>arjunArcapArijAta
-<althws>{#arjunArcApArijAta#}</althws>
-<hw>{#arjunArcapArijAta#}</hw>, lies <hw>{#arjunArcAº#}</hw>. 
+<hw>{#arjunArcapArijAta#}</hw>, lies {#arjunArcAº#}. 
 <LEND>
 
 <L>1203<pc>1-293-c<k1>arTakartar<k2>arTakartar
@@ -4916,8 +4907,7 @@
 <LEND>
 
 <L>1221<pc>1-294-a<k1>arD<k2>arD
-<althws>{#fdDa#}</althws>
-<hw>{#arD#}</hw>, <hw>{#fdDa/#}</hw> 3) {%gelungen%} <ls>VS. 18, 11.</ls> -- Mit {#vi, vyfdDa#} ²{%sündlich%} <ls>A1PAST.</ls> 
+<hw>{#arD#}</hw>, {#fdDa/#} 3) {%gelungen%} <ls>VS. 18, 11.</ls> -- Mit {#vi, vyfdDa#} ²{%sündlich%} <ls>A1PAST.</ls> 
 <LEND>
 
 <L>1222<pc>1-294-a<k1>arDaka<k2>arDaka
@@ -5550,8 +5540,7 @@
 <LEND>
 
 <L>1379<pc>1-295-b<k1>aSUnyArTa<k2>aSUnyArTa
-<althws>{#aSUnyArTam#}</althws>
-<hom>1.</hom> <hw>{#aSUnyArTa#}</hw> <ab>m.</ab> {%Aufklärung%} <ls>MUDRA1R. 168, 4</ls> (<ab>n.</ab> A.). [Page1-295-c] <hw>{#ºm#}</hw> <ab>Adv.</ab> {%zur A.%} 108, 2. 115, 15 (176, 9). 
+<hom>1.</hom> <hw>{#aSUnyArTa#}</hw> <ab>m.</ab> {%Aufklärung%} <ls>MUDRA1R. 168, 4</ls> (<ab>n.</ab> A.). [Page1-295-c] {#ºm#} <ab>Adv.</ab> {%zur A.%} 108, 2. 115, 15 (176, 9). 
 <LEND>
 
 <L>1380<pc>1-295-c<k1>aSUnyArTa<k2>aSUnyArTa
@@ -7031,8 +7020,7 @@
 <LEND>
 
 <L>1748<pc>1-299-b<k1>Urjay<k2>Urjay
-<althws>{#Urjitam#}</althws>
-<hw>{#Urjay#}</hw>, <hw>{#Urjitam#}</hw> <ab>Adv.</ab> {%stolz, mit Selbstbewusst-²sein%} <ls>NA1GA1N. 62, 21</ls> (82, 9).
+<hw>{#Urjay#}</hw>, {#Urjitam#} <ab>Adv.</ab> {%stolz, mit Selbstbewusst-²sein%} <ls>NA1GA1N. 62, 21</ls> (82, 9).
 <LEND>
 
 <L>1749<pc>1-299-b<k1>UrRAmfdu<k2>U/rRAmfdu
@@ -7314,8 +7302,7 @@
 <LEND>
 
 <L>1819<pc>2-285-b<k1>akfpaRa<k2>akfpaRa
-<althws>{#akfpaRam#}</althws>
-<hw>{#akfpaRa#}</hw>, <hw>{#ºm#}</hw> <ab>Adv.</ab> {%nicht kläglich thuend.%} 
+<hw>{#akfpaRa#}</hw>, {#ºm#} <ab>Adv.</ab> {%nicht kläglich thuend.%} 
 <LEND>
 
 <L>1820<pc>2-285-b<k1>akfmiparisfpta<k2>akfmiparisfpta
@@ -7738,8 +7725,7 @@
 <LEND>
 
 <L>1924<pc>2-286-b<k1>acira<k2>acira
-<althws>{#aciratas#}</althws>
-<hw>{#acira#}</hw>, <hw>{#ºtas#}</hw> = {#acirAt#}. 
+<hw>{#acira#}</hw>, {#ºtas#} = {#acirAt#}. 
 <LEND>
 
 <L>1925<pc>2-286-b<k1>aciraruci<k2>aciraruci
@@ -9537,8 +9523,7 @@
 <LEND>
 
 <L>2368<pc>2-291-a<k1>aBramupriya<k2>aBramupriya
-<althws>{#aBramupriyatama#}</althws>
-<hw>{#aBramupriya#}</hw>, <hw>{#ºtama#}</hw> <ls>VIKRAMA1N3KAC. 5, 16.</ls> 
+<hw>{#aBramupriya#}</hw>, {#ºtama#} <ls>VIKRAMA1N3KAC. 5, 16.</ls> 
 <LEND>
 
 <L>2369<pc>2-291-a<k1>amanasvin<k2>amanasvin
@@ -9843,8 +9828,7 @@
 <LEND>
 
 <L>2443<pc>2-292-a<k1>avakuRWana<k2>avakuRWana
-<althws>{#kftAvakuRWana#}</althws>
-<hw>{#avakuRWana#}</hw>, <hw>{#ºkftAvaº#}</hw> <ab>Adj.</ab> (<ab>f.</ab> {#A#}) {%eingehüllt in%} ²<ls>HARSHAC. 147, 13.</ls> 
+<hw>{#avakuRWana#}</hw>, {#ºkftAvaº#} <ab>Adj.</ab> (<ab>f.</ab> {#A#}) {%eingehüllt in%} ²<ls>HARSHAC. 147, 13.</ls> 
 <LEND>
 
 <L>2444<pc>2-292-a<k1>avakutsita<k2>avakutsita
@@ -12815,8 +12799,7 @@
 <LEND>
 
 <L>3161<pc>2-300-a<k1>guRq<k2>guRq
-<althws>{#pariguRqita#}</althws>
-<hw>{#guRq#}</hw>, <hw>{#pariguRqita#}</hw> {%bestäubt%} <ls>S4I1LA1N3KA 2, 4.</ls> 
+<hw>{#guRq#}</hw>, {#pariguRqita#} {%bestäubt%} <ls>S4I1LA1N3KA 2, 4.</ls> 
 <LEND>
 
 <L>3162<pc>2-300-a<k1>guRquBawwa<k2>guRquBawwa
@@ -16678,8 +16661,7 @@
 <LEND>
 
 <L>4118<pc>3-256-a<k1>Avis<k2>Avis
-<althws>{#Avirhita#}</althws>
-<hw>{#Avis#}</hw>, <hw>{#Avirhita#}</hw> {%zum Vorschein gekommen%} ²<ls>BHA1G. P. 2, 7, 36.</ls> 
+<hw>{#Avis#}</hw>, {#Avirhita#} {%zum Vorschein gekommen%} ²<ls>BHA1G. P. 2, 7, 36.</ls> 
 <LEND>
 
 <L>4119<pc>3-256-a<k1>ASAtanA<k2>ASAtanA
@@ -16787,8 +16769,7 @@
 <LEND>
 
 <L>4145<pc>3-256-b<k1>ima<k2>ima
-<althws>{#imezu#}</althws>
-<hw>{#ima#}</hw>, <hw>{#imezu#}</hw> <ls>VAJRACCH. 22, 9.</ls> <ls n="VAJRACCH. 22,">13.</ls> <ls n="VAJRACCH. 22,">17.</ls> <ls n="VAJRACCH.">23, 2.</ls> 
+<hw>{#ima#}</hw>, {#imezu#} <ls>VAJRACCH. 22, 9.</ls> <ls n="VAJRACCH. 22,">13.</ls> <ls n="VAJRACCH. 22,">17.</ls> <ls n="VAJRACCH.">23, 2.</ls> 
 <LEND>
 
 <L>4146<pc>3-256-b<k1>iraRya<k2>iraRya^
@@ -16852,8 +16833,7 @@
 <LEND>
 
 <L>4161<pc>3-256-b<k1>Iyakz<k2>Iyakz
-<althws>{#IyakzamARa#}</althws>
-<hw>{#Iyakz#}</hw>, <hw>{#I/yakzamARa#}</hw> = {#i/yakzamARa#} <ls>MAITR. S. 2, 10, 6.</ls> 
+<hw>{#Iyakz#}</hw>, {#I/yakzamARa#} = {#i/yakzamARa#} <ls>MAITR. S. 2, 10, 6.</ls> 
 <LEND>
 
 <L>4162<pc>3-256-b<k1>IzIkA<k2>IzIkA
@@ -17530,8 +17510,7 @@
 <LEND>
 
 <L>4330<pc>3-258-b<k1>eD<k2>eD
-<althws>{#eDita#}</althws>
-<hw>{#eD#}</hw> <hw>{#eDita#}</hw> {%erfüllt -- , voll von%} (<ab>Instr.</ab>) <ls>MAHA1VI1-²RAC. 122, 4.</ls> 
+<hw>{#eD#}</hw> {#eDita#} {%erfüllt -- , voll von%} (<ab>Instr.</ab>) <ls>MAHA1VI1-²RAC. 122, 4.</ls> 
 <LEND>
 
 <L>4331<pc>3-258-b<k1>evaMlakzaRa<k2>evaMlakzaRa
@@ -17551,8 +17530,7 @@
 <LEND>
 
 <L>4335<pc>3-258-b<k1>evam<k2>evam
-<althws>{#evamevo#}</althws>
-<hw>{#evam#}</hw>, <hw>{#evamevo#}</hw> {%gerade so%} (an Schluss eines Ab-²schnittes) <ls>MA1N. GR2HY. 1, 23.</ls> 
+<hw>{#evam#}</hw>, {#evamevo#} {%gerade so%} (an Schluss eines Ab-²schnittes) <ls>MA1N. GR2HY. 1, 23.</ls> 
 <LEND>
 
 <L>4336<pc>3-258-b<k1>EkamuKya<k2>EkamuKya
@@ -17976,8 +17954,7 @@
 <LEND>
 
 <L>4440<pc>3-259-c<k1>kAliya<k2>kAliya
-<althws>{#kAliyAri#}</althws>
-<hw>{#kAliya#}</hw>, <hw>{#kAliyAri#}</hw> <ab>m.</ab> <ab>Bein.</ab> {|Kr2shn2a's|} <ls>PR. P. 58.</ls> 
+<hw>{#kAliya#}</hw>, {#kAliyAri#} <ab>m.</ab> <ab>Bein.</ab> {|Kr2shn2a's|} <ls>PR. P. 58.</ls> 
 <LEND>
 
 <L>4441<pc>3-259-c<k1>kAlopa<k2>kAlopa
@@ -18766,8 +18743,7 @@
 <LEND>
 
 <L>4636<pc>3-261-c<k1>caturdvAra<k2>caturdvAra
-<althws>{#puruza#}</althws>
-<hw>{#caturdvAra#}</hw>, <hw>{#puruza#}</hw> <ls>MBH. 12, 269, 23.</ls> 
+<hw>{#caturdvAra#}</hw>, {#puruza#} <ls>MBH. 12, 269, 23.</ls> 
 <LEND>
 
 <L>4637<pc>3-261-c<k1>caturniDana<k2>ca/turniDana
@@ -19060,8 +19036,7 @@
 <LEND>
 
 <L>4709<pc>3-262-b<k1>jIvanta<k2>jIvanta
-<althws>{#jIvantI#}</althws>
-<hw>{#jIvanta#}</hw>, <hw>{#jIvantI#}</hw> <ab>f.</ab> auch {%ein <ab>best.</ab> Gestirn%} <ls>MA1N. ²GR2HY. 1, 14.</ls> 
+<hw>{#jIvanta#}</hw>, {#jIvantI#} <ab>f.</ab> auch {%ein <ab>best.</ab> Gestirn%} <ls>MA1N. ²GR2HY. 1, 14.</ls> 
 <LEND>
 
 <L>4710<pc>3-262-b<k1>jIvAtu<k2>jIvAtu
@@ -19166,8 +19141,7 @@
 <LEND>
 
 <L>4735<pc>3-262-c<k1>ta<k2>ta
-<althws>{#te#}</althws>
-<hom>2.</hom> <hw>{#ta#}</hw>, <hw>{#te#}</hw> auch Acc.; <ab>s.</ab> <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 33, ²714.</ls> <ab>fg.</ab> 
+<hom>2.</hom> <hw>{#ta#}</hw>, {#te#} auch Acc.; <ab>s.</ab> <ls>PISCHEL</ls> in <ls>Z. d. d. m. G. 33, ²714.</ls> <ab>fg.</ab> 
 <LEND>
 
 <L>4736<pc>3-262-c<k1>tacCabdatva<k2>tacCabdatva
@@ -20371,8 +20345,7 @@
 <LEND>
 
 <L>5033<pc>4-291-c<k1>adva<k2>adva
-<althws>{#advayos#}</althws>
-<hw>{#adva#}</hw>, <hw>{#advayos#}</hw> <ab>Loc.</ab> <ab>Du.</ab> {%nicht in den zwei Ge-²schlechtern%}, d. i. {%im Neutrum%} <ls>TRIK. 1, 2, 9.</ls> 
+<hw>{#adva#}</hw>, {#advayos#} <ab>Loc.</ab> <ab>Du.</ab> {%nicht in den zwei Ge-²schlechtern%}, d. i. {%im Neutrum%} <ls>TRIK. 1, 2, 9.</ls> 
 <LEND>
 
 <L>5034<pc>4-291-c<k1>aDaIza<k2>aDaIza
@@ -20384,8 +20357,7 @@
 <LEND>
 
 <L>5036<pc>4-291-c<k1>aDaray<k2>aDaray
-<althws>{#aDarita#}</althws>
-<hw>{#aDaray#}</hw>, <hw>{#aDarita#}</hw> {%übertroffen%} <ls>BHA1M. V. 2, 180.</ls> 
+<hw>{#aDaray#}</hw>, {#aDarita#} {%übertroffen%} <ls>BHA1M. V. 2, 180.</ls> 
 <LEND>
 
 <L>5037<pc>4-291-c<k1>aDivrata<k2>aDivrata/
@@ -21307,8 +21279,7 @@
 <LEND>
 
 <L>5266<pc>4-294-b<k1>aBrAy<k2>aBrAy
-<althws>{#aBrAyita#}</althws>
-<hw>{#ºaBrAy#}</hw>, <hw>{#aBrAyita#}</hw> {%einer Wolke gleichend%} <ls>BHA1M. V. ²1, 41.</ls> 
+<hw>{#ºaBrAy#}</hw>, {#aBrAyita#} {%einer Wolke gleichend%} <ls>BHA1M. V. ²1, 41.</ls> 
 <LEND>
 
 <L>5267<pc>4-294-b<k1>amaNgalika<k2>amaNgalika
@@ -22122,8 +22093,7 @@
 <LEND>
 
 <L>5468<pc>4-297-a<k1>uB<k2>uB
-<althws>{#umBita#}</althws>
-<hw>{#uB#}</hw>, <hw>{#umBita#}</hw> {%eingeschlossen, darin enthalten%} ²<ls>BHA1M. V. 2, 142.</ls> 
+<hw>{#uB#}</hw>, {#umBita#} {%eingeschlossen, darin enthalten%} ²<ls>BHA1M. V. 2, 142.</ls> 
 <LEND>
 
 <L>5469<pc>4-297-a<k1>uBayataHkzRU<k2>uBayataHkzRU
@@ -22745,8 +22715,7 @@
 <LEND>
 
 <L>5623<pc>4-299-a<k1>caturbila<k2>caturbila
-<althws>{#UDas#}</althws>
-<hw>{#caturbila#}</hw>, <hw>{#UDas#}</hw> <ab>n.</ab> <ls>S4A1N3KH. GR2HY. 3, 9.</ls> <ls>A1S4V. GR2HY. ²2, 10, 6.</ls> 
+<hw>{#caturbila#}</hw>, {#UDas#} <ab>n.</ab> <ls>S4A1N3KH. GR2HY. 3, 9.</ls> <ls>A1S4V. GR2HY. ²2, 10, 6.</ls> 
 <LEND>
 
 <L>5624<pc>4-299-a<k1>caturBUmika<k2>caturBUmika
@@ -28479,8 +28448,7 @@
 <LEND>
 
 <L>7048<pc>5-252-a<k1>kAvyajIvajYa<k2>kAvyajIvajYa
-<althws>{#kAvyasyASayajYaH#}</althws>
-<hw>{#kAvyajIvajYa#}</hw> = {#SukragurubuDa#} und <hw>{#kAvyasyASa-²yajYaH#}</hw> <ls>VA1SAV. 114, 1.</ls> 
+<hw>{#kAvyajIvajYa#}</hw> = {#SukragurubuDa#} und {#kAvyasyASa-²yajYaH#} <ls>VA1SAV. 114, 1.</ls> 
 <LEND>
 
 <L>7049<pc>5-252-a<k1>kAza<k2>kAza
@@ -28710,8 +28678,7 @@
 <LEND>
 
 <L>7105<pc>5-252-c<k1>kOrpa<k2>kOrpa
-<althws>{#kOrpya#}</althws>
-<hw>{#kOrpa#}</hw> = {#kOrpi#}, <hw>{#kOrpya#}</hw> <ls>M. MÜLLER</ls>, Ren. 326. 
+<hw>{#kOrpa#}</hw> = {#kOrpi#}, {#kOrpya#} <ls>M. MÜLLER</ls>, Ren. 326. 
 <LEND>
 
 <L>7106<pc>5-252-c<k1>kratukaraRa<k2>kratukaraRa
@@ -29370,8 +29337,7 @@
 <LEND>
 
 <L>7268<pc>5-254-b<k1>jan<k2>jan
-<althws>{#nirjAta#}</althws>
-<hw>{#jan#}</hw>, <hw>{#nirjAta#}</hw> (mit {#niryAta#} wechselnd) bedeutet ²{%vollkommen vertraut mit%}, steht also richtig nach. 
+<hw>{#jan#}</hw>, {#nirjAta#} (mit {#niryAta#} wechselnd) bedeutet ²{%vollkommen vertraut mit%}, steht also richtig nach. 
 <LEND>
 
 <L>7269<pc>5-254-b<k1>janacandra<k2>janacandra
@@ -30380,8 +30346,7 @@
 <LEND>
 
 <L>7518<pc>5-257-b<k1>naw<k2>naw
-<althws>{#nawita#}</althws>
-<hw>{#naw#}</hw>, <hw>{#nawita#}</hw> wohl so <ab>v. a.</ab> {%überdrüssig;%} mit <ab>Instr.</ab> ²<ls>HEM. PAR. 1, 172.</ls> <ab>Vgl.</ab> <ls>HA1LA</ls>, S. 27. -- Mit {#vi, ºna-²wita#} {%hinundher tanzend, -- schwärmend%} (von Bie-²nen) <ls>VA1SAV. 180, 3.</ls> <ab>Vgl.</ab> {#vinawana#}. 
+<hw>{#naw#}</hw>, {#nawita#} wohl so <ab>v. a.</ab> {%überdrüssig;%} mit <ab>Instr.</ab> ²<ls>HEM. PAR. 1, 172.</ls> <ab>Vgl.</ab> <ls>HA1LA</ls>, S. 27. -- Mit {#vi, ºna-²wita#} {%hinundher tanzend, -- schwärmend%} (von Bie-²nen) <ls>VA1SAV. 180, 3.</ls> <ab>Vgl.</ab> {#vinawana#}. 
 <LEND>
 
 <L>7519<pc>5-257-b<k1>nad<k2>nad
@@ -31935,8 +31900,7 @@
 <LEND>
 
 <L>7904<pc>5-261-b<k1>barAsI<k2>barAsI
-<althws>{#varASi#}</althws>
-<hw>{#barAsI#}</hw>, <hw>{#varASi#}</hw> <ls>HEM. PAR. 1, 186.</ls> 
+<hw>{#barAsI#}</hw>, {#varASi#} <ls>HEM. PAR. 1, 186.</ls> 
 <LEND>
 
 <L>7905<pc>5-261-b<k1>bariSI<k2>bariSI
@@ -33100,8 +33064,7 @@
 <LEND>
 
 <L>8193<pc>6-293-a<k1>agnisAkzika<k2>agnisAkzika
-<althws>{#agnisAkzikam#}</althws>
-<hw>{#agnisAkzika#}</hw>, <hw>{#ºm#}</hw> <ab>Adv.</ab> {%coram igne%} <ls>MBH. 1, 198, 17.</ls> ²<ls>SUS4R. 1, 7, 4.</ls> <ls n="SUS4R. 1, 7,">5.</ls> {#paYcabARAgniº#} <ls>MA1LAV. 70</ls> (<ls n="MA1LAV.">71</ls>). 
+<hw>{#agnisAkzika#}</hw>, {#ºm#} <ab>Adv.</ab> {%coram igne%} <ls>MBH. 1, 198, 17.</ls> ²<ls>SUS4R. 1, 7, 4.</ls> <ls n="SUS4R. 1, 7,">5.</ls> {#paYcabARAgniº#} <ls>MA1LAV. 70</ls> (<ls n="MA1LAV.">71</ls>). 
 <LEND>
 
 <L>8194<pc>6-293-a<k1>agnyavaBfTa<k2>agnyavaBfTa
@@ -35616,8 +35579,7 @@
 <LEND>
 
 <L>8818<pc>6-300-b<k1>kuRW<k2>kuRW
-<althws>{#kuRWita#}</althws>
-<hom>2.</hom> <hw>{#kuRW#}</hw>, <hw>{#kuRWita#}</hw> = {#guRWita#} <ls>BAUDH. 2, 6, 33.</ls> 
+<hom>2.</hom> <hw>{#kuRW#}</hw>, {#kuRWita#} = {#guRWita#} <ls>BAUDH. 2, 6, 33.</ls> 
 <LEND>
 
 <L>8819<pc>6-300-b<k1>kutapahAra<k2>kutapahAra
@@ -36031,8 +35993,7 @@
 <LEND>
 
 <L>8921<pc>6-301-b<k1>Cid<k2>Cid
-<althws>{#CindatprARi#}</althws>
-<hom>1.</hom> <hw>{#Cid#}</hw>, <hw>{#CindatprARi#}</hw> (<ab>Nomin.</ab>) {%ein grasfressendes ²Thier%} <ls>A1PAST. S4R. 9, 13, 1.</ls> <ls n="A1PAST. S4R. 9,">16, 8.</ls> 
+<hom>1.</hom> <hw>{#Cid#}</hw>, {#CindatprARi#} (<ab>Nomin.</ab>) {%ein grasfressendes ²Thier%} <ls>A1PAST. S4R. 9, 13, 1.</ls> <ls n="A1PAST. S4R. 9,">16, 8.</ls> 
 <LEND>
 
 <L>8922<pc>6-301-b<k1>ColaNga<k2>ColaNga
@@ -36160,8 +36121,7 @@
 <LEND>
 
 <L>8953<pc>6-301-c<k1>tarq<k2>tarq
-<althws>{#saMtfqya#}</althws>
-<hw>{#tarq#}</hw>, <hw>{#saMtfqya#}</hw> <ls>S4A1N3KH. S4R. 17, 12, 1</ls> wohl nur fehler-²haft für {#saMtfdya#}. 
+<hw>{#tarq#}</hw>, {#saMtfqya#} <ls>S4A1N3KH. S4R. 17, 12, 1</ls> wohl nur fehler-²haft für {#saMtfdya#}. 
 <LEND>
 
 <L>8954<pc>6-301-c<k1>tarpayitavE<k2>tarpayitavE
@@ -36274,8 +36234,7 @@
 <LEND>
 
 <L>8981<pc>6-302-a<k1>dal<k2>dal
-<althws>{#dalita#}</althws>
-<hw>{#dal#}</hw>, <hw>{#dalita#}</hw> auch {%zerrieben%} <ls>S4IS4. 6, 35.</ls> 
+<hw>{#dal#}</hw>, {#dalita#} auch {%zerrieben%} <ls>S4IS4. 6, 35.</ls> 
 <LEND>
 
 <L>8982<pc>6-302-a<k1>daSayojanI<k2>daSayojanI
@@ -36630,8 +36589,7 @@
 <LEND>
 
 <L>9069<pc>6-303-a<k1>nuq<k2>nuq
-<althws>{#vinuqya#}</althws>
-<hw>{#nuq#}</hw>, <hw>{#vinuqya#}</hw> <ls>S4A1N3KH. S4R. 17, 12, 1</ls> wohl fehlerhaft ²für {#vinudya#}, wie eben daselbst {#saMtfqya#} für {#saMtfdya#}. 
+<hw>{#nuq#}</hw>, {#vinuqya#} <ls>S4A1N3KH. S4R. 17, 12, 1</ls> wohl fehlerhaft ²für {#vinudya#}, wie eben daselbst {#saMtfqya#} für {#saMtfdya#}. 
 <LEND>
 
 <L>9070<pc>6-303-a<k1>nftA<k2>nftA
@@ -37052,8 +37010,7 @@
 <LEND>
 
 <L>9173<pc>6-304-a<k1>plI<k2>plI
-<althws>{#viplIyante#}</althws>
-<hw>{#plI#}</hw>, <hw>{#viplIyante#}</hw> <ls>SA1MAV. BR.</ls> fehlerhaft für {#vivlIyante#}. 
+<hw>{#plI#}</hw>, {#viplIyante#} <ls>SA1MAV. BR.</ls> fehlerhaft für {#vivlIyante#}. 
 <LEND>
 
 <L>9174<pc>6-304-a<k1>PalAgraSAKin<k2>PalAgraSAKin
@@ -37368,8 +37325,7 @@
 <LEND>
 
 <L>9251<pc>6-305-a<k1>mahant<k2>mahant
-<althws>{#mahatas#}</althws>
-<hw>{#mahant#}</hw>, <hw>{#mahatas#}</hw> <ab>Abl.</ab> {%von grösserem Werth%} (Ge-²gensatz {#hInatas#}) <ls>VASISHT2HA 2, 37.</ls> 
+<hw>{#mahant#}</hw>, {#mahatas#} <ab>Abl.</ab> {%von grösserem Werth%} (Ge-²gensatz {#hInatas#}) <ls>VASISHT2HA 2, 37.</ls> 
 <LEND>
 
 <L>9252<pc>6-305-a<k1>mahaviSva<k2>mahaviSva
@@ -37621,8 +37577,7 @@
 <LEND>
 
 <L>9314<pc>6-305-c<k1>riB<k2>riB
-<althws>{#reBamARa#}</althws>
-<hw>{#riB#}</hw>, <hw>{#reBamARa#}</hw> {%brüllend%} (Kuh) <ls>MBH. 4, 53, 25.</ls> <ab>Vgl.</ab> {#reB#}. 
+<hw>{#riB#}</hw>, {#reBamARa#} {%brüllend%} (Kuh) <ls>MBH. 4, 53, 25.</ls> <ab>Vgl.</ab> {#reB#}. 
 <LEND>
 
 <L>9315<pc>6-305-c<k1>riSAdas<k2>riSA/das
@@ -42364,7 +42319,7 @@
 <LEND>
 
 <L>10461<pc>7-295-b<k1>adUrabAnDava<k2>adUrabAnDava
-<althws>{#adUre, adUzaka#}</althws>
+<althws>{#adUrebAnDava, adUzaka#}</althws>
 <hw>{#adUrabAnDava#}</hw>, <hw>{#adUreº#}</hw> u. <hw>{#adUzaka#}</hw> 3. 
 <LEND>
 
@@ -65821,7 +65776,7 @@
 
 <L>16168<pc>7-332-d<k1>kuRapa<k2>kuRapa
 <althws>{#kuRW#}</althws>
-<hom>1.</hom> <hw>{#kuRapa#}</hw> (*<ab>m.</ab> {%eine <ab>best.</ab> Hölle%} <ls>MA-²HA1VY. 215</ls>) und 2. <hw>{#kuRW#}</hw> II. 6. 
+<hom>1.</hom> <hw>{#kuRapa#}</hw> (*<ab>m.</ab> {%eine <ab>best.</ab> Hölle%} <ls>MA-²HA1VY. 215</ls>) und <hom>2.</hom> <hw>{#kuRW#}</hw> II. 6. 
 <LEND>
 
 <L>16169<pc>7-332-d<k1>kuRWarava<k2>kuRWarava
