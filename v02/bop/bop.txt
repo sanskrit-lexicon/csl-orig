@@ -19,7 +19,7 @@ graecis, latinis, germanicis, lithuanicis, slavicis, celticis comparata, et, qua
 brorum sanscritorum locis illustrata. Plurimae tamen radices apud auctores hactenus nondum
 repertae sunt, nonnullae tantum in dialecto Vêdicâ occurrunt, aliae cognatis linguis confirman-
 tur. Ita obsoleta radix {#stiG#}, cui ascendendi notionem attribuunt grammatici, nostro {%steigen%},
-graeco <lang n="greek"></lang> russico {%stignu%} assequor (= {#stiGnomi#}), lithuanico {%staigio-s%} festino, hiber-
+graeco <lang n="greek">στείχω, ἔστιχον</lang> russico {%stignu%} assequor (= {#stiGnomi#}), lithuanico {%staigio-s%} festino, hiber-
 nico {%staighre%} gradus approbatur. Radicem {#Cyu#} ire nunc confirmatam videmus vetere linguae
 persicae dialecto, ubi {%s'iyu%}
 <F>(*) {%s'iyu%} inserto {%i%}, quod semivocali {%y%}, si alia quam {%h%} eam praecedit consonans, semper anteponitur, pronomine {%tya%}
@@ -27,13 +27,13 @@ excepto, inde e. c. {%aniya%} alius = {#anya#}, sed {%thahyâmahya%} appellamur 
 radice {%thah%}, quam non cum Benfeyo ({%Die Persischen Keilinschriften%} p. 83. s. v. {%that%}) ad scrt. {#gad#} retulerim, sed potius
 ad {#cakz#} e {#cakAs#}, ita ut {%h%} respondeat sanscrito {#s#}, et {%th%} sanscrito {#c#} = {%tsch%}, sicut in {%thastana%}, quod Benfeyus apte ad
 sanscritum {#cezwana#} refert (l. c. p. 83.). Quod ad sibilantem attinet, quae in radice {%s'iyu%} respondet sanscrito {#C#}, respicia-
-tur zendicum {%pĕrĕs'âmi%} et neopersicum <lang n="greek"></lang> {%pursem%} = scrt. {#pfcCAmi#} interrogo, nec non antiquae Persicae radix
+tur zendicum {%pĕrĕs'âmi%} et neopersicum <lang n="Arabic">پوسيم</lang> {%pursem%} = scrt. {#pfcCAmi#} interrogo, nec non antiquae Persicae radix
 {%ras%} venire, unde {%arasam%} veni, quod saepius in inscriptione Beh. occurrit, sanscritoque {#ArCam#} respondet. Aspiratam
-autem sibilantem in radice <lang n="greek"></lang>{%iyu%} adhiberi censeo propter sequentem vocalem {%i%}, quae non raro aspirationem in anteceden-
+autem sibilantem in radice {%ṣiyu%} adhiberi censeo propter sequentem vocalem {%i%}, quae non raro aspirationem in anteceden-
 tem consonantem infert, inde e. c. {%am'iya%} sum contra {%amahya%} sumus; ita {%d'%} (sic cum Holzmannio -- {%Beiträge zur Er-%}
 {%klärung der persischen Keilinschriften%} p. 61. -- legimus pro Rawlinsonii {%t'%} et Lassenii {%ḱh%}) nonnisi ante {%i%} vocalem loco
-fungitur sanscritorum {#d#} et {#D#}, e. c. in {%yad'iya%} si, {%prid'iya%} <lang n="greek"></lang> salve, quorum prius convenit cum sanscrito {#yadi#}, alte-
-rum terminatione aequat formas Vêdicas et Zendicas ut {#SruDi#}, <lang n="greek"></lang> {%s'tûidhi%} (gramm. comp. §. 450.). Sanscrito
+fungitur sanscritorum {#d#} et {#D#}, e. c. in {%yad'iya%} si, {%prid'iya%} <lang n="greek">χαῖρε</lang> salve, quorum prius convenit cum sanscrito {#yadi#}, alte-
+rum terminatione aequat formas Vêdicas et Zendicas ut {#SruDi#}, <lang n="Avestan">𐬯𐬙𐬏𐬌𐬜𐬌</lang> {%śtûidhi%} (gramm. comp. §. 450.). Sanscrito
 {#j#} respondent {%ǵ%} et {%g''%} (sic cum Holzmannio legimus pro Rawlinsonii {%jh, j%} et Lassenii {%ź, ǵ%}), quorum prius invenitur
 ante {%a%}, alterum ante {%i%}, itaque e. c. {%ǵad'iya%} dele, caede = {#jahi#} e {#haDi#}, {%g''iwa%} vita = {#jIva#}.</F> item significat ire, unde {%as'iyawam%} ivi, profectus sum, quod
 saepius occurrit in memorabili Behistuniensi inscriptione, quam nuper edidit et ingeniose inter-
@@ -43,7 +43,7 @@ pretatus est Vir clarissimus H. C. Rawlinson in libro {%Journal of the Royal Asi
 <P>Multae quae a grammaticis Indicis inter radices receptae sunt formae non verae sunt
 radices, sed verborum denominativorum themata, ut e. c. {#kumAr, kartr, mantr, stom#}; nonnullae
 syllabam reduplicativam continent, sicut e. c. {#jakz#}, quod ortum est e {#Gas#} ejecto {#a, jAgf#} e {#gf#},
-vel potius {#gar#} (gr. <lang n="greek"></lang>). Omnes enim, quae ex indigenorum grammaticorum sententiâ in
+vel potius {#gar#} (gr. <lang n="greek">ἐγείρω</lang>). Omnes enim, quae ex indigenorum grammaticorum sententiâ in
 {#f#} vocalem desinunt radices, re verâ exeunt in {#ar#}, quod in debilioribus formis in {#f#} corripi-
 tur, in fortioribus retinetur, ideo e. c. {#kfta, kftvA, kartum#} a {#kf#}, i. e. {#kar#}. Etiam litterâ {#F#} ter-
 minatae radices vere desinunt in {#ar#}, quod in fortioribus formis aut conservant, aut in {#Ar#}
@@ -59,7 +59,7 @@ tus, {%karta%} factus, {%adars'nus'%}
 <F>(*) {%t%} finale post antecedentem vocalem {%u%} transit in {%s'%}, post alias abjicitur, quam ob rem pro {%par'uviyat%} (Rawl. I. 7.
 8. 45. {%haćâ par'uviyat%} ab antiquo) {%par'uviyata%} legendum esse censeo, quod suffixo cum sanscritis formis in {#tas#} convenit
 (v. e. c. {#atas, itas, Satrutas#}). Veri ablativi autem, quanquam formâ cum instrumentali conveniunt, sunt {%kabu''iyâ%}
-Cambyse (Rawl. I. 40.) et {%dar'ugâ%} (IV. 37.). Etiam {%bâbir'us'%} Babylone (II. 65.) verus est ablativus, nititurque formâ
+Cambyse (Rawl. I. 40.) et {%dar'ugâ%} (IV. 37.). Etiam {%bâbir'uṣ%} Babylone (II. 65.) verus est ablativus, nititurque formâ
 {%bâbirut%}, quocum conferantur ablativi zendici ut {%tanaôt%} (gramm. compar. §. 180.). Genitivi forma {%bâbir'uwa%} convenit
 cum sanscritis genitivis ut {#DenvAs#}, correpto {%â%} et abjecto {%s%}, sicut semper post antecedentem vocalem {%a%} vel {%â.%}</F> ausus est, {%asariyata%} occisus est respondeant formis sanscritis
 {#Bfta, kfta, aDfzRot, aSIryata#} (v. r. {#SF#} i. e. {#Sar#}).
@@ -101,7 +101,7 @@ firmari potuit. Ubi utriusque grammatici definitiones iisdem verbis sunt express
 <HI>M. est Matsyôpâkhyâna, i. e. episodium de diluvio.
 <HI>MAH. est Mahâ-Bhârata ed. Calc.
 <HI>MAN. est Manu-Sâstra.
-<HI>MR. est Mrić<lang n="greek"></lang>akatî.
+<HI>MR. est Mrićc̔́akatî.
 <HI>N. est Nalus (Berol. apud Nicolai).
 <HI>P. est 1) Parasmaipadum. 2) Pâtaliputra (ed. H. Brockhaus. Lipsiae 1835.)
 [Page-vii+ 25]
@@ -57375,7 +57375,7 @@ terror (AM. {#mahABIti#}), eventus terrificus. UR. 54.
 <HI>p. 8. c. 1. {#an#} spirare cf. hib. {%anal%} «breath», {%anam%} «life,
 soul», cambro-brit. {%enyz%} anima.
 <HI>c. 2. {#an#} praef. priv. cf. hib. {%an, ain.%}
-<HI>c. {#ana#} demonstr. cf. hib. {%an%}<lang n="greek"></lang>
+<HI>c. {#ana#} demonstr. cf. hib. {%an%}<lang n="greek">ὁ, ἡ</lang>
 <HI>p. 10. {#anugraha#}¦ {%m.%} (r. {#grah#} praef. {#anu#} s. {#a#}) favor, benevo-
 lentia. SA. 5. 34.
 <HI>p. 11. {#ant#}¦ 1. {%P.%} ({#banDane#} {%K.%} {#banDe#} {%V.%}; scribitur {#at#}) li-
@@ -57432,11 +57432,11 @@ MAN. 6. 95. 96. ubi {#sannyasya#} tam huc quam ad 3.
 {#as#} referri potest.
 <HI>2. {#as#}¦ antecedente {#na#} mori (v. {#BU#}). MAH. 3. 10284.
 <HI>p. 26. {#ahan#} etiam neut. RAGH. 5. 25.
-<HI>p. 27. c. {#ahi#} cf. etiam gr. <lang n="greek"></lang> et germ. vet. {%unc%} anguis, v.
+<HI>p. 27. c. {#ahi#} cf. etiam gr. <lang n="greek">ἔχις</lang> et germ. vet. {%unc%} anguis, v.
 Graff. 1. 347.
 <HI>p. 28. {#AYC#} 1. {%P.%} ({#AyAme#}; scribitur {#AC#}) extendere.
 <HI>p. 31. {#Ap#} praef. {#pari#} v. {#paryApta#}.
-<HI>p. 32. c. {#AMma#}¦ crudus, incoctus cf. etiam gr. <lang n="greek"></lang>
+<HI>p. 32. c. {#AMma#}¦ crudus, incoctus cf. etiam gr. <lang n="greek">ὠμός</lang>
 <HI>{#AyAsin#}¦ (r. {#yas#} praef. {#A#} s. {#in#}, nisi ab {#A-#}
 {#yAsa#} s. {#in#}) vexans. UR. 27. 8. {%infr.%}
 <HI>c. {#Ayus#}¦ cf. hib. {%aois%} f. «age».
@@ -57572,7 +57572,7 @@ duo vel tres. RAGH. 5. 25.: {#dvitrARy ahAni#}.
 <HI>{#DrE#}¦ 1. {%P.%} ({#tfptO#}) gaudere, satiari.
 <HI>p. 192. l. 16. lege {#naMzwAsmi#} pro {#nazwAsmi#}
 l. 18. lege {#naMzwvA#} pro {#nazwvA#}.
-<HI>p. 194. c. {#ni#} cf. etiam slav. <lang n="Slavonic"></lang> {%ni%} <lang n="greek"></lang> deorsum.
+<HI>p. 194. c. {#ni#} cf. etiam slav. <lang n="Slavonic">НИЗ</lang> {%niζ%} deorsum.
 <HI>p. 195. {#nicola#} {%m. n.%} (r. {#cul#} praef. {#ni#} s. {#a#}) pallium. GI-
 TA-GOV. 5. 11.
 <HI>p. 199. {#niz#} 1. {%P.%} ({#seke#}) irrigare.
@@ -57632,11 +57632,11 @@ lith. {%burna%} os; germ. {%SPRAH%} etiam ad {#ah#} praef.
 {#zan#}; 2. 1424.: {#BazeyuH (SvAnaH)#}; 2. 1425.: {#Bazante#}.
 (Cf. {#BAz#}.)
 <HI>p. 247. l. 5. lege {#BIzayanti#} pro {#BIzanti#}.
-<HI>c. 1. {#Buj#}¦ et etiam slav. <lang n="Slavonic"></lang> {%bjegu fugio.%}
+<HI>c. 1. {#Buj#}¦ et etiam slav. <lang n="Slavonic">БѢГѪ</lang> {%bjegu%} fugio.
 <HI>p. 248. {#BuSuRqI#} {%f.%} teli genus. A. 6. 16. (lege {#BuSuRqIBiH#}), 7. 3.
 [Page411-a+ 34]
 <HI>p. 250. c. {#BUrja#}¦ cf. germ. vet. {%birca, bircha%}, nostrum {%Birke%},
-lith. {%bér%}<lang n="greek"></lang>{%a-s.%}
+lith. {%bérźa-s.%}
 <HI>p. 251. {#Bf#} 9. {%P.%} {#BfRAmi#}, v. gr. 385. ({#Bartsane#} {%K.%} {#BftO Bfji#}
 {#Bartse#} {%V.%}) reprehendere; sustentare; frigere, assare.
 {#Boktf#} {%Adj. n.%} BH. 13. 14.
@@ -57664,7 +57664,7 @@ compp.
 <HI>{#must#}¦ 10. {%P.%} ({#saNGAte#} {%K.%} {#saMhatO#} {%V.%}) coacervare.
 <HI>p. 269. {%b.%} lege {#mfgalAYCana#} pro {#°Yca°#}
 <HI>p. 270. {%b.%} {#mftyu#}¦ etiam fem. et neut.
-<HI>p. 271. l. 5. et 6. lege <lang n="greek"></lang> e <lang n="greek"></lang>
+<HI>p. 271. l. 5. et 6. lege <lang n="greek">βϱαδύς</lang> e <lang n="greek">μϱαδύς</lang>
 {#mF#} 9. {%P.%} {#mfRAmi (vaDe)#} interficere.
 <HI>p. 273. {#mlev#} 1. {%A. i. q.%} {#mev#}.
 <HI>p. 275. {#yadi#} 3) quod, {%dafs%}, post {#ASaMse#} credo, puto, {%v.%} p.
@@ -57690,7 +57690,7 @@ camentum. Wils.: {%A medicine preventing old age%},
 <HI>p. 317. {#vAs#}¦ v. {#vAS#} et {#vAsay#}.
 <HI>p. 336. {#veT#} 1. {%A. i. q.%} {#viT#}.
 <HI>p. 346. {#Sav#} 1. {%P.%} ({#gatO#} {%K.%} {#vikAre#} {%V.%}) ire, mutare.
-<HI>p. 348. {#SiKariRI#} {%f.%} ({%fem.%} <lang n="greek"></lang> {#SiKarin#}) lac coagulatum
+<HI>p. 348. {#SiKariRI#} {%f.%} ({%fem.%} <lang n="greek">τοῦ</lang> {#SiKarin#}) lac coagulatum
 cum saccharo et condimentis mixtum. UR. 42. 7.
 {%infr.%}
 <HI>p. 351. {#Suk#} 1. {%P.%} ({#gatO#} {%K.%} {#sarpe#} {%V.%}) ire, se movere.
