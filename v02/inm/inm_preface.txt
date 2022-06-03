@@ -102,19 +102,19 @@ we read, “§ 282: From Kiṣkindhā Shd. marched towards Māhiṣmatī {%(b)%}
 connection in which it occurs, and that further information will be found under the heading
 referred to within parenthesis, where the same Greek letter has likewise been added, within
 parenthesis, as a cross-reference.
-<P>Take, for instance, the reference given under {@Duḥśāsana,@} “§ 83 (Ādivaṃśāv.) <lang n="greek"></lang>: I, {@63,@}
-2447” (or, I, {@63<lang n="greek"></lang>,@} 2447). Similarly, we find under {@Duḥsaha,@} “§ 83 (Ādivaṃśāv.) <lang n="greek"></lang>: I, {@63,@}
+<P>Take, for instance, the reference given under {@Duḥśāsana,@} “§ 83 (Ādivaṃśāv.) α: I, {@63,@}
+2447” (or, I, {@63α,@} 2447). Similarly, we find under {@Duḥsaha,@} “§ 83 (Ādivaṃśāv.) α: I, {@63,@}
 2448.” These references show that Duḥśāsana and Duḥsaha are mentioned under the heading
 {@Ādivaṃśāvatāraṇa,@} and that no immediate interest attaches to their being referred to in that
 place. The statement made under {@Ādivaṃśāvatāraṇa@} runs, “§ 83: the 101 sons of
-Dhṛtarāṣṭra…of whom 11 (<lang n="greek"></lang>)…are enumerated as mahārathas.” Here the
-<lang n="greek"></lang> indicates that I have not thought it worth while to enumerate those 11 names (they must
+Dhṛtarāṣṭra…of whom 11 (α)…are enumerated as mahārathas.” Here the
+α indicates that I have not thought it worth while to enumerate those 11 names (they must
 accordingly be looked for in the Sanskrit texts), but the passage in question has been referred to
 under the headings of each of them.
 [Page-IV+ 42]
-<P>To return to the quotation under {@Duḥśāsana,@} “83 (Ādivaṃśāv.) <lang n="greek"></lang>: I, {@63,@} 2447.”
+<P>To return to the quotation under {@Duḥśāsana,@} “83 (Ādivaṃśāv.) α: I, {@63,@} 2447.”
 <P>The figures {@63,@} 2447 refer to a passage where Duḥśāsana is actually mentioned.
-<P>The small <lang n="greek"></lang> shows that the mention of his name presumably is of little or no general
+<P>The small α shows that the mention of his name presumably is of little or no general
 importance, and may be practically neglected from a mythological or legendary point of view.
 <P>If the reader nevertheless wishes to know the purport of the reference, the word given
 within parenthesis shows that information will be found under {@Ādivaṃśāvatāraṇa,@} and {%one%}

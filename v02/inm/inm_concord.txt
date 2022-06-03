@@ -21,7 +21,7 @@ TRANSLATION.
 <HI>§ 2, I, {@1,@} 22—28 (22—28). pp. 2—3: id. (Viṣṇu).
 <HI>§ 3, I, {@1,@} 29—53 (29—53). pp. 3—4: id. (Bráhman).
 <HI>§ 4, I, {@1,@} 54—220 (54—218). pp. 4—17: id. (Mahābhārata).
-<HI>§ 5, I, {@1,@} 221—230 (219—224<lang n="greek"></lang>). pp. 17—18: id. (Nārada).
+<HI>§ 5, I, {@1,@} 221—230 (219—224α). pp. 17—18: id. (Nārada).
 <HI>§ 6, I, {@1,@} 230—251 (224{%b%}-244). pp. 18—19: id. (Sañjaya).
 <HI>§ 7, I, {@1,@} 252—275 (245—268). pp. 19—21: id. (Mahābhārata).
 <H>II. PARVASAṄGRAHA-PARVAN: I, {@2.@}
@@ -1403,19 +1403,19 @@ dotpatti [Keśiparābhava].
 dotpatti [Keśiparābhava].
 <HI>§ 497, III, {@226,@} 1—17{%a%} (14339—14355{%a%}): Skandotpatti.
 <HI>§ 498, III, {@226,@} 17{%b%}-29 (14355{%b%}-14367): id.
-<HI>(<lang n="greek"></lang>)
+<HI>(β)
 <HI>§ 499, III, {@227,@} 1—18 (14368—14386). pp. 688—690: <is>Skanda-
 Śakra-samāgama</is> (Āṅgi° Indra-Skando°).
 [PageXXI-a+ 59]
-<HI>(<lang n="greek"></lang>) {%Skandopākhyāna:%} III, {@228—229.@}
+<HI>(γ) {%Skandopākhyāna:%} III, {@228—229.@}
 <HI>§ 500, III, {@228,@} 1—15 (14387—14401). pp. 690—691: <is>Skando-
 pākhyāna</is> (Āṅgi° Kumārotpatti).
 <HI>§ 501, III, {@229,@} 1—52 (14402—14453). pp. 691—695: id.
 (Āṅgi° Skandop°).
-<HI>(<lang n="greek"></lang>) {%Manuṣyagrahakathana:%} III, {@230.@}
+<HI>(δ) {%Manuṣyagrahakathana:%} III, {@230.@}
 <HI>§ 502, {@230,@} 1—59 (14454—14513). pp. 695—699: [Āṅgi°]
 <is>Manushyagrahakathana</is>.
-<HI>(<lang n="greek"></lang>) {%Skandhayuddha:%} III, {@231.@}
+<HI>(ε) {%Skandhayuddha:%} III, {@231.@}
 <HI>{@231,@} 1—113 (14514—14627). pp. 699—707: [Ā°] Skanda-
 yuddha (°otpatti) [Mahiṣāsuravadha].
 <HI>§ 503, III, {@231,@} 1—7 (14514—14520): Skandayuddha.
@@ -1423,7 +1423,7 @@ yuddha (°otpatti) [Mahiṣāsuravadha].
 <HI>§ 505, III, {@231,@} 17{%b%}-27 (14531—14541{%a%}): id.
 <HI>§ 506, III, {@231,@} 28—57 (14541{%b%}-14571): id.
 <HI>§ 507, III, {@231,@} 58—113 (14572—14627): id.
-<HI>(<lang n="greek"></lang>) {%Kārttikeyastava:%} III, {@232.@}
+<HI>(ζ) {%Kārttikeyastava:%} III, {@232.@}
 <HI>{@232,@} 1—21 (14628—14648). pp. 707—710: [Ā°] Kārttikeya-
 stava.
 <HI>§ 508, III, {@232,@} 1—9 (14628—14636): Kārttikeyastava.
