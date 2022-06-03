@@ -200,12 +200,12 @@ here been to save space and trouble.
 [Page-VI+ 25]
 <P>{%Where the paragraphs are separated from the synopsis of chapters and verses, the headings to%}
 {%which they belong in the Index have simply been printed after the other indications relating to them%}.
-{%E.g%}., § 19 ({%giving the contents of Mhbhr%}. I, {@5@}, 1—11) {%will be found under the heading%} ‘BHṚGU.’
+{%E.g.%}, § 19 ({%giving the contents of Mhbhr%}. I, {@5@}, 1—11) {%will be found under the heading%} ‘BHṚGU.’
 {%Where the paragraphs are not so separated, it should be generally understood that the title of the minor%}
 {%parvan to which a paragraph belongs is also the heading under which it will be found in the Index%}.
-{%E.g%}., § 249 ({%Mhbhr%}. I, {@215@}) {%under the heading%} ‘ARJUNAVANAVĀSAPARVAN.’ {%If this is not the case%},
+{%E.g.%}, § 249 ({%Mhbhr%}. I, {@215@}) {%under the heading%} ‘ARJUNAVANAVĀSAPARVAN.’ {%If this is not the case%},
 {%the paragraphs are to be found in the Index under the titles of those chapters of the parvan in question%}
-{%which have been printed with spaced type. E.g%}., § 177 ({%Mhbhr%}. I, {@113@}) {%under the heading%}
+{%which have been printed with spaced type. E.g.%}, § 177 ({%Mhbhr%}. I, {@113@}) {%under the heading%}
 ‘PĀṆḌUDIGVIJAYA,’ § 161 ({%Mhbhr%}. I, {@96@}) {%under the heading%} ‘MAHĀBHISHOPĀKHYĀNA,’ {%and not under%}
 ‘SAMBHAVAPARVAN.’
 <P>My sincere thanks are due to those who have helped me with their advice or have in other
