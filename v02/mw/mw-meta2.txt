@@ -131,7 +131,8 @@ Words in Arabic script can be from several languages:
           to indicate the alternates.
     <info orsl="L1,X1;L2,X2"/> similar to 'or'; but the alternates arise
           due to a vowel which may be short or long.
-
+    <info orwr="L1,X1;L2,X2"/> similar to 'or', but with a 'w.r.'
+          (wrong reading)
 <info phwchild="LC"/>, <info phwparent="LP,HWP"/>  An artifact of the Cologne
      digitization as a way to get additional headword entries which occur
      parenthetically within the printed text.  For headword X that occurs
