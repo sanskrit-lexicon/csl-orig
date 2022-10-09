@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>-->
+<?oxygen RNGSchema="//www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?>
+<TEI xmlns="//www.tei-c.org/ns/1.0" xmlns:xi="//www.w3.org/2001/XInclude">
+ <teiHeader xml:lang="en-Latn">
+  <fileDesc>
+   <titleStmt>
+    <title type="main">Vaidya Standard Sanskrit-English Dictionary</title>
+    <title type="desc">XML edition</title>
+    <title type="key">Vaidya 1889</title>
+    <title type="short"><name>Vaidya, Lakshman Ramchandra</name>. <title rend="italic">The Standard Sanskrit-English Dictionary</title>. <date>1889</date>.</title>
+    <editor>Dr. Dhaval Patel</editor>
+    <principal>Dr. Dhaval Patel</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition>digital edition<date when="2022">2022</date></edition>
+    <respStmt>
+     <resp>Primary digitization</resp>
+     <name>Mr. K. Nagabhushana Rao</name>
+    </respStmt>
+    <respStmt>
+     <resp>Programming, integration of dictionary into Sanskrit-lexicon</resp>
+     <name>Dr. Dhaval Patel</name>
+    </respStmt>
+   </editionStmt>
+   <extent>9.3 MB (for armh.xml dictionary at Cologne)</extent>
+   <publicationStmt>
+    <publisher>University of Cologne</publisher>
+    <pubPlace>Cologne, Germany</pubPlace>
+    <publisher>Institut für Südasien- und Südostasienstudien (SASOA)</publisher>
+    <pubPlace>Köln</pubPlace>
+    <date when="2022">2022</date>
+    <availability>
+     <p>GNU GPL v3.0.</p>
+    </availability>
+    <distributor>
+     <ptr target="//www.sanskrit-lexicon.uni-koeln.de/scans/LRVScan/2020/web/index.php"/>
+    </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct type="original" xml:id="ARMH">
+     <monogr>
+      <author>Lakshman Ramchandra Vaidya</author>
+      <title type="main" level="m">The Standard Sanskrit-English Dictionary</title>
+      <title type="subordinate" level="m">Containing appendices on Sanskrit prosody and names of noted mythological persons, &c. (For the use of schools and colleges.)</title>
+      <edition>first edition</edition>
+      <imprint>
+       <pubPlace>Bombay</pubPlace>
+       <publisher>Mrs. Radhabai Atmaram Sagoon, Book-seller and Publisher, Kalkadevi Road.</publisher>
+       <date>1889</date>
+      </imprint>
+      <extent>
+       <measure unit="pages" quantity="889">889 p.</measure>
+      </extent>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.-->
+   <projectDesc>
+    <p>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and merge all published Sanskrit dictionaries. Its aim is to create a basic lexical corpus that provides easy access to all available meanings of Sanskrit words and allows the creation of a number of computer programs that will help to analyze Sanskrit texts.</p>
+    <p>See <ptr target="//www.sanskrit-lexicon.uni-koeln.de/CDSL.pdf"/>.</p>
+   </projectDesc>
+   <editorialDecl>
+    <p></p>
+   </editorialDecl>
+   <tagsDecl>
+    <!--"//www.sanskrit-lexicon.uni-koeln.de" documentation-->
+   </tagsDecl>
+   <!--
+   <classDecl>
+    <taxonomy xml:id="lcsh">
+     <bibl>Library of Congress Subject Headings</bibl>
+    </taxonomy>
+   </classDecl>
+  -->
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+     <p>File received as an xlsx file from <persName>Mr. K. Nagabhushana Rao</persName>.
+     <persName>Dr. Dhaval Patel</persName> transformed it to SLP1 transcoding of Sanskrit, alongwith metaline details.</p>
+   </creation>
+   <langUsage>
+    <language ident="en-Latn">English</language>
+    <language ident="sa-Latn-x-AS">Sanskrit</language>
+    <language ident="sa-Latn-x-SLP1">Sanskrit in Sanskrit Library Phonetic Basic encoding, a phonetic Romanization using only ASCII characters</language>
+   </langUsage>
+   <textClass>
+    <keywords scheme="#lcsh">
+     <list>
+      <item>Sanskrit language -- Dictionaries -- English.</item>
+     </list>
+    </keywords>
+    <catRef target="../../Publication/tei/IndicSubjectClassification.xml#koSa"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>Revisions documented by Dr. Dhaval Patel.
+    See <ptr target="https://github.com/sanskrit-lexicon/LRV/tree/main/interim"/>
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://github.com/sanskrit-lexicon-scans/lrv/tree/main/pdfpages"/>
+ </facsimile>
+ <text>
+  
+  <body>
+   <xi:include href="lrv.xml"><!-- The file that has the xml data -->
+    <xi:fallback>
+     <p>See the file lrv.xml downloadable from <ref target="//www.sanskrit-lexicon.uni-koeln.de">//www.sanskrit-lexicon.uni-koeln.de</ref>.</p>
+    </xi:fallback>
+   </xi:include>
+  </body>
+ </text>
+</TEI>
