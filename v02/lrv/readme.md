@@ -1,3 +1,3 @@
 # lrv.txt
 
-https://github.com/sanskrit-lexicon/LRV/blob/main/interim/lrv_5.txt copied as of commit 7f380b0b09495b46d1fdcb702434fe0231ebc2d0 on 10 October 2022.
+https://github.com/sanskrit-lexicon/LRV/blob/main/interim/lrv_5.txt copied as of commit a810f4c04c8f1077e03e16d90c7e7d737b4caf99 on 11 October 2022.
