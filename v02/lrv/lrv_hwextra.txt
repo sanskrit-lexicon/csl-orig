@@ -5826,3 +5826,14 @@
 <L>42554.1<pc>818-29<k1>sravaMtI<k2>sravat(sravaMtI)<type>fem<LP>42554<k1P>sravat
 <L>42797.1<pc>823-05<k1>svAdvI<k2>svAdu(dvI)<type>fem<LP>42797<k1P>svAdu
 <L>43033.1<pc>828-09<k1>hartrI<k2>hartf(rtrI)<type>fem<LP>43033<k1P>hartf
+<L>00791.2<pc>013-07<k1>adaH<k2>adas(adaH)<type>neu<LP>00791<k1P>adas
+<L>01847.2<pc>032-15<k1>anyat<k2>anya(nyat)<type>neu<LP>01847<k1P>anya
+<L>05745.2<pc>116-19<k1>itrat<k2>itara(rat)<type>neu<LP>05745<k1P>itara
+<L>07397.2<pc>152-02<k1>ekatamat<k2>ekatama(mat)<type>neu<LP>07397<k1P>ekatama
+<L>07398.2<pc>152-02<k1>ekatarat<k2>ekatara(rat)<type>neu<LP>07398<k1P>ekatara
+<L>07984.2<pc>163-13<k1>katamat<k2>katama(mat)<type>neu<LP>07984<k1P>katama
+<L>07985.2<pc>163-14<k1>katarat<k2>katara(rat)<type>neu<LP>07985<k1P>katara
+<L>16046.2<pc>318-06<k1>trIRi<k2>tri(trIRi)<type>neu<LP>16046<k1P>tri
+<L>31181.2<pc>590-08<k1>yatamat<k2>yatama(mat)<type>neu<LP>31181<k1P>yatama
+<L>31182.2<pc>590-09<k1>yatarat<k2>yatara(rat)<type>neu<LP>31182<k1P>yatara
+<L>35020.2<pc>665-09<k1>vidvat<k2>vidvas(vidvat)<type>neu<LP>35020<k1P>vidvas
