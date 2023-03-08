@@ -71198,7 +71198,7 @@ Seele. {%f.%} {#pratI/cI#} der Westen.
 <L>15501<pc>273-1<k1>pratyaya<k2>pratyaya
 {#pratyaya#}¦ {%m.%} Vertrauen, Glaube, Überzeugung
 {%(Loc., Gen. o.—°)%}, Annahme, Vorstellung, <lbinfo n="9"/>
-Grund, Ursachel; Suffix {%(g.).%}
+Grund, Ursache; Suffix {%(g.).%}
 <LEND>
 
 <L>15502<pc>273-1<k1>pratyayakAraka<k2>pratyayakAraka
