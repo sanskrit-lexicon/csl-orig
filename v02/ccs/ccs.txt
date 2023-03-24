@@ -55049,8 +55049,8 @@ heftig, sehr, vollkommen.
 {#nitoda#}¦ {%m.%} Stich, Loch.
 <LEND>
 
-<L>11975<pc>212-2<k1>nitodin<k2>nitod/in
-{#nitod/in#}¦ stechend, bohrend.
+<L>11975<pc>212-2<k1>nitodin<k2>nitodi/n
+{#nitodi/n#}¦ stechend, bohrend.
 <LEND>
 
 <L>11976<pc>212-2<k1>nitoSana<k2>nito/Sana
@@ -91858,7 +91858,7 @@ Zauberei, {%Bein. Yājñavalkya's.%}
 {#yo/gya#}¦ (ins Joch {%o.%} zum Ziehen) tauglich,
 passend, brauchbar, geschickt, gut zu
 {%(Gen., Loc., Dat., Inf. o.—)%} —°). {%m.%} Zugtier; <lbinfo n="5"/>
-{%f.%} {#yogy^A#} Veranstalung, Werk,
+{%f.%} {#yogyA^#} Veranstalung, Werk,
 Übung, Praxis.
 <LEND>
 
@@ -114908,8 +114908,8 @@ Sommer {%überh.; Mannsn.%}
 Reinheit {%(r.).%}
 <LEND>
 
-<L>24798<pc>447-1<k1>Sucidant<k2>Suc/idant
-{#Suc/idant#}¦ hellzahnig.
+<L>24798<pc>447-1<k1>Sucidant<k2>Suci/dant
+{#Suci/dant#}¦ hellzahnig.
 <LEND>
 
 <L>24799<pc>447-1<k1>SucipA<k2>SucipA/
