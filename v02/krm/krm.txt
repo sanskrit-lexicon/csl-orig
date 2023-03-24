@@ -214,7 +214,7 @@
 <L>7<pc>0007<k1>aNka<k2>aNka
 (7) {@<s>‘aNka pade lakzaRe ca’</s>@}¦ (X-1927<s>-curAdiH saka</s>. <s>sew-uBa-) adantaH .</s>
 <div n="NI"><s>‘aNka lakzaRa ityasya BavedaNkayatIti RO’</s> (<s>Slo</s> 41) <s>iti devaH .</s>
-<s>^</s>1 <s>aNkakaH-NkikA, aYcikayizakaH-zikA</s>;
+<sup>1</sup> <s>aNkakaH-NkikA, aYcikayizakaH-zikA</s>;
 <s>aNkayitA-trI, aYcikayizitA-trI</s>;
 <s>aNkayan-ntI, aYcikayizan-ntI</s>;
 <s>aNkayizyan-ntI-tI, aYcikayizizyan-tI-ntI</s>;
@@ -1339,7 +1339,7 @@
 <LEND>
 
 <L>37<pc>0035<k1>arca<k2>arca
-(37) {@<s>‘arca pUjAyAm’</s>@}¦ (X<s>-curAdiH</s>-1809. <s>se</s>. <s>u</s>. <s>^A ADfzIyaH .</s>)
+(37) {@<s>‘arca pUjAyAm’</s>@}¦ (X<s>-curAdiH</s>-1809. <s>se</s>. <s>u</s>. <sup>A</sup> <s>ADfzIyaH .</s>)
 <div n="P"><s>‘pUjAyAM RO viBAzA'rcerarcayatyarcate'rcati . BUvAdO pAWasAmarTyAt</s>
 <s>kartfgAmiPale'rcati ..’</s> (<s>Slo</s>. 49.) <s>iti devaH .</s>
 <div n="P"><s>arcakaH-rcikA ityAdikAnAM RyantARyantasADAraRyena liKitatvAt</s>
@@ -1354,7 +1354,7 @@
 <note n="1"/><s>arcicayizuH, arcicayizam</s> 2, <s>arcicayizitavyam; arcicayizitvA</s> 2,
 <s>arcicayizaRIyam</s>;
 <s>imAni rUpARi—iti viSezaH .</s>
-<div n="P"><s>^A</s>. <s>‘ADfzAdvA’ (ga</s>. <s>sU</s>.) <s>iti Rico vEkalpikatvam . ‘SezAt kartari</s>
+<div n="P">A. <s>‘ADfzAdvA’ (ga</s>. <s>sU</s>.) <s>iti Rico vEkalpikatvam . ‘SezAt kartari</s>
 <s>parasmEpadam’</s> (1-3-78) <s>iti RijaBAvapakze parasmEpadI . SAkawAyanastu</s>
 <s>anudAttettvamasya DAtoraNgIkftyAtmanepaditvaM brUte . tatpakze SAnaci ‘arcamAnaH’</s>
 <s>iti rUpam .</s> 
@@ -1562,9 +1562,9 @@
 
 <L>43<pc>0041<k1>arva<k2>arva
 (43) {@<s>“arva hiMsAyAm”</s>@}¦ (I<s>-BvAdiH</s>-584. <s>saka</s>. <s>sew</s>. <s>para</s>.)
-<s>arvaka^AH-rvikA, arvivizakaH-zikA</s>,
+<s>arvaka</s><sup>A</sup> :<s>-rvikA, arvivizakaH-zikA</s>,
 <s>ityAdikAni</s> (42) <s>arbativadrUpARi sarvARi jYeyAni .</s>
-<s>^A ‘aParvitAkANkzitamarvakaM satAM mAMsAdisaYcarvakaduzwaBarvakam .</s>
+<s>A ‘aParvitAkANkzitamarvakaM satAM mAMsAdisaYcarvakaduzwaBarvakam .</s>
 <s>karvadvaDUkelirasena KarvitaM garvArvakaM SarvapareRa sarvatAm ..’ DA</s>. <s>kA</s>. 1-74
 <LEND>
 
@@ -2354,7 +2354,7 @@
 <div n="P"><s>‘iwa kiwa kawI gatO’ iti DAtupAWe nirdiSyate . ‘kawI’ ityatra</s>
 <s>‘kawi + i-’ iti hrasvekArAtmakaM DAtvantaraM praSlizwamiti kecit . tasya ca</s>
 <s>ayati-iyAya-etA-ityAdIni rUpARi . ata eva ‘udayati vitatorDvaraSmi</s>-
-<s>rajjO ahimarucO himaDAmni yAti cAstam’ (SiSupAlavaDe</s> 4-20<s>)</s>,
+<s>rajjO ahimarucO himaDAmni yAti cAstam’ (SiSupAlavaDe</s> 4-20),
 <s>‘udayati dinanATo yAti SItAMSurastam’ ityAdiprayogARAmupapattiH .</s>
 <s>AyakaH-yikA, AyakaH-yikA</s>,
 <sup>1</sup> <s>IzizakaH-zikA</s>;
@@ -17871,7 +17871,7 @@
 304 13 <s>viklaSO vikleSO</s>-
 304 15 <s>SenaH kleSanaH</s>,
 308 32 <s>marRuMvAnaH marRavAnaH</s>
-313 13 (6-3-93<s>)</s> (6-4-93)
+313 13 (6-3-93) (6-4-93)
 318 13 1047 1407
 320 28 <s>mavikzita mavikzata</s>
 320 32 <s>marRuvAnaH marRavAnaH</s>
@@ -17904,7 +17904,7 @@
 397 2 <s>sew aka</s>. <s>sew</s>
 399 32 <s>yutAt yutAn</s>
 401 6 <s>pragopAyitvA gopAyitvA</s>
-403 2 <s>atra^</s>1 <s>gorakaH ityatra vidyamAnA saMKyA uttarapaNktO guritA ityatra yojyA .</s>
+403 2 <s>atra</s><sup>1</sup><s>gorakaH ityatra vidyamAnA saMKyA uttarapaNktO guritA ityatra yojyA .</s>
 403 7 <s>saNgrO saNgurO</s>
 407 3 <s>saYjuGukzaH saYjuGukzuH</s>
 408 16 <s>dugUraH durgUraH</s>
@@ -20574,7 +20574,7 @@
 
 <L>607<pc>0575<k1>ju<k2>ju
 (607) {@<s>“ju gatO vege ca”</s>@}¦ (I<s>-BvAdiH-aka</s>. <s>ani</s>. <s>para</s>.)
-<div n="NI"><s>sOtro'yaM DAtuH sAkzAdDAtupAWezvapaWito'pi, ‘jucaNkramya—’</s> (3-2-150<s>)</s>,
+<div n="NI"><s>sOtro'yaM DAtuH sAkzAdDAtupAWezvapaWito'pi, ‘jucaNkramya—’</s> (3-2-150),
 <s>‘prajoriniH’</s> (3-2-156<s>), ‘BrAjaBAsaDurvidyutorjipFjugrAvastuvaH kvip’</s>
 (3-2-177) <s>‘UtiyUtijUtisAtihetikIrtayaSca’</s> (3-3-97) <s>ityAdizu</s>
 <s>anuvAdabalAd aByupagamyate . ‘vegitAyAM gatO’ iti kASikAdizvarTa</s>-
@@ -20965,7 +20965,7 @@
 <div n="NI"><s>jezakaH-zikA, jezakaH-zikA, jijezizakaH-zikA, jejezakaH-zikA</s>;
 <s>jezitA-trI, jezayitA-trI, jijezizitA-trI, jejezitA-trI</s>;
 <s>ityAdIni sarvARyapi rUpARi BOvAdikakepativat</s> (261) <s>jYeyAni .</s>
-<s>kvipi-jew-jeq-jezO-jezaH, iti rUpARi iti viSezaH . ^A jezaH .</s>
+<s>kvipi-jew-jeq-jezO-jezaH, iti rUpARi iti viSezaH .</s> <sup>A</sup><s>jezaH .</s>
 <LEND>
 
 <L>622<pc>0587<k1>jehf<k2>jehf
@@ -21492,7 +21492,7 @@
 <s>lakAraSravaRaM na dozAya .</s></F>
 <F>A. <s>‘vanAma kiM prajvalito hareRa so'dyApi yadvihvalayannanaNgaH ..’ DA</s>. <s>kA</s>. 2. 10.</F>
 <F>2. <s>‘jvalitikasanteByo RaH’</s> (3-1-140) <s>iti kartari vA Rapratyayo Bavati . striyAM</s>
-<s>‘ajAdyatazwAp’</s> (4-1-4) <s>iti wAp . RapratyayABAvapakze tu pacAdyaci</s> (3-1-134<s>)</s>,
+<s>‘ajAdyatazwAp’</s> (4-1-4) <s>iti wAp . RapratyayABAvapakze tu pacAdyaci</s> (3-1-134),
 <s>jvalaH ityapi Bavati .</s></F>
 <F>B. <s>‘jvAlena tApena calA jaqANgIrawAlaSokawvalitapratApAH ..’ DA</s>. <s>kA</s>. 2. 21.</F>
 <F>C. <s>‘limpEriva tanorvAtEScetayaH syAjjvalo na kaH ..’ Ba</s>. <s>kA</s>. 6. 80.</F>
@@ -30436,7 +30436,7 @@
 <sup>3</sup> <s>vaRik</s>,
 <sup>4</sup> <s>vipaRiH</s>.
 <F><s>[a] vyavahArArTe AyapratyayABAvo vEyAkaraRasampradAyAgata iti DAtupAWavyAKyAsu sarvatra</s>
-<s>sAgrahaM sADyate . ‘na copaleBe vaRijAM paRAyAn ..’ (BawwikAvye</s> 3-27<s>)</s>,
+<s>sAgrahaM sADyate . ‘na copaleBe vaRijAM paRAyAn ..’ (BawwikAvye</s> 3-27),
 <s>‘gopAyitasAraratnaBARqaM vipaRAyanti vaRigjanASca yatra ..’ (rAvaRArjunIye</s>
 8-30) <s>ityAdiprayogAnusArAt vyavahArArTe'pi AyapratyayaprayogaH nAsADutvajYApaka</s>
 <s>iti pratiBAti . vidvAMsaH pramARamatra .</s></F>
@@ -30738,7 +30738,7 @@
 <F>4. <s>padyate'neneti pat = pAdaH . kvibante cartvavikalpaH .</s></F>
 <F>5. <s>‘radAByAM nizWAto naH pUrvasya ca daH’</s> (8-2-42) <s>iti nizWAtakAraDAtudakArayornatve rUpam .</s></F>
 <F>6. <s>‘alaNkfYnirAkfYprajanotpacotpada—’</s> (3-2-136) <s>ityAdinA izRuc pratyayaH</s>
-<s>tacCIlAdizu kartfzu Bavati—iti mADavaH . etacca prakftasUtre</s> (3-2-136<s>)</s>,
+<s>tacCIlAdizu kartfzu Bavati—iti mADavaH . etacca prakftasUtre</s> (3-2-136),
 <s>utpada iti pAWASrayaRena sADyate . paraM tu—patxDAtO</s> (968) <s>svayameva</s>
 <s>mADavena utpata ityetasmAdeva izRuc sADitaH . padaDAtO tu “kecittu</s>
 <s>‘utpata’ iti patatiM paWanti” iti vadataH ko vA'tra svABimataH pAWa iti na</s>
@@ -34285,7 +34285,7 @@
 <s>rUpam . ‘pravAcyam = granTaviSezaH’ iti vfttyAdizu proktam . paraM tu</s>
 <s>BAzye</s> (7-3-66) <s>pravacigrahaRapratyAKyAnaprakaraRe ‘prapUrvaSca vaciraSabdasaMjYAyAM</s>
 <s>vartate .’ ityuktatvAt granTaviSezasya pravAcyamiti saMjYeti pakzaH cintya iti</s>
-<s>uddyote prakftasUtre sPuwam . avivAkyam ityatra tu pfzodarAditvAt</s> (6-3-109<s>)</s>,
+<s>uddyote prakftasUtre sPuwam . avivAkyam ityatra tu pfzodarAditvAt</s> (6-3-109),
 <s>nyaNkvAditvAt</s> (7-3-53) <s>vA aharviSeze kutvam . dvAdaSAhe daSarAtrasya yajYa</s>-
 <s>viSezasya daSamamahaH avivAkyam, yasminnahani yAjYikAH na vibruvate = na</s>
 <s>nAnAvAkyAnyuccArayanti . anyatra avivAcyam ityeva .</s></F>
@@ -42670,10 +42670,10 @@
 831 7 <s>pipakzayizizyamARaH; pipakzayizamARaH</s>;
 833 29 (<s>vA</s>. (<s>kASikAyAm-vA</s>.)
 838 2 <s>paRayamAnaH, pARayamAnaH</s>,
-839 17<s>^</s>5 <s>patakaH</s> 5<s>^pAtakaH</s>
+839 17 <sup>5</sup><s>patakaH</s> <sup>5</sup><s>pAtakaH</s>
 841 7 <s>… gatyAtyasta… …gatAtyasta…</s>
-848 18 4<s>^parpaH</s> 3<s>^parpaH .</s>
-848 26 4<s>^parpyate…</s> 3<s>^parpyate …</s>
+848 18 <sup>4</sup><s>parpaH</s> <sup>3</sup><s>parpaH .</s>
+848 26 <sup>4</sup><s>parpyate…</s> <sup>3</sup><s>parpyate …</s>
 854 3 <s>pApaH, pAyaH</s>,
 855 19 <s>surApARaH surApARAH</s>
 871 31 22-2 2-22.
@@ -42699,7 +42699,7 @@
 969 16 <s>tasyAM tasya</s>
 980 15 <s>itsaMjYa itsaMjYAM</s>
 981 16 <s>BrarzwA BrazwA</s>
-984 4 5<s>^baBrAjivAn, baBrAjivAn</s>- 5<s>^baBrAjivAn</s>,
+984 4 <sup>5</sup><s>baBrAjivAn, baBrAjivAn</s>- <sup>5</sup><s>baBrAjivAn</s>,
 1006 28 <s>DAryate DArayati</s>
 1008 19 <s>kaSan- maSan</s>-
 1011 14 <s>-majjanO-majjanaH, majjAnO-majjAnaH</s>,
@@ -42707,7 +42707,7 @@
 1021 2 <s>mAyakaH-pikA, mAyakaH-yikA</s>,
 1026 15 <s>mARaH, ityA mARaH-mimelizizyamARaH, ityA</s>-
 1031 8 <s>sumayaH supramayaH</s>
-1041 19 (4.) <s>(SAkuntale</s> 5. 20)
+1041 19 (4.) (<s>SAkuntale</s> 5. 20)
 1051 12 <s>sannante, SudDe, sannante</s>,
 1055 9 <s>carzati carzayati</s>
 1072 12 <s>iti iti prakaraRe ‘kvip ca’</s> (3-2-76) <s>iti</s>
@@ -46619,7 +46619,7 @@
 <s>DAtuH SAstrezvapaWito'pi loke labDapracAra ityarTaH . ‘saMvIjate’ iti prayogastu</s>
 <s>jAmbavatIvijaye dfSyate yaTA— ‘GarmAlasANgI maDurARi kUjan saMvIjate</s>
 <s>pakzapuwena kAntAm ..’ iti tawwIkAyAmuktam . ‘vIjanti vAlavyajanEH—’</s>
-<s>iti harivaMSe</s> (13-92) <s>(ma</s>. <s>BArate</s> 7-307) <s>iti ca .</s></F>
+<s>iti harivaMSe</s> (13-92) (<s>ma</s>. <s>BArate</s> 7-307) <s>iti ca .</s></F>
 <F>1. <s>‘prajane vIyateH’</s> (6-1-55) <s>iti prajane vartamAnasya RO viBAzA Atve, puki ca</s>
 <s>rUpamevam .</s></F>
 <F>2. <s>sannantAt Rvuli ‘iko Jal’</s> (1-2-9) <s>iti sanaH kittvAnna guRaH .</s></F>
@@ -48041,7 +48041,7 @@
 <F>9. <s>‘anyeByo'pi dfSyante’</s> (3-1-99) <s>iti vanippratyaye rUpamevam . striyAM tu</s>
 <s>‘vano ra ca’</s> (4-1-7) <s>iti NIp, tatsanniyogena rePaScAntAdeSaH . tena SakvarI</s>
 <s>iti sidDyati . SakvarI CandoviSezaH .</s></F>
-<F>10. <s>ORAdike [da</s>. <s>u</s>. 8-112<s>] kalapratyaye rUpamevam . ‘BittaM Sakalam’</s> (8-2-59<s>)</s>;
+<F>10. <s>ORAdike [da</s>. <s>u</s>. 8-112<s>] kalapratyaye rUpamevam . ‘BittaM Sakalam’</s> (8-2-59);
 <s>sAro'pi .</s></F>
 <F>1. <s>ORAdike (da</s>. <s>u</s>. 8. 31) <s>rakpratyaye rUpam . SakraH = indraH .</s></F>
 <F>2. <s>‘SakerunontontyunayaH’ (da</s>. <s>u</s>. 10-5) <s>iti una-unta-unti-unipratyayAH .</s>
@@ -50582,12 +50582,12 @@
 
 <L>1821<pc>1338<k1>zarba<k2>zarba
 (1822) {@<s>“zarba gatO”</s>@}¦ (I<s>-BvAdiH</s>-424. <s>saka</s>. <s>sew</s>. <s>para</s>.)
-<s>rUpARi sarvARyapi BOvAdikakarvativat</s> (173<s>-^A) jYeyAni .</s>
+<s>rUpARi sarvARyapi BOvAdikakarvativat</s> (173-<sup>A</sup>) <s>jYeyAni .</s>
 <LEND>
 
 <L>1822<pc>1338<k1>zarva<k2>zarva
 (1823) {@<s>“zarva hiMsAyAm”</s>@}¦ (I<s>-BvAdiH</s>-586<s>-saka</s>. <s>sew</s>. <s>para</s>.)
-<s>BOvAdikakarvativat</s> (173<s>-^A</s>.) <s>rUpARi boDyAni .</s>
+<s>BOvAdikakarvativat</s> (173-<sup>A</sup>) <s>rUpARi boDyAni .</s>
 <LEND>
 
 <L>1823<pc>1338<k1>zala<k2>zala
@@ -51287,7 +51287,7 @@
 <sup>6</sup> <s>jyotizwomaH-AyuHzwomaH, parizwomaH</s>,
 <sup>7</sup> <s>stoBaH, ‘mfqA jaritre rudra</s>
 <sup>8</sup> <s>stavAnaH’</s>
-(<s>tE</s>. <s>saM</s> 4-5-24<s>)</s>,
+(<s>tE</s>. <s>saM</s> 4-5-24),
 <sup>9</sup> <s>triBiHzwutaH-triBiHstutaH, iti viSezarUpARi . sAmAnyarUpARi</s>
 <s>AdAdikakzROtivat</s> (323) <s>boDyAni .</s>
 <F>5. <s>Satari uvaN . aBizwuvan ityatra ‘upasargAt sunotisuvatisyatistOti—’</s>
@@ -54248,7 +54248,7 @@
 <div n="P"><s>‘…kramato'lIke tuzwO harzati hfzyati .’</s> (<s>Slo</s>. 176) <s>iti devaH .</s>
 <div n="NI"><s>‘alIkam = AnandaH’ iti kASakftsnaDAtupAWakannaqavyAKyA .</s>
 <sup>3</sup> <s>hfzwaH</s>,
-<sup>4</sup> <s>hfzwo loma hfzitaM vA, ‘BayasaMhfzwaromARaH’ (BawwiH</s>-9.22<s>)</s>,
+<sup>4</sup> <s>hfzwo loma hfzitaM vA, ‘BayasaMhfzwaromARaH’ (BawwiH</s>-9.22),
 <sup>5</sup> <s>hfzwo dantaH</s>,
 <s>hfzito vA</s>,
 <sup>6</sup> <s>hfzyam . sAmAnyarUpARi sarvARi pozativat</s> (1026) <s>boDyAni .</s>
@@ -54552,7 +54552,7 @@
 635 25 <s>yaR, RatvaYca pOrvAparyeRa avagantavyam .</s>
 640 24 <s>“hrasvaSca” iti mAstu .</s>
 641 23 <s>…sTAkArasya …sTAdyAkArasya</s>
-657 23 (6-4-52<s>)</s> (6-4-51)
+657 23 (6-4-52) (6-4-51)
 666 27 <s>kraDA kruDA</s>
 667 24 <s>vyaTatIti vyaTata iti</s>
 674 14 <s>pratotUrvyaM pratotUrvya</s>
@@ -54942,7 +54942,7 @@ increased assistance for its early completion.
 <s>tacCIlAdyaDikAre ‘tfn’</s> (3-2-135) <s>iti sUtreRa vihitasya tfnnantasyApi</s>
 <s>grahaRaM jYeyam . SAnajantena, ‘tAcCIlyavayovacanaSaktizu cAnaS’</s> (3-2-129)
 <s>iti vihitasyApi grahaRam . ktAntena padena ‘nizWA’</s> (3-2-102<s>), ‘Adi</s>-
-<s>karmaRi ktaH kartari ca’</s> (3-4-71<s>), ‘gatyarTAkarmaka—’</s> (3-4-72<s>)</s>,
+<s>karmaRi ktaH kartari ca’</s> (3-4-71<s>), ‘gatyarTAkarmaka—’</s> (3-4-72),
 <s>‘kto'DikaraRe ca DrOvyagatipratyavasAnArTeByaH’</s> (3-4-76<s>), ‘napuMsake BAve</s>
 <s>ktaH’</s> (3-3-114) <s>iti vihitAnAM tantreRa nirdeSaH . ktavatvantena padena</s>,
 <s>‘nizWA’</s> (3-2-102<s>), ‘AdikarmaRi nizWA vaktavyA’ (vA</s>. 3-4-71)
@@ -55153,13 +55153,13 @@ Norgate, London 1861.
 7 8 <s>sadA tadA</s>
 8 13 <s>vevIyaka; vevIyakaH</s>;
 8 22 <s>vebIya; vevIyaH</s>;
-8 24 (4-131) <s>(da</s>. <s>u</s>. 1-59)
+8 24 (4-131) (<s>da</s>. <s>u</s>. 1-59)
 8 27 <s>paSubrAta paSuvrAta</s>
-9 7 1<s>^samajaH</s>, 1A<s>^samAjaH^</s>B, 1<s>^samajaH^</s>B, 1A<s>^samAjaH</s>,
+9 7 <sup>1</sup><s>samajaH</s>, <sup>1A</sup><s>samAjaH</s><sup>B</sup>, <sup>1</sup><s>samajaH</s><sup>B</sup>, <sup>1A</sup><s>samAjaH</s>,
 10 Title <s>aji awa</s>
 11 19 <s>'raRyAni 'raRyAnIM</s>
 11 23 1-39-5 1-39.
-11 24 (<s>vA</s>. 1-1-64) <s>(vA</s>. 6-1-94)
+11 24 (<s>vA</s>. 1-1-64) (<s>vA</s>. 6-1-94)
 11 27 <s>yakiwyaSabdasya yaki wyaSabdasya</s>
 12 7 <s>-tI-tI; ntI-tI</s>;
 12 28 <s>saMGozwi- saMgozwi</s>-
@@ -55167,7 +55167,7 @@ Norgate, London 1861.
 13 5 <s>awwayitvA awwayitvA</s> 2
 14 14 <s>quikA, qqikA</s>,
 14 17 <s>ntI-ntI, ntI-tI</s>,
-14 19 <s>ad^</s>A<s>- ad^</s>C-
+14 19 <s>ad</s><sup>A</sup>- <s>ad</s><sup>C</sup>-
 14 23 <s>KalEH kalEH</s>
 14 24 A C
 15 15 <s>prARate prARane</s>
@@ -55180,17 +55180,17 @@ Norgate, London 1861.
 18 23 <s>prasTitaM praTitaM</s>
 18 28 <s>daSapAdyuRAdivfttO</s> 1-44 <s>daSapAdyuRAdizu</s> (1. 44)
 20 18 <s>‘bA'sarUpo—’ ‘vA'sarUpaH—’</s>
-20 22 (2-4-54) <s>(vA</s>-2. 4. 54)
+20 22 (2-4-54) (<s>vA</s>-2. 4. 54)
 21 Title <s>adi ana</s>
-21 18 <s>he^</s>5<s>prAR; [he]^</s>5<s>prAR</s>,
+21 18 <s>he</s><sup>5</sup><s>prAR</s>; [<s>he</s>] <sup>5</sup><s>prAR</s>,
 21 21 <s>FziH . fziH .</s>
 24 22 <s>uBa-se</s>.) <s>saka</s>. <s>sew</s>. <s>uBa</s>.)
 25 Title <s>aYYU anjU</s>
-25 28 <s>…(</s>6-4-111) <s>…(</s>6-4-111) <s>ityakAralopaH .</s>
+25 28 …(6-4-111) …(6-4-111) <s>ityakAralopaH .</s>
 27 15 <s>anDidayizitvA andiDayizitvA</s>
 28 Title <s>aBi aBra</s>
 28 27 <s>baBradvaDU vaBradvaDU</s>
-29 23 <s>…(</s>6-4-32<s>)</s> (6-4-92)
+29 23 <s>…(</s>6-4-32) (6-4 c-92)
 29 27 <s>JamajJemana JamaYjemana</s>
 34 25 <s>lAYCitANge lacCitANge</s>
 34 27 <s>aTArDyaM aTArDyaM</s>
@@ -55203,19 +55203,19 @@ Norgate, London 1861.
 38 25 <s>‘nandigrahipacAdiByo—’</s> (3-1-134) <s>iti nandyAditvAt nandyAditvAt</s> (3-1-134)
 38 27 <s>svanEH svarEH</s>
 40 28 <s>marcCada macCadan</s>
-41 11 <s>arvaka^A:- ^AarvakaH-</s>-
+41 11 <s>arvaka</s> <sup>A</sup> :- <sup>A</sup> <s>arvakaH-</s>-
 41 15 <s>pUjAjAm pUjAyAm</s>
-42 2 <s>^A arhaRIyam, ^A arhaRIyam</s>,
+42 2 <sup>A</sup><s>arhRIyam</s>, <sup>A</sup> <s>arhaRIyam</s>,
 44 22 <s>NIz . NIz .</s>
 45 26 <s>qIzi NIzi</s>
 45 27 <s>Uw UW</s>
 46 15 <s>iti SnA- iti SnA</s>
-46 17 (6-4-111<s>)</s> (6-4-112)
+46 17 (6-4-111) (6-4-112)
 46 27 (3-54) 9-54
 [Page1451+ 36]
 <NI><s>puwam paNktiH aSudDam SudDam</s>
 46 28 <s>‘upeyivAn-’ ‘upeyivAnanASvAn’</s>
-47 16 <s>^</s>7<s>ASitam ASitam</s>-
+47 16 <sup>7</sup><s>ASitam ASitam</s>-
 47 20 3. <s>iti Snuvika-</s> (3-1-73) <s>iti SnuH vika</s>-
 47 30 <s>prAyuH prApuH</s>
 49 3 184 185
@@ -55228,14 +55228,14 @@ Norgate, London 1861.
 51 19 <s>nirasyamAnaH, nirasyan, nirasyamAnaH</s>,
 51 24 <s>bawuyajYezu vawuyajYezu</s>
 53 26 <s>vazkayatIha bazkayatIha</s>
-56 2 <s>^A duraMhaH, iti rUpARi . iti rUpARi . ^A duraMhaH .</s>
+56 2 <sup>A</sup> <s>duraMhaH, iti rUpARi .</s> <s>iti rUpARi .</s> <sup>A</sup> <s>duraMhaH .</s>
 57 16 <s>AYCicCizitvA AYcicCizitvA</s>
 59 Title <s>Apx Asa</s>
 61 27 <s>‘sArvaMDAtuka… ‘sArvaDAtuka…</s>
 62 2 <s>IzizyayARaH IzizyamARaH</s>
-62 23 (<s>vA</s>. 2-4-45) <s>(vA</s>. 2-4-46)
-62 30 (<s>vA</s>. 2-4-45) <s>(vA</s>. 2-4-46)
-63 26 (<s>vA</s>. 2-4-45) <s>(vA</s>. 2-4-46)
+62 23 (<s>vA</s>. 2-4-45) (<s>vA</s>. 2-4-46)
+62 30 (<s>vA</s>. 2-4-45) (<s>vA</s>. 2-4-46)
+63 26 (<s>vA</s>. 2-4-45) (<s>vA</s>. 2-4-46)
 66 17 (6-4-16) <s>dIrGaH .</s> (6-4-16) <s>iti dIrGaH .</s>
 67 20 <s>iyaYjanaM iyajjanaM</s>
 70 22 <s>‘sampadAditvAt—’ sampadAditvAt</s>,
@@ -55263,14 +55263,14 @@ Norgate, London 1861.
 93 17 <s>okaH, ocicizuH, ocaH, ocicizuH</s>,
 93 23 <s>okaH, ocicizaH, ocaH, ocicizaH</s>;
 95 11 1254 1294
-95 19 (<s>Slo</s>. 56) <s>(Slo</s>. 55-56)
-96 21 (<s>Slo</s>-55) <s>(Slo</s>. 55-56)
-96 22 (6-3-19<s>)</s> (6-4-19)
+95 19 (<s>Slo</s>. 56) (<s>Slo</s>. 55-56)
+96 21 (<s>Slo</s>-55) (<s>Slo</s>. 55-56)
+96 22 (6-3-19) (6-4-19)
 97 1 <s>DAtukAvye . DAtukAvye</s> (1-73) <s>.</s>
 100 21 <s>umBitaH-tam-tavAn, uBitaH-tam-tavAn</s>;
-100 26 (<s>da</s>. <s>u</s>. 1-197) <s>(da</s>. <s>u</s>. 1-97)
+100 26 (<s>da</s>. <s>u</s>. 1-197) (<s>da</s>. <s>u</s>. 1-97)
 102 10 <s>oniBayizA; obiBayizA</s>;
-103 11 <s>ubjaH, samudgaH, ^</s>1<s>nyubjaH, (rogaH) ^</s>1 <s>nyubjaH (rogaH), samudraH, ubjaH</s>,
+103 11 <s>ubjaH, samudgaH,</s> <sup>1</sup><s>nyubjaH, (rogaH)</s> <sup>1</sup><s>nyubjaH (rogaH), samudraH, ubjaH</s>,
 105 30 <s>pUrvita… pUrvita…</s>
 109 5 <s>UH-UnO- U-UnO</s>-
 113 26 <s>snutAstrAH snutAsrAH .</s>
@@ -55278,9 +55278,9 @@ Norgate, London 1861.
 114 22 <s>sakTiH . sakTi .</s>
 114 26 <s>…majUzakatvaM …majUzakastvaM</s>
 115 26 <s>…Dnasva …Drasva</s>
-116 17 (7-1-86<s>)</s> (7-3-86)
-116 27 (7-2-20<s>)</s> (7-2-70)
-117 23 (<s>vA</s>. 4-1-40) <s>(vA</s>. 4-1-49)
+116 17 (7-1-86) (7-3-86)
+116 27 (7-2-20) (7-2-70)
+117 23 (<s>vA</s>. 4-1-40) (<s>vA</s>. 4-1-49)
 118 12 <s>‘tatreyatyFcCa… ‘tatreyatyfcCa…</s>
 118 23 <s>arTakaH arBakaH =</s>
 119 10 <s>“Fca… “fca…</s>
@@ -55291,7 +55291,7 @@ Norgate, London 1861.
 124 21 <s>…kfYBya qaH’ …kfYBya uH’</s>
 124 30 <s>…rDfRimAn …rGfRimAn</s>
 126 20 <s>duftIyaH- durftIyaH</s>-
-128 23 (7-3-56<s>)</s> (7-2-56)
+128 23 (7-3-56) (7-2-56)
 128 28 <s>…kzIyamAnAM …kzIyamARAM</s>
 129 14 <s>dufmPaH, durfmPaH</s>,
 131 3 <s>tudAdiH</s>. <s>saka</s>. <s>tudAdiH</s>-1287. <s>saka</s>.
@@ -55305,10 +55305,10 @@ Norgate, London 1861.
 148 16 <s>Soke syAt Soke yO</s>
 151 31 <s>banAt… vanAt</s>
 155 30 <s>DA</s>. <s>kA</s>. 5. 93. <s>DA</s>. <s>kA</s>. 3. 59.
-158 28 (<s>DAtukAvyavyAKyAne) (DAtukAvyavyAKyAne</s> 2-5.)
+158 28 (<s>DAtukAvyavyAKyAne</s>) (<s>DAtukAvyavyAKyAne</s> 2-5.)
 159 28 <s>stanAt stanAn</s>
 160 23 <s>…pratyaye'pi . …pratyaye'pi dIrGaH .</s>
-163 23 (7-3-4<s>)</s> (7-3-34)
+163 23 (7-3-4) (7-3-34)
 164 32 <s>‘praGiRya…pariGuRya…praGfRya ‘praGiRRya…pariGuRRya…praGfRRya</s>
 167 27 <s>jYeyAni . jYeyAni . ‘katra’ ityasya pAWamedo'yaM</s>
 <s>DAtuH .</s>
@@ -55316,7 +55316,7 @@ Norgate, London 1861.
 171 27 <s>…mavelayad …mabelayad</s>
 171 28 <s>SUrpanaKA… SUrpaRaKA…</s>
 172 5 <s>adantaH . adantaH .</s>)
-173 18 <s>pratizkaSaH, ^</s>6<s>kASaH, ^</s>6<s>pratizkaSaH, kASaH</s>,
+173 18 <s>pratizkaSaH</s>, <sup>6</sup><s>kASaH</s>, <sup>6</sup><s>pratizkaSaH, kASaH</s>,
 173 30 <s>natacita… natacitta…</s>
 175 16 <s>kaste kaMste</s>
 181 30 <s>svavEri… svarvEri…</s>
