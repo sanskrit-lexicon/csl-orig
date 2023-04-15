@@ -944,7 +944,7 @@ minibus: {%id. et%} valde (lat. {%at%} in {%atavus%}, v. gr. comp. 425.)
 probabiliter etiam et, quod ad {#aTa#} quoque referri pos-
 sit; germ. vet. {%anti, unti, inti, unde, indi%} etc., angl. {%and%},
 nostrum {%und%}, insertâ nasali; gr. <lang n="greek">ἔτι, ἀντί</lang>, lat. {%ante%}; lith.
-{%ant%} super, goth. {%and%} partim ad {#ati#} <lang n="greek">ἀντι</lang> partim ad
+{%ant%} super, goth. {%and%} partim ad {#ati#} <lang n="greek">ἀντί</lang> partim ad
 {#aDi#} pertinere videtur, respondet ei in prima sgfc. no-
 strum {%ent-%} et {%ant-%} in {%antworten, entsprechen%} etc.).
 <LEND>
@@ -3656,7 +3656,7 @@ nens.
 <L>662<pc>021-a<k1>avara<k2>avara
 {#avara#}¦ (a praep. {#ava#} s. {#ra#}) 1) inferus, inferior. 2) posticus,
 [Page021-b+ 37]
-posterus, posterior, postremus, ultimus. (gr. <lang n="greek">αὐϱά</lang> - v.
+posterus, posterior, postremus, ultimus. (gr. <lang n="greek">οὐϱά</lang> - v.
 Pott. I. 123. - <lang n="greek">οὖϱος, οὖϱον, ὅϱος</lang> terminus; fortasse <lang n="greek">ὄϱ̓ϱ̔ος</lang> 
 anus per assimilationem ex <lang n="greek">ὀϜϱος</lang>; lat. fortasse {%Eurus%},
 sicut scr. {#avAc#} meridionalis ab {#ava#} descendit, cf.
@@ -4035,8 +4035,8 @@ quod lat. est {%socer%}, gr. <lang n="greek">ἑϰυϱός</lang>).
 <L>732<pc>023-b<k1>aSmanta<k2>aSmanta
 {#aSmanta#}¦ {%m.%} (ab {#aSman#} s. {#ta#}) focus, fornax. AM. (fortasse
 gr. <lang n="greek">ϰάμινος</lang> et lat. {%caminus%}, - haec sunt a <lang n="greek">ϰαίω</lang>, -
-per metathesin ex <lang n="greek">ἄϰμινος</lang> sicut slav. <lang n="greek">ΚΑΜΕΝ</lang> opponi-
-tur lithuanico <lang n="greek">ΑΚΜΕΝ</lang> et scr. {#aSman#}).
+per metathesin ex <lang n="greek">ἄϰμινος</lang> sicut slav. {%ΚΑΜΕΝ%} opponi-
+tur lithuanico {%ΑΚΜΕΝ%} et scr. {#aSman#}).
 <LEND>
 
 <L>733<pc>023-b<k1>aSmasAra<k2>aSmasAra
@@ -5164,7 +5164,7 @@ saepissime etiam actionem significare; conferatur etiam
 tur, porro cum Pottio, qui tamen {%capio%} rejicit, {%coepi%} ex
 {%co-ipi%} et {%câpula%}; gr. <lang n="greek">ἅπτω</lang> et, nisi fallor, <lang n="greek">πϱέπω</lang> quod
 facile ex composito {#prAp#}, correptâ vocali, oriri potuit;
-etiam <lang n="greek">πϱυμνός, πϱυνός</lang>, mutato <lang n="greek">π</lang> in nasalem ejusdem
+etiam <lang n="greek">πϱυμνός, πϱέμνον</lang>, mutato <lang n="greek">π</lang> in nasalem ejusdem
 ordinis (cf. <lang n="greek">σεμνός</lang> pro <lang n="greek">σεβνός</lang>) et formâ et sensu non
 repugnant nostrae radici, quae cum {#sam#} format {#samApta#}
 finitus; germ. vet. {%uoban%}, nostrum {%üben%}, v. supra me-
@@ -7777,7 +7777,7 @@ tendit. HIT. 6. 13.
 
 <L>1358<pc>048-b<k1>udra<k2>udra
 {#udra#}¦ {%m.%} (r. {#und#} s. {#ra#}) lutra (Lith. {%ûdra%}, anglo - sax. {%oter%},
-{%otor%}, angl. {%otter%}, nostrum {%Otter%}; gr. <lang n="greek">ὗδϱος, ὗδϱα</lang>; respi-
+{%otor%}, angl. {%otter%}, nostrum {%Otter%}; gr. <lang n="greek">ὕδϱος, ὕδϱα</lang>; respi-
 ciatur etiam gr. <lang n="greek">ἔνυδϱις</lang>, a vivendo in aqua nominata,
 ratione habitâ, vocem {#udra#} in composito {#samudra#} (mare)
 aquam significare, quam ob rem etiam lith. {%audrá%} acces-
@@ -9004,7 +9004,7 @@ dae conjunctionem cum Mediis. Ad inusitatam, ex tritâ
 lege formatam formam {%caus.%} {#ArayAmi#} pertinere videtur
 lat. {%aro%}, goth. {%arja, id.%}, germ. vet. {%erru%} - per assimil. ex
 {%erju%} - lith. {%arù%}, slav. {%orjû%}, ita ut a movendo solo no-
-minata sint; cf. Graff I. 402. Etiam gr. 'AP, <lang n="greek">ἈΡ, αἴϱω</lang> a mo-
+minata sint; cf. Graff I. 402. Etiam gr. <lang n="greek">ἈΡ, αἴϱω</lang> a mo-
 vendo nominatum et cum scr. {#ar#} cognatum esse vide-
 tur.)
 <div n="pfx">c. {#sam#} {%caus.%} tradere. HIT. 7. 14.: {#tasya vizRuSarmaRo…#}
@@ -11135,7 +11135,7 @@ Indri coelo.
 {#kalya#}¦ (r. {#kal#} s. {#ya#}) 1) praeparatus. 2) sanus. 3) {%n.%} dilu-
 culum, ortus lucis, tempus matutinum {%v. sq.%} (V. {#kalyARa#}
 et cf. gr. <lang n="greek">ϰαλός</lang> 
-<lang n="greek">ϰαλλόσ - ϰαλλίων, ϰάλλιστος, ϰαλλι-, ϰάλλος</lang> - per assimilationem e <lang n="greek">ϰαλϳος</lang> sicut <lang n="greek">ἄλλος</lang> 
+e <lang n="greek">ϰαλλός - ϰαλλίων, ϰάλλιστος, ϰαλλι-, ϰάλλος</lang> - per assimilationem e <lang n="greek">ϰαλϳος</lang> sicut <lang n="greek">ἄλλος</lang> 
 ex <lang n="greek">ἀλϳος</lang>, v. {#anya#}.)
 <LEND>
 
@@ -14744,7 +14744,7 @@ dominari, {%unde%} {#kzit#}, {%q. v., et in dialecto vêdicâ%} {#kzaya#} do-
 minas, {%in composito%} {#urukzaya#} = <lang n="greek">εὐϱυϰϱείων</lang>, {%v. Ros. ad%}
 {%Rigv.%} p. 11.; {%simplici%} {#kzaya#} respondet zend. <lang n="Avestan"> 𐬒𐬱𐬀𐬵𐬌𐬌𐬀</lang> 
 {%csahya%}, gr. comp. 48. (Ad {#kzyAmi#} rego, dominor Ro-
-senius l. c. apte trahit gr. <lang n="greek">ϰϱείων</lang>, ita ut comp. <lang n="greek">εὐϱυϰωίων</lang> 
+senius l. c. apte trahit gr. <lang n="greek">ϰϱείων</lang>, ita ut comp. <lang n="greek">εὐϱυϰϱείων</lang> 
 utraque compositi parte cum {#urukzaya#} conveniat; {#z#}
 enim antecedente {#k#} saepius in {%r%} transiit, v. {#kzapas#}.)
 <LEND>
@@ -17854,7 +17854,7 @@ s. {#a#}, sic etiam Lass.; cf. {#kurara#}) perdix rufa. Lass. 52. 20.
 jecto {#m#}; secundum {%v.%} a r. {#kf#}) 1) rota. A. 9. 8. 2) or-
 bis, circulus. Lass. 63. 8. 3) discus, telum missile circu-
 lare. IN. 1. 5. 4) regio, provincia. 5) exercitus. (Ut vi-
-detur, gr. <lang n="greek">ϰύϰλος</lang> pro <lang n="greek">ϰύϰϱος</lang>, attenuato <lang n="greek">α</lang> in {%v.%})
+detur, gr. <lang n="greek">ϰύϰλος</lang> pro <lang n="greek">ϰύϰϱος</lang>, attenuato <lang n="greek">α</lang> in <lang n="greek">υ</lang>.)
 <LEND>
 
 <L>3035<pc>116-2b<k1>cakraDara<k2>cakraDara
@@ -18050,7 +18050,7 @@ domibus inclusus. AM., v. {#catvara#}.
 <L>3066<pc>118-a<k1>catur<k2>catur<h>1
 1. {#catur#}¦ (in casibus fortibus {#catvAr#}, unde {#catur#} ejecto
 {#A#}; {%fem.%} {#catasf#}, gr. 255.) quatuor. (Cum nom.
-masc. {#catvAras#} conferatur gr. <lang n="greek">πέσσαϱες, τέτταϱες</lang>,
+masc. {#catvAras#} conferatur gr. <lang n="greek">τέσσαϱες, τέτταϱες</lang>,
 per assimilationem e <lang n="greek">τέτϜαϱες</lang>, sicut prâcr. {#cattAro#} e
 {#catvAro#}; aeol. <lang n="greek">πίσυϱες</lang>, mutatâ gutturali in labialem,
 quâ in re cum goth. {%fidvôr%} et cambo-brit. {%pedwar%} masc.,
@@ -18073,7 +18073,7 @@ RAGH. 8. 94.
 <L>3069<pc>118-a<k1>caturTa<k2>caturTa
 {#caturTa#}¦ (a {#catur#} s. {#Ta#} pro {#Tama#} vel {#tama#}, v. gr. comp. 321.)
 quartus. (Lith. {%ketwirtas%}, slav. <lang n="Slavonic">ЧЕТВЕϱТЫЙ</lang> {%ćetver-%}
-{%tyĭ%}, fem. <lang n="Slavonic">ЧЕТВЕϱТaΪѦ</lang> {%ćetverta-ja%}, gr. <lang n="greek">τέτ(Ϝ)αϱτος</lang>,
+{%tyĭ%}, fem. <lang n="Slavonic">ЧЕТВЕϱТaѦ</lang> {%ćetverta-ja%}, gr. <lang n="greek">τέτ(Ϝ)αϱτος</lang>,
 lat. {%qua(tu)rtus%}, goth. {%fidvârda%}, nisi {%fidurda%}, nostrum
 {%vierter.%})
 <LEND>
@@ -20700,7 +20700,7 @@ ita ut genitorem significet, separari possit in {%ge-ner%} =
 {#jAnara#} uxoris (i. e. filiae) vir, correpto {#A#} in {%ĕ%}; etiam
 gr. <lang n="greek">γά-μβϱος</lang> ad {#jAnara#} reduxerim, mutatâ dentali na-
 sali in labialem, quam ab rem <lang n="greek">δ</lang> euphonicum, quod in
-<lang n="greek">ἀνδϱίς</lang> etc. videmus, transierit in <lang n="greek">μ</lang>; cf. <lang n="greek">μεσημβϱία</lang>.)
+<lang n="greek">ἀνδϱός</lang> etc. videmus, transierit in <lang n="greek">μ</lang>; cf. <lang n="greek">μεσημβϱία</lang>.)
 <LEND>
 
 <L>3446<pc>138-a<k1>jAmi<k2>jAmi
@@ -21877,8 +21877,8 @@ mae personae; e. c. {#sA 'haN kamalagarBABam apaSya-#}
 {#gatamAnasA#}, {%nam%} {#tat#} {%h. l., ut recte observat Lassenius%},
 {%nil aliud valet, quam%} {#Bartf#}; v. {#tatpara#}. (Lith. {%tas%} hic,
 {%tá%} haec; goth. {%THA%} (Them. articuli masc. et neut.),
-Nom. masc. {%sa%} = {#sa#}, fem. {%sô%} = {#sA#}; gr. TO, TĀ, <lang n="greek">ΤΟ, ΤᾹ, ὁ, ̔ᾱ, τό</lang>;
-<lang n="greek">ΤΟ, ΤᾹ</lang>, slav. {%TO, TA%}, nom. {%t'%} hic, {%ta%} haec, {%to%} hoc; lat.
+Nom. masc. {%sa%} = {#sa#}, fem. {%sô%} = {#sA#}; gr. <lang n="greek">ΤΟ, ΤĀ, ὁ, ̔ᾱ, τό</lang>;
+slav. {%TO, TA%}, nom. {%t'%} hic, {%ta%} haec, {%to%} hoc; lat.
 {%is-te, is-ta, is-tud, tam, tum, tunc.%} Hib. {%so%} hic = {#sa#}.
 {%Sé%} is, er; {%si%} ea, sie, et {%ti%} is, is qui ad {#sya, tya#} pertinere
 videntur; v. {#tyat#} et gramm. comp. §§. 343. sq. 353. sq.)
@@ -23019,7 +23019,7 @@ occidere; {%cf.%} {#Turv, durv, Durv, jUMrv#}.
 sublevatus. RAGH. 4. 80.: {#pOlastyatulitasyA 'dreH#}; 12.
 89.: {#tulitakElASa#}. (Cf. {#dul#}, lat. {%tollo, tuli%}; gr.
 [Page155-b+ 36]
-<lang n="greek">πλάω, τελάμων, τάλαντον</lang> (v. {#tulA#}); goth. {%thula%} to-
+<lang n="greek">τλάω, τελάμων, τάλαντον</lang> (v. {#tulA#}); goth. {%thula%} to-
 lero; nostrum {%dulde%}; lith. {%turrù%} habeo, {%ap-turru%} adipi-
 scor.)
 <div n="pfx">c. {#A#} {%id.%} RAM I. 48. 42.: {#na Sekur Atolayitum#}.
@@ -23226,7 +23226,7 @@ SA. 7. 2.: {#nA 'tfpyan kaTayantaH punaH punaH#}; IN. 2. 26.:
 27.: {#atarpayat sudevaYca gosahasreRa#}; MAH. 1. 6803.: {#tan#}
 {#Danena tarpayAmAsa#}; IN. 1. 21.: {#pitFn yaTAnyAyan tarpa-#}
 {#yitvA#}; MAH. 1. 8126.: {#AjyaDArABis tarpayase'na-#}
-{#lam#}. (Cf. {#tfmp, tfP, tfmP#}; gr. <lang n="greek">πέϱπω, πϱέϕω</lang>; bo-
+{#lam#}. (Cf. {#tfmp, tfP, tfmP#}; gr. <lang n="greek">τέϱπω, τϱέϕω</lang>; bo-
 russ. vet. {%en-terpo%} prodest; lith. {%tarpstu%} incrementa capio,
 augesco, praet. {%tarpau; tarpà%} incrementum; huc etiam
 [Page157-a+ 36]
@@ -23313,7 +23313,7 @@ here. MAH. 1. 5853.: {#tArayAmAsa…gaNgAn nAvA nararza-#}
 {#yizyati vaH sarvAn#}. (Vera radicis forma est {#tar#}; cf.
 lat. {%ter-minus%}, v. gr. comp. 478., {%trans, in-trare, pene-%}
 {%trare, tero, ter-e-bra%}; gr. 
-<lang n="greek">τέϱ-μα, τέϱ-ϑϱον, τεϱέω, τέϱ-ε-ϱον, τοϱεύω, τιτϱάω, τιτϱαίνω, τιτϱώσϰω; τέϱασ</lang>,
+<lang n="greek">τέϱ-μα, τέϱ-ϑϱον, τεϱέω, τέϱ-ε-τϱον, τοϱεύω, τιτϱάω, τιτϱαίνω, τιτϱώσϰω; τέϱασ</lang>,
 quod naturam transgreditur, cf. {#adButa#}; <lang n="greek">τηϱέω</lang> =
 {#tArayAmi#}; goth. {%thair-kô%} foramen, {%thair-h%} per, v. {#ti-#}
 {#ras#}; lith. {%triniù%} tero; slav. {%trû%} id.; hib. {%tar, tair, tri%}, v.
@@ -23618,7 +23618,7 @@ RAGH. 15. 3. 2) lorica. A. 6. 14. (cf. {#tanutrARa#}); {#Sira-#}
 <L>3886<pc>160-a<k1>tri<k2>tri
 {#tri#}¦ ({%N. m.%} {#trayas#}, {%f.%} {#tisras#} pro {#tisaras#} a stirpe {#tisf#}, {%n.%}
 {#trIRi#}) tres. (Gr. lat. lith. slav. hib. {%TRI%}, nom. m. f.:
-gr. <lang n="greek">τϱῖες</lang>, lat. {%tres%}, lith. {%trys%}, hib. {%tri%}, slav. masc. <lang n="Slavonic">ТϱΪЕ</lang> 
+gr. <lang n="greek">τϱεῖς</lang>, lat. {%tres%}, lith. {%trys%}, hib. {%tri%}, slav. masc. <lang n="Slavonic">ТϱΪЕ</lang> 
 fem. <lang n="Slavonic">ТϱИ</lang> {%tri%}; goth. {%THRI%}, nom. m. f. {%threis.%} Ad fem.
 {#tisras#} referuntur hib. vet. {%teora%}, cambro-brit. fem.
 {%tair%}, armor. {%teir%}; v. Pictet p. 145., gr. comp. §. 310.)
@@ -25192,7 +25192,7 @@ ractere 1^mae classis, sicut saepe in linguâ zend. (gr. comp.
 <LEND>
 
 <L>4121<pc>171-b<k1>du<k2>du<h>2
-2. {#du#}¦ 1. {%P.%} ({#gatO#}) ire. (Cf. {#danv, dru#}; gr. <lang n="greek">ύω, δονέω</lang>; v.
+2. {#du#}¦ 1. {%P.%} ({#gatO#}) ire. (Cf. {#danv, dru#}; gr. <lang n="greek">δύω, δονέω</lang>; v.
 {#danv#}.)
 <LEND>
 
@@ -26259,7 +26259,7 @@ lem regulam, v. gr. comp. 82.; lith. {%durrys fem. pl.%} fores
 valvatae, {%wartai m. pl.%} porta cohortalis; hib. {%dor, doras%}
 «a door, gate, boundary»; gr. <lang n="greek">ϑύϱα</lang>; lat. {%foris%}, cujus {%f%}
 respondet gr. <lang n="greek">ϑ</lang> fortasse etiam <lang n="greek">πύλη</lang> et {%porta%} huc per-
-tinent, abjecto {%d%}, mutato <lang n="greek">υ</lang> in {%p%} sicut e. c. in zend.
+tinent, abjecto {%d%}, mutato {%v%} in {%p%} sicut e. c. in zend.
 <lang n="Avestan"> 𐬀𐬯𐬞𐬀</lang> {%as'pa%} equus = {#aSva#}, gr. <lang n="greek">ἵππος</lang>.
 <LEND>
 
@@ -27947,7 +27947,7 @@ lat. {%NEC, nex%}; ratione habitâ, sanscritum {#S#} ortum esse e
 {%k; necare%} et {%nocere%} conveniunt cum {%Caus.%} {#nASayAmi#}, v.
 gr. comp. 109^{%a%}). 6.; {%vinco%} trahi posset ad {#naS#} praef. {#vi#},
 ejectâ radicis vocali; sic {%vincio%} retulerim ad {#nah#} praef.
-{#vi#}; gr. <lang n="greek">νέϰύς, νεϰϱός</lang>; fortasse <lang n="greek">νόσος</lang>, mutato <lang n="greek">ϰ</lang> in <lang n="greek">σ</lang> 
+{#vi#}; gr. <lang n="greek">νέϰυς, νεϰϱός</lang>; fortasse <lang n="greek">νόσος</lang>, mutato <lang n="greek">ϰ</lang> in <lang n="greek">σ</lang> 
 fortasse <lang n="greek">νῑϰάω</lang> = {#nASayAmi#}; attenuato {%â%} in {%î%}; hib. {%nas%}
 «death»; goth. {%nau-s%} mortuus, gen. {%navi-s%}, Them. {%navi%}
 e {%nahvi%}, ejecto {%h%}, sicut nostrum {%wer%} = goth. {%hva-s%} e {%has%}
@@ -28109,7 +28109,7 @@ quae invenitur in fine pron. compp. {#ana, ena#}, producto
 3) moschus. (Germ. vet. {%naba f.%} modiolus rotae, {%nabalo%}
 {%m.%} umbilicus; gr. <lang n="greek">ὀμϕαλός</lang> litteris transpositis e <lang n="greek">νοϕαλος</lang>,
 mutato <lang n="greek">ν</lang> in <lang n="greek">μ</lang> propter sequentem labialem, nisi ex <lang n="greek">ο-ναϕαλος</lang>,
-ejecto <lang n="greek">α</lang>, praefixo <lang n="greek">ο</lang>, sicut in <lang n="greek">ὄνυξ, ὀϕϱς, ὀδούς, ὄνομα</lang>;
+ejecto <lang n="greek">α</lang>, praefixo <lang n="greek">ο</lang>, sicut in <lang n="greek">ὄνυξ, ὀϕϱύς, ὀδούς, ὄνομα</lang>;
 ita lat. {%umbilicus%} e {%nubilicus%} vel {%u-nabilicus%}, sicut
 {%unguis%} ex {%u-naguis%}, v. {#naKa#}.)
 <LEND>
@@ -30218,7 +30218,7 @@ Schl. II. 25. 26.: {#samiDaSco 'pasampAdayAmAsa#}.
 <LEND>
 
 <L>4874<pc>208-b<k1>pad<k2>pad<h>4
-4. {#pad#}¦ {%m.%} (r. {#pad#} ire) pes. SA. 3. 3. N. 13. 12. (Gr. <lang n="greek">πούς</lang>,
+4. {#pad#}¦ {%m.%} (r. {#pad#} ire) pes. SA. 3. 3. N. 13. 12. (Gr. <lang n="greek">ΠΟΔ, πούς</lang>,
 lat. {%PED, pes%}; v. {#pada, pAda#}.)
 <LEND>
 
@@ -30358,7 +30358,7 @@ huc etiam cum Pottio, II. 230., traxerim {%par%} aequalis,
 quasi alter; germ. vet. {%fer%} procul (v. {#pAra#} et {#pAradeSya#});
 angl. {%far%}; goth. {%fairra%} id., fortasse per assimil. e {%fairna%}
 quod ab Adv. {#param#} deduci posset, mutato {%m%} in {%n%}, adjecto
-{%a%} sicut in acc. pronom. (ut {%thana%} = {#tam#}, <lang n="greek">τοῦ</lang>); {%fairnjis%},
+{%a%} sicut in acc. pronom. (ut {%thana%} = {#tam#}, <lang n="greek">τόν</lang>); {%fairnjis%},
 Them. {%fairnja%} vetus; nostrum {%fern%}; germ. vet. {%furiro%}
 prior, {%furist%} primus; lat. {%prior%} ejectâ vocali mediâ; {%pri-%}
 [Page209-b+ 37]
@@ -31154,7 +31154,7 @@ gr. min. 295.; {%gerund.%} {#pItvA#}; {%Pass.%} {#pIye#}; {%part.%} {#pI-#}
 {#pItarasaSca kumBaH#}; HIT. 6. 8.: {#ayam agadaH kin na#}
 {#pIyate#}. -- {%Caus.%} {#pAyayAmi#} pro {#pApayAmi#} (gr. 519.)
 bibere dare, potionem dare. MAH. 1. 192.: {#hayAn pAya-#}
-{#yitvA#}. (Gr. <lang n="greek">ΡΩ, πέπωϰα, πῶϑι, ἐπόϑην</lang>; attenuato
+{#yitvA#}. (Gr. <lang n="greek">ΠΩ, πέπωϰα, πῶϑι, ἐπόϑην</lang>; attenuato
 {#A#} in <lang n="greek">ῑ: πίνω, πῖϑι</lang>, cf. {#pIta, pIye#} et v. {#pI#}; lat. {%PŌ%},
 {%pô-tum%} = {#pAtum#}, {%pô-turus%} = {#pAtf#}, {%po-culum, bibo%}
 = {#pivAmi#}; lith. {%pẽnas%} lac, v. {#pAna#}; boruss. vet. {%pou-%}
@@ -34204,8 +34204,8 @@ germ. vet. {%friunt%} amicus, {%fri-du%} m. {%fri-da%} f. pax, {%friu-%}
 amicus, russ. {%prijatelj%} ad comparat. {#priyatara#} traxerim,
 mutato {%r%} in {%l; frao, fraw, frô%} laetus; {%frawî%} laetitia; unde
 denomin. {%frawôn, frôôn%} laetari, {%frawjan%} exhilarare; gr.
-<lang n="greek">ϕίλος, ϕιλέω</lang>, ut videtur, litteris transpositis <lang n="greek">ΦΙΑ</lang> e
-<lang n="greek">ΦΛΑ</lang> cum <lang n="greek">λ</lang> pro <lang n="greek">ϱ; πϱαΰς, πϱᾶος</lang>; fortasse lat. {%pla-ceo%},
+<lang n="greek">ϕίλος, ϕιλέω</lang>, ut videtur, litteris transpositis <lang n="greek">ΦΙΛ</lang> e
+<lang n="greek">ΦΛΙ</lang> cum <lang n="greek">λ</lang> pro <lang n="greek">ϱ; πϱαΰς, πϱᾶος</lang>; fortasse lat. {%pla-ceo%},
 {%pla-co%} nituntur formâ gunatâ {#pre#} = {%prai%}, abjecto {%i%}; for-
 tasse {%pius%} e {%prius%} = {#priya#}; {%lae-tus%} e {%plae-tus%} explicari
 potest, sicut {%latus%} e {%platus%}, v. {#pfTu#}; fortasse {%filius%}, nisi
@@ -34635,7 +34635,7 @@ suff. {%man%} = {#mAna#}, gr. <lang n="greek">μενος</lang>, part. praes. me
 <L>5643<pc>236-1a<k1>baMh<k2>baMh
 {#baMh#}¦ vel {#vaMh#} 1. {%A.%} ({#vfdDO#} {%K.%}; scribitur {#bah, vah#}, gr. 110^{%a%}).)
 crescere. (Cf. {#vfh#}, quod e {#vfD#}, ita {#baMh, vaMh#} e
-{#banD, vanD#} cum {#n#} pro {#r#}; v. {#bahu#} = <lang n="greek">βαϑίς</lang> et cf.
+{#banD, vanD#} cum {#n#} pro {#r#}; v. {#bahu#} = <lang n="greek">βαϑύς</lang> et cf.
 <lang n="greek">βένϑος, βάϑος</lang>.
 <LEND>
 
@@ -35328,7 +35328,7 @@ king, speech, talk; noise of talk, tumult», {%bruidhneach%}
 «talkative, loquacious»; cambro-brit. {%brud%} «a chronicle,
 a report of events, also a prophecy», {%brudiwr%} «a chro-
 nicler, a divulger of events, a prophet»; huc trahimus
-etiam gr. <lang n="greek">ΡΈΩ, ϱ̔ῆμα, ϱ̔ήτωέ</lang>, abjectâ litterâ initiali si-
+etiam gr. <lang n="greek">ΡΈΩ, ϱ̔ῆμα, ϱ̔ήτωϱ</lang>, abjectâ litterâ initiali si-
 cut <lang n="greek">ϱ̔έω</lang> fluo e <lang n="greek">σϱέω, σϱέϜω</lang> = {#sravAmi#}; fortasse etiam
 huc pertinet germ. vet. {%SPRAH%} loqui = {#brav#} <lang n="greek">τοῦ</lang> {#bra-#}
 {#vImi#}, mutato {%v%} in gutturalem, v. gr. comp. 19., prae-
@@ -35373,7 +35373,7 @@ bus. HIT. 50. 20. -- {%Desid.%} {#biBakzayizAmi#} (gr. 554.).
 H. 2. 27.: {#BrAtrA…biBakzayizatA mAMsaM yuzmAkam#}.
 (Cf. {#Balakz, plakz, Buj#}.{# -- Bakz#} ortum esse videtur e
 {#Baj#} - primitive {#Bag#} - unde {#Buj#} attenuato {#a#} in {#u#}; cf.
-gr. <lang n="greek">ϕαγον; ϕάσηλος</lang> et <lang n="greek">ΦΑΓ, ἔϕαϰός</lang> nituntur formâ
+gr. <lang n="greek">ΦΑΓ, ἔϕαγον; ϕάσηλος</lang> et <lang n="greek">ϕαϰός</lang> nituntur formâ
 {#Bakz#}, abjectâ gutturali vel sibilante; ita goth. {%basi%} n.
 [Page241-1b+ 18]
 bacca (nostrum {%Beere%}) them. {%basja%} = {#Bakzya#} q. v.; lat.
@@ -36149,7 +36149,7 @@ e {#BojayAmi#} convenit goth. {%baugja, us-baugja%} verro,
 nostrum {%beuge%}, v. gr. comp. 109^{%a%}). 6. Hib. {%bogaim%} «I
 move, put in motion, wag, shake, toss, stir», {%bogha%}
 «bow», {%boghaighim%} «I bend, arch, camerate», {%boghadoir%}
-«archer»; fortasse gr. <lang n="greek">ΦΥΤ, ϕεύγω</lang>, lat. {%FUG, fugio%}
+«archer»; fortasse gr. <lang n="greek">ΦΥΓ, ϕεύγω</lang>, lat. {%FUG, fugio%}
 a vertendo dicta; fortasse <lang n="greek">πυγών</lang> e <lang n="greek">ϕυγών</lang>.
 <div n="pfx">c. {#ava#} {%i. q. simpl.%} {#avaBugna#} inflexus. H. 1. 19.
 <LEND>
@@ -37391,7 +37391,7 @@ cum formâ Praet.; {%ga-munan%} meminisse, v. {#mati#}; lat.
 {#yAmi#}, prâcr. {#mARemi#}, ita germ. vet. {%manôm, manêm%},
 v. gr. comp. 109^{%a%}). 6.; fortasse {%mando%} adjecto {%d%} sicut in
 goth. {%hunds%} canis = {#Sun#}, v. {#Svan#}, <lang n="greek">ΚΥΝ</lang> v. {#jYA#} praef.
-{#A#} in formâ caus.; gr. <lang n="greek">μῆνος</lang> = {#manas#}; <lang n="greek">μῆτις</lang> = {#mati#},
+{#A#} in formâ caus.; gr. <lang n="greek">μένος</lang> = {#manas#}; <lang n="greek">μῆτις</lang> = {#mati#},
 cf. {#mata#} pro {#manta#}; fortasse <lang n="greek">μέλλω</lang> e <lang n="greek">μένϳω</lang> sicut <lang n="greek">ἄλλος</lang> 
 = {#anya#}, <lang n="greek">μαίνομαι, μῆνις</lang>, v. {#manyu#}, <lang n="greek">μάντις</lang>; lith.
 {%menû%} recordor, {%pri-manùs%} prudens, intelligens; russ.
@@ -39125,7 +39125,7 @@ origo. BR. 1. 40.
 
 <L>6322<pc>269-a<k1>mUza<k2>mUza
 {#mUza#}¦ {%m.%} (r. {#mUz#} s. {#a#}) mus. (Lat. {%mûs, mûr-is%} e {%mûs-is%}; gr.
-<lang n="greek">μῶς, μυ-ός</lang> e <lang n="greek">μυσ-ός</lang>; germ. vet. {%mûs%}, Them. {%mûsi%}; russ.
+<lang n="greek">μῦς, μυ-ός</lang> e <lang n="greek">μυσ-ός</lang>; germ. vet. {%mûs%}, Them. {%mûsi%}; russ.
 {%mys'j.%})
 <LEND>
 
@@ -39555,7 +39555,7 @@ set a r. {#mih#} in Des. {#mimikz#}, cf. {#meQra, meha#}) hircus. AM.
 
 <L>6382<pc>272-b<k1>meha<k2>meha
 {#meha#}¦ {%m.%} (r. {#mih#} s. {#a#}) 1) urina. 2) hircus. (Cf. {#meQra, meza#},
-gr. <lang n="greek">οιχός</lang>, v. {#mih#}.)
+gr. <lang n="greek">μοιχός</lang>, v. {#mih#}.)
 <LEND>
 
 <L>6383<pc>272-b<k1>mEtra<k2>mEtra
@@ -39652,7 +39652,7 @@ nostrum {%Maul.%})
 <L>6400<pc>273-a<k1>mnA<k2>mnA
 {#mnA#}¦ 1. {%P.%} (in tempp. special. {#man#}, quod vera radix est,
 unde litteris transpositis et productâ vocali {#mnA#}, sicut
-e. c. graece dicitur <lang n="greek">βΕβλη-ϰα</lang> a <lang n="greek">ΒΑΛ, πέπτώ-ϰα</lang> a
+e. c. graece dicitur <lang n="greek">βέβλη-ϰα</lang> a <lang n="greek">ΒΑΛ, πέπτω-ϰα</lang> a
 <lang n="greek">ΠΕΤ</lang>) memorare, enunciare, laudare, celebrare. RIGV.
 24. 1.: {#kasya nUnaN katamasyA 'mftAnAm manAmahe#}
 {#cAru devasya nAma#}; 26. 8. (V. {#man#} et cf. gr. <lang n="greek">μιμνήσϰω</lang>,
@@ -39679,7 +39679,7 @@ fut. <lang n="greek">μνήσω</lang> = {#mnAsyAmi#}.)
 <LEND>
 
 <L>6405<pc>273-a<k1>mradIyas<k2>mradIyas
-{#mradIyas#}¦ {%Compar.%} <lang n="greek">τοῦ</lang> {#mfdu#}, gr. 251. (Gr. <lang n="greek">βϱαδίωβ</lang>, v.
+{#mradIyas#}¦ {%Compar.%} <lang n="greek">τοῦ</lang> {#mfdu#}, gr. 251. (Gr. <lang n="greek">βϱαδίων</lang>, v.
 {#mfdu#}.)
 <LEND>
 
@@ -40243,7 +40243,7 @@ BHATT. 6. 69.: {#nA "yasyasi tapasyantI#}; R. Schl. II. 20.
 ut eat, abeat, removere. RAGH. 9. 27.: {#madayApitalajjA#}.
 (Gr. <lang n="greek">ἵημι</lang>, ut mihi videtur forma redupl. pro <lang n="greek">ϳι(ϳ)ημι</lang>,
 cum spir. asp. pro {#y#}, sicut in <lang n="greek">ἅζω, ἧπαϱ, ὅς</lang> etc. v.
-{#yaj, yakft, yat#}; sensu caus. <lang n="greek">ἵημι</lang> convenit cum <lang n="greek">ἵστνμι</lang> 
+{#yaj, yakft, yat#}; sensu caus. <lang n="greek">ἵημι</lang> convenit cum <lang n="greek">ἵστημι</lang> 
 pro <lang n="greek">σίστημι</lang>; fut. <lang n="greek">ἥ-σω</lang> = {#yAsyAmi#}; Pottius apte
 <lang n="greek">ἰάπτω</lang> refert ad Caus. {#yApayAmi#}, ita lat. {%jâcio%}, mutatâ
 lab. in gutturalem; lith. {%jóju%} equo vehor, fut. {%jó-su%} =
@@ -41910,7 +41910,7 @@ pere, appetere. MAN. 2. 243.: {#yadi tv AtyantikaM#}
 36. 3.: {#gamanaM rocayAmAsa#}; MAH. 1. 5741.: {#nahi pApam#}
 {#apApAtmA rocayizyati#}. (Cf. {#loc, lok#}, lat. {%LUC%},
 {%luc-s; lûceo%} = Caus. {#rocayAmi#} - v. gr. comp. 109^{%a%}). 6. 
-gr. <lang n="greek">λευ-ϰος, λύχ-νος</lang>, goth. {%liuh-ath%} lumen, ubi {%iu%} re-
+gr. <lang n="greek">λευ-ϰός, λύχ-νος</lang>, goth. {%liuh-ath%} lumen, ubi {%iu%} re-
 spondet sancrito {#o = a + u#}, debilitato {%gunae%} in-
 cremento {%a%} in {%u%} - v. gr. comp. 27. - germ. vet. {%liuh-tjan%}
 lucere, nostrum {%leuch-ten%}; slav. <lang n="Slavonic">ΛОУЧа</lang> {%lûća%} radius,
@@ -41959,7 +41959,7 @@ frango, praet. {%láuźiau%} = Caus. vel. 10. cl. {#rojayAmi#}, mu-
 tato {%r%} in {%l%}, {%j%} i. e. {%g%} in {%ź%} v. p. 99. not.; germ. vet. {%LUCH%}
 vellere, {%ar-liuhhan%} evellere, v. Graff. II. 137.; lat. {%lûgeo%}
 = Caus. vel. cl. 10. {#rojayAmi#} (gr. comp. §. 109^{%a%}). 6.);
-gr. <lang n="greek">λυγϱός, ο-ΡΥΤ, ὀ-ϱύσσω, ὄϱυγμα, ὀ-ϱυϰτή, ὀϱυχή</lang>,
+gr. <lang n="greek">λυγϱός, ο-ΡΥΓ, ὀ-ϱύσσω, ὄ-ϱυγμα, ὀ-ϱυϰτή, ὀϱυχή</lang>,
 praefixâ vocali, sicut in <lang n="greek">ὄνομα, ὀϕϱύς, ἐ-λαχύς</lang> etc.)
 <div n="pfx">c. {#ava#} {%i. q. simpl.%} HID. 1. 12.: {#avarujya…gulmAn#}.
 <div n="pfx">c. {#A#} {%A. id.%} MAH. 2. 2113.: {#vizARaN gOr iva madAt#}
@@ -42938,7 +42938,7 @@ aqua) mare salsum. M. 40.
 
 <L>6839<pc>299-b<k1>laz<k2>laz<h>1
 1. {#laz#}¦ 1. et 4. {%P. A.%} desiderare, optare, appetere. (Cf.
-{#las, lAlasa#}, gr. <lang n="greek">λῶ, λῆμα, λωΐων, λωΐτεϱος, λώΐστος, λιλαίομαι</lang>,
+{#las, lAlasa#}, gr. <lang n="greek">λῶ, λῆμα, λωΐων, λωΐτεϱος, λώϊστος, λιλαίομαι</lang>,
 v. Pott. I. 271.)
 <div n="pfx">c. {#aBi#} {%id.%} MAH. 1. 6580.: {#kA…kanyA nA 'Bilazen#}
 {#nATam BartAram#}; IN. 5. 35.: {#cirABilazito vIra mamA#}
@@ -44288,7 +44288,7 @@ corpore. IN. 5. 45. SU. 4. 11.
 <L>7027<pc>310-a<k1>varizWa<k2>varizWa
 {#varizWa#}¦ ({%Superl.%} <lang n="greek">τοῦ</lang> {#uru#} q. v.) latissimus, maximus; optimus,
 excellentissimus. DR. 2. 8. (Cf. {#vara#}, lith. {%wyrausas%} no-
-bilissimus, illustrissimus; natu maximus; gr. <lang n="greek">ἄϱισος</lang>.
+bilissimus, illustrissimus; natu maximus; gr. <lang n="greek">ἄϱιστος</lang>.
 <LEND>
 
 <L>7028<pc>310-a<k1>varIyas<k2>varIyas
@@ -44594,7 +44594,7 @@ lodge», {%fosra%} «a dwelling, abode»; {%arasaim%} habito =
 [Page312-a+ 37]
 {#AvasAmi#}, {%aras%} «a dwelling-house» v. {#AvAsa#}; for-
 tasse {%fuirighim%} «I stay, wait, tarry, delay» = {#vasayAmi#},
-v. 2. {#vas#}; gr. <lang n="greek">ἄσ-τν, Ϝάσ-τν, ἑσ-τία, Ἑστία</lang>, lat.
+v. 2. {#vas#}; gr. <lang n="greek">ἄσ-τυ, Ϝάσ-τυ, ἑσ-τία, Ἑστία</lang>, lat.
 {%Ves-ta, vesti-bulum, ver-na, Lases, Lares%}, cum {%l%} pro {%v%};
 fortasse etiam {%vâs, vâsum%} huc pertinent; v. Pott. I. 279.
 Ag. Benary {%Römische Lautlehre%} p. 49.)
@@ -45740,7 +45740,7 @@ facere, nuntiare, indicare. MAN. 8. 176.: {#yaH sADayantaY#}
 {#vedayeta kiYcid rAjani#}. 2) {%A.%} {#vedaye#} percipio, sentio
 (facio ut sciam). MAN. 12. 13.: {#yena vedayate sarvaM su-#}
 {#Kan duHKaYca#}; R. Schl. II. 64. 67.: {#vedaye naca saMyuktAn#}
-{#SabdasparSarasAn aham#}. (Lat. {%video%}, gr. <lang n="greek">ἸΔ, εἶδον, εἶδομαι; οἶδα</lang> 
+{#SabdasparSarasAn aham#}. (Lat. {%video%}, gr. <lang n="greek">ἸΔ, εἶδον, εἴδομαι; οἶδα</lang> 
 = {#veda#} scio; boruss. vet. {%waidimai%} sci-
 mus, {%waiditi%} scitis, scite, {%widdai%} vidit; lith. {%wéizdmi%} vi-
 deo = {#vedmi#}; {%wéida-s%} facies; slav. {%vjemj%} scio (pro
@@ -47627,7 +47627,7 @@ rest, a park» fortasse {%for-bair%} «grow thou, increase»,
 {%for-bairt%} «increase, profit, emolument» = {#vfD#} praef.
 {#pra#}; slav. {%rastû%} cresco e {%vradtû%}, nisi pertinet ad {#fD#} i. e.
 {#arD#}; russ. {%vroschdaju%} ingenero, ingigno = Caus. {#varDa-#}
-{#yAmi#}; gr. <lang n="greek">βλασ-τός, βλάσ-τημ βλασ-τάνω</lang> 
+{#yAmi#}; gr. <lang n="greek">βλασ-τός, βλάσ-τη, βλασ-τάνω</lang> 
 <lang n="greek">βλαϑ-τός</lang> vel <lang n="greek">βλαδ-τός</lang> etc.; etiam <lang n="greek">ϱ̔ίζα</lang> propter aeol. <lang n="greek">βϱίζα</lang> 
 nunc potius huc quam ad {#fD#} traxerim (v. Benfey I. 78.
 79.). Huc etiam trahi posset lat. {%grandis%}, insertâ nasali,
@@ -50749,13 +50749,13 @@ Schl. I. 13. 39.: {#patatriRas tasya vapAm udDftya…Sra-#}
 {#SrE#} et cf. {#SrI#}, 1. {#cur#}, slav. <lang n="Slavonic">ЗϱѢТИ</lang> {%rje-ti%} maturescere,
 fortasse gr. <lang n="greek">ἄϱ-τος</lang> e <lang n="greek">ϰάϱ-τος</lang> per metath. e <lang n="greek">ϰϱά-τος</lang> 
 = part. pass. Vêd. {#SrAta#}; <lang n="greek">ϰάγχϱυς</lang> forma redupl. pro
-<lang n="greek">ϰάϱχϱς</lang> (v. gr. 570.); goth. {%hauri%} pruna; fortasse lat.
+<lang n="greek">ϰάϱχϱυς</lang> (v. gr. 570.); goth. {%hauri%} pruna; fortasse lat.
 {%cul-ina%}, mutato {%r%} in {%l.%} Ad formam Caus. {#SrapayAmi#} trahi
 possunt hib. {%cramhaim%} «I concoct, digest», {%mh = v%}
 pro p, v. Pictet p. 60. et 69.; lat. {%cremare, carbo%}, gr.
 <lang n="greek">ϰϱίβανος, ϰϱιβάνη, ϰϱάμβος</lang>; goth. {%hlaif-s%}, them. {%hlai-%}
 {%ba%}, nostrum {%Laib%}, anglo-sax. {%hlâf%}; lith. {%isz-sirpstu%} ma-
-turesco, gr. <lang n="greek">πεϱϰάζξ</lang>; germ. vet. {%rîfi%} maturus, nostrum
+turesco, gr. <lang n="greek">πεϱϰάζω</lang>; germ. vet. {%rîfi%} maturus, nostrum
 {%reif%}, anglo-sax. {%ripe%}, abjectâ gutturali, v. {#pakva#} maturus
 a {#pac#} coquere; fortasse gr. <lang n="greek">ϰαϱπός</lang> et germ. vet. {%herpist%}
 autumnus, anglo-sax. {%hearfest%} a maturescendo dicta sunt.
@@ -50888,7 +50888,7 @@ MAH. 3. 13248.: {#rAjanyamahABAgyam idAnIM SuSrUzAma-#}
 {#tena pitrA…tavA 'ntikam anuprAptA SuSrUzitum#}.
 {%C. acc. pers.%} MAN. 5. 155.: {#patiM SuSrUzeta#}; MAH. 3. 13722.:
 {#gurU vfdDO SuSrUze 'ham#}. {%Pass.%} MAN. 10. 100.: {#yEH Su-#}
-{#SrUzyante dvijAtayaH#}. (Gr. <lang n="greek">ϰλύω; ϰλ-τός</lang> = {#Sruta#}, v.
+{#SrUzyante dvijAtayaH#}. (Gr. <lang n="greek">ϰλύω; ϰλυ-τός</lang> = {#Sruta#}, v.
 praef. {#vi#}; lat. {%clu-tus, inclu-tus, cluo, aus-cul-to%}; goth.
 {%hliu-ma%}, Them. {%hliu-man%}, auris, {%cum debiliore gunae for-%}
 {%mâ%}, v. gramm. comp. 27. et 109^{%b%}), p. 124.; germ. vet. {%hlû-t%}
@@ -51260,7 +51260,7 @@ RIGV. V. 74. 6. (v. Westerg.): {#te svena SavasA SUSuvuH#},
 gidus, magnus. RIGV. 64. 15.: {#SUSuvAMsam#}. -- {%Caus.%}
 facere ut crescat, augere. RIGV. 54. 7.: {#SUSuvat#}. (Lat.
 {%crescere%}, mutato {%v%} in {%r%}, sicut in {%cras%} = {#Svas#}, v. gr. comp.
-20.; {%cu-mulus%}, nisi pertinet ad {#ci#}; gr. <lang n="greek">ϰύω, ϰύημα, ϰῦμα, ϰυΐτϰω, ϰύτος</lang>,
+20.; {%cu-mulus%}, nisi pertinet ad {#ci#}; gr. <lang n="greek">ϰύω, ϰύημα, ϰῦμα, ϰυΐσϰω, ϰύτος</lang>,
 v. {#SUnya#}; fortasse <lang n="greek">ϰίων</lang> e <lang n="greek">ϰϜίων</lang>;
 cf. Benfey II. 164. sq. Huc etiam traxerim germ. vet.
 {%wî-t%} amplus, latus, vastus = {#Svita#}, sicut regularis parti-
@@ -52985,7 +52985,7 @@ repo, serpo, gradu suspenso eo; slav. {%sl-a-ti%} mittere; lat.
 
 <L>8377<pc>371-b<k1>salila<k2>salila
 {#salila#}¦ {%n.%} (r. {#sal#} s. {%unâd.%} {#ila#}) aqua. (Cf. gr. 
-<lang n="greek">ἅλς</lang>; lat. {%salum, sal, saliva%}; slav. {%sol%} sal.)
+<lang n="greek">σάλος, ἅλς</lang>; lat. {%salum, sal, saliva%}; slav. {%sol%} sal.)
 <LEND>
 
 <L>8378<pc>371-b<k1>savitf<k2>savitf
@@ -53000,8 +53000,8 @@ jectâ gutturali sicut in {%escit%} pro {%esit%}, unde {%erit%}, cf. gr.
 <lang n="greek">ἔσϰον</lang>; gr. <lang n="greek">σϰαιός</lang> e <lang n="greek">σϰαϜιος</lang> vel e <lang n="greek">σϰαιϜος</lang>, transpo-
 sito {%l.%} Fortasse etiam {%sinister, sinistimus%}-cf. {%dexter%},
 [Page372-a+ 36]
-{%dextimus%}, gr. comp. 293.-et gr. <lang n="greek">ι</lang>. huc perti-
-nent, ita ut {%sinis-%} ortum sit e {%sivis-%} et <lang n="greek">ἀϱιστεϱός</lang> e <lang n="greek">ἀϱιστεϱός</lang> 
+{%dextimus%}, gr. comp. 293.-et gr. <lang n="greek">ἀϱιστεϱός</lang> huc perti-
+nent, ita ut {%sinis-%} ortum sit e {%sivis-%} et <lang n="greek">ἀϱιστεϱός</lang> e 
 <lang n="greek">σαϜιστεϱός</lang>, cum semivocales vel liquidae facile inter se
 mutentur, v. gr. comp. 20.) <sup>(*)</sup>
 <F>(*) De cognatis formis in linguis Malayicis v. librum
@@ -54374,7 +54374,7 @@ re aliquem aliquâ re. RAGH. 11. 11.: {#tO…vAyavaH sura-#}
 {#BipuzpareRuBiS CAyayAca jaladAH sizevire#}. {%Pass.%} R.
 Schl. II. 100. 33.: {#malena tasyA 'Ngam idaN kaTam#}
 [Page382-b+ 37]
-{#Aryasya sevyate#}. (Gr. <lang n="greek">σίβομαι</lang>. Fortasse goth. {%saiv-%}
+{#Aryasya sevyate#}. (Gr. <lang n="greek">σέβομαι</lang>. Fortasse goth. {%saiv-%}
 {%ala%} anima, germ. vet. {%sêla%}, a movendo, spirando dictum,
 sicut lat. {%animus, anima%} a r. {#an#}, et <lang n="greek">πνεύμα</lang> a <lang n="greek">πνέω</lang>.)
 <div n="pfx">c. {#A#} {%i. q. simpl.%} MAH. 3. 16564.: {#yadi hy akAmAm A-#}
@@ -54766,7 +54766,7 @@ HIT. 31. 6.: {#kusumastavaka#}.
 (Gr. <lang n="greek">ΣΤΙΧ, στείχω, ἔστιχον</lang>, germ. vet. {%STIG%} scan-
 dere, ascendere, {%stîgu, steig, stigumês%}; lith. {%staigùs%} ce-
 ler, {%staigey%} cito, {%staigio-s%} festino, russ. {%stignu%} (cf. {#sti-#}
-{#Gnomi#}) assequor, consequor, slav. vet. <lang n="Slavonic">СТЧЗа</lang> {%stiζa%}se-
+{#Gnomi#}) assequor, consequor, slav. vet. <lang n="Slavonic">СТЬЗа</lang> {%stiζa%}se-
 mita, goth. {%staigs%} id., hib. {%staighre%} «a step, stair».)
 <LEND>
 
@@ -55737,7 +55737,7 @@ MAH. 1. 1485.: {#susruvuH SoRitam bahu#}; 3. 11118.: {#Sakf-#}
 {#nmUtraM susruvur BayAt#}. 3) diffluere, solvi, perire. MAN.
 2. 74.: {#sravaty anoNkftam#}. {%Etiam A.%} MAH. 3. 14767.:
 {#sraveta#}. -- {%Caus.%} effundere. MAN. 4. 169. (Cf. {#snu#}, gr.
-<lang n="greek">ϱ̔έω</lang> e <lang n="greek">σϱέϜω, ϱ̔εύ-σις, ϱ̔εῦ-μα</lang> cet., lith.
+<lang n="greek">ϱ̔έω</lang> e <lang n="greek">σϱέϜω, ϱ̔εύ-σω, ϱ̔εῦ-σις, ϱ̔εῦ-μα</lang> cet., lith.
 {%sraw-ju%} sanguinem mitto; hib. {%sruth%} f. «a stream, cur-
 rent, defluxion»; germ. vet. {%sliu-mo%} velociter, {%sliumor%}
 citius, nostrum {%schleunig%}, v. {#snu#} et Graff 6. 848.; lat.
@@ -56542,7 +56542,7 @@ RAGH. 18. 13.: {#anarTEr vyasanEr vihInaH#}.
 <L>8856<pc>400-a<k1>hA<k2>hA<h>2
 2. {#hA#}¦ 3. {%A.%} {#hihe#} (anom. v. gr. 370.), praet. mltf. {#ahAsi#}.
 Ire, cedere, recedere. RIGV. 37. 7.: {#jihIta parvato#}
-{#giriH#}. (Cf. {#hi#}, gr. <lang n="greek">ϰιχάνε (ϰίχημι)</lang> forma redupl., cf.
+{#giriH#}. (Cf. {#hi#}, gr. <lang n="greek">ϰιχάνω (ϰίχημι)</lang> forma redupl., cf.
 Pott II. 691.)
 <div n="pfx">c. {#ut#} 1) surgere. RIGV. 105. 18.: {#ujjihIte#}; 9. 4.: {#pra-#}
 {#ti tvAm udahAsata#}. 2) {%Trans.%} sursum movere. BHATT.
