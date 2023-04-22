@@ -648,7 +648,7 @@ lat. {%ago%}).
 
 <L>94<pc>004-a<k1>aja<k2>aja<h>1
 1. {#aja#}¦ {%m.%} (ut videtur a r. {#aj#} s. {#a#}) caper (lith. {%oźy-s%},
-russ. <lang n="russian">козèлъ</lang> v. {#ajA#}).
+russ. <lang n="russian">козѐлъ</lang> v. {#ajA#}).
 <LEND>
 
 <L>95<pc>004-a<k1>aja<k2>aja<h>2
@@ -674,7 +674,7 @@ invenitur, a r. obsol. {#jas#} occidere, s. {#a#}.
 
 <L>99<pc>004-a<k1>ajA<k2>ajA
 {#ajA#}¦ {%f.%} ({%fem.%} <lang n="greek">τᴕ̃</lang> {#aja#}) capra (gr. <lang n="greek">ἌΙΓ</lang>, lith. {%oszkà%}, russ.
-<lang n="russian">козà</lang> praefixo <lang n="russian">к</lang> sicut in {%kostj%} = {#asTi#} <lang n="greek">ὀστέον</lang>).
+<lang n="russian">коза̀</lang> praefixo <lang n="russian">к</lang> sicut in {%kostj%} = {#asTi#} <lang n="greek">ὀστέον</lang>).
 <LEND>
 
 <L>100<pc>004-a<k1>ajAtavyaYjanAkfti<k2>ajAtavyaYjanAkfti
@@ -2481,7 +2481,7 @@ DR. 5. 9.
 [Page015-a+ 37]
 {#Bis, ByAm, Byas#}) ad, versus. (Gr. <lang n="greek">ἀμϕί</lang> insertâ na-
 sali sicut in <lang n="greek">ἄμϕω</lang> contra {#uBO#}; lat. {%ob, amb%}; germ. vet.
-{%umbi%}, nostrum {%um%}; slav. {%ob%}; cf. etiam adverb. slav. <lang n="Slavonic">aБΪЕ</lang> 
+{%umbi%}, nostrum {%um%}; slav. {%ob%}; cf. etiam adverb. slav. <lang n="Slavonic">ⲀБїЕ</lang> 
 {%abje%} statim. Huc quoque retulerim nostrum {%bei%}, goth.
 {%bî%}, abjecto {%a%} initiali, sicut in sanscr. praeter {#api#} etiam
 {#pi#} dicitur; porro praefixum {%be%}, goth. {%bi.%})
@@ -12959,7 +12959,7 @@ RAGH. 13. 39.
 
 <L>2336<pc>079-a<k1>kUpa<k2>kUpa
 {#kUpa#}¦ {%m.%} 1) fovea, cavum, specus. 2) puteus. BHAR. 2. 41.
-(Gr. <lang n="greek">ϰύπη</lang>, russ. <lang n="russian">копàю</lang> fodio.)
+(Gr. <lang n="greek">ϰύπη</lang>, russ. <lang n="russian">копа̀ю</lang> fodio.)
 <LEND>
 
 <L>2337<pc>079-a<k1>kUrd<k2>kUrd
@@ -13371,7 +13371,7 @@ lere. N. 9. 11.: {#PalamUlAni karzayan#}. - {%Caus.%} {#karzayA-#}
 {#anavekzayA#}; N. 16. 32.: {#SokakarzitA#}. (Lith. {%karszù%}
 pectino linum, lanam, et mutatâ gutturali in labialem et
 {%r%} in {%l: plē4szu%} 1) rumpo, 2) aro; {%plē4szau%} ultro citroque
-traho; russ. <lang n="russian">чешỳ</lang> {%ćes'û%} pectino, ejecto {%r%}; latinum
+traho; russ. <lang n="russian">чешу̀</lang> {%ćes'û%} pectino, ejecto {%r%}; latinum
 {%verro%}, ut mihi videtur, e {%querro%} abjecto {%q%}, sicut e.c.
 {%vermis%} e {%quermis%} - v. {#kfmi#} - et assimilato {%s%} antecedenti
 litterae; gr. <lang n="greek">ϰόϱος</lang> scopae, v. Pott. p. 229.; etiam {%vello%},
@@ -14175,8 +14175,8 @@ esse, exiguum esse, ire. (Pictetius huc trahit hib.
 {#dDum arhati#}; {%c.%} {#upari#}. HIT. 66. 17.: {#putrasyo'pari#}
 {#krudDaH#}. (Lith. {%rus-tus%} iratus, {%rus-tybē4%} ira, quorum {%s%} ante
 {%t%} e generali euphoniae lege explicari potest e {%d%}, cf. gr.
-comp. 102.; slav. <lang n="Slavonic">СϱЬДБ</lang> {%srjd%} ira, furor, mutatâ gutturali
-in sibilantem, sicut e. c. in <lang n="Slavonic">СϱБДЬЧЕ</lang> cor; fortasse etiam
+comp. 102.; slav. <lang n="Slavonic">СϱЬДЪ</lang> {%srjd%} ira, furor, mutatâ gutturali
+in sibilantem, sicut e. c. in <lang n="Slavonic">СϱЪДЬЦЕ</lang> cor; fortasse etiam
 huc pertinet lat. {%crûdelis%} - v. {#krUra#} - nisi cohaeret cum
 {%crûdus%}, de quo v. {#kravya#}; gr. <lang n="greek">ϰότος</lang> corruptum esse pos-
 set e <lang n="greek">ϰϱό-τος</lang> et hoc e <lang n="greek">ϰϱόσ-τος</lang>; nostrum {%Groll%}, mutato
@@ -15941,7 +15941,7 @@ expers timoris. BH. 6. 14.
 2. {#gam#}¦ terra, {%in dialecto Vêd.%}, unde genitivus {#gmas#} {%ejecto%} {#a#}.
 Ros. 41. 20. (Huc nunc traxerim zend. <lang n="Avestan"> 𐬰𐬆𐬨</lang> {%zĕm%}, con-
 tra eam, quam alibi de hac voce dixi sententiam; lith.
-{%źémiế%}, slav. <lang n="Slavonic">ЗЕМΛѢ</lang> {%ζemlje%} <sup>(*)</sup> russ. <lang n="russian">землà</lang> {%ζemlà%}
+{%źémiế%}, slav. <lang n="Slavonic">ЗЕМΛѢ</lang> {%ζemlje%} <sup>(*)</sup> russ. <lang n="russian">земла̀</lang> {%ζemlà%}
 cum {%l%} epenthetico, radice ad eandem vocem pertinent,
 derivatione autem cum cognato Vêdico {#gmA#} conveniunt,
 quod e {#gamA#} ejecto {%a%} ortum est.)
@@ -16766,7 +16766,7 @@ goth. ut {%lisa%} cum praet. ut {%las%}, gr. comp. 109^{%a%}). 1.; part.
 pass. {#gIrRa#}, v. gr. 609.) deglutire. (Lith. {%gérrù%} bibo,
 praet. {%ge~rau, girtoju%} perpoto; lat. {%glu-tio, gula%}, v. {#gala#},
 {%gurgulio%} per reduplic. pro {%gurgurio, voro%}, ut videtur, e
-{%guoro%}, v. {#kfmi#}; slav. {%gr-lo%} guttur, russ. <lang n="russian">жòра</lang> {%schòra%}
+{%guoro%}, v. {#kfmi#}; slav. {%gr-lo%} guttur, russ. <lang n="russian">жо̀ра</lang> {%schòra%}
 homo edax, abdomini natus; cf. Pott. p. 227.)
 <div n="pfx">c. {#ni#} {%id.%} MAH. 1. 8239.: {#tasya pUva Siro grastam pucCam#}
 {#asya nigIryate#}.
@@ -18055,7 +18055,7 @@ per assimilationem e <lang n="greek">τέτϜαϱες</lang>, sicut prâcr. {#c
 {#catvAro#}; aeol. <lang n="greek">πίσυϱες</lang>, mutatâ gutturali in labialem,
 quâ in re cum goth. {%fidvôr%} et cambo-brit. {%pedwar%} masc.,
 {%pédair%} fem. convenit; lat. {%quatuor%}, lith. {%keturi%}, slav.
-<lang n="Slavonic">ЧЕТЫϱΪЕ</lang> {%ćetyrje%}; hib. {%ceathair%} masc., {%ceteora%} fem. =
+<lang n="Slavonic">ЧЕͲЫϱїЕ</lang> {%ćetyrje%}; hib. {%ceathair%} masc., {%ceteora%} fem. =
 {#catasras#}; v. gr. comp. 312., Pictet p. 145.)
 <LEND>
 
@@ -18072,8 +18072,8 @@ RAGH. 8. 94.
 
 <L>3069<pc>118-a<k1>caturTa<k2>caturTa
 {#caturTa#}¦ (a {#catur#} s. {#Ta#} pro {#Tama#} vel {#tama#}, v. gr. comp. 321.)
-quartus. (Lith. {%ketwirtas%}, slav. <lang n="Slavonic">ЧЕТВЕϱТЫЙ</lang> {%ćetver-%}
-{%tyĭ%}, fem. <lang n="Slavonic">ЧЕТВЕϱТaѦ</lang> {%ćetverta-ja%}, gr. <lang n="greek">τέτ(Ϝ)αϱτος</lang>,
+quartus. (Lith. {%ketwirtas%}, slav. <lang n="Slavonic">ЧЕͲВЕϱͲⲀѦ</lang> {%ćetver-%}
+{%tyĭ%}, fem. <lang n="Slavonic">ЧЕͲВЕϱͲЫЙ</lang> {%ćetverta-ja%}, gr. <lang n="greek">τέτ(Ϝ)αϱτος</lang>,
 lat. {%qua(tu)rtus%}, goth. {%fidvârda%}, nisi {%fidurda%}, nostrum
 {%vierter.%})
 <LEND>
@@ -20174,7 +20174,7 @@ UR. 24. 6.: {#tasmin jane#} mihi (regi); 28. 2. infr.: {#parava-#}
 «man either male or female»; gr. <lang n="greek">δῆμος</lang> vocis {#jana#} for-
 tasse {%Fem.%} {#janA#} mulier exstitit, cui responderet goth.
 {%qvinô%}, Th. {%qvinôn%}, mulier, adjecto {%n%}, v. gr. comp. 142.;
-slav. <lang n="Slavonic">ЖЕНа</lang> {%schenà.%})
+slav. <lang n="Slavonic">ЖЕНⲀ</lang> {%schenà.%})
 <LEND>
 
 <L>3358<pc>134-b<k1>janaka<k2>janaka
@@ -20231,7 +20231,7 @@ planter».)
 {#janI#}¦ {%correptum%} {#jani#} {%f.%} (a {#jana#} vir signo fem. {#I#}, corre-
 ptum {#i#}) mulier; cf. {#jAni#}. (Hib. {%gean%} «a woman»;
 goth. {%qvêns%}, Th. {%qvêni%} uxor, {%qveins%}, Th. {%qveini%} id., angl.
-{%queen%}; de goth. {%qvinô%} et slav. <lang n="Slavonic">ЖЕНа</lang> {%schena%} v. {#jana#}.)
+{%queen%}; de goth. {%qvinô%} et slav. <lang n="Slavonic">ЖЕНⲀ</lang> {%schena%} v. {#jana#}.)
 <LEND>
 
 <L>3367<pc>135-a<k1>janiman<k2>janiman
@@ -21009,7 +21009,7 @@ vita. (Lith. {%gywas%} vivus; goth. {%qvivs%}, Th. {%qviva%}, lat. {%vi-%}
 
 <L>3490<pc>140-b<k1>jIvita<k2>jIvita
 {#jIvita#}¦ {%n.%} (r. {#jIv#} s. {#ta#}) vita. DR. 9. 11. BR. 1. 27. (Lith.
-{%gywatà%}; slav. <lang n="Slavonic">ЖИВОТ</lang> {%schivot%}; lat. {%vita%} e {%vivita.%})
+{%gywatà%}; slav. <lang n="Slavonic">ЖИВОͲ</lang> {%schivot%}; lat. {%vita%} e {%vivita.%})
 <LEND>
 
 <L>3491<pc>140-b<k1>ju<k2>ju
@@ -21267,7 +21267,7 @@ per metathesin e {#jYA#} ortum sit {%kann%} <sup>(*)</sup> reduplicatâ na-
 sali, nisi separandum est {%kan-n%} et altera nasalis ad radi-
 cem primitivam altera ad derivationem pertinet. Lith.
 {%źinnaù%} scio, {%źinnế%} scientia, {%saźinnế%} conscientia; quae
-duplice nasali cum germ. {%cann%} conveniunt; slav. <lang n="Slavonic">ЗНаЮ</lang> 
+duplice nasali cum germ. {%cann%} conveniunt; slav. <lang n="Slavonic">ЗНⲀЮ</lang> 
 {%ζnajû%} novi primitivam radicis formam accuratius serva-
 vit. Hib. {%gnia%} «knowledge», {%gnic%} id., {%gno%} «ingenious»,
 {%gnas%} «custom, use».)
@@ -22055,7 +22055,7 @@ DR. 7. 7. 2) {%Subst. f. n.%} corpus. DR. 6. 20. IN. 1. 33. (Gr.
 [Page149-a+ 37]
 vet. {%dunni%} -- Them. {%dunnja%} -- nostrum {%dünn%}; hib.
 {%tana%}; russ. {%tonkiľ%}; v. 1. {#tan#}. Cum {#tanu#} corpus cf. slav.
-<lang n="Slavonic">ТѢΛО</lang> {%tjelo.%})
+<lang n="Slavonic">ͲѢΛО</lang> {%tjelo.%})
 <LEND>
 
 <L>3642<pc>149-a<k1>tanutra<k2>tanutra
@@ -23105,7 +23105,7 @@ ex {%tus-tis.%})
 <LEND>
 
 <L>3815<pc>156-a<k1>tURa<k2>tURa
-{#tURa#}¦ {%m.%} pharetra. RAGH. 7. 54. (Slav. <lang n="Slavonic">ТОУΛБ</lang> {%tûl id.%}, mu-
+{#tURa#}¦ {%m.%} pharetra. RAGH. 7. 54. (Slav. <lang n="Slavonic">ͲОУΛЪ</lang> {%tûl id.%}, mu-
 tato {%n%} in {%l%}; v. {#anya#} = {%alius%} etc.)
 <LEND>
 
@@ -23618,8 +23618,8 @@ RAGH. 15. 3. 2) lorica. A. 6. 14. (cf. {#tanutrARa#}); {#Sira-#}
 <L>3886<pc>160-a<k1>tri<k2>tri
 {#tri#}¦ ({%N. m.%} {#trayas#}, {%f.%} {#tisras#} pro {#tisaras#} a stirpe {#tisf#}, {%n.%}
 {#trIRi#}) tres. (Gr. lat. lith. slav. hib. {%TRI%}, nom. m. f.:
-gr. <lang n="greek">τϱεῖς</lang>, lat. {%tres%}, lith. {%trys%}, hib. {%tri%}, slav. masc. <lang n="Slavonic">ТϱΪЕ</lang> 
-fem. <lang n="Slavonic">ТϱИ</lang> {%tri%}; goth. {%THRI%}, nom. m. f. {%threis.%} Ad fem.
+gr. <lang n="greek">τϱεῖς</lang>, lat. {%tres%}, lith. {%trys%}, hib. {%tri%}, slav. masc. <lang n="Slavonic">ͲϱїЕ</lang> 
+fem. <lang n="Slavonic">ͲϱИ</lang> {%tri%}; goth. {%THRI%}, nom. m. f. {%threis.%} Ad fem.
 {#tisras#} referuntur hib. vet. {%teora%}, cambro-brit. fem.
 {%tair%}, armor. {%teir%}; v. Pictet p. 145., gr. comp. §. 310.)
 <LEND>
@@ -37454,7 +37454,7 @@ DR. 7. 16. SU. 1. 29.
 
 <L>6050<pc>257-b<k1>manAk<k2>manAk
 {#manAk#}¦ {%Adv.%} parum. paulum. AM. (Cf. lat. {%minor%}, goth.
-{%minniza%} minor, {%minnists%} minimus, slav. {%mjniť%} minor,
+{%minniza%} minor, {%minnists%} minimus, slav. {%mjniĭ%} minor,
 hib. {%min%} «small, fine» etc., {%mion%} «small, little».)
 <LEND>
 
@@ -41914,7 +41914,7 @@ gr. <lang n="greek">λευ-ϰός, λύχ-νος</lang>, goth. {%liuh-ath%} lum
 spondet sancrito {#o = a + u#}, debilitato {%gunae%} in-
 cremento {%a%} in {%u%} - v. gr. comp. 27. - germ. vet. {%liuh-tjan%}
 lucere, nostrum {%leuch-ten%}; slav. <lang n="Slavonic">ΛОУЧа</lang> {%lûća%} radius,
-<lang n="Slavonic">ΛОУНа</lang> {%lû-na%} luna; hib. {%loiche, loichead%} «a light, candle,
+<lang n="Slavonic">ΛОУНⲀ</lang> {%lû-na%} luna; hib. {%loiche, loichead%} «a light, candle,
 lamp; lightning, flame, splendour», {%logha%} «splendid»,
 {%logh-mhar%} «bright». Huc etiam trahi possunt hib. {%leos%}
 «light», {%leosaim%} «I light up, kindle»; {%les%} «light, illumi-
@@ -43746,7 +43746,7 @@ gutturali in labialem, <lang n="greek">εἶπον, ἔπος</lang> = {#vacas#}
 {%faighim%} «I speak, talk», {%faigh%} «a prophet», {%faighle, fai-%}
 {%ghleadh%} «words, talk, conversation»; serb. {%vik-a-ti%} voci-
 ferari, 1. pers. praes. {%wić-e-m%}; slav. {%rekû%} dico, 2. pers.
-{%reć-e-s'i%} = {#vacasi#} {%vać-a-si%}, mutatâ semivocali {%v%} in {%r%},
+{%reć-e-s̔i%} = {#vacasi#} {%vać-a-si%}, mutatâ semivocali {%v%} in {%r%},
 gr. comp. 20. et p. 648. annot. 6.; lith. {%prá-rakas%} pro-
 pheta, {%rē4kiù%} clamo, vociferor.)
 <div n="pfx">c. {#anu#} dicere, proferre, recitare. MAN. 11. 191.: {#yezAn#}
@@ -44865,9 +44865,9 @@ tus, v. {%euph. r.%} 79.) privatus. IN. 2. 5.
 <L>7106<pc>314-b<k1>vahis<k2>vahis
 {#vahis#}¦ vel {#bahis#} {%Praep. et Adv.%} extra, foras. Lass. 44. 4.:
 {#nagarAd bahir gate sati#}; HIT. 58. 8.: {#mUziko na ba-#}
-{#hir niHsarati#}. (Cf. slav. <lang n="Slavonic">ВЕЗБ</lang> {%beζ%} absque, nisi hoc,
+{#hir niHsarati#}. (Cf. slav. <lang n="Slavonic">БЕЗЪ</lang> {%beζ%} absque, nisi hoc,
 quod nunc magis mihi arridet, referendum est ad {#vi#},
-sicut <lang n="Slavonic">НИЗБ</lang> {%niζ%} deorsum ad {#ni#}.)
+sicut <lang n="Slavonic">НИЗЪ</lang> {%niζ%} deorsum ad {#ni#}.)
 <LEND>
 
 <L>7107<pc>314-b<k1>vahni<k2>vahni
@@ -45356,7 +45356,7 @@ hib. {%feun%} id.)
 <L>7191<pc>317-b<k1>vi<k2>vi<h>1
 1. {#vi#}¦ {%Praep. insep.%} v. gr. 111. (Germ. vet. {%wi-dar%} contra,
 adversum, cum suff. compar., v. gramm. comp. 294.; pers.
-<lang n="arabic">بى</lang> {%bî%} sine, e. c. <lang n="arabic">???ك</lang> metu vacuus, intrepidus; fortasse
+<lang n="arabic">بى</lang> {%bî%} sine, e. c. <lang n="arabic">بيباك</lang> metu vacuus, intrepidus; fortasse
 lat. {%vê-(vecors, vesanus)%}; lith. {%be%} sine; slav. {%beζ%} id. nisi
 hoc pertinet ad {#vahis#} q. v.)
 <LEND>
@@ -45939,7 +45939,7 @@ indoles, proprietas, {%praesertim in fine comp. BAH.%} N. 1.
 <L>7283<pc>321-b<k1>viDavA<k2>viDavA
 {#viDavA#}¦ {%f.%} (marito orbata {%BAH.%} e {#vi#} et {#Dava#} maritus)
 vidua. BR. 2. 10. (Lat. {%vidua%}, boruss. vet. {%widdewû%}, slav.
-{%udova%}, goth. {%viduvô%}, Them. {%viduvôn%}; hib. {%feadhb.%})
+{%vdova%}, goth. {%viduvô%}, Them. {%viduvôn%}; hib. {%feadhb.%})
 <LEND>
 
 <L>7284<pc>321-b<k1>viDA<k2>viDA
@@ -50127,7 +50127,7 @@ re», gr. <lang n="greek">ϰαϑαίϱω, ϰαϑαϱός</lang>, lith. {%cźy
 {#SudDas#} sicut zend. <lang n="Avestan"> 𐬠𐬀𐬯𐬙𐬀</lang> {%baśta%} ligatus = {#badDa#}, v. gr.
 comp. 102.; {%cźystybe%} puritas, castitas, {%cźystiju%} purifico;
 boruss. vet. {%skys-tan%} (acc.) purum, castum = {#SudDam#};
-slav. <lang n="Slavonic">ЧИСТБ</lang> {%ćis-t%}, lat. {%cas-tus.%} Vid. Pott. I. 252.)
+slav. <lang n="Slavonic">ЧИСͲЪ</lang> {%ćis-t%}, lat. {%cas-tus.%} Vid. Pott. I. 252.)
 <div n="pfx">c. {#pari#} {%Caus.%} purificare. R. Schl. II. 31. 25.
 <div n="pfx">c. {#vi#} {%i. q. simpl.%} MAN. 5. 61. -- {#viSudDa#} purificatus, pu-
 rus. BH. 18. 51. -- {%Caus.%} purificare. MAH. 3. 15979.
@@ -50466,7 +50466,7 @@ sax. {%hvetan%} acuere, v. gr. comp. 86. 1) et 109^{%b%}). 1); island.
 «sharp, sour, edged», {%gear%} id., {%geire%} «sharpness», {%geirim%}
 «I hwet, I grease». Cum {#So#} praef. {#A#} cf. lat. {%acuo%},
 {%acus%}, gr. <lang n="greek">ἀϰή, ἀϰωϰή, ἀϰ-μή, ἀϰϱός</lang> cet.; lith. {%asz-trus%}
-acutus, {%asz-mu°%} acies; slav. {%as-tr%} acutus. Fortasse etiam
+acutus, {%asz-mu°%} acies; slav. {%os-tr%} acutus. Fortasse etiam
 scr. {#aSman#} lapis a {#So#} praef. {#A#} descendit, correpto {#A#},
 et abjecto {#o#} sicut in {#SyAmi#} acuo. Etiam {#agra#} huc
 trahi posset, ita ut sit pro {#Akra#}, servatâ primitivâ guttu-
@@ -50746,7 +50746,7 @@ Schl. I. 13. 39.: {#patatriRas tasya vapAm udDftya…Sra-#}
 {#payAmAsa#}; II. 56. 21.: {#EReyaM Srapayasva#}; MAH. 1. 6392.:
 {#yAjena SrapitaM havyam#}; 3. 5038.: {#caruYca Srapayan#}. (Vid.
 [Page356-a+ 37]
-{#SrE#} et cf. {#SrI#}, 1. {#cur#}, slav. <lang n="Slavonic">ЗϱѢТИ</lang> {%rje-ti%} maturescere,
+{#SrE#} et cf. {#SrI#}, 1. {#cur#}, slav. <lang n="Slavonic">ЗϱѢͲИ</lang> {%rje-ti%} maturescere,
 fortasse gr. <lang n="greek">ἄϱ-τος</lang> e <lang n="greek">ϰάϱ-τος</lang> per metath. e <lang n="greek">ϰϱά-τος</lang> 
 = part. pass. Vêd. {#SrAta#}; <lang n="greek">ϰάγχϱυς</lang> forma redupl. pro
 <lang n="greek">ϰάϱχϱυς</lang> (v. gr. 570.); goth. {%hauri%} pruna; fortasse lat.
@@ -50907,7 +50907,7 @@ in {%r.%} Ad {%Caus.%} {#SrAvayAmi#} pertinent lat. {%clâmo%}, mutato
 <lang n="greek">υ</lang> in {%m%}, v. gr. comp. 109^{%a%}). 6. et 109^{%b%}). p. 124.; lith. {%szlo-%}
 {%wiju%} laudo, celebro, v. praef. {#vi#}; fortasse {%klabu%} loquor
 e {%klawu%}; russ. {%slav-i-tj%} celebrare, {%slovo%} verbum, sermo;
-slav. vet. {%slovù%} appellor, {%slava%} gloria; gr. <lang n="greek">ϰλαίω, ϰλαύσω</lang>,
+slav. vet. {%slovû%} appellor, {%slava%} gloria; gr. <lang n="greek">ϰλαίω, ϰλαύσω</lang>,
 nisi pertinet ad {#krand#} plorare, abjecto {%d%}, mutato {%n%}
 in <lang n="greek">υ</lang>, sicut e. c. in 3. pers. pl. <lang n="greek">τύπτουσι</lang> e <lang n="greek">τύπτοντι</lang>, mu-
 tato <lang n="greek">τ</lang> in <lang n="greek">σ</lang> per metath. e <lang n="greek">ϰλα(Ϝ)έω, ϰλείω</lang> e
@@ -51411,7 +51411,7 @@ in {%sem-per%}, v. {#sadA#}. Cum praep. {#sa#} cf. lith. praep. in-
 sep. {%sa%}, e. c. in {%sa-darbininkas%} socius operis, <lang n="greek">συνεϱγός</lang>,
 {%sa-karawis%} socius pugnae; {%su%} tam simpl. quam in comp.
 cum, nisi hoc sicut gr. <lang n="greek">σύν</lang> nititur cognatâ formâ {#sam#}
-q. v.; slav. <lang n="Slavonic">Ϲ̕Б</lang> {%ś%} ad {#sa#}, <lang n="Slavonic">Ϲꙋ</lang> {%sû%} autem ad {#sam#} retulerim, v.
+q. v.; slav. <lang n="Slavonic">С́Ъ</lang> {%ś%} ad {#sa#}, <lang n="Slavonic">Сꙋ</lang> {%sû%} autem ad {#sam#} retulerim, v.
 gr. comp. 255. g.; gr. <lang n="greek">σα</lang> in <lang n="greek">σα-ϕής</lang> (cf. <lang n="greek">ϕάος, ϕῶς</lang>),
 <lang n="greek">ἀ</lang> in compp. ut <lang n="greek">ἄ-λοχος, ἄ-ϰοιτις, ἀ-ϰοίτης, ἀ-δελϕός</lang>,
 sicut scr. {#sodara#} e {#sa + udara#}; fortasse goth. {%ga-cum-%}
@@ -51620,7 +51620,7 @@ lutio, eversio. A. 8. 22. (ubi cum ed. Calc. {#saMhAraH#} pro
 <L>8151<pc>362-b<k1>sakala<k2>sakala
 {#sakala#}¦ ({%BAH.%} e {#sa#} cum et {#kalA#} pars, portio) totus. M. 44.
 (Fortasse lith. {%cźielas%} totus, russ. <lang n="russian">цѣлый</lang> {%zielyï%} id.,
-slav. <lang n="Slavonic">ЦѢΛБ</lang> {%ziel%} sanus, v. Mikl. p. 104.; polon. {%saly, salki%}
+slav. <lang n="Slavonic">ЦѢΛЪ</lang> {%ziel%} sanus, v. Mikl. p. 104.; polon. {%saly, salki%}
 totus; fortasse goth. {%hail-s%}, Them. {%haila%} salvus, sanus,
 abjectâ syllabâ initiali; island. vet. {%heil%}, anglo-sax. {%hal%};
 ita lat. {%salvus%} convenit cum scr. {#sarva#} q. v.)
@@ -54766,8 +54766,8 @@ HIT. 31. 6.: {#kusumastavaka#}.
 (Gr. <lang n="greek">ΣΤΙΧ, στείχω, ἔστιχον</lang>, germ. vet. {%STIG%} scan-
 dere, ascendere, {%stîgu, steig, stigumês%}; lith. {%staigùs%} ce-
 ler, {%staigey%} cito, {%staigio-s%} festino, russ. {%stignu%} (cf. {#sti-#}
-{#Gnomi#}) assequor, consequor, slav. vet. <lang n="Slavonic">СТЬЗа</lang> {%stiζa%}se-
-mita, goth. {%staigs%} id., hib. {%staighre%} «a step, stair».)
+{#Gnomi#}) assequor, consequor, slav. vet. <lang n="Slavonic">СͲЬЗⲀ</lang> {%stiζa%} semita,
+goth. {%staigs%} id., hib. {%staighre%} «a step, stair».)
 <LEND>
 
 <L>8633<pc>385-a<k1>stip<k2>stip
@@ -55916,7 +55916,7 @@ mire, {%slêpa%} dormio, praet. {%saizlêp%} = {#suzvApa#}, mutato {%v%}
 in {%l%}, v. gr. comp. 20.; germ. vet. {%slâfon%} dormio, {%slâfit%}
 dormit. Ad Caus. {#svApayAmi#} pertinent lat. {%sôpio%} (ejecto
 {%v, ô = â%}), island. vet. {%svefja%} sopire, germ. vet. {%in-suepiu%}
-sopio, Grimm 1. 869., slav. <lang n="Slavonic">СБП-И-ШИ</lang> {%sp-i-s'i%} dormis.
+sopio, Grimm 1. 869., slav. <lang n="Slavonic">СЪП-И-ШИ</lang> {%sp-i-s'i%} dormis.
 Vid. {#svapna#}.)
 <div n="pfx">c. {#ava#} dormire. {#avasupta#} dormiens. R. Schl. II. 56. 1.
 <div n="pfx">c. {#pra#} {%id.%} {#prasupta#} 1) qui dormivit. SA. 5. 65.: {#suciran tvam#}
@@ -56101,7 +56101,7 @@ cundi, suavis saporis. HIT. 8. 12. {%Vid.%} {#AsvAda, A-#}
 (Anglo-sax. {%svet%} dulcis, germ. vet. {%suazi, suozi%} id., no-
 strum {%süfs%}, goth. {%sutizô%} dulcius; lith. {%saldùs%} dulcis e
 [Page396-b+ 37]
-{%sladùs%}, mutato {%v%} in {%l%}, v. gr. comp. 20., slav. <lang n="Slavonic">СΛаДБКБ</lang> 
+{%sladùs%}, mutato {%v%} in {%l%}, v. gr. comp. 20., slav. <lang n="Slavonic">СΛⲀДЪКЪ</lang> 
 {%sladk%} id., gr. <lang n="greek">ἡδύς</lang>, lat. {%suavis%} e {%suadus%} ejecto {%d%}, ad-
 jecto {%i%}; vid. {#svad#}.)
 <LEND>
@@ -56683,7 +56683,7 @@ vilipendere, ire. {%Cf.%} {#heq#}.
 {#hima#}¦ (ut videtur, a r. {#hi#}, quod hac in formatione fluere sig-
 nificare videtur, suff. {#ma#}, v. {#snu#}) {%Subst. m.%} nix, {%v.%} {#hima-#}
 {#vat, himAlaya#}. {%Adj.%} frigidus, {%v.%} {#himAMSu#}. (Cf. slav.
-<lang n="Slavonic">ЗИМа</lang> {%ζima%} hiems, lith. {%źiếma%} id., gr. <lang n="greek">χιών, χεῖμα</lang>;
+<lang n="Slavonic">ЗИМⲀ</lang> {%ζima%} hiems, lith. {%źiếma%} id., gr. <lang n="greek">χιών, χεῖμα</lang>;
 lat. {%hiems, hibernus%}; hib. {%geimhre, geimhrith, geimhreadh%}
 «winter», v. Pictet p. 66. et {#himaftu#} apud Wils. ed. 2.;
 {%gamh%} «winter, cold».)
