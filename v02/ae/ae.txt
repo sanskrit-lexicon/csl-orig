@@ -60284,7 +60284,7 @@ Taddhita p. terminations’ {#tadDitApa-#}
 <LEND>
 
 <L>7729<pc>334<k1>pause<k2>pause
-{@Pause,@}¦ {%v. i.%} {#vi-up-ram#} 1 P, {#nivft#} 1 A;
+{@Pause,@}¦ {%v. i.%} {#vi-upa-ram#} 1 P, {#nivft#} 1 A;
 {#viSram#} 4 P, {#Sam#} 4 P, {#vicCid#} pass.;
 ‘p. upon’ {#saM-, ciMt#} 10; {%See%} {@Consider.@}
 {%-s.%} {#virAmaH, virati#} {%f.,%} {#nivftti#} {%f.,%} {#vicCedaH,#}
