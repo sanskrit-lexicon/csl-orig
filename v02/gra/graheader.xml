@@ -17,6 +17,21 @@
     <funder>United States National Endowment for the Humanities</funder>
    </titleStmt>
    <editionStmt>
+    <edition>xml version, <date when="2023-07-11">11 July 2023</date></edition>
+     <respStmt>
+       <resp>Major editing</resp>
+       <name>Mr. K. Nagabhushana Rao</name>
+     </respStmt>
+     <respStmt>
+       <resp>Verbesserungen digitization</resp>
+       <name>Thomas Malten</name>
+     </respStmt>
+     <respStmt>
+       <resp>Programming, integration into Sanskrit-lexicon displays</resp>
+       <name>Jim Funderburk</name>
+     </respStmt> 
+   </editionStmt>
+   <editionStmt>
     <edition>xml version, <date when="2014-06-30">30 June 2014</date></edition>
      <respStmt>
        <resp>Greek data entry</resp>
