@@ -20,6 +20,14 @@
    <editionStmt>
     <edition>xml version, <date when="2014-06-30">30 June 2014</date></edition>
    </editionStmt>
+   <editionStmt>
+     <edition>xml version, <date when="2023-08-10">10 Aug 2023</date></edition>
+     <respStmt>
+       <resp>abbreviation markup</resp>
+       <name>Mr. K. Nagabhushana Rao</name>
+     </respStmt>
+   </editionStmt>
+
    <extent>3.3 MB</extent>
    <publicationStmt>
     <publisher>The Sanskrit Library</publisher>
@@ -149,7 +157,7 @@
      <titlePart>Buddhist Hybrid Sanskrit
       <lb/>grammar and dictionary</titlePart>
     </docTitle>
-    <docAuthor>by Franklin Edgerton, Serling Professor of
+    <docAuthor>by Franklin Edgerton, Sterling Professor of
       <lb/>Sanskrit and Comparative Philology, Yale University
       <lb/>Volume II: Dictionary</docAuthor>
     <docImprint>
