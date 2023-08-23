@@ -1,5 +1,5 @@
 bhs-meta2.txt
-Aug 10, 2023
+Aug 23, 2023
 
 A description of the current digitization bhs.txt.
 
@@ -9,29 +9,28 @@ The {X...X} style of coding serves several purposes:
 {@X@}  : bold text
 {%X%}  : italic text 
 
-〔ii.322.14〕
-
-
 The pseudo-xml <> style of coding is used as follows:
 
 <H>     40  : Headline, letter breaks
-<fr>   254  : text in French language  (254 instances)
-<ger>   61  : text in German language
+<ab> 46367  : general abbreviation
+<bot>   15  : plant name (scientific name)
+<ed>   409  : Abbreviation for an edition of a literary source
+<fr>   313  : text in French language  (254 instances)
+<ger>  182  : text in German language
+<gk>     2  : text in Greek language
+<hom>  171  : homonym number
+<lang> 18934  : (abbreviated) name of a language
+<lat>  157  : text in Latin language
+<lex> 15286  : Grammatical abbreviation
+<ls>  48423 : literary source, usually abbreviated.
+<ms>    58  : Abbreviation for name of a manuscript
 <tib> 3193  : text in Tibetan language
-<gk>     3  : text in Greek language
-<lat>    2  : text in Latin language
 <toch>   4  : text in Tocharian language
-<ab> 46170  : general abbreviation
-<ab n="TIP"> 304  : local abbreviation with tooltip
-<lang> 18944  : (abbreviated) name of a language
-<lex>  15281  : Grammatical abbreviation
-<ed>   410  : Abbreviation for an edition of a literary source
-<ms>    57  : Abbreviation for name of a manuscript
-<ls>   48272 : literary source, usually abbreviated.
+<zoo>    1  : animal name (scientific name)
+<ab n="TIP"> 309  : tags with attributes
 
-<div n="lb">  line break (markup removed 12-16-2021)
-
-<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines'
+<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines'.
+17839 meta lines
 
 Each entry of the digitization is contained within a beginning and ending
 markup. As example,
@@ -76,13 +75,13 @@ with their frequency as of this writing (08-08-2023):
 ³  (\u00b3)     9 := SUPERSCRIPT THREE
 ¹  (\u00b9)    20 := SUPERSCRIPT ONE
 Ñ  (\u00d1)     1 := LATIN CAPITAL LETTER N WITH TILDE
-à  (\u00e0)    27 := LATIN SMALL LETTER A WITH GRAVE
+à  (\u00e0)    26 := LATIN SMALL LETTER A WITH GRAVE
 á  (\u00e1)     7 := LATIN SMALL LETTER A WITH ACUTE
 â  (\u00e2)     4 := LATIN SMALL LETTER A WITH CIRCUMFLEX
-ä  (\u00e4)   239 := LATIN SMALL LETTER A WITH DIAERESIS
+ä  (\u00e4)   235 := LATIN SMALL LETTER A WITH DIAERESIS
 ç  (\u00e7)     3 := LATIN SMALL LETTER C WITH CEDILLA
 è  (\u00e8)    19 := LATIN SMALL LETTER E WITH GRAVE
-é  (\u00e9)   561 := LATIN SMALL LETTER E WITH ACUTE
+é  (\u00e9)   560 := LATIN SMALL LETTER E WITH ACUTE
 ê  (\u00ea)    16 := LATIN SMALL LETTER E WITH CIRCUMFLEX
 ë  (\u00eb)     4 := LATIN SMALL LETTER E WITH DIAERESIS
 î  (\u00ee)     4 := LATIN SMALL LETTER I WITH CIRCUMFLEX
@@ -91,29 +90,27 @@ with their frequency as of this writing (08-08-2023):
 ö  (\u00f6)    11 := LATIN SMALL LETTER O WITH DIAERESIS
 ù  (\u00f9)     1 := LATIN SMALL LETTER U WITH GRAVE
 û  (\u00fb)     1 := LATIN SMALL LETTER U WITH CIRCUMFLEX
-ü  (\u00fc)   103 := LATIN SMALL LETTER U WITH DIAERESIS
+ü  (\u00fc)   102 := LATIN SMALL LETTER U WITH DIAERESIS
 Ā  (\u0100)   266 := LATIN CAPITAL LETTER A WITH MACRON
-ā  (\u0101) 83450 := LATIN SMALL LETTER A WITH MACRON
+ā  (\u0101) 83457 := LATIN SMALL LETTER A WITH MACRON
 ă  (\u0103)    51 := LATIN SMALL LETTER A WITH BREVE
-ď  (\u010f)    33 := LATIN SMALL LETTER D WITH CARON
 ĕ  (\u0115)     1 := LATIN SMALL LETTER E WITH BREVE
 Ī  (\u012a)    28 := LATIN CAPITAL LETTER I WITH MACRON
 ī  (\u012b) 11727 := LATIN SMALL LETTER I WITH MACRON
 ĭ  (\u012d)     3 := LATIN SMALL LETTER I WITH BREVE
-Ľ  (\u013d)     4 := LATIN CAPITAL LETTER L WITH CARON
-ľ  (\u013e)    18 := LATIN SMALL LETTER L WITH CARON
 ō  (\u014d)    23 := LATIN SMALL LETTER O WITH MACRON
 ŏ  (\u014f)     1 := LATIN SMALL LETTER O WITH BREVE
 œ  (\u0153)     1 := LATIN SMALL LIGATURE OE
-Ś  (\u015a)  3074 := LATIN CAPITAL LETTER S WITH ACUTE
-ś  (\u015b) 12677 := LATIN SMALL LETTER S WITH ACUTE
+Ś  (\u015a)  3075 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b) 12678 := LATIN SMALL LETTER S WITH ACUTE
 Ū  (\u016a)     9 := LATIN CAPITAL LETTER U WITH MACRON
-ū  (\u016b)  6441 := LATIN SMALL LETTER U WITH MACRON
+ū  (\u016b)  6442 := LATIN SMALL LETTER U WITH MACRON
 ŭ  (\u016d)     2 := LATIN SMALL LETTER U WITH BREVE
-ʼ  (\u02bc)  1468 := MODIFIER LETTER APOSTROPHE
+ʼ  (\u02bc)  1523 := MODIFIER LETTER APOSTROPHE
 α  (\u03b1)     1 := GREEK SMALL LETTER ALPHA
 β  (\u03b2)     1 := GREEK SMALL LETTER BETA
 γ  (\u03b3)     1 := GREEK SMALL LETTER GAMMA
+δ  (\u03b4)     1 := GREEK SMALL LETTER DELTA
 ε  (\u03b5)     1 := GREEK SMALL LETTER EPSILON
 κ  (\u03ba)     1 := GREEK SMALL LETTER KAPPA
 λ  (\u03bb)     2 := GREEK SMALL LETTER LAMDA
@@ -128,22 +125,21 @@ with their frequency as of this writing (08-08-2023):
 Ḱ  (\u1e30)    58 := LATIN CAPITAL LETTER K WITH ACUTE
 ḷ  (\u1e37)   180 := LATIN SMALL LETTER L WITH DOT BELOW
 ṃ  (\u1e43) 18676 := LATIN SMALL LETTER M WITH DOT BELOW
-ṅ  (\u1e45)  3145 := LATIN SMALL LETTER N WITH DOT ABOVE
-ṇ  (\u1e47) 13318 := LATIN SMALL LETTER N WITH DOT BELOW
+ṅ  (\u1e45)  3144 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47) 13317 := LATIN SMALL LETTER N WITH DOT BELOW
 Ṛ  (\u1e5a)    43 := LATIN CAPITAL LETTER R WITH DOT BELOW
 ṛ  (\u1e5b)  5313 := LATIN SMALL LETTER R WITH DOT BELOW
 ṝ  (\u1e5d)    10 := LATIN SMALL LETTER R WITH DOT BELOW AND MACRON
 Ṣ  (\u1e62)     6 := LATIN CAPITAL LETTER S WITH DOT BELOW
 ṣ  (\u1e63) 15612 := LATIN SMALL LETTER S WITH DOT BELOW
 Ṭ  (\u1e6c)     4 := LATIN CAPITAL LETTER T WITH DOT BELOW
-ṭ  (\u1e6d)  6842 := LATIN SMALL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)  6843 := LATIN SMALL LETTER T WITH DOT BELOW
 ἅ  (\u1f05)     1 := GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA
 ‒  (\u2012)    11 := FIGURE DASH
 —  (\u2014)  1731 := EM DASH
-‘  (\u2018)   894 := LEFT SINGLE QUOTATION MARK
-’  (\u2019)   894 := RIGHT SINGLE QUOTATION MARK
+‘  (\u2018)   895 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)   895 := RIGHT SINGLE QUOTATION MARK
 …  (\u2026)  4093 := HORIZONTAL ELLIPSIS
 ⏑  (\u23d1)    16 := METRICAL BREVE
-〔  (\u3014) 54327 := LEFT TORTOISE SHELL BRACKET
-〕  (\u3015) 54327 := RIGHT TORTOISE SHELL BRACKET
-𝛿  (\u1d6ff)     1 := MATHEMATICAL ITALIC SMALL DELTA
+〔  (\u3014) 54329 := LEFT TORTOISE SHELL BRACKET
+〕  (\u3015) 54329 := RIGHT TORTOISE SHELL BRACKET
