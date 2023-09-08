@@ -13210,7 +13210,7 @@ des {%(Gen.)%} werden.
 <LEND>
 
 <L>3006<pc>047-2<k1>Aha<k2>A/ha
-{#A/ha#}¦ {%s.%} {#Aha#}.
+{#A/ha#}¦ {%s.%} {#aha#}.
 <LEND>
 
 <L>3007<pc>047-2<k1>Ahati<k2>Ahati
@@ -30671,7 +30671,7 @@ lieblich, schön.
 <LEND>
 
 <L>6715<pc>118-2<k1>cakzus<k2>ca/kzus
-{#ca/kzus#}¦ sechend; {%n.%} = {#cakzas#}.
+{#ca/kzus#}¦ sehend; {%n.%} = {#cakzas#}.
 <LEND>
 
 <L>6716<pc>118-2<k1>caNkrama<k2>caNkrama
