@@ -1,0 +1,80 @@
+<fsm start='SKT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
+
+<e> <s>SKT</s> <in>E</in> <out>ai</out> </e>
+<e> <s>SKT</s> <in>O</in> <out>au</out> </e>
+<e> <s>SKT</s> <in>K</in> <out>kh</out> </e>
+<e> <s>SKT</s> <in>G</in> <out>gh</out> </e>
+<e> <s>SKT</s> <in>C</in> <out>ch</out> </e>
+<e> <s>SKT</s> <in>J</in> <out>jh</out> </e>
+<e> <s>SKT</s> <in>T</in> <out>th</out> </e>
+<e> <s>SKT</s> <in>D</in> <out>dh</out> </e>
+<e> <s>SKT</s> <in>P</in> <out>ph</out> </e>
+<e> <s>SKT</s> <in>B</in> <out>bh</out> </e>
+<e> <s>SKT</s> <in>W</in> <out>\u1e6dh</out> </e>
+<e> <s>SKT</s> <in>Q</in> <out>\u1e0dh</out> </e>
+<!-- 09-19-2022
+* udAtta  / 0301  COMBINING ACUTE ACCENT
+* svarita ^ 0300  COMBINING GRAVE ACCENT
+* anudAtta \ 0331 Combining Macron Below
+--> 
+<e n='116'> <s>SKT</s> <in>/</in> <out>\u0301</out> </e>
+<e n='117'> <s>SKT</s> <in>^</in> <out>\u0300</out> </e>
+<e n='118'> <s>SKT</s> <in>\</in> <out>\u0331</out> </e>
+
+<e> <s>SKT</s> <in>f</in> <out>\u1e5b</out> </e> 
+<e> <s>SKT</s> <in>x</in> <out>\u1e37</out> </e>
+<e> <s>SKT</s> <in>A</in> <out>\u0101</out> </e>
+<e> <s>SKT</s> <in>I</in> <out>\u012b</out> </e>
+<e> <s>SKT</s> <in>U</in> <out>\u016b</out> </e>
+<e> <s>SKT</s> <in>F</in> <out>\u1e5d</out> </e>
+<e> <s>SKT</s> <in>X</in> <out>\u1e39</out> </e>
+
+<e> <s>SKT</s> <in>N</in> <out>\u1e45</out> </e>
+<e> <s>SKT</s> <in>Y</in> <out>\u00f1</out> </e>
+<e> <s>SKT</s> <in>w</in> <out>\u1e6d</out> </e>
+<e> <s>SKT</s> <in>q</in> <out>\u1e0d</out> </e>
+<e> <s>SKT</s> <in>R</in> <out>\u1e47</out> </e>
+<e> <s>SKT</s> <in>S</in> <out>\u015b</out> </e>
+<e> <s>SKT</s> <in>z</in> <out>\u1e63</out> </e>
+
+<e> <s>SKT</s> <in>H</in> <out>\u1e25</out> </e>
+<e> <s>SKT</s> <in>M</in> <out>\u1e43</out> </e> <!-- dot below 07-09-2018 -->
+<e> <s>SKT</s> <in>'</in> <out>'</out> </e>
+
+<!--
+ <e> <s>SKT</s> <in>L</in> <out>\u1e37</out> </e>
+ <e> <s>SKT</s> <in>|</in> <out>\u1e37h</out> </e>
+ \u1e37  (lower-case L with dot under) is used for slp1 vowel 'x'.
+ There is no authoritative iast substitute for slp1 L.
+
+\u1e39 already represents slp1 X.
+We choose \u0142  Latin small letter L with stroke
+          \u0141  is capitalized form
+-->
+<e> <s>SKT</s> <in>L</in> <out>\u0142</out> </e>
+<e> <s>SKT</s> <in>|</in> <out>\u0142h</out> </e>
+
+<!-- ~ candrabindu.  Use m with combining candrabindu 
+Another possibility is \u0303 (combining tilde) but this is hard to enter
+  <e> <s>SKT</s> <in>~</in> <out>\u0303</out></e>
+  <e> <s>SKT</s> <in>U~</in> <out>\u016b\u0303</out></e>
+  <e> <s>SKT</s> <in>kU~</in> <out>kūm̐</out></e>
+-->
+<e> <s>SKT</s> <in>~</in> <out>m̐</out></e>
+
+<!-- IAST currently has no provision for hiatus  (two vowels) which 
+  can occur with Devanagari.
+  We give a partial solution, based on cases sufficient form MW
+  Convert ai -> a + i-diaresis, similarly for au
+-->
+<e> <s>SKT</s> <in>ai</in> <out>aï</out></e>
+<e> <s>SKT</s> <in>au</in> <out>aü</out></e>
+
+<!-- Sep 9, 2014 
+Z =  jihvamuliya = h with line below
+V =  upadhmaniya = h with breve below
+-->
+<e> <s>SKT</s> <in>Z</in> <out>\u1e96</out> </e>  
+<e> <s>SKT</s> <in>V</in> <out>\u1e2b</out> </e>  
+
+</fsm>

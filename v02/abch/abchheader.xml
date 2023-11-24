@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<?oxygen RNGSchema="file:tei_corpus.rnc" type="compact"?>-->
+<?oxygen RNGSchema="//www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rnc" type="compact"?>
+<TEI xmlns="//www.tei-c.org/ns/1.0" xmlns:xi="//www.w3.org/2001/XInclude">
+ <teiHeader xml:lang="en-Latn">
+  <fileDesc>
+   <titleStmt>
+    <title type="main">Abhidhānacintāmaṇi</title>
+    <title type="desc">XML edition</title>
+    <title type="key">Abhidhānacintāmaṇi</title>
+    <title type="short"><name>Abhidhānacintāmaṇi</name>. <title rend="italic">Abhidhānacintāmaṇi</title>. <date>1896</date>.</title>
+    <editor>Dr. Dhaval Patel</editor>
+    <principal>Dr. Dhaval Patel</principal>
+   </titleStmt>
+   <editionStmt>
+    <edition>digital edition<date when="2023">2023</date></edition>
+    <respStmt>
+     <resp>Primary digitization</resp>
+     <name>Dr. Dhaval Patel</name>
+    </respStmt>
+    <respStmt>
+     <resp>Annotation of headwords</resp>
+     <name>Dr. Dhaval Patel</name>
+    </respStmt>
+    <respStmt>
+     <resp>Programming, integration of dictionary into Sanskrit-lexicon</resp>
+     <name>Dr. Dhaval Patel</name>
+     <name>Jim Funderburk</name>
+    </respStmt>
+   </editionStmt>
+   <extent>7 MB (for abch.xml dictionary at Cologne)</extent>
+   <publicationStmt>
+    <publisher>University of Cologne</publisher>
+    <pubPlace>Cologne, Germany</pubPlace>
+    <publisher>Institut für Südasien- und Südostasienstudien (SASOA)</publisher>
+    <pubPlace>Köln</pubPlace>
+    <date when="2023">2023</date>
+    <availability>
+     <p>GNU GPL v3.0.</p>
+    </availability>
+    <distributor>
+     <ptr target="//www.sanskrit-lexicon.uni-koeln.de/scans/ABCHScan/2020/web/index.php"/>
+    </distributor>
+   </publicationStmt>
+   <sourceDesc>
+    <biblStruct type="original" xml:id="ABCH">
+     <monogr>
+      <author>Hemacandra</author>
+      <title type="main" level="m">Abhidhānacintāmaṇi</title>
+      <title type="subordinate" level="m">Abhidhānasaṃgrahaḥ nāma prācīnakośagranthasamuccayaḥ - tatra (6, 7, 8, 9, 10) śrīmadācāryahemacandraviracitāḥ abhidhānacintāmaṇi-abhidhānacintāmaṇipariśiṣṭa-anekārthasaṃgraha-nighaṇṭuśeṣa-liṅgānuśāsanakośāḥ (11) jinadevamunīśvaraviracitaḥ abhidhānacintāmaṇiśīloñchaśca</title>
+      <edition></edition>
+      <imprint>
+       <pubPlace>Bombay</pubPlace>
+       <publisher>The Nirṇaya-sāgara press, Bombay</publisher>
+       <date>1896</date>
+      </imprint>
+      <extent>
+       <measure unit="pages" quantity="58">58 p.</measure>
+      </extent>
+     </monogr>
+    </biblStruct>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <!--projectDesc (project description) describes in detail the aim or purpose for which an electronic file was encoded, together with any other relevant information concerning the process by which it was assembled or collected.-->
+   <projectDesc>
+    <p>The Cologne Digital Sanskrit Lexicon (CDSL) project undertakes to digitize and merge all published Sanskrit dictionaries. Its aim is to create a basic lexical corpus that provides easy access to all available meanings of Sanskrit words and allows the creation of a number of computer programs that will help to analyze Sanskrit texts.</p>
+    <p>See <ptr target="//www.sanskrit-lexicon.uni-koeln.de/CDSL.pdf"/>.</p>
+   </projectDesc>
+   <editorialDecl>
+    <p></p>
+   </editorialDecl>
+   <tagsDecl>
+    <!--"//www.sanskrit-lexicon.uni-koeln.de" documentation-->
+   </tagsDecl>
+   <!--
+   <classDecl>
+    <taxonomy xml:id="lcsh">
+     <bibl>Library of Congress Subject Headings</bibl>
+    </taxonomy>
+   </classDecl>
+  -->
+  </encodingDesc>
+  <profileDesc>
+   <creation>
+	   <p>Shri Ramakrishna Knowledge Foundation (SRKKF) funded the project.</p>
+	   <p>Scanned book was obained from www.archive.org.</p>
+     <p>Data-entry in Devanagari and annotation of headwords by <persName>Dr. Dhaval Patel</persName>.</p>
+     <p><persName>Dr. Dhaval Patel</persName> transformed it to SLP1 transcoding of Sanskrit, with annotation of headwords.</p>
+     <p><persName>Dr. Dhaval Patel</persName> annotated the synonym sets (synsets).</p>
+    <p>The base file is being maintained at https://github.com/sanskrit-kosha/kosha/blob/master/abhidhanachintamani_hemachandra/orig/abhidhanachintamani.txt</p>
+    <p>XML generated programmatically from the dictionary digitization, abch.txt</p>
+   </creation>
+   <langUsage>
+    <language ident="en-Latn">English</language>
+    <language ident="sa-Latn-x-AS">Sanskrit</language>
+    <language ident="sa-Latn-x-SLP1">Sanskrit in Sanskrit Library Phonetic Basic encoding, a phonetic Romanization using only ASCII characters</language>
+   </langUsage>
+   <textClass>
+    <keywords scheme="#lcsh">
+     <list>
+      <item>Sanskrit language -- Dictionaries -- English.</item>
+     </list>
+    </keywords>
+    <catRef target="../../Publication/tei/IndicSubjectClassification.xml#koSa"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>Revisions documented by Dr. Dhaval Patel.
+    See <ptr target="https://github.com/sanskrit-kosha/kosha/commits/master/abhidhanachintamani_hemachandra/orig/abhidhanachintamani.txt"/>
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <facsimile>
+  <graphic url="https://github.com/sanskrit-lexicon-scans/abch/tree/main/pdfpages"/>
+ </facsimile>
+ <text>
+  
+  <body>
+   <xi:include href="abch.xml"><!-- The file that has the xml data -->
+    <xi:fallback>
+     <p>See the file abch.xml downloadable from <ref target="//www.sanskrit-lexicon.uni-koeln.de">//www.sanskrit-lexicon.uni-koeln.de</ref>.</p>
+    </xi:fallback>
+   </xi:include>
+  </body>
+ </text>
+</TEI>

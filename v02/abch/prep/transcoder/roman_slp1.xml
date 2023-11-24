@@ -1,0 +1,54 @@
+<fsm start='SKT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
+<e> <s>SKT</s> <in>ai</in> <out>E</out></e>
+<e> <s>SKT</s> <in>au</in> <out>O</out></e>
+<e> <s>SKT</s> <in>kh</in> <out>K</out></e>
+<e> <s>SKT</s> <in>gh</in> <out>G</out></e>
+<e> <s>SKT</s> <in>ch</in> <out>C</out></e>
+<e> <s>SKT</s> <in>jh</in> <out>J</out></e>
+<e> <s>SKT</s> <in>th</in> <out>T</out></e>
+<e> <s>SKT</s> <in>dh</in> <out>D</out></e>
+<e> <s>SKT</s> <in>ph</in> <out>P</out></e>
+<e> <s>SKT</s> <in>bh</in> <out>B</out></e>
+<e> <s>SKT</s> <in>\u1e6dh</in> <out>W</out></e>
+<e> <s>SKT</s> <in>\u1e0dh</in> <out>Q</out></e>
+<e> <s>SKT</s> <in>\u1e5b</in> <out>f</out></e>
+<e> <s>SKT</s> <in>\u1e37</in> <out>x</out></e>
+<e> <s>SKT</s> <in>\u0101</in> <out>A</out></e>
+<e> <s>SKT</s> <in>\u012b</in> <out>I</out></e>
+<e> <s>SKT</s> <in>\u016b</in> <out>U</out></e>
+<e> <s>SKT</s> <in>\u1e5d</in> <out>F</out></e>
+<e> <s>SKT</s> <in>\u1e39</in> <out>X</out></e>
+<e> <s>SKT</s> <in>\u1e45</in> <out>N</out></e>
+<e> <s>SKT</s> <in>\u00f1</in> <out>Y</out></e>
+<e> <s>SKT</s> <in>\u1e6d</in> <out>w</out></e>
+<e> <s>SKT</s> <in>\u1e0d</in> <out>q</out></e>
+<e> <s>SKT</s> <in>\u1e47</in> <out>R</out></e>
+<e> <s>SKT</s> <in>\u015b</in> <out>S</out></e>
+<e> <s>SKT</s> <in>\u1e63</in> <out>z</out></e>
+<e> <s>SKT</s> <in>\u1e25</in> <out>H</out></e>
+<e> <s>SKT</s> <in>\u1e41</in> <out>M</out></e> <!-- ṁ -->
+<e> <s>SKT</s> <in>\u1e43</in> <out>M</out></e> <!-- ṃ -->
+<e> <s>SKT</s> <in>'</in> <out>'</out></e>
+<!-- next non-standard. See comment in slp1_roman.xml  -->
+<e> <s>SKT</s> <in>\u0142</in> <out>L</out></e>
+<e> <s>SKT</s> <in>\u0142h</in> <out>|</out></e>
+
+<!-- next non-standard for diaresis -->
+<e> <s>SKT</s> <in>aï</in> <out>ai</out></e>
+<e> <s>SKT</s> <in>aü</in> <out>au</out></e>
+
+<!-- next added for invertibility 02-16-2022 -->
+<e> <s>SKT</s> <in>m̐</in> <out>~</out></e>
+<e> <s>SKT</s> <in>\u1e96</in> <out>Z</out></e>
+<e> <s>SKT</s> <in>\u1e2b</in> <out>V</out></e>
+
+<!-- 09-19-2022
+* udAtta  / 0301  COMBINING ACUTE ACCENT
+* svarita ^ 0300  COMBINING GRAVE ACCENT
+* anudAtta \ 0331 Combining Macron Below
+--> 
+<e n='116'> <s>SKT</s> <in>\u0301</in> <out>/</out> </e>
+<e n='117'> <s>SKT</s> <in>\u0300</in> <out>^</out> </e>
+<e n='118'> <s>SKT</s> <in>\u0331</in> <out>\</out> </e>
+
+</fsm>

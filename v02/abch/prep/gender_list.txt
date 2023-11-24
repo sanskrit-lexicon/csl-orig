@@ -1,0 +1,19 @@
+0175 a          avyaya,indeclineable
+3097 klI        klIba,neuter
+0002 klIba      klIba bahuvacana,neuter plural
+0002 klIdvi     klIba dvivacana,neuter dual
+6985 puM        puMs,masculine
+0020 puMba      puMs bahuvacana,masculine plural
+0039 puMdvi     puMs dvivacana,masculine dual
+0384 puMklI     puMs klIba vA,masculine or neuter
+0001 puMklIba   puMs klIba vA bahuvacana,masculine or neuter plural
+0001 puMklIdvi  puMs klIba vA dvivacana,masculine or neuter dual
+0122 puMstrI    puMs strI vA,masculine or feminine
+0002 puMstrIba  puMs strI vA bahuvacana,masculine or feminine plural
+0004 sa         sarvanAman,pronoun
+2529 strI       strI,feminine
+0021 strIba     strI bahuvacana,feminine plural
+0012 strIdvi    strI dvivacana,feminine dual
+0029 strIklI    strI klIba vA,feminine or neuter
+0038 tri        puMs strI klIba vA,masculine feminine or neuter
+0094 vA         vAcyaliNga,these adjectives take gender as per the noun
