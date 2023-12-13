@@ -339,7 +339,7 @@ bei Nacht.
 <LEND>
 
 <L>82<pc>002-1<k1>akza<k2>a/kza<h>2
-2. {#a/kza#}¦ {%m.%} Achese.
+2. {#a/kza#}¦ {%m.%} Achse.
 <LEND>
 
 <L>83<pc>002-1<k1>akza<k2>akza<h>3
@@ -70936,8 +70936,8 @@ eines Fürsten.
 {#pratizWA/na#}¦ {%n.%} Grundlage; {%N. einer Stadt.%}
 <LEND>
 
-<L>15445<pc>272-1<k1>pratizWa<k2>pratizWa/
-{#pratizWa/#}¦ {%f.%} Widerstand.
+<L>15445<pc>272-1<k1>pratizWi<k2>pratizWi/
+{#pratizWi/#}¦ {%f.%} Widerstand.
 <LEND>
 
 <L>15446<pc>272-1<k1>pratizWita<k2>pratizWita
@@ -90369,7 +90369,7 @@ hinhalten, darreichen, gewähren; {%Med.%}
 sich stützen auf {%(Loc.)%}, Stand halten,
 sich fügen, gehorsam sein {%(Dat.). p. p.%}
 {#yata/#} gehalten u. s. w., {%oft%} °— {%(auch—)%} {#°#})
-mit eigehaltenem {%o.%} gezügeltem —.
+mit eingehaltenem {%o.%} gezügeltem —.
 {%Caus.%} {#yama/yati, °te#} {%u.%} {#yAma/ti#} in
 Schranken halten, zügeln, ordnen. {#A#}
 ansoanen, ausstrecken; spannen
@@ -94724,8 +94724,8 @@ macht.
 
 <L>20526<pc>366-1<k1>ruD<k2>ruD<h>2
 2. {#ruD#},¦ {#ruRa/dDi, rundDe/ (rudDati, °te, roDati)#}
-zurückhalten, hemmen, einschlißen.
-einsperren in {%(Loc)%}, belagen, verdecken, <lbinfo n="7"/>
+zurückhalten, hemmen, einschließen.
+einsperren in {%(Loc)%}, belagern, verdecken, <lbinfo n="7"/>
 verstopfen, ertüllen; verhindern,
 wehren, verweigen; einbüßen, ver-
 lieren. {%p. p.%} {#rudDa/#} zurückgehalten u. s. w.
