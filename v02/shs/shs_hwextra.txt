@@ -1,0 +1,13 @@
+<L>2187.01<pc>039-b<k1>apAYc<k2>apAYc<type>alt<LP>2187<k1P>apAc<ln1>9099<ln2>9101
+<L>3938.01<pc>068-b<k1>avAYc<k2>avAYc<type>alt<LP>3938<k1P>avAc<ln1>16170<ln2>16175
+<L>4913.01<pc>084-a<k1>AN<k2>AN<type>alt<LP>4913<k1P>A<ln1>20017<ln2>20028
+<L>6936.01<pc>119-a<k1>ut<k2>ut<type>alt<LP>6939<k1P>ud<ln1>28362<ln2>28368
+<L>6964.01<pc>119-b<k1>udaYc<k2>udaYc<type>alt<LP>6964<k1P>udac<ln1>28471<ln2>28476
+<L>17495.01<pc>314-a<k1>tiryyaYc<k2>tiryyaYc<type>alt<LP>17495<k1P>tiryyac<ln1>73111<ln2>73117
+<L>23394.01<pc>423-b<k1>parAc<k2>parAc<type>alt<LP>23294<k1P>parAYc<ln1>98288<ln2>98291
+<L>26826.01<pc>485-a<k1>pratyaYc<k2>pratyaYc<type>alt<LP>26826<k1P>pratyac<ln1>112659<ln2>11665
+<L>27762.01<pc>502-a<k1>prAYc<k2>prAYc<type>alt<LP>27762<k1P>prAc<ln1>116581<ln2>116586
+<L>37845.01<pc>678-a<k1>vizvaYc<k2>vizvaYc<type>alt<LP>37845<k1P>apAc<ln1>158177<ln2>158182
+<L>37847.01<pc>678-a<k1>vizvadryaYc<k2>vizvadryaYc<type>alt<LP>31847<k1P>vizvadryac<ln1>158187<ln2>158190
+<L>43087.01<pc>771-a<k1>samyaYc<k2>samyaYc<type>alt<LP>43087<k1P>samyac<ln1>180021<ln2>180026
+<L>46719.01<pc>830-a<k1>havAva<k2>havAva<type>alt<LP>46719<k1P>havA<ln1>194455<ln2>194457
