@@ -25,7 +25,7 @@
 ;credits{1. SRKKF for funding. 2. Google OCR for providing us raw OCR data to work with. 3. www.archive.org for providing us the scanned book to digitize. 4. Dr. Dhaval Patel for spending time to digitize and proofread the data.}
 ;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
 ;editorialChanges{}
-;nymic{homo}
+;nymic{syno}
 ;pagenum{true}
 ;linenum{false}
 ;chapterArrangements{kanda holds varga.}
@@ -81,7 +81,7 @@
 <eid>5009<syns><s>vAyu-puM</s>
 <eid>5010<syns><s>vEkuRWa-puM</s>
 <eid>5011<syns><s>suSarman-puM</s>
-<eid>5011<syns><s>sADya-puM</s>
+<eid>5143<syns><s>sADya-puM</s>
 <s>dvAdaSArkA vasavo'zwO viSvedevAstrayodaSa .</s>
 <s>zawtriMSattuzitAScEva zazwirABAsvarA api .. 4 ..</s>
 <s>zawtriMSadaDike mAhArAjikASca Sate uBe .</s>
@@ -503,8 +503,8 @@
 <LEND>
 <L>46<pc>4
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1245<syns>
-<eid>1249<syns>
+<eid>1245<syns><s>pAriSAla-puM</s>
+<eid>1249<syns><s>daDisaktu-puMba</s>
 <s>apUpe pAriSAlo'Ta karambo daDisaktuzu (95) .</s>
 <LEND>
 <L>47<pc>4
