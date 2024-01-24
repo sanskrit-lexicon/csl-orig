@@ -11,3 +11,4 @@ v02/.cologne_last_run
 # python compile files
 *.pyc
 __pycache__
+.DS_Store
