@@ -19,7 +19,7 @@
 ;projectWebPage{http://github.com/sanskrit-kosha/kosha}
 ;emailTo{drdhaval2785@gmail.com}
 ;description{}
-;shortCode{ABCP}
+;shortCode{ABCH}
 ;funding{Shree Ramkrishna Knowledge Foundation.}
 ;licence{GNU GPL v3.0}
 ;credits{1. SRKKF for funding. 2. Google OCR for providing us raw OCR data to work with. 3. Acharya Shri Kailasasagarasuri Gyanamandir (www.kobatirth.org) for providing us the scanned book to digitize. 4. Navya Sahiti Kasturi for spending her valuable time to do data entry of the work. 5. Dr. Dhaval Patel for spending time to proofread the data. 6. Gender information is provided from commentaries of Hemachandra and Devasagaragani.}
@@ -867,7 +867,7 @@
 <LEND>
 <L>59<pc>8
 <info kvvv="<s>devakARqaH</s>"/>
-<eid>408<syns><s>IlvalAH-strIba</s>
+<eid>408<syns><s>ilvalAH-strIba</s>
 <s>ilvalAstu mfgaSiraHSirasTAH paYca tArakAH (110) .</s>
 <LEND>
 <L>60<pc>8
@@ -1181,7 +1181,6 @@
 <L>102<pc>10
 <info kvvv="<s>devakARqaH</s>"/>
 <eid>513<syns><s>parvamUla-klI</s>
-<eid>514<syns><s>BUtezwA-strI,caturdaSI-strI</s>
 <s>tatparvamUlaM BUtezwApaYcadaSyoryadantaram .. 148 ..</s>
 <LEND>
 <L>103<pc>10
@@ -1391,6 +1390,14 @@
 <eid>583<syns><s>vAyavyA-strI,uttarapaScimA-strI</s>
 <eid>584<syns><s>kOberI-strI,uttarA-strI</s>
 <eid>585<syns><s>ESAnI-strI,uttarapUrvA-strI</s>
+<eid>578.1<syns><s>indra-puM,pUrvadikpati-puM</s>
+<eid>579.1<syns><s>agni-puM,dakziRapUrvadikpati-puM</s>
+<eid>580.1<syns><s>yama-puM,dakziRadikpati-puM</s>
+<eid>581.1<syns><s>nErfta-puM,dakziRapaScimadikpati-puM</s>
+<eid>582.1<syns><s>varuRa-puM,paScimadikpati-puM</s>
+<eid>583.1<syns><s>vAyu-puM,uttarapaScimadikpati-puM</s>
+<eid>584.1<syns><s>kubera-puM,uttaradikpati-puM</s>
+<eid>585.1<syns><s>ISAna-puM,uttarapUrvadikpati-puM</s>
 <s>tiryagdiSAM tu pataya indrAgniyamarnErftAH .</s>
 <s>varuRo vAyukuberAvISAnaSca yaTAkramam .. 169 ..</s>
 <LEND>
@@ -1545,7 +1552,7 @@
 <eid>644<syns><s>varuRa-puM,arRavamandira-puM,pracetas-puM,jalapati-puM,yAdaHpati-puM,pASin-puM,meGanAda-puM,jalakAntAra-puM,paraYjana-puM</s>
 <s>syAdrAkzasaH puRyajano nfcakzA yAtvASaraH kORapayAtuDAnO .</s>
 <s>rAtriMcaro rAtricaraH palAdaH kInASarakzo nikasAtmajASca .. 187 ..</s>
-<s>kravyAtkarburanErftAksfkpo varuRastvarRavamandiraH pracetAH .</s>
+<s>kravyAtkarburanErftAvasfkpo varuRastvarRavamandiraH pracetAH .</s>
 <s>jalayAdaHpatipASimeGanAdA jalakAntAraH syAtparaMjanaSca .. 188 ..</s>
 <LEND>
 <L>154<pc>11
@@ -2124,7 +2131,7 @@
 <LEND>
 <L>218<pc>15
 <info kvvv="<s>devakARqaH</s>"/>
-<eid>868<syns><s>klizwa-klI,saNkula-klI,parasparAhata-klI</s>
+<eid>868<syns><s>klizwa-klI,saNkula-klI,parasparaparAhata-klI</s>
 <s>aTa klizwaM saMkulaM ca parasparaparAhatam .. 265 ..</s>
 <LEND>
 <L>219<pc>15
@@ -2148,7 +2155,7 @@
 <LEND>
 <L>222<pc>15
 <info kvvv="<s>devakARqaH</s>"/>
-<eid>876<syns><s>Amreqita-klI,dvirirukta-klI,trirukta-klI</s>
+<eid>876<syns><s>Amreqita-klI,dvirukta-klI,trirukta-klI</s>
 <eid>877<syns><s>abadDa-klI,nirarTaka-klI</s>
 <s>AmreqitaM dvistriruktamabadDaM tu nirarTakam .. 267 ..</s>
 <LEND>
@@ -2619,7 +2626,7 @@
 <info kvvv="<s>devakARqaH</s>"/>
 <eid>1045<syns><s>ahamahamikA-strI</s>
 <eid>1046<syns><s>ahopuruzikA-strI</s>
-<eid>1047<syns><s>ahaMpUrvikA-strI</s>
+<eid>1047<syns><s>ahampUrvikA-strI</s>
 <eid>1048<syns><s>ugratva-klI,caRqatA-strI</s>
 <s>sA miTo'hamahamikA yA tu saMBAvanAtmani .. 317 ..</s>
 <s>darpAtsAhopuruzikA syAdahaMpUrvikA punaH .</s>
@@ -2745,7 +2752,7 @@
 <L>306<pc>17
 <info kvvv="<s>devakARqaH</s>"/>
 <eid>1086<syns><s>rAzwriya-puM,nfpatiSyAla-puM</s>
-<eid>1087<syns><s>duhitf-puM,BartfdArikA-puM</s>
+<eid>1087<syns><s>rAjaduhitf-puM,BartfdArikA-puM</s>
 <s>rAzwriyo nfpateH SyAlo duhitA BartfdArikA .. 333 ..</s>
 <LEND>
 <L>307<pc>17
@@ -2855,7 +2862,7 @@
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>1122<syns><s>vAgISa-puM,vAkpati-puM</s>
 <eid>1123<syns><s>vAgmin-puM,vAcoyuktipawu-puM,pravAc-puM,samuKa-puM,vAvadUka-puM</s>
-<eid>1124<syns><s>vada-puM,vaktA-puM,vadAvada-puM</s>
+<eid>1124<syns><s>vada-puM,vaktf-puM,vadAvada-puM</s>
 <s>vAgISo vAkpatO vAgmI vAcoyuktipawuH pravAk .</s>
 <s>samuKo vAvadUko'Ta vado vaktA vadAvadaH .. 346 ..</s>
 <LEND>
@@ -3283,7 +3290,7 @@
 <L>383<pc>20
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>1253<syns><s>DAnAH-strIba</s>
-<eid>1254<syns><s>saktu-puMklI,saktavaH-puMklIbahu</s>
+<eid>1254<syns><s>saktu-puMklI,saktavaH-puMklIba</s>
 <s>BfzwA yavAH punarDAnA DAnAcUrRaM tu saktavaH (401) .</s>
 <LEND>
 <L>384<pc>20
@@ -3339,7 +3346,7 @@
 <LEND>
 <L>391<pc>20
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1273<syns><s>hyogohodBava-klI,hEyaNgavIna-klI</s>
+<eid>1273<syns><s>hyogodohodBava-klI,hEyaNgavIna-klI</s>
 <eid>1274<syns><s>Saraja-klI,daDisAra-klI,takrasAra-klI,navanIta-klI,navodDfta-klI</s>
 <s>hyogodohodBavaM hEyaMgavInaM SarajaM punaH .. 407 ..</s>
 <s>daDisAraM takrasAraM navanItaM navodDftam (408) .</s>
@@ -3399,7 +3406,7 @@
 <LEND>
 <L>401<pc>20
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1291<syns><s>praRIta-klI,upasaMpanna-klI</s>
+<eid>1291<syns><s>praRIta-klI,upasampanna-klI</s>
 <eid>1292<syns><s>snigDa-puM,masfRa-klI,cikkaRa-klI</s>
 <s>praRItamupasaMpannaM snigDe masfRacikkaRe .. 413 ..</s>
 <LEND>
@@ -3411,7 +3418,7 @@
 <L>403<pc>20
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>1294<syns><s>BAvita-klI,vAsita-klI</s>
-<eid>1295<syns><s>saMmfzwa-klI,SoDita-klI</s>
+<eid>1295<syns><s>sammfzwa-klI,SoDita-klI</s>
 <s>BAvitaM tu vAsitaM syAttulye saMmfzwaSoDite .. 414 ..</s>
 <LEND>
 <L>404<pc>20
@@ -3457,12 +3464,12 @@
 <LEND>
 <L>410<pc>20
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1306<syns><s>granTika-strI,sarvagranTika-strI,cawakASiras-strI</s>
+<eid>1306<syns><s>granTika-strI,sarvagranTika-strI,cawakASiras-klI</s>
 <s>tanmUlaM granTikaM sarvagranTikaM cawakASiraH .. 421 ..</s>
 <LEND>
 <L>411<pc>20
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1307<syns><s>trikawu-strI,tryUzaRa-strI,vyoza-strI</s>
+<eid>1307<syns><s>trikawu-klI,tryUzaRa-klI,vyoza-klI</s>
 <eid>1308<syns><s>ajAjin-puM,jIraka-puMklI,kaRA-strI</s>
 <s>trikawu tryUzaRaM vyozamajAjI jIrakaH kaRA (422) .</s>
 <LEND>
@@ -3875,7 +3882,7 @@
 <L>473<pc>22
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>1441<syns><s>siDman-klI,kilAsa-klI,tvakpuzpa-klI,siDma-klI</s>
-<eid>1442<syns><s>koWa-klI,maRqala-klI</s>
+<eid>1442<syns><s>koWa-puM,maRqala-klI</s>
 <s>siDma kilAsaM tvakpuzpaM siDmaM koWastu maRqalam (467) .</s>
 <LEND>
 <L>474<pc>22
@@ -4156,7 +4163,7 @@
 <LEND>
 <L>517<pc>23
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1533<syns><s>kAmaMgAmin-puM,anukAmIna-puM</s>
+<eid>1533<syns><s>kAmaNgAmin-puM,anukAmIna-puM</s>
 <eid>1534<syns><s>atyantIna-puM,atyantagAmin-puM</s>
 <s>kAmaMgAmyanugAmIno'tyantIno'tyantagAmini .. 495 ..</s>
 <LEND>
@@ -4416,13 +4423,13 @@
 <LEND>
 <L>549<pc>24
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1637<syns><s>diDizU-strI,pUnarBU-strI,dvirUQA-strI</s>
+<eid>1637<syns><s>diDizU-strI,punarBU-strI,dvirUQA-strI</s>
 <eid>1638<syns><s>diDizU-puM</s>
 <s>diDizUstu punarBUrdvirUQAsyA diDizUH patiH (525) .</s>
 <LEND>
 <L>550<pc>24
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1639<syns><s>agrediDizU-strI</s>
+<eid>1639<syns><s>agrediDizU-puM</s>
 <s>sa tu dvijo'grediDizuryasya syAtsEva gehinI .. 525 ..</s>
 <LEND>
 <L>551<pc>24
@@ -4788,9 +4795,9 @@
 <LEND>
 <L>604<pc>25
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1753<syns><s>Dammila-puM</s>
+<eid>1753<syns><s>Dammilla-puM</s>
 <eid>1754<syns><s>kabarI-strI</s>
-<s>DamillaH saMyatAH keSAH keSaveSe kabaryaTa (570) .</s>
+<s>DammillaH saMyatAH keSAH keSaveSe kabaryaTa (570) .</s>
 <LEND>
 <L>605<pc>25
 <info kvvv="<s>martyakARqaH</s>"/>
@@ -4888,7 +4895,7 @@
 <eid>1784<syns><s>asika-klI</s>
 <s>ganDajYA nAsikA nAsA GrARaM GoRA vikURikA .. 580 ..</s>
 <s>nakraM narkuwakaM SiNGinyozWo'Daro radacCadaH .</s>
-<s>dantavastraM ca tatprAntO sfkvaRI asikaM tvaDaH .. 581 ..</s>
+<s>dantavastraM ca tatprAntO sfkkaRI asikaM tvaDaH .. 581 ..</s>
 <LEND>
 <L>620<pc>25
 <info kvvv="<s>martyakARqaH</s>"/>
@@ -5049,7 +5056,7 @@
 <LEND>
 <L>644<pc>26
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1836<syns><s>gaRqUza-puMstrI,culuka-puMstrI,culu-puM</s>
+<eid>1836<syns><s>gaRqUza-puMstrI,culuka-puMstrI,calu-puM</s>
 <s>prasfte tu jalADAre gaRqUzaSculukaScaluH .. 598 ..</s>
 <LEND>
 <L>645<pc>26
@@ -5149,7 +5156,7 @@
 <L>661<pc>26
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>1864<syns><s>trika-klI</s>
-<eid>1865<syns><s>kukundare-klIdvi</s>
+<eid>1865<syns><s>kukundara-klI,pArSvakUpaka-puM</s>
 <s>trikaM vaMSADastatpArSvakUpakO tu kukundare .. 608 ..</s>
 <LEND>
 <L>662<pc>26
@@ -5274,7 +5281,8 @@
 <LEND>
 <L>678<pc>27
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1908<syns><s>bukkan-puM,hfd-klI,hfdaya-klI,vfkkA-strI,surasa-klI</s>
+<eid>1908<syns><s>bukkan-puM,hfd-klI,hfdaya-klI</s>
+<eid>1908.1<syns><s>vfkkA-strI,surasa-klI</s>
 <s>vukkA hfdDfdayaM vfkkA surasaM ca tadagrimam .. 623 ..</s>
 <LEND>
 <L>679<pc>27
@@ -5469,8 +5477,8 @@
 ;p{0028}
 <L>707<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>1966<syns><s>vfkaDUpa-puM,kftrimaDUpa-puM,turuzka-puMklI,sihla-puM,piRqaka-puM</s>
-<s>DUpo vfkzAtkftrimAcca turuzkaH silhapiRqakO (648) .</s>
+<eid>1966<syns><s>vfkaDUpa-puM,kftrimaDUpa-puM,turuzka-puMklI,silha-puM,piRqaka-puM</s>
+<s>DUpo vakAtkftrimAcca turuzkaH silhapiRqakO (648) .</s>
 <LEND>
 <L>708<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
@@ -5555,8 +5563,8 @@
 <L>721<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>1991<syns><s>grEveyaka-klI,kaRWaBUzA-strI</s>
-<eid>1992<syns><s>lalambikA-strI</s>
-<s>grEveyakaM kaRWaBUzA lambamAnA lalambikA (657) .</s>
+<eid>1992<syns><s>lalantikA-strI</s>
+<s>grEveyakaM kaRWaBUzA lambamAnA lalantikA (657) .</s>
 <LEND>
 <L>722<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
@@ -5635,7 +5643,7 @@
 <LEND>
 <L>733<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>2019<syns><s>nUpura-klI,tulAkowi-puMklI,pAdakawaka-strI,pAdANgada-strI,maYjIra-puMklI,haMsaka-puMklI,SiYjinI-strI</s>
+<eid>2019<syns><s>nUpura-klI,tulAkowi-puMklI,pAdakawaka-puMklI,pAdANgada-klI,maYjIra-puMklI,haMsaka-puMklI,SiYjinI-strI</s>
 <eid>2020<syns><s>aMSuka-klI,vastra-puMklI,ambara-klI,sicaya-puM,vasana-klI,cIra-puM,AcCAda-puM,siYc-strI,cela-klI,vAsas-klI,pawa-tri,prota-puM</s>
 <eid>2021<syns><s>aYcala-puMklI</s>
 <eid>2022<syns><s>varti-puMstrI,vasti-puMstrI,daSAH-puMstrIba</s>
@@ -5657,6 +5665,11 @@
 <LEND>
 <L>736<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
+<eid>2025.1<syns><s>tvac-strI</s>
+<eid>2025.2<syns><s>Pala-klI</s>
+<eid>2025.3<syns><s>kfmi-puM</s>
+<eid>2025.4<syns><s>roman-klI</s>
+<eid>2025.5<syns><s>vastrayoni-strI</s>
 <eid>2026<syns><s>kzOma-klI</s>
 <eid>2027<syns><s>kArpAsa-klI</s>
 <eid>2028<syns><s>kOSeya-klI</s>
@@ -5706,10 +5719,10 @@
 <L>744<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>2040<syns><s>uccaya-puM,nIvI-strI</s>
-<eid>2041<syns><s>caRqAtaka-puMklI,calanaka-puM</s>
+<eid>2041<syns><s>arDoruka-klI,caRqAtaka-puMklI,calanaka-puM</s>
 <eid>2042<syns><s>calanI-strI</s>
-<s>tadgranTiruccayo nIvIvarastryarDorukAMSurum .. 673 ..</s>
-<s>caRqAtakaM calanakaM calanI tvitarastriyAH (674) .</s>
+<s>tadgranTiruccayo nIvI varastryarDorukAMSukam .. 673 ..</s>
+<s>caRqAtakaM calanakaH calanI tvitarastriyAH (674) .</s>
 <LEND>
 <L>745<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
@@ -5719,7 +5732,7 @@
 <L>746<pc>28
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>2044<syns><s>SAwI-strI,cowI-strI</s>
-<eid>2045<syns><s>nISAra-puM</s>
+<eid>2045<syns><s>nISAra-puM,himavAtApahAMSuka-klI</s>
 <s>SAwI cowyaTa nISAro himavAtApahAMSuke (675) .</s>
 <LEND>
 <L>747<pc>28
@@ -6072,8 +6085,8 @@
 <eid>2159<syns><s>amAtya-puM</s>
 <eid>2160<syns><s>suhfd-puM</s>
 <eid>2161<syns><s>koSa-puM</s>
-<eid>2162<syns><s>rAzwra-puM</s>
-<eid>2163<syns><s>durga-puM</s>
+<eid>2162<syns><s>rAzwra-klI</s>
+<eid>2163<syns><s>durga-klI</s>
 <eid>2164<syns><s>bala-klI</s>
 <eid>2165<syns><s>SreRi-strI</s>
 <s>svAmyamAtyaH suhftkoSo rAzwradurgabalAni ca .</s>
@@ -6412,6 +6425,10 @@
 <L>847<pc>31
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>2279<syns><s>senANga-klI</s>
+<eid>2279.1<syns><s>gaja-puM</s>
+<eid>2279.2<syns><s>vAjin-puM</s>
+<eid>2279.3<syns><s>raTa-puM</s>
+<eid>2279.4<syns><s>patti-puM</s>
 <s>gajo vAjI raTaH pattiH senANgaM syAccaturviDam (751) .</s>
 <LEND>
 <L>848<pc>31
@@ -6817,7 +6834,7 @@
 <L>911<pc>32
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>2408<syns><s>urasvat-puM,urasila-puM</s>
-<eid>2409<syns><s>Urjasvin-puM,Urjasvala-puM</s>
+<eid>2409<syns><s>urjasvin-puM,urjasvala-puM</s>
 <s>syAdusvAnurasila urjasvyurjasvalO samO .. 792 ..</s>
 <LEND>
 <L>912<pc>32
@@ -6954,6 +6971,7 @@
 <L>933<pc>33
 <info kvvv="<s>martyakARqaH</s>"/>
 <eid>2447<syns><s>cAturvarRya-klI</s>
+<eid>2447.1<syns><s>varRa-puM</s>
 <eid>2448<syns><s>dvija-puM</s>
 <eid>2449<syns><s>kzatra-puM</s>
 <eid>2450<syns><s>vESya-puM</s>
@@ -7244,7 +7262,7 @@
 <eid>2542<syns><s>agnihotrin-puM,agnicit-puM,AhitAgni-puM</s>
 <eid>2543<syns><s>agnirakzaRa-klI,agnyADAna-klI,agnihotra-klI</s>
 <eid>2544<syns><s>darvI-strI,GftaleKanI-strI</s>
-<s>agnihotryamiviccAhitAgnAvaTAgnirakzaRam .. 835 ..</s>
+<s>agnihotryagniciccAhitAgnAvaTAgnirakzaRam .. 835 ..</s>
 <s>agnyADAnamagnihotraM darvI tu GftaleKanI (836) .</s>
 <LEND>
 <L>979<pc>34
@@ -7764,7 +7782,8 @@
 <eid>2726<syns><s>kuwumbin-puM,karzaka-puM,kzetrin-puM,halin-puM,kfzika-puM,kArzika-puM,kfzIvala-puM</s>
 <eid>2727<syns><s>jityA-strI,hali-puMstrI</s>
 <eid>2728<syns><s>sIra-puM,lANgala-klI,godAraRa-klI,hala-klI</s>
-<eid>2729<syns><s>IzA-strI,sItA-strI</s>
+<eid>2729<syns><s>IzA-strI,haladaRqa-puM</s>
+<eid>2729.1<syns><s>sItA-strI,halapadDati-strI</s>
 <s>kuwumbI karzakaH kzetrI halI kfzikakArzikO .</s>
 <s>kfzIvalo'pi jityA tu haliH sIrastu lANgalam .. 890 ..</s>
 <s>godAraRaM halamIzAsIte taddaRqapadDatI (891) .</s>
@@ -7878,7 +7897,7 @@
 <s>madyaM madizWA madirA parisrutA kaSyaM parisrunmaDu kApiSAyanam .</s>
 <s>ganDottamA kalyamirA pariplutA kAdambarI svAdurasA halipriyA .. 902 ..</s>
 <s>SuRqA hAlA hArahUraM prasannA vAruRI surA .</s>
-<s>mArdvIkaM madanA devasfzwA kApiSamabDijA .. 903 ..</s>
+<s>mADvIkaM madanA devasfzwA kApiSamabDijA .. 903 ..</s>
 <LEND>
 <L>1072<pc>36
 <info kvvv="<s>martyakARqaH</s>"/>
@@ -8135,7 +8154,7 @@
 <LEND>
 <L>1114<pc>37
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>2840<syns><s>jAlika-strI,vAgurika-strI</s>
+<eid>2840<syns><s>jAlika-puM,vAgurika-puM</s>
 <eid>2841<syns><s>vAgurA-strI,mfgajAlikA-strI</s>
 <s>jAlikaSca vAguriko vAgurA mfgajAlikA (928) .</s>
 <LEND>
@@ -8190,7 +8209,7 @@
 <LEND>
 <L>1123<pc>37
 <info kvvv="<s>martyakARqaH</s>"/>
-<eid>2856<syns><s>mlecCajAti-puM</s>
+<eid>2856<syns><s>mlecCajAti-strI</s>
 <eid>2857<syns><s>pulinda-puM</s>
 <eid>2858<syns><s>nAhala-puM</s>
 <eid>2859<syns><s>nizwya-puM</s>
@@ -8233,13 +8252,13 @@
 <info kvvv="<s>tiryakkARqaH</s>, <s>pfTvIkAyaH</s>"/>
 <eid>2870<syns><s>sTala-klI,sTalI-strI</s>
 <eid>2871<syns><s>maru-puM,Danvan-klI</s>
-<eid>2872<syns><s>Kila-klI</s>
+<eid>2872<syns><s>Kila-klI,aprahata-klI</s>
 <s>sTalaM sTalI marurDanvA kzetrAdyaprahataM Kilam (940) .</s>
 <LEND>
 <L>1128<pc>37
 <info kvvv="<s>tiryakkARqaH</s>, <s>pfTvIkAyaH</s>"/>
 <eid>2873<syns><s>mfd-strI,mfttikA-strI</s>
-<eid>2874<syns><s>kzArA-strI</s>
+<eid>2874<syns><s>kzArA-strI,Uza-puM</s>
 <eid>2875<syns><s>mftsA-strI,mftsnA-strI</s>
 <s>mfnmfttikA sA kzArozo mftsA mftsnA ca sA SuBA .. 940 ..</s>
 <LEND>
@@ -8282,8 +8301,8 @@
 <L>1134<pc>37
 <info kvvv="<s>tiryakkARqaH</s>, <s>pfTvIkAyaH</s>"/>
 <eid>2887<syns><s>karmaBUmi-strI</s>
-<eid>2888<syns><s>Barata-klIbahu</s>
-<eid>2889<syns><s>ErAvata-klIbahu</s>
+<eid>2888<syns><s>Barata-klIba</s>
+<eid>2889<syns><s>ErAvata-klIba</s>
 <eid>2890<syns><s>videha-puMba</s>
 <eid>2891<syns><s>PalaBUmi-strI</s>
 <s>BaratAnyErAvatAni videhASca kurUnvinA .</s>
@@ -8350,8 +8369,7 @@
 <L>1145<pc>38
 <info kvvv="<s>tiryakkARqaH</s>, <s>pfTvIkAyaH</s>"/>
 <eid>2906<syns><s>jaNgala-puM,nirjala-puM</s>
-<eid>2907<syns><s>anUpa-puM,ambumat-puM</s>
-<eid>2908<syns><s>kacCa-puMklI</s>
+<eid>2907<syns><s>anUpa-puM,ambumat-puM,kacCa-puMklI</s>
 <s>jaNgalo nirjalo'nUpo'mbumAnkacCastu tadviDaH .. 953 ..</s>
 <LEND>
 <L>1146<pc>38
@@ -9020,7 +9038,7 @@
 <LEND>
 <L>1253<pc>40
 <info kvvv="<s>tiryakkARqaH</s>, <s>pfTvIkAyaH</s>"/>
-<eid>3116<syns><s>kambi-strI,divi-strI,KajAkA-strI</s>
+<eid>3116<syns><s>kambi-strI,darvi-strI,KajAkA-strI</s>
 <eid>3117<syns><s>tardU-strI,dAruhastaka-puM</s>
 <s>kambirdarviH KajAkATa syAttardUrdAruhastakaH (1021) .</s>
 <LEND>
@@ -9209,7 +9227,7 @@
 <L>1284<pc>40
 <info kvvv="<s>tiryakkARqaH</s>, <s>pfTvIkAyaH</s>"/>
 <eid>3172<syns><s>tAmra-klI,mlecCamuKa-klI,Sulba-klI,rakta-klI,dvyazwa-klI,udumbara-klI,mlecCa-klI,SAbara-klI,markawAsya-klI,kanIyasa-klI,brahmavarDana-klI,varizWa-klI</s>
-<eid>3173<syns><s>sIsa-klI,sIsapatraka-klI,nAga-klI,gaRqUpadaBava-klI,vapra-klI,sindUrakAraRa-klI,varDra-puMklI,svarRAri-klI,yogezwa-klI,yavanezwa-klI,suvarRaka-klI</s>
+<eid>3173<syns><s>sIsaka-klI,sIsapatraka-klI,nAga-klI,gaRqUpadaBava-klI,vapra-klI,sindUrakAraRa-klI,varDra-puMklI,svarRAri-klI,yogezwa-klI,yavanezwa-klI,suvarRaka-klI</s>
 <s>tAmraM mlecCamuKaM SulvaM raktaM dvyazwamudumbaram .. 1039 ..</s>
 <s>mlecCaSAbaraBedAKyaM markawAsyaM kanIyasam .</s>
 <s>brahmavarDanaM varizWaM sIsaM tu sIsapattrakam .. 1040 ..</s>
@@ -9287,7 +9305,7 @@
 <LEND>
 <L>1296<pc>41
 <info kvvv="<s>tiryakkARqaH</s>, <s>pfTvIkAyaH</s>"/>
-<eid>3189<syns><s>aBraka-klI,svacCapatra-klI,Ka-klI,meGAKya-klI,girijAmala-klI</s>
+<eid>3189<syns><s>aBraka-klI,svacCapatra-klI,Ka-klI,meGAKya-klI,girija-klI,amala-klI</s>
 <s>aBrakaM svacCapattraM KaM meGAKyaM girijAmale (1051) .</s>
 <LEND>
 <L>1297<pc>41
@@ -10132,7 +10150,7 @@
 <L>1427<pc>45
 <info kvvv="<s>tiryakkARqaH</s>, <s>vanaspatikAyaH</s>"/>
 <eid>3431<syns><s>DAtrI-strI,SivA-strI,AmalakI-strI</s>
-<eid>3432<syns><s>kalirakza-puM,biBItaka-tri</s>
+<eid>3432<syns><s>kali-puM,akza-puM,biBItaka-tri</s>
 <s>DAtrI SivA cAmalakI kalirakzo biBItakaH .. 1145 ..</s>
 <LEND>
 <L>1428<pc>45
@@ -10815,7 +10833,7 @@
 <LEND>
 <L>1526<pc>47
 <info kvvv="<s>tiryakkARqaH</s>, <s>caturindriyAH</s>"/>
-<eid>3672<syns><s>varvaRA-strI</s>
+<eid>3672<syns><s>varvaRA-strI,makzikA-strI,nIlA-strI</s>
 <eid>3673<syns><s>puttikA-strI,pataNgikA-strI</s>
 <s>varvaRA makzikA nIlA puttikA tu pataNgikA .. 1214 ..</s>
 <LEND>
@@ -11025,7 +11043,7 @@
 <LEND>
 <L>1558<pc>48
 <info kvvv="<s>tiryakkARqaH</s>, <s>paYcendriyAH</s>, <s>sTalacarapaYcendriyAH</s>"/>
-<eid>3743<syns><s>javana-puM</s>
+<eid>3743<syns><s>javana-puM,javADika-puM</s>
 <eid>3744<syns><s>raTya-puM</s>
 <s>javADikastu javano raTyo voQA raTasya yaH (1234) .</s>
 <LEND>
@@ -11110,7 +11128,7 @@
 <L>1572<pc>48
 <info kvvv="<s>tiryakkARqaH</s>, <s>paYcendriyAH</s>, <s>sTalacarapaYcendriyAH</s>"/>
 <eid>3770<syns><s>ukanAha-puM</s>
-<eid>3771<syns><s>SoRa-puM</s>
+<eid>3771<syns><s>SoRa-puM,kokanadacCavi-puM</s>
 <s>ukanAhaH pItaraktacCAyaH sa eva tu kvacit .. 1241 ..</s>
 <s>kfzRaraktacCaviH proktaH SoRaH kokanadacCaviH (1242) .</s>
 <LEND>
@@ -11281,7 +11299,9 @@
 <LEND>
 <L>1599<pc>48
 <info kvvv="<s>tiryakkARqaH</s>, <s>paYcendriyAH</s>, <s>sTalacarapaYcendriyAH</s>"/>
-<eid>3822<syns><s>yugya-puM,prAsaNgya-puM,SAkawa-puM</s>
+<eid>3822<syns><s>yugya-puM</s>
+<eid>3822.1<syns><s>prAsaNgya-puM</s>
+<eid>3822.2<syns><s>SAkawa-puM</s>
 <s>yugAdInAM tu voQAro yugyaprAsaNgyaSAkawAH (1261) .</s>
 <LEND>
 <L>1600<pc>48
@@ -11369,7 +11389,7 @@
 <L>1613<pc>49
 <info kvvv="<s>tiryakkARqaH</s>, <s>paYcendriyAH</s>, <s>sTalacarapaYcendriyAH</s>"/>
 <eid>3849<syns><s>droRadugDA-strI,droRaduGA-strI</s>
-<eid>3850<syns><s>pInoGnI-strI,pIvarastanI-strI</s>
+<eid>3850<syns><s>pInoDnI-strI,pIvarastanI-strI</s>
 <s>droRadugDA droRaduGA pInoDnI pIvarastanI .. 1269 ..</s>
 <LEND>
 <L>1614<pc>49
@@ -11555,6 +11575,7 @@
 <eid>3913<syns><s>kfzRasAra-puM</s>
 <eid>3914<syns><s>pfzata-puM</s>
 <eid>3915<syns><s>rohita-puM</s>
+<eid>3915.1<syns><s>mfga-puM</s>
 <s>mfgaBedA rurunyaNkuraNkugokarRaSambarAH .. 1293 ..</s>
 <s>camUrucInacamarAH samUrERarSyarOhizAH .</s>
 <s>kadalI kandalI kfzRasAraH pfzatarohitO .. 1294 ..</s>
@@ -12112,7 +12133,7 @@
 ;k{<s>narakakARqaH</s>}
 <L>1726<pc>52
 <info kvvv="<s>narakakARqaH</s>"/>
-<eid>4068<syns><s>nAraka-puM,pareta-puM,prata-puM,yAtya-puM,ativAhika-puM</s>
+<eid>4068<syns><s>nAraka-puM,pareta-puM,preta-puM,yAtya-puM,ativAhika-puM</s>
 <s>syurnArakAstu paretapretayAtyAtivAhikAH (1358) .</s>
 <LEND>
 <L>1727<pc>52
@@ -12288,7 +12309,7 @@
 <info kvvv="<s>sAmAnyakARqaH</s>"/>
 <eid>4120<syns><s>Darma-puM,puRya-klI,vfza-puM,Sreyas-klI,sukfta-klI</s>
 <eid>4121<syns><s>niyati-strI,viDi-puM,dEva-puMklI,BAgya-klI,BAgaDeya-klI,dizwa-klI</s>
-<eid>4122<syns><s>ayas-puM</s>
+<eid>4122<syns><s>aya-puM</s>
 <s>DarmaH puRyaM vfzaH SreyaH sukfte niyatO viDiH .</s>
 <s>dEvaM BAgyaM BAgaDeyaM dizwaM cAyastu tacCuBam .. 1379 ..</s>
 <LEND>
@@ -12869,7 +12890,7 @@
 <info kvvv="<s>sAmAnyakARqaH</s>"/>
 <eid>4325<syns><s>vyuzwi-strI,Pala-klI</s>
 <eid>4326<syns><s>asAra-klI,Palgu-klI</s>
-<eid>4327<syns><s>SUnya-klI,rikta-klI,Sunya-klI,tucCa-klI,vaMSika-klI</s>
+<eid>4327<syns><s>SUnya-klI,rikta-klI,Sunya-klI,tucCa-klI,vaSika-klI</s>
 <eid>4328<syns><s>nibiqa-klI,nirantara-klI,nibirIsa-klI,Gana-klI,sAndra-klI,nIranDra-klI,bahala-klI,dfQa-klI,gAQa-klI,avirala-klI</s>
 <eid>4329<syns><s>virala-klI,tanu-klI,pelava-klI</s>
 <s>vyuzwiH PalamasAraM tu Palgu SUnyaM tu riktakam .</s>
@@ -13130,7 +13151,7 @@
 <info kvvv="<s>sAmAnyakARqaH</s>"/>
 <eid>4400<syns><s>digDa-klI,lipta-klI</s>
 <eid>4401<syns><s>rugRa-klI,Bugna-klI</s>
-<eid>4402<syns><s>ruzita-klI,guRqita-klI</s>
+<eid>4402<syns><s>rUzita-klI,guRqita-klI</s>
 <s>same digDalipte rugRaBugne rUzitaguRqite (1483) .</s>
 <LEND>
 <L>1869<pc>56
@@ -13422,7 +13443,7 @@
 <info kvvv="<s>sAmAnyakARqaH</s>"/>
 <eid>4490<syns><s>nizWA-strI,nirvahaRa-klI</s>
 <eid>4491<syns><s>pravaha-puM,bahirgamana-klI</s>
-<s>nizWAnirvahaRe tulye pravAho gamanaM bahiH .. 1514 ..</s>
+<s>nizWAnirvahaRe tulye pravaho gamanaM bahiH .. 1514 ..</s>
 <LEND>
 <L>1915<pc>57
 <info kvvv="<s>sAmAnyakARqaH</s>"/>
