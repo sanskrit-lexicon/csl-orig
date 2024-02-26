@@ -19586,7 +19586,7 @@
 <s>jakzitA-trI, jakzayitA-trI, jijakzizitA-trI, jAjakzitA-trI</s>;
 <sup>4</sup> <s>jakzat</s>
 <sup>A</sup> <s>-tI</s>,
-<sup>5</sup> <s>jakzanti-jaksati[kulAni]</s>,
+<sup>5</sup> <s>jakzanti-jakzati[kulAni]</s>,
 <sup>6</sup> <s>jakzayan-ntI, jijakzizan-ntI; -</s>-
 <s>jakzizyan-ntI-tI, jakzayizyan-ntI-tI, jijakzizizyan-ntI-tI; </s>-
 <s>— — — jAjakzyamARaH, jAjakzizyamARaH</s>;
@@ -26932,7 +26932,7 @@
 <s>dehanam, dehanam, diDikzaRam, dedihanam</s>;
 <s>digDvA, dehayitvA, diDikzitvA, dedihitvA</s>;
 <s>sandihya, saMdehya, pradiDikzya, pradedihya</s>;
-<note n="1"/><s>deham</s> 2 <s>digDvA</s> 2 <s>deham</s> 2 <s>dehayitvA</s> 2 <s>diDiksam</s> 2 <s>diDikzitvA</s> 2 <s>dediham</s> 2<s>; dedihitvA</s> 2.
+<note n="1"/><s>deham</s> 2 <s>digDvA</s> 2 <s>deham</s> 2 <s>dehayitvA</s> 2 <s>diDikzam</s> 2 <s>diDikzitvA</s> 2 <s>dediham</s> 2<s>; dedihitvA</s> 2.
 <F>5. <s>DAtorasyAniwtvAt, JalAdeH sanaH kittve, DAtuhakArasya Gatve, GakArasya kakAre</s>,
 <s>BazBAvena dakArasya DakAre ca rUpamevam . evaM sannante sarvatra jYeyam .</s></F>
 <F>6. <s>tfci, hakArasya Gatve, ‘JazastaTorDo'DaH’</s> (8-2-40) <s>iti takArasya Datve jaStve ca</s>
