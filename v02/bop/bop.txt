@@ -2005,8 +2005,8 @@ retulerim gr. <lang n="greek">ἀϕϱός</lang>).
 <L>375<pc>013-a<k1>apa<k2>apa
 {#apa#}¦ {%Praep. praef.%} ab, de (gr. <lang n="greek">ἀπό</lang>, lat. {%ab%}, goth. {%af%}, angl.
 {%of%}, germ. vet. {%af-tar%} post cum suff. compar. - v. gr. comp. 294.
-- goth. {%af-tarô%} retro, a tergo; cf. etiam lith. {%apaćia%}
-pars inferior, {%apaćioj%} infra, {%apatinnis%} inferior; huc
+- goth. {%af-tarô%} retro, a tergo; cf. etiam lith. {%apaćia%}
+pars inferior, {%apaćioj%} infra, {%apatinnis%} inferior; huc
 etiam retulerim slav. insep. {%o%} de, abjecto {%p%}).
 <LEND>
 
@@ -4852,7 +4852,7 @@ deus.
 genii, duodecim numero (Wilson ad hanc vocem:
 «{%The Aditya's are 12 in number, they are forms of
 SURYA or the sun, and appear to represent him as distinct
-in each month of the year%}. AM».).
+in each month of the year%}. AM.»).
 <LEND>
 
 <L>905<pc>030-a<k1>AdityatUpa<k2>AdityatUpa
@@ -6482,7 +6482,7 @@ mundo). — {%Locativi%} {#asmin#} {%loco fungitur%} SA. 2.21.:
 HIT. 104.15.: {#iha samaye#} hoc tempore. 2) huc. IN. 4.6.
 (Zend. <lang n="Avestan"> 𐬌𐬜𐬀</lang> {%idha%} hîc; gr. <lang n="greek">ἰϑᾱ</lang> vel <lang n="greek">ἰϑαι</lang> in <lang n="greek">ἰϑα-γενής, ἰϑαι-γενής</lang>,
 cf. Hartung «Casus» p. 117. et M.
-Schmidt «De pron. gr. et lat». p. 16.; goth. {%ith%} si, nam,
+Schmidt «De pron. gr. et lat.» p. 16.; goth. {%ith%} si, nam,
 vero, gr. comp. 420.; fortasse lat. {%igi-tur%} pro {%igi-tus%} ex
 {#iha + tas#}, v. gr. comp. 421.)
 <LEND>
@@ -8802,7 +8802,7 @@ ex {%olkys%}, mutato {%r%} in {%l%}.
 
 <L>1596<pc>056-a<k1>fgyajuHsAmavedin<k2>fgyajuHsAmavedin
 {#fgyajuHsAmavedin#}¦ (a {#fgyajuHsAmaveda#} s. {#in#}) Vêdos
-Rić (vulgo Rik) Yajus et Sâma habens aut noscens.
+Rić (vulgo Rik) Yajus et Sâma habens aut noscens.
 IN. 2.18.
 <LEND>
 
@@ -11557,7 +11557,7 @@ enclitica {#cit#} quac in dialecto Vêdicâ etiam cun Substantivis
 conjungitur - e. c. {#vayaScit#} aves a {#vi#} - est
 neutrum stirpis {#ci#}, quod ortum est e {#ki#}, unde formis
 Vêdicis {#mAkis, nakis#} respondent Zend. <lang n="Avestan"> 𐬨𐬁𐬗𐬌𐬱</lang>
-{%mâ-ćis%}, <lang n="Avestan"> 𐬥𐬀𐬈𐬗𐬌𐬱</lang> {%naê-ćis%}, v. gr. comp. 328.)
+{%mâ-ćis%}, <lang n="Avestan"> 𐬥𐬀𐬈𐬗𐬌𐬱</lang> {%naê-ćis%}, v. gr. comp. 328.)
 <LEND>
 
 <L>2119<pc>072-b<k1>kiYcilika<k2>kiYcilika
@@ -17677,7 +17677,7 @@ quâ in re cum goth. {%fidvôr%} et cambro-brit. {%pedwar%} masc.,
 
 <L>3067<pc>118-a<k1>catur<k2>catur<h>2
 2. {#catur#}¦ {%Adv.%} (pro {#caturs#}, unde per metathesin zend.
-<lang n="Avestan"> 𐬗𐬀𐬚𐬭𐬎𐬱</lang> {%ćathrus%}) quater. (Lat. {%quater%}.)
+<lang n="Avestan"> 𐬗𐬀𐬚𐬭𐬎𐬱</lang> {%ćathrus%}) quater. (Lat. {%quater%}.)
 <LEND>
 
 <L>3068<pc>118-a<k1>catura<k2>catura
@@ -18326,7 +18326,7 @@ A. 9.9.: {#sarvato mAm acinvanta saraTan DaraRIDarEH#}.
 Gunae vocali {#a#} explicaverim aut ex {#A#} formae caus.
 {#cApayAmi#}, ad quam Pottius p. 204. apte, ut mihi videtur,
 refert polon. {%kupa%} cumulus, et nostrum {%Haufen%}; forma
-russ. <lang n="Russian">куча</lang> {%kûća%} nititur eo, quod palatales facile in
+russ. <lang n="Russian">куча</lang> {%kûća%} nititur eo, quod palatales facile in
 gutturales et hae in palatales transeunt.)
 [Page123-b+ 37]
 <div n="pfx">c. {#apa#} deminuere, attenuare. SAK. 31.15.: {#apacitaN
@@ -23085,7 +23085,7 @@ rAGava#}; {%c. gen.%} MAH. 1.4585.: {#vyapatrapan manuzyARAm#}.
 <LEND>
 
 <L>3876<pc>159-b<k1>trayI<k2>trayI
-{#trayI#}¦ {%f.%} (a praec. signo {%fem.%} {#I#}) tres {%Vêdi%}, ({%Rić, Yajus%} et
+{#trayI#}¦ {%f.%} (a praec. signo {%fem.%} {#I#}) tres {%Vêdi%}, ({%Rić, Yajus%} et
 {%Sâman%}). BH. 9.21.
 <LEND>
 
@@ -26932,7 +26932,7 @@ nonnullis compositis solum occurrit; v. apud Wils. {#naktacArin, naktaBojana, na
 [Page188-1b+ 14]
 N. 2.4.
 (Cf. lith. {%nakti-s%} nox; goth. {%naht-s%}, them. {%nahti%}; lat.
-{%noctu, NOCT%}; gr. <lang n="greek">ΝΥΚΤ</lang>; hib. {%nochd%}; russ. {%noćj%}.)
+{%noctu, NOCT%}; gr. <lang n="greek">ΝΥΚΤ</lang>; hib. {%nochd%}; russ. {%noćj%}.)
 <LEND>
 
 <L>4455<pc>188-1b<k1>naktamAla<k2>naktamAla
@@ -31113,7 +31113,7 @@ apiMSata#} «Ribhues! cute vaccam induistis».
 <LEND>
 
 <L>5142<pc>217-b<k1>piSAca<k2>piSAca
-{#piSAca#}¦ {%m.%} {%Piśâćus%}, nomen malorum daemonum. N. 12.7.
+{#piSAca#}¦ {%m.%} {%Piśâćus%}, nomen malorum daemonum. N. 12.7.
 <LEND>
 
 <L>5143<pc>217-b<k1>piSAcI<k2>piSAcI
