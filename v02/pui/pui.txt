@@ -45414,7 +45414,7 @@ performing Śrāddhas.
 
 <L>6572<pc>2-164<k1>Darmavarman<k2>Darmavarman<h>II
 {%Dharmavarman%} (II)¦ — a son of Rāmacandra and father
-of Vanga.
+of Vaṅga.
 <div n="P"/>Vi. IV. 24. 56.
 <LEND>
 [Page2-165+ 35]
@@ -70817,8 +70817,8 @@ dom in the absence of king, Sagara.
 <LEND>
 
 <L>10159<pc>2-628<k1>mantropanizad<k2>mantropanizad
-{%Mantropaniṣad%}¦ — a secret mantra in honour of Sankar-
-ṣaṇa, taught to king Citraketu by Nārada; its text.
+{%Mantropaniṣad%}¦ — a secret mantra in honour of 
+Saṅkarṣaṇa, taught to king Citraketu by Nārada; its text.
 <div n="P"/>Bhā. VI. 15. 27; 16. 18-25.
 <LEND>
 
