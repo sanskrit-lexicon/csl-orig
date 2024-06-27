@@ -2214,7 +2214,7 @@ a.’ {#tryAhikavizamaH;#} ‘quartan a.’ {#cAturTika-#}
 <LEND>
 
 <L>225<pc>010<k1>ahead<k2>ahead
-{@Ahead,@}¦ {%adv.%} {#agne, purataH, puraH#}.
+{@Ahead,@}¦ {%adv.%} {#agre, purataH, puraH#}.
 <LEND>
 
 <L>226<pc>010<k1>aheap<k2>aheap
@@ -88004,7 +88004,7 @@ w.’ {#laGvarTa, laGupraBAva, aguru#}. {@-y,@} {%a.%} {#guru,#}
 <LEND>
 
 <L>11188<pc>493<k1>well<k2>well
-{@Well,@}¦ {%s.%} {#vApI, kfpaH, prahiH, aMDuH, dIrGikA#}
+{@Well,@}¦ {%s.%} {#vApI, kUpaH, prahiH, aMDuH, dIrGikA#}
 (large w.), {#udapAnaM;#} ‘covering of a w.’
 {#vi#} ({#vI#}) {#nAhaH;#} ‘reservoir near a w.’
 {#AhAvaH, nipAnaM, upakUpajalASayaH#}. {@2@} {#gupti#}
