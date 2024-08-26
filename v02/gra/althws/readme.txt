@@ -1,4 +1,7 @@
-
+08-25-2024
+ gra_hwextra.txt latest copy, previously in gra directory.
+ The version in gra directory is empty file, but still needed for
+ redo_hw.sh in csl-pywork/v02.
 ------------------------------------------------------------
 12-14-2023
 redo.sh regnerates ../gra_hwextra.txt from ../gra.txt
