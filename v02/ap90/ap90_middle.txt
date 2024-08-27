@@ -1,0 +1,2029 @@
+[Page0002-c+ 59]
+[Page0003-c+ 59]
+[Page0004-c+ 58]
+[Page0009-b+ 59]
+[Page0014-b+ 59]
+[Page0016-c+ 58]
+[Page0017-c+ 59]
+[Page0019-c+ 64]
+[Page0020-c+ 68]
+[Page0022-b+ 59]
+[Page0025-c+ 59]
+[Page0027-b+ 59]
+[Page0027-c+ 59]
+[Page0031-b+ 58]
+[Page0032-c+ 58]
+[Page0034-a+ 55]
+[Page0034-c+ 56]
+[Page0035-a+ 56]
+[Page0035-c+ 56]
+[Page0037-b+ 57]
+[Page0038-a+ 55]
+[Page0038-b+ 56]
+[Page0038-c+ 61]
+[Page0040-a+ 57]
+[Page0040-b+ 56]
+[Page0041-c+ 57]
+[Page0042-b+ 55]
+[Page0044-a+ 57]
+[Page0045-c+ 57]
+[Page0049-a+ 56]
+[Page0049-b+ 56]
+[Page0052-a+ 55]
+[Page0052-c+ 58]
+[Page0053-a+ 58]
+[Page0053-b+ 57]
+[Page0054-a+ 57]
+[Page0056-a+ 57]
+[Page0057-c+ 55]
+[Page0058-b+ 56]
+[Page0060-a+ 59]
+[Page0060-c+ 57]
+[Page0061-a+ 57]
+[Page0061-b+ 56]
+[Page0061-c+ 55]
+[Page0062-c+ 56]
+[Page0063-c+ 56]
+[Page0064-b+ 55]
+[Page0065-a+ 60]
+[Page0066-c+ 58]
+[Page0067-b+ 57]
+[Page0068-a+ 57]
+[Page0068-b+ 56]
+[Page0070-a+ 57]
+[Page0071-b+ 57]
+[Page0072-a+ 57]
+[Page0073-c+ 55]
+[Page0074-b+ 55]
+[Page0074-c+ 56]
+[Page0077-a+ 56]
+[Page0077-b+ 56]
+[Page0078-a+ 57]
+[Page0078-c+ 56]
+[Page0081-b+ 57]
+[Page0082-b+ 56]
+[Page0084-a+ 57]
+[Page0084-c+ 56]
+[Page0085-b+ 56]
+[Page0087-c+ 55]
+[Page0091-c+ 57]
+[Page0095-a+ 56]
+[Page0097-a+ 59]
+[Page0101-a+ 54]
+[Page0101-b+ 56]
+[Page0103-a+ 55]
+[Page0105-a+ 56]
+[Page0105-c+ 55]
+[Page0107-a+ 55]
+[Page0108-a+ 54]
+[Page0109-c+ 57]
+[Page0110-a+ 56]
+[Page0112-a+ 56]
+[Page0113-a+ 55]
+[Page0113-c+ 56]
+[Page0114-b+ 56]
+[Page0115-b+ 57]
+[Page0116-a+ 56]
+[Page0116-b+ 56]
+[Page0117-a+ 57]
+[Page0118-b+ 55]
+[Page0120-c+ 55]
+[Page0121-a+ 54]
+[Page0122-c+ 55]
+[Page0123-a+ 56]
+[Page0123-b+ 55]
+[Page0124-c+ 55]
+[Page0125-c+ 55]
+[Page0126-a+ 57]
+[Page0126-b+ 56]
+[Page0127-b+ 56]
+[Page0128-a+ 55]
+[Page0129-a+ 57]
+[Page0132-b+ 57]
+[Page0132-c+ 57]
+[Page0134-a+ 57]
+[Page0135-c+ 56]
+[Page0137-b+ 57]
+[Page0137-c+ 56]
+[Page0138-a+ 54]
+[Page0138-c+ 56]
+[Page0139-b+ 56]
+[Page0139-c+ 56]
+[Page0140-c+ 57]
+[Page0141-b+ 57]
+[Page0143-a+ 55]
+[Page0143-c+ 56]
+[Page0144-b+ 56]
+[Page0145-a+ 57]
+[Page0146-b+ 55]
+[Page0147-a+ 56]
+[Page0147-b+ 57]
+[Page0147-c+ 57]
+[Page0148-a+ 56]
+[Page0149-a+ 56]
+[Page0149-b+ 55]
+[Page0151-a+ 56]
+[Page0152-a+ 56]
+[Page0154-b+ 58]
+[Page0156-b+ 56]
+[Page0157-c+ 56]
+[Page0160-c+ 56]
+[Page0161-a+ 56]
+[Page0162-a+ 60]
+[Page0163-b+ 57]
+[Page0164-c+ 56]
+[Page0170-b+ 55]
+[Page0171-c+ 57]
+[Page0173-b+ 55]
+[Page0173-c+ 56]
+[Page0174-a+ 57]
+[Page0175-b+ 56]
+[Page0176-c+ 55]
+[Page0177-a+ 56]
+[Page0177-b+ 56]
+[Page0178-a+ 56]
+[Page0178-c+ 55]
+[Page0179-a+ 56]
+[Page0181-b+ 56]
+[Page0182-c+ 56]
+[Page0184-c+ 57]
+[Page0185-a+ 57]
+[Page0185-b+ 56]
+[Page0186-a+ 58]
+[Page0186-b+ 56]
+[Page0187-a+ 56]
+[Page0187-b+ 56]
+[Page0188-c+ 55]
+[Page0189-a+ 56]
+[Page0190-a+ 56]
+[Page0190-c+ 57]
+[Page0191-a+ 57]
+[Page0191-c+ 56]
+[Page0192-c+ 56]
+[Page0193-a+ 55]
+[Page0193-c+ 55]
+[Page0194-b+ 56]
+[Page0194-c+ 55]
+[Page0195-a+ 54]
+[Page0195-b+ 55]
+[Page0196-b+ 56]
+[Page0196-c+ 55]
+[Page0198-c+ 56]
+[Page0200-b+ 56]
+[Page0200-c+ 55]
+[Page0201-a+ 55]
+[Page0201-b+ 55]
+[Page0203-b+ 56]
+[Page0207-b+ 57]
+[Page0209-c+ 55]
+[Page0213-a+ 57]
+[Page0215-c+ 56]
+[Page0217-a+ 54]
+[Page0218-b+ 61]
+[Page0219-b+ 55]
+[Page0220-b+ 6]
+[Page0220-c+ 6]
+[Page0220-1a+ 45]
+<H>{#A#}.
+[Page0220-1c+ 43]
+[Page0221-a+ 56]
+[Page0221-b+ 57]
+[Page0222-a+ 57]
+[Page0222-b+ 57]
+[Page0222-c+ 57]
+[Page0224-b+ 56]
+[Page0225-b+ 56]
+[Page0227-a+ 57]
+[Page0229-c+ 57]
+[Page0231-a+ 57]
+[Page0232-b+ 57]
+[Page0233-c+ 57]
+[Page0236-c+ 58]
+[Page0237-b+ 58]
+[Page0239-c+ 55]
+[Page0240-a+ 57]
+[Page0240-b+ 57]
+[Page0241-b+ 57]
+[Page0242-b+ 55]
+[Page0243-a+ 55]
+[Page0243-b+ 55]
+[Page0243-c+ 58]
+[Page0245-b+ 55]
+[Page0245-c+ 56]
+[Page0246-b+ 55]
+[Page0247-b+ 56]
+[Page0249-a+ 55]
+[Page0251-c+ 56]
+[Page0253-a+ 56]
+[Page0253-c+ 57]
+[Page0254-b+ 57]
+[Page0254-c+ 56]
+[Page0255-c+ 54]
+[Page0256-b+ 56]
+[Page0257-c+ 56]
+[Page0258-a+ 57]
+[Page0258-c+ 56]
+[Page0260-b+ 57]
+[Page0261-b+ 56]
+[Page0261-c+ 57]
+[Page0262-b+ 58]
+[Page0266-b+ 55]
+[Page0266-c+ 56]
+[Page0268-c+ 55]
+[Page0269-a+ 57]
+[Page0269-c+ 56]
+[Page0271-b+ 56]
+[Page0272-a+ 58]
+[Page0273-1a+ 19]
+<H>{#i#}.
+[Page0274-a+ 56]
+[Page0275-b+ 56]
+[Page0279-a+ 58]
+[Page0279-c+ 56]
+[Page0280-c+ 57]
+[Page0282-a+ 20]
+[Page0282-b+ 20]
+[Page0282--1a+ 31]
+<H>{#I#}.
+[Page0282-1b+ 30]
+[Page0282-1c+ 29]
+[Page0284-1a+ 6]
+<H>{#u#}.
+[Page0286-c+ 57]
+[Page0288-a+ 55]
+[Page0289-b+ 55]
+[Page0289-c+ 54]
+[Page0290-c+ 53]
+[Page0291-a+ 54]
+[Page0291-b+ 55]
+[Page0292-a+ 55]
+[Page0292-b+ 56]
+[Page0296-a+ 56]
+[Page0297-b+ 56]
+[Page0298-a+ 55]
+[Page0298-b+ 55]
+[Page0298-c+ 56]
+[Page0299-c+ 55]
+[Page0300-b+ 54]
+[Page0301-b+ 55]
+[Page0301-c+ 55]
+[Page0303-a+ 55]
+[Page0304-a+ 56]
+[Page0305-a+ 56]
+[Page0305-b+ 54]
+[Page0305-c+ 55]
+[Page0307-a+ 55]
+[Page0307-b+ 55]
+[Page0307-c+ 56]
+[Page0308-b+ 54]
+[Page0308-c+ 56]
+[Page0309-b+ 54]
+[Page0309-c+ 56]
+[Page0310-a+ 56]
+[Page0311-a+ 57]
+[Page0311-b+ 56]
+[Page0311-c+ 55]
+[Page0312-c+ 55]
+[Page0313-b+ 55]
+[Page0314-a+ 57]
+[Page0314-b+ 54]
+[Page0314-c+ 56]
+[Page0315-a+ 56]
+[Page0315-b+ 56]
+[Page0316-a+ 56]
+[Page0317-b+ 56]
+[Page0318-a+ 56]
+[Page0319-b+ 55]
+[Page0320-a+ 56]
+[Page0320-b+ 56]
+[Page0320-c+ 54]
+[Page0321-a+ 54]
+[Page0322-a+ 56]
+[Page0323-b+ 54]
+[Page0323-c+ 55]
+[Page0324-a+ 56]
+[Page0325-c+ 53]
+[Page0326-b+ 55]
+[Page0327-c+ 56]
+[Page0330-a+ 56]
+[Page0330-b+ 55]
+[Page0330-c+ 54]
+[Page0331-a+ 53]
+[Page0332-a+ 53]
+[Page0336-c+ 56]
+[Page0337-c+ 54]
+[Page0338-a+ 55]
+[Page0338-c+ 55]
+[Page0339-b+ 54]
+[Page0339-c+ 55]
+[Page0340-b+ 55]
+[Page0340-c+ 54]
+[Page0341-c+ 59]
+[Page0342-b+ 53]
+[Page0343-b+ 54]
+[Page0343-c+ 56]
+[Page0344--1a+ 12]
+<H>{#U#}.
+[Page0344-1c+ 11]
+[Page0345-c+ 55]
+[Page0347-c+ 11]
+[Page0347-1a+ 40]
+<H>{#f#}.
+[Page0347-1c+ 37]
+[Page0348-b+ 56]
+[Page0350-b+ 57]
+[Page0350-c+ 55]
+[Page0351-b+ 28]
+[Page0351--1a+ 5]
+<H>{#f#}.
+[Page0351-2a+ 4]
+<H>{#x, X#}.
+[Page0352-a+ 52]
+<H>{#e#}.
+[Page0356-a+ 56]
+[Page0357-a+ 54]
+[Page0358-a+ 46]
+<H>{#E#}.
+[Page0358-b+ 47]
+[Page0358-c+ 48]
+[Page0359-a+ 52]
+[Page0360-a+ 50]
+<H>{#o#}.
+[Page0360-c+ 51]
+[Page0361-b+ 32]
+[Page0361-1a+ 16]
+<H>{#O#}.
+[Page0361-1b+ 15]
+[Page0361-1c+ 14]
+[Page0362-a+ 52]
+[Page0362-c+ 54]
+[Page0363-b+ 53]
+[Page0365-c+ 8]
+[Page0365-1a+ 41]
+<H>{#ka#}.
+[Page0365-1c+ 40]
+[Page0367-a+ 54]
+[Page0367-b+ 57]
+[Page0368-b+ 54]
+[Page0369-b+ 54]
+[Page0371-a+ 56]
+[Page0371-b+ 55]
+[Page0373-b+ 56]
+[Page0375-a+ 55]
+[Page0375-b+ 55]
+[Page0376-a+ 55]
+[Page0377-a+ 55]
+[Page0378-b+ 55]
+[Page0379-a+ 54]
+[Page0381-b+ 56]
+[Page0389-b+ 54]
+[Page0390-b+ 55]
+[Page0394-a+ 58]
+[Page0397-a+ 53]
+[Page0399-a+ 56]
+[Page0400-c+ 54]
+[Page0401-a+ 54]
+[Page0401-c+ 55]
+[Page0404-b+ 55]
+[Page0405-a+ 58]
+[Page0405-b+ 54]
+[Page0405-c+ 55]
+[Page0406-b+ 54]
+[Page0409-a+ 56]
+[Page0411-a+ 61]
+[Page0411-c+ 54]
+[Page0413-c+ 52]
+[Page0416-b+ 56]
+[Page0416-c+ 55]
+[Page0421-a+ 55]
+[Page0423-b+ 55]
+[Page0424-b+ 57]
+[Page0425-a+ 55]
+[Page0427-a+ 55]
+[Page0429-a+ 56]
+[Page0429-b+ 55]
+[Page0431-c+ 56]
+[Page0432-b+ 56]
+[Page0433-a+ 56]
+[Page0434-a+ 56]
+[Page0435-a+ 57]
+[Page0435-c+ 57]
+[Page0437-b+ 56]
+[Page0437-c+ 55]
+[Page0438-b+ 56]
+[Page0439-a+ 56]
+[Page0440-a+ 29]
+[Page0440-b+ 30]
+[Page0440-1a+ 16]
+<H>{#Ka#}.
+[Page0441-b+ 55]
+[Page0441-c+ 54]
+[Page0443-a+ 56]
+[Page0445-b+ 52]
+[Page0445-c+ 52]
+[Page0446-a+ 51]
+<H>{#ga#}.
+[Page0449-b+ 55]
+[Page0450-c+ 57]
+[Page0451-a+ 56]
+[Page0453-a+ 58]
+[Page0453-c+ 55]
+[Page0458-a+ 54]
+[Page0459-c+ 55]
+[Page0462-a+ 57]
+[Page0464-b+ 57]
+[Page0465-a+ 55]
+[Page0466-c+ 56]
+[Page0469-c+ 54]
+[Page0471-a+ 54]
+[Page0475-a+ 49]
+<H>{#Ga#}.
+[Page0476-a+ 55]
+[Page0477-c+ 55]
+[Page0478-a+ 57]
+[Page0478-b+ 56]
+[Page0479-a+ 30]
+[Page0479-1a+ 3]
+<H>{#Na#}.
+<P>(No word in general use begins
+with this letter). 
+[Page0479-1b+ 2]
+[Page0479-1c+ 1]
+[Page0479--2a+ 9]
+<H>{#ca#}.
+[Page0480-b+ 56]
+[Page0481-b+ 56]
+[Page0484-a+ 56]
+[Page0485-c+ 55]
+[Page0488-a+ 56]
+[Page0488-b+ 56]
+[Page0489-c+ 54]
+[Page0490-a+ 55]
+[Page0491-a+ 55]
+[Page0491-b+ 57]
+[Page0492-b+ 53]
+[Page0495-c+ 55]
+[Page0496-b+ 52]
+[Page0498-a+ 55]
+[Page0499-1a+ 13]
+<H>{#Ca#}.
+[Page0499-1b+ 13]
+[Page0500-a+ 56]
+[Page0500-b+ 56]
+[Page0500-c+ 55]
+[Page0501-c+ 56]
+[Page0502-c+ 52]
+[Page0503-a+ 50]
+<H>{#ja#}.
+[Page0503-c+ 48]
+[Page0504-a+ 56]
+[Page0505-a+ 57]
+[Page0506-c+ 56]
+[Page0507-a+ 61]
+[Page0507-b+ 56]
+[Page0508-b+ 55]
+[Page0512-a+ 54]
+[Page0514-b+ 54]
+[Page0517-a+ 56]
+[Page0517-b+ 56]
+[Page0520-1a+ 15]
+<H>{#Ja#}.
+[Page0521-a+ 42]
+[Page0521-b+ 42]
+[Page0522-a+ 33]
+<H>{#wa#}.
+[Page0522-c+ 31]
+[Page0522-1a+ 7]
+<H>{#Wa#}.
+[Page0523-a+ 42]
+<H>{#qa#}.
+[Page0524-a+ 9]
+<H>{#Qa#}.
+[Page0524-b+ 8]
+[Page0524-1a+ 6]
+<H>{#Ra#}.
+<P>[There are hardly any words in
+real use in Sanskrit beginning with
+{#Ra#}. Many roots which, in the <lbinfo n="Dhā+tupāṭha"/>
+Dhātupāṭha, are written with an initial
+{#Ra#} really begin with {#na#}. They are 
+[Page0524-1b+ 5]
+so written to show that the {#na#} is
+liable to be changed to {#Ra#} when
+preceded by prepositions, like {#pra#},
+{#pari, aMtar#} &c.]
+[Page0525-a+ 51]
+<H>{#ta#}.
+[Page0526-a+ 56]
+[Page0526-b+ 56]
+[Page0526-c+ 56]
+[Page0530-a+ 56]
+[Page0531-a+ 57]
+[Page0532-a+ 55]
+[Page0532-c+ 56]
+[Page0534-a+ 53]
+[Page0534-b+ 57]
+[Page0539-a+ 56]
+[Page0540-b+ 55]
+[Page0541-a+ 55]
+[Page0545-a+ 54]
+[Page0546-a+ 56]
+[Page0546-c+ 55]
+[Page0548-a+ 55]
+[Page0551-c+ 55]
+[Page0552-c+ 58]
+[Page0553-a+ 7]
+<H>{#Ta#}.
+[Page0553-b+ 6]
+[Page0553-1a+ 37]
+<H>{#da#}.
+[Page0553--1b+ 36]
+[Page0553--1c+ 38]
+[Page0556-a+ 55]
+[Page0562-c+ 56]
+[Page0565-a+ 57]
+[Page0569-a+ 56]
+[Page0575-c+ 56]
+[Page0581-a+ 57]
+[Page0583-a+ 52]
+[Page0583-b+ 55]
+[Page0585-a+ 55]
+[Page0589-a+ 55]
+[Page0590-c+ 15]
+[Page0590--1a+ 30]
+<H>{#Da#}.
+[Page0590-1b+ 31]
+[Page0591-c+ 56]
+[Page0594-c+ 56]
+[Page0596-a+ 55]
+[Page0599-a+ 55]
+[Page0604-a+ 52]
+<H>{#na#}.
+[Page0607-a+ 57]
+[Page0608-b+ 57]
+[Page0609-c+ 58]
+[Page0611-a+ 55]
+[Page0611-b+ 57]
+[Page0614-b+ 55]
+[Page0616-b+ 54]
+[Page0617-a+ 55]
+[Page0617-b+ 56]
+[Page0618-c+ 54]
+[Page0619-a+ 55]
+[Page0620-a+ 54]
+[Page0620-b+ 54]
+[Page0621-b+ 55]
+[Page0622-a+ 57]
+[Page0622-b+ 55]
+[Page0622-c+ 56]
+[Page0623-b+ 56]
+[Page0624-a+ 55]
+[Page0624-c+ 56]
+[Page0633-a+ 56]
+[Page0636-c+ 55]
+[Page0637-a+ 55]
+[Page0638-a+ 56]
+[Page0638-b+ 57]
+[Page0640-a+ 56]
+[Page0640-c+ 57]
+[Page0641-c+ 55]
+[Page0644-c+ 55]
+[Page0645-c+ 56]
+[Page0651-b+ 57]
+[Page0653-1a+ 7]
+<H>{#pa#}.
+[Page0659-c+ 55]
+[Page0662-a+ 57]
+[Page0662-c+ 57]
+[Page0669-b+ 56]
+[Page0670-b+ 56]
+[Page0672-a+ 55]
+[Page0673-a+ 55]
+[Page0673-b+ 56]
+[Page0675-c+ 55]
+[Page0676-b+ 56]
+[Page0676-c+ 53]
+[Page0677-a+ 55]
+[Page0677-b+ 54]
+[Page0677-c+ 55]
+[Page0678-b+ 56]
+[Page0678-c+ 56]
+[Page0679-b+ 56]
+[Page0679-c+ 56]
+[Page0680-a+ 54]
+[Page0681-b+ 56]
+[Page0682-a+ 54]
+[Page0683-a+ 56]
+[Page0684-b+ 55]
+[Page0685-b+ 56]
+[Page0686-b+ 54]
+[Page0687-b+ 54]
+[Page0687-c+ 55]
+[Page0691-a+ 56]
+[Page0692-b+ 55]
+[Page0692-c+ 54]
+[Page0694-b+ 56]
+[Page0696-a+ 55]
+[Page0697-a+ 54]
+[Page0697-b+ 53]
+[Page0699-a+ 56]
+[Page0703-a+ 55]
+[Page0703-b+ 55]
+[Page0705-a+ 57]
+[Page0705-c+ 55]
+[Page0707-a+ 54]
+[Page0713-a+ 57]
+[Page0714-b+ 55]
+[Page0715-a+ 55]
+[Page0718-a+ 55]
+[Page0719-c+ 57]
+[Page0720-a+ 55]
+[Page0720-c+ 54]
+[Page0721-c+ 54]
+[Page0722-a+ 55]
+[Page0722-c+ 54]
+[Page0726-b+ 55]
+[Page0728-a+ 56]
+[Page0729-c+ 55]
+[Page0732-a+ 56]
+[Page0733-b+ 54]
+[Page0736-a+ 56]
+[Page0736-b+ 55]
+[Page0737-c+ 55]
+[Page0738-c+ 57]
+[Page0739-b+ 56]
+[Page0741-b+ 54]
+[Page0742-a+ 56]
+[Page0744-a+ 56]
+[Page0744-b+ 56]
+[Page0744-c+ 56]
+[Page0745-a+ 57]
+[Page0746-b+ 53]
+[Page0746-c+ 56]
+[Page0747-b+ 55]
+[Page0748-c+ 56]
+[Page0751-c+ 52]
+[Page0752-a+ 56]
+[Page0753-a+ 56]
+[Page0753-b+ 57]
+[Page0755-a+ 56]
+[Page0756-b+ 56]
+[Page0757-a+ 58]
+[Page0758-b+ 56]
+[Page0759-a+ 57]
+[Page0762-b+ 56]
+[Page0763-b+ 55]
+[Page0766-b+ 56]
+[Page0766-c+ 57]
+[Page0769-a+ 56]
+[Page0769-b+ 61]
+[Page0773-a+ 55]
+[Page0774-a+ 57]
+[Page0774-c+ 54]
+[Page0775-c+ 57]
+[Page0776-b+ 55]
+[Page0781-a+ 54]
+[Page0782-b+ 30]
+[Page0782-c+ 28]
+[Page0782-1a+ 17]
+<H>{#Pa#}.
+[Page0782-1b+ 16]
+[Page0785-a+ 38]
+[Page0785-b+ 38]
+[Page0785-1a+ 10]
+<H>{#ba#}.
+[Page0785-1b+ 9]
+[Page0794-a+ 59]
+[Page0795-b+ 55]
+[Page0795-c+ 57]
+[Page0798-b+ 55]
+[Page0805-a+ 53]
+<H>{#Ba#}.
+[Page0807-c+ 55]
+[Page0808-a+ 56]
+[Page0808-c+ 55]
+[Page0812-b+ 55]
+[Page0815-c+ 56]
+[Page0820-a+ 56]
+[Page0822-b+ 57]
+[Page0826-a+ 56]
+[Page0826-b+ 56]
+[Page0827-c+ 56]
+[Page0828-c+ 56]
+[Page0829-c+ 52]
+[Page0830-a+ 50]
+<H>{#ma#}.
+[Page0830-b+ 49]
+[Page0831-a+ 56]
+[Page0832-b+ 55]
+[Page0833-b+ 56]
+[Page0837-c+ 57]
+[Page0839-a+ 57]
+[Page0843-c+ 57]
+[Page0846-a+ 56]
+[Page0846-b+ 56]
+[Page0849-b+ 55]
+[Page0857-b+ 54]
+[Page0859-a+ 56]
+[Page0861-a+ 55]
+[Page0868-a+ 56]
+[Page0871-b+ 55]
+[Page0873-b+ 55]
+[Page0874-a+ 56]
+[Page0875-a+ 54]
+[Page0880-a+ 55]
+[Page0883-a+ 51]
+<H>.{#ya#}
+[Page0883-c+ 51]
+[Page0885-c+ 57]
+[Page0890-a+ 58]
+[Page0890-b+ 56]
+[Page0891-a+ 57]
+[Page0893-a+ 55]
+[Page0894-b+ 57]
+[Page0898-b+ 56]
+[Page0898-c+ 55]
+[Page0899-c+ 8]
+[Page0899-1a+ 40]
+<H>{#ra#}.
+[Page0900-b+ 56]
+[Page0904-b+ 57]
+[Page0905-b+ 57]
+[Page0905-c+ 56]
+[Page0907-c+ 56]
+[Page0908-b+ 56]
+[Page0912-b+ 58]
+[Page0913-b+ 54]
+[Page0917-b+ 53]
+[Page0917-c+ 56]
+[Page0918-a+ 55]
+[Page0919-1a+ 17]
+<H>{#la#}.
+[Page0919--1b+ 16]
+[Page0919-1c+ 16]
+[Page0921-c+ 57]
+[Page0922-b+ 55]
+[Page0925-b+ 56]
+[Page0926-c+ 55]
+[Page0927-b+ 55]
+[Page0928-c+ 55]
+[Page0929-a+ 57]
+[Page0929-c+ 55]
+[Page0931-c+ 56]
+[Page0933-a+ 55]
+[Page0934-c+ 57]
+[Page0935-a+ 56]
+[Page0935-b+ 55]
+[Page0936-b+ 29]
+[Page0936-c+ 30]
+[Page0936-1a+ 19]
+<H>{#va#}.
+[Page0940-a+ 56]
+[Page0940-b+ 55]
+[Page0942-a+ 57]
+[Page0943-b+ 57]
+[Page0950-a+ 55]
+[Page0950-c+ 62]
+[Page0955-a+ 54]
+[Page0956-a+ 57]
+[Page0958-a+ 56]
+[Page0959-b+ 54]
+[Page0959-c+ 56]
+[Page0964-c+ 55]
+[Page0965-b+ 56]
+[Page0967-c+ 54]
+[Page0968-a+ 66]
+[Page0968-c+ 55]
+[Page0969-a+ 55]
+[Page0971-a+ 56]
+[Page0971-b+ 56]
+[Page0972-a+ 57]
+[Page0972-b+ 55]
+[Page0973-b+ 55]
+[Page0978-b+ 56]
+[Page0978-c+ 55]
+[Page0981-a+ 55]
+[Page0982-a+ 55]
+[Page0983-b+ 55]
+[Page0985-c+ 56]
+[Page0986-b+ 55]
+[Page0987-b+ 56]
+[Page0989-a+ 56]
+[Page0989-c+ 55]
+[Page0990-a+ 56]
+[Page0992-b+ 57]
+[Page0995-a+ 57]
+[Page0998-b+ 56]
+[Page1000-a+ 56]
+[Page1002-c+ 56]
+[Page1004-a+ 55]
+[Page1005-a+ 55]
+[Page1007-c+ 56]
+[Page1009-a+ 58]
+[Page1010-a+ 56]
+[Page1011-b+ 57]
+[Page1011-c+ 57]
+[Page1012-a+ 57]
+[Page1013-b+ 54]
+[Page1014-b+ 53]
+[Page1014-c+ 55]
+[Page1015-a+ 54]
+[Page1016-a+ 54]
+[Page1016-b+ 56]
+[Page1016-c+ 57]
+[Page1017-b+ 56]
+[Page1018-b+ 56]
+[Page1018-c+ 56]
+[Page1019-c+ 58]
+[Page1021-a+ 56]
+[Page1022-a+ 57]
+[Page1024-a+ 56]
+[Page1024-b+ 62]
+[Page1027--1a+ 48]
+<H>{#Sa#}.
+[Page1029-a+ 56]
+[Page1030-b+ 56]
+[Page1030-c+ 56]
+[Page1032-a+ 55]
+[Page1032-c+ 56]
+[Page1037-a+ 57]
+[Page1040-a+ 56]
+[Page1045-b+ 57]
+[Page1048-b+ 55]
+[Page1050-b+ 56]
+[Page1051-a+ 57]
+[Page1052-a+ 57]
+[Page1052-b+ 56]
+[Page1053-b+ 55]
+[Page1055-a+ 54]
+[Page1058-c+ 57]
+[Page1062-b+ 55]
+[Page1063-c+ 56]
+[Page1064-a+ 29]
+[Page1064--1a+ 17]
+<H>{#za#}.
+<P>(Many roots which begin with
+{#s#} are written in the Dhātupāṭha
+with {#z#} to show that the {#s#} is
+changed to {#z#} after certain <lbinfo n="prepo+sitions"/>
+prepositions. Such roots will be found
+under {#sa#} in their proper places).
+[Page1066-a+ 32]
+[Page1066-1a+ 13]
+<H>{#sa#}.
+[Page1068-b+ 56]
+[Page1070-a+ 56]
+[Page1071-b+ 56]
+[Page1071-c+ 56]
+[Page1074-c+ 56]
+[Page1076-b+ 59]
+[Page1077-a+ 56]
+[Page1080-c+ 55]
+[Page1082-c+ 56]
+[Page1086-b+ 56]
+[Page1086-c+ 56]
+[Page1087-c+ 56]
+[Page1088-b+ 55]
+[Page1096-a+ 56]
+[Page1097-b+ 55]
+[Page1097-c+ 56]
+[Page1098-b+ 56]
+[Page1100-b+ 53]
+[Page1106-b+ 56]
+[Page1108-c+ 55]
+[Page1110-a+ 55]
+[Page1111-a+ 54]
+[Page1112-c+ 54]
+[Page1114-b+ 55]
+[Page1120-c+ 56]
+[Page1124-b+ 55]
+[Page1131-b+ 56]
+[Page1132-b+ 57]
+[Page1136-c+ 86]
+[Page1137-a+ 55]
+[Page1137-b+ 55]
+[Page1138-b+ 55]
+[Page1140-b+ 55]
+[Page1140-c+ 54]
+[Page1142-b+ 55]
+[Page1143-b+ 56]
+[Page1143-c+ 56]
+[Page1145-a+ 56]
+[Page1145-b+ 55]
+[Page1145-c+ 57]
+[Page1148-a+ 57]
+[Page1150-c+ 57]
+[Page1152-c+ 57]
+[Page1154-c+ 55]
+[Page1155-c+ 55]
+[Page1157-a+ 57]
+[Page1157-b+ 56]
+[Page1157-c+ 54]
+[Page1160-c+ 57]
+[Page1162-a+ 55]
+[Page1163-a+ 33]
+[Page1163-b+ 33]
+[Page1163-1a+ 16]
+<H>{#ha#}.
+[Page1165-b+ 58]
+[Page1169-a+ 57]
+[Page1171-c+ 55]
+[Page1173-a+ 55]
+[Page1173-b+ 56]
+[Page1173-c+ 55]
+[Page1174-a+ 56]
+[Page1176-a+ 55]
+[Page1176-c+ 55]
+[Page1178-b+ 10]
+[Page1178-c+ 10]
+[Page1179-a+ 40]
+<H>{@{|APPENDIX I.|}@}
+{|SANSKRIT PROSODY.|}
+<H>{%Introduction%}.
+<HI>The earliest and most important work in Sanskrit <lbinfo n="pro+sody"/>
+prosody is the Piṅgala-chhandas-śāstra, attributed
+to the sage Piṅgala, which consists of Sūtras <lbinfo n="dis+tributed"/>
+distributed over eight books. The Agni Purāṇa also
+gives a complete system of prosody founded <lbinfo n="ap+parently"/>
+apparently on Piṅgala's. Several other original
+treatises have likewise been composed by various
+authors, such as the Śrutabodha, Vāṇībhūṣaṇa,
+Vṛtta-darpaṇa, Vṛtta-ratnākara, Vṛtta-kaumudī,
+Chandomañjarī &c. In the following pages the
+Chandomañjarī and Vṛtta-ratnākara have been
+chiefly drawn upon, Vedic as well as Prākṛta
+metres have been ignored in this Appendix.
+<HI>Sanskrit composition may be in the form of {#gadya#}
+‘prose’ or {#padya#} ‘verse’ or poetry expressed in the
+form of stanzas.
+<HI>A stanza or {%padya%} is a combination of four {%pādas%} or
+quarters, which are regulated either by the number
+of syllables ({#akzara#}), or by the number of syllabic
+instants ({#mAtrA#}).
+<HI>A {#padya#} is a {#vftta#} or {#jAti#}.
+<HI>A {#vftta#} is a stanza the metre of which is regulated by
+the number and position of syllables in each Pāda
+or quarter. A {#jAti#} is a stanza the metre of which
+is regulated by the number of syllabic instants in
+each quarter.
+<HI>Vṛttas are divided into three classes: {#--samavftta#} in
+which the Pādas or quarters composing the stanza
+are all similar; {#arDasamavftta#} in which the alternate
+quarters are similar; and {#vizaMmavftta#} in which the
+quarters are all dissimilar.
+<HI>A syllable is as much of a word as can be pronounced
+at once, that is, a vowel with or without one or
+more consonants.
+<HI>A syllable is {#laGu#} ‘short’ or {#guru#} ‘long’, according as
+its vowel is ‘short’ or ‘long’. The vowels {#a, i, u#},
+{#f#}, and {#x#} short; and {#A, I, U, f, e, E, o#}, and 
+[Page1179-b+ 40]
+{#O#} are long. But a short vowel becomes long in
+prosody when it is followed by an {%Anusvāra%} or
+{%Visarga%}, or by a conjunct consonant; as the vowel {#a#}
+in {#gaMDa#} or {#gaH#}. (The consonants {#pra#} & {#Ta#}, as also {#bra#}, & {#kra#},
+are said to be exceptions, before which the vowel
+may be short by a sort of poetical license; e. g.
+in Ku. 7. 11. or Śi. 10. 60, where, however, <lbinfo n="emen+dations"/>
+emendations have been proposed by critics to render the
+metre comformable to the general laws of prosody).
+So also the last syllable of a {%pāda%} is either long or
+short, according to the exigence of the metre, <lbinfo n="what+ever"/>
+whatever be its natural length.
+{#sAnusvAraSca dIrGa Sca visargI ca gururBavet .#}
+{#varRaH saMyogapUrvaSca taTA pAdAMtago'pi vA ..#}
+<HI>In metres regulated by the number of syllabic instants,
+one instant or Mātrā is allotted to a short vowel,
+and two to a long one.
+<HI>For the purpose of scanning metres regulated by the
+number of syllables, writers on prosody have <lbinfo n="de+vised"/>
+devised eight ‘Gaṇas’ or syllabic feet, each <lbinfo n="consist+ing"/>
+consisting of three syllables, and distinguished from one
+another by particular syllables being short or long.
+They are given in the following verse:
+--{#mastrigurustrilaGuSca nakAro#}
+{#BAdiguruH punarAdilaGuryaH .#}
+{#jo gurumaDyagato ralamaDyaH#}
+{#soM'taguruH kaTitoM'talaGustaH ..#}
+{#AdimaDyAvasAnezu yaratA yAMti lAGavam .#}
+{#BajasA gOravaM yAMti manO tu gurulAGavam ..#}
+<HI>Expressed in symbols (the symbol ˘ denoting a
+short syllable, and ¯ a long one), the different
+Gaṇas may be represented as follows:--
+{#ya#} ˘ ¯ ¯ (Bacchius)
+{#ra#} ¯ ˘ ¯ (Amphimacer)
+{#ta#} ¯ ¯ ˘ (Anti-bacchius)
+{#Ba#} ¯ ˘ ˘ (Dactylus)
+{#ja#} ˘ ¯ ˘ (Amphibrachys)
+{#sa#} ˘ ˘ ¯ (Anapæstus)
+{#ma#} ¯ ¯ ¯ (Molossus)
+{#na#} ˘ ˘ ˘ (Tribrachys)
+[Page1180-a+ 50]
+Similarly {#la#} (˘) is used to denote a short syllable,
+and {#ga#} (¯) a long one.
+<HI>{%N. B%}. --Sanskrit prosodists classify Vṛttas according
+to the number of syllables contained in each <lbinfo n="quar+ter"/>
+quarter. Thus they enumerate twenty-six classes of
+‘Samavṛttas’, as the number of syllables in each
+quarter of a regular metre may vary from one to
+twenty-six. Each of these classes comprehends a
+great number of possible metres according to the
+different modes in which long and short syllables
+may be distributed. For example, in the class
+where each quarter contains six syllables, each of
+the six syllables may be either short or long, and
+thus the number of {%possible%} combinations is
+2 × 2 × 2 × 2 × 2 × 2 or 2^6 = 64, though not even half
+a dozen are in general use; so in the case of the
+twenty-six syllabled class, the possible varieties are
+2^26 or 87, 108, 864! But if we consider the cases
+where the alternate quarters are similar or all <lbinfo n="dis+similar"/>
+dissimilar, the variety of possible metres is almost <lbinfo n="in+finite"/>
+infinite. Piṅgala, as also the Līlāvatī and the last
+chapter of Vṛtta-ratnākara, give directions for
+computing the number of possible varieties and for
+finding their places, or that of any single one, in a
+regular enumeration of them. The different <lbinfo n="varie+ties"/>
+varieties, however, which have been used by poets are
+few when compared with the vast multitude of
+possible metres. But even these are too many to be
+dealt with in an Appendix like this, and we shall,
+therefore, only give such kinds as are most <lbinfo n="frequ+ently"/>
+frequently employed or require particular notice, in the
+following order:--
+{%Section%} A {#samavftta#}
+{%Section%} B {#arDavftta#}
+{%Section%} C {#vizamavftta#}
+{%Section%} D {#jAti#} &c.
+<HI>{%Note%}--In the following definitions the letters <lbinfo n="repre+senting"/>
+representing the Gaṇas such as {#Ba, ma, sa#}, &c. as also {#la, ga#},
+will often be found to have dropped their vowels
+for the exigence of metre. {%<ab>e. g.</ab>%} {#mra Bna#} stands for {#ma#},
+{#ra, ma, na#}; so {#mto#}, for {#ma, ta#} &c. The first line gives the
+{%Definition%} of a metre; the second, the {%Scheme in%}
+{%Gaṇas%} with the {%Yati%} or Cæsura - the pause that
+may be made in reciting a quarter or verse, and
+which is usually indicated by the words in the <lbinfo n="De+finition"/>
+Definition standing in the Instrumental case-denoted
+in brackets by Arabic figures, and then comes the
+example (many of these examples are drawn from
+the works of Māgha, Bhāravi, Kālidāsa, Daṇḍin
+&c.). 
+[Page1180-b+ 45]
+<H>SECTION A.
+{%Metres with 4 Syllables in a quarter%}.
+({#pratizWA#}).
+{#kanyA#}.
+<HI>Def. {#gmO cet kanyA .#}
+<HI>Sch. G. {#ga, ma#}.
+<HI>Ex. {#BAsvatkanyA sEkA DanyA yasyAH kUle#} <lbinfo n="kfzRo'#Kelat"/>
+{#kfzRo'Kelat ..#}
+<H>{%Metres with 5 Syllables in a quarter%}.
+({#supratizWA#}).
+{#paMkti#}.
+<HI>Def. {#BgO giti paMktiH .#}
+<HI>Sch. G. {#Ba, ga, ga#}.
+<HI>Ex. {#kfzRasanATA tarRakapaMktiH .#}
+{#yAmunakacCe cAru cacAra ..#}
+<H>{%Metres with 6 Syllables in a quarter%}.
+({#gAyatrI#}).
+{#(1) tanumaDyamA#}.
+<HI>Def. {#tyO cettanumaDyamA .#}
+<HI>Sch. G. {#ta, ya#}.
+<HI>Ex. {#mUrtirmuraSatroratyadButarUpA .#}
+{#AstAM mama citte nityaM tanumaDyA ..#}
+(2) {#vidyulleKA#}
+[also called {#vARI#}]
+<HI>Def. {#vidyulleKA mA maH#}
+<HI>Sch. G. {#ma, ma#}. (3. 3)
+<HI>Ex. {#SrIdIptI TIkIrtI DInItI gIHprItI .#}
+{#eDete dve dve te ye neme deveSe ..#} Kāv. 3. 36.
+(3) {#SaSivadanA#}.
+<HI>Def. {#SaSivadanA nyO .#}
+<HI>Sch. G. {#na, ya#}.
+<HI>Ex. {#SaSivadanAnAM#} {#vrajataruRInAm .#}
+{#aDarasuDormi maDuripurEcCat ..#}
+(4) {#somarAjI#}.
+<HI>Def. {#dviyA somarAjI .#}
+<HI>Sch. G. {#ya, ya#}. (2. 4).
+<HI>Ex. {#hare#} {#somarAjI#}{#-samA te yaSaHSrIH .#}
+{#jaganmaMqalasya CinattyaMDakarAm ..#}
+<H>{%Metres with 7 Syllables in a quarter%}.
+({#uzRik#})
+(1) {#kumAralalitA#}.
+<HI>Def. {#kumAralalitA j s gAH .#}
+<HI>Sch. G. {#ja, sa, ga#}. (3. 4.)
+<HI>Ex. {#murAritanuvallI#} {#kumAralalitA#} {#sA .#}
+{#vrajERanayanAnAM tatAna mudamuccEH ..#} 
+[Page1181-a+ 51]
+(2) {#madaleKA#}.
+<HI>Def. {#masgO syAnmadaleKA .#}
+<HI>Sch. G. {#ma, sa, ga#}. (3. 4)
+<HI>Ex. {#raMge bAhuvirugRAd daMtIMdrAnmadaleKA .#}
+{#lagnABUnpuraSatrO kastUrIrasacarcA ..#}
+(3) {#maDumatI#}.
+<HI>Def. {#nanagi maDumatI .#}
+<HI>Sch. G. {#na, na, ga#} (5. 2)
+<HI>Ex. {#raviduhitftawe vanakusumatatiH .#}
+{#vyaDita maDumatI maDumaTanamudam ..#}
+<H>{%Metres with 8 Syllables in a quarter%}.
+({#anuzwuB#})
+(1) {#anuzwuB#} (also called {#Sloka#}).
+<P>There are several varieties of this metre, but
+that which is most in use has eight syllables in each
+quarter, but of variable quantity. Thus the fifth
+syllable of each quarter should be short, the sixth
+long, and the seventh alternately long and short.
+{#Sloke zazWaM guru jYeyaM sarvatra laGu paMcamam .#}
+{#dvicatuH pAdayorhasvaM saptamaM dIrGamanyayoH ..#}
+<HI>Ex. {#vAgarTAviva saMpfktO vAgarTapratipattaye .#}
+{#jagataH pitarO vaMde pArvatIparameSvarO ..#} R. 1. 1.
+(2) {#gajagati#}.
+<HI>Def. {#naBalagA gajagatiH .#}
+<HI>Sch. G. {#na, Ba, la, ga#} (4. 4.)
+<HI>Ex. {#ravisutAparisare viharato dfSi hareH .#}
+{#vrajavaDUgajagatirmudamalaM vyatanuta ..#}
+(3) {#pramARikA#}
+<HI>Def. {#pramARikA jarO lagO .#}
+<HI>Sch. G. {#ja, ra, la, ga#} (4. 4)
+<HI>Ex. {#punAtu BaktiracyutA sadAcyutAMGripadmayoH .#}
+{#SrutismftipramARikA BavAMburASitArikA ..#}
+(4) {#mARavaka#}
+<HI>Def. {#BAttalagA mARavakam .#}
+<HI>Sch. G. {#Ba, ta, la, ga#}, (4. 4)
+<HI>Ex. {#caMcalacUqaM capalErvatsakulEH keliparam .#}
+{#DyAya saKe smeramuKaM naMdasutaM mARavakam ..#}
+(5) {#vidyunmAlA#}
+<HI>Def. {#mo mo go go vidyunmAlA .#}
+<HI>Sch. G. {#ma, ma, ga, ga#}, (4. 4)
+<HI>Ex. {#vAsovallI#} {#vidyunmAlA#} {#barhaSreRI SAkraScApaH .#}
+{#yasminnAstAM tApocCittyE gomaDyasTaH kfzRAMBodaH ..#}
+(6) {#samAnikA#}
+<HI>Def. {#glO rajO samAnikA tu .#}
+<HI>Sch. G. {#ra, ja, ga, la#} (4. 4.)
+<HI>Ex. {#yasya kfzRapAdapadmamasti hfttaqAgasadma .#}
+{#DIH#} {#samAnikA#} {#pareRa nocitAtra matsareRa ..#}
+<H>{%Metres with 9 Syllables in a quarter%}.
+({#vfhatI#})
+(1) {#BujagaSiSuBftA#}
+<HI>Def. {#BujagaSiSuBftA nO maH .#} 
+[Page1181-b+ 49]
+<HI>Sch. G. {#na, na, ma#} (7. 2)
+<HI>Ex. {#hradatawanikawakzORI BujagaSiSuBftA yA'sIt ..#}
+{#muraripudalite nAge vrajajanasuKadA sA ' BUt ..#}
+(2) {#BujaMgasaMgatA#}
+<HI>Def. {#sajarErBujaMgasaMgatA .#}
+<HI>Sch. G. {#sa, ja, ra#}, (3. 6)
+<HI>Ex. {#taralA taraMgiriMgitEryamunA BujaMgasaMgatA .#}
+{#kaTameti vatsacArakaScapalaH sadEva tAM hariH ..#}
+(3) {#maRimaDya#}
+<HI>Def. {#syAnmaRimaDyaM cedBamasAH .#}
+<HI>Sch. G. {#Ba, ma, sa#}, (5. 4)
+<HI>Ex. {#kAliyaBogABogagatastanmaRimaDyasPItarucA .#}
+{#citrapadABo naMdasutaScAru nanarta smeramuKaH ..#}
+<H>{%Metres with%} 10 {%Syllables in a quarter%}.
+({#paMkti#})
+(1) {#tvaritagati#}
+<HI>Def. {#tvaritagatiSca najanagEH .#}
+<HI>Sch. G. {#na, ja, na, ga#} (5. 5)
+<HI>Ex. {#tvaritagatirvrajayuvatistaraRisutA vipinagatA .#}
+{#muraripuRA ratiguruRA pariramitA pramadamitA ..#}
+(2) {#mattA#}
+<HI>Def. {#jYeyA mattA maBasagasfzwA .#}
+<HI>Sch. G. {#ma, Ba, sa, ga#} (4. 6)
+<HI>Ex. {#pItvA mattA maDu maDupAlI#}
+{#kAliMdIye tawavanakuMje .#}
+{#uddIvyaMtIrvrajajanarAmAH#}
+{#kAmAsaktA maDujiti cakre ..#}
+(3) {#rukmavatI#}
+(Also called {#caMpakamAlA#}).
+<HI>Def. {#rukmavatI sA yatra BamasgAH .#}
+<HI>Sch. G. {#Ba, ma, sa, ga#} (5. 5)
+<HI>Ex. {#kAyamanovAkyEH#} <lbinfo n="pariSudDE#ryasya"/>
+{#pariSudDEryasya sadA kaMsadvizi BaktiH .#}
+{#rAjyapade harmyAlirudArA#}
+{#rukmavatI viGnaH Kalu tasya ..#}
+<H>{%Metres with 11 Syllables in a quarter%}.
+({#trizwuB#})
+(1) {#iMdravajrA#}
+<HI>Def. {#syAdiMdravajrA yadi tO jagO gaH .#}
+<HI>Sch. G. {#ta, ta, ja, ga, ga#} (5. 6)
+<HI>Ex. {#gozWe giriM savyakareRa DftvA#}
+{#ruzweMdravajrAhatimuktavfzwO!#}
+{#yo gokulaM gopakulaM ca susTaM#}
+{#cakre sa no rakzatu cakrapARiH ..#}
+(2) {#upeMdravajrA#}
+<HI>Def. {#upeMdravajrA praTame laGO sA .#}
+<HI>Sch. G. {#ja, ta, ja, ga, ga#} (5. 6.)
+<HI>Ex.  <lbinfo n="upedravajrAdimaRicCawABi#rviBazaRAnAM"/>
+{#upedravajrAdimaRicCawABirviBazaRAnAM CuritaM vapuste .#} 
+[Page1182-a+ 53]
+{#smarAmi gopIBirupAsyamAnaM#}
+{#suraMdrumUle maRimaMqapasTam ..#}
+(3) {#upajAti#}
+<HI>Def. {#anaMtarodIritalakzmaBAjO#}
+{#pAdO yadIyAvupajAtayastAH .#}
+{#itTaM kilAnyAsvapi miSritAsu#}
+{#vadaMti jAtizvidameva nAma ..#}
+<HI>Sch. G. When {#iMdravajrA#} and {#upeMdravajrA#} are mixed in one
+stanza, the metre is called {#upajAti#}. It is said to have
+14 varieties.
+<HI>Ex. {#astyuttarasyAM diSi devatAtmA#}
+{#himAlayo nAma nagADirAjaH .#}
+{#pUrvAparO toyaniDI vagAhya#}
+{#sTitaH pfTivyA iva mAnadaMqaH ..#} Ku. 1. 1.
+<P>See R. 2, 5, 6, 7; 13, 14, 16, 18, Ku. 3; Ki. 17. &c.
+<P>When other metres also are mixed in one stanza,
+the metre is still called {#upajAti#}; {%<ab>e. g</ab>%}. in the following
+verse from Māgha there is a combination of {#vaMSasTa#}
+and {#iMdravaMSA#}.
+{#itTaM raTASveBanizAdinAM prage#}
+{#gajo nfpARAmaTa toraRAdbahiH .#}
+ <lbinfo n="prasTAnakAlakzamaveSakalpanA#kftakzaRakzepamudEkzatAcyutam"/>
+{#prasTAnakAlakzamaveSakalpanAkftakzaRakzepamudEkzatAcyutam ..#}
+(4) {#doDaka#}
+<HI>Def. {#doDakamicCati BatritayAdgO .#}
+<HI>Sch. G. {#Ba, Ba, Ba, ga, ga#} (6. 5)
+<HI>Ex. {#yA na yayO priyamanyavaDUByaH#}
+{#sAratarAgamanA yatamAnam .#}
+{#tena saheha biBarti rahaH strI#}
+{#sAra tarAgamanAyatamAnam ..#} Śi. 4. 45.
+(5) {#BramaravilasitaM#}
+({#BramaravilasitA#})
+<HI>Def. {#mBO nlO gaH syAd Bramaravilasitam .#}
+<HI>Sch. G. {#ma, Ba, na, la, ga#} (4, 7)
+<HI>Ex. {#prItyE yUnAM vyavahitatapanAH#}
+{#prOQaDvAMtaM dinamiha jaladAH .#}
+{#dozAmanyaM vidaDati surata#}
+{#krIqAyAsaSramaSamapawavaH ..#} Śi. 4. 62.
+(6) {#raTodDatA#}
+<HI>Def. {#rAtparErnaralagE raTodDatA .#}
+<HI>Sch. G. {#ra, na, ra, la, ga#}. (3. 8. or 4. 8)
+<HI>Ex. {#kOSikena sa kila kzitISvaro#}
+{#rAmamaDvaraviGAtaSAMtaye .#}
+{#kAkapakzaDarametya#} <lbinfo n="yAcita#stejasAM"/>
+{#yAcitastejasAM hi na vayaH samIkzyate ..#} R. 11. 1.
+See Ku. 8 also.
+(7) {#vAtormI#}
+<HI>Def. {#vAtormIyaM gaditA mBO tagO gaH .#}
+<HI>Sch. G. {#ma, Ba, ta, ga, ga#} (4. 7)
+<HI>Ex. {#DyAtA mUrtiH kzaRamapyacyutasya#}
+{#SreRI nAmnAM gaditA helayApi .#}
+{#saMsAre'smin duritaM haMti puMsAM#}
+{#vAtormI potamivAMBoDimaDye ..#} 
+[Page1182-b+ 51]
+(8) {#SAlinI#}
+<HI>Def. {#mAttO gO cecCAlinI vedalokEH .#}
+<HI>Sch. G. {#ma, ta, ta, ga, ga#} (4. 7)
+<HI>Ex. {#aMGo haMti jYAnavfdDiM viDatte#}
+{#DarmaM datte kAmamarTaM ca sUte .#}
+{#muktiM datte sarvadopAsyamAnA#}
+{#puMsAM SradDASAlinI vizRuBaktiH ..#}
+(9) {#svAgatA#}
+<HI>Def. {#svAgatA ranaBagErguruRA ca#}
+<HI>Sch. G. {#ra, na, Ba, ga, ga#}. (3. 8)
+<HI>Ex. {#yAvadAgamayate'Ta nareMdrAn#}
+{#sa svayaMvaramahAya mahIMdraH .#}
+{#tAvadeva#} <lbinfo n="fziriMdradidfkzu#rnAradastridaSaDAma"/>
+{#fziriMdradidfkzurnAradastridaSaDAma jagAma ..#} N. 5. 1.
+See Ki. 9, Śi. 10.
+<H>{%Metres with 12 Syllables in a quarter%}.
+({#jagatI#})
+(1) {#iMdravaMSA#}
+<HI>Def. {#tacceMdravaMSA praTamAkzare gurO .#}
+<HI>Sch. G. {#iMdravaMSA#} is the same as {#vaMSasTavila#} or {#vaMSasTa#}
+(see 13 below) except that its first
+syllable is long:-- The Gaṇas are,
+{#ta, ja, ja, ra#}.
+<HI>Ex. {#dEtyeMdravaMSAgnirudIrRadIDitiH#}
+{#pItAMbaro'sO jagatAM tamopahaH .#}
+{#yasminmamajjuH SalaBA iva svayaM#}
+{#te kaMsacARUramuKA maKadvizaH ..#}
+(2) {#caMdravartma#}
+<HI>Def. {#caMdravartma nigadaMti ranaBasEH .#}
+<HI>Sch. G. {#ra, na, Ba, sa#} (4. 8.)
+<HI>Ex. {#caMdravartma vihitaM GanatimirEH#}
+{#rAjavartma rahitaM janagamanEH .#}
+{#izwavartma tadalaMkuru sarase#}
+{#kuMjavartmani haristava kutukI ..#}
+(3) {#jalaDaramAlA#}
+<HI>Def. {#abDyaMgEH syAjjalaDaramAlAmBO smO .#}
+<HI>Sch. G. {#ma, Ba, sa, ma#} (4. 8)
+<HI>Ex. {#yA BaktAnAM kaliduritottaptAnAM#}
+{#tApacCede jalaDaramAlA navyA .#}
+{#BavyAkArA dinakaraputrIkUle#}
+{#kelIlolA haritanuravyAtsA vaH ..#}
+See Ki. 5. 23.
+(4) {#jalodDatagati#}
+<HI>Def. {#rasErjasajasA jalodDatagatiH .#}
+<HI>Sch. G. {#ja, sa, ja, sa#} (6. 6)
+<HI>Ex. {#samIraSiSiraH Sirassu vasatAM#}
+{#satAM javanikA nikAmasuKinAm .#}
+{#biBarti janayannayaM#} <lbinfo n="mudamapA#mapAyaDavalA"/>
+{#mudamapAmapAyaDavalA balAhakatatIH ..#} Śi. 4. 54.
+(5) {#tAmarasa#}
+<HI>Def. {#iha vada tAmarasaM najajA yaH .#} 
+[Page1183-a+ 52]
+<HI>Sch. G. {#na, ja, ja, ya#} (5. 7)
+<HI>Ex. {#sPuwasuzamAmakaraMdamanojYaM#}
+{#vrajalalanAnayanAlinipItam .#}
+{#tava muKatAmarasaM muraSatro#}
+{#hfdayataqAgavikASi mamAstu ..#}
+(6) {#towaka#}
+<HI>Def. {#vada towakamabDisakArayutam .#}
+<HI>Sch. G. {#sa, sa, sa, sa#}, (4. 4. 3.)
+<HI>Ex. {#sa taTeti vineturudAramateH#}
+{#pratigfhya vaco visasarja munim .#}
+{#tadalabDapadaM hfdi SokaGane#}
+{#pratiyAtamivAMtikamasya guroH ..#} R. 8. 91.
+See Śi. 6. 71.
+(7) {#drutavilaMbita#}
+<HI>Def. {#drutavilaMbitamAha naBO BarO .#}
+<HI>Sch. G. {#na, Ba, Ba, ra#} (4. 8, or 4. 4. 4)
+<HI>Ex. {#munisutApraRayasmftiroDinA#}
+{#mama ca muktamidaM tamasA manaH .#}
+{#manasijena saKe praharizyatA#}
+{#Danuzi cUtaSaraSca niveSitaH ..#} Ś. 6; see
+R. 9, Śi. 6 also.
+(8) {#praBA#}
+(also called {#maMdAkinI#}).
+<HI>Def. {#svaraSaraviratirnanO rO praBA .#}
+<HI>Sch. G. {#na, na, ra, ra#} (7. 5)
+<HI>Ex. {#atisuramiraBAji#} <lbinfo n="puzpaSriyA#matanuta"/>
+{#puzpaSriyAmatanuta ratayeva saMtAnakaH .#}
+{#taruRaparaBftaH svanaM#} <lbinfo n="rAgiRA#matanuta"/>
+{#rAgiRAmatanuta rataye vasaMtAnakaH ..#} Śi. 6. 67; also
+Ki. 5. 21.
+(9) {#pramitAkzarA#}
+<HI>Def. {#pramitAkzarA sajasasEH kaTitA .#}
+<HI>Sch. G. {#sa, ja, sa, sa#}, (5. 7)
+<HI>Ex. {#vihagAH kadaMbasuraBAviha gAH#}
+{#kalayaMtyanukzaRamanekalayam .#}
+{#BramayannapEti muhuraBramayaM#}
+{#pavanaSca DUtanavanIpavanaH ..#} <ls>Śi. 4. 36</ls>,
+Ki. 6, Śi. 9 also.
+(10) {#BujaMgaprayAta#}
+<HI>Def. {#BujaMgaprayAtaM caturBiryakArEH .#}
+<HI>Sch. G. {#ya, ya, ya, ya#} (6. 6)
+<HI>Ex. {#DanErnizkulInAH kulInA BavaMti#}
+{#DanErApadaM mAnavA nistaraMti .#}
+{#DaneByaH paro bAMDavo nAsti loke#}
+{#DanAnyarjayaDvaM DanAnyarjayaDvam ..#}
+(11) {#maRimAlA#}
+<HI>Def. {#tyO tyO maRimAlA CinnA guhavaktrEH .#}
+<HI>Sch. G. {#ta, ya, ta, ya#} (6. 6).
+<HI>Ex. {#prahvAmaramOlO ratnopalakxpte#}
+{#jAtapratibiMbA SoRA maRimAlA .#}
+{#goviMdapadAbje rAjI#} <lbinfo n="naKarARA#mAstAM"/>
+{#naKarARAmAstAM mama citte DvAMtaM SamayaMtI ..#}
+[Page1183-b+ 51]
+(12) {#mAlatI#}
+(Also called {#yamunA#})
+<HI>Def. {#Bavati na jAvaTa mAlatI jarO .#}
+<HI>Sch. G. {#na, ja, ja, ra#} (5. 7)
+<HI>Ex. {#iha kalayAcyutakelikAnane#}
+{#maDurasasOraBasAralolupaH .#}
+ <lbinfo n="kusumakftasmitacAruviBramA#malirapi"/>
+{#kusumakftasmitacAruviBramAmalirapi cuMbati mAlatIM muhuH ..#}
+(13) {#vaMSasTavila#}
+(Also called {#vaMSasTa#} and {#vaMSastanita#})
+<HI>Def. {#vadaMti vaMSasTavilaM jatO jarO .#}
+<HI>Sch. G. {#ja, ta, ja, ra#} (5. 7)
+<HI>Ex. {#taTA samakzaM dahatA ganoBavaM#}
+{#pinAkinA BagnamanoraTA satI .#}
+{#niniMda rUpaM hfdayena pArvatI#}
+{#priyezu sOBAgyaPalA hi cArutA ..#} <ls>Ku. 5. 1</ls>
+See R. 3 also.
+(14) {#vESvadevI#}
+<HI>Def. {#bARASvESCinnA vESvadevI mamO yO .#}
+<HI>Sch. G. {#ma, ma, ya, ya#}, (5. 7)
+<HI>Ex. {#arcAmanyezAM tvaM#} <lbinfo n="vihAyAmarARA#madvEtenEkaM"/>
+{#vihAyAmarARAmadvEtenEkaM vizRumaByarcya BaktyA .#}
+{#tatrASezAtmanyarcite BAvinI te#}
+{#BrAtaH saMpannArADanA vESvadevI ..#}
+(15) {#sragviRI#}
+<HI>Def. {#kIrtitEzA catUrePikA sragviRI .#}
+<HI>Sch. G. {#ra, ra, ra, ra#} (6. 6)
+<HI>Ex. {#iMdranIlopalIneva yA nirmitA#}
+{#SAtakuMBadravAlaMkftA SoBate .#}
+{#navyameGacCaviH pItavAsA#} <lbinfo n="hare#mUrtirAstAM"/>
+{#haremUrtirAstAM jayAyorasi sragviRI ..#}
+See Śi. 4. 42.
+<H>{%Metres with 13 Syllables in a quarter%}.
+({#atijagatI#})
+(1) {#kalahaMsa#}
+(Also called {#siMhanAda#} and {#kuwajA#})
+<HI>Def. {#sajasAH sagO ca kaTitaH kalahaMsaH .#}
+<HI>Sch. G. {#sa, ja, sa, sa, ga#} (7. 6)
+<HI>Ex. {#yamunAvihAgkutuke kalahaMso#}
+{#vrajakAminIkamalinIkftakeliH .#}
+{#janacittahArikalakaMWaninAdaH#}
+{#pramadaM tanotu tava naMdatanUjaH ..#}
+See Śi. 6. 73.
+(2) {#kzamA#}
+(Also called {#caMdrikA#} and {#utpalinI#}).
+<HI>Def. {#turagarasayatirnO tatO gaH kzamA .#}
+<HI>Sch. G. {#na, na, ta, ta, ga#} (6. 7)
+<HI>Ex. {#iha duraDigamEH kiMcidevAgamEH#}
+{#satatamasutaraM varRayaMtyaMtaram .#}
+{#amumativipinaM veda digvyApinaM#}
+{#puruzamiva paraM padmayoniH param ..#} Ki. 5. 18. 
+[Page1184-a+ 49]
+(3) {#praharziRI#}
+<HI>Def. {#tryASABirmanajaragAH praharziRIyam .#}
+<HI>Sch. G. {#ma, na, ja, ra, ga#} (3. 10)
+<HI>Ex. {#te reKADvajakuliSAtapatracihnaM#}
+{#samrAjaScaraRayugaM prasAdalaByam .#}
+{#prasTAnapraRatiBiraMgulIzu#} <lbinfo n="cakru#rmOlisrakcyutamakaraMdareRugOram"/>
+{#cakrurmOlisrakcyutamakaraMdareRugOram ..#} R. 4. 88.
+See Ki. 7, Śi. 8.
+(4) {#maMjuBAziRI#}
+(Also called {#sunaMdinI#} and {#praboDitA#})
+<HI>Def. {#sajasA jagO ca yadi maMjuBAziRI .#}
+<HI>Sch. G. {#sa, ja, sa, ja, ga#}, (6. 7)
+<HI>Ex. {#yamunAmatItamaTa SuSruvAnamuM#}
+{#tapasastanUja iti nADunocyate .#}
+{#sa yadA'calannijapurAdaharniSaM#}
+{#nfpatestadAdi samacAri vArtayA ..#} Śi. 13. 1.
+(5) {#mattamayUrI#}
+<HI>Def. {#vedEraMDrErmtO yasagA mattamayUraH .#}
+<HI>Sch. G. {#ma, ta, ya, sa, ga#} (4. 9)
+<HI>Ex. {#dfzwvA dfSyAnyAcaraRIyAni viDAya#}
+{#prekzAkArI yAti yadaM muktamapAyEH .#}
+{#samyagdfzwistasya paraM paSyati yastvAM#}
+{#yaScopAste sADu viDeyaM sa viDatte ..#} <ls>Ki. 18. 28</ls>;
+Śi. 4. 44, 6. 76, also R. 9. 75.
+(6) {#rucirA#}
+(Also called {#praBAvatI#})
+<HI>Def. {#jaBO sajO giti rucirA caturgrahEH .#}
+<HI>Sch. G. {#ja, Ba, sa, ja ga#} (4. 9)
+<HI>Ex. {#kadA muKaM varatanu kAraRAdfte#}
+{#tavAgataM kzaRamapi kopapAtratAm .#}
+{#aparvaRi grahakaluzeMdumaMqalA#}
+{#viBAvarI kaTaya kaTaM Bavizyati ..#} M. 4. 13.
+See Bk. 1. 1, Śi. 17.
+<H>{%Metres with 14 Syllables in a quarter%}.
+({#SakvarI#})
+(1) {#aparAjitA#}
+<HI>Def. {#nanaramalaGugEH svarEraparAjitA .#}
+<HI>Sch. G. {#na, na, ra, sa, la, ga#} (7. 7)
+<HI>Ex. {#yadanavaDiBujapratApakftAspadA#}
+{#yadunicayacamUH parEraparAjitA .#}
+{#vyajayata samare samastaripuvrajaM#}
+{#sa jayati jagatAM gatirgaruqaDvajaH ..#}
+(2) {#asaMbADA#}
+<HI>Def. {#mtO nsO gAvakzagrahaviratirasaMbADA .#}
+<HI>Sch. G. {#ma, ta, na, sa, ga, ga#} (5. 9)
+<HI>Ex. {#vIryAgnO yena jvalati raRavaSAtkzipte#}
+{#dEtyeMdre jAtA DaraRiriyamasaMbADA .#}
+{#DarmasTityarTaM prakawitatanusaMbaMDaH#}
+{#sADUnAM bADAM praSamayatu sa kaMsAriH ..#} 
+[Page1184-b+ 51]
+(3) {#paTyA#}
+(Also called {#maMjarI#})
+<HI>Def. {#sajasA yalO ca saha gena paTyA matA .#}
+<HI>Sch. G. {#sa, ja, sa, ya, la, ga#} (5. 9)
+<HI>Ex. {#sTagayaMtyamUH SamitacAtakArtasvarAH#}
+{#jaladAstaqittulitakAMtakArtasvarAH .#}
+{#jagatIriha sPuritacArucAmIkarAH#}
+{#savituH kvacitkapiSayaMti cAmI karAH ..#}
+Śi. 4. 24.
+(4) {#pramadA#} (also called {#kurarIrutA .#})
+<HI>Def. {#najamajalA guruSca Bavati pramadA .#}
+<HI>Sch. G. {#na, ja, ma, ja, la, ga#} (6. 8)
+<HI>Ex. {#anaticirojJitasya#} <lbinfo n="jaladevacira#sTitabahubudbudasya"/>
+{#jaladevacirasTitabahubudbudasya payaso'nukftim .#}
+{#viralavikIrRavajraSakalA#} <lbinfo n="sakalA#miha"/>
+{#sakalAmiha vidaDAti DOtakalaDOtamahI ..#} Śi. 4. 41.
+(5) {#praharaRakalikA#}.
+<HI>Def. {#nanaBanalagiti praharaRakalikA .#}
+<HI>Sch. G. {#na, na, Ba, na, la, ga#} (7. 7)
+<HI>Ex. {#vyaTayati kusumapraharaRakalikA#}
+{#pramadavanaBavA tava Danuzi tatA .#}
+{#virahavipadi me SaraRamiha tato#}
+{#maDumaTanaguRasmaraRamaviratam ..#}
+(6) {#maDyakzAmA#}
+(Also called {#haMsaSyenI#} or {#kuwila#})
+<HI>Def. {#maDyakzAmA yugadaSaviramA mBO nyO gO .#}
+<HI>Sch. G. {#ma, Ba, na, ya, ga, ga#} (4. 10)
+<HI>Ex. {#nItocCrAyaM#} <lbinfo n="muhuraSiSiraraSmerusrE#rAnIlABErviracitaparaBAgA"/>
+{#muhuraSiSiraraSmerusrErAnIlABErviracitaparaBAgA ratnEH .#}
+{#jyotsnASaMkAmiha vitarati haMsaSyenI#}
+{#maDyepyahnaH sPawikarajataBitticCAyA ..#} <ls>Ki. 5. 31</ls>
+(7) {#vasaMtatilakA#}
+(Also called {#vasaMtatilaka#}
+{#udDarziRI, siMhonnatA#})
+<HI>Def. {#uktA vasaMtatilakA taBajA jagO gaH .#}
+<HI>Sch. G. {#ta, Ba, ja, ja, ga, ga#} (8. 6)
+<HI>Ex. {#yAtyekato'staSiKaraM#} <lbinfo n="patirozaDInA#mAvizkftAruRapuraHsara"/>
+{#patirozaDInAmAvizkftAruRapuraHsara ekato'rkaH .#}
+{#tejodvayasya yugapad vyasanodayAByAM#}
+{#loko niyamyata ivAtmadaSAMtarezu ..#} Ś. 4. 1.
+(8) {#vAsaMtI#}.
+<HI>Def. {#mAtto no mo gO yadi gaditA vAsaMtIyam .#}
+<HI>Sch. G. {#ma, ta, na, ma, ga, ga#} (4. 6. 4)
+<HI>Ex. {#BrAmyadBfMgInirBaramaDurAlApodgItEH#}
+{#SrIKaMqAdreradButapavanErmaMdAMdolA .#}
+{#lIlAlolA pallavavilasadDastollAsEH#}
+{#kaMsArAtO nftyati sadfSI vAsaMtIyam ..#}
+<H>{%Metres with 15 Syllables in a quarter%}.
+({#atiSakvarI#})
+(1) {#tURaka#}.
+<HI>Def. {#tURakaM samAnikA padadvayaM vinAMtimam .#} 
+[Page1185-a+ 52]
+<HI>Sch. G. {#ra, ja, ra, ja, ra#} (4. 4. 4. 3, or 7. 8).
+<HI>Ex. {#sA suvarRaketakaM vikASi BfMgapUritaM#}
+{#paMcabARabARajAlapUrRahetitURakam .#}
+{#rADikA vitarkya mADavAdya mAsi mADave#}
+{#mohameti nirBaraM tvayA vinA kalAniDe ..#}
+(2) {#mAlinI#}
+<HI>Def. {#nanamayayuteyaM mAlinI BogilokEH .#}
+<HI>Sch. G. {#na, na, ma, ya, ya#} (8. 7)
+<HI>Ex. {#SaSinamupagateyaM kOmudI meGamuktaM#}
+{#jalaniDimanurUpaM jahnukanyAvatIrRA .#}
+{#iti samaguRayogaprItayastatra pOrAH#}
+{#SravaRakawu nfpARAmekavAkyaM vivavruH ..#} R. 6. 85.
+(3) {#lIlAKela#}.
+<HI>Def. {#ekanyUnO vidyunmAlApAdO cellIlAKelaH .#}
+<HI>Sch. G. {#ma, ma, ma, ma, ma#}.
+<HI>Ex. {#mA kAMte pakzasyAMte paryAkASe deSe svApsIH#}
+{#kAMtaM vaktraM vfttaM pUrRaM caMdraM matvA rAtrO cet .#}
+{#kzutkzAmaH prAwaMScetaSceto rAhuH krUraH prAdyAt#}
+{#tasmAd DvAMte harmyasyAMte SayyEkAMte kartavyA ..#}
+Sar. K.
+(4) {#SaSikalA#}
+<HI>Def. {#guruniDanamanulaGuriha SaSikalA .#}
+<HI>Sch. G. {#na, na, na, na, sa#} (all short syllables
+except the last).
+<HI>Ex. {#malayajatilakasaBuditaSaSikalA#}
+{#vrajayuvatilasadalikagamanatA .#}
+{#sarasijanayanahfdayasalilaniDiM#}
+{#vyatanuta vitataraBasaparitaralam ..#}
+<H>{%Metres with 16 Syllables in a quarter%}.
+({#azwi#})
+(1) {#citra#}
+<HI>Def. {#vitrasaMjYamIritaM rajO rajO ragO ca vfttam .#}
+<HI>Sch. G. {#ra, ja, ra, ja, ra, ga#} (8. 8. or 4. 4. 4. 4.)
+<HI>Ex.  <lbinfo n="vidrumAruRADarOzWaSoBiveRuvAdyahfzwa#vallavIjanAMgasaMgajAtamugDakaMWakAMga"/>
+{#vidrumAruRADarOzWaSoBiveRuvAdyahfzwavallavIjanAMgasaMgajAtamugDakaMWakAMga .#}
+{#tvAM sadEva vAsudeva puRyalaByapAda deva#}
+{#vanyapuzpacitrakeSa saMsmarAmi gopaveSa ..#}
+(2) {#paMcacAmara#}
+<HI>Def. {#pramARikApadadvayaM vadaMti paMcacAmaram .#}
+or {#jarO jarO tato jagO ca paMcacAmaraM vadet#}
+<HI>Sch. G. {#ja, ra, ja, ra, ja, ga#} (8. 8. or 4. 4. 4. 4)
+<HI>Ex. {#suradrumUlamaMqape vicitraratnanirmite#}
+{#lasadvitAnaBUzite salIlaviBramAlasam .#}
+ <lbinfo n="surAMganABavallavIkaraprapaMcacAmara#sPuratsamIravIjitaM"/>
+{#surAMganABavallavIkaraprapaMcacAmarasPuratsamIravIjitaM sadAcyutaM BajAmi tam ..#}
+(3) {#vARinI#}
+<HI>Def. {#najaBajarEryadA Bavati vARinI gayuktEH .#}
+<HI>Sch. G. {#na, ja, Ba, ja, ra, ga#}.
+<HI>Ex. {#sPuratu mamAnane'dya nanu vARi nItiramyaM#}
+{#tavacaraRaprasAdaparipAkataH kavitvam .#}
+{#BavajalarASipArakaraRakzamaM mukuMdaM#}
+{#satatamahaM stavEH svacaritEH stavAmi nityam ..#} 
+[Page1185-b+ 53]
+<H>{%Metres with 17 Syllables in a quarter%}.
+({#atyazwi#})
+(1) {#citraleKA#}
+(Also called {#atiSAyinI#})
+<HI>Def. {#sasajA BajagA gu diksvarErBavati citraleKrA .#}
+<HI>Sch. G. {#sa, sa, ja, Ba, ja, ga, ga#} (10. 7)
+<HI>Ex. {#iti DOtapuraMDrimatsarAn sarasi majjanena#}
+{#SriyamAptavato'tiSAyinImapamalAMgaBAsaH .#}
+{#avalokya tadEva yAdavAnaparavArirASeH#}
+{#SiSiretararocizApyapAM tatizu maktuMmIze ..#} <ls>Śi. 8. 71</ls>
+(2) {#nardawaka#}
+<HI>Def. {#yadi Bavato najO BajajalA guru nardawakam .#}
+<HI>Sch. G. {#na, ja, Ba, ja, ja, la, ga#} (8. 9)
+<HI>Ex. {#taruRatamAlanIlabahulonnamadaMbuDarAH#}
+{#SiSirasamIraRAvaDUtanUtanavArikaRAH .#}
+{#kaTamavalokayeyamaDunA harihetimatI#}
+{#rmadakalanIlakaMWakalahErmuKarAH kukuBaH ..#}
+Māl. 9. 18, see 5. 31.
+(3) {#pfTvI#}
+<HI>Def. {#jasO jasayalA vasugrahayatiSca pfTvI guruH .#}
+<HI>Sch. G. {#ja, sa, ja, sa, ya, la, ga#} (8. 9)
+<HI>Ex. {#itaH svapiti keSavaH#} <lbinfo n="kulamitastadIyadvizA#mitaSca"/>
+{#kulamitastadIyadvizAmitaSca SaraRArTiMnaH SiKariRAM gaRAH Serate .#}
+{#itopi vaqavAnalaH saha#} <lbinfo n="samastasaMvartakE#raho"/>
+{#samastasaMvartakEraho vitatamUrjitaM narasahaM ca siMDorvapuH ..#} <ls>Bh. 2. 76</ls>
+(4) {#maMdAkrAMtA#}
+<HI>Def. {#maMdAkrAMtAMbuDirasanagErmo BanO tO gayugmam .#}
+<HI>Sch. G. {#ma, Ba, na, ta, ta, ga, ga#} (4. 6. 7)
+<HI>Ex. {#gopI BarturviharaviDurA kAcidiMdIvarAkzI#}
+{#unmatteva sKalitakavarI niHSvasaMtI viSAlam .#}
+{#atrEvAste muraripuriti BrAMtidUtIsaqAyA#}
+{#tyaktvA gehaM Jawiti yamunAmaMjukuMjaM jagAma ..#}
+Pad. D. 1.
+<HI>(The whole of the “Meghadūta is written in this
+metre).
+(5) {#vaMSapatrapatita#}
+<HI>Def. {#diNmunivaMSapatrapatitaM BaranaBanalagEH .#}
+<HI>Sch. G. {#Ba, ra, na, Ba, na, la, ga#} (10. 7)
+<HI>Ex. {#darpaRanirmalAsu patite Ganatimiramuzi#}
+{#jyotizi rOpyaBittizu puraH pratiPalati muhuH .#}
+{#vrIqamasaMmuKopi ramaRErapahftavasanAH#}
+{#kAMcanakaMdarAsu taruRIriha nayati raviH ..#}
+Śi. 4. 67.
+(6) {#SiKariRI#}.
+<HI>Def. {#rasErudrOSCinnA yamanasaBalAgaH SiKariRI#}
+<HI>Sch. G. {#ya, ma, na, sa, Ba, la, ga#} (6. 11)
+<HI>Ex. {#digaMte SrUyaMte madamalitagaMqAH karawinaH#}
+{#kariRyaH kAruRyAspadamasamaSIlAH Kalu mfgAH .#}
+{#idAnIM lokesminnanupamaSiKAnAM punarayaM#}
+{#naKAnAM pAMqityaM prakawayatu kasmin mfgapatiH ..#}
+Bv. 1. 2.
+(7) {#hariRI#}
+<HI>Def. {#nasamarasalAgaH zaqvedErhayErhariRI matA .#} 
+[Page1186-a+ 50]
+<HI>Sch. G. {#na, sa, ma, ra, sa, la, ga#} (6. 4. 7)
+<HI>Ex. {#sutanu hfdayAtpratyAdeSavyalIkamapEtu te#}
+{#kimapi manasaH saMmoho me tadA balavAnaBUt .#}
+{#prabalatamasAmevaMprAyAH SuBezu hi vfttayaH#}
+{#srajamapi SirasyaMDaH kziptAM DunotyahiSaMkayA ..#}
+Ś. 7. 24.
+<H>{%Metres with 18 Syllables in a quarter%}.
+({#Dfti#})
+(1) {#kusumitalatAvellitA#}.
+<HI>Def. {#syAdBUtartvaSvEH kusumitalatAvellitA mtO nayO yO .#}
+<HI>Sch. G. {#ma, ta, na, ya, ya, ya#} (5. 6. 7)
+<HI>Ex.  <lbinfo n="krIqatkAliMdIlalitalaharIvAriBirdAkziRAtyE#rvAtEH"/>
+{#krIqatkAliMdIlalitalaharIvAriBirdAkziRAtyErvAtEH KeladBiH kusumitalatAvellitA maMdamaMdam .#}
+{#BfMgAlIgItEH kisalayakarollAsitErlAsyalakzmIM#}
+{#tanvAnA ceto raBasataralaM cakrapAReScakAra ..#}
+(2) {#citraleKA#}.
+<HI>Def. {#maMdAkrAMtA naparalaGuyutA kIrtitA citraleKrA .#}
+<HI>Sch. G. {#ma, Ba, na, ya, ya, ya#} (4. 7. 7.)
+<HI>Ex. {#SaMke'muzmiY jagati mfgadfSAM sArarUpaM#} <lbinfo n="yadAsI#dAkfzyedaM"/>
+{#yadAsIdAkfzyedaM vrajayuvatisaBA veDasA sA vyaDAyi .#}
+{#nEtAdfk cet kaTamudaDisutAmaMtareRAcyutasya#}
+{#prItaM tasyA nayanayugamaBUccitraleKAdButAyAm ..#}
+(3) {#naMdana#}
+<HI>Def. {#najaBajarEstu rePasahitEH SivErhayErnaMdanam .#}
+<HI>Sch. G. {#na, ja, Ba, ja, ra, ra#} (11. 7)
+<HI>Ex. {#taraRisutAtaraMgapavanEH salIlamAMdolitaM#}
+{#maDuripupAdapaMkajarajaHsupUtapfTvItalam .#}
+{#muraharacitracezwitakalAkalApasaMsmArakaM#}
+{#kzititalanaMdanaM vraja saKe suKAya vfMdAvanam ..#}
+(4) {#nArAca#}
+<HI>Def. {#iha nanaracatuzkasfzwaM tu nArAcamAcakzate .#}
+<HI>Sch. G. {#na, na, ra, ra, ra, ra#} (8. 5, 5)
+<HI>Ex. {#raGupatirapi jAtavedoviSudDAM pragfhya priyAM#}
+{#priyasuhfdi biBIzaRe saMkramayya SriyaM vEriRaH .#}
+{#ravisutasahitena tenAnuyAtaH sasOmitriRA#}
+{#BujavijitavimAnaratnADirUQaH pratasTe purIm ..#}
+<ls>R. 12. 104</ls>
+(5) {#SArdUlalalita#}
+<HI>Def. {#maH so jaH satasA dineSaftuBiH SArdUlalalitam .#}
+<HI>Sch. G. {#ma, sa, ja, sa, ta, sa#} (12. 6.)
+<HI>Ex. {#kftvA kaMsamfge parAkramaviDiM SArdUlalalitaM#}
+{#yaScakre kzitiBArakArizu daraM cEdyapraBftizu .#}
+{#saMtozaM paramaM tu devanivahe trElokyaSaraRaM#}
+{#Sreyo naH sa tanotvapAramahimA lakzmIpriyatamaH ..#}
+<H>{%Metres with 19 Syllables in a quarter%}.
+({#atiDfti#})
+(1) {#meGavisPUrjitA#}
+<HI>Def. {#rasartvaSvErymO nsO raraguruyutO meGavisPUrjitA syAt .#}
+<HI>Sch. G. {#ya, ma, na, sa, ra, ra, ga#}, (6. 6. 7)
+<HI>Ex. {#kadaMbAmodAQyA vipinapavanaH kekinaH kAMtakekAH#} 
+[Page1186-b+ 49]
+{#vinidrAH kaMdalyo diSi diSi mudA dardurA dfptanAdAH .#}
+{#niSA nftyadvidyudvilasitalasanmeGavisPUrjitA cet#}
+{#priyaH svADIno'sO danujadalano rAjyamasmAtkimanyat ..#}
+(2) {#SArdUlavikrIqita#}
+<HI>Def. {#sUryASvEryadi maH sajO satatagAH SArdUlavikrIqitam .#}
+<HI>Sch. G. {#ma, sa, ja, sa, ta, ta, ga#} (12. 7)
+<HI>Ex. {#vedAMtezu yamAhurekapuruzaM vyApya sTitaM rodasI#}
+{#yasminnISvara ityananyavizayaH Sabdo yaTArTAkzaraH .#}
+{#aMtaryaSca mumukzuBirniyamitaprARAdiBirmfgyate#}
+{#sa sTARuH sTiraBaktiyogasulaBo niHSreyasAyAstu vaH#}
+V. 1. 1.
+(3) {#sumaDurA#}
+<HI>Def. {#mrO BnO mo no guruSced hayafturasEruktA sumaDurA .#}
+<HI>Sch. G. {#ma, ra, Ba, na, ma, na, ga#} (7. 6. 6)
+<HI>Ex. {#vedArTAn prAkftastvaM vadasi na ca te jihvA nipatitA#}
+{#maDyAhne vIkzase'rkaM na tava sahasA dfzwirvicalitA .#}
+{#dIptAgnO pARimaMtaH kzipasi sa ca te dagDo Bavati no#}
+{#cAritryAccArudattaM calayasi na te dehaM harati BUH ..#}
+Mk. 9. 21.
+(4) {#surasA#}
+<HI>Def. {#mrO BnO yo no guruScet svaramunikaraRErAha surasAm .#}
+<HI>Sch. G. {#ma, ra, Ba, na, ya, na, ga#} (7. 7. 5)
+<HI>Ex. {#kAmakrIqAsatfzRo maDusamayasamAraMBaraBasAt#}
+{#kAliMdIkUlakuMje viharaRakutukAkfzwahfdayaH .#}
+{#goviMdo ballavInAmaDararasasuDAM prApya surasAM#}
+{#SaMke pIyUzapAnEH pracayakftasuKaM vyasmaradasO ..#}
+<H>{%Metres with 20 Syllables in a quarter%}.
+({#kfti#})
+(1) {#gItikA#}
+<HI>Def. {#sajasA BarO salagA yadA kaTitA tadA Kalu gItikA#}
+<HI>Sch. G. {#sa, ja, sa, Ba, ra, sa, la, ga#} (5. 7. 8)
+<HI>Ex. {#karatAlacaMcalakaMkaRasvanamiSraRena manoramA#}
+{#ramaRIyaveRuninAdaraMgimasaMgamena suKAvahA .#}
+{#bahalAnurAganivAsarAsasamudBavA tava rAgiRaM#}
+{#vidaDO hariM Kalu vallavIjanacArucAmaragItikA ..#}
+(2) {#sucadanA#}
+<HI>Def. {#jYeyA saptaSvazaqBirmaraBanayayutA mlO gaH suvadanA#}
+<HI>Sch. G. {#ma, ra, Ba, na, ya, ma, la, ga#} (7. 7. 6)
+<HI>Ex. {#uttuMgAstuMgakUlaM srutamadasalilAH prasyaMdi salilaM#}
+{#SyAmAH SyAmopakaMWadrumamatimuKarAH kallolamuKaram .#}
+{#srotaHKAtAvasIdattawamurudaSanErutsAditatawAH#}
+{#SoRaM siMdUraSoRA mama gajapatayaH pAsyaMti SataSaH ..#}
+Mu. 4. 16.
+<H>{%Metres with 21 Syllables in a quarter%}.
+({#prakfti#})
+(1) {#paMcakAvalI#}
+(Also called {#sarasI, DftaSrI#})
+<HI>Def. {#najaBajajA jarO narapate kaTitA Buvi paMcakAvalI#}. 
+<HI>Sch. G. {#na, ja, Ba, ja, ja, ja, ra#} (7. 7. 7) 
+[Page1187-a+ 48]
+<HI>Ex, {#turagaSatAkulasya paritaH paramekatu raMgajanmanaH#}
+{#pramaTitaBUBftaH pratipaTaM maTitasya BfSaM mahIBftA .#}
+{#paricalato balAnujabalasya puraH satataM#} <lbinfo n="DftaSriya#SciragalitaSriyo"/>
+{#DftaSriyaSciragalitaSriyo jalaniDeSca tadA'BavadaMtaraM mahat ..#}
+Śi. 3. 82.
+(2) {#sragDarA#}
+<HI>Def. {#mraBnEryAnAM trayeRa trimuniyatiyutA sragDarA kIrtiteyam#}
+<HI>Sch. G. {#ma, ra, Ba, na, ya, ya, ya#} (7. 7. 7.)
+<HI>Fx. {#yA sfzwiH srazwurAdyA vahat viDihutaM yA haviryA ca hotrI#}
+{#ya dve kAlaM viDattaH SrutivizayaguRA yA sTitA vyApya#}
+{#viSvam .#}
+{#yAmAhuH sarvaBUtaprakftiriti yayA prARinaH prARavaMtaH#}
+{#pratyakzABiH prapannastanuBiravatu vastABirazwABirISaH ..#}
+Ś. 1. 1.
+<H>{%Metres with 22 Syllables in a quarter%}.
+({#Akfti#})
+{#haMsI#}
+<HI>Def. {#mO gO nAScatvAro go go vasuBuvanayatiriti Bavati haMsI#}
+<HI>Sch. G. {#ma, ma, ta, na, na, na, ta, ga#} (8. 14)
+<HI>Ex. {#sArDaM kAMtenEkAMte'sO vikacakamalamaDusurami pibaMtI#}
+{#kAmakrIqAkUtasPItapramadasarasataramalaGu rasaMtI .#}
+{#kAliMdIye padmAraRye pavanapatanaparitaralaparAge#}
+{#kaMsArAte paSya svecCaM saraBasagatiriha vilasati haMsI ..#}
+<H>{%Metres with 23 Syllables in a quarter%}.
+({#vikfti#})
+{#adritanayA#}
+<HI>Def. {#najaBajaBA jaBO laGugurU buDEstu gaditeyamadritanayA#}
+<HI>Sch. G. {#na, ja, Ba, ja, Ba, ja, Ba, la, ga#} (11. 12)
+<HI>Ex. {#KarataraSOryapAvakaSiKApataMganiBamagnadfptadanujo#}
+{#jalaDisutAvilAsavasatiH satAM gatiraSezamAnyamahimA ..#}
+{#BuvanahitAvatAracaturaScarAcaraDaro'vatIrRa iha hi#}
+{#kzitivalaye'sti kaMsaSamanastaveti tamavocadadritanayA ..#}
+<H>{%Metres with 24 Syllables in a quarter%}.
+({#saMskfti#})
+{#tanvI#}
+<HI>Def. {#BUtamunInEryatiriha BatanAH sBO BanayASca yati Bavati#}
+{#tanvI .#}
+<HI>Sch. G. {#Ba, ta, na, sa, Ba, Ba, na, ya#} (5. 7. 11)
+<H>{%Metres with 25 Syllables in a quarter%}.
+({#atikfti#})
+{#krOMcapadA#}
+<HI>Def. {#krOMcapadA BmO sBO nananA#} <lbinfo n="gAvizuSaravasumunivira#tiriha"/>
+{#gAvizuSaravasumuniviratiriha Bavet#}
+<HI>Sch. G. {#Ba, ma, sa, Ba, na, na, na, ga#} (5. 5. 8. 7)
+<H>{%Metres with 26 Syllables in a quarter%}.
+{#utkfti#}
+{#BujaMgavijfMBita#}
+<HI>Def. {#vasvISASvESCedopetaM mamatanayuganarasalagErBujaMgavijfMBitam#} 
+[Page1187-b+ 52]
+<HI>Sch. G. {#ma, ma, ta, na, na, ra, sa, la, ga#} (8. 11. 7)
+<H>{#daMqaka#}.
+<P>Metres with 27 or more letters in each quarter are
+designated by the general name {#daMqaka#}. The highest
+number of syllables in a quarter of this species of
+metre is said to be 999. In each quarter there must be
+first two {%naganas%} or six short syllables, and the remaining
+may be either {%raga%}n{%as%} or {%yaga%}n{%as%}, or all the feet may
+be {%saga%}n{%as%}. The classes of {#daMqaka#} usually mentioned are
+{#caMqavfzwiprayAta, pracitaka, mattamAtaMgalIlAkara, siMhavikrAMta#}, <lbinfo n="kusumasta#vaka"/>
+{#kusumastavaka, anaMgaSeKara, saMgrAma#} &c. Māl. 5. 23 is an instance of
+this last species of Daṇḍaka.
+<H>SECTION B.
+{#arDasamavftta#} (Half-equal Metres)
+(1) {#aparavaktra#}
+(Sometimes called {#vEtAlIya#})
+<HI>Def. {#ayuji nanaralA guruH same#}
+{#tadaparavaktramidaM najO jarO .#}
+<HI>Sch. G. {#na, na, ra, la, ga#}, (odd quarter)
+{#na, ja, ja, ra#} (even quarter)
+<HI>Ex.  <lbinfo n="sPuwasumaDuraveRugItimi#stamaparavaktramavetya"/>
+{#sPuwasumaDuraveRugItimistamaparavaktramavetya mADavam .#}
+{#mfgayuvatigaREH samaM sTitA#}
+{#vrajavanitA DftacittaviBramA ..#}
+(2) {#upacitra#}
+<HI>Def. {#vizame yadi sO salagA dale#}
+{#BO yuji BAdgurukAvupacitram .#}
+<HI>Sch. G. {#sa, sa, sa, la, ga#} (odd quarter)
+{#Ba, Ba, Ba, ga, ga#} (even quarter)
+<HI>Ex. {#muravErivapustanutAM mudaM#}
+{#hemaniBAMSukacaMdanaliptam .#}
+{#gaganaM capalAmilitaM yaTA#}
+{#SAradanIraDarErupacitram ..#}
+(3) {#puzpitAgrA#}
+(Also called {#OpacCaMdasika#})
+<HI>Def. {#ayuji nayugarePato yakAro#}
+{#yuji tu najO jaragASca puzpitAgrA .#}
+<HI>Sch. G. {#na, na, ra, ya#} (odd quarter)
+{#na, ja, ja, ra, ga#} (even quarter)
+<HI>Ex, {#aTa madanavaDUrupaplavAMtaM#}
+{#vyasanakfSA paripAlayAMbaBUva .#}
+{#SaSina iva divAtanasya leKA#}
+{#kiraRaparikzayaDUsarA pradozam ..#}
+Ku. 4. 46.
+(4) {#viyoginI#}
+(Also called {#vEtAlIya#} or {#suMdarI#})
+<HI>Def. {#vizame samajA guruH same#}
+{#saBarA lo'Ta guruviMyoginI .#}
+<HI>Sch. G. {#sa, sa, ja, ga#} (odd quarter)
+{#sa, Ba, ra, la, ga#} (even quarter)
+<HI>Ex. {#sahasA vidaDIta na#} <lbinfo n="kriyA#mavivekaH"/>
+{#kriyAmavivekaH paramApadAM padam .#} 
+[Page1188-a+ 51]
+{#vfRate hi vimfSyakAriRaM#}
+{#guRalubDAH svayameva saMpadaH ..#} Ki. 2. 30.
+(5) {#vegavatI#}
+<HI>Def. {#sayugAtsagurU vizame ced .#}
+{#BAviha vegavatI yuji BAdgO .#}
+<HI>Sch. G. {#sa, sa, sa, ga#} (odd quarter)
+{#Ba, Ba, Ba, ga#} (even quarter)
+<HI>Ex. {#smaravegavatI vrajarAmA#}
+{#keSavavaMSaravEratimugDA .#}
+{#raBasAnna gurUn gaRayaMtI#}
+{#kelinikuMjagfhAya jagAma ..#}
+(1) {#hariRaplutA#}
+<HI>Def. {#sayugAtsalaGU vizame#} <lbinfo n="guru#ryuji"/>
+{#gururyuji naBO BarakO hariRaplutA .#}
+<HI>Sch. G. {#sa, sa, sa, la, ga#} (odd quarter).
+{#na, Ba, Ba, ra#} (even quarter).
+<HI>Ex. {#sPuwaPenacayA hariRaplutA#}
+{#balimanojYatawA taraReH sutA .#}
+{#kalahaMsakulAravaSAlinI#}
+{#viharato harati sma harermanaH ..#}
+<P>{%N. B%}. Metres like {#aparavaktra#} or {#OpacCaMdasika#} and {#vEtAlayi#}
+or {#viyoginI#} are usually treated as {%jātis%}; (see Section
+D). But they are sometimes defined in the Gaṇa
+scheme, and are, therefore, given under the class of
+Vṛttas.
+<H>SECTION C.
+{#vizamavftta#} (Unequal Metres).
+<P>The most common metre of this class is called
+{#udgatA#}.
+<HI>Def. {#praTame sajO yadi salO ca#}
+{#nasajagurukARyanaMtaram .#}
+{#yadyaTa BanajalagAH syuraTo#}
+{#sajasA jagO ca BavatIyamudgatA ..#}
+<HI>Sch. G. {#sa, ja, sa, la#} (first quarter)
+{#na, sa, ja, ga#} (second ")
+{#Ba, na, ja, la, ga#}, (third ")
+{#sa, ja, sa, ja, ga#}, (fourth ")
+<HI>Ex. {#aTa vAsavasya vacanena#}
+{#ruciravadanastrilocanam .#}
+{#klAMtirahitamaBirADayituM#}
+{#viDivattapAMsi vidaDe DanaMjayaH ..#} Ki. 12. 1.
+<P>See Śi. 15 also.
+<P>Another variety of {#udgatA#} is mentioned wherein the
+third quarter has {#Ba, na, Ba, ga#} instead of {#Ba, na, ja, la, ga#}.
+<P>Other kinds of metre in which every quarter of the
+stanza differs in the number of syllables, are <lbinfo n="includ+ed"/>
+included under the general name ‘Gāthā’. The same name
+is applicable to stanzas consisting of any number of
+quarters other than four. As in the case of {#upajAti#},
+any two or more quarters of a regular metre may be
+combined to form {#arDasamavftta#} or {#vizamavftta#}. 
+[Page1188-b+ 51]
+<H>SECTION D.
+<HI>{#jAti#} (Metres regulated by the number of
+syllabic instants).
+<P>({%a%}) The most common variety of such metres is
+{#AMryA#}. It is said to have nine sub-divisions:
+--{#paTyA vipulA capalA muKacapalA jaGanacapalA ca .#}
+{#gItyupagItyudgItaya AryAgItirnavEva vAryAyAH ..#}
+<P>Of these nine kinds the last four are generally used
+and deserve mention.
+(1) {#AryA#}
+<HI>Def. {#yasyAH pAde praTame dvAdaSamAtrAstaTA tftIyepi .#}
+{#azwAdaSa dvitIye caturTake paMcadaSa sAryA ..#}
+Śrut. 4.
+<P>The first and third quarters must each contain 12
+mātrās or syllabic instants (one being allotted to a
+short vowel, and two to a long one), the second 18,
+and the fourth 15.
+<HI>Ex. {#pratipakzeRApi patiM sevaMte BartfvatsalAH sADvyaH .#}
+{#anyasaritAM SatAni hi samudragAH prApayaMtyabDim ..#}
+M. 5. 19.
+<P>The whole of Govardhana's {#AryAsaptaSatI#} is written
+in this metre.
+(2) {#goti#}.
+<HI>Def. {#AryApUrvArDasamaM dvitIyamapi Bavati yatra haMsagate .#}
+{#CaMdovidastadAnIM gItiM tAmamftavARi BAzate ..#}
+Śrut. 5.
+<P>The first and third quarters of this metre must <lbinfo n="con+tain"/>
+contain 12 syllabic instants each, and the second and
+fourth 18 each.
+<HI>Ex. {#pAwIra tava pawIyAnkaH paripAwImimAmurIkartum .#}
+{#yatpiMzatAmapi nfRAM pizwo'pi tanozi parimalEH puzwim ..#}
+Bv. 1. 12.
+(3) {#upagIti#}.
+<HI>Def. {#AryottarArDatulyaM praTamArDamapi prayuktaM cet .#}
+{#kAmini tAmupagIti pratiBAzaMte mahAkavayaH ..#}
+Śrut. 6.
+<P>The first and third quarters of this metre must <lbinfo n="con+tain"/>
+contain 12 syllabic instants each, and the second and
+fourth 15 each.
+<HI>Ex. {#natagopasuMdarIRAM rAsollAse murArAtim .#}
+{#asmArayadupagItiH svargakuraMgadfSAM gIteH ..#}
+(4) {#udgIti#}
+{#AryASakaladvitaye viparIte punarihodgItiH .#}
+<P>The first and third quarters of this metre must
+contain 12 syllabic instants each, the second 15, and
+the fourth 18.
+<HI>Ex. {#nArAyaRasya saMtatamudgItiH saMsmftirBaktyA .#}
+{#arcAyAmAsaktirdustarasaMsArasAgare taraRiH ..#}
+(5) {#AryAgIti#}.
+<HI>Def. {#AryAprAgdalamaMte'Dikaguru tAdfk#} <lbinfo n="parArDa#mAryAgItiH"/>
+{#parArDamAryAgItiH .#} 
+[Page1189-a+ 37]
+<P>The first and third quarters of this metre must <lbinfo n="con+tain"/>
+contain 12 syllabic instants each, and the third and fourth
+20 each.
+<HI>Ex. {#savaDUkAH suKino'#} <lbinfo n="smi#nnavaratamamaMdarAgatAmarasadfSaH"/>
+{#sminnavaratamamaMdarAgatAmarasadfSaH .#}
+{#nAsevaMte#} <lbinfo n="rasava#nnavaratamamaMdarAgatAmarasadfSaH"/>
+{#rasavannavaratamamaMdarAgatAmarasadfSaH ..#} Śi. 4. 51.
+<P>{%Note%}. All these five sorts are sometimes defined
+in the Gaṇa scheme.
+({%b%}) {#vEtAlIya#}.
+<HI>Def. {#zaqvizame'zwO same kalAstASca same syurniraMtarAH .#}
+{#na samAtra parASritA kalA vEtAlIyeM'te ralO guruH ..#}
+<P>This is a stanza of four quarters, the first and third
+of which contain the time of fourteen short syllables,
+and the second and fourth sixteen. Again, the first
+and third quarters of this metre must contain 6 <lbinfo n="sylla+bic"/>
+syllabic instants, and the second and fourth 8 each, <lbinfo n="follow+ed"/>
+followed by a {#ragaRa#} ( ¯ ˘ ¯ ) and a short and a long vowel,
+( ˘ ¯ ). The rules further require that the syllabic <lbinfo n="in+stants"/>
+instants in the even quarter should not be all composed
+of short syllables or long syllables, and that the even
+syllabic instant in each quarter ({%<ab>i. e.</ab>%} the 2nd, 4th
+and 6th) should not be formed conjointly with the
+next ({%<ab>i. e.</ab>%} 3rd, 5th, and 7th).
+<HI>Ex. {#kuSalaM Kalu tuByameva#} <lbinfo n="tad#vacanaM"/>
+{#tadvacanaM kfzRa yadaByaDAmaham .#}
+{#upadeSaparAH parezvapi#}
+{#svavinASABimuKezu sADavaH . ..#} Śi. 16. 14.
+({%c%}) {#OpacCaMdasika#}
+<HI>Def. {#paryaMte ryO taTEva SezamOpacCaMdasikaM suDIBiruktam .#}
+<P>This is the same as {#vEtAlIya#} except that at the end of
+each quarter there must be a {#ragaRa#} and {#yagaRa#} instead of
+{#ragaRa#} and {#la, ga#} only; in other words, it is the same as
+{#vEtAlIya#} with only a long syllable added at the end of
+each quarter.
+<HI>Ex. {#vapuzA parameRa#} <lbinfo n="BUDarARA#maTa"/>
+{#BUDarARAmaTa saMBAvya parAkramaM biBede .#} 
+[Page1189-b+ 37]
+{#mfgamASu vilokayAMcakAra#}
+{#sTiradaMzwrogramuKaM maheMdrasUnuH ..#} Ki. 13. 1.
+<P>So in the next 52 verses of the same canto.
+See Śi. 20 also
+<P>It will be noticed that {#viyoginI#} or {#suMdarI#} and {#aparavaktra#}
+are only particular cases of {#vEtAlIya#}, and {#puzpitAgrAM#} and
+{#mAlaBAriRI#}, of {#OpacCaMdasika#}. Prosodists treat both these
+classes of metres in the Gaṇa scheme as well as in the
+Mātrā scheme; hence they have been noticed here as
+well as in Section C.
+<H>({%d%}) {#mAtrAsamaka#}
+<P>The metre called {#mAtrAsamaka#} consists of four quarters
+each of which contains 16 syllabic instants. The
+most general variety is that in which the ninth <lbinfo n="sylla+bic"/>
+syllabic instant is composed of a short syllable, and the
+last is a long syllable. It is defined as {#mAtrAsamakaM navamo#}
+{#lgAMtyaH .#}
+<P>But there are several varieties of this metre
+arising from particular syllabic instants being short or
+long. For example, if the 9th and 12th moments are
+formed by short syllables, and the 15th and 16th by
+a long one, and the rest are optional, it is called
+{#vAnavAsikA#}. If the 5th, 8th, and 9th are formed by
+short syllables, and the 15th and 16th by a long one,
+it is called {#citrA#}. If the 5th and 8th are short, as
+also the 9th and 10th, and 15th and 16th are long'
+it is called {#upacitrA#}. And if the 5th, 8th, and 12th
+are short, 15th and 16th long, and the rest <lbinfo n="indetermi+nate"/>
+indeterminate, it is called {#viSloka#}. Sometimes two or more of
+these varieties are combined in the same stanza, and
+in that case the measure is called {#pAdAkulaka#}, in which
+there is no other restriction than that each quarter
+should have sixteen syllabic instants.
+<HI>Ex {#mUQa jahIhi DanAgamatfzRAM#}
+{#kuru tanubudDe manasi vitfzRAm .#}
+{#yallaBase nijakarmopAttaM#}
+{#vittaM tena vinodaya cittam ..#} Moha M.). 
+[Page1190+ No]
+[Page1191-a+ 49]
+<H>{@{|APPENDIX II.|}@}
+Giving the dates &c. of important Sanskrit writers.
+[Page1193-a+ 49]
+<H>{@{|APPENDIX III.|}@}
+On important Geographical names in ancient India.

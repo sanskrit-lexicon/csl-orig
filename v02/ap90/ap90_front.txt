@@ -1,0 +1,826 @@
+[Page-I+ 15]
+<H>THE PRACTICAL
+SANSKRIT-ENGLISH
+DICTIONARY.
+Containing Appendices on Sanskrit Prosody and
+important Literary & Geographical names
+in the ancient history of India.
+({%FOR THE USE OF SCHOOLS AND COLLEGES%}.)
+BY
+VAMAN SHIVRAM APTE M. A.,
+PRINCIPAL AND PROFESSOR OF SANSKRIT, FERGUSSON COLLEGE, POONA.
+({%All Rights Reserved%}.)
+POONA:
+SHIRALKAR & CO., BOOK-SELLERS &c. &c.
+BUDHWAR PETH.
+1890. 
+[Page-II+ 5]
+<H>POONA:
+PRINTED AT THE “ARYA VIJAYA” PRESS.
+150 {%BUDHWAR PETH%}.
+Udgaet af
+Odense
+Universitetsbibliotek 
+[Page-1+ 43]
+<H>PREFACE.
+<P>This Dictionary has been undertaken to supply a want long felt by the student of a complete
+and at the same time cheap Sanskrit-English Dictionary. Very little need, I think, be said with regard
+to the necessity of bringing out a work like this, when the study of Sanskrit has received such a strong
+impetus during the last twenty-five years. There have been four or five Sanskrit-English Dictionaries <lbinfo n="pub+lished"/>
+published till now; but very few of them fulfil the two essential conditions of the popularity and usefulness of
+such works: --satisfying all the requirements of students and at the same time being within their easy reach.
+The Dictionaries of Professors Wilson and Monier Williams are very useful and valuable works, but their
+prices-particularly of the latter-are prohibitively high, and they do not also meet many of the most ordinary
+wants of Sanskrit readers. A student, while reading Sanskrit at School or College, generally expects that the
+Dictionary which he uses will give appropriate equivalents for such words and compound expressions as
+may have peculiar meanings or shades of meaning in particular passages. He desires to know not only that
+a particular word has so many senses, but that it has this or that sense in a particular passage of a
+book, so that he may determine any particular meaning of a word in a certain passage by seeing and
+comparing how it is used elsewhere by the same writer or by other writers in different works. He also
+wants accurate and, as far as possible, full explanations of the more important technical terms <lbinfo n="occur+ring"/>
+occurring at least in his usual course reading, as well as any other information likely to be of use to him.
+Professor Monier Williams has, in his invaluable Dictionary, tried to exhaust the meanings of words as far as
+he could, and has also given much useful information on some points. But it would not, I think, be detracting
+from the merits of the great work to say that it fails to give some of the most common senses of words <lbinfo n="occur+ring"/>
+occurring in such well-known and oft-read books as the Uttararāmacarita, Mudrārākṣasa, Veṇīsaṃhāra,
+Śiśupālavadha or Kādambarī, Moreover it gives neither quotations nor references, nor much of the <lbinfo n="in+formation"/>
+information likely to be useful to the student during his School or College career. In making these <lbinfo n="re+marks"/>
+remarks I must not, in the slightest degree, be understood to make any reflections on that Dictionary. Indeed, I
+have myself derived no small help from that work, as will be acknowledged further on. My only object
+in pointing out its defects has been to show why I thought it necessary to undertake the <lbinfo n="compila+tion"/>
+compilation of a new Dictionary, when some already existed in the field, and I hope the reader will be able
+to find that this Dictionary is an improvement on its predecessors in some respects at least.
+<P>Having thus explained the necessity of undertaking and publishing this Dictionary, I shall say a
+few words with regard to its plan and scope. The extent of Sanskrit literature is so vast that not even the
+life-long labours of a single individual, howsoever talented or persevering, will be able to do full justice to it.
+It has two distinct branches, the Vedic and post-Vedic, each of which will require an independent encyclopædia
+for itself. Not even the gigantic {%Vācaspatya%} of the late Professor Tārānātha Tarkavācaspati, nor the
+equally gigantic German {%Wörterbuch%} of Drs. Roth and Bothlingk, can be said to be altogether complete and
+comprehensive. Much less can a small work like mine-complied during the leisure hours
+of a teacher's life-aspire to be called complete in any sense of the word. However, I have
+tried to make it as comprehensive and practically useful to the student of Sanskrit as
+my humble powers enabled me to do, though how far I have succeeded in my object the reader alone can
+best decide. It includes all words occurring in the general post-Vedic literature, such as Epics like
+the Rāmāyaṇa and Mahābhārata, the several Purāṇas, the Smṛti literature, particularly the law-books of
+Manu and Yājñavalkya, the several darśanas or systems of philosophy such as Nyāya, Vaiśeṣika, Mīmāṃsā,
+Vedānta, &c. Grammar, Rhetoric, Poetry in all its branches, Tantra and dramatic literature, Mathematics,
+Medicine, Astronomy, Music, and such other technical or scientific branches of learning. It inserts most 
+[Page-2+ 51]
+of the leading names of trees and plants with scientific or vernacular equivalents wherever noteworthy.
+It also gives most of the principal Vedic words or senses of words; for though Vedic Literature would
+require a dictionary by itself, still I did not think it desirable to omit altogether at least such words as <lbinfo n="fre+quently"/>
+frequently occur, especially as I intended to make this work as complete and comprehensive as I could. For the
+same reason, obscure or unimportant words or senses of words have been inserted, though they may not be
+generally met with in classical literature as studied by the University student.
+<P>The chief feature of this Dictionary is that it has aimed at being {%practical%}. With this view I have
+added quotations and references to the peculiar and noteworthy senses of words, especially such as occur in
+works read by the student at School or College. In some cases the quotations might appear to some to
+be superfluous, but to a student, especially a beginner, they are very useful, as they supply him with
+apt illustrations of the senses of words, and enable him to provide himself with a large stock of
+choice, idiomatic expressions which are so abundant in the language. Another noticeable feature of the
+Dictionary is that it gives full explanations of the more important technical terms, particularly in Nyāya,
+Alaṃkāra, Vedānta, Grammar and Dramaturgy, with quotations in Sanskrit wherever necessary; {%e. g%}.
+see the words {#anEkAMtika, aBAva, sAmAnya, aprastutapraSaMsA, upamA, rUpaka, upanizad, mImAMsA, aDyAropa, vArtika, pada#},
+{#prAtipadika, spfzwa, rasa, praveSaka, vizkaMBaka, sTAyiBAva#} &c. In the case of Alaṃkāras I have chiefly drawn upon
+the Kāvyaprakāśa, though I have occasionally consulted the Rasagaṅgādhara, Candrāloka and <lbinfo n="Kuvala+yānanda"/>
+Kuvalayānanda. In the explanation of dramatic terms I have usually followed the Sāhityadarpaṇa and its
+translation into English, and have sometimes referred to the Daśarūpa. Similarly, striking phrases, some
+choice expressions and idioms or peculiar combinations of words, have been given under every word where
+necessary or possible; {%e. g%}. see the words {#gam, setu, mayUra, hasta, DA, kf, dA, baMD#}, &c. Mythological allusions
+in the case of all important personages have been briefly but clearly explained, so as to give the reader
+most of the facts connected with them; {%e. g%}. see {#agni, agastya, iMdra, kArtikeya, prahrAda, sAvitrI#} &c. Etymology
+has generally been given in the case of every important word, except where it was purely fanciful; {%e. g%}. see
+{#ajIvani, atiTi, apatya, putra, jAyA, hfzIkeSa#} &c. In doing this I have followed the system of native <lbinfo n="gramma+rians"/>
+grammarians who resolve every word into its {%‘prakriti’%} and {%‘pratyaya’%}, and the terminations given according to
+Pāṇini's nomenclature will be explained further on. I have thought it necessary to do so at the <lbinfo n="sugges+tion"/>
+suggestion of several friends, and have derived considerable help from the great {%Vācaspatya%} which I have
+usually followed, except where the etymology given therein appeared to me to be purely arbitrary or <lbinfo n="fan+ciful"/>
+fanciful. Philological comparisons have been given only where useful and noteworthy. The work also gives <lbinfo n="in+formation"/>
+information about words which, it is believed, will be very useful, especially to the University student; {%e. g%}.
+see the words {#apsaras, asura, veda, maMqala, mAnasa, haMsa#} &c. Some of the most common {%Nyāyas%} or Maxims have
+been collected under the word {#nyAya#} for easy reference; {%e. g%}. see {#kAkatAlIyanyAya, daMqApUpanyAya, sTAlIpulAkanyAya#}
+&c. To add to the usefulness of the Dictionary I have added at the end three Appendices. The first is on
+Sanskrit Prosody which attempts to give in a clear and intelligible form all the common metres with <lbinfo n="Defini+tions"/>
+Definitions, Schemes in Gaṇas, and Examples. In the preparation of this Appendix I have chiefly
+drawn upon the two popular works on Prosody, the Vṛttaratnākara and Chando-Mañjari,
+but some common metres omitted in those works have been added from the illustrations
+found in the works of Māgha, Bhāravi, Daṇḍin, Bhaṭṭi, Śūdraka &c. Colebrooke's Essay on Sanskrit Metres
+has also given me occasional help. The second Appendix gives the dates, writings &c. of some of the <lbinfo n="im+portant"/>
+important Sanskrit writers such as Kālidāsa, Bhavabhūti, Bāṇa. Here I have selected only those names about
+which something definite-something more than mere guesses and surmises-is known, and I have derived
+some hints from the Introduction to Vallabhadeva's Subhāṣitāvali edited by Dr. Peterson and Paṇḍita
+Durgā Prasāda, and from Prof. Max Müller's ‘India: what it can teach us,’ for which my thanks are due
+to the authors of both the works. The third Appendix gives the most important names in the
+ancient Geography of India with identifications on the modern map wherever ascertained, and
+in this part of the work I have to cordially acknowledge the help I have derived from <lbinfo n="Cun+ningham"/>
+Cunningham's Ancient Geography, but particularly from Mr. Borooah's Essay prefixed to the third
+volume of his English-Sanskrit Dictionary. I had at first intended to add two alphabctical indexes to
+the principal events and personages occurring in the Rāmāyaṇa and Mahābhārata, but I have
+had to abandon the project, as the publication of the Dictionary has already been delayed on account of 
+[Page-3+ 50]
+various causes over which I had no control. In short, I have endeavoured to make the PRACTICAL <lbinfo n="SAN+SKRIT"/>
+SANSKRIT-ENGLISH DICTIONARY as complete, comprehensive, and encyclopedic as was possible within the limits
+of a single compact volume by condensing a very large amount of matter by means of suitable <lbinfo n="typographi+cal"/>
+typographical and other arrangements, and I hope it will be found to be a practically useful and reliable guide in
+the study of the Sanskrit language.
+<P>There is one point which will not fail to strike a careful reader of this Dictionary, which is that there is
+not the same fulness of treatment in the later portion as in the first 300 or 400 pages. After the vowels
+had been printed off, I found that they covered no less than 364 pages by themselves, and if the <lbinfo n="remain+ing"/>
+remaining letters of the alphabet had been treated with the same fulness, the volume would have increased to
+about 2000 pages, and the publication of the work itself would have been delayed by at least one year more.
+It is obvious that neither time, nor the very cheap price at which the work was offered to subscribers,
+would have enabled me to carry on the work of compilation on the same scale; and I was, therefore, obliged
+to endeavour to curtail the matter by occasionally substituting references for quotations without at the same
+time marring the usefulness of the work, and by abridging explanations of words and the information given
+about them, while in some cases I have had to keep back matter originally intended for the volume. I hope,
+however, that this has not to any great extent affected the practical usefulness of the Dictionary, and
+I trust that if time and circumstances permit, I shall be in a position to make the second edition much more
+useful, complete, and comprehensive than the first.
+<P>The plan and arrangement of the work will be best understood from the ‘Directions’ which follow.
+Verbs formed by prefixing prepositions to roots are arranged in the alphabetical order of the prepositions so
+affixed; {%<ab>e. g.</ab>%} {#prasTA#} or {#saMsTA#} must be looked for not under {#sTA#}, but in its own alphabetical order, and at the head
+of its own group of derivatives. This system has been followed in this Dictionary with a view to save <lbinfo n="re+petition"/>
+repetition of equivalents under the derivatives from a root. But if, on trial, it be found to be practically <lbinfo n="in+convenient"/>
+inconvenient, it may be abandoned in the second edition. As in the English-Sanskrit Dictionary, I have
+here throughout used the {%anusvāra%} instead of the nasals, ({%e. g. anga%} or {%santāpa%} is written not as {#aNga, santApa#},
+but as {#aMga, saMtApa#}), which practice, whatever may be said with regard to its correctness, is very convenient for
+purposes of printing. The several contrivances used to effect saving in space will be understood by the
+reader after very short practice.
+<P>It now remains for me to do the grateful duty of acknowledging the help I have derived from <lbinfo n="differ+ent"/>
+different sources. And in doing so I must give the first place to the great Sanskrit encyclopædia, the <lbinfo n="Vāchas+patya"/>
+Vāchaspatya of Professor Tārānātha Tarkavācaspati. I have constantly kept it by my side and have freely <lbinfo n="avail+ed"/>
+availed myself of the information contained in it-of course with large curtailments-though I have had to <lbinfo n="supple+ment"/>
+supplement it myself wherever it was found to be defective or insufficient. Several words and senses of words not given
+in the existing Sanskrit-English lexicons, as also some quotations, particularly from Udbhaṭa and Purāṇas,
+have been borrowed from the same work. The Sanskrit-English Dictionary of Professor Monier Williams is
+the next work to which I have been greatly indebted. It has been a constant source of help to me, and I
+have frequently adopted his renderings of words, compound expressions &c., where I found them better
+than those I myself had to suggest. And though there is a good deal in this Dictionary that is not to be
+found in that work, and though the plan and scope of the two are essentially different, yet I must
+gratefully acknowledge the great assistance I have often derived from the learned Professor's invaluable <lbinfo n="Dic+tionary"/>
+Dictionary. The last work to which also my grateful acknowledgments are due is the German Wörterbuch of
+Drs. Roth and Bothlingk. The chief distinguishing feature of that great work is that it abounds with
+quotations and references dealing with almost every branch of Sanskrit literature, but a careful reader will
+easily see that the works belonging to Vedic literature, such as the four Vedas, Upaniṣads,
+Brāhmaṇas, Āraṇyakas &c., have been comparatively more copiously drawn upon by the
+authors than works belonging to the post-Vedic literature. A glance at the contents of this
+Dictionary will show that I have drawn upon works seldom or not at all referred to in the
+Wörterbuch; such as the Mahāvīracarita, Mālatī-Mādhava, Uttararāmacarita, Kādambarī, <lbinfo n="Śiśupāla+vadha"/>
+Śiśupālavadha, Kirātārjunīya, Mudrārākṣasa, Veṇīsaṃhāra, Ratnāvalī, Kāvyaprakāśa, Śāṃkarabhāṣya, Bhāminīvilāsa,
+Vikramāṅkadevacarita, Gaṅgālaharī &c. Indeed, the great majority of quotations and references are 
+[Page-4+ 27]
+from my own collection made during the last seven or eight years; and I have even been obliged to keep back
+a large number of them for want of space. But I must frankly acknowledge that I have freely availed
+myself of the quotations and references in that Dictionary, where my own collection was defective, particularly
+in the case of Vedic and Paurāṇic works. I have also occasionally consulted the Dictionaries of H. H.
+Wilson and Benfey, the former supplying some happy renderings of technical or obscure
+words. To these authors, as well as to the authors and editors of several other works, which are
+too many to be here mentioned, from which I have derived occasional help in one form or another, my
+most grateful thanks are due.
+<P>In conclusion I may be permitted to express the hope that the PRACTICAL SANSKRIT-ENGLISH <lbinfo n="DICTION+ARY"/>
+DICTIONARY-which has attempted to give in 1200 closely printed pages of this size matter at least equal in point of
+{%quantity%} to that given by Prof. Monier Williams in his Dictionary, but in point of {%quality%} more reliable,
+varied, and practically useful, in my humble opinion-will serve the purpose I have had in view in
+compiling it; namely, to render to the student of Sanskrit nearly the same service that Webster's or Ogilvie's
+Dictionary does to the student of English. I have tried to make it easily accessible to the public by issuing
+a Popular Edition priced at 7 Rupees-a price too low, I believe, for so much matter; while the Library <lbinfo n="Edi+tion"/>
+Edition which, containing the same matter, is printed on superior paper and in better style, and will also
+have superior binding, will best answer the purposes of the well-to-do persons who can afford to
+spend 10 or 11 Rupees for such object. In a work of this kind I know there must be several <lbinfo n="de+fects"/>
+defects and also errors both of omission and commission, and if such persons as will do me the honour of using
+this Dictionary will be so good as to point out to me places which require corrections, additions or <lbinfo n="improve+ments"/>
+improvements, I shall be very happy to give the suggestions my best consideration in the second edition. But if
+the Dictionary, even in its present form, be found to be a useful publication, I shall consider my labours
+more than amply repaid, and shall feel quite refreshed to devote my humble self again, if need be, to
+the service of the Sanskrit-reading public; for, says the poet,
+{#kleSaH Palena hi punarnavatAM viDatte#}.
+<HS>Poona,
+28th December 1890. V. S. APTE. 
+[Page-5+ 35]
+<H>DIRECTIONS TO BE STUDIED BEFORE USING THIS DICTIONARY.
+<P>1. Words and their derivatives are arranged in the following order: first the {%radical%} or primitive
+word in large black type in all its different parts of speech; and then the several derivatives in smaller type.
+In some cases these derivatives are given in their own alphabetical order for the sake of clearness.
+<P>2. The different parts of speech of a word are indicated by large black dashes, after which the <lbinfo n="nomi+native"/>
+nominative singular of the part of speech is usually given, or the letters {%m., f., n%}. or {%ind%}. are put after the dash, the
+leading word being given only once. Where a word is used as an adjective and also as a substantive, the
+senses of the adjective are invariably given first; {%e. g%}. {#vIra, sADu, sat#}. The same is done in the case of <lbinfo n="com+pounds"/>
+compounds, but within brackets.
+<P>3. Where two words, though identical in form, differ entirely in meaning, they are generally repeated
+as separate words; {%e. g%}. {#hA, hi#}. In a few cases they have been grouped together.
+<P>4. Words which are used as adverbs, but derived by case-inflections from a noun or adjective, are
+given under the noun or adjective, {%e. g%}. {#uttareRa#} under {#uttara#}. In some cases they are given within
+brackets before the compounds, if any.
+<P>5. The several meanings of a word, where they can be sufficiently distinguished from one another, are
+given separately and marked by black Arabic figures. Mere {%shades%} of meaning are not considered as separate
+senses, but in such cases several synonyms are given under the same meaning, from which the reader will
+have to make his choice. Where the shades of meaning are sufficiently broad, they are numbered as separate
+meanings.
+<P>6. The meanings of words are arranged in the order of their importance and frequency of use. It has
+not, of course, been possible to do so in {%every%} case, ut the system has been generally followed.
+<P>7. ({%a%}) Compounds are grouped under the first word in the compounds, in the alphabetical order of
+their {%second%} members, the black dash before them denoting that first word; {%e, g%}. {#--hotra#} under {#agni#} means  <lbinfo n="agni#hotra"/>
+{#agnihotra, --aDikArin#} under {#uttara#} means {#uttarADikArin#}.
+<P>{%N. B%}. In giving compounds, the changes, which the final letters undergo, {%e. g%}. the dropping, <lbinfo n="assimila+tion"/>
+assimilation of letters &c. are assumed; {%e. g%}. {#--apara#} under {#pUrva#} stands for {#pUrvApara, --gatiH#} under {#aDas#}, for {#aDogatiH#} &c. In
+some cases the compound words, where not easily intelligible, are given in full within brackets; see {#Danus, punas#},
+{#vAc#}. &c.
+<P>({%b%}) Where a compound itself is used as the first member of other compounds, these letter are given
+immediately after, their second member being preceded by °which represents the first compound; {%e. g%}. {#°iMdra#},
+{#°rAja#} &c. given under {#dvi#} stand not for {#dvIMdra#} or {#dvirAja#}, but for {#dvijeMdra#} or {#dvijarAja#}.
+<P>({%c%}) All {%aluk%} compounds ({%e. g%}. {#Atmanepada, kuSeSaya, parasmEpada, manasija, dAsyAH putraH, hfdispfS#} &c.) are
+given separately in their proper places, but under the radical word.
+<P>8. All words formed by Kṛt or Taddhita affixes are given separately; thus {#kUlaMkaza, BayaMkara, annamaya#},
+{#prAtastana, himavat#} &c. will be found not as compounds under {#kUla, Baya#} &c. but as separate words. 
+[Page-6+ 39]
+<P>9. ({%a%}). In the case of substantives the nominative singular, wherever it may at once denote the
+gender, is given throughout, the {%visarga%}, unless followed by {%f.%}, indicating masculine gender, and the
+{%anusvāra%} neuter gender. Where the nominative singular is not indicative of the gender, it is specified as
+{%m. f%}. or {%n%}. as the case may be. All substantives ending in consonants have their genders specified as {%m. f%}.
+or {%n%}.
+<P>({%b%}) The feminine forms of nouns are usually given as separate leading words, but in some cases,
+especially in the first five or six hundred pages, they are given under the leading word after the masculine
+gender. But where the fem. base enters into compounds, it is invariably given separately; {%e. g%}. {#ajA#}.
+<P>10. In the case of adjectives the simple base only is given. The feminine of the majority of <lbinfo n="adjec+tives"/>
+adjectives in {#a#} ends in {#A#}, and adjectives ending in {#i#} or {#u#} have generally the same base for all genders. In all
+such cases the simple base is given, the feminine being formed according to similar substantive bases. All
+irregular feminines are, however, denoted within brackets. Adjectives ending in {#t, n#}, or {#s#}, form their
+feminines regularly in {#tI, nI#}, or {#sI#}; where irregular, they are denoted within brackets.
+<P>11. ({%a%}). In the case of verbs, the Arabic figure before P., A. and U. denotes the conjugation
+to which the root belongs; P. denoting Parasmaipada, A. Ātmanepada, and U. Ubhayapada (P. and A.).
+Den. stands for Denominative, and here the 3rd pers. sing. present tense is given throughout.
+<P>({%b%}). Under each root the 3rd person singular present tense and of the Perfect, Aorist, two Futures
+and Infinitive in the case of important roots, and the past passive participle wherever noteworthy, are given
+throughout. The forms of the {%Passive, Causal%} and {%Desiderative%}, wherever noteworthy, are given after them,
+or after the senses of the primitive base, where there is any peculiarity in their senses.
+<P>({%c%}). Verbs formed by prefixing prepositions to roots are given separately in their own alphabetical
+order, except in cases where there are no derivatives from such verbs.
+<P>({%d%}). Roots sometimes change their form or {%pada%} (voice) or both, when used in particular senses,
+or when preceded by particular prepositions. Such changes are denoted within brackets.
+<P>({%e%}). When a root belongs to different conjugations with different meanings, Roman figures are used
+to mark this difference, (cf. {#as, gup, hA#} &c.), the root being repeated only once.
+<P>12. ({%a%}). All possible derivatives from a word are not always given when they may be easily <lbinfo n="sup+plied"/>
+supplied, more especially in the case of potential passive participles (formed by {#tavya, anIya#} and {#ya#}), present
+participles, and abstract nouns from adjectives (formed by adding {#tA, tva#} or {#ya#}). Where there is any <lbinfo n="pecu+liarity"/>
+peculiarity either in the formation or meaning of these derivatives, they are given. But in many cases the <lbinfo n="stu+dent"/>
+student will have to supply the forms according to the general rules given in Grammar.
+<P>({%b%}). Similarly all the equivalents given under the radical word are not always repeated under the <lbinfo n="deri+vatives"/>
+derivatives; they may, if necessary, be ascertained by a reference to the radical word.
+<P>13. Mythological allusions are explained in {%small%} type in the body of the work between rectangular
+brackets []. Here long vowels like ā, ī, ū, and letters of the lingual class, as also {#f#} and {#Sa#} are, for the
+convenience of the press, denoted by corresponding {%italic%} letters; {%e. g%}. Pāṇḍava and Kṛpī stand for
+{#pAMqava#} and {#kfpI#}.
+<P>14. Metres and information about literary and geographical names are given in the Appendices at
+the end. 
+[Page7-a+ 45]
+<H>EXPLANATION OF TERMINATIONS USED IN THE DERIVATION OF WORDS.
+{%N. B%}. Ter. stands for ‘termination’, and Tad. for ‘Taddhita’.
+<P>.{#a#}¦ a Kṛt ter. ({%<ab>f.</ab>%}); as in {#jigamizA#}.
+<P>.{#aN(a)#}¦ a Kṛt ter. ({%<ab>f.</ab>%}) before which no guṇa
+or Vṛddhi takes place; as in {#BidA, CidA, sparDA#}.
+<P>.{#ac(a)#}¦ a Kṛt ter. ({%<ab>m.</ab>%}); as in {#pacaH#}; or a Tad. one;
+as in {#arSasaH#}.
+<P>.{#aY(a)#}¦ a Tad. ter. showing ‘descendant or off
+spring’ &c.; as in {#OtsaH, vEdaH#}.
+<P>.{#aR(a)#}¦ a Tad. ter. used in the same sense; as in
+{#jAnakI, pArvatI, SEva#}; also Kṛt.; as in {#kuMBakAraH#}.
+<P>.{#ati(at)#}¦ a Tad. ter. ({%<ab>f.</ab>%}) showing number or
+measure; as in {#daSat, paMcat#}.
+<P>.{#aTuc(aTu)#}¦ a Kṛt ter. ({%<ab>m.</ab>%}); as in {#vamaTuH, vepaTuH SvayaTuH#}.
+<P>.{#ani(ani)#}¦ a Kṛt ter. ({%<ab>f.</ab>%}); as in {#ajIvaniH#}.
+<P>.{#anIyar(anIya)#}¦ a Kṛt ter. used to form potential <lbinfo n="pas+sive"/>
+passive participles; as in {#karaRIya, hananIya#}.
+<P>.{#ap(a)#}¦ a Kṛt ter. ({%<ab>m.</ab>%}); as in {#prasavaH, garaH, BavaH, karaH#};
+or Tad.; as in {#aMtarlomaH#}.
+<P>.{#asic(as)#}¦ a Tad. ter.; as in {#aprajas, sumeDas#}.
+<P>.{#asun(as)#}¦ an Uṇ. ter. ({%<ab>n.</ab>%}); as in {#saras, tapas, cetas#}.
+<P>.{#astAti(astAt)#}¦ a Tad. ter.; as in {#aDastAt, purastAt#}.
+<P>.{#Ac(A)#}¦ a Tad. ter. ({%<ab>adv.</ab>%}); as in {#dakziRA, uttarA#}.
+<P>.{#Awac(Awa)#}¦ a Tad. ter.; as in {#vAcAwa#}.
+<P>.{#Anuk(An)#}¦ a feminine termination; as in {#iMdrARI#},
+{#BavAnI#}.
+<P>.{#Alac(Ala)#}¦ a Tad. ter.; as in {#vAcAla#}.
+<P>.{#Aluc(Alu)#}¦ a Kṛt ter. showing ‘disposition or
+tendency’; as in {#SradDAlu, spfhayAlu#}; or a Tad. ter.
+showing ‘possession’; as in {#hfdayAlu#}; or ‘inability to
+bear’; as in {#SItAlu, uzRAlu#}.
+<P>.{#ik(i)#}¦ a Kṛt ter.; as in {#paciH, BediH#}.
+<P>.{#iY(i)#}¦ a Tad. ter. showing ‘descendants’ &c.; as
+in {#dASarATiH, kArzRiH; drORiH#}.
+<P>.{#iw#}¦ the augment {#i#}.
+<P>.{#itac(ita)#}¦ a Tad. ter. showing ‘full of’ or <lbinfo n="‘cov+ered"/>
+‘covered with’; as in {#tArakitaM; kusumitaH (kusumAnyasya#} <lbinfo n="saMjAtA#ni"/>
+{#saMjAtAni sa taruH#}).
+<P>.{#itnu(itnu)#}¦ a Kṛt. ter.; as in {#stanayitnu#}.
+<P>.{#inac(ina)#}¦ a Tad. ter. showing ‘possession’; as in  <lbinfo n="Pa#lina"/>
+{#Palina#}
+<P>.{#ini(in)#}¦ a Tad. ter. showing ‘possession’; as in
+{#Danin, daMqin#}; or a Kṛt. ter.; as in {#prajavin#}.
+<P>.{#imanic(iman)#}¦ a Tad. ter. showing ‘state or {#BAva#}’;
+as in {#laGiman, gariman, mradiman#}. 
+[Page7-b+ 43]
+<P>.{#ilac(ila)#}¦ a Tad. ter. showing ‘possession’; as in
+{#Penila, picCila#}; or an Uṇ. ter.; as in {#salila#}.
+<P>.{#izWan(izWa)#}¦ a Tad. ter. used to form superlative degrees
+of adjectives.
+<P>.{#izRuc(izRu)#}¦ a Kṛt. ter. showing ‘disposition or
+tendency’; as in {#BrAjizRu, alaMkarizRu, rocizRu#}; or an Uṇ.
+ter.; as in {#dezRuH#}.
+<P>.{#isi(is)#}¦ an Uṇ. ter.; as in {#Socis, jyotis#}.
+<P>.{#Ikak(Ika)#}¦ a Tad. ter.; as in {#SAktIkaH, lOhitIkaH#}.
+<P>.{#IkaY(Ika)#}¦ a Tad. ter.; as in {#tArtIyIka#}.
+<P>.{#Iyasun(Iyas)#}¦ a Tad. ter. used to form comparative
+degrees of adjectives.
+<P>.{#Irac --n(Ira)#}¦ a Tad. ter. showing ‘possession’; as in
+{#AMqIraH; kAMqIraH#}, or an Uṇ. ter.; as in {#hiMsIraH, SarIraM; karIraM#}.
+<P>.{#u(u)#}¦ a Kṛt. ter.; as in {#icCuH, jigamizuH, BikzuH#}; or an
+Uṇ. ter. as in {#taruH, BaruH, SaMyuH#}.
+<P>.{#ukaY(uka)#}¦ a Kṛt. ter. showing ‘tendency’; as in
+{#pAtukaH, sTAyukaH#}.
+<P>.{#uR(u)#}¦ a Kṛt or Uṇ. ter.; as in {#kAruH, vAyuH, svAduH#}.
+<P>.{#urac(ura)#}¦ a Tad. ter. showing ‘possession’; as in
+{#daMturaH#}.
+<P>.{#ulac(ula)#}¦ an Uṇ. ter.; as in {#harzula, cawula#}.
+<P>.{#usi, usin(us)#}¦ an Uṇ. ter. ({%<ab>n.</ab>%}); as in {#janus, vapus, parus#}.
+<P>.{#Uka(Uka)#}¦ a Kṛt ter.; as in {#daMdaSUka, jAgarUka#}.
+<P>.{#UN(U)#}¦ a fem. ter.; as in {#karkaMDU#}.
+<P>.{#UW(U)#}¦ a substitute; as in {#dyUta#} from {#div, jUH#} from {#jvar#}.
+<P>.{#f(f)#}¦ an Uṇ. ter.; as in {#devf#}.
+<P>.{#eRya(eRya)#}¦ a Tad. ter.; as in {#prAvfzeRyaH#}.
+<P>.{#edyasuc(edyus)#}¦ a Tad. ter.; as in {#anyedyuH, paredyuH#}.
+<P>.{#enap(ena)#}¦ a Tad. ter. ({%<ab>adv.</ab>%}); as in {#dakziRena, uttareRa#}.
+<P>.{#ka(a)#}¦ a Kṛt ter.; as in {#kiraH, jYaH, prasTaH#}, or in {#upaGnaH#},
+{#niGnaH#}; or a Tad. ter. ({#ka#}) used in various senses
+as in {#aSmakaH, rAzwrakaM, aSvakaH, suvarRakaM, tUzRIkaH#}.
+<P>.{#kak(ka)#}¦ a Tad ter.; as in {#vArAhakaH#}.
+<P>.{#kak(ka)#}¦ a Tad. ter.; as in {#madrakaH, devadattakaH#}.
+<P>.{#kap(ka)#}¦ a Tad. ter.; as in {#vyUQoraskaH, nadImAtfkaH#}.
+<P>.{#ki(i)#}¦ a Kṛt ter.; as in {#cakriH, jagmiH, dadiH, jalaDiH#}.
+<P>.{#kurac(ura)#}¦ a Kṛt ter.; as in {#Bidura, vidura#}.
+<P>.{#kta#}¦ ({#ta#} changed to {#na#}) the ter. of the past passive
+participle; as in {#hata, gata, jYAta#}.
+<P>.{#ktavatu(tavat)#}¦ the ter. of the past active participle; as
+in {#hatavat#}.
+<P>.{#ktic --t(ti)#}¦ a Kṛt ter. ({%<ab>f.</ab>%}) forming abstract nouns 
+[Page8-a+ 52]
+from roots; as in {#kftiH, matiH, gatiH#}.
+<P>.{#ku(nu)#}¦ a Kṛt ter. showing ‘tendency or disposition;’
+as in {#gfDnu, kzipnu, trasnu#}.
+<P>.{#kmarac(mara)#}¦ a Kṛt ter.; as in {#Gasmara, sfmara#}.
+<P>.{#kyac(ya)#}¦ a denominative ter. (<ab>P.</ab>); as in {#putrIyati#}.
+<P>.{#kyaN --z(ya)#}¦ a denominative ter.; as in {#BfSAyate#},
+{#pArTAyate#}.
+<P>.{#kyap(ya)#}¦ a Kṛt ter.; as in {#kftya, stutya#}.
+<P>.{#kru(ru)#}¦ a Kṛt ter.; as in {#BIru#}.
+<P>.{#kru-klu-kan(ru-lu-ka)#}¦ a Kṛt ter.; as in {#BIru(lu)ka#}.
+<P>.{#kvanip(van)#}¦ a Kṛt or Uṇ ter.; as in {#suDIvan, SIvan#}, <lbinfo n="kru#Svan"/>
+{#kruSvan#}.
+<P>.{#kvarap(vara)#}¦ a Kṛt ter. showing ‘tendency or <lbinfo n="dispo+sition"/>
+disposition’; as in {#itvara, sftvara, gatvara#}.
+<P>.{#knin-p(v#} or {#vi#})¦ a Kṛt ter. added to roots, but which
+is usually omitted; as in {#spfk, dfk, saMpad, vAk#} &c.
+<P>.{#ksna(sna)#}¦ an Uṇ. ter.; as in {#akzRaM, kftsnaM#}.
+<P>.{#Ka(Ina)#}¦ a Tad. ter.; as in {#kulIna#}.
+<P>.{#Kac --S(a)#}¦ a Kṛt ter. before which a nasal is <lbinfo n="in+serted"/>
+inserted; as in {#stanaMDayaH, priyaMvadaH, nAqiMDamaH#}.
+<P>.{#KaY(Ina)#}¦ a Tad. ter.; as in {#mAhAkulIna#}.
+<P>.{#gak --n(ga)#}¦ an Uṇ. ter.; as in {#mudgaH, gaMgA#}.
+<P>.{#gmini(gmin)#}¦ a Tad. ter.; as in {#vAgmin#}.
+<P>.{#gasnu(snu)#}¦ a Kṛt ter.; as in {#jizRu, sTAsnu#}.
+<P>.{#Ga(a)#}¦ a Kṛt ter.; as in {#gocaraH, uraSCadaH#}; or a Tad. ter.
+({#iya#}); as in {#yajYiya, maheMdriya#}.
+<P>.{#GaY(a)#}¦ a Kṛt ter. used to form abstract nouns
+from roots, before which the final vowel and <lbinfo n="pen+ultimate"/>
+penultimate {#a#} generally undergo Vṛddhi, and the
+penultimate short guṇa; as in {#hAraH, tyAgaH, pAkaH, kzepaH#}.
+<P>.{#GinuR(in)#}¦ a Kṛt ter.; as in {#tyAgin, yogin, Bogin#}.
+<P>.{#Gurac(ura)#}¦ a Kṛt ter.; as in {#BaMgura#}.
+<P>.{#NIp(I)#}¦ a fem. ter.; as in {#gatavatI, mfgI#}.
+<P>.{#NIz(I)#}¦ a fem. ter.; as in {#kalmAzI, sAraMgI#}.
+<P>.{#caRap(caRa)#}¦ a Tad. ter; as in {#akzaracaRaH#}.
+<P>.{#cAnaS(Ana)#}¦ a ter. of the present participle <lbinfo n="Atma+nepada"/>
+Atmanepada; as in {#niGnAna, BuMjAna#}.
+<P>.{#cuM --caM --cup(cuM --cuM --cu)#}¦ a Tad. ter.; as in {#akzaracaMcu#}.
+<P>.{#cvi#}¦ a name of a termination; see {#aBUtatadBAva#}.
+<P>.{#Ca(Iya)#}¦ a Tad. ter.; as in {#tvadIya, madIya#}.
+<P>.{#Ya(a)#}¦ a Tad. ter.; as in {#pOrvaSAlaH#}.
+<P>.{#Yya(ya)#}¦ a Tad. ter.; as in {#pAMcajanyaH, kOvidAryaMH#}.
+<P>.{#wa(a)#}¦ a Kṛt ter.; as in {#senAcaraH, puraHsaraH#}.
+<P>.{#wAp(A)#}¦ a fem. ter.; as in {#ajA, vaMDyA#}.
+<P>.{#wyul(tana)#}¦ a Tad. ter. showing ‘pertaining to’; as
+in {#divAtana, sAyaMtana, idAnIMtana#}.
+<P>.{#Wak(ika)#}¦ a Tad. ter.; as in {#rOcanikaH, rEvatikaH#}.
+<P>.{#WaY(ika)#}¦ a Tad. ter.; as in {#dEnika, nESikra, pEtfka#}.
+<P>.{#Wan(ika)#}¦ a Tad. ter. showing ‘possession’ &c.; as in
+{#DanikaH, SatikaH#}.
+<P>.{#qa(a)#}¦ a Kṛt ter. before which the final consonant
+of a root is usually dropped; as in {#aMtagaH, dUragaH#}. 
+[Page8-b+ 56]
+<P>.{#qatamac(atama)#}¦ a Tad. ter. showing ‘one of
+many’; as in {#katama#}.
+<P>.{#qatara(atara)#}¦ a Tad. ter. showing ‘one of two’; as
+in {#katara, ekatara#}.
+<P>.{#qu(u)#}¦ a Kṛt ter.; as in {#viBuH, praBuH#}.
+<P>.{#qvalac(vala)#}¦ a Tad. ter. showing ‘possession’; as in
+{#naqvala#}.
+<P>.{#Qa(eya)#}¦ a Tad. ter.; as in {#Sileya, saBeya#}.
+<P>.{#Qak(eya)#}¦ a Tad. ter. showing ‘descended or born
+from’; as in {#gAMgeyaH, mAheyaH, nAdeyaH#}.
+<P>.{#QakaY(eyaka)#}¦ a Tad. ter.; as in {#bAhukuleyakaH#}.
+<P>.{#QaY(eya)#}¦ a Tad. ter.; as in {#gArzweyaH#}.
+<P>.{#Ra(a)#}¦ a Kṛt ter.; as in {#grAhaH, jvAlaH#}.
+<P>.{#Ramul(am)#}¦ the termination of a particular kind of
+gerund; as in {#kAraM, smAraMsmAraM#}.
+<P>.{#Ric(i)#}¦ the termination of the causal.
+<P>.{#Rini(in)#}¦ a Kṛt ter.; as in {#grAhin, pAyin, sTAyin#}.
+<P>.{#Rya(ya)#}¦ a Tad. ter.; as in {#dEtyaH, sAMkASyaH#}.
+<P>.{#Ryat(ya)#}¦ a termination of the potential passive <lbinfo n="par+ticiple"/>
+participle; as in {#kArya, hAsya#}.
+<P>.{#Rvul(aka)#}¦ a Kṛt ter.; as in {#pravAhika#}.
+<P>.{#tarap, tamap(tara, tama)#}¦ terminations of the comparative
+and superlative degrees.
+<P>.{#tasil(tas)#}¦ a ter. of the ablative case; as in {#mUlata#},
+{#sarvataH#}.
+<P>.{#tAtil(tAti)#}¦ a Tad. ter.; as in {#SivatAti, sarvatAti#}.
+<P>.{#tuw(t)#}¦ the augment inserted before {#ana#}; as in {#sAyaMtanaH#}
+<P>.{#tumun(tum)#}¦ the ter. of the infinitive mood.
+<P>.{#tfc(tf)#}¦ a Kṛt ter. of agency; as in {#kartA, BoktA#}.
+<P>.{#tyak(tya)#}¦ a Tad. ter.; as in {#pAScAtyaH, dAkziRAtyaH#}.
+<P>.{#tyap(tya)#}¦ a Tad. ter.; as in {#tatratya, atratya#}.
+<P>.{#tral(tra)#}¦ a Tad. ter. ({%<ab>adv.</ab>%}); as in {#kutra, sarvatra, tatra#}.
+<P>.{#TA --TAl(TA)#}¦ a Tad. ter. showing ‘manner’; as in
+{#sarvaTA, pUrvaTA#}.
+<P>.{#daGnac(daGna)#}¦ Tad. ter. showing ‘measure or
+height’, as in {#jAnudaGna, UrudaGna, Urudvayasa#},
+{#gajadvayasa#}.
+<P>.{#dvayasac(dvayasa)#}¦ Tad. ter. showing ‘measure or
+height’, as in {#jAnudaGna, UrudaGna, Urudvayasa#},
+{#gajadvayasa#}.
+<P>.{#naN(na)#}¦ a Kṛt. ter.; as in {#yajYaH, praSnaH, yatnaH#}.
+<P>.{#nuk(na)#}¦ the augment {#n#}; as in {#DUnayati, prIRayati#}.
+<P>.{#puk(p)#}¦ the augment {#p#}; as in {#ropayati, jYApayati#}.
+<P>.{#Pak, PaY(Ayana)#}¦ Tad. ter.; as in {#nAqAyanaH, vAtsyAyanaH#},
+{#ASvalAyanaH#}.
+<P>.{#ma(ma)#}¦ a Tad. ter.; as in {#maDyama, Adima, drumaH#}.
+<P>.{#matup(mat)#}¦ a possessive ter.; as in {#agnimat, SrImat#};
+(changed to {#vat#}).
+<P>.{#mayaw(maya)#}¦ a Tad. ter.; as in {#kAzWamaya, jalamaya#}.
+<P>.{#mAtrac(mAtra)#}¦ a Tad. ter. showing ‘measure’; as in
+{#UrumAtra, gajamAtra#}.
+<P>.{#mini(min)#}¦ a possessive ter.; as in {#gomin#}.
+<P>.{#mum(m)#}¦ the augment {#m#}; as in {#rAtriMcara, stanaMDayaH#}.
+<P>.{#ya(ya)#}¦ a Tad. ter.; as in {#pASyA, vAtyA, DUmyA#}, or in
+{#saByaH, SaraRyaH#}.
+<P>.{#yaN(ya)#}¦ a ter. of the frequentative; as in {#boBUyate#}. 
+[Page9-a+ 17]
+<P>.{#yaY(ya)#}¦ a Tad. ter.; as in {#vAtsyaH, gArgyaH#}.
+<P>.{#yat(ya)#}¦ a Kṛt. ter.; as in {#Bavya, geya, ceya#}.
+<P>.{#ra(ra)#}¦ a possessive ter.; as in {#maDura, kuMjara#}; also a Kṛt.
+ter.; as in {#namra, dIpra, kamra, SuBra, hiMsra#}.
+<P>.{#lac(la)#}¦ a Tad. ter.; as in {#aMsala, mAMsala#}.
+<P>.{#lyu(ana)#}¦ a Kṛt ter. showing ‘agency’; as in {#naMdanaH#},
+{#madanaH#}.
+<P>.{#lyuw(ana)#}¦ a Kṛt ter. forming abstract nouns; as in
+{#gamanaM, BavanaM, pramARaM#}.
+<P>.{#vanip(van)#}¦ a Kṛt ter.; as in {#yajvan, DIvan#}.
+<P>.{#varac(vara)#}¦ a Kṛt ter.; as in {#ISvara, sTAvara#}.
+<P>.{#valac(vala)#}¦ a Tad. ter.; as in {#SiKAvalaH, rajasvalA#}.
+<P>.{#vini(vin)#}¦ a possessive ter.; as in {#payasvin, yaSasvin#},
+{#meDAvin, sragvin#}.
+<P>.{#vuY(aka)#}¦ a Kṛt ter.; as in {#niMdakaH, hiMsakaH#}, or a Tad.
+ter.; as in {#OzwrakaM, rAjakaM, OraBrakaM#}.
+<P>.{#vun(aka)#}¦ a Kṛt ter. as in {#sarakaH, lavakaH#}. 
+[Page9-b+ 19]
+<P>.{#Sa(a)#}¦ a Kṛt ter.; as in {#kriyA, viMdaH#}, or a Tad. ter.
+({#Sa#}); as in {#lomaSaH#}.
+<P>.{#Satf(at)#}¦ a ter. of the present participle of <lbinfo n="Paras+maipada"/>
+Parasmaipada; as in {#pacat, vidat#}.
+<P>.{#SAnac#}¦ ({#Ana#} or {#mAna#}) a ter. of the present participle
+of the Ātmanepada; as in {#pacamAnaH#}.
+<P>.{#za, zac(a)#}¦ added at the end of comp.; as in  <lbinfo n="tri#mUrDaH"/>
+{#trimUrDaH, padmAkzaH#}.
+<P>.{#zkan(ka)#}¦ a Tad. ter.; as in {#paTikaH#}.
+<P>.{#zwran(tra)#}¦ a Kṛt ter. showing ‘instrument or means’
+of an action; as in {#vaktraM, SastraM, vastraM, pAtraM, yotraM, daMzwrA#}.
+<P>.{#zWac(ika)#}¦ a Tad. ter.; as in {#kusIdikaH#}.
+<P>.{#zWan --zWal(ika)#}¦ Tad. ter.; as in {#parpikaH, AkarzikaH#}.
+<P>.{#zPa(Ayana)#}¦ a Tad. ter.; as in {#kAtyAyanI#}.
+<P>.{#zyaY(ya)#}¦ a Tad. ter. showing ‘state ({#BAva#})’; as in
+{#cAturyaM, sOMdaryaM#}.
+<P>.{#san(sa)#}¦ the ter. of the desiderative.
+<P>.{#ha#}¦ a Tad. ter. ({%<ab>adv.</ab>%}); as in {#iha#}.
+{%Note%}. --The ERRATA will be separately published hereafter. 
+[Page10+ No]
+ 
+[Page11-a+ 48]
+<H>A LIST OF ABBREVIATIONS USED IN THE DICTIONARY.
+I.
+Of the names of works or authors.
+<H>{%N. B%}. --Except where otherwise specified, the Editions of works referred to are
+mostly those printed at Calcutta.
+<HI>Ait Br.… Aitareya Brāhmaṇa (Bombay).
+<HI>Ak.… Amarakoṣa. („).
+<HI>A. L.… Ānandalaharī.
+<HI>Amaru.… Amaruśataka.
+<HI>Āpast.… Āpastamba.
+<HI>A. R.… Anargharāghava (published in
+the Kāvyamālā).
+<HI>Āry. S.… Āryavidyāsudhākara (Bombay).
+<HI>Āryā. S.… Āryāsaptaśatī (published in the
+Kāvyamālā).
+<HI>Aśvad.… Aśvadhāṭī (published in the
+Subhāṣitaratnākara).
+<HI>Āśval.… Āśvalāyana's Sūtras.
+<HI>Av.… Atharva-veda.
+<HI>Baudhāy.… Baudhāyana.
+<HI>Bg.… Bhagavadgītā (Bombay).
+<HI>Bh.… Bhartṛhari's three Śatakas (the
+figures 1., 2., 3. after Bh. <lbinfo n="de+noting"/>
+denoting Śṛṅgāra°, Nīti°, and
+Vairāgya°).
+<HI>Bhav. P.… Bhaviṣyottara Purāṇa.
+<HI>Bhāg.… Bhāgavata (Bombay).
+<HI>Bhār. Ch.… Bhāratacampū (Bombay).
+<HI>Bhāṣā P.… Bhāṣāpariccheda.
+<HI>Bhāva P.… Bhāvaprakāśa.
+<HI>Bīj.… Bījagaṇita.
+<HI>Bk.… Bhaṭṭikāvya.
+<HI>B. R.… Bālarāmāyaṇa (Benares).
+<HI>B. and R.… Böthlingk and Roth.
+<HI>Bṛ. S.… Varāhamihira's Bṛhatsaṃhitā.
+<HI>Bṛ. S.… Varāhamihira's Bṛhatsaṃhitā.
+<HI>Bṛ. Kath… Bṛhatkathā.
+<HI>Br. Sūt… Brahmasūtras.
+<HI>Bṛ. Ar. Up. Bṛhadāraṇyakopaniṣad.
+<HI>Bṛ. Up. Bṛhadāraṇyakopaniṣad.
+<HI>Bv.… Bhāminīvilāsa (Bombay).
+<HI>Caṇḍ K.… Caṇḍakauśika.
+<HI>Cand M.… Chandomañjarī.
+<HI>Chandr.… Candrāloka.
+<HI>Chāṇ.… Cāṇakyaśataka.
+<HI>Chāt.… Cātakāṣṭaka (in two parts.)
+<HI>Ch. P.… Caurapañcāśikā.
+<HI>Ch. Up.… Chāndogyopaniṣad 
+[Page11-b+ 43]
+<HI>Dāy. B., Dāy. Dāyabhāga.
+<HI>D. Bhāg… Devībhāgavata.
+<HI>Dhan. V… Dhanaṃjayavijaya.
+<HI>Dharm.… Dharmaviveka.
+<HI>Dhūrt.… Dhūrtasamāgama.
+<HI>Dk.… Daśakumāracarita (Bombay).
+<HI>D. R.… Daśarūpa (Hall's Edition).
+<HI>Dṛ. Ś.… Dṛṣṭāntaśataka.
+<HI>Gaut. S. Gautamasūtra.
+<HI>or Gaut. Sūt. Gautamasūtra.
+<HI>Ghaṭ.… Ghaṭakarparakāvya.
+<HI>Gīt.… Gītagovinda.
+<HI>G. L.… Gaṅgālaharī.
+<HI>G. M.… Gaṇaratnamahodadhi of <lbinfo n="Var+dhamāna"/>
+Vardhamāna.
+<HI>Golādh.… Golādhyāya.
+<HI>H.… Hitopadeśa (Nirṇaya Sāgara
+Edition).
+<HI>Halāy.… Halāyudha.
+<HI>Hariv.… Harivaṃśa.
+<HI>Hch.… Harṣacarita.
+<HI>H. D.… Haṃsadūta.
+<HI>Hem.… Hemacandra.
+<HI>Īśop.… Īśopaniṣad.
+<HI>J. N. V.… Jaiminīyanyāyamālāvistara
+(Goldstücker's Edition).
+<HI>K.… Kādambarī (Bombay).
+<HI>Kām… Kāmandakinītisāra.
+<HI>Kāśi… Kāśikāvṛtti (Benares).
+<HI>Karpūr.… Karpūramañjarī (published in
+the Kāvyamālā).
+<HI>Kaṭh… Kaṭhopaniṣad.
+<HI>Kāṭh.… Kātyāyana.
+<HI>Kauś.… Kauśikasūtra.
+<HI>Kaus. Br.… Kauṣītaki Brāhmaṇa.
+<HI>Kaus. Up.… Kauṣītakyupaniṣad.
+<HI>Kāv… Kāvyādarśa.
+<HI>Kāvyāl… Kāvyālaṃkāra (published in the
+Kāvyamālā).
+<HI>Ken… Kenopaniṣad.
+<HI>Ki.… Kirātārjunīya.
+<HI>Kīr. K.… Kīrtikaumudī (Bombay).
+<HI>K. P.… Kāvyaprakāśa. 
+[Page12-a+ 55]
+<HI>Ks.… Kathāsaritsāgara.
+<HI>Ku.… Kumārasambhava (Bombay).
+<HI>Kull.… Kullūka.
+<HI>Kusum… Kusumāñjali.
+<HI>Kuval.… Kuvalayānanda.
+<HI>Līlā.… Līlāvatī.
+<HI>M.… Mālavikāgnimitra (Bombay).
+<HI>Mādh. N.… Mādhavanidāna.
+<HI>Mahān.… Mahānāṭaka.
+<HI>Māl.… Mālatīmādhava (Bombay).
+<HI>Malli.… Mallinātha.
+<HI>Māṇḍ.… Māṇḍūkyopaniṣad.
+<HI>Mārk. P.… Mārkaṇḍeya Purāṇa.
+<HI>Mb.… Mahābhārata (Bombay).
+<HI>Mbh.… Mahābhāṣya (Bombay).
+<HI>Me.… Meghadūta (Bombay).
+<HI>Med.… Medinīkośa.
+<HI>Mit.… Mitākṣarā (Bombay).
+<HI>Mīm.… Mīmāṃsā.
+<HI>Mk.… Mṛcchakaṭikā
+<HI>Moha M.… Mohamudgara.
+<HI>Ms.… Manusmṛti.
+<HI>Mu.… Mudrārākṣasa (Bombay),
+<HI>Mugdha.… Mugdhabodha.
+<HI>Muṇḍ.… Muṇḍakopaniṣad.
+<HI>Mv.… Mahāvīracarita (Borooah's Edition),
+<HI>N.… Naiṣadhacarita.
+<HI>Nāg.… Nāgānanda.
+<HI>Nala.… Nalopākhyāna (Bombay).
+<HI>Nalod.… Nalodaya.
+<HI>Nir.… Nirukta.
+<HI>Nīti.… Nītisāra.
+<HI>Nītipr.… Nītipradīpa.
+<HI>P.… Pāṇini's Aṣṭādhyāyī.
+<HI>Pad. D.… Padāṅkadūta.
+<HI>P. P.… Pārvatīpariṇaya.
+<HI>P. R.… Prasannarāghava.
+<HI>Prab.… Prabodhacandrodaya (Bombay).
+<HI>Praśna. Up.… Praśnopaniṣad.
+<HI>Priy. D.… Priyadarśikā (Bombay).
+<HI>Pt.… Pañcatantra (Bombay).
+<HI>R.… Raghuvaṃśa (Bombay).
+<HI>Rāj. P.… Rājapraśasti.
+<HI>Rāj. T.… Rājataraṅgiṇī.
+<HI>Rām.… Rāmāyaṇa (Bombay).
+<HI>Ras. M.… Rasamañjarī.
+<HI>Ratn.… Ratnāvalī (Bombay).
+<HI>R. G.… Rasagaṅgādhara (published in the
+Kāvyamālā).
+<HI>Rs.… Ṛtusaṃhāra (Bombay).
+<HI>Rv.… Ṛgveda (Max Müller's Edition).
+<HI>Ś.… Śakuntalā (Bombay).
+<HI>Śabdak.… Śabdakalpadruma.
+<HI>Sān. K.… Sāṃkhyakārikā.
+<HI>Sāṃkhya K… Sāṃkhyakārikā.
+<HI>Sān. S.… Sāṃkhyasūtra. 
+[Page12-b+ 58]
+<HI>Sar. K.… Sarasvatīkaṇṭhābharaṇa.
+<HI>Sarva. S.… Sarvadarśanasaṃgraha.
+<HI>Sar. S.… Sarvadarśanasaṃgraha.
+<HI>Śat. Br.… Śatapatha Brāhmaṇa.
+<HI>Sāy.… Sāyaṇa.
+<HI>S. B.… Śārīrabhāṣya.
+<HI>S. D.… Sāhityadarpaṇa.
+<HI>Śi.… Śiśupālavadha.
+<HI>Sid. Mukt. Siddhāntamuktāvalī.
+<HI>or Sid. Muktā. Siddhāntamuktāvalī.
+<HI>Sid. Śir.… Siddhāntaśiromaṇi.
+<HI>Śik… Śikṣā.
+<HI>Śiva P.… Śiva Purāṇa.
+<HI>Sk.… Siddhānta-Kaumudī (Bombay).
+<HI>Skanda. P.… Skanda Purāṇa.
+<HI>S. L.… Sudhālaharī (published in the
+Kāvyamālā).
+<HI>Śrut.… Śrutabodha.
+<HI>Ś. Til.… Śṛṅgāratilaka.
+<HI>Subh.… Subhāṣitaratnākara (Bombay).
+<HI>Subhāsh… Subhāṣita.
+<HI>Subh. Ratn.… Subhāṣitaratnabhāṇḍāgāra
+(Bombay)
+<HI>Sūrya S… Sūryasiddhānta.
+<HI>Suśr.… Suśruta.
+<HI>Sv.… Sāmaveda.
+<HI>Śvet. Up.… Śvetāśvataropaniṣad.
+<HI>Tarka K.… Tarkakaumudī (Bombay).
+<HI>Trik.… Trikāṇḍaśeṣa.
+<HI>T. S.… Tarkasaṃgraha (Bombay).
+<HI>Tv.… Tārānātha's Vācaspatyam.
+<HI>U.… Uttararāmacarita.
+<HI>Udb… Udbhaṭa.
+<HI>Ud. D.… Uddhavadūta.
+<HI>Ud. S.… Uddhavasaṃdeśa.
+<HI>Ujjval.… Ujjvaladatta.
+<HI>Uṇ.… Uṇādisūtras.
+<HI>Up.… Upaniṣad.
+<HI>Upan.… Upaniṣad.
+<HI>V.… Vikramorvaśīyam (Bombay).
+<HI>Vāgb.… Vāgbhaṭa.
+<HI>Vaiś… Vaiśeṣika.
+<HI>Vaiś. Sūt.… Vaiśeṣikasūtras.
+<HI>Vāj… Vājasaneyi Saṃhitā.
+<HI>Vāk. P.… Vākyapadīya.
+<HI>Vall. Subh.… Vallabhadeva's Subhāṣitāvali
+(Bombay)
+<HI>Vās.… Vāsavadattā (Hall's Edition).
+<HI>Vb.… Viddhaśālabhañjikā (Bombay).
+<HI>Ve.… Veṇīsaṃhāra.
+<HI>Vedānta P.… Vedāntaparibhāṣā.
+<HI>Vet.… Vetālapañca vimśati.
+<HI>Vid.… Vidagdhamukhamaṇḍana.
+<HI>Vikr… Vikramāṅkadevacarita (Bombay).
+<HI>Vīr. M.… Vīramitrodaya.
+<HI>V. May.… Vyavahāramayūkha (Mr. <lbinfo n="Mand+lik"/>
+Mandlik's Edition). 
+[Page13-a+ 5]
+<HI>Vop. or Bop.… Vopadeva.
+<HI>V. P.… Viṣṇu Purāṇa.
+<HI>V. Ratn.… Vṛttaratnākara.
+<HI>Vṛnd. Ś… Vṛndāvanaśataka.
+<HI>V. Sah.… Viṣṇusahasranāman. 
+[Page13-b+ 7]
+<HI>Y.… Yājñavalkya (Mr. Mandlik's <lbinfo n="Edi+tion"/>
+Edition).
+<HI>Yoga S… Yogasūtras.
+<HI>Yv., Yaj.… Yajurveda.
+<P>{%Note%}. --After the Abbreviations given above, where one Arabic figure is followed by another, the
+former indicates the canto, chapter, part, act, &c., and the latter, the number of the
+verse. A single Arabic figure indicates the page, act, &c. 
+[Page13-1a+ 41]
+<H>II.
+Grammatical and other Abbreviations, and Symbols.
+<HI>A. or Atm.… Ātmanepada.
+<HI>{%a%}.… Adjective.
+<HI>abl.… Ablative.
+<HI>acc.… Accusative.
+<HI>{%adv%}.… Adverb.
+<HI>alg.… Algebra.
+<HI>Arith.… Arithmetic.
+<HI>A. S.… Anglo-Saxon.
+<HI>astr.… Astronomy.
+<HI>astrol.… Astrology.
+<HI>Avyayī.… Avyayībhāva.
+<HI>Bah.… Bahuvrīhi.
+<HI>{%Caus%}.… Causal.
+<HI>cf.… Compare.
+<HI>Com.… Commentary.
+<HI>comp.… Compound.
+<HI>dat.… Dative.
+<HI>Den.… Denominative.
+<HI>{%desid%}.… Desiderative.
+<HI>du.… Dual.
+<HI>{%e. g.… Exempli gratia%}, for example.
+<HI>Eng.… English.
+<HI>Etym., Ety.… Etymology.
+<HI>{%f.%} or fem.… Feminine.
+<HI>fig.… Figuentative.
+<HI>fr.… From.
+<HI>{%freq%}.… Frequentative.
+<HI>gen.… Genitive.
+<HI>Germ.… German.
+<HI>Goth.… Gothic.
+<HI>Gr.… Greek.
+<HI>gram.… Grammar.
+<HI>{%ibid.%}… The same.
+<HI>{%i. e.… id est%}, that is.
+<HI>{%ind%}.… Indeclinable.
+<HI>inf.… Infinitive.
+<HI>instr.… Instrumental.
+<HI>L.… Latin.
+<HI>lit.… Literal. 
+[Page13-1b+ 41]
+<HI>loc.… Locative.
+<HI>{%m%}. or mas.… Masculine.
+<HI>Mar.… Marāṭhī.
+<HI>Math.… Mathematics.
+<HI>Medic.… Medicine.
+<HI>{%n%}.… Neuter.
+<HI>N.… Name.
+<HI>Nom.… Nominative.
+<HI>{%num. a%}.… Numeral adjective.
+<HI>oft… Often times.
+<HI>opp.… Opposite of.
+<HI>P.… Parasmaipada.
+<HI>{%pass%}.… Passive.
+<HI>pers.… Persian.
+<HI>phil.… Philosophy.
+<HI>pl.… Plural.
+<HI>{%pot. p%}.… Potential passive participle.
+<HI>{%p. p%}.… Past passive participle.
+<HI>Pres.… Present tense.
+<HI>{%pres. p%}.… Present participle.
+<HI>{%pron. a%}.… Pronominal adjective.
+<HI>q. v.… {%quod vide%}, which see.
+<HI>Rhet.… Rhetoric.
+<HI>sing.… Singular.
+<HI>Subst.… Substantive.
+<HI>s. v.… {%sub voce%}, see under the word.
+<HI>Tat.… Tatpuruṣa.
+<HI>U.… Ubhayapada (Parasmai. and
+Ātmane.)
+<HI>Vārt.… Vārtika.
+<HI>Ved.… Vedic.
+<HI>v. l.… Various reading.
+<HI>Voc.… Vocative.
+<HI>=… Equal or equivalent to, same as.
+<HI>+… Plus.
+<HI>&c.… Et cætera.
+<HI>°… denotes that the rest of the
+word under consideration is
+to be supplied; {%<ab>e. g.</ab>%};  <lbinfo n="°ratnapraBa#vasya"/>
+{#°ratnapraBavasya yasya#} under {#anaMta#} means
+{#anaMtaratna#} &c. 
+[Page0001-a+ 46]
+<H>THE
+PRACTICAL
+SANSKRIT-ENGLISH
+DICTIONARY.
+<H>{#a#}
