@@ -1,0 +1,98 @@
+[Page-titel+ 21]
+000001+A<H>SHABDA-SAGARA
+OR
+A COMPREHENSIVE SANSKRIT-ENGLISH LEXICON
+CHIEFLY BASED ON
+{%Professor%} HORACE HAYMAN WILSON'S
+SANSKRIT-ENGLISH DICTIONARY
+AND
+COMPILED FROM VARIOUS RECENT AUTHORITIES FOR THE USE OF SCHOOLS AND COLLEGES
+BY
+PANDIT-KULAPATI JIBANANDA VIDYASAGARA, B. A.
+{%Superintendent, Free Sanskrit College, Calcutta.%}
+PUBLISHED BY
+ASHU BODHA BHATTACHARYYA,
+AND
+NITYA BODHA BHATTACHARYYA.
+FIRST EDITION.
+1900.
+PRINTED BY MOOKERJEE & Co.
+CALCUTTA PRESS, NO. 8 BOWBAZAR STREET, CALCUTTA.
+{%To be had from Pandit-Kulapati Jibānanda Vidyāsāgara, B. A. Superintendant, free Sanskrit College, Calcutta.%}
+{%[All rights reserved.]%}
+[Page001-a+ 43]
+<H>A
+DICTIONARY,
+SANSKRIT AND ENGLISH.
+<H>LIST OF ABBREVIATIONS.
+<P>Abl. … … … Ablative.
+<P>Adj. … … …Adjective.
+<P>Adv. … … … Adverb.
+<P>Aff. … … Affix.
+<P>Arith. … … … Arithmetic.
+<P>Atm. … … Atmanepada.
+<P>Aug. … … … Augment.
+<P>Caus. … … Causal.
+<P>C. f. … … … Compare.
+<P>Cl. … … Class.
+<P>Compar. … … … Comparative.
+<P>Dat. … … Dative.
+<P>Deriv. … … … Derivation.
+<P>Desid. … … Desiderative.
+<P>Du. … … … Dual.
+<P>E. … … Etymology.
+<P>E. g. … … … (Exempli gratia.) For example.
+<P>F. or fem. … … Feminine.
+<P>Fig. … … … Figurative or figuratively.
+<P>Gen. … … Genitive.
+<P>Gram. … … … Grammar.
+<P>I. e. … … (Id est.) That is.
+[Page840-b+ 22]
+<P>Ind. … … Indeclinable.
+<P>Irr. … … … Irregular.
+<P>Lit. … … Literal or literally.
+<P>Loc. … … … Locative.
+<P>M. … … … Masculine.
+<P>Math. … … … Mathematics.
+<P>N. … … Neuter.
+<P>Neg. … … … Negative.
+<P>Op. … … Opposed.
+<P>Par. … … … Parasmaipada.
+<P>Pen. … … Penultimate.
+<P>Phil. … … … Philosophy.
+<P>Plu. … … Plural.
+<P>Poss. … … … Possessive.
+<P>Priv. … … Priveative.
+<P>Pron. … … … Pronoun.
+<P>Q. v. … … (Quod vide.) Which see.
+<P>R. … … … Root.
+<P>Reg. … … Regular.
+<P>Subst. … … … Substantive.
+<P>Super. … … Superlative.
+<P>V. … … … Verb.
+<P>{#zANketikAH SabdAH .#}
+<P>{#saNketaH . saNketaboDyaH .#}
+<P>+. … … … … {#prAtipadikam#}
+<P>-. … … … {#DAtuH#}
+<P>{#niH#}. … … … {#nipAtanAt#}
+<P>{#BvAdi0#}. … … {#BvAdigaRIyaH#}
+<P>{#adA0#}. … … … {#adAdigaRIyaH#}
+<P>{#jiho0#}. … … … {#juhotyAdigaRIyaH#}
+<P>{#divA0#}. … … … … {#divAdigaRIyaH#}
+<P>{#svAdi0#}. … … … {#svAdigaRIyaH#}
+<P>{#tudA0#}. … … … {#tudAdigaRIyaH#}
+<P>{#rudA0#}. … … … {#ruDAdigaRIyaH#}
+<P>{#tanA0#}. … … … {#tanAdigaRIyaH#}
+[Page840-1b+ 12]
+<P>{#saNketaH . saNketaboDyaH .#}
+<P>{#kryAdi0#}. … … … {#kryAdigaRIyaH#}
+<P>{#curA0#}. … … … {#curAdigaRIyaH#}
+<P>{#ad0#}. … … … {#adantaH#}
+<P>{#para0#}. … … … {#parasmEpadI#}
+<P>{#Atma0#}. … … … {#AtmanepadI#}
+<P>{#uBa0#}. … … … {#uBayapadI#}
+<P>{#saka0#}. … … … {#sakarmakaH#}
+<P>{#aka0#}. … … … {#akarmakaH#}
+<P>{#dvika0#}. … … … {#dvikarmakaH#}
+<P>{#gOrA0#}. … … … {#gOrAditvAt#}
+<P>{#pfzo0#}. … … … {#pfzodrAditvAt#}
