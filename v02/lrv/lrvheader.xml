@@ -23,7 +23,7 @@
      <name>Dr. Dhaval Patel</name>
     </respStmt>
    </editionStmt>
-   <extent>9.3 MB (for armh.xml dictionary at Cologne)</extent>
+   <extent>6.7 MB (for lrv.xml dictionary at Cologne)</extent>
    <publicationStmt>
     <publisher>University of Cologne</publisher>
     <pubPlace>Cologne, Germany</pubPlace>
@@ -38,7 +38,7 @@
     </distributor>
    </publicationStmt>
    <sourceDesc>
-    <biblStruct type="original" xml:id="ARMH">
+    <biblStruct type="original" xml:id="LRV">
      <monogr>
       <author>Lakshman Ramchandra Vaidya</author>
       <title type="main" level="m">The Standard Sanskrit-English Dictionary</title>
