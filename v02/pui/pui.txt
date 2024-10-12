@@ -14720,7 +14720,7 @@ to impart knowledge.
 <LEND>
 
 <L>2117<pc>1-265<k1>ftavAka<k2>ftavAka
-{%Ṛtavāka%}¦ — an Angirasa and {%mantrakṛt.%}
+{%Ṛtavāka%}¦ — an Aṅgirasa and {%mantrakṛt.%}
 <div n="P"/>Br. II. 32. 107.
 <LEND>
 
@@ -28350,7 +28350,7 @@ Viṣṇuloka.<sup>4</sup>
 <LEND>
 
 <L>4063<pc>1-515<k1>gaya<k2>gaya<h>VII
-{%Gaya%} (VII)¦ — a son of Angirasa and Ūru.
+{%Gaya%} (VII)¦ — a son of Aṅgirasa and Ūru.
 <div n="P"/>M. 4. 43.
 <LEND>
 
@@ -28637,7 +28637,7 @@ Yudhiṣṭhira.<sup>6</sup>
 <LEND>
 
 <L>4089<pc>1-521<k1>garga<k2>garga<h>III
-{%Garga%} (III)¦ — an Angirasa and a mantrakṛt.
+{%Garga%} (III)¦ — an Aṅgirasa and a mantrakṛt.
 <div n="P"/>Br. II. 32. 107: M. 145. 101.
 <LEND>
 
@@ -28815,13 +28815,13 @@ tank ritual.
 <LEND>
 
 <L>4119<pc>1-524<k1>gavizWa<k2>gavizWa<h>I
-{%Gaviṣṭha%} (I)¦ — a Dānava; in the sabhā of Hiranya-
+{%Gaviṣṭha%} (I)¦ — a Dānava; in the sabhā of Hiraṇya-
 kaśipu.
 <div n="P"/>Br. III. 6. 4: M. 161. 79.
 <LEND>
 
 <L>4120<pc>1-524<k1>gavizWa<k2>gavizWa<h>II
-{%Gaviṣṭha%} (II)¦ — a son of Angirasa.
+{%Gaviṣṭha%} (II)¦ — a son of Aṅgirasa.
 <div n="P"/>M. 196. 2.
 <LEND>
 
@@ -30757,7 +30757,7 @@ Svarāṭ.
 <LEND>
 
 <L>4407<pc>1-558<k1>gOtama<k2>gOtama<h>II
-{%Gautamas%} (II)¦ — a clan of Angirasas.
+{%Gautamas%} (II)¦ — a clan of Aṅgirasas.
 <div n="P"/>Vā. 65. 97.
 <LEND>
 
@@ -31521,7 +31521,7 @@ Vāli was a cakravartī. Arjuna (Kārtavīrya) was another.<sup>3</sup>
 <LEND>
 
 <L>4523<pc>1-573<k1>cakravartI<k2>cakravartI
-{%Cakravartī%}¦ — an Angirasa and mantrakṛt.
+{%Cakravartī%}¦ — an Aṅgirasa and mantrakṛt.
 <div n="P"/>Br. II. 32. 110.
 <LEND>
 
@@ -34592,7 +34592,7 @@ Jamadagni Bhārgava, one of the seven sages.<sup>2</sup>
 <LEND>
 
 <L>4988<pc>1-629<k1>jamba<k2>jamba
-{%Jamba%}¦ — a Sudharmāna God.
+{%Jamba%}¦ — a Sudharmāṇa God.
 <div n="P"/>Br. IV. 1. 60.
 <LEND>
 
@@ -38630,7 +38630,7 @@ Narmadā and Purukutsa, and father of Anaraṇya.
 <LEND>
 
 <L>5604<pc>2-041<k1>trasaddasyu<k2>trasaddasyu<h>III
-{%Trasaddasyu%} (III)¦ — a Mantrakṛt and of the Angirasa
+{%Trasaddasyu%} (III)¦ — a Mantrakṛt and of the Aṅgirasa
 branch.
 <div n="P"/>Br. II. 32. 108; Vā. 59. 99.
 <LEND>
@@ -39728,7 +39728,7 @@ devas.
 <LEND>
 
 <L>5745<pc>2-061<k1>dakza<k2>dakza<h>X
-{%Dakṣa%} (X)¦ — a son of Angirasa;<sup>1</sup> through his daughter
+{%Dakṣa%} (X)¦ — a son of Aṅgirasa;<sup>1</sup> through his daughter
 a son, Priyāya.<sup>2</sup>
 <F>1) M. 196. 2; Vā. 65. 105.</F>
 <F>2) Vā. 100. 24.</F>
@@ -39764,7 +39764,7 @@ and Phālguna.
 <L>5751<pc>2-062<k1>dakzasAvarRi<k2>dakzasAvarRi
 {%Dakṣasāvarṇi%}¦ — the ninth Manu born of Varuṇa.<sup>1</sup>
 Three groups of twelve gods in each of Pāra, Mārīcigarbha
-and Sudharmāna. Their Indra was Adbhuta. Savana, Dyu-
+and Sudharmāṇa. Their Indra was Adbhuta. Savana, Dyu-
 timan and others were seven sages. Father of Dhṛtiketu
 and other sons.<sup>2</sup>
 <F>1) Bhā. VIII. 13. 18.</F>
@@ -40206,7 +40206,7 @@ Purohita.
 <LEND>
 
 <L>5816<pc>2-070<k1>danu<k2>danu<h>III
-{%Danu%} (III)¦ — a son of Angirasa.
+{%Danu%} (III)¦ — a son of Aṅgirasa.
 <div n="P"/>Vā. 65. 105.
 <LEND>
 
@@ -40395,7 +40395,7 @@ Kāmesvarī.
 <LEND>
 
 <L>5843<pc>2-073<k1>damana<k2>damana<h>III
-{%Damana%} (III)¦ — a son of Angirasa.
+{%Damana%} (III)¦ — a son of Aṅgirasa.
 <div n="P"/>M. 196. 2.
 <LEND>
 
@@ -40412,7 +40412,7 @@ Dvāpara; had four sons, Viśoka, Vikeśa, etc.
 
 <L>5846<pc>2-073<k1>damavAhya<k2>damavAhya
 {%Damavāhya%}¦ — a sage; exclusion of marriage with the
-Angirasas.
+Aṅgirasas.
 <div n="P"/>M. 196. 29.
 <LEND>
 
@@ -41710,7 +41710,7 @@ killed by Bhagamālā.
 <L>6041<pc>2-097<k1>dIrGatapa<k2>dIrGatapa
 {%Dīrghatapa%}¦ — (Saunahotra and Prakāśiraṭ) — the son of
 Kāśa (Rāṣṭra {%Vi. P.%}) and the king of Kāśi; see Kāśipa;<sup>1</sup> a
-Mantrakṛt and of the Angirasa branch.<sup>2</sup> Performed penance
+Mantrakṛt and of the Aṅgirasa branch.<sup>2</sup> Performed penance
 for sons on account of which Arjadeva Dhanvantri became
 his son; father of Dharma and Dhanvantri.<sup>3</sup>
 <F>1) Br. III. 67. 7. Vi. IV. 8. 7-8.</F>
@@ -45835,7 +45835,7 @@ there came Nadīputras;<sup>1</sup> their mother Dhiṣṇī.<sup>2</sup>
 <LEND>
 
 <L>6639<pc>2-172<k1>DizRu<k2>DizRu
-{%Dhiṣṇu%}¦ — a son of Angirasa; father of Sudhanvān.
+{%Dhiṣṇu%}¦ — a son of Aṅgirasa; father of Sudhanvān.
 <div n="P"/>Vā. 65. 101, 102.
 <LEND>
 
@@ -52859,7 +52859,7 @@ epoch;<sup>1</sup> attained heaven by {%tapas.%}<sup>2</sup>
 <LEND>
 
 <L>7651<pc>2-300<k1>parjanya<k2>parjanya<h>V
-{%Parjanya%} (V)¦ — same as Hiranyaroma.
+{%Parjanya%} (V)¦ — same as Hiraṇyaroma.
 <div n="P"/>M. 124. 95.
 <LEND>
 
@@ -57288,7 +57288,7 @@ of the sacrificer.
 <LEND>
 
 <L>8280<pc>2-380<k1>pfTA<k2>pfTA
-{%Pṛthā%}¦ — a Vīramāta; surname of Kuntī (s.v.). A sister
+{%Pṛthā%}¦ — a Vīramātā; surname of Kuntī (s.v.). A sister
 of Vasudeva. Became the adopted daughter of the child-
 less Kuntibhoja who was a friend of her father, Śūra. She
 pleased Durvāsa by service and obtained some {%mantras;%}
@@ -57775,7 +57775,7 @@ tara;<sup>1</sup> a Mantrakṛt.<sup>2</sup>
 
 <L>8344<pc>2-389<k1>pfzadaSva<k2>pfzadaSva<h>II
 {%Pṛṣadaśva%} (II)¦ — the son of Pṛthu and father of
-Āndhra;<sup>1</sup> a Mantrakṛt and of the Angirasa branch.<sup>2</sup>
+Āndhra;<sup>1</sup> a Mantrakṛt and of the Aṅgirasa branch.<sup>2</sup>
 <F>1) Vā. 88. 26.</F>
 <F>2) Ib. 69. 100.</F>
 <LEND>
@@ -61070,7 +61070,7 @@ Dattoli ({%Vi. P.%}).<sup>3</sup>
 <LEND>
 
 <L>8803<pc>2-449<k1>prItI<k2>prItI<h>III
-{%Prītī%} (III)¦ — a wife of Angirasa.
+{%Prītī%} (III)¦ — a wife of Aṅgirasa.
 <div n="P"/>Vi. I. 7. 7.
 <LEND>
 
@@ -62215,7 +62215,7 @@ XI. 4. 20; Br. III. 34. 39; 72. 68, 77 and 90; M. 135. 2; 161. 78; Vā. 78.
 <LEND>
 
 <L>8949<pc>2-471<k1>bali<k2>bali<h>VIII
-{%Bali%} (VIII)¦ — a Mantrakṛt and of the Angirasa branch.
+{%Bali%} (VIII)¦ — a Mantrakṛt and of the Aṅgirasa branch.
 <div n="P"/>Vā. 59. 100.
 <LEND>
 
@@ -62694,7 +62694,7 @@ pupils.
 <LEND>
 
 <L>9025<pc>2-480<k1>bAzkali<k2>bAzkali<h>II
-{%Bāṣkali%} (II)¦ — an Angirasa and a Mantrakṛt; a Śrutaṛṣi;
+{%Bāṣkali%} (II)¦ — an Aṅgirasa and a Mantrakṛt; a Śrutaṛṣi;
 a pupil of Paiḷa in charge of the Ṛg Veda; he arranged it
 into four Samhitās; his disciples were Bodhya, Agnimāṭhara,
 Parāśara and Yājñavalkya.
@@ -65874,7 +65874,7 @@ brought it up as his own son; out of strong attachment to it
 he was born as a deer when he remembered his past life and
 was full of remorse; gave up his body by falling into the
 waters;<sup>4</sup> next he was born as the son of a Brahmana of the
-Angirasa line and with {%upanayana%} the father taught him
+Aṅgirasa line and with {%upanayana%} the father taught him
 Vedic literature; on his parents' death his brothers found
 him mad and unpractical and appointed him to work in the
 fields; once a certain Vṛṣala chieftain wanted to offer human
@@ -66128,7 +66128,7 @@ of Manyu.<sup>2</sup>
 
 <L>9488<pc>2-542<k1>BaradvAja<k2>BaradvAja<h>IV
 {%Bharadvāja%} (IV)¦ — son of Bṛhaspati; a branch of Angi-
-ras;<sup>1</sup> a Mantrakṛt of the Angirasa branch;<sup>2</sup> the father of
+ras;<sup>1</sup> a Mantrakṛt of the Aṅgirasa branch;<sup>2</sup> the father of
 Āyurveda which he compiled in eight parts and imparted
 them to his pupils;<sup>3</sup> one of the seven sages.<sup>4</sup>
 [Page2-543+ 27]
@@ -67550,7 +67550,7 @@ respective work.
 {%Bhuva%} (I)¦ — also {%antarikṣa%} — the second of the seven
 created worlds: {%Vāyu%} is its presiding deity: burnt down by
 {%pralaya%} fire;<sup>1</sup> residents: Marut, Mātariśva, Rudras, Aśvins,
-Ādityas, Sādhyas, Pitrs, Angirasa sages etc., intervening
+Ādityas, Sādhyas, Pitrs, Aṅgirasa sages etc., intervening
 between the earth and the sun; the residents here drink
 {%soma%} and ghee.<sup>2</sup>
 <F>1) Br. II. 19. 155; 21. 21; IV. 1. 156; 2. 14-17, 27-30.</F>
@@ -74117,7 +74117,7 @@ a long time and found them happy; was blessed by
 the sage and returned home; a Kṣatropetadvija;<sup>2</sup> an
 incarnation of Viṣṇu as human being with Uthathya,
 in the 15th Treta (with Uttankapurohita in the
-15th Tretāyuga-{%M. P.%});<sup>3</sup> an Angirasa and {%mantrakṛt;%}<sup>4</sup> wor-
+15th Tretāyuga-{%M. P.%});<sup>3</sup> an Aṅgirasa and {%mantrakṛt;%}<sup>4</sup> wor-
 shipped Hari as {%yajña,%} knew the yoga power of Hari and
 got over his māyā;<sup>5</sup> a great conquering monarch; a popular
 king, a {%yajva,%} of good character;<sup>6</sup> became a Brahmana;<sup>7</sup>
@@ -77097,7 +77097,7 @@ after her letting his seed fall down;<sup>1</sup> a Śakti.<sup>2</sup>
 <L>11105<pc>2-743<k1>mOdgalya<k2>mOdgalya
 {%Maudgalyas (Kāṇva Mudgalas)%}¦ — Kanṭha Mudgalas-
 {%Vā. P.%}) from Mudgala, son of Bhadrāśva; Brahmanas with
-Kṣatriya profession; belonging to the Angirasa line;<sup>1</sup> no
+Kṣatriya profession; belonging to the Aṅgirasa line;<sup>1</sup> no
 marriage alliance with Tāṇḍi or Angiras.<sup>2</sup>
 <F>1) Bhā. IX. 21. 33; M. 50. 5; Vā. 99. 198; Vi. IV. 19. 60.</F>
 <F>2) M.
@@ -79089,7 +79089,7 @@ to Heaven. This son was the great Māndhāta (s.v.).
 <LEND>
 
 <L>11326<pc>3-034<k1>yuvanASva<k2>yuvanASva<h>III
-{%Yuvanāśva%} (III)¦ — An Angirasa and Mantrakṛt. By his
+{%Yuvanāśva%} (III)¦ — An Aṅgirasa and Mantrakṛt. By his
 curse half the Ganges came out.
 <div n="P"/>Br. II. 32. 108; III. 66. 29; Vā. 59. 99.
 <LEND>
@@ -80030,7 +80030,7 @@ Yayāti and Kārtavīryārjuna.<sup>2</sup>
 <L>11465<pc>3-052<k1>raTItara<k2>raTItara<h>I
 {%Rathītara%} (I)¦ — a son of Pṛṣadaśva; had no issue and at
 his desire, Angiras blessed him with sons. Their descend-
-ants became Angirasas and Kṣatropeta dvijas.
+ants became Aṅgirasas and Kṣatropeta dvijas.
 <div n="P"/>Bhā. IX. 6. 1-3; Br. III. 63. 6-7; Vā. 88 6-7. Vi. IV. 2. 9-10.
 <LEND>
 
@@ -80061,7 +80061,7 @@ attained siddhi.
 <LEND>
 
 <L>11469<pc>3-052<k1>raTItara<k2>raTItara
-{%Rathītaras%}¦ — a branch of the Angirasas.
+{%Rathītaras%}¦ — a branch of the Aṅgirasas.
 <div n="P"/>Vā. 65. 106.
 <LEND>
 
@@ -81939,7 +81939,7 @@ ravā.
 procreate and be a Prajāpati; created beings which would
 burn the universe; persuaded by Brahmā to stop this, and
 proceed to {%tapas;%} expression of the {%tamas.%}<sup>1</sup> Claimed the
-remaining wealth of the Angirasa sacrificers as his own,
+remaining wealth of the Aṅgirasa sacrificers as his own,
 which Nābhāga thought was his. When Nābhāga gave it
 to Rudra, the worshipful god presented him that wealth
 and disappeared; presented Pṛthu with a sword {%daśacandra.%}<sup>2</sup>
@@ -82871,7 +82871,7 @@ kingdom of Rohita.
 
 <L>11829<pc>3-105<k1>rohita<k2>rohita<h>IV
 {%Rohita%} (IV)¦ — a progenitor and a son of Dakṣa; Parā,
-Marīci, and Sudharmāna gaṇas, all of 12 gods each are from
+Marīci, and Sudharmāṇa gaṇas, all of 12 gods each are from
 him.
 <div n="P"/>Br. IV. 1. 56-61; Vā. 100. 60.
 <LEND>
@@ -85837,7 +85837,7 @@ Tapasya.
 <LEND>
 
 <L>12284<pc>3-159<k1>varRa<k2>varRa
-{%Varṇa%}¦ — a Sudharmāna god.
+{%Varṇa%}¦ — a Sudharmāṇa god.
 <div n="P"/>Br. IV. 1. 60.
 <LEND>
 
@@ -87515,7 +87515,7 @@ him.<sup>4</sup>
 {%Vāmadeva%} (IV)¦ — a sage who was invited for Yudhiṣ-
 ṭhira's Rājasūya. Went with Kṛṣṇa to Mithilā, and came to
 Syamantapañcaka to see him. One of the sages who left for
-Piṇḍāraka;<sup>1</sup> a sage by {%tapas:%} an Angirasa and mantrakṛt;<sup>2</sup> a
+Piṇḍāraka;<sup>1</sup> a sage by {%tapas:%} an Aṅgirasa and mantrakṛt;<sup>2</sup> a
 son of Surūpā and a gotrakāra;<sup>3</sup> a Tripravara, not to marry
 with Angiras and Bṛhaduktas.<sup>4</sup>
 [Page3-191+ 36]
@@ -91206,7 +91206,7 @@ a gaṇa of the Second Sāvarṇa Manu.<sup>2</sup>
 <LEND>
 
 <L>13084<pc>3-257<k1>virUpa<k2>virUpa<h>III
-{%Virūpa%} (III)¦ — a {%mantrakṛt%} of the Angirasa branch.
+{%Virūpa%} (III)¦ — a {%mantrakṛt%} of the Aṅgirasa branch.
 <div n="P"/>M. 145. 103; Vā. 59. 100.
 <LEND>
 
@@ -91268,7 +91268,7 @@ moon and fire for eyes.
 <LEND>
 
 <L>13095<pc>3-258<k1>virUpASva<k2>virUpASva
-{%Virūpāśva%}¦ — an Angirasa and {%mantrakṛt.%}
+{%Virūpāśva%}¦ — an Aṅgirasa and {%mantrakṛt.%}
 <div n="P"/>Br. II. 32. 109.
 <LEND>
 
@@ -93499,7 +93499,7 @@ sence of {%mātṛgaṇa%} images.
 <LEND>
 
 <L>13418<pc>3-299<k1>vIryA<k2>vIryA
-{%Vīryās%}¦ — the Kṣatriya Brahmans of Angirasa line.
+{%Vīryās%}¦ — the Kṣatriya Brahmans of Aṅgirasa line.
 <div n="P"/>Vā. 99. 164.
 <LEND>
 
@@ -94148,7 +94148,7 @@ Fought with Jambha in the Devāsura war.
 <LEND>
 
 <L>13522<pc>3-311<k1>vfzAdarBa<k2>vfzAdarBa
-{%Vṛṣādarbha%}¦ — a son of Śibi;<sup>1</sup> an Angirasa and {%mantra-%}
+{%Vṛṣādarbha%}¦ — a son of Śibi;<sup>1</sup> an Aṅgirasa and {%mantra-%}
 {%kṛṭ.%}<sup>2</sup>
 <F>1) Bhā. IX. 23. 3.</F>
 <F>2) Br. II. 32. 109.</F>
@@ -95229,7 +95229,7 @@ residence of.<sup>2</sup>
 <LEND>
 
 <L>13683<pc>3-331<k1>vEdyaga<k2>vEdyaga
-{%Vaidyaga%}¦ — an Angirasa and {%mantrakṛt.%}
+{%Vaidyaga%}¦ — an Aṅgirasa and {%mantrakṛt.%}
 <div n="P"/>Br. II. 32. 107.
 <LEND>
 
@@ -96444,7 +96444,7 @@ after their supposed ill omens, the boy sports of Kṛṣṇa.<sup>3</sup>
 <LEND>
 
 <L>13863<pc>3-352<k1>vrajana<k2>vrajana
-{%Vrajana%}¦ — a Sudharmāna god.
+{%Vrajana%}¦ — a Sudharmāṇa god.
 <div n="P"/>Br. IV. 1. 60.
 <LEND>
 
@@ -98996,7 +98996,7 @@ antara.
 <LEND>
 
 <L>14257<pc>3-400<k1>SAMkftika<k2>SAMkftika
-{%Śāṃkṛtikas%}¦ — a branch of Angirasa.
+{%Śāṃkṛtikas%}¦ — a branch of Aṅgirasa.
 <div n="P"/>Vā. 65. 106.
 <LEND>
 
@@ -99909,7 +99909,7 @@ bhoja.
 <LEND>
 
 <L>14411<pc>3-417<k1>Sini<k2>Sini<h>V
-{%Śini%} (V)¦ — an Angirasa and mantrakṛt.
+{%Śini%} (V)¦ — an Aṅgirasa and mantrakṛt.
 <div n="P"/>Br. II. 32. 107.
 <LEND>
 
@@ -101486,7 +101486,7 @@ gods.
 <LEND>
 
 <L>14614<pc>3-446<k1>Suci<k2>Suci<h>XVIII
-{%Śuci%} (XVIII)¦ — (Angirasa) a son and sage of the 14th
+{%Śuci%} (XVIII)¦ — (Aṅgirasa) a son and sage of the 14th
 epoch of Bhautya Manu.
 <div n="P"/>Br. IV. 1. 113-4; Vā. 100. 116.
 <LEND>
@@ -102296,7 +102296,7 @@ Bāhyaka.<sup>2</sup>
 <LEND>
 
 <L>14738<pc>3-461<k1>SenI<k2>SenI
-{%Śenī%}¦ — a mantrakṛt and of Angirasa branch.
+{%Śenī%}¦ — a mantrakṛt and of Aṅgirasa branch.
 <div n="P"/>Vā. 59. 98.
 <LEND>
 
@@ -104662,7 +104662,7 @@ father of two sons Guru (Guruprīti-{%Vi. P.%}) Rantideva.
 <LEND>
 
 <L>15104<pc>3-504<k1>saMkfti<k2>saMkfti<h>III
-{%Saṃkṛti%} (III)¦ — an Angirasa and mantrakṛt; a kṣatro-
+{%Saṃkṛti%} (III)¦ — an Aṅgirasa and mantrakṛt; a kṣatro-
 peta dvija.
 <div n="P"/>Br. II. 32. 107: III. 66. 86. M. 145. 101: Vā. 91. 115.
 <LEND>
@@ -104976,7 +104976,7 @@ Cākṣuṣa epochs.
 <LEND>
 
 <L>15157<pc>3-509<k1>satya<k2>satya<h>IX
-{%Satya%} (IX)¦ — a son of Angirasa.
+{%Satya%} (IX)¦ — a son of Aṅgirasa.
 <div n="P"/>M. 196. 2: Vā. 65. 105.
 <LEND>
 
@@ -105659,7 +105659,7 @@ Uddhava on its importance.
 <LEND>
 
 <L>15257<pc>3-522<k1>sada<k2>sada<h>I
-{%Sada%} (I)¦ — a son of Angirasa.
+{%Sada%} (I)¦ — a son of Aṅgirasa.
 <div n="P"/>M. 196. 2.
 <LEND>
 
@@ -105718,7 +105718,7 @@ Rājasūya;<sup>1</sup> in the army of the Devas at the Tārakāmaya.<sup>2</sup
 <LEND>
 
 <L>15268<pc>3-523<k1>sadasyumat<k2>sadasyumat
-{%Sadasyumat%}¦ — a {%mantrakṛt%} and of Angirasa branch.
+{%Sadasyumat%}¦ — a {%mantrakṛt%} and of Aṅgirasa branch.
 <div n="P"/>Vā. 59. 99.
 <LEND>
 
@@ -105871,7 +105871,7 @@ ketu.
 <LEND>
 
 <L>15289<pc>3-526<k1>sanadvAja<k2>sanadvAja<h>II
-{%Sanadvāja%} (II)¦ — an Angirasa and {%mantrakṛt;%} the 12th
+{%Sanadvāja%} (II)¦ — an Aṅgirasa and {%mantrakṛt;%} the 12th
 Vedavyāsa.
 <div n="P"/>Br. II. 32. 110; 35, 119.
 <LEND>
@@ -107311,7 +107311,7 @@ Parjanya.
 <LEND>
 
 <L>15515<pc>3-551<k1>samhfti<k2>samhfti
-{%Samhṛti%}¦ — a Mantrakṛt of the Angirasa branch.
+{%Samhṛti%}¦ — a Mantrakṛt of the Aṅgirasa branch.
 <div n="P"/>Vā. 59. 98.
 <LEND>
 [Page3-552+ 34]
@@ -108724,7 +108724,7 @@ the kingdom.<sup>2</sup>
 <LEND>
 
 <L>15735<pc>3-577<k1>sAMkftaya<k2>sAMkftaya
-{%Sāṃkṛtaya%}¦ — the Kṣeropeta Brahmans; of Angirasa
+{%Sāṃkṛtaya%}¦ — the Kṣeropeta Brahmans; of Aṅgirasa
 line.
 <div n="P"/>Vā. 99. 164.
 <LEND>
@@ -108968,7 +108968,7 @@ Prāṇa, Nara, Apāna, Vīryavān, Vīti, Naya, Haya, Hamsa,
 Nārāyaṇa, Vibhu, and Prabhu; live in Bhuvarloka; Nārā-
 yaṇa, their overlord;<sup>1</sup> worship gau, the mind-born daughter
 of the Mānasa manes;<sup>2</sup> requested Soma to give up Jārā to
-Bṛhaspati;<sup>3</sup> with Angirasa's sons spread themselves in the
+Bṛhaspati;<sup>3</sup> with Aṅgirasa's sons spread themselves in the
 world of Marici Garbha.<sup>4</sup><sup>5</sup>
 <F>1) Br. III. 3. 4-20, 58, 67; 4. 33. 8 6; 10. 88; IV. 2. 28; 15. 24,
 20. 46; 30. 8.; M. 36. 1; 132. 3; 171. 42; 203. 10-12; 246. 54; 247. 10;
@@ -109139,7 +109139,7 @@ the Kauravas.<sup>5</sup>
 <LEND>
 
 <L>15783<pc>3-585<k1>sAmalomaKi<k2>sAmalomaKi
-{%Sāmalomakhi%}¦ — Ārṣeyapravara of Angirasa.
+{%Sāmalomakhi%}¦ — Ārṣeyapravara of Aṅgirasa.
 <div n="P"/>M. 196. 7.
 <LEND>
 
@@ -111913,7 +111913,7 @@ karma.
 [Page3-636+ 26]
 
 <L>16224<pc>3-636<k1>sunenu<k2>sunenu
-{%Sunenu%}¦ — a Sudharmāna god.
+{%Sunenu%}¦ — a Sudharmāṇa god.
 <div n="P"/>Br. IV. 1. 61.
 <LEND>
 
@@ -113828,7 +113828,7 @@ province.
 <LEND>
 
 <L>16554<pc>3-670<k1>suvitti<k2>suvitti<h>I
-{%Suvitti%} (I)¦ — a mantrakṛt and of Angirasa branch.
+{%Suvitti%} (I)¦ — a mantrakṛt and of Aṅgirasa branch.
 <div n="P"/>Vā. 59. 101.
 <LEND>
 
@@ -118715,7 +118715,7 @@ of devas.
 <LEND>
 
 <L>17290<pc>3-758<k1>havizRu<k2>havizRu
-{%Haviṣṇu%}¦ — a son of Angirasa.
+{%Haviṣṇu%}¦ — a son of Aṅgirasa.
 <div n="P"/>Vā. 65. 105.
 <LEND>
 
@@ -118767,7 +118767,7 @@ III Sāvarṇa.
 <LEND>
 
 <L>17299<pc>3-759<k1>havizmAn<k2>havizmAn<h>IV
-{%Haviṣmān%} (IV)¦ — a son of Angirasa.
+{%Haviṣmān%} (IV)¦ — a son of Aṅgirasa.
 <div n="P"/>M. 196. 2; Vā. 62. 65.
 <LEND>
 
@@ -119027,7 +119027,7 @@ and Bhavānī).
 
 <L>17344<pc>3-764<k1>hArita<k2>hArita<h>I
 {%Hārita%} (I)¦ — a son of Yuvanāśva: after him came the
-well-known Angirasa Hāritas.
+well-known Aṅgirasa Hāritas.
 <div n="P"/>Bhā. IX. 7. 1.
 <LEND>
 
@@ -119509,7 +119509,7 @@ vīpa. Divided it among his seven sons.
 <LEND>
 
 <L>17399<pc>3-773<k1>hiraRyaromA<k2>hiraRyaromA<h>I
-{%Hiraṇyaromā%} (I)¦ — an Angirasa: a sage of the Raivata
+{%Hiraṇyaromā%} (I)¦ — an Aṅgirasa: a sage of the Raivata
 epoch.
 <div n="P"/>Bhā. VIII. 5. 3; Br. II. 36. 62; M. 9. 20; Vi. III. 1. 22.
 <LEND>
