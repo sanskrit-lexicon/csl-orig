@@ -20552,7 +20552,7 @@
 {#aprayogin#}¦ <lex>Adj.</lex> {%nicht angefügt —, nicht ausgesprochen werdend%} <ls>ZACH. Beitr.</ls>
 <LEND>
 <L>6319<pc>5-244-a<k1>apravizwa<k2>apravizwa
-{#apravizwa#}¦ <lex>Adj.</lex> 1〉 {%nicht eingetreten —, nicht eingedrungen in%} (<ab>Loc.</ab>) <ls>BHĀG. P. 2,9,34</ls>. <ls n="BHĀG. P.">7,49,4</ls>. — 2〉 {%nicht betreten%} <ls>RAGH. 11,18</ls>.
+{#apravizwa#}¦ <lex>Adj.</lex> 1〉 {%nicht eingetreten —, nicht eingedrungen in%} (<ab>Loc.</ab>) <ls>BHĀG. P. 2,9,34</ls>. <ls n="BHĀG. P.">2,9,34</ls>. — 2〉 {%nicht betreten%} <ls>RAGH. 11,18</ls>.
 <LEND>
 <L>6320<pc>5-244-a<k1>aprAptarajasI<k2>aprAptarajasI
 {#aprAptarajasI#}¦ <lex>Adj.</lex> <lex>f.</lex> {%noch nicht die Menses habend%} <ls>GṚHYĀS. 2,18</ls> in <ls>Z. d. d. m. G. 35,544</ls>.
@@ -20900,7 +20900,7 @@
 {#arTay#}¦ mit {#pra#} in der <ab>Bed.</ab> 1〉 {#prArTant#} <ls>HEM. PAR. 2,474</ls>.
 <LEND>
 <L>6433<pc>5-245-b<k1>arTaracana<k2>arTaracana
-{#arTaracana#} <lex>n.</lex> oder {#°nA#} <lex>f.</lex>¦ {%das Betreiben seiner Sache, Verfolgung seines Zieles, Bemühung%}. Am Ende eines <ab>adj. Comp.</ab> <ls>BHĀG. P. 3,9,10</ls>. <ls n="BHĀG. P. 3">23,8</ls>.
+{#arTaracana#} <lex>n.</lex> oder {#°nA#} <lex>f.</lex>¦ {%das Betreiben seiner Sache, Verfolgung seines Zieles, Bemühung%}. Am Ende eines <ab>adj. Comp.</ab> <ls>BHĀG. P. 3,9,10</ls>. <ls n="BHĀG. P. 3,">23,8</ls>.
 <LEND>
 <L>6433.1<pc>5-245-b<k1>arTaracanA<k2>arTaracanA
 {{Lbody=6433}}
