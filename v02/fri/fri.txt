@@ -19603,154 +19603,154 @@ II dhīra
 <div n="1"/>2 <lang n="russian">крепкий, решительный, спокойный</lang>
 <div n="1"/>3 <lang n="english">firm, resolute, calm</lang>
 <LEND>
-<L>3377<pc>142<k1>DIvant<k2>DIvant
+<L>3377<pc>144<k1>DIvant<k2>DIvant
 dhīvant
 <div n="1"/>1 <lang n="czech">skládající náb. písně</lang>
 <div n="1"/>2 <lang n="russian">слагающий песнопения</lang>
 <div n="1"/>3 <lang n="english">composing religious hymns</lang>
 <LEND>
-<L>3378<pc>142<k1>Duni<k2>Duni
+<L>3378<pc>144<k1>Duni<k2>Duni
 dhuni
 <div n="1"/>1 <lang n="czech">hučící, troubící</lang>
 <div n="1"/>2 <lang n="russian">ревущий, трубящий</lang>
 <div n="1"/>3 <lang n="english">roaring, blowing</lang>
 <LEND>
-<L>3379<pc>142<k1>DU<k2>DU
+<L>3379<pc>144<k1>DU<k2>DU
 √dhū dhūnoti, dhūnute, dhūvati
 <div n="1"/>1 <lang n="czech">pohybovati sem tam, otřásati; med. ježiti se</lang>
 <div n="1"/>2 <lang n="russian">передвигать туда-сюда, потрясать; med. ощетиниваться</lang>
 <div n="1"/>3 <lang n="english">to move hither and thither, shake; med. to bristle</lang>
 <LEND>
-<L>3380<pc>142<k1>avaDU<k2>avaDU
+<L>3380<pc>144<k1>avaDU<k2>avaDU
  +ava (avadhū) 
 <div n="1"/>1 <lang n="czech">setřásati, sraziti</lang>
 <div n="1"/>2 <lang n="russian">стряхивать, сбросить</lang>
 <div n="1"/>3 <lang n="english">to shake off or down, reject</lang>
 <LEND>
-<L>3381<pc>142<k1>viDU<k2>viDU
+<L>3381<pc>144<k1>viDU<k2>viDU
  +vi (vidhū) 
 <div n="1"/>1 <lang n="czech">setřásti, rozptýliti</lang>
 <div n="1"/>2 <lang n="russian">сотрясти, рассеять</lang>
 <div n="1"/>3 <lang n="english">to shake off, disperse</lang>
 <LEND>
-<L>3382<pc>142<k1>DUpa<k2>DUpa
+<L>3382<pc>144<k1>DUpa<k2>DUpa
 dhūpa m.
 <div n="1"/>1 <lang n="czech">kadidlo, vonný kouř</lang>
 <div n="1"/>2 <lang n="russian">ладан, душистый дым</lang>
 <div n="1"/>3 <lang n="english">incense, aromatic vapour</lang>
 <LEND>
-<L>3383<pc>142<k1>DUma<k2>DUma
+<L>3383<pc>144<k1>DUma<k2>DUma
 dhūma m.
 <div n="1"/>1 <lang n="czech">kouř, pára</lang>
 <div n="1"/>2 <lang n="russian">дым, пар</lang>
 <div n="1"/>3 <lang n="english">smoke, vapour</lang>
 <LEND>
-<L>3384<pc>142<k1>DUmarAji<k2>DUmarAji
+<L>3384<pc>144<k1>DUmarAji<k2>DUmarAji
 dhūmarāji
 <div n="1"/>1 <lang n="czech">mající sloupy kouře</lang>
 <div n="1"/>2 <lang n="russian">имеющий столбы дыма</lang>
 <div n="1"/>3 <lang n="english">possessing columns of smoke</lang>
 <LEND>
-<L>3385<pc>142<k1>DUmAdi<k2>DUmAdi
+<L>3385<pc>144<k1>DUmAdi<k2>DUmAdi
 dhūmādi
 <div n="1"/>1 <lang n="czech">syllogismus "kde je kouř, tam je oheň"</lang>
 <div n="1"/>2 <lang n="russian">умозаключение "где дым — там огонь"</lang>
 <div n="1"/>3 <lang n="english">the syllogism "where there is a smoke there is a fire"</lang>
 <LEND>
-<L>3386<pc>142<k1>DUrta<k2>DUrta
+<L>3386<pc>144<k1>DUrta<k2>DUrta
 dhūrta
 <div n="1"/>1 <lang n="czech">chytrý, prohnaný; m. šibal</lang>
 <div n="1"/>2 <lang n="russian">хитрый; m. ловкач</lang>
 <div n="1"/>3 <lang n="english">shrewd, cunning; m. a rogue</lang>
 <LEND>
-<L>3387<pc>142<k1>DUtva<k2>DUtva
+<L>3387<pc>144<k1>DUtva<k2>DUtva
  +dhūtva n. abstr.
 <LEND>
-<L>3388<pc>142<k1>DUlI<k2>DUlI
+<L>3388<pc>144<k1>DUlI<k2>DUlI
 dhūlī f.
 <div n="1"/>1 <lang n="czech">prach, pudr, pel</lang>
 <div n="1"/>2 <lang n="russian">пыль, пудра, пыль (цветочная)</lang>
 <div n="1"/>3 <lang n="english">dust, powder, pollen</lang>
 <LEND>
-<L>3389<pc>142<k1>DUsara<k2>DUsara
+<L>3389<pc>144<k1>DUsara<k2>DUsara
 dhūsara
 <div n="1"/>1 <lang n="czech">šedý</lang>
 <div n="1"/>2 <lang n="russian">серый</lang>
 <div n="1"/>3 <lang n="english">grey</lang>
 <LEND>
-<L>3390<pc>142<k1>DUsarita<k2>DUsarita
+<L>3390<pc>144<k1>DUsarita<k2>DUsarita
 dhūsarita
 <div n="1"/>1 <lang n="czech">šedavý</lang>
 <div n="1"/>2 <lang n="russian">сероватый</lang>
 <div n="1"/>3 <lang n="english">greyish</lang>
 <LEND>
-<L>3391<pc>142<k1>Dfta<k2>Dfta
+<L>3391<pc>144<k1>Dfta<k2>Dfta
 dhṛta (pp. ≺ dhar) 
 <div n="1"/>1 <lang n="czech">držen, udržován, zadržován, uchopen, zachováván</lang>
 <div n="1"/>2 <lang n="russian">держанный, удерживаемый, задержанный, схваченный, исполненный</lang>
 <div n="1"/>3 <lang n="english">held, supported, retained, seized observed</lang>
 <LEND>
-<L>3392<pc>142<k1>DftarAzwra<k2>DftarAzwra
+<L>3392<pc>144<k1>DftarAzwra<k2>DftarAzwra
 dhṛtarāṣṭra m., n. pr.; lit.:
 <div n="1"/>1 <lang n="czech">"jehož království je pevné"</lang>
 <div n="1"/>2 <lang n="russian">"королевство которого непоколебимо"</lang>
 <div n="1"/>3 <lang n="english">"whose empire is firm"</lang>
 <LEND>
-<L>3393<pc>142<k1>Dfti<k2>Dfti
+<L>3393<pc>144<k1>Dfti<k2>Dfti
 dhṛti f.
 <div n="1"/>1 <lang n="czech">stálost, pevnost, klid, spokojenost</lang>
 <div n="1"/>2 <lang n="russian">постоянство, прочность, спокойствие, довольство</lang>
 <div n="1"/>3 <lang n="english">firmness, steadiness, equanimity, contentment</lang>
 <LEND>
-<L>3394<pc>142<k1>Dfzwa<k2>Dfzwa
+<L>3394<pc>144<k1>Dfzwa<k2>Dfzwa
 dhṛṣṭa (pp. ≺ dharṣ) 
 <div n="1"/>1 <lang n="czech">drzý, odvážný</lang>
 <div n="1"/>2 <lang n="russian">дерзкий, отважный</lang>
 <div n="1"/>3 <lang n="english">impudent, bold</lang>
 <LEND>
-<L>3395<pc>142<k1>DfzRu<k2>DfzRu
+<L>3395<pc>144<k1>DfzRu<k2>DfzRu
 dhṛṣṇu v. Dhrṣṭa
 <LEND>
-<L>3396<pc>142<k1>Denu<k2>Denu
+<L>3396<pc>144<k1>Denu<k2>Denu
 dhenu f.
 <div n="1"/>1 <lang n="czech">dojnice, kráva, samice</lang>
 <div n="1"/>2 <lang n="russian">дойная корова, корова, самка</lang>
 <div n="1"/>3 <lang n="english">a milch cow, cow, female animal</lang>
 <LEND>
-<L>3397<pc>142<k1>DOmya<k2>DOmya
+<L>3397<pc>144<k1>DOmya<k2>DOmya
 dhaumya m., n. pr.
 <LEND>
-<L>3398<pc>142<k1>DyA<k2>DyA
+<L>3398<pc>144<k1>DyA<k2>DyA
 √dhyā dhyāyati, pp. dhyāta
 <div n="1"/>1 <lang n="czech">mysliti, meditovati</lang>
 <div n="1"/>2 <lang n="russian">думать, размышлять</lang>
 <div n="1"/>3 <lang n="english">to think, meditate</lang>
 <LEND>
-<L>3399<pc>142<k1>DyAna<k2>DyAna
+<L>3399<pc>144<k1>DyAna<k2>DyAna
 dhyāna n.
 <div n="1"/>1 <lang n="czech">přemýšlení, meditace</lang>
 <div n="1"/>2 <lang n="russian">размышление, медитация</lang>
 <div n="1"/>3 <lang n="english">reflection, meditation</lang>
 <LEND>
-<L>3400<pc>142<k1>Druva<k2>Druva
+<L>3400<pc>144<k1>Druva<k2>Druva
 dhruva
 <div n="1"/>1 <lang n="czech">pevný, stojící (o krávě), stálý, trvalý, jistý; m. polárka, opakovaný verš</lang>
 <div n="1"/>2 <lang n="russian">крепкий, стоящая (о корове), постоянный, прочный, верный; m. полярная звезда, повторяемый стих</lang>
 <div n="1"/>3 <lang n="english">firm, steady (as cow), constant, permanent, certain; m. the polar star, a repeated stanza</lang>
 <LEND>
-<L>3401<pc>142<k1>DvaMs<k2>DvaMs
+<L>3401<pc>144<k1>DvaMs<k2>DvaMs
 √dhvaṃs dhvaṃsati, -te, pp. dhvasta
 <div n="1"/>1 <lang n="czech">rozpadati se na prach, hynouti</lang>
 <div n="1"/>2 <lang n="russian">рассыпаться в прах, гибнуть</lang>
 <div n="1"/>3 <lang n="english">to fall to dust, perish</lang>
 <LEND>
-<L>3402<pc>142<k1>Dvaja<k2>Dvaja
+<L>3402<pc>144<k1>Dvaja<k2>Dvaja
 dhvaja m.
 <div n="1"/>1 <lang n="czech">prapor, vlajka, značka, symbol</lang>
 <div n="1"/>2 <lang n="russian">знамя, флаг, значок, символ</lang>
 <div n="1"/>3 <lang n="english">a flag, banner, mark, symbol</lang>
 <LEND>
-<L>3403<pc>142<k1>Dvajavant<k2>Dvajavant
+<L>3403<pc>144<k1>Dvajavant<k2>Dvajavant
 dhvajavant
 <div n="1"/>1 <lang n="czech">mající praporec, zdobený prapory</lang>
 <div n="1"/>2 <lang n="russian">имеющий флажок, украшенный знаменами</lang>
@@ -44836,160 +44836,160 @@ sūpāyana
 <div n="1"/>2 <lang n="russian">легко доступный</lang>
 <div n="1"/>3 <lang n="english">easily accessible</lang>
 <LEND>
-<L>7702<pc>327<k1>sUrya<k2>sUrya
+<L>7702<pc>328<k1>sUrya<k2>sUrya
 sūrya, -ka m.
 <div n="1"/>1 <lang n="czech">slunce, bůh slunce</lang>
 <div n="1"/>2 <lang n="russian">солнце, бог солнца</lang>
 <div n="1"/>3 <lang n="english">the sun, god of the sun</lang>
 <LEND>
-<L>7703<pc>327<k1>sfgAla<k2>sfgAla
+<L>7703<pc>328<k1>sfgAla<k2>sfgAla
 sṛgāla m. 
 <div n="1"/>1 <lang n="czech">šakal</lang>
 <div n="1"/>2 <lang n="russian">шакал</lang>
 <div n="1"/>3 <lang n="english">a jackal</lang>
 <LEND>
-<L>7704<pc>327<k1>sfRI<k2>sfRI
+<L>7704<pc>328<k1>sfRI<k2>sfRI
 sṛṇī f.
 <div n="1"/>1 <lang n="czech">srp</lang>
 <div n="1"/>2 <lang n="russian">серп</lang>
 <div n="1"/>3 <lang n="english">a sickle</lang>
 <LEND>
-<L>7705<pc>327<k1>sfta<k2>sfta
+<L>7705<pc>328<k1>sfta<k2>sfta
 sṛta (pp. ≺ sar) 
 <div n="1"/>1 <lang n="czech">jdoucí, plynoucí</lang>
 <div n="1"/>2 <lang n="russian">идущий, текущий</lang>
 <div n="1"/>3 <lang n="english">going, flowing</lang>
 <LEND>
-<L>7706<pc>327<k1>sfpta<k2>sfpta
+<L>7706<pc>328<k1>sfpta<k2>sfpta
 sṛpta (pp. ≺ sarp) 
 <div n="1"/>1 <lang n="czech">vklouznuvší, spočívající</lang>
 <div n="1"/>2 <lang n="russian">проскользнувший, состоящий</lang>
 <div n="1"/>3 <lang n="english">slipped into, resting</lang>
 <LEND>
-<L>7707<pc>327<k1>sfzwa<k2>sfzwa
+<L>7707<pc>328<k1>sfzwa<k2>sfzwa
 sṛṣṭa (pp. ≺ sarj) 
 <div n="1"/>1 <lang n="czech">hozený, vylitý, stvořený, spojený</lang>
 <div n="1"/>2 <lang n="russian">брошенный, вылитый, сотворенный, соединенный</lang>
 <div n="1"/>3 <lang n="english">thrown, poured out, created, provided with</lang>
 <LEND>
-<L>7708<pc>327<k1>setu<k2>setu
+<L>7708<pc>328<k1>setu<k2>setu
 setu m. 
 <div n="1"/>1 <lang n="czech">pouto, hráz, most</lang>
 <div n="1"/>2 <lang n="russian">путы, насыпь, мост</lang>
 <div n="1"/>3 <lang n="english">a fetter, dam, bridge</lang>
 <LEND>
-<L>7709<pc>327<k1>senA<k2>senA
+<L>7709<pc>328<k1>senA<k2>senA
 senā f.
 <div n="1"/>1 <lang n="czech">kopí, zbraň, vojsko</lang>
 <div n="1"/>2 <lang n="russian">копье, оружие, войско</lang>
 <div n="1"/>3 <lang n="english">а spear, weapon, army</lang>
 <LEND>
-<L>7710<pc>327<k1>senAnI<k2>senAnI
+<L>7710<pc>328<k1>senAnI<k2>senAnI
 senānī m.
 <div n="1"/>1 <lang n="czech">vojevůdce, velitel</lang>
 <div n="1"/>2 <lang n="russian">военачальник, началник</lang>
 <div n="1"/>3 <lang n="english">the leader of an army, chief</lang>
 <LEND>
-<L>7711<pc>327<k1>senApati<k2>senApati
+<L>7711<pc>328<k1>senApati<k2>senApati
 senāpati m.
 <div n="1"/>1 <lang n="czech">velitel vojska, generál</lang>
 <div n="1"/>2 <lang n="russian">начальник войска, генерал</lang>
 <div n="1"/>3 <lang n="english">the chief commander of an army, general</lang>
 <LEND>
-<L>7712<pc>327<k1>sendra<k2>sendra
+<L>7712<pc>328<k1>sendra<k2>sendra
 sendra
 <div n="1"/>1 <lang n="czech">spolu s Indrou</lang>
 <div n="1"/>2 <lang n="russian">вместе c Индрой</lang>
 <div n="1"/>3 <lang n="english">together with Indra</lang>
 <LEND>
-<L>7713<pc>327<k1>sev<k2>sev
+<L>7713<pc>328<k1>sev<k2>sev
 √sev (sevati), sevate, pp. sevita
 <div n="1"/>1 <lang n="czech">dlíti u, bydliti, pečovati, sloužiti, pomáhati, užívati, věnovati se</lang>
 <div n="1"/>2 <lang n="russian">находиться, жить, заботиться, служить, помогать, наслаждаться, посвятиться</lang>
 <div n="1"/>3 <lang n="english">to stay near, dwell, care, serve, help, enjoy, devote oneself</lang>
 <LEND>
-<L>7714<pc>327<k1>niSev<k2>niSev
+<L>7714<pc>328<k1>niSev<k2>niSev
  +ni (niṣev)
 <div n="1"/>1 <lang n="czech">míti styk, užívati, dlíti (+ loc.)</lang>
 <div n="1"/>2 <lang n="russian">иметь связь, наслаждаться, пребывать (+ loc.)</lang>
 <div n="1"/>3 <lang n="english">to have intercourse, enjoy, dwell (+ loc.)</lang>
 <LEND>
-<L>7715<pc>327<k1>sevaka<k2>sevaka
+<L>7715<pc>328<k1>sevaka<k2>sevaka
 sevaka m.
 <div n="1"/>1 <lang n="czech">služebník</lang>
 <div n="1"/>2 <lang n="russian">слуга</lang>
 <div n="1"/>3 <lang n="english">a servant</lang>
 <LEND>
-<L>7716<pc>327<k1>sevana<k2>sevana
+<L>7716<pc>328<k1>sevana<k2>sevana
 sevana n.
 <div n="1"/>1 <lang n="czech">pobývání, služba, uctívání, sledování, užívání</lang>
 <div n="1"/>2 <lang n="russian">пребывание, служба, почитание, следование, употребление</lang>
 <div n="1"/>3 <lang n="english">the act of dwelling, service, worship, following, enjoying</lang>
 <LEND>
-<L>7717<pc>327<k1>sevA<k2>sevA
+<L>7717<pc>328<k1>sevA<k2>sevA
 sevā f.
 <div n="1"/>1 <lang n="czech">služba, obsluha, úcta, oddání</lang>
 <div n="1"/>2 <lang n="russian">служба, услуживание, почтение, преданность</lang>
 <div n="1"/>3 <lang n="english">service, attendance on, worship, devotion</lang>
 <LEND>
-<L>7718<pc>327<k1>sevita<k2>sevita
+<L>7718<pc>328<k1>sevita<k2>sevita
 sevita (pp. ≺ sev) 
 <div n="1"/>1 <lang n="czech">obsluhovaný, navštěvovaný</lang>
 <div n="1"/>2 <lang n="russian">обслуживаемый, посещаемый</lang>
 <div n="1"/>3 <lang n="english">served, visited</lang>
 <LEND>
-<L>7719<pc>327<k1>sEnika<k2>sEnika
+<L>7719<pc>328<k1>sEnika<k2>sEnika
 sainika m.
 <div n="1"/>1 <lang n="czech">vojín</lang>
 <div n="1"/>2 <lang n="russian">воин</lang>
 <div n="1"/>3 <lang n="english">a soldier</lang>
 <LEND>
-<L>7720<pc>327<k1>sEnDava<k2>sEnDava
+<L>7720<pc>328<k1>sEnDava<k2>sEnDava
 saindhava (f. -ī) 
 <div n="1"/>1 <lang n="czech">zrozený v krajině Sindhu</lang>
 <div n="1"/>2 <lang n="russian">рожденный в области Синдху</lang>
 <div n="1"/>3 <lang n="english">born in Sindhu country</lang>
 <LEND>
-<L>7721<pc>327<k1>sEnya<k2>sEnya
+<L>7721<pc>328<k1>sEnya<k2>sEnya
 sainya
 <div n="1"/>1 <lang n="czech">patřící vojsku; m. vojín; n. vojsko, tábor</lang>
 <div n="1"/>2 <lang n="russian">принадлежащий войску; m. воин; n. войско, лагерь</lang>
 <div n="1"/>3 <lang n="english">belonging to an army; m. a soldier; n. army, camp</lang>
 <LEND>
-<L>7722<pc>327<k1>sEranDra<k2>sEranDra
+<L>7722<pc>328<k1>sEranDra<k2>sEranDra
 sairandhra m.
 <div n="1"/>1 <lang n="czech">domácí sluha</lang>
 <div n="1"/>2 <lang n="russian">домашний слуга</lang>
 <div n="1"/>3 <lang n="english">a domestic servant</lang>
 <LEND>
-<L>7723<pc>327<k1>sEranDrI<k2>sEranDrI
+<L>7723<pc>328<k1>sEranDrI<k2>sEranDrI
 sairandhrī f.
 <div n="1"/>1 <lang n="czech">služka</lang>
 <div n="1"/>2 <lang n="russian">служанка</lang>
 <div n="1"/>3 <lang n="english">a maid-servant</lang>
 <LEND>
-<L>7724<pc>327<k1>soQa<k2>soQa
+<L>7724<pc>328<k1>soQa<k2>soQa
 soḍha (pp. ≺ sah) 
 <div n="1"/>1 <lang n="czech">nesený, trpěný</lang>
 <div n="1"/>2 <lang n="russian">несомый, терпимый</lang>
 <div n="1"/>3 <lang n="english">borne, tolerated</lang>
 <LEND>
-<L>7725<pc>327<k1>soQum<k2>soQum
+<L>7725<pc>328<k1>soQum<k2>soQum
 soḍhum inf. ≺ sah, q. v.
 <LEND>
-<L>7726<pc>327<k1>sottara<k2>sottara
+<L>7726<pc>328<k1>sottara<k2>sottara
 sottara (= sottarakāṇḍa) 
 <div n="1"/>1 <lang n="czech">s poslední knihou (t. j. sedmou)</lang>
 <div n="1"/>2 <lang n="russian">c последней книгой (т. e. седьмой)</lang>
 <div n="1"/>3 <lang n="english">with the seventh book</lang>
 <LEND>
-<L>7727<pc>327<k1>sodaya<k2>sodaya
+<L>7727<pc>328<k1>sodaya<k2>sodaya
 sodaya
 <div n="1"/>1 <lang n="czech">s úrokem</lang>
 <div n="1"/>2 <lang n="russian">c процентами</lang>
 <div n="1"/>3 <lang n="english">with interest</lang>
 <LEND>
-<L>7728<pc>327<k1>sodara<k2>sodara
+<L>7728<pc>328<k1>sodara<k2>sodara
 sodara (f. -ī) 
 <div n="1"/>1 <lang n="czech">ze stejného lůna; m. sourozenec, bratr</lang>
 <div n="1"/>2 <lang n="russian">из одинакового лона; m. брат</lang>
