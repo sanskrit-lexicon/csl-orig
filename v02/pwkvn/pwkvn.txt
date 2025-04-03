@@ -70886,7 +70886,7 @@
 {#vIcitaraMganyAya#}¦ <lex>m.</lex> {%die Weise, wie sich die wellige Bewegung ausbreitet,%} <ls>MAHĀDEVA</ls> zu <ls>SĀṂKHYAS. 5,103</ls>.
 <LEND>
 <L>21287<pc>7-376-a<k1>vIRApaRavatURavant<k2>vIRApaRavatURavant
-{#vIRApaRavatURavant#}¦ <lex>Adj.</lex> {%mit einer Laute, einer Trommel und einer Flöte versehen%} <ls>R. 7,23,1,39</ls>.
+{#vIRApaRavatURavant#}¦ <lex>Adj.</lex> {%mit einer Laute, einer Trommel und einer Flöte versehen%} <ls>R. 7,23,4,39</ls>.
 <LEND>
 <L>21288<pc>7-376-a<k1>vItatfzRa<k2>*vItatfzRa
 {#*vItatfzRa#}¦ <lex>Adj.</lex> {%frei von allen Begierden%} <ls>MAHĀVY. 126</ls>.
