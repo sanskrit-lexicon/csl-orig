@@ -29963,7 +29963,7 @@
 {#vimAtavya#}¦ <lex>Adj.</lex> {%umzutauschen gegen%} (<ab>Instr.</ab>) <ls>VASIṢṬHA 2,37</ls>.
 <LEND>
 <L>9379<pc>6-306-b<k1>vizkanttar<k2>vizkanttar
-{#vizkanttar#}¦ <ab>Nom. ag.</ab> {%hinundher hüpfend%} <ls>BHAṬṬ. 9,64</ls>.
+{#vizkanttar#}¦ <ab>Nom. ag.</ab> {%hinundher hüpfend%} <ls>BHAṬṬ. 9,74</ls>.
 <LEND>
 <L>9380<pc>6-306-c<k1>vizkaBe<k2>vizka/Be
 {#vizka/Be#}¦ <ab>Dat.</ab> <ab>Infin.</ab> zu {#skaB#} mit {#vi#} <ls>ṚV. 8,89 (100),12</ls>.
