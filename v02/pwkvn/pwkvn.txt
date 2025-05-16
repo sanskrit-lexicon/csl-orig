@@ -65297,7 +65297,7 @@
 {#pracCeda#}¦ IV. {%musical division, bar%} (?) <ls>DIVYĀVAD. 597,19</ls>.
 <LEND>
 <L>19562<pc>7-360-a<k1>praC<k2>praC
-{#praC#}¦ IV. <ls>MĀLAV. 40 (ed. BOLL.)</ls> {#pfcCate va#} fehlerhaft für {#pfcCateva#} (mit {#mADavena#} zu verbinden).
+{#praC#}¦ IV. <ls>MĀLAV. (ed. BOLL.) 40</ls> {#pfcCate va#} fehlerhaft für {#pfcCateva#} (mit {#mADavena#} zu verbinden).
 <LEND>
 <L>19563<pc>7-360-a<k1>prajaNGA<k2>prajaNGA
 {#prajaNGA#}¦ IV. <ls>JĀTAKAM. 9</ls>.
