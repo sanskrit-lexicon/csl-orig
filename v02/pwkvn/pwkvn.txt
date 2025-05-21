@@ -21593,7 +21593,7 @@
 {#aSrAdDa#}¦ <lex>Adj.</lex> {%nicht würdig an einem%} <is>Śrāddha</is> {%theilzunehmen%} <ls>NĀRADA (a.) 2,1,178</ls>.
 <LEND>
 <L>6657<pc>5-248-a<k1>aSruleSa<k2>aSruleSa
-{#aSruleSa#}¦ <lex>m.</lex> {%Thränentropfen%} <ls>MEGH. 103</ls>. <ls>BHĀG. P. 6,16,32</ls>.
+{#aSruleSa#}¦ <lex>m.</lex> {%Thränentropfen%} <ls>MEGH. 105</ls>. <ls>BHĀG. P. 6,16,32</ls>.
 <LEND>
 <L>6658<pc>5-248-a<k1>aSruvadana<k2>aSruvadana
 {#aSruvadana#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%mit Thränen auf dem Gesicht%} <ls>BHĀG. P. 1,16,19</ls>. <ls n="BHĀG. P. 1,">17,3</ls>.
@@ -27773,7 +27773,7 @@
 {#ugrapUti#}¦ <lex>Adj.</lex> {%sehr stinkend%} <ls>MĀLATĪM. 78,16</ls>.
 <LEND>
 <L>8670<pc>6-298-c<k1>uc<k2>uc
-{#uc#}¦ mit {#sam#}, {#samucita#} 1〉 mit <ab>Gen.</ab> <ls>MEGH. 93</ls>.
+{#uc#}¦ mit {#sam#}, {#samucita#} 1〉 mit <ab>Gen.</ab> <ls>MEGH. 94</ls>.
 <LEND>
 <L>8671<pc>6-298-c<k1>uccEHsvara<k2>uccEHsvara
 {#uccEHsvara#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%eine laute Stimme habend, laut schreiend%} <ls>VARĀH. BṚH. S. 89,6</ls>.
