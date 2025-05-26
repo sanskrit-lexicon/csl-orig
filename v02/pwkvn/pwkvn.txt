@@ -14735,7 +14735,7 @@
 {#kAjava/#}¦ (?) <ls>MAITR. S. 2,1,4</ls>.
 <LEND>
 <L>4422<pc>3-259-b<k1>kARqavastra<k2>kARqavastra
-{#kARqavastra#}¦ <lex>n.</lex> {%Vorhang%} <ls>CAURAP. (A.) 31</ls>.
+{#kARqavastra#}¦ <lex>n.</lex> {%Vorhang%} <ls>CAURAP. (A.) 51</ls>.
 <LEND>
 <L>4423<pc>3-259-b<k1>kARqIra<k2>kARqIra
 {#kARqIra#}¦ 1〉 <ls>MAHĀVĪRAC. 43,6</ls>.
