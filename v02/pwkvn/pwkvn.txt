@@ -6101,7 +6101,7 @@
 {#atikutUhala#}¦ <lex>n.</lex> {%grosse Neugier%} <ls>KATHĀS. 4,80</ls>.
 <LEND>
 <L>1996<pc>2-287-a<k1>atikfcCra<k2>atikfcCra
-{#atikfcCra#}¦ 1〉 <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338,60</ls>. — 2〉 {#°m#} <lex>Adv.</lex> {%mit grosser Mühe%} <ls>BHĀG. P. 5,13,10</ls>.
+{#atikfcCra#}¦ 1〉 <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338,3</ls>. — 2〉 {#°m#} <lex>Adv.</lex> {%mit grosser Mühe%} <ls>BHĀG. P. 5,13,10</ls>.
 <LEND>
 <L>1997<pc>2-287-a<k1>atikrame<k2>atikra/me
 {#atikra/me#}¦ <ab>Dat.</ab> <ab>Inf.</ab> von {#kram#} mit {#ati#} <ls>ṚV.</ls>
@@ -11828,7 +11828,7 @@
 {#aDarmaSAlin#}¦ <lex>Adj.</lex> {%pflichtvergessen%} <ls>KAUTUKAR.</ls>
 <LEND>
 <L>3457<pc>3-249-a<k1>aDarmasaMgara<k2>aDarmasaMgara
-{#aDarmasaMgara#}¦ <lex>Adj.</lex> {%unredlich kämpfend%} <ls>MBH. 12,94,15</ls>.
+{#aDarmasaMgara#}¦ <lex>Adj.</lex> {%unredlich kämpfend%} <ls>MBH. 12,95,15</ls>.
 <LEND>
 <L>3458<pc>3-249-a<k1>aDarzaRIya<k2>aDarzaRIya
 {#aDarzaRIya#}¦ <lex>Adj.</lex> auch {%unüberwindlich%} <ls>KATHĀS. 101,339</ls>.
@@ -21494,7 +21494,7 @@
 {#avizahya#}¦ 3〉 <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls>BHĀG. P. 4,22,60</ls>.
 <LEND>
 <L>6626<pc>5-247-b<k1>avisaMvAda<k2>avisaMvAda
-{#avisaMvAda#}¦ <lex>m.</lex> {%das Worthalten%} <ls>MBH. 12,159,18</ls>.
+{#avisaMvAda#}¦ <lex>m.</lex> {%das Worthalten%} <ls>MBH. 12,159,11</ls>.
 <LEND>
 <L>6627<pc>5-247-b<k1>avisaMvAdita<k2>avisaMvAdita
 {#avisaMvAdita#}¦ <lex>Adj.</lex> {%keinem Widerspruch unterliegend, allgemein anerkannt%}.
@@ -26375,7 +26375,7 @@
 {#aRika#}¦ (<ls>Nachtr. 1 und 2</ls>) zu streichen, da {#fRika#} zu lesen ist.
 <LEND>
 <L>8210<pc>6-293-a<k1>atikaruRa<k2>atikaruRa
-{#atikaruRa#}¦ <lex>Adj.</lex> {%überaus kläglich%} <ls>MBH. 1,3,317</ls>.
+{#atikaruRa#}¦ <lex>Adj.</lex> {%überaus kläglich%} <ls>MBH. 1,2,317</ls>.
 <LEND>
 <L>8211<pc>6-293-a<k1>atijitakASin<k2>atijitakASin
 {#atijitakASin#}¦ <lex>Adj.</lex> {%überaus siegesbewusst%}. <ab>Nom. abstr.</ab> {#°SitA#} <lex>f.</lex> <ls>MUDRĀR. 55,13</ls>.
@@ -29291,7 +29291,7 @@
 {#prahata#}¦ 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>1.</hom> {#han#} mit {#pra#}. — 2〉 *<lex>n.</lex> {%Schlag mit%} (im <ab>Comp.</ab> vorangehend). {#jaNGA°#} <is>gaṇa</is> {#akzadyUtAdi#}.
 <LEND>
 <L>9163<pc>6-304-a<k1>prARa<k2>prARa<h>1
-<hom>1.</hom> {#prARa#}¦ 14〉 <ab>vgl.</ab> <ls>MBH. 13,313,54</ls>.
+<hom>1.</hom> {#prARa#}¦ 14〉 <ab>vgl.</ab> <ls>MBH. 3,313,54</ls>.
 <LEND>
 <L>9164<pc>6-304-a<k1>prARin<k2>prARin
 {#prARin#}¦ <lex>n.</lex> {%Thier%} <ls>ĀPAST. ŚR. 9,13,1</ls>. <ls n="ĀPAST. ŚR. 9,">16,8</ls>.
