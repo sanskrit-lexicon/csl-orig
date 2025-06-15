@@ -27674,7 +27674,7 @@
 {#ArzeyabrAhmaRa#}¦ <lex>n.</lex> Titel eines von <ls>BURNELL</ls> herausgegebenen <is>Brāhmaṇa</is>.
 <LEND>
 <L>8637<pc>6-298-b<k1>Avartin<k2>Avartin<h>2
-<hom>2.</hom> {#Avartin#}¦ auch <lex>Adj.</lex> {%wiederkehrend%} <ls>CHĀND. UP. 5,10,8</ls>. <ls>HIT. 1,201</ls>. <ab>Vgl.</ab> {#punarAvartin#}.
+<hom>2.</hom> {#Avartin#}¦ auch <lex>Adj.</lex> {%wiederkehrend%} <ls>CHĀND. UP. 5,10,8</ls>. <ls>HIT. I,201</ls>. <ab>Vgl.</ab> {#punarAvartin#}.
 <LEND>
 <L>8638<pc>6-298-b<k1>ASaNkanIya<k2>ASaNkanIya
 {#ASaNkanIya#}¦ auch {%zu erwarten, vorauszusetzen%} <ls>DAŚAK. 65,13</ls>.
