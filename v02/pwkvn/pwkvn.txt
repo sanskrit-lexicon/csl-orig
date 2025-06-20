@@ -20318,7 +20318,7 @@
 {#anUcyamAnatva#}¦ <lex>n.</lex> {%das Studirtwerden%} <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 3</ls>.
 <LEND>
 <L>6242<pc>5-243-b<k1>anUQa<k2>anUQa
-{#anUQa#}¦ auch {%unverheirathet%} vom Manne <ls>AK. 2,7,35</ls>. <ls>H. 526</ls>.
+{#anUQa#}¦ auch {%unverheirathet%} vom Manne <ls>AK. 2,7,55</ls>. <ls>H. 526</ls>.
 <LEND>
 <L>6243<pc>5-243-b<k1>anfRIkaraRa<k2>anfRIkaraRa
 {#anfRIkaraRa#}¦ <lex>n.</lex> {%das Befreien von einer Schuld%} <ls>HEM. PAR. 1,38</ls>.
