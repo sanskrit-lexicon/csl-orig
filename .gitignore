@@ -1,7 +1,7 @@
 v00/csl-data/APScan/*
 v00/csl-data/PDScan/*
 v02/pd/*
-v02/ap/*
+# v02/ap/*   07-06-2025 unrestricted
 temp*
 *~
 v02/.xampp_last_run
