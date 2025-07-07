@@ -1,0 +1,105 @@
+ap-meta2.txt
+07-11-2017
+
+This file describes the coding conventions of ap.txt, which is the current
+version of the Apte1957 digitization. For previous versions, see ap-meta.txt.
+
+ap.txt uses the utf-8 encoding for extended ASCII characters.
+
+The {X...X} style of coding serves several purposes:
+{#...#} : devanagari coded in SLP1 transliteration. Closed in each line.
+{%.. %} : italic text. Closed in each line.
+{@..@}  : bold text. Closed in each line.
+{sic}   : Possible text error (9 instances)
+{**}    : A particular typographic  symbol (1 instance)
+{^}     : A particalar typographic  symbol (1 instance)
+
+
+The following  <x> type tags are found in ap.txt:
+<Poem>..</Poem> : 1 instance
+<HS>  2  : End of volume indicator
+
+Meta lines: 
+Each entry of the digitization is contained within a beginning and ending
+markup. As example,
+<L>3<pc>0001-2<k1>aMS<k2>aMS
+{#aMS#}¦ €10U. {#aMSayati-te#} also {#aMSApayati#} To divide, distribute, share among.
+<LEND>
+
+The ending markup is <LEND>.
+The beginning markup contains various identifying fields, expressed in
+a <fieldname>fieldvalue format. The fields are:
+required fields
+  L Cologne record identifier
+  pc page-col reference to scanned image
+  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
+  k2 key2. The original headword spelling, either in slp1 or IAST
+
+optional field for homonym
+  hom The homonym number (usually a digit). Rarely occurs in ap dictionary
+
+---------------------------------
+
+Page breaks are coded as [Page...], and occur on separate lines.
+In general, a page number has form [PagePPPP-C] where PPPP is page number and
+C is column number (1 or 3).
+70 page breaks have form
+[PagePPPP-UC]  Where U is a,b, or c (these occur at letter breaks).
+Page 632 is missing in the PDF
+
+The lines of the digitization generally represent 'sections' of the text; the
+actual line-breaks of the text are not coded.
+
+Headword coding is exemplified by: 
+.{#a#}¦   no-homonymn
+.{#udan#}^1¦  homonym
+The general form is .{#X#}^h¦
+where X (key1) is coded in SLP1 transliteration.
+
+
+The headwords are ordered according to Sanskrit alphabet ordering.
+
+Non-Devanagari Sanskrit in the body of the entries has been converted 
+to IAST unicode, generally as described in https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration. 
+This differs in several respects from the coding of the printed version.
+
+£  (\u00a3)     1 := POUND SIGN
+¦  (\u00a6) 36706 := BROKEN BAR
+§  (\u00a7)     1 := SECTION SIGN
+¯  (\u00af)     2 := MACRON
+°  (\u00b0)  4253 := DEGREE SIGN
+²  (\u00b2) 90534 := SUPERSCRIPT TWO
+³  (\u00b3)  1187 := SUPERSCRIPT THREE
+¼  (\u00bc)     6 := VULGAR FRACTION ONE QUARTER
+½  (\u00bd)    13 := VULGAR FRACTION ONE HALF
+¾  (\u00be)     1 := VULGAR FRACTION THREE QUARTERS
+×  (\u00d7)     2 := MULTIPLICATION SIGN
+ñ  (\u00f1)   262 := LATIN SMALL LETTER N WITH TILDE
+Ā  (\u0100)  1279 := LATIN CAPITAL LETTER A WITH MACRON
+ā  (\u0101) 16422 := LATIN SMALL LETTER A WITH MACRON
+Ī  (\u012a)    22 := LATIN CAPITAL LETTER I WITH MACRON
+ī  (\u012b)  2143 := LATIN SMALL LETTER I WITH MACRON
+Ś  (\u015a)  8459 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)  1467 := LATIN SMALL LETTER S WITH ACUTE
+Ū  (\u016a)     4 := LATIN CAPITAL LETTER U WITH MACRON
+ū  (\u016b)   672 := LATIN SMALL LETTER U WITH MACRON
+ȧ  (\u0227)     1 := LATIN SMALL LETTER A WITH DOT ABOVE
+˘  (\u02d8)     1 := BREVE
+Ḍ  (\u1e0c)     2 := LATIN CAPITAL LETTER D WITH DOT BELOW
+ḍ  (\u1e0d)   478 := LATIN SMALL LETTER D WITH DOT BELOW
+ṃ  (\u1e43)   204 := LATIN SMALL LETTER M WITH DOT BELOW
+ṅ  (\u1e45)   584 := LATIN SMALL LETTER N WITH DOT ABOVE
+ṇ  (\u1e47)  4317 := LATIN SMALL LETTER N WITH DOT BELOW
+Ṛ  (\u1e5a)   396 := LATIN CAPITAL LETTER R WITH DOT BELOW
+ṛ  (\u1e5b)  1243 := LATIN SMALL LETTER R WITH DOT BELOW
+Ṣ  (\u1e62)     5 := LATIN CAPITAL LETTER S WITH DOT BELOW
+ṣ  (\u1e63)  2898 := LATIN SMALL LETTER S WITH DOT BELOW
+Ṭ  (\u1e6c)     1 := LATIN CAPITAL LETTER T WITH DOT BELOW
+ṭ  (\u1e6d)   571 := LATIN SMALL LETTER T WITH DOT BELOW
+‘  (\u2018)  2528 := LEFT SINGLE QUOTATION MARK
+’  (\u2019)  2514 := RIGHT SINGLE QUOTATION MARK
+“  (\u201c)    34 := LEFT DOUBLE QUOTATION MARK
+”  (\u201d)    34 := RIGHT DOUBLE QUOTATION MARK
+‡  (\u2021)  7143 := DOUBLE DAGGER
+€  (\u20ac)  3068 := EURO SIGN
+卐  (\u5350)     1 := CJK UNIFIED IDEOGRAPH-5350
