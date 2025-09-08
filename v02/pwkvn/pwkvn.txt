@@ -7607,7 +7607,7 @@
 {#avakuRWana#}¦, {#°kftAva°#} <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%eingehüllt in%} <ls>HARṢAC. 147,13</ls>.
 <LEND>
 <L>2444<pc>2-292-a<k1>avakutsita<k2>avakutsita
-{#avakutsita#}¦ <lex>n.</lex> {%Tadel%} <ls>NIR. 1</ls>. <ls n="NIR.">4</ls>.
+{#avakutsita#}¦ <lex>n.</lex> {%Tadel%} <ls>NIR. 1,4</ls>.
 <LEND>
 <L>2445<pc>2-292-a<k1>avakeSin<k2>avakeSin
 {#avakeSin#}¦ <ls>HEM. PAR. 2,11</ls>.
