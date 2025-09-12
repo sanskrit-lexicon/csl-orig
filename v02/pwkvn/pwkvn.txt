@@ -26507,7 +26507,7 @@
 {#atisaMSlizwa#}¦ <lex>Adj.</lex> {%zu fest anliegend%} <ls><ab>Comm.</ab> zu TS. PRĀT. 2,12</ls>.
 <LEND>
 <L>8252<pc>6-293-c<k1>atisaMkawa<k2>atisaMkawa
-{#atisaMkawa#}¦ 1〉 <lex>Adj.</lex> {%überaus schwierig, — gefährlich%} <ls>MĀRK. P. 45,5</ls>. — 2〉 <lex>n.</lex> a〉 {%ausserordentliche Dichtigkeit%} <ls>RĀJAT. 6,249</ls>. — b〉 {%grosse Noth, — Gefahr%} <ls>Spr. 3170</ls>. <ls>MĀLATĪM. 103,19</ls>. <ls><ab>Comm.</ab> zu KUMĀRAS. 3</ls>. <ls n="KUMĀRAS.">23</ls>.
+{#atisaMkawa#}¦ 1〉 <lex>Adj.</lex> {%überaus schwierig, — gefährlich%} <ls>MĀRK. P. 45,5</ls>. — 2〉 <lex>n.</lex> a〉 {%ausserordentliche Dichtigkeit%} <ls>RĀJAT. 6,249</ls>. — b〉 {%grosse Noth, — Gefahr%} <ls>Spr. 3170</ls>. <ls>MĀLATĪM. 103,19</ls>. <ls><ab>Comm.</ab> zu KUMĀRAS. 3,23</ls>.
 <LEND>
 <L>8253<pc>6-293-c<k1>atisaMkalpa<k2>°atisaMkalpa
 {#°atisaMkalpa#}¦ <lex>m.</lex> {%ein dringendes Verlangen zu%} <ls>MBH. 4,396</ls>. <ab>v. l.</ab> {#aBisaMkalpa#}.
