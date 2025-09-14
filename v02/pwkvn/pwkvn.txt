@@ -22835,7 +22835,7 @@
 {#kiSoraka#}¦ 1〉a〉 <ls>VĀSAV. 231,2</ls>.
 <LEND>
 <L>7060<pc>5-252-a<k1>kIrti<k2>kIrti/
-{#kIrti/#}¦ 1〉b〉. Dass das Wort nicht, wie <ls>KULL.</ls> zu [Page5-252-b] <ls>M. 4,94 und 11,40</ls> annimmt, {%Ruhm nach dem Tode%} bedeute, ersieht man aus <ls>M. 2,9</ls>. <ls n="M.">5,166</ls>. <ls n="M.">8,81</ls>. Wenn es <ls n="M.">4,94</ls> und <ls n="M.">11,40</ls> und <ls>Spr. 6683</ls> neben {#yaSas#} erscheint, so ist damit wohl nichts Anderes gemeint als im Deutschen mit {%Ruhm und Ehre%}. Dasselbe gilt von {#yaso vA kiti vA#} in einer <is>Aśoka</is>-Inschrift (<ls>Z. d. d. m. G. 37,573</ls>. <ls n="Z. d. d. m. G. 37,">575</ls>).
+{#kIrti/#}¦ 1〉b〉. Dass das Wort nicht, wie <ls>KULL.</ls> zu [Page5-252-b] <ls>M. 4,94</ls> und <ls n="M.">11,40</ls> annimmt, {%Ruhm nach dem Tode%} bedeute, ersieht man aus <ls>M. 2,9</ls>. <ls n="M.">5,166</ls>. <ls n="M.">8,81</ls>. Wenn es <ls n="M.">4,94</ls> und <ls n="M.">11,40</ls> und <ls>Spr. 6683</ls> neben {#yaSas#} erscheint, so ist damit wohl nichts Anderes gemeint als im Deutschen mit {%Ruhm und Ehre%}. Dasselbe gilt von {#yaso vA kiti vA#} in einer <is>Aśoka</is>-Inschrift (<ls>Z. d. d. m. G. 37,573</ls>. <ls n="Z. d. d. m. G. 37,">575</ls>).
 <LEND>
 <L>7061<pc>5-252-b<k1>kIrtiSeza<k2>kIrtiSeza
 {#kIrtiSeza#}¦ <ls>VĀSAV. 7,4</ls>.
