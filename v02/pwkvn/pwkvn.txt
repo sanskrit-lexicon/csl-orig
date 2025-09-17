@@ -6992,7 +6992,7 @@
 {#anvagram#}¦ <lex>Adv.</lex> {%von unten nach oben%} <ls><ab>ebend.</ab> 2,13,1</ls>.
 <LEND>
 <L>2254<pc>2-290-a<k1>anvatrasta<k2>anvatrasta
-{#anvatrasta#}¦ <lex>Adj.</lex> <ls>MBH. 5,48,3 (5,1811)</ls> fehlerhaft für {#avitrasta#}.
+{#anvatrasta#}¦ <lex>Adj.</lex> <ls>MBH. 5,48,3</ls> (<ls n="MBH.">5,1811</ls>) fehlerhaft für {#avitrasta#}.
 <LEND>
 <L>2255<pc>2-290-a<k1>anvAkSAyam<k2>anvAkSA/yam
 {#anvAkSA/yam#}¦ <ab>Absol.</ab> {%der Reihe nach hersagend%} <ls>MAITR. S. 1,9,8</ls>.
@@ -14555,7 +14555,7 @@
 {#kawAkzapAta#}¦ <lex>m.</lex> {%Seitenblick%} <ls>MBH. 2,67,42</ls>.
 <LEND>
 <L>4364<pc>3-258-c<k1>kawukaBAzin<k2>kawukaBAzin
-{#kawukaBAzin#}¦ <lex>Adj.</lex> {%harte Reden führend%} <ls>MBH. 3. 40,13</ls>.
+{#kawukaBAzin#}¦ <lex>Adj.</lex> {%harte Reden führend%} <ls>MBH. 3,40,13</ls>.
 <LEND>
 <L>4365<pc>3-258-c<k1>kawuNkatA<k2>*kawuNkatA
 {#*kawuNkatA#}¦, <ab>vgl.</ab> {#KawuNka#} weiter unten.
@@ -25610,7 +25610,7 @@
 {#brahmarasAsava#}¦ <lex>m.</lex> <is>Brahman</is>ʼs {%Nektar%} <ls>BHĀG. P. 4,4,15</ls>.
 <LEND>
 <L>7961<pc>5-262-a<k1>brahmalOkika<k2>brahmalOkika
-{#brahmalOkika#}¦ <lex>Adj.</lex> <is>Brahman</is>ʼs {%Welt bewohnend%} <ls>YĀJÑ. 3,194</ls>. <ls>MBH. 13,150 (151),46</ls>.
+{#brahmalOkika#}¦ <lex>Adj.</lex> <is>Brahman</is>ʼs {%Welt bewohnend%} <ls>YĀJÑ. 3,194</ls>. <ls>MBH. 13,151,46</ls> (150).
 <LEND>
 <L>7962<pc>5-262-a<k1>bruqaqvakrA<k2>bruqaqvakrA
 {#bruqaqvakrA#}¦ <lex>f.</lex> {%ein <ab>best.</ab> Wassergefäss%} <ls>UTTAMAC. 66</ls>. Man könnte {#bfhadvakrA#} oder {#bfhadvaktrA#} vermuthen.
@@ -44063,7 +44063,7 @@
 {#aSIti/#}¦ I. 1.
 <LEND>
 <L>13357<pc>7-313-a<k1>aSItikApara<k2>aSItikApara
-{#aSItikApara#} und {#aSItipaYcaka#}¦ (<ab>vgl.</ab> <ls>MBH. 7,192,64. 193,43</ls>) 2.
+{#aSItikApara#} und {#aSItipaYcaka#}¦ (<ab>vgl.</ab> <ls>MBH. 7,192,64.</ls> <ls n="MBH. 7,">193,43</ls>) 2.
 <LEND>
 <L>13357.1<pc>7-313-a<k1>aSItipaYcaka<k2>aSItipaYcaka
 {{Lbody=13357}}
@@ -73439,7 +73439,7 @@
 {#a/nakzita#}¦ <lex>Adj.</lex> {%unverschnitten%} <ls><ab>ebend.</ab> 4,2,9 (32,8)</ls>.
 <LEND>
 <L>22125<pc>7-385-b<k1>anaDyAya<k2>anaDyAya
-{#anaDyAya#}¦ I. 1. {%eine zum Studium ungeeignete Zeit%} oder {%ein solcher Ort%} <ls>MBH. 13,93,117. fg. 94,25</ls>.
+{#anaDyAya#}¦ I. 1. {%eine zum Studium ungeeignete Zeit%} oder {%ein solcher Ort%} <ls>MBH. 13,93,117. fg.</ls> <ls n="MBH. 13,">94,25</ls>.
 <LEND>
 <L>22126<pc>7-385-b<k1>ananyajanman<k2>ananyajanman
 {#ananyajanman#}¦ <lex>m.</lex> {%der Liebesgott%} <ls>MĀLATĪM. (ed. Bomb.) 56,5</ls>.
