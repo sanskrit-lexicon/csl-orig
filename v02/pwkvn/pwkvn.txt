@@ -29246,7 +29246,7 @@
 {#pratyAsanna#}¦ 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>1.</hom> {#sad#} mit {#pratyA#}. — 2〉 <lex>n.</lex> [Page6-304-a] {%Nahe%} <ls>MBH. 12,203,10</ls>. <ls n="MBH. 12,">352,6</ls>.
 <LEND>
 <L>9148<pc>6-304-a<k1>pratyupaveSana<k2>pratyupaveSana
-{#pratyupaveSana#}¦ <lex>n.</lex> = {#pratyupaveSa#} <ls>R. 2,111,17 (120,17 GORR.)</ls>.
+{#pratyupaveSana#}¦ <lex>n.</lex> = {#pratyupaveSa#} <ls>R. 2,111,17</ls> (<ls>R. ed. GORR. 2,120,17</ls>).
 <LEND>
 <L>9149<pc>6-304-a<k1>praTamaBakzaRa<k2>praTamaBakzaRa
 {#praTamaBakzaRa#}¦ <lex>n.</lex> = {#praTamaBakza#} <ls><ab>Comm.</ab> zu ĀPAST. ŚR. 14,32,1</ls>.
@@ -39734,7 +39734,7 @@
 {#abalizWa#}¦ 1.
 <LEND>
 <L>12105<pc>7-305-b<k1>abalIyastva<k2>abalIyastva
-{#abalIyastva#}, {#abahirBAva#}, {#abahirvAsas#}, {#abahizkfta#}¦ (an der entsprechenden Stelle <ls n="R.">ed. Bomb. 3,74,19</ls> {%nicht uneingeweiht, wohl vertraut mit%} [<ab>Loc.</ab>]), {#abahis#} <ab n="und">u.</ab> {#abahupatnIka#} 4.
+{#abalIyastva#}, {#abahirBAva#}, {#abahirvAsas#}, {#abahizkfta#}¦ (an der entsprechenden Stelle <ls>R. ed. Bomb. 3,74,19</ls> {%nicht uneingeweiht, wohl vertraut mit%} [<ab>Loc.</ab>]), {#abahis#} <ab n="und">u.</ab> {#abahupatnIka#} 4.
 <LEND>
 <L>12105.1<pc>7-305-b<k1>abahirBAva<k2>abahirBAva
 {{Lbody=12105}}
@@ -39935,7 +39935,7 @@
 {#aBAvita#}¦ 3.
 <LEND>
 <L>12162<pc>7-305-c<k1>aBAskara<k2>aBAskara
-{#aBAskara#}¦ <lex>Adj.</lex> {%sonnenlos%} <ls>R. ed. Bomb. 4,40,68. 42,51. 43,59</ls>.
+{#aBAskara#}¦ <lex>Adj.</lex> {%sonnenlos%} <ls>R. ed. Bomb. 4,40,68.</ls> <ls n="R. ed. Bomb. 4,">42,51.</ls> <ls n="R. ed. Bomb. 4,">43,59</ls>.
 <LEND>
 <L>12163<pc>7-305-c<k1>aBi<k2>aBi<h>2
 <hom>2.</hom> {#aBi#}¦ <lex>Adj.</lex> {%furchtlos%} <ls>MBH. 1,221,67</ls>.
@@ -48035,7 +48035,7 @@
 {#iNgitamaraRa#}¦ 2.
 <LEND>
 <L>14513<pc>7-321-a<k1>iNgudi<k2>iNgudi
-{#iNgudi#}¦ <lex>f.</lex> metrisch <ab>st.</ab> {#iNgudI#} <ls>R. ed. Bomb. 2,104,8. 12. 14</ls>.
+{#iNgudi#}¦ <lex>f.</lex> metrisch <ab>st.</ab> {#iNgudI#} <ls>R. ed. Bomb. 2,104,8.</ls> <ls n="R. ed. Bomb. 2,104,">12.</ls> <ls n="R. ed. Bomb. 2,104,">14</ls>.
 <LEND>
 <L>14514<pc>7-321-a<k1>iNgyaratna<k2>iNgyaratna
 {#iNgyaratna#} und {#iNgyaSikzA#}¦ 2.
@@ -57791,7 +57791,7 @@
 {#cidDarman#}¦ <lex>Adj.</lex> {%den Geist als Attribut habend%} <ls>SĀṂKHYAS. 1,146</ls>.
 <LEND>
 <L>17330<pc>7-341-c<k1>cint<k2>cint
-{#cint#}, {#vicintamAna#}¦ <ls>R. ed. Bomb. 2. 83,26</ls> [Page7-341-d] fehlerhaft für {#vicintayAna#}.
+{#cint#}, {#vicintamAna#}¦ <ls>R. ed. Bomb. 2,83,26</ls> [Page7-341-d] fehlerhaft für {#vicintayAna#}.
 <LEND>
 <L>17330.1<pc>7-341-c<k1>vicintamAna<k2>vicintamAna
 {{Lbody=17330}}
@@ -60512,7 +60512,7 @@
 {#dA/nApnas#}¦ III. 4.
 <LEND>
 <L>18118<pc>7-348-a<k1>dAntaka<k2>dAntaka
-{#dAntaka#}¦ <lex>Adj.</lex> {%elfenbeinern%} <ls>R. ed. Bomb. 3,55,8. 10</ls>.
+{#dAntaka#}¦ <lex>Adj.</lex> {%elfenbeinern%} <ls>R. ed. Bomb. 3,55,8.</ls> <ls n="R. ed. Bomb. 3,55,">10</ls>.
 <LEND>
 <L>18119<pc>7-348-a<k1>dAntadeva<k2>dAntadeva
 {#dAntadeva#}, {#dAntaBadra#} und {#dAntasena#}¦ 5.
@@ -62804,7 +62804,7 @@
 {#nivfttasaMtApIya#}¦ 5.
 <LEND>
 <L>18806<pc>7-353-c<k1>niSAkara<k2>niSAkara
-{#niSAkara#}¦ auch <ab>N. pr.</ab> eines <is>Ṛṣi</is> <ls>R. ed. Bomb. 4,60,8. 9. 13. 63,4. 10</ls>.
+{#niSAkara#}¦ auch <ab>N. pr.</ab> eines <is>Ṛṣi</is> <ls>R. ed. Bomb. 4,60,8.</ls> <ls n="R. ed. Bomb. 4,60,">9.</ls> <ls n="R. ed. Bomb. 4,60,">13.</ls> <ls n="R. ed. Bomb. 4,">63,4.</ls> <ls n="R. ed. Bomb. 4,63,">10</ls>.
 <LEND>
 <L>18807<pc>7-353-c<k1>niSAcara<k2>niSAcara
 {#niSAcara#}¦ III. 5.
@@ -63611,7 +63611,7 @@
 {#paTikAy#}¦ {%den Wanderer —, den Reisenden spielen%}. {#°yita#} <lex>n.</lex> <ab>impers.</ab> <ls>SUBHĀṢITĀV. 1215</ls>.
 <LEND>
 <L>19058<pc>7-355-d<k1>pad<k2>pad<h>1
-<hom>1.</hom> {#pad#}¦ mit {#ati#} IV. 4. — <ab>Caus.</ab> IV. 4. — Mit {#aByava#} {%Jmd%} (<ab>Acc.</ab>) {%zu Hülfe kommen%} <ls>R. ed. Bomb. 3,59,18</ls>. {#aByavapanna#} mit <ab>act.</ab> <ab>Bed.</ab> <ls n="R. ed. Bomb. 3,">67,17. 68,22</ls>. — Mit {#pratyA#} IV. 4. — Mit {#aByupa#} IV. {#°panna#} am Ende eines <ab>Comp.</ab> {%versehen mit, im Besitz von%} <ls>JĀTAKAM. 8</ls>. — Mit {#vyupa#} <ab>Act.</ab> {%heimkehren%} <ls>DIVYĀVAD. 41,27</ls>. {%sich widersetzen%} <ls n="DIVYĀVAD.">243,22</ls>. {#vyutpanna#} {%sich widersetzend%} <ls n="DIVYĀVAD.">447,23</ls>. — Mit {#ni#} IV. {#*°panna#} {%liegend%} <ls>MAHĀVY. 263,79</ls>. — Mit {#parinis, °nizpanna#} {%vollkommen ausgebildet%} <ls>JĀTAKAM. 1</ls>. — Mit {#anuprati#} <ab>Caus.</ab> <ab>Med.</ab> {%allmählich hinführen zu%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 24,33</ls>. — Mit {#viprati#} IV. 5. <ab>Med.</ab> {%eine Sünde begehen, sündigen%} <ls>DIVYĀVAD. 293,20</ls>. — Mit {#sam#} IV. 6.
+<hom>1.</hom> {#pad#}¦ mit {#ati#} IV. 4. — <ab>Caus.</ab> IV. 4. — Mit {#aByava#} {%Jmd%} (<ab>Acc.</ab>) {%zu Hülfe kommen%} <ls>R. ed. Bomb. 3,59,18</ls>. {#aByavapanna#} mit <ab>act.</ab> <ab>Bed.</ab> <ls n="R. ed. Bomb. 3,">67,17.</ls> <ls n="R. ed. Bomb. 3,">68,22</ls>. — Mit {#pratyA#} IV. 4. — Mit {#aByupa#} IV. {#°panna#} am Ende eines <ab>Comp.</ab> {%versehen mit, im Besitz von%} <ls>JĀTAKAM. 8</ls>. — Mit {#vyupa#} <ab>Act.</ab> {%heimkehren%} <ls>DIVYĀVAD. 41,27</ls>. {%sich widersetzen%} <ls n="DIVYĀVAD.">243,22</ls>. {#vyutpanna#} {%sich widersetzend%} <ls n="DIVYĀVAD.">447,23</ls>. — Mit {#ni#} IV. {#*°panna#} {%liegend%} <ls>MAHĀVY. 263,79</ls>. — Mit {#parinis, °nizpanna#} {%vollkommen ausgebildet%} <ls>JĀTAKAM. 1</ls>. — Mit {#anuprati#} <ab>Caus.</ab> <ab>Med.</ab> {%allmählich hinführen zu%} (<ab>Acc.</ab>) <ls>JĀTAKAM. 24,33</ls>. — Mit {#viprati#} IV. 5. <ab>Med.</ab> {%eine Sünde begehen, sündigen%} <ls>DIVYĀVAD. 293,20</ls>. — Mit {#sam#} IV. 6.
 <LEND>
 <L>19059<pc>7-355-d<k1>pada<k2>pada
 {#pada#}¦ IV. 11〉 <ls>DHARMAŚARM. 1,8</ls>. <ls n="DHARMAŚARM.">4,36</ls>. <ls n="DHARMAŚARM.">11,16</ls>. <ls n="DHARMAŚARM.">13,25</ls>. <ls n="DHARMAŚARM. 13,">62</ls>. <ls n="DHARMAŚARM.">15,3</ls>.
