@@ -40403,7 +40403,7 @@
 {{Lbody=12300}}
 <LEND>
 <L>12301<pc>7-306-c<k1>aBiziYcana<k2>aBiziYcana
-{#aBiziYcana#}¦ <lex>n.</lex> = {#aBizecana#} (so <ls>SCHL.</ls>) 2〉 <ls>R. ed. Bomb. 2,107,9</ls>.
+{#aBiziYcana#}¦ <lex>n.</lex> = {#aBizecana#} (so <ls>SCHL. 2,107,9</ls>) 2〉 <ls>R. ed. Bomb. 2,107,9</ls>.
 <LEND>
 <L>12302<pc>7-306-c<k1>aBizecanI<k2>*aBizecanI
 {#*aBizecanI#}¦ <lex>f.</lex> {%eine <ab>best.</ab>%} <is>Dhāraṇī</is> <ls>MAHĀVY. 25</ls>.
