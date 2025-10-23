@@ -44677,8 +44677,8 @@
 <L>13528<pc>7-314-b<k1>asakfdAvartin<k2>asakfdAvartin
 {#asakfdAvartin#}¦ 6.
 <LEND>
-<L>13529<pc>7-314-b<k1>asaMkO<k2>asaMkO
-{#asaMkO#}¦ I. <ls>ŚIŚ. 7,53</ls> = <ls>SĀH. D. 49, ult. fg.</ls>
+<L>13529<pc>7-314-b<k1>asakO<k2>asakO
+{#asaMkO#}¦ I. <ls>ŚIŚ. 7,53</ls> = <ls>SĀH. D. 49,21. fg.</ls>
 <LEND>
 <L>13530<pc>7-314-b<k1>asakta<k2>asakta
 {#asakta#}¦ I. 1.
