@@ -18665,7 +18665,7 @@
 {#tAnti#}¦ <lex>f.</lex> {%Erstickung%} <ls><ab>Comm.</ab> zu ĀPAST. ŚR. 12,11,8</ls>.
 <LEND>
 <L>5691<pc>4-299-c<k1>tApin<k2>tA\pi\n
-{#tA\pi\n#}¦ scheinbar <ls>TBR. 2,1,3?, 1</ls>. Es ist zu lesen {#upA^rama\tAtA^pi\#} (<ab>Aor.</ab>) {#vE#}.
+{#tA\pi\n#}¦ scheinbar <ls>TBR. 2,1,3,1</ls>. Es ist zu lesen {#upA^rama\tAtA^pi\#} (<ab>Aor.</ab>) {#vE#}.
 <LEND>
 <L>5692<pc>4-299-c<k1>tAmarasekzaRA<k2>tAmarasekzaRA
 {#tAmarasekzaRA#}¦ <lex>f.</lex> {%eine Lotusäugige%} <ls>BHĀM. V. 2,153</ls>.
