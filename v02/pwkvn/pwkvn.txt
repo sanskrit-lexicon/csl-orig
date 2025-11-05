@@ -16310,7 +16310,7 @@
 {#Durya#}¦ 1〉b〉 <ab>Nom. abstr.</ab> {#°tA#} <lex>f.</lex> <ls>ŚIŚ. 1,41</ls>.
 <LEND>
 <L>4923<pc>3-264-c<k1>DUmra<k2>DUmra/
-{#DUmra/#}¦ <lex>m.</lex> wohl {%Kamel%} <ls>TS. 1,8,31?, 1</ls>.
+{#DUmra/#}¦ <lex>m.</lex> wohl {%Kamel%} <ls>TS. 1,8,21,1</ls>.
 <LEND>
 <L>4924<pc>3-264-c<k1>DUmraka<k2>DUmraka
 {#DUmraka#}¦ <lex>Adj.</lex> {%grau%} als <ab>Bez.</ab> {%der eilften unbekannten Grösse%} <ls>COLEBR. Alg. 228</ls>.
@@ -17297,7 +17297,7 @@
 {#aBimata#}¦ 1〉 <lex>Adj.</lex> <ab>s. u.</ab> {#man#} mit {#aBi#}. — 2〉 <lex>n.</lex> {%Wunsch, Verlangen%} <ls>Spr. 2810</ls>.
 <LEND>
 <L>5245<pc>4-294-b<k1>aBivarta<k2>aBivarta/
-{#aBivarta/#}¦ <lex>m.</lex> = {#aBIvarta/#} 2〉b〉 <ls>TS. 7,5,2,4</ls>.
+{#aBivarta/#}¦ <lex>m.</lex> = {#aBIvarta/#} 2〉b〉 <ls>TS. 7,5,7,4</ls>.
 <LEND>
 <L>5246<pc>4-294-b<k1>aBivAtam<k2>aBivAta/m
 {#aBivAta/m#}¦ mit <ab>Gen.</ab> {%mit dem Winde von%} — <ls>MAITR. S. 2,2,1 (15,8)</ls>.
@@ -17570,7 +17570,7 @@
 {#avaruRa/m#}¦ <lex>Adv.</lex> {%ohne in%} <is>Varuṇa</is>ʼs {%Gewalt zu verfallen%} <ls>MAITR. S. 2,1,2 (2,9). 5,6 (55,15)</ls>. <ab>Vgl.</ab> {#nirvaruRa/m#} weiter unten.
 <LEND>
 <L>5334<pc>4-295-b<k1>avaruDam<k2>avaru/Dam
-{#avaru/Dam#} (<ls>TS. 2,3,7,1</ls>. <ls n="TS.">5,4,1. 2</ls>) und {#avaru/nDam#} (<ls>MAITR. S. 1,10,12</ls>)¦ <ab>Acc.</ab> <ab>Infin.</ab> von <hom>2.</hom> {#ruD#} mit {#ava#}.
+{#avaru/Dam#} (<ls>TS. 2,3,7,1</ls>. <ls n="TS.">5,4,1,2</ls>) und {#avaru/nDam#} (<ls>MAITR. S. 1,10,12</ls>)¦ <ab>Acc.</ab> <ab>Infin.</ab> von <hom>2.</hom> {#ruD#} mit {#ava#}.
 <LEND>
 <L>5334.1<pc>4-295-b<k1>avarunDam<k2>avaru/nDam
 {{Lbody=5334}}
@@ -18164,7 +18164,7 @@
 {#kavalIkAra#}¦ <lex>m.</lex> {%das Verschlucken%} <ls>BHĀM. V. 1,54</ls>.
 <LEND>
 <L>5528<pc>4-297-c<k1>kavy<k2>kavy
-{#kavy#}¦, <ab>Partic.</ab> {#kavya/nt#} {%klug, weise%} <ls>TS. 7,1,20</ls>. <ls n="TS. 7,1,">1</ls>.
+{#kavy#}¦, <ab>Partic.</ab> {#kavya/nt#} {%klug, weise%} <ls>TS. 7,1,20,1</ls>. 
 <LEND>
 <L>5529<pc>4-297-c<k1>kAkamfgagocarita<k2>kAkamfgagocarita
 {#kAkamfgagocarita#}¦ <lex>Adj.</lex> {%die Weise der Krähen%} (beim Trinken), {%der Gazellen%} (beim Essen) {%und der Kühe%} (beim Wasserlassen) {%beobachtend%} <ls>BHĀG. P. 5,5,34</ls>.
@@ -21734,7 +21734,7 @@
 {#asPuwa#}¦ <lex>n.</lex> {%Unklarheit des Ausdrucks%}.
 <LEND>
 <L>6704<pc>5-248-b<k1>asmaddAtra<k2>asma/ddAtra
-{#asma/ddAtra#}¦ <lex>Adj.</lex> {%von uns gegeben%} <ls>TS. 1,4,42,2</ls>.
+{#asma/ddAtra#}¦ <lex>Adj.</lex> {%von uns gegeben%} <ls>TS. 1,4,43,2</ls>.
 <LEND>
 <L>6705<pc>5-248-b<k1>asvArTa<k2>asvArTa
 {#asvArTa#}¦ <lex>Adj.</lex> {%nutzlos%} <ls>BHĀG. P. 6,10,10</ls>.
