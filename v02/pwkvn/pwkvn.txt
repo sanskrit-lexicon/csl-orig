@@ -20429,7 +20429,7 @@
 {#anvazwakI#}¦ (<ab>s. u.</ab> {#anvazwakA#}) <ls>VASIṢṬHA 11,43</ls>.
 <LEND>
 <L>6278<pc>5-243-c<k1>anvArohaRa<k2>anvArohaRa
-{#anvArohaRa#}¦ <ls>VIṢṆU</ls> in <ls>MIT.</ls> zu <ls>YĀJÑ. 1,86, Z. 4</ls>.
+{#anvArohaRa#}¦ <ls>VIṢṆU</ls> in <ls>MIT.</ls> zu <ls>YĀJÑ. 1,86</ls>, Z. 4.
 <LEND>
 <L>6279<pc>5-243-c<k1>anvezizizu<k2>anvezizizu
 {#anvezizizu#}¦ <lex>Adj.</lex> als Erklärung von {#didfkzu#} <ls><ab>Comm.</ab> zu R. ed. Bomb. 1,1,71</ls>.
@@ -72968,7 +72968,7 @@
 {#somavikrayin#}¦ VII. <ls>MAITR. S.</ls> ist {#°krayintso^maM#} zu lesen.
 <LEND>
 <L>21972<pc>7-383-c<k1>somAyana<k2>somAyana
-{#somAyana#}¦ <lex>n.</lex> {%eine <ab>best.</ab> Kasteiung%} <ls>VIJÑ.</ls> zu <ls>YĀJÑ. 3,265. fg. 289. fg.</ls> <ab>Vgl.</ab> {#cAndrAyaRa#}.
+{#somAyana#}¦ <lex>n.</lex> {%eine <ab>best.</ab> Kasteiung%} <ls>VIJÑ.</ls> zu <ls>YĀJÑ. 3,265. fg.</ls> <ls n="YĀJÑ. 3,">289. fg.</ls> <ab>Vgl.</ab> {#cAndrAyaRa#}.
 <LEND>
 <L>21973<pc>7-383-c<k1>sODAy<k2>sODAy
 {#sODAy#}¦, {#°yate#} {%zu Nektar werden%} <ls>PĀDĀRAVINDAŚ. 6</ls>.
