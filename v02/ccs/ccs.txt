@@ -132567,7 +132567,7 @@ jussus*. {#upA#} {%u.%} {#samupA#} sich begeben in
 {%(auch übertr.).%} {#samA#} betreten, besteigen,
 geraten in, sich anschicken zu {%(Acc.)%};
 gebrauchen, annehmen, ausführen. {#ud#}
-außtehen {%o.%} aufgehen {%(Sonne u. Mond)%},
+aufstehen {%o.%} aufgehen {%(Sonne u. Mond)%},
 hervorkommen, einkommen von {%(Abl.)%},
 sich erheben, sich aufraffen zu {%(Dat.)%},
 handeln. {%p. p.%} {#utTita#} aufgestanden,
