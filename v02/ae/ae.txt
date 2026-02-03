@@ -22968,7 +22968,7 @@ evidence’ {#leKyapramARaM#}.
 <LEND>
 
 <L>3141<pc>119<k1>dog<k2>dog
-{@Dog,@}¦ {%s.%} {#Svan#} {%m.%} {#kukkaraH, sArameyaH, SunakaH;#}
+{@Dog,@}¦ {%s.%} {#Svan#} {%m.%} {#kukkuraH, sArameyaH, SunakaH;#}
 {#kOleyakaH, BazakaH, mfgadaMSakaH;#} ‘d. -cheap’
 {#atisvalpamUlya;#} ‘d. dass’ {#atyuzRakAlaH;#}
 ‘mad d.’ {#alarkaH;#} ‘go to the d. s’
