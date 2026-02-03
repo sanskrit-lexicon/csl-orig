@@ -132574,7 +132574,7 @@ handeln. {%p. p.%} {#utTita#} aufgestanden,
 stehend, aufrecht; herausstehend, hervorragend; <lbinfo n="10"/>
 enstanden; eingetreten,
 eingegangen {%(Gelder)%}; eifrig, hingegeben
-an {%(Loc.). Caus.%} {#utTApayati#} außtehen
+an {%(Loc.). Caus.%} {#utTApayati#} aufstehen
 machen {%o.%} helfen, aufheben, aufrichten,
 herausholen, hervorbringen, beleben,
 ermuntern, erwecken. {#anUd#} außtehen
