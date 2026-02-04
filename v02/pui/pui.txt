@@ -77271,7 +77271,7 @@ Kumbakonam, 1916.
 Press, Bombay, 1912.
 <HI>3. {%The Matsya Purāṇa:%} Anandasrama, Poona, 1907.
 <HI>4. {%The Vāyu Purāṇa:%} Anandasrama, Poona, 1905.
-<HI>5. {%The Vishṇu Purāṇa:%} Sri Venkateswara Steam
+<HI>5. {%The Viṣṇu Purāṇa:%} Sri Venkateswara Steam
 Press, Bombay, 1910.
 <H>ABBREVIATIONS
 <HI>{%Bhā.%} — Bhāgavata.
@@ -77282,8 +77282,8 @@ Press, Bombay, 1910.
 <HI>{%M. P.%} — Matsya Purāṇa.
 <HI>{%Vā.%} — Vāyu.
 <HI>{%Vā. P.%} — Vāyu Purāṇa.
-<HI>{%Vi.%} — Vishṇu.
-<HI>{%Vi. P.%} — Vishṇu Purāṇa. PUI-3-1-789
+<HI>{%Vi.%} — Viṣṇu.
+<HI>{%Vi. P.%} — Viṣṇu Purāṇa. PUI-3-1-789
 [Page3-001+ 42]
 <H>{@Ya@}
 
@@ -120311,7 +120311,7 @@ Kumbakonam, 1916.
 Press, Bombay, 1912.
 <HI>3. {%The Matsya Purāṇa:%} Anandasrama, Poona, 1907.
 <HI>4. {%The Vāyu Purāṇa:%} Anandasrama, Poona, 1905.
-<HI>5. {%The Vishṇu Purāṇa:%} Sri Venkateswara Steam
+<HI>5. {%The Viṣṇu Purāṇa:%} Sri Venkateswara Steam
 Press, Bombay, 1910.
 <H>ABBREVIATIONS
 <P>{%Bhā.%} — Bhāgavata.
@@ -120322,5 +120322,5 @@ Press, Bombay, 1910.
 <P>{%M. P.%} — Matsya Purāṇa.
 <P>{%Vā.%} — Vāyu.
 <P>{%Vā. P.%} — Vāyu Purāṇa.
-<P>{%Vi.%} — Vishṇu.
-<P>{%Vi. P.%} — Vishṇu Purāṇa.
+<P>{%Vi.%} — Viṣṇu.
+<P>{%Vi. P.%} — Viṣṇu Purāṇa.
