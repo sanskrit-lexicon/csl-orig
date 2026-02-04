@@ -21840,7 +21840,7 @@ b end.]
 around, envelope, wrap up, dress.
 <LEND>
 <L>3959<pc>248-a<k1>vizRu<k2>vi/zRu
-{@víṣṇu,@}¦ {%<ab>m.</ab>%} Vishnu, name of a god, whose
+{@víṣṇu,@}¦ {%<ab>m.</ab>%} Viṣṇu, name of a god, whose
 chief work in the Veda is the measuring
 of the sky in three paces, and who became
 one of the Hindu Trinity, and extremely
@@ -21850,9 +21850,9 @@ of India; {%<ab>cf.</ab>%} {@brahmán@} 2 {%and%}
 <ls n="wg,1162">1162.</ls>]
 <LEND>
 <L>3960<pc>248-a<k1>vizRuSarman<k2>vizRu-Sarman
-{@viṣṇu-śarman,@}¦ {%<ab>m.</ab>%} Vishnuśarman,
-name of a sage. [‘having <ab n="Vishnu">V.</ab> as his
-protection’ or else ‘the delight of <ab n="Vishnu">V.</ab>’:
+{@viṣṇu-śarman,@}¦ {%<ab>m.</ab>%} Viṣṇuśarman,
+name of a sage. [‘having <ab n="Viṣṇu">V.</ab> as his
+protection’ or else ‘the delight of <ab n="Viṣṇu">V.</ab>’:
 the <ab>mg</ab> of the <ab>cpd</ab> depends on its accent
 (see <ls n="wg,1302">1302<sup>1</sup></ls> and <ls n="wg,1267">1267<sup>1</sup></ls>), and this is not
 known.]

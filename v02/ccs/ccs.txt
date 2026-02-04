@@ -7125,7 +7125,7 @@ Klungheit.
 
 <L>1637<pc>025-2<k1>amareSvara<k2>amareSvara
 {#amareSvara#}¦ {%m.%} Herr der Unsterblichen, {%Bein.%}
-{%Vishnu's o. Indra's%}
+{%Viṣṇu's o. Indra's%}
 <LEND>
 
 <L>1638<pc>025-2<k1>amaropama<k2>amaropama
@@ -16491,7 +16491,7 @@ die Erde, {%Du.%} Erde und Himmel; {%mit%}
 <LEND>
 
 <L>3699<pc>061-1<k1>urugAya<k2>urugAya/
-{#urugAya/#}¦ {%dass.%}, weit {%(Weg); m. Beim Vishnu's%};
+{#urugAya/#}¦ {%dass.%}, weit {%(Weg); m. Beim Viṣṇu's%};
 {%n.%} freier Raum.
 <LEND>
 
@@ -66612,7 +66612,7 @@ Blatt {%(nur m.).%}
 
 <L>14486<pc>256-1<k1>puRqarIkanayana<k2>puRqarIkanayana
 {#puRqarIkanayana#}¦ {%m.%} der Lotusäugige {%(Bein.%}
-{%Vishnu's.%}
+{%Viṣṇu's.%}
 <LEND>
 
 <L>14487<pc>256-1<k1>puRqarIkamuKI<k2>puRqarIkamuKI
@@ -78915,7 +78915,7 @@ Schauspieler; {%Pl. N. eines Stammes.%}
 <LEND>
 
 <L>17184<pc>302-1<k1>Baru<k2>Baru
-{#Baru#}¦ {%m. Bein. Vishnu's u. Civa's.%}
+{#Baru#}¦ {%m. Bein. Viṣṇu's u. Civa's.%}
 <LEND>
 
 <L>17185<pc>302-1<k1>Baruja<k2>Baruja
@@ -135427,7 +135427,7 @@ tötend.
 <L>29193<pc>527-1<k1>hayaSiras<k2>hayaSiras
 {#hayaSiras#}¦ {%n.%} Pferdekopf. eine best. mystische <lbinfo n="4"/>
 Waffe; {%Adj.%} einen Pf. habend
-{%(Sonne o. Vishnu).%}
+{%(Sonne o. Viṣṇu).%}
 <LEND>
 
 <L>29194<pc>527-1<k1>hayaSIrza<k2>hayaSIrza

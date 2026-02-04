@@ -15887,7 +15887,7 @@ year 124.
 I, year 124.
 <HI>XV. Damodarpur copper-plate inscription, year 224.
 <HI>XVI. Damodarpur copper-plate inscription, year 224.
-<HI>XVII. Nalanda seal of Vishnugupta.
+<HI>XVII. Nalanda seal of Viṣṇugupta.
 <HI>XVIII. Mandasor inscription of Malava Samvat 524.
 <HI>XIX. Baigram copper-plate inscription, year 128, I side.
 <HI>XX. Baigram copper-plate inscription, year 128, II side.
@@ -15912,7 +15912,7 @@ year 188.
 <H>XIV. Damodarpur copper-plate inscription of Kumaragupta I, year 124, ({%A.S.I.%})
 <H>XV. Damodarpur copper-plate inscription, year 224, ({%A.S.I.%})
 [Page-VIII+ 2]
-<H>XVII. Naianda seal of Vishnugupta, ({%A.S.I.%})
+<H>XVII. Naianda seal of Viṣṇugupta, ({%A.S.I.%})
 <H>XVIII. Mandasor inscription of Malava Samvat 524, ({%A.S.I.%})
 [Page-IX+ 2]
 <H>XIX. Baigram copper-plate inscription, year 128, I side, ({%A.S.I.%})
