@@ -745,13 +745,13 @@ levied’; a fiscal term meaning the same thing as {%ādāya,%} i. e.
 income or impost; dues ({%Ep. Ind.,%} Vol. XXV, p. 237).
 <LEND>
 
-<L>83<pc>005<k1>A<k2>A
-{%ā%}¦ḏ{%ha%} (IE 8-6), same as {%āḍhika%} or {%āḍhaka;%} a measure
+<L>83<pc>005<k1>AQa<k2>AQa
+{%āḏha%}¦ (IE 8-6), same as {%āḍhika%} or {%āḍhaka;%} a measure
 of capacity; a land measure also called {%āḍhavāpa.%}
 <LEND>
 
-<L>84<pc>005<k1>A<k2>A
-{%ā%}¦ḏ{%hā%} (IE 8-6), Bengali form of {%āḍhaka%} and {%āḍhavāpa.%}
+<L>84<pc>005<k1>AQA<k2>AQA
+{%āḏhā%}¦ (IE 8-6), Bengali form of {%āḍhaka%} and {%āḍhavāpa.%}
 <LEND>
 
 <L>85<pc>005<k1>aDaH<k2>aDaH
@@ -5229,7 +5229,7 @@ in a village for teaching.
 <L>930<pc>053<k1>BAvya<k2>BAvya
 {%bhāvya,%}¦ cf. {%rāja-bhāvya-sarva-pratyāya-sameta%} (EI 23),
 income, levies; same as {%ābhāvya.%} According to some, {%bhāvya%}
-and {%ābhāvya%} mean {%pāgh%}ḏ{%ī.%} Cf. {%talār-ābhāvya.%}
+and {%ābhāvya%} mean {%pāghḏī.%} Cf. {%talār-ābhāvya.%}
 <div n="P">({%LP%}), probably the same as {%bhāvyapada-paṭṭa.%}
 <LEND>
 
@@ -5850,8 +5850,8 @@ derived from Sanskrit {%viṃśopaka.%}
 <LEND>
 
 <L>1042<pc>060<k1>bIwaka<k2>bIwaka
-{%bīṭaka%}¦ ({%Ep. Ind.,%} Vol. I, p. 279), modern {%bī%}ḏ{%ā%} (i. e. a
-betel {%bī%}ḏ{%ā%}).
+{%bīṭaka%}¦ ({%Ep. Ind.,%} Vol. I, p. 279), modern {%bīḏā%} (i. e. a
+betel {%bīḏā%}).
 <LEND>
 
 <L>1043<pc>060<k1>bittuvawwa<k2>bittuvawwa
@@ -6133,7 +6133,7 @@ standard one; cf. {%viṣaya-māna.%}
 
 <L>1097<pc>063<k1>bfhannfpati<k2>bfhan-nfpati
 {%Bṛhan-nṛpati%}¦ (IE 8-2), predecessor of the ruling monarch;
-called {%Periya-devar%} in Tamil; cf. Oḏiyā {%Ba%}ḏ{%a-Narasiṃha%} and
+called {%Periya-devar%} in Tamil; cf. Oḏiyā {%Baḏa-Narasiṃha%} and
 Telugu {%Pedda-Narasiṃha.%} See {%Bṛhaddeva.%} Cf. {%Ep. Ind.,%} Vol.
 XXXII, p. 231 and note 2; {%JAS,%} Letters, Vol. XX, p. 212.
 <LEND>
@@ -6152,7 +6152,7 @@ is similar to {%Kumārāmātya.%}
 <LEND>
 
 <L>1101<pc>063<k1>bfhatpurohita<k2>bfhat-purohita
-{%Bṛhat-purohita,%}¦ cf. {%Ba%}ḏ{%ā-purohit%} (EI 24), ‘the high priest’.
+{%Bṛhat-purohita,%}¦ cf. {%Baḏā-purohit%} (EI 24), ‘the high priest’.
 <LEND>
 
 <L>1102<pc>063<k1>bfhatpuruza<k2>bfhatpuruza
@@ -6197,8 +6197,8 @@ and note), Saturday or Thurdsday (A. Venkatasubbiah, {%Some%}
 of a Buddhist monastery.
 <LEND>
 
-<L>1110<pc>063<k1>bu<k2>bu
-{%Bu%}¦ḏ{%hāleṅkā%} (IE 8-3), Oḏiyā; same as {%Mahāpādamūlika,%}
+<L>1110<pc>063<k1>buQAleNkA<k2>buQAleNkA
+{%Buḏhāleṅkā%} (IE 8-3), Oḏiyā; same as {%Mahāpādamūlika,%}
 ‘chief attendant.’
 <LEND>
 
@@ -6244,8 +6244,8 @@ husked grain. Cf. {%kola-bhaṃdālu.%}
 a Parganā.
 <LEND>
 
-<L>1120<pc>064<k1>cA<k2>cA
-{%cā%}¦ḏ{%ā%} (LP), a camp; an attacking party.
+<L>1120<pc>064<k1>cAQA<k2>cAqA
+{%cāḏā%}¦ (LP), a camp; an attacking party.
 <LEND>
 
 <L>1121<pc>064<k1>cEtrapavitra<k2>cEtra-pavitra, cEtra-pavitraka
@@ -6570,7 +6570,7 @@ small copper coin.
 
 <L>1181<pc>067<k1>caw<k2>caw
 {%caṭ,%}¦ cf. {%alīkaṃ caṭāpitam%} (LP), ‘circulated a false rumour’.
-<div n="P">{%Cf. caṭanti%} (LP); ‘to accumulate’; also cf. Gujarātī {%ca%}ḏ{%hśe.%}
+<div n="P">{%Cf. caṭanti%} (LP); ‘to accumulate’; also cf. Gujarātī {%caḏhśe.%}
 <LEND>
 
 <L>1182<pc>067<k1>cAwa<k2>cAwa
@@ -6608,12 +6608,12 @@ But {%cāṭa%} is used in inscriptions in the sense of a royal official.
 
 <L>1183<pc>068<k1>cawApaka<k2>cawApaka
 {%caṭāpaka%}¦ (LP), ‘increasing [the rent already fixed]’; cf.
-Gujarātī {%ca%}ḏ{%hāvo.%}
+Gujarātī {%caḏhāvo.%}
 <LEND>
 
 <L>1184<pc>068<k1>cawApya<k2>cawApya
 {%caṭāpya%}¦ (LP), ‘to be entered [on the back of the bond]’;
-cf. Gujarātī {%ca%}ḏ{%hāvavā.%}
+cf. Gujarātī {%caḏhāvavā.%}
 <LEND>
 
 <L>1185<pc>068<k1>cawI<k2>ca-wI
@@ -7121,7 +7121,7 @@ officer in charge of the production of knives and swords.
 <LEND>
 
 <L>1274<pc>074<k1>Cuw<k2>Cuw
-{%chuṭ%}¦ (LP), cf. {%choṭanīya;%} Gujarātī {%cho%}ḏ{%āvavuṃ;%} also cf.
+{%chuṭ%}¦ (LP), cf. {%choṭanīya;%} Gujarātī {%choḏāvavuṃ;%} also cf.
 {%granthi-baddhair = api drammaiḥ kṣetraṃ choṭayituṃ dhāraṇiko na%}
 {%labhate,%} ‘[when the date is already over], the debtor will not
 get his farm liberated by the ready money tied in a piece of
@@ -10306,7 +10306,7 @@ a variation of {%puṭṭi.%}
 <LEND>
 
 <L>1861<pc>109<k1>gARWi<k2>gARWi
-{%gāṇṭhi%}¦ (LP), a package; cf. Gujarātī {%gāṇṭh%}ḏ{%ī.%}
+{%gāṇṭhi%}¦ (LP), a package; cf. Gujarātī {%gāṇṭhḏī.%}
 <LEND>
 
 <L>1862<pc>109<k1>gamAgamika<k2>gamAgamika
@@ -10679,7 +10679,7 @@ pillar for the dead members of one's family. See {%yaṣṭi.%}
 [Page-113+ 40]
 
 <L>1932<pc>113<k1>gAtrI<k2>gAtrI
-{%gātrī%}¦ (LP), cf. Gujarātī {%gā%}ḏ{%a,%} a cart.
+{%gātrī%}¦ (LP), cf. Gujarātī {%gāḏa,%} a cart.
 <LEND>
 
 <L>1933<pc>113<k1>gOda<k2>gOda
@@ -10792,14 +10792,14 @@ hill bird’.
 {%gevaka%}¦ (CII 1), inferior.
 <LEND>
 
-<L>1954<pc>114<k1>GA<k2>GA
-{%ghā%}¦ḏ{%ā%} (Chamba), a system by which the tiller receives one
-half of the produce. See {%ghā%}ḏ{%otā.%}
+<L>1954<pc>114<k1>GAqA<k2>GAqA
+{%ghāḏā%}¦ (Chamba), a system by which the tiller receives one
+half of the produce. See {%ghāḏotā.%}
 <LEND>
 
-<L>1955<pc>114<k1>GA<k2>GA
-{%ghā%}¦ḏ{%aka,%} also called {%ghā%}ḏ{%ī%} (Chamba); land cultivated on
-the {%ghā%}ḏ{%ā%} system.
+<L>1955<pc>114<k1>GAqaka<k2>GAqaka
+{%ghāḏaka,%}¦ also called {%ghāḏī%} (Chamba); land cultivated on
+the {%ghāḏā%} system.
 <LEND>
 
 <L>1956<pc>114<k1>Gadama<k2>Gada-ma
@@ -10812,8 +10812,8 @@ of land; a variation of {%ma%}ṟ{%uturu%} (q. v.). Cf. {%kāl-ma%}ṟ{%uturu.%}
 {%gāl-puṭṭi.%}
 <LEND>
 
-<L>1958<pc>114<k1>GA<k2>GA
-{%ghā%}¦ḏ{%ī,%} cf. {%ghā%}ḏ{%aka.%}
+<L>1958<pc>114<k1>GAqI<k2>GAqI
+{%ghāḏī,%}¦ cf. {%ghāḏaka.%}
 <LEND>
 
 <L>1959<pc>114<k1>GaqiyAramu<k2>GaqiyAramu
@@ -10823,10 +10823,10 @@ on water for measuring time, an hour being counted when
 it sinks. Cf. {%ghaṭikā-gṛha.%}
 <LEND>
 
-<L>1960<pc>114<k1>GA<k2>GA
-{%ghā%}¦ḏ{%otā%} (Chamba), spoken of a land tilled on the condition
+<L>1960<pc>114<k1>GAqotA<k2>GAqotA
+{%ghāḏotā%}¦ (Chamba), spoken of a land tilled on the condition
 that one half of the produce should go to the owner. See
-{%ghā%}ḏ{%ā,%} etc.
+{%ghāḏā,%} etc.
 <LEND>
 
 <L>1961<pc>114<k1>Gale<k2>Gale
@@ -11682,7 +11682,7 @@ of the sanctum, where devotees carry on worship, etc.
 
 <L>2124<pc>123<k1>gujarAtI<k2>gujarAtI
 {%Gujarātī,%}¦ the people, language and alphabet of Gujarat.
-See {%Bo%}ḏ{%iyā.%}
+See {%Boḏiyā.%}
 <LEND>
 
 <L>2125<pc>123<k1>gulikA<k2>gulikA
@@ -13135,8 +13135,8 @@ Vol. XVIII, p. 114, text line 55, cf. line 43); also {%kūpa-kaccha%}
 {%kara.%}
 <LEND>
 
-<L>2413<pc>137<k1>ka<k2>ka
-{%ka%}¦ḏ{%ā%} (IE 8-6; EI 19), Bengali; the cowrie-shell regarded
+<L>2413<pc>137<k1>kaqA<k2>kaqA
+{%kaḏā%}¦ (IE 8-6; EI 19), Bengali; the cowrie-shell regarded
 as a coin; a small area of land; one-fourth of a {%gaṇḍā%} and one-
 eightieth of a {%paṇa.%}
 <LEND>
@@ -13808,9 +13808,9 @@ marriage without demanding bride-price.
 gift of a girl in marriage without demanding bride-price.
 <LEND>
 
-<L>2546<pc>144<k1>kapaha<k2>kapaha
-{%kapaha%}¦ḏ{%ī%} (Chamba), field meant for growing cotton only.
-Cf. {%kaphā%}ḏ{%ī.%}
+<L>2546<pc>144<k1>kapahaqI<k2>kapahaqI
+{%kapahaḏī%} (Chamba), field meant for growing cotton only.
+Cf. {%kaphāḏī.%}
 <LEND>
 
 <L>2547<pc>144<k1>kapAlasanDi<k2>kapAla-sanDi
@@ -13844,8 +13844,8 @@ counted in cowrie-shells’. Cf. {%paṇa-purāṇa.%}
 coin.
 <LEND>
 
-<L>2554<pc>144<k1>kaPA<k2>kaPA
-{%kaphā%}¦ḏ{%ī%} (Chamba), same as {%kapaha%}ḏ{%ī.%}
+<L>2554<pc>144<k1>kaPAqI<k2>kaPAqI
+{%kaphāḏī%}¦ (Chamba), same as {%kapahaḏī.%}
 <LEND>
 
 <L>2555<pc>144<k1>kapilA<k2>kapilA
@@ -14186,7 +14186,7 @@ clothes’ (same as {%karpaṭa-bhāvena%}).
 <LEND>
 
 <L>2613<pc>148<k1>karpawaBAva<k2>karpawa-BAva
-{%karpaṭa-bhāva%}¦ (LP), explained as {%Pāgh%}ḏ{%ī,%} i. e. a present,
+{%karpaṭa-bhāva%}¦ (LP), explained as {%Pāghḏī,%} i. e. a present,
 bribe or {%inām;%} but cf. also {%aśana-karpaṭā(ṭa)-bhāvena%} ({%Ep. Ind.,%}
 Vol. XXVIII, p. 50, text lines 16-17 and note 4).
 <LEND>
@@ -14920,7 +14920,7 @@ Vol. XXXIV, p. 145).
 
 <L>2745<pc>157<k1>KAwikA<k2>KAwikA
 {%khāṭikā%}¦ ({%Ep. Ind.,%} Vol. IV, p. 253); the mouth of a river;
-same as Bengali {%khā%}ḏ{%ī.%}
+same as Bengali {%khāḏī.%}
 <LEND>
 
 <L>2746<pc>157<k1>Kattaka<k2>Kattaka
@@ -15667,7 +15667,7 @@ rātī {%kacvāṭ.%}
 
 <L>2892<pc>164<k1>kula<k2>kula
 {%kula%}¦ (LL), Jain; a particular section of the Jains.
-<div n="P">{%Cf. udha%}ḏ{%īyā-jhumpa%}ḏ{%īya-kula%} (LP), ‘farmers on whom
+<div n="P">{%Cf. udhaḏīyā-jhumpaḏīya-kula%} (LP), ‘farmers on whom
 revenue is fixed in a lump sum and who live in huts’.
 <div n="P">{%Cf. kulam%} (EI 25), a land measure; equal to 2 {%halas.%}
 <LEND>
@@ -16250,7 +16250,7 @@ image, which helps one to identify the different Jinas.
 <LEND>
 
 <L>3003<pc>170<k1>laNka<k2>laNka
-{%Laṅka%}¦ (EI 19), a carpenter; cf. {%Leṅka, Leṅkā, Bu%}ḏ{%hāleṅkā.%}
+{%Laṅka%}¦ (EI 19), a carpenter; cf. {%Leṅka, Leṅkā, Buḏhāleṅkā.%}
 <LEND>
 
 <L>3004<pc>170<k1>lapita<k2>lapita
@@ -16458,8 +16458,8 @@ to one-twentieth of a {%veli;%} also the name of a weight.
 <LEND>
 
 <L>3042<pc>172<k1>mAqa<k2>mAqa
-{%māḍa%}¦ (IE 8-8; EI 7), Telugu; same as Oḏiyā {%mā%}ḏ{%ha%} or
-{%mā%}ḏ{%hā%} and Tamil {%māḍai;%} a coin of gold or silver; 40 {%ratis%} in
+{%māḍa%}¦ (IE 8-8; EI 7), Telugu; same as Oḏiyā {%māḏha%} or
+{%māḏhā%} and Tamil {%māḍai;%} a coin of gold or silver; 40 {%ratis%} in
 weight; cf. {%biruda-māḍa, malla-māḍa, mallanandi-māḍa, surabhi-%}
 [Page-173+ 40]
 {%māḍa, gaṇḍa-māḍa, kulottuṅga-māḍa%} (EI 29), {%gandhavāraṇamāḍa%} (or
@@ -18887,8 +18887,8 @@ different kinds being mentioned as {%kāl-ma%}ṟ{%uturu, ghaḍa-ma%}ṟ{%uturu
 {%kommu-ma%}ṟ{%utu,%} etc.
 <LEND>
 
-<L>3477<pc>200<k1>marvA<k2>marvA
-{%Marvā%}¦ḏ{%ī,%} spelt {%Marwari%} in English; name of the Rājasthānī
+<L>3477<pc>200<k1>marvAqI<k2>marvAqI
+{%Marvāḏī,%}¦ spelt {%Marwari%} in English; name of the Rājasthānī
 dialect prevalent in Marwar.
 <LEND>
 
@@ -20982,8 +20982,8 @@ of hydraulic machines or, more probably, a person in charge
 of such a machine.
 <LEND>
 
-<L>3874<pc>222<k1>o<k2>o
-{%O%}¦ḏ{%iyā,%} spelt as {%Oriya%} in English; people, language and
+<L>3874<pc>222<k1>oqiyA<k2>oqiyA
+{%Oḏiyā,%}¦ spelt as {%Oriya%} in English; people, language and
 alphabet of Orissa.
 <LEND>
 
@@ -21028,7 +21028,7 @@ fused with the symbol standing for the auspicious word {%siddham.%}
 <LEND>
 
 <L>3883<pc>222<k1>oriya<k2>oriya
-{%Oriya,%}¦ same as {%O%}ḏ{%iyā.%}
+{%Oriya,%}¦ same as {%Oḏiyā.%}
 <LEND>
 
 <L>3884<pc>222<k1>ozWa<k2>ozWa
@@ -21036,7 +21036,7 @@ fused with the symbol standing for the auspicious word {%siddham.%}
 <LEND>
 
 <L>3885<pc>222<k1>ota<k2>ota
-{%ota%}¦ḏ{%a, ota%}ḏ{%ā, ota%}ḏ{%ī%} (Chamba), dry land, unirrigable land;
+{%otaḏa,}¦ {%otaḏā, otaḏī%} (Chamba), dry land, unirrigable land;
 opposed to {%kohlī%} or {%āli.%}
 <LEND>
 <H>P
@@ -21271,8 +21271,8 @@ anything; (1/64)th part of the coin termed {%pagoda%} (q.v.).
 times leased to people.
 <LEND>
 
-<L>3930<pc>225<k1>pa<k2>pa
-{%Pa%}¦ḏ{%irā,%} cf. Oḏiyā {%Sāmanta-pa%}ḏ{%irā%} (EI 32); Sanskrit {%Prati-%}
+<L>3930<pc>225<k1>paqirA<k2>paqirA
+{%Paḏirā,%} cf. Oḏiyā {%Sāmanta-paḏirā%} (EI 32); Sanskrit {%Prati-%}
 {%rāja;%} title of a fendatory or governor; cf. {%Pratirājya = Pratirāja.%}
 <LEND>
 
@@ -21460,7 +21460,7 @@ semi-waste land.
 
 <L>3966<pc>227<k1>pakva<k2>pakva
 {%pakva,%}¦ cf. {%pakva-pura,%} ‘a brick-built house’, same as Bengali
-{%pākā-bā%}ḏ{%i.%} See {%Ep. Ind.,%} Vol. XXXV, p. 184.
+{%pākā-bāḏi.%} See {%Ep. Ind.,%} Vol. XXXV, p. 184.
 <LEND>
 
 <L>3967<pc>227<k1>pala<k2>pala
@@ -34992,7 +34992,7 @@ tendent or governor).
 
 <L>6535<pc>369<k1>vewakila<k2>vewakila
 {%Veṭakila%}¦ (IE 8-3); HD), probably ‘the bearer of {%vīṭikā%}
-(betel {%bī%}ḏ{%ā%})’. See Vogel. {%Ant. Ch. St.,%} p. 128. Cf. {%Vārgulika;%}
+(betel {%bīḏā%})’. See Vogel. {%Ant. Ch. St.,%} p. 128. Cf. {%Vārgulika;%}
 also {%Paṭṭakila.%}
 <LEND>
 
@@ -36105,8 +36105,8 @@ land for one's livelihood.
 Brāhmaṇa as a free gift.
 <LEND>
 
-<L>6747<pc>381<k1>vu<k2>vu
-{%Vu%}¦ḏ{%hā-leṅkā%} (EI 28), Oḏiyā; official designation; cf. {%Leṅkā.%}
+<L>6747<pc>381<k1>vuQAleNkA<k2>vuQAleNkA
+{%Vuḏhā-leṅkā%}¦ (EI 28), Oḏiyā; official designation; cf. {%Leṅkā.%}
 <LEND>
 
 <L>6748<pc>381<k1>vulApikA<k2>vulApikA
@@ -40563,8 +40563,8 @@ tled Bhujabala’; see {%māḍa, māḍai.%}
 see {%gadyāṇa.%}
 <LEND>
 
-<L>7581<pc>429<k1>bu<k2>bu
-{%bu%}¦ḏ{%ī,%} Bengali name for a unit equal to 5 {%gaṇḍās;%} cf. {%voḍī,%}
+<L>7581<pc>429<k1>buqI<k2>buqI
+{%buḏī,%}¦ Bengali name for a unit equal to 5 {%gaṇḍās;%} cf. {%voḍī,%}
 {%voḍrī, kapardaka-voḍī;%} also {%kākinī.%}
 <LEND>
 
@@ -41023,8 +41023,8 @@ possibly, ‘an old coin of the mint of Viśvamalla’; cf. {%vīsala-%}
 {%priya-dramma.%}
 <LEND>
 
-<L>7680<pc>433<k1>ka<k2>ka
-{%ka%}¦ḏ{%ā,%} Bengali, etc; cowrie-shell regarded as coin; (1/4)
+<L>7680<pc>433<k1>kaqA<k2>kaqA
+{%kaḏā,%}¦ Bengali, etc; cowrie-shell regarded as coin; (1/4)
 of {%gaṇḍā%} and (1/80) of {%paṇa%} in some areas. Cf. {%kapardaka,%} etc.
 <LEND>
 
@@ -41056,7 +41056,7 @@ etc.
 
 <L>7687<pc>433<k1>kakinI<k2>kakinI
 {%kakinī,%}¦ equal to 20 cowrie-shells according to the {%Līlāvatī;%}
-(1/4) of a {%paṇa;%} same as {%bu%}ḏ{%ī.%} Cf. {%gaṇḍā%}
+(1/4) of a {%paṇa;%} same as {%buḏī.%} Cf. {%gaṇḍā%}
 <LEND>
 
 <L>7688<pc>433<k1>ka<k2>ka
@@ -41084,7 +41084,7 @@ coin.
 
 <L>7693<pc>434<k1>kapardaka<k2>kapardaka
 {%kapardaka,%}¦ also called {%kaparda, kapardikā, kapardī,%} etc.; cowrie-
-shell used as coin. Cf. {%ka%}ḏ{%ā.%}
+shell used as coin. Cf. {%kaḏā.%}
 <LEND>
 
 <L>7694<pc>434<k1>kapardakapurARa<k2>kapardaka-purARa
@@ -41092,7 +41092,7 @@ shell used as coin. Cf. {%ka%}ḏ{%ā.%}
 <LEND>
 
 <L>7695<pc>434<k1>kapardakavoqI<k2>kapardaka-voqI
-{%kapardaka-voḍī,%}¦ ‘a {%voḍī%} counted in {%kapardakas%}’; cf. {%bu%}ḏ{%ī%} and
+{%kapardaka-voḍī,%}¦ ‘a {%voḍī%} counted in {%kapardakas%}’; cf. {%buḏī%} and
 {%voḍī.%}
 <LEND>
 
@@ -42016,11 +42016,11 @@ Vīracampa; see {%gulikā,%} etc.
 <L>7889<pc>442<k1>voqI<k2>voqI
 {%voḍī,%}¦ also called {%voḍikā%} and {%voḍrī;%} sometimes regarded as a
 cowrie-shell used as coin; but really, the unit equal to 5 {%gaṇḍās%}
-= 20 cowries. Cf. {%bu%}ḏ{%ī, kapardaka-voḍī%} (q. v.).
+= 20 cowries. Cf. {%buḏī, kapardaka-voḍī%} (q. v.).
 <LEND>
 
 <L>7890<pc>442<k1>voqikA<k2>voqikA
-{%voḍikā,%}¦ same as {%voḍī.%} Cf. {%bu%}ḏ{%ī%} and {%kapardaka-voḍī%} (q. v.).
+{%voḍikā,%}¦ same as {%voḍī.%} Cf. {%buḏī%} and {%kapardaka-voḍī%} (q. v.).
 <LEND>
 
 <L>7891<pc>442<k1>voqrI<k2>voqrI
