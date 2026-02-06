@@ -21036,7 +21036,7 @@ fused with the symbol standing for the auspicious word {%siddham.%}
 <LEND>
 
 <L>3885<pc>222<k1>ota<k2>ota
-{%otaḏa,}¦ {%otaḏā, otaḏī%} (Chamba), dry land, unirrigable land;
+{%otaḏa,%}¦ {%otaḏā, otaḏī%} (Chamba), dry land, unirrigable land;
 opposed to {%kohlī%} or {%āli.%}
 <LEND>
 <H>P
