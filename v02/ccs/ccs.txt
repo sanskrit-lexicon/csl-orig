@@ -75089,7 +75089,7 @@ die Dehnung {%(g.)%}; Sprung.
 
 <L>16370<pc>287-1a<k1>PaRipati<k2>PaRipati
 {#PaRipati#}¦ {%m.%} Schlangenkönig {%(großeSchlange%}
-{%o. Śesha).%}
+{%o. Śeṣa).%}
 <LEND>
 
 <L>16371<pc>287-1a<k1>PaRIndra<k2>PaRIndra
