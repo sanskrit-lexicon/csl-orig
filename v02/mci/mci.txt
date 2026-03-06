@@ -19345,8 +19345,8 @@ told in this {%samasyā%} 1. 2. 124 ({%mārkaṇḍeya-%}
 related to the {%adhyāyas%} 3. 179-221.
 <LEND>
 
-<L>768<pc>204-a<k1>mrgasvapnaBaya<k2>mrgasvapnaBaya
-{@Mrgasvapnabhaya@}¦ nt.: Name of the
+<L>768<pc>204-a<k1>mfgasvapnaBaya<k2>mfgasvapnaBaya
+{@Mṛgasvapnabhaya@}¦ nt.: Name of the
 40th {%parvan%} in the list of a hundred sub-
 {%parvans%} of the Bhārata supposed to have
 been made by Vyāsa in the Parvasaṃgraha
@@ -24732,8 +24732,8 @@ healthy ({%mūle tv ārogyam arccheta%}) 13.
 89. 10.
 <LEND>
 
-<L>928<pc>265-a<k1>mrgottama<k2>mrgottama
-{@Mrgottama@}¦ nt.: Name of the constella-
+<L>928<pc>265-a<k1>mfgottama<k2>mfgottama
+{@Mṛgottama@}¦ nt.: Name of the constella-
 tion Mṛgaśiras; also called {@Tārāmṛga@} (m.)
 (3. 262. 19) and {@Somadaivata@} (13. 63. 7).
 {@A.@} Religious rites: (1) {%dāna:%} Nārada
