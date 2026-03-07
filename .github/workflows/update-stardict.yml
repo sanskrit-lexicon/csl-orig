@@ -19,6 +19,14 @@ jobs:
           path: sanskrit-lexicon/csl-orig
           fetch-depth: 1
 
+      # 1a. Checkout the trigger repository (csl-orig)
+      - name: Checkout hwnorm1
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/hwnorm1
+          path: sanskrit-lexicon/hwnorm1
+          fetch-depth: 1
+
       # 2. Checkout the scripts repository (cologne-stardict)
       - name: Checkout cologne-stardict
         uses: actions/checkout@v4
@@ -42,6 +50,17 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Configure python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      # Configure package indic-transliteration
+      - name: Install depenencies
+        run: |
+          pip install indic-transliteration
 
       # 4. Run the bash scripts
       - name: Run transformation scripts
