@@ -67,6 +67,12 @@ jobs:
           git config --global user.name "github-actions[Cologne-Bot]"
           git config --global user.email "github-actions[Cologne-Bot]@users.noreply.github.com"
 
+      # Install Python dependencies
+      - name: Install dependencies
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          pip install indic-transliteration
+
       # 6. Run the transformation scripts for changed dictionaries
       - name: Run transformation scripts
         if: steps.changed-files.outputs.any_changed == 'true'
