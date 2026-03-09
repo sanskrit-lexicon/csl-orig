@@ -64,8 +64,8 @@ jobs:
       - name: Configure Git
         if: steps.changed-files.outputs.any_changed == 'true'
         run: |
-          git config --global user.name "github-actions[Cologne-Bot]"
-          git config --global user.email "github-actions[Cologne-Bot]@users.noreply.github.com"
+          git config --global user.name "drdhaval2785"
+          git config --global user.email "drdhaval2785gmail.com"
 
       # Install Python dependencies
       - name: Install dependencies
