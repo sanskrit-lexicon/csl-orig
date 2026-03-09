@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'v02/**'
+      - '.github/workflows/update-stardict.yml'
 
 jobs:
   build-and-sync:
@@ -17,20 +20,10 @@ jobs:
         with:
           repository: sanskrit-lexicon/csl-orig
           path: sanskrit-lexicon/csl-orig
-          fetch-depth: 0
+          fetch-depth: 2 # Fetch 2 to allow changed-files to compare with previous commit
 
-      # 2. Detect changed files in csl-orig early
-      - name: Get changed files
-        id: changed-files
-        uses: tj-actions/changed-files@v42
-        with:
-          path: sanskrit-lexicon/csl-orig
-          files: |
-            v02/**
-
-      # 3. Checkout the scripts repository (cologne-stardict)
+      # 2. Checkout the scripts repository (cologne-stardict)
       - name: Checkout cologne-stardict
-        if: steps.changed-files.outputs.any_changed == 'true'
         uses: actions/checkout@v4
         with:
           repository: sanskrit-lexicon/cologne-stardict
@@ -38,9 +31,8 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 1
 
-      # 4. Checkout the target repository (stardict-sanskrit)
+      # 3. Checkout the target repository (stardict-sanskrit)
       - name: Checkout stardict-sanskrit
-        if: steps.changed-files.outputs.any_changed == 'true'
         uses: actions/checkout@v4
         with:
           repository: indic-dict/stardict-sanskrit
@@ -48,9 +40,8 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 1
           
-      # 5. Checkout hwnorm1 repository
+      # 4. Checkout hwnorm1 repository
       - name: Checkout hwnorm1
-        if: steps.changed-files.outputs.any_changed == 'true'
         uses: actions/checkout@v4
         with:
           repository: sanskrit-lexicon/hwnorm1
@@ -59,14 +50,19 @@ jobs:
 
       # Configure Git Globally for the runner
       - name: Configure Git
-        if: steps.changed-files.outputs.any_changed == 'true'
         run: |
           git config --global user.name "github-actions[Cologne-Bot]"
           git config --global user.email "github-actions[Cologne-Bot]@users.noreply.github.com"
 
+      # 5. Detect changed files in csl-orig
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v42
+        with:
+          path: sanskrit-lexicon/csl-orig
+
       # 6. Run the transformation scripts for changed dictionaries
       - name: Run transformation scripts
-        if: steps.changed-files.outputs.any_changed == 'true'
         working-directory: sanskrit-lexicon/cologne-stardict
         run: |
           # Create input directory if not exists
@@ -75,25 +71,27 @@ jobs:
           cp ../hwnorm1/sanhw1/hwnorm1c.txt input/hwnorm1c.txt
           
           # Extract unique dictionary codes (XXX) from changed v02/XXX/ files
-          # Note: any_changed=true implies at least one v02/ file changed
           CHANGED_DICTS=$(echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | grep '^v02/' | awk -F'/' '{print $2}' | sort -u)
           
-          for dict in $CHANGED_DICTS; do
-            echo "Processing dictionary: $dict"
-            if [[ " abch acph acsj " =~ " $dict " ]]; then
-              python3 make_babylon_synonymic.py $dict 0
-              python3 make_babylon_synonymic.py $dict 1
-            else
-              python3 make_babylon.py $dict 0
-              python3 make_babylon.py $dict 1
-            fi
-          done
-          # Sync to stardict-sanskrit repository
-          bash move_to_stardict.sh
+          if [ -z "$CHANGED_DICTS" ]; then
+            echo "No changes in v02/ folders. This shouldn't happen due to path filtering."
+          else
+            for dict in $CHANGED_DICTS; do
+              echo "Processing dictionary: $dict"
+              if [[ " abch acph acsj " =~ " $dict " ]]; then
+                python3 make_babylon_synonymic.py $dict 0
+                python3 make_babylon_synonymic.py $dict 1
+              else
+                python3 make_babylon.py $dict 0
+                python3 make_babylon.py $dict 1
+              fi
+            done
+            # Sync to stardict-sanskrit repository
+            bash move_to_stardict.sh
+          fi
 
       # 7. Commit and push to cologne-stardict
       - name: Commit and push cologne-stardict
-        if: steps.changed-files.outputs.any_changed == 'true'
         working-directory: sanskrit-lexicon/cologne-stardict
         run: |
           git add .
@@ -106,7 +104,6 @@ jobs:
 
       # 8. Commit and push to stardict-sanskrit
       - name: Commit and push stardict-sanskrit
-        if: steps.changed-files.outputs.any_changed == 'true'
         working-directory: indic-dict/stardict-sanskrit
         run: |
           git add .
