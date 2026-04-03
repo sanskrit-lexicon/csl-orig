@@ -120867,7 +120867,7 @@ zusammen, recht, richtig.
 {#san#},¦ {#sano/ti (sa/nati)#} erlangen, gewinnen,
 besitzen; verleihen, schenken. {%Partic.%}
 {#sasava/Ms#} gewonnen habend, besitzend,
-zum Ziele gelangt, froh des {%(Instr. 0.%}
+zum Ziele gelangt, froh des {%(Instr. o.%}
 {%Loc.)%}; {#sAta/#} gewonnen, erworben. {%Desid.%}
 {#si/zAsati#} erlangen {%o.%} verleihen (wollen).
 <LEND>
