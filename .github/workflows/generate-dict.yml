@@ -91,7 +91,9 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install mako
+        run: |
+          pip install mako
+          sudo apt-get update && sudo apt-get install -y libxml2-utils
 
       - name: Generate dictionary
         run: |
@@ -103,6 +105,6 @@ jobs:
         with:
           name: ${{ github.event.inputs.dictionary }}-output
           path: |
-            ${{ github.event.inputs.dictionary }}/pywork/*.xml
-            ${{ github.event.inputs.dictionary }}/pywork/*.sqlite
-            ${{ github.event.inputs.dictionary }}/web/*
+            sanskrit-lexicon/${{ github.event.inputs.dictionary }}/pywork/*.xml
+            sanskrit-lexicon/${{ github.event.inputs.dictionary }}/pywork/*.sqlite
+            sanskrit-lexicon/${{ github.event.inputs.dictionary }}/web/*
