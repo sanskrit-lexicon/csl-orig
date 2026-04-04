@@ -1,0 +1,108 @@
+name: Generate Dictionary
+
+on:
+  workflow_dispatch:
+    inputs:
+      dictionary:
+        type: choice
+        description: Dictionary to generate
+        default: ap
+        options:
+          - acc
+          - acph
+          - acsj
+          - ae
+          - ap
+          - ap90
+          - armh
+          - ben
+          - bhs
+          - bop
+          - bor
+          - bur
+          - cae
+          - ccs
+          - fri
+          - gra
+          - gst
+          - ieg
+          - inm
+          - krm
+          - lan
+          - lrv
+          - mci
+          - md
+          - mw
+          - mw72
+          - mwe
+          - pe
+          - pgn
+          - pui
+          - pw
+          - pwg
+          - pwkvn
+          - sch
+          - shs
+          - skd
+          - snp
+          - stc
+          - vcp
+          - vei
+          - wil
+          - yat
+          - abch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout csl-orig
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/csl-orig
+          path: sanskrit-lexicon/csl-orig
+          fetch-depth: 1
+
+      - name: Checkout csl-pywork
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/csl-pywork
+          path: sanskrit-lexicon/csl-pywork
+          fetch-depth: 1
+
+      - name: Checkout csl-websanlexicon
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/csl-websanlexicon
+          path: sanskrit-lexicon/csl-websanlexicon
+          fetch-depth: 1
+
+      - name: Checkout hwnorm1
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/hwnorm1
+          path: sanskrit-lexicon/hwnorm1
+          fetch-depth: 1
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install mako
+
+      - name: Generate dictionary
+        run: |
+          cd sanskrit-lexicon/csl-pywork/v02
+          sh generate_dict.sh ${{ github.event.inputs.dictionary }} ../../${{ github.event.inputs.dictionary }}
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ github.event.inputs.dictionary }}-output
+          path: |
+            ${{ github.event.inputs.dictionary }}/pywork/*.xml
+            ${{ github.event.inputs.dictionary }}/pywork/*.sqlite
+            ${{ github.event.inputs.dictionary }}/web/*
