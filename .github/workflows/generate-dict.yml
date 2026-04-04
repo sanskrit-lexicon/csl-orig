@@ -105,6 +105,5 @@ jobs:
         with:
           name: ${{ github.event.inputs.dictionary }}-output
           path: |
-            sanskrit-lexicon/${{ github.event.inputs.dictionary }}/pywork/*.xml
-            sanskrit-lexicon/${{ github.event.inputs.dictionary }}/pywork/*.sqlite
-            sanskrit-lexicon/${{ github.event.inputs.dictionary }}/web/*
+            sanskrit-lexicon/${{ github.event.inputs.dictionary }}/pywork/
+            sanskrit-lexicon/${{ github.event.inputs.dictionary }}/web/
