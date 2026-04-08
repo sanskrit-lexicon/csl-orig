@@ -1,0 +1,160 @@
+name: Regenerate hwnorm1.sqlite
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ${{ github.workspace }}
+
+    steps:
+      - name: Checkout csl-pywork
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/csl-pywork
+          path: sanskrit-lexicon/csl-pywork
+          fetch-depth: 1
+
+      - name: Checkout csl-orig
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/csl-orig
+          path: sanskrit-lexicon/csl-orig
+          fetch-depth: 1
+
+      - name: Checkout csl-websanlexicon
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/csl-websanlexicon
+          path: sanskrit-lexicon/csl-websanlexicon
+          fetch-depth: 1
+
+      - name: Checkout hwnorm1
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/hwnorm1
+          path: sanskrit-lexicon/hwnorm1
+          fetch-depth: 1
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Checkout hwnorm2
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/hwnorm2
+          path: sanskrit-lexicon/hwnorm2
+          fetch-depth: 1
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Checkout csl-apidev
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/csl-apidev
+          path: sanskrit-lexicon/csl-apidev
+          fetch-depth: 1
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install mako lxml indic-transliteration
+          sudo apt-get update && sudo apt-get install -y libxml2-utils sqlite3 unzip
+
+      - name: Prepare pd folder structure
+        run: |
+          mkdir -p sanskrit-lexicon/pd/orig
+          mkdir -p sanskrit-lexicon/pd/pywork/hwextra
+
+      - name: Download and extract pdtxt.zip
+        run: |
+          cd sanskrit-lexicon/pd/orig
+          curl -L -o pdtxt.zip https://www.sanskrit-lexicon.uni-koeln.de/scans/PDScan/2020/downloads/pdtxt.zip
+          unzip -o pdtxt.zip
+          mv txt/* . 2>/dev/null || true
+          rm -rf txt pdtxt.zip
+
+      - name: Create blank hwextra file
+        run: |
+          touch sanskrit-lexicon/pd/pywork/hwextra/pd_hwextra.txt
+
+      - name: Run redo_xampp_all.sh
+        run: |
+          cd sanskrit-lexicon/csl-pywork/v02
+          sh redo_xampp_all.sh
+
+      - name: Run hwnorm1 sanhw1 redo.sh
+        run: |
+          cd sanskrit-lexicon/hwnorm1/sanhw1
+          sh redo.sh
+
+      - name: Move hwnorm1c.sqlite to csl-apidev
+        run: |
+          mkdir -p sanskrit-lexicon/csl-apidev/simple-search/hwnorm1
+          mv sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite sanskrit-lexicon/csl-apidev/simple-search/hwnorm1/
+
+      - name: Configure git for hwnorm1
+        run: |
+          cd sanskrit-lexicon/hwnorm1
+          git config user.name "HWNORM1 BOT"
+          git config user.email "actions@github.com"
+
+      - name: Commit and push hwnorm1 changes
+        run: |
+          cd sanskrit-lexicon/hwnorm1
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          if git diff --quiet; then
+            echo "No changes to commit in hwnorm1"
+          else
+            git add -A
+            git commit -m "Regenerated hwnorm1.sqlite as on $TIMESTAMP"
+            git push
+          fi
+
+      - name: Run hwnorm2 redo scripts
+        run: |
+          cd sanskrit-lexicon/hwnorm2/keydoc/distincthws
+          sh redo.sh
+          cd ../..
+          sh redo.sh xampp
+
+      - name: Configure git for hwnorm2
+        run: |
+          cd sanskrit-lexicon/hwnorm2
+          git config user.name "HWNORM1 BOT"
+          git config user.email "actions@github.com"
+
+      - name: Commit and push hwnorm2 changes
+        run: |
+          cd sanskrit-lexicon/hwnorm2
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          if git diff --quiet; then
+            echo "No changes to commit in hwnorm2"
+          else
+            git add -A
+            git commit -m "Regenerated hwnorm2 repo as on $TIMESTAMP"
+            git push
+          fi
+
+      - name: Configure git for csl-apidev
+        run: |
+          cd sanskrit-lexicon/csl-apidev
+          git config user.name "HWNORM1 BOT"
+          git config user.email "actions@github.com"
+
+      - name: Commit and push csl-apidev changes
+        run: |
+          cd sanskrit-lexicon/csl-apidev
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          if git diff --quiet; then
+            echo "No changes to commit in csl-apidev"
+          else
+            git add -A
+            git commit -m "Regenerated hwnorm1.sqlite as on $TIMESTAMP"
+            git push
+          fi
