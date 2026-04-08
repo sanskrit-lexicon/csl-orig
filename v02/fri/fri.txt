@@ -1186,7 +1186,7 @@ adhas adv.
 <div n="1"/>2 <lang n="russian">под, снизу</lang>
 <div n="1"/>3 <lang n="english">under, from under</lang>
 <LEND>
-<L>207<pc>018<k1>aDo'Das<k2>aDo'Das
+<L>207<pc>018<k1>aDoDas<k2>aDo'Das
 adho'dhas
 <div n="1"/>1 <lang n="czech">stále hlouběji</lang>
 <div n="1"/>2 <lang n="russian">все глубже</lang>
@@ -2566,7 +2566,7 @@ api pcl., adv.
 <div n="1"/>2 <lang n="russian">у, в</lang>
 <div n="1"/>3 <lang n="english">close by, in</lang>
 <LEND>
-<L>439<pc>026<k1>ko'pi<k2>ko'pi
+<L>439<pc>026<k1>kopi<k2>ko'pi
  +ko'pi
 <div n="1"/>1 <lang n="czech">někdo (tázací zájméno nebo příslovce, k němuž je připojena částice api, stává se neurčitým)</lang>
 <div n="1"/>2 <lang n="russian">кто-нибудь (вопросительное местоимение или наречие, к которому присоединяется частица api, становится неопределенным)</lang>
@@ -4882,7 +4882,7 @@ II ā pcl., adv.
 <L>831<pc>040<k1>AMg<k2>AMg
 āṃg-, āṃd- v. āṅg-, āṇḍ- 
 <LEND>
-<L>832<pc>040<k1>Akampitá<k2>Akampitá
+<L>832<pc>040<k1>Akampita<k2>Akampita
 ākampitá (pp. ≺ kamp) 
 <div n="1"/>1 <lang n="czech">chvějící se</lang>
 <div n="1"/>2 <lang n="russian">дрожащий</lang>
@@ -6367,7 +6367,7 @@ itara (f. itarā, n. itaram, itarat)
 <div n="1"/>2 <lang n="russian">иной, другой, противоположный, обыкновенный</lang>
 <div n="1"/>3 <lang n="english">the other (of two), another, opposite, common</lang>
 <LEND>
-<L>1086<pc>050<k1>itara—itara<k2>itara—itara
+<L>1086<pc>050<k1>itaretara<k2>itara—itara
 itara—itara
 <div n="1"/>1 <lang n="czech">jeden — druhý</lang>
 <div n="1"/>2 <lang n="russian">один — другой</lang>
@@ -6760,7 +6760,7 @@ caus. īkṣayati
 <div n="1"/>2 <lang n="russian">достойный взывания, достойный хвалы</lang>
 <div n="1"/>3 <lang n="english">to be invoked, praiseworthy</lang>
 <LEND>
-<L>1154<pc>053<k1>Īdfkza<k2>Īdfkza
+<L>1154<pc>053<k1>Idfkza<k2>Idfkza
 Īdṛkṣa, īdṛś, īdṛśa (f. -ī) 
 <div n="1"/>1 <lang n="czech">takového vzhledu, takový</lang>
 <div n="1"/>2 <lang n="russian">такого вида, такой</lang>
@@ -12973,7 +12973,7 @@ grāmīṇa*, grāmya
 <div n="1"/>2 <lang n="russian">сельский житель, крестьянин</lang>
 <div n="1"/>3 <lang n="english">the inhabitant of a village, a villager, peasant</lang>
 <LEND>
-<L>2229<pc>098<k1>grAvan*<k2>grAvan*
+<L>2229<pc>098<k1>grAvan<k2>grAvan*
 grāvan* m.
 <div n="1"/>1 <lang n="czech">kámen; lisovací kámen; skála; hora</lang>
 <div n="1"/>2 <lang n="russian">камень; камень для прессования; скала; гора</lang>
@@ -15319,7 +15319,7 @@ ta pron. (nom. sg. sa, sas; sā, tat)
 <div n="1"/>2 <lang n="russian">в том же предложении: кто- (либо), какой-либо</lang>
 <div n="1"/>3 <lang n="english">in the same sentence: whoever, anybody</lang>
 <LEND>
-<L>2641<pc>115<k1>so'ham<k2>so'ham
+<L>2641<pc>115<k1>soham<k2>so'ham
  +so'ham emph.:
 <div n="1"/>1 <lang n="czech">právě já; já sám</lang>
 <div n="1"/>2 <lang n="russian">имено я; я сам</lang>
@@ -15715,7 +15715,7 @@ tapodhana
 <div n="1"/>2 <lang n="russian">богатый раскаянием; m. великий аскет</lang>
 <div n="1"/>3 <lang n="english">rich in penance; m. a great ascetic</lang>
 <LEND>
-<L>2710<pc>117<k1>tapo'paharaRa<k2>tapo'paharaRa
+<L>2710<pc>117<k1>tapopaharaRa<k2>tapo'paharaRa
 tapo'paharaṇa n.
 <div n="1"/>1 <lang n="czech">zničení zásluh získaných pokáním</lang>
 <div n="1"/>2 <lang n="russian">уничтожение заслуг, приобретенных вследствии покаяния</lang>
@@ -17386,7 +17386,7 @@ I √dā dadāti, datte, pp. datta, -° tta (ātta)
 <div n="1"/>2 <lang n="russian">давать, доверять, поручать</lang>
 <div n="1"/>3 <lang n="english">to give, deposit, entrust</lang>
 <LEND>
-<L>2996<pc>129<k1>ргаdA<k2>ргаdA
+<L>2996<pc>129<k1>pradA<k2>pradA
  +рга (ргаdā) 
 <div n="1"/>1 <lang n="czech">odevzdávati, dávati za manželku, vraceti, učiti</lang>
 <div n="1"/>2 <lang n="russian">отдавать, давать в жены, возвращать, учить</lang>
@@ -18661,7 +18661,7 @@ daivāsura (f. -ī)
 <div n="1"/>2 <lang n="russian">существующий между богами и демонами</lang>
 <div n="1"/>3 <lang n="english">existing between gods and Asuras</lang>
 <LEND>
-<L>3215<pc>137<k1>dorака<k2>dorака
+<L>3215<pc>137<k1>doraka<k2>doraka
 dorака n.
 <div n="1"/>1 <lang n="czech">provaz</lang>
 <div n="1"/>2 <lang n="russian">веревка</lang>
@@ -18844,8 +18844,8 @@ drupada n.
 <div n="1"/>2 <lang n="russian">деревянный столб; m., n. pr. имя короля, дочерью которого была Кришна</lang>
 <div n="1"/>3 <lang n="english">a wooden pillar; m., n. pr. name of the king who was father of Kṛṣṇā</lang>
 <LEND>
-<L>3247<pc>138<k1>drumа<k2>drumа
-drumа m.
+<L>3247<pc>138<k1>druma<k2>druma
+druma m.
 <div n="1"/>1 <lang n="czech">strom</lang>
 <div n="1"/>2 <lang n="russian">дерево</lang>
 <div n="1"/>3 <lang n="english">a tree</lang>
@@ -21430,7 +21430,7 @@ caus. nāyayati
 <L>3692<pc>155<k1>nIyate<k2>nIyate
 pass. nīyate
 <LEND>
-<L>3693<pc>156<k1>араnI<k2>араnI
+<L>3693<pc>156<k1>apanI<k2>apanI
 +apa (араnī)
 <div n="1"/>1 <lang n="czech">odváděti, odkládati, zaháněti</lang>
 <div n="1"/>2 <lang n="russian">отводить, откладывать, отгонять</lang>
@@ -21472,7 +21472,7 @@ pass. nīyate
 <div n="1"/>2 <lang n="russian">вести вместе или домой или назад, приносить (жертву)</lang>
 <div n="1"/>3 <lang n="english">to lead together or near or home, bring (an oblation)</lang>
 <LEND>
-<L>3700<pc>156<k1>nIса<k2>nIса
+<L>3700<pc>156<k1>nIca<k2>nIca
 nīса
 <div n="1"/>1 <lang n="czech">nízký, snížený, hluboký (o hlase), nízký sociálně a mravně</lang>
 <div n="1"/>2 <lang n="russian">низкий, пониженный, глубокий (о голосе), низкий социально и нравственно</lang>
@@ -21820,7 +21820,7 @@ paṅgu (f. -vī)
 <div n="1"/>2 <lang n="russian">хромой</lang>
 <div n="1"/>3 <lang n="english">lame</lang>
 <LEND>
-<L>3760<pc>158<k1>расб<k2>расб
+<L>3760<pc>158<k1>pac<k2>pac
 √рас pacati, -te
 <div n="1"/>1 <lang n="czech">vařiti, péci, páliti (cihly), nechati zráti, zráti</lang>
 <div n="1"/>2 <lang n="russian">варить, печь, обжигать, дать созреть, созревать</lang>
@@ -23014,19 +23014,19 @@ parokta (pp. ≺ vac)
 <div n="1"/>2 <lang n="russian">объявлен побежденным</lang>
 <div n="1"/>3 <lang n="english">having met with a rebuff</lang>
 <LEND>
-<L>3964<pc>167<k1>paro'kza<k2>paro'kza
+<L>3964<pc>167<k1>parokza<k2>paro'kza
 paro'kṣa
 <div n="1"/>1 <lang n="czech">jsoucí mimo dohled, neviditelný, tajný</lang>
 <div n="1"/>2 <lang n="russian">находящийся не в поле зрения, невидимый, тайный</lang>
 <div n="1"/>3 <lang n="english">out of sight, invisible, secret</lang>
 <LEND>
-<L>3965<pc>167<k1>paro'kza<k2>paro'kza
+<L>3965<pc>167<k1>parokza<k2>paro'kza
 paro'kṣa acc., loc.
 <div n="1"/>1 <lang n="czech">za zády</lang>
 <div n="1"/>2 <lang n="russian">за спиной</lang>
 <div n="1"/>3 <lang n="english">behind one's back</lang>
 <LEND>
-<L>3966<pc>167<k1>paro'kza<k2>paro'kza
+<L>3966<pc>167<k1>parokza<k2>paro'kza
 paro'kṣa instr., abl.
 <div n="1"/>1 <lang n="czech">tajně</lang>
 <div n="1"/>2 <lang n="russian">тайно</lang>
@@ -26656,8 +26656,8 @@ baṃh bāh baṃhate, pp. bādha
 <div n="1"/>2 <lang n="russian">расти</lang>
 <div n="1"/>3 <lang n="english">to grow</lang>
 <LEND>
-<L>4585<pc>194<k1>bаkа<k2>bаkа
-bаkа m.
+<L>4585<pc>194<k1>baka<k2>baka
+baka m.
 <div n="1"/>1 <lang n="czech">druh volavky; pokrytec; n. pr.</lang>
 <div n="1"/>2 <lang n="russian">порода цапли; лицемер; n. pr.</lang>
 <div n="1"/>3 <lang n="english">kind of heron; hypocrite; n. pr.</lang>
@@ -26968,7 +26968,7 @@ bāṇa m.
 <L>4639<pc>196<k1>bIBatsate<k2>bIBatsate
 desid. bībhatsate 
 <LEND>
-<L>4640<pc>196<k1>араbAD<k2>араbAD
+<L>4640<pc>196<k1>apabAD<k2>apabAD
  +араbādh caus.
 <div n="1"/>1 <lang n="czech">zaháněti</lang>
 <div n="1"/>2 <lang n="russian">отгонять</lang>
@@ -27403,7 +27403,7 @@ brāhmaṇya n.
 <div n="1"/>2 <lang n="russian">ходатайствовать, защищать</lang>
 <div n="1"/>3 <lang n="english">to speak in favour of, protect</lang>
 <LEND>
-<L>4718<pc>199<k1>араbrU<k2>араbrU
+<L>4718<pc>199<k1>apabrU<k2>apabrU
  +араbrū
 <div n="1"/>1 <lang n="czech">zažehnati, vymlouvati, utěšovati</lang>
 <div n="1"/>2 <lang n="russian">отвратить, отговаривать, утешать</lang>
@@ -28771,7 +28771,7 @@ bhraṃśa m.
 <div n="1"/>2 <lang n="russian">двигаться туда-сюда, скитаться, быть сконфуженным или взволнованным, блуждать</lang>
 <div n="1"/>3 <lang n="english">to move to and fro, wander about, flutter, be confused or agitated, err</lang>
 <LEND>
-<L>4952<pc>210<k1>Brámayati<k2>Brámayati
+<L>4952<pc>210<k1>Bramayati<k2>Bramayati
  +caus. bhrámayati
 <div n="1"/>1 <lang n="czech">uvádětl v pohyb, roztáčeti, uváděti v zmatek</lang>
 <div n="1"/>2 <lang n="russian">приводить в движение, приводить в хаос</lang>
@@ -31876,7 +31876,7 @@ yaṣṭi f.
 <div n="1"/>2 <lang n="russian">итти за кем-нибудь, следовать</lang>
 <div n="1"/>3 <lang n="english">to go after, follow, pursue</lang>
 <LEND>
-<L>5487<pc>233<k1>samA(samAyA)<k2>samA(samAyA)
+<L>5487<pc>233<k1>samA<k2>samA(samAyA)
  +samā(samāyā) 
 <div n="1"/>1 <lang n="czech">přijíti, přiblížiti se, dostati se</lang>
 <div n="1"/>2 <lang n="russian">прийти, приблизиться, попасть</lang>
@@ -33934,7 +33934,7 @@ labdhacakṣus
 <div n="1"/>2 <lang n="russian">баловать, лелеять</lang>
 <div n="1"/>3 <lang n="english">to fondle, pamper</lang>
 <LEND>
-<L>5841<pc>248<k1>ud(udlal)<k2>ud(udlal)
+<L>5841<pc>248<k1>ullal<k2>udlal
  +ud (udlal) ullalayati, ullālayati caus.
 <div n="1"/>1 <lang n="czech">rozhýbávati, mávati, vyplazovati jazyk</lang>
 <div n="1"/>2 <lang n="russian">раскачивать, махать, высовывать язык</lang>
@@ -34006,7 +34006,7 @@ lāṅgala n.
 <div n="1"/>2 <lang n="russian">плуг</lang>
 <div n="1"/>3 <lang n="english">a plough</lang>
 <LEND>
-<L>5854<pc>248<k1>lANgûla<k2>lANgûla
+<L>5854<pc>248<k1>lANgUla<k2>lANgUla
 lāṅgûla n.
 <div n="1"/>1 <lang n="czech">ocas</lang>
 <div n="1"/>2 <lang n="russian">хвост</lang>
@@ -35329,7 +35329,7 @@ varṇin
 <div n="1"/>2 <lang n="russian">итти вверх, подниматься; вздуваться, быть гордым; возникать, происходить</lang>
 <div n="1"/>3 <lang n="english">to go upwards, rise; swell, be haughty; proceed from, originate</lang>
 <LEND>
-<L>6081<pc>259<k1>upa(upavart)<k2>upa(upavart)
+<L>6081<pc>259<k1>upavart<k2>upa(upavart)
  +upa(upavart) 
 <div n="1"/>1 <lang n="czech">šlapati; přicházeti, přibližovati se; vraceti se</lang>
 <div n="1"/>2 <lang n="russian">топтать; приходить, приближаться; возвращаться</lang>
@@ -35359,7 +35359,7 @@ varṇin
 <div n="1"/>2 <lang n="russian">вертеться, кружиться, вращаться, скитаться; приходить обратно, возвращаться; рождаться снова; меняться; оставаться; вести себя, относиться к кому-нибудь, действовать; caus. вертеть; приносить; повалять; переворачивать; переменять; уничтожать</lang>
 <div n="1"/>3 <lang n="english">З to turn round, revolve, move in circle, roam about; come back to, return; be reborn; change; remain; conduct oneself, behave, act; caus. to cause to turn round; bring near; overthrow; invert; exchange; destroy</lang>
 <LEND>
-<L>6086<pc>259<k1>pra(pravart)<k2>pra(pravart)
+<L>6086<pc>259<k1>pravart<k2>pra(pravart)
  +pra(pravart) 
 <div n="1"/>1 <lang n="czech">jíti vpřed, pohybovati se; vycházeti, vznikati, povstávati, stávati se, přiházeti se; začínati se; zaměstnávati se, obírati se něčím; vésti si, chovati se, jednati; býti, existovati; pokračovati; míti smysl, znamenati (o slově); caus. točiti, uváděti v pohyb; házeti; posílati; rozšiřovati, rozhlašovati; zaváděti, ustanovovati; vyráběti, tvořiti, prováděti, konati, dělati, podnikati; používati</lang>
 <div n="1"/>2 <lang n="russian">итти вперед, двигаться; выходить, возникать, создаваться, происходить, случаться; начинаться; заниматься чем-нибудь, погружаться в что-нибудь; вести себя, относиться к кому-нибудь, действовать; быть, существовать; продолжаться; иметь значение (о слове); caus. вертеть, приводить в движение; бросать; посылать; распространять, разглашать; заводить, устанавливать; производить, создавать, исполнять, совершать, делать, предпринимать; употреблять</lang>
@@ -35377,7 +35377,7 @@ varṇin
 <div n="1"/>2 <lang n="russian">вертеться, кружиться, кататься, валяться, повалять (о тучах); отвращаться, разобщаться, сбиваться с пути истинного, спускаться; выходить, развиваться: нападать на кого-нибудь, наступать; caus. вертеть, катать; отвращать, устранять, отбрасывать; совершать, исполнять</lang>
 <div n="1"/>3 <lang n="english">to turn round, revolve, roll, wallow, move about (said of clouds); turn away, part, go astray, go down; come forth, develop; set upon, attack; caus. to turn round (trans.), roll; cause to turn away, remove, cast off; accomplish, execute</lang>
 <LEND>
-<L>6089<pc>260<k1>vini(vinivart)<k2>vini(vinivart)
+<L>6089<pc>260<k1>vinivart<k2>vini(vinivart)
  +vini(vinivart) 
 <div n="1"/>1 <lang n="czech">vraceti se; odvraceti se, ustávati, končiti se, mizeti, hasnouti; caus. vraceti, volati zpět, vésti zpět, odvraceti; opouštěti; ukončovati, zastavovati, odstraňovati</lang>
 <div n="1"/>2 <lang n="russian">возвращаться; отвращаться, переставать, прекращаться, исчезать, гаснуть; caus. возвращать, звать обратно, вести обратно, отвращать; покидать; прекращать, останавливать, устранять</lang>
@@ -35650,7 +35650,7 @@ II√vas ucchati, pp. uṣṭa
 <div n="1"/>2 <lang n="russian">сиять, светать</lang>
 <div n="1"/>3 <lang n="english">to shine, dawn</lang>
 <LEND>
-<L>6137<pc>262<k1>vi(vivas)<k2>vi(vivas)
+<L>6137<pc>262<k1>vivas<k2>vi(vivas)
  +vi (vivas) 
 <div n="1"/>1 <lang n="czech">rozzářiti se, svítati</lang>
 <div n="1"/>2 <lang n="russian">засиять, светать</lang>
@@ -35866,7 +35866,7 @@ I vā pcl. conj., encl.
 <div n="1"/>2 <lang n="russian">или; как (cf. iva); право (cf. eva)</lang>
 <div n="1"/>3 <lang n="english">or; as, like ( cf. iva); indeed (cf. eva)</lang>
 <LEND>
-<L>6174<pc>264<k1>vA—vA<k2>vA—vA
+<L>6174<pc>264<k1>vA<k2>vA
  +vā — vā
 <div n="1"/>1 <lang n="czech">buď — nebo</lang>
 <div n="1"/>2 <lang n="russian">или — или</lang>
@@ -38194,7 +38194,7 @@ vṛścika
 <L>6570<pc>281<k1>vfz<k2>vfz
 √vṛṣ v. varṣ
 <LEND>
-<L>6571<pc>281<k1>vfzá<k2>vfzá
+<L>6571<pc>281<k1>vfza<k2>vfza
 vṛṣá m.
 <div n="1"/>1 <lang n="czech">býk, samec, muž, manžel</lang>
 <div n="1"/>2 <lang n="russian">бык, самец, мужчина, супруг</lang>
@@ -40900,13 +40900,13 @@ II ṣaṭśata* num. n. sg., pl., ṣaṭśatī f.
 <div n="1"/>2 <lang n="russian">шестой</lang>
 <div n="1"/>3 <lang n="english">the sixth</lang>
 <LEND>
-<L>7031<pc>300<k1>zoqaSa*<k2>zoqaSa*
+<L>7031<pc>300<k1>zoqaSa<k2>zoqaSa*
 I ṣoḍaśa* num.
 <div n="1"/>1 <lang n="czech">šestnáct</lang>
 <div n="1"/>2 <lang n="russian">шестнадцать</lang>
 <div n="1"/>3 <lang n="english">sixteen</lang>
 <LEND>
-<L>7032<pc>300<k1>zoqaSa*<k2>zoqaSa*
+<L>7032<pc>300<k1>zoqaSa<k2>zoqaSa*
 II ṣoḍaśa* num. ord. (f. -ī) 
 <div n="1"/>1 <lang n="czech">šestnáctý</lang>
 <div n="1"/>2 <lang n="russian">шестнадцатый</lang>
@@ -40924,7 +40924,7 @@ I sa pron. (nom. sg. sa, sas; sā, tat)
 <div n="1"/>2 <lang n="russian">этот, тот, он</lang>
 <div n="1"/>3 <lang n="english">this, that, he</lang>
 <LEND>
-<L>7035<pc>300<k1>so'ham<k2>so'ham
+<L>7035<pc>300<k1>soham<k2>so'ham
 so'ham
 <div n="1"/>1 <lang n="czech">tady já, právě já, já sám</lang>
 <div n="1"/>2 <lang n="russian">здесь я, именно я, я сам</lang>

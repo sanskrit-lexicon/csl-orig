@@ -7790,7 +7790,7 @@ killed.
 {%Astras%}¦ — arranged alphabetically: Asiratnam, Āgneyam,
 Aindram, Aiṣīkāmam, Kampanam, Kāpalam, Kālamud-
 garam, Kaiṅkaram, Krauñcam, Gāndharvam, Tāpanam,
-Tvāṣtram, Nandakam, Nāra siṃham, Nārāyaṇāstram, Pāśu-
+Tvāṣtram, Nandakam, Nārasiṃham, Nārāyaṇāstram, Pāśu-
 patam, Paiśācam, Pramathanam, Prasthāpanam, Prasvāpa-
 nam, Brahmaśiras, Brāhmam, Bhāvanam, Bhairavam, Matha-
 nam, Mahābalam, Māyādharam, Mohanam, Mausalam, Rau-
@@ -10680,7 +10680,7 @@ him Govinda. Returned to his region.<sup>33</sup>
 city.<sup>34</sup> Requested Mucukunda for aid against the Asuras.<sup>35</sup>
 Went to Dvārakā with gods to invite Kṛṣṇa to go back to
 Vaikuṇṭḥa.<sup>36</sup>
-<div n="P"/>Place on the {%Śiśumāra.%}<sup>37</sup> Prayer to Nara siṃha.<sup>38</sup>
+<div n="P"/>Place on the {%Śiśumāra.%}<sup>37</sup> Prayer to Narasiṃha.<sup>38</sup>
 Devoid of energy.<sup>39</sup> Pleased with the {%yajña%} of Marutta.<sup>40</sup>
 Father of Arjuṅa.<sup>41</sup> See {%Indrayāga.%}
 <div n="P"/>With the sun for the months {%Nabhonabhasi:%} An Āditya;
@@ -27253,13 +27253,13 @@ the end of his life. His son was Dīrgabāhu.
 76-83.
 <LEND>
 
-<L>3914<pc>1-495<k1>KawvAṅga<k2>KawvAṅga<h>II
+<L>3914<pc>1-495<k1>KawvANga<k2>KawvANga<h>II
 {%Khaṭvāṅga%} (II)¦ — a son of Yaśodā,<sup>1</sup> a rājarṣi.<sup>2</sup>
 <F>1) Br. III. 10. 90.</F>
 <F>2) Vā. 73. 41.</F>
 <LEND>
 
-<L>3915<pc>1-495<k1>KawvAṅga<k2>KawvAṅga<h>III
+<L>3915<pc>1-495<k1>KawvANga<k2>KawvANga<h>III
 {%Khaṭvāṅga%} (III)¦ — A daitya.
 <div n="P"/>Bhā. XII. 3. 9.
 <LEND>
@@ -33450,7 +33450,7 @@ that day gets good children.<sup>2</sup>
 <div n="P"/>Vā. 96. 170.
 <LEND>
 
-<L>4835<pc>1-608<k1>citrAṅgada<k2>citrAṅgada<h>I
+<L>4835<pc>1-608<k1>citrANgada<k2>citrANgada<h>I
 {%Citrāṅgada%} (I)¦ — a Kṣatriya son of Śantanu and a fisher-
 woman Satyavatī; was killed in a battle by a Gandharva
 by name Citrāṅgada.
@@ -33458,7 +33458,7 @@ by name Citrāṅgada.
 Vi. IV. 20. 34-5.
 <LEND>
 
-<L>4836<pc>1-608<k1>citrAṅgada<k2>citrAṅgada<h>II
+<L>4836<pc>1-608<k1>citrANgada<k2>citrANgada<h>II
 {%Citrāṅgada%} (II)¦ — a Gandharva who killed Citrāṅgada,
 a son of Śantanu.
 <div n="P"/>Bhā. IX. 22. 20; Vi. IV. 20. 35.
@@ -36521,7 +36521,7 @@ etc.<sup>3</sup>
 <div n="P"/>Vā. 69. 125.
 <LEND>
 
-<L>5285<pc>2-003<k1>tatvasaṃhitA<k2>tatvasaṃhitA
+<L>5285<pc>2-003<k1>tatvasaMhitA<k2>tatvasaMhitA
 {%Tatvasaṃhitā%}¦ — a treatise attributed to Kardama
 (Kapila). It treats of twenty-four principles and the
 twenty-fifth was Kāla.
@@ -47891,13 +47891,13 @@ these are Vipaścit, Indra, Satya and Hari.
 <div n="P"/>M. 174. 18.
 <LEND>
 
-<L>6941<pc>2-209<k1>nara siṃha<k2>nara siṃha
-{%Nara siṃha%}¦ — The {%avatār%} of Hari to kill Hiraṇyakaśipu
+<L>6941<pc>2-209<k1>narasiMha<k2>narasiMha
+{%Narasiṃha%}¦ — The {%avatār%} of Hari to kill Hiraṇyakaśipu
 by the nails neither wet nor dry;<sup>1</sup> on Brahmā granting the
-request of Hiraṇyakaśipu, Nara siṃha was approached by the
-gods; Nara siṃha promised to slay him and left for the sabhā
+request of Hiraṇyakaśipu, Narasiṃha was approached by the
+gods; Narasiṃha promised to slay him and left for the sabhā
 of Hiraṇyakaśipu; Prahlāda alone knew Him to be the Lord;
-all the Asuras attacked him from all sides; finally Nara siṃha
+all the Asuras attacked him from all sides; finally Narasiṃha
 killed him by tearing him with his teeth.<sup>2</sup>
 <F>1) Br. III. 5. 26-27; 57. 57; 73. 74; Vā. 67. 66; 97. 73; 98. 73;
 111. 72; Vi. I. 20. 32.</F>
@@ -49033,8 +49033,8 @@ month, has no rebirth.
 <LEND>
 [Page2-231+ 47]
 
-<L>7075<pc>2-231<k1>nAra siṃha<k2>nAra siṃha<h>I
-{%Nāra siṃha%} (I)¦ — (also Nara siṃha and Nṛ siṃha) the
+<L>7075<pc>2-231<k1>nArasiMha<k2>nArasiMha<h>I
+{%Nārasiṃha%} (I)¦ — (also Narasiṃha and Nṛ siṃha) the
 fourteenth among the {%avatārs%} of Viṣṇu; the first among the
 twelve {%avatārs;%} vanquished the Asura king with the help of
 {%Oṅkāra%} bearing him like a mat-maker tearing the reeds.
@@ -49042,30 +49042,30 @@ twelve {%avatārs;%} vanquished the Asura king with the help of
 47. 42, 46; 161. 37; Vā. I. 151; Vi. IV. 14. 47; 15. 4.
 <LEND>
 
-<L>7076<pc>2-231<k1>nAra siṃha<k2>nAra siṃha<h>II
-{%Nāra siṃha%} (II)¦ — the image of; with eight hands, with
+<L>7076<pc>2-231<k1>nArasiMha<k2>nArasiMha<h>II
+{%Nārasiṃha%} (II)¦ — the image of; with eight hands, with
 the Asura below vomitting blood.
 <div n="P"/>M. 259. 2; 260. 31.
 <LEND>
 
-<L>7077<pc>2-231<k1>nAra siṃha<k2>nAra siṃha<h>III
-{%Nāra siṃha%} (III)¦ — the 16th kalpa.
+<L>7077<pc>2-231<k1>nArasiMha<k2>nArasiMha<h>III
+{%Nārasiṃha%} (III)¦ — the 16th kalpa.
 <div n="P"/>M. 290. 7.
 <LEND>
 
-<L>7078<pc>2-231<k1>nAra siṃham<k2>nAra siṃham<h>I
-{%Nāra siṃham%} (I)¦ — a {%tīrtham%} sacred to the Pitṛs.
+<L>7078<pc>2-231<k1>nArasiMham<k2>nArasiMham<h>I
+{%Nārasiṃham%} (I)¦ — a {%tīrtham%} sacred to the Pitṛs.
 <div n="P"/>M. 22. 43.
 <LEND>
 
-<L>7079<pc>2-231<k1>nAra siṃham<k2>nAra siṃham<h>II
-{%Nāra siṃham%} (II)¦ — the {%Upapurāṇa%} of 18,000 verses be-
+<L>7079<pc>2-231<k1>nArasiMham<k2>nArasiMham<h>II
+{%Nārasiṃham%} (II)¦ — the {%Upapurāṇa%} of 18,000 verses be-
 longing to the Pādmam.
 <div n="P"/>M. 53. 60.
 <LEND>
 
-<L>7080<pc>2-231<k1>nAra siṃhI<k2>nAra siṃhI
-{%Nāra siṃhī%}¦ — a mind-born mother.
+<L>7080<pc>2-231<k1>nArasiMhI<k2>nArasiMhI
+{%Nārasiṃhī%}¦ — a mind-born mother.
 <div n="P"/>M. 197. 11.
 <LEND>
 
@@ -50774,8 +50774,8 @@ of Dūrva.
 <div n="P"/>Bhā. V. 20. 4.
 <LEND>
 
-<L>7338<pc>2-262<k1>nf siṃha<k2>nf siṃha
-{%Nṛ siṃha%}¦ — (Nṛhari and Narahari Nara siṃham (s.v.)
+<L>7338<pc>2-262<k1>nfsiMha<k2>nfsiMha
+{%Nṛ siṃha%}¦ — (Nṛhari and Narahari Narasiṃham (s.v.)
 half man and half lion {%avatār%} of Viṣṇu, worshipped as such in
 Harivarṣa;<sup>1</sup> came out of a post which Hiraṇyakaśipu knocked
 with his fist; a description of his form and how he killed
@@ -50804,8 +50804,8 @@ VII. 9. 2.</F>
 245. 21.</F>
 <LEND>
 
-<L>7339<pc>2-262<k1>nf siṃhaBEravA<k2>nf siṃhaBEravA
-{%Nṛ siṃhabhairavā%}¦ — a goddess following Bhavamālinī.
+<L>7339<pc>2-262<k1>nfsiMhaBEravA<k2>nfsiMhaBEravA
+{%Nṛsiṃhabhairavā%}¦ — a goddess following Bhavamālinī.
 <div n="P"/>M. 179. 71.
 <LEND>
 
@@ -53627,7 +53627,7 @@ comes out of Hari's navel.
 and comprising 55000 ślokas;<sup>1</sup> he who copies and presents
 it with a golden lotus in the month of Jyeṣṭha (Āḍi) attains
 the fruit of an aśvamedha sacrifice;<sup>2</sup> contains a description
-of Nara siṃha in 18000 slokas;<sup>3</sup> to be read every parva.<sup>4</sup>
+of Narasiṃha in 18000 slokas;<sup>3</sup> to be read every parva.<sup>4</sup>
 <F>1) Bhā. XII. 7. 23; 13. 4; Vā. 104. 9. Vi. III. 6. 21.</F>
 <F>2) M. 53.
 14-15.</F>
@@ -55621,7 +55621,7 @@ tics described.
 <LEND>
 [Page2-350+ 34]
 
-<L>8043<pc>2-350<k1>purARasaṃhitA<k2>purARasaṃhitA
+<L>8043<pc>2-350<k1>purARasaMhitA<k2>purARasaMhitA
 {%Purāṇasaṃhitā%}¦ — a reference to the Matsyapurāṇa;
 superior to all the Śāstras; a road to Dharma, Artha and
 Kāma;<sup>1</sup> the last chapter is an appendix dealing with rules
@@ -55641,7 +55641,7 @@ Purāṇa;<sup>4</sup> follows Vedic tradition.<sup>5</sup>
 VI. 8. 12.</F>
 <LEND>
 
-<L>8044<pc>2-350<k1>purARasaṃhitA<k2>purARasaṃhitA
+<L>8044<pc>2-350<k1>purARasaMhitA<k2>purARasaMhitA
 {%Purāṇasaṃhitās%}¦ — personified: came up to see Tri-
 vikrama Hari.
 <div n="P"/>Bhā. VIII. 21. 2.
@@ -57186,7 +57186,7 @@ Bhaṇḍa.<sup>2</sup>
 <F>2) Ib. IV. 26. 49.</F>
 <LEND>
 
-<L>8265<pc>2-378<k1>pUrvasaṃhitA<k2>pUrvasaṃhitA
+<L>8265<pc>2-378<k1>pUrvasaMhitA<k2>pUrvasaMhitA
 {%Pūrvasaṃhitās%}¦ — Kaśyapa, Sāvarṇī, Sāṃśapāyana and
 Sāmikā, constitute the authors of Saṃhitās.
 <div n="P"/>Vā. 61. 58.
@@ -58894,7 +58894,7 @@ Manu.
 different sizes of images and of gods to be worshipped in
 houses: relative proportions of a Navatāla image;<sup>1</sup> Speciali-
 ties of feminine forms;<sup>2</sup> Images of other sizes including Rāma,
-Varāha, Nara siṃha, of Śiva with ten arms, four or eight
+Varāha, Narasiṃha, of Śiva with ten arms, four or eight
 arms: defective forms to be condemned;<sup>3</sup> Specialities of
 Ardhanārīśvara or Umāmaheśvara;<sup>4</sup> of Śivanārāyaṇa;<sup>5</sup> of
 Brahmā and Kārttikeya;<sup>6</sup> of Kātyāyanī;<sup>7</sup> of Indra;<sup>8</sup> images of
@@ -60281,7 +60281,7 @@ II. 10. 5; Vā. 69. 127.</F>
 <L>8705<pc>2-434<k1>prahlAda<k2>prahlAda<h>I
 {%Prahlāda%} (I)¦ — (also Prahrāda): son of Hiraṇyakaśipu
 and Kayādhu, a dānavī;<sup>1</sup> a devotee and attendant of Hari; of
-Nara siṃha and Kṛṣṇa in Harivarṣa,<sup>2</sup> Lord of the Daityas and
+Narasiṃha and Kṛṣṇa in Harivarṣa,<sup>2</sup> Lord of the Daityas and
 Dānavas;<sup>2a</sup> most righteous of Hiraṇyakaśipu's sons, a Mahā-
 bhāgavata and a Mahātma,<sup>3</sup> Dattātreya was a tutor: Saṇḍa
 and Marka, sons of Śukra, were his tutors to teach him
@@ -60314,17 +60314,17 @@ body of any caste or creed could attain salvation by worship-
 ping Hari; when this was reported to his father by the tutor,
 Prahlāda was sent for and threatened with death if he
 persisted in his devotion to Hari. Prahlāda was defiant in
-the sabhā of Hiraṇyakaśipu; found in Nara siṃha the Lord
+the sabhā of Hiraṇyakaśipu; found in Narasiṃha the Lord
 Vāsudeva and spoke to those in the sabhā, but in vain; tak-
 ing up his sword Hiraṇyakaśipu asked him to show Hari at
 the post near by which he knocked with his fist; out came
-Nara siṃha and destroyed Hiraṇyakaśipu in the midst of
+Narasiṃha and destroyed Hiraṇyakaśipu in the midst of
 portents; universal rejoicing and praise of Hari; the Gods
-found Nara siṃha still raging in anger and requested
+found Narasiṃha still raging in anger and requested
 Prahlāda to praise Him; his praise; pleased, the Lord prompt-
 ed him to ask for boons; Prahlāda said that desires were
 the seeds of {%saṃsāra%} and therefore he did not want them;
-he only wanted to be ever devoted to him; Nara siṃha asked
+he only wanted to be ever devoted to him; Narasiṃha asked
 him to be king and at the same time be devoted to him; and
 when the time came for him he could cast off his body and
 get himself merged into Hari; then Prahlāda requested for
@@ -60358,7 +60358,7 @@ the Asuras<sup>22</sup> of the Vitalam;<sup>23</sup> Maitreya's question on the
 career of;<sup>24</sup> tormented by his father for thinking of God
 Viṣṇu in different ways;<sup>25</sup> was administered poison and other
 means to kill him; Śambara's hand in;<sup>26</sup> his father killed
-by Nara siṃha<sup>27</sup> becomes the lord (Indra) of the Daityas,
+by Narasiṃha<sup>27</sup> becomes the lord (Indra) of the Daityas,
 and Dānavas.<sup>28</sup>
 [Page2-437+ 21]
 <F>1) Bhā. VI. 18. 12, 13. VII. 1. 41; Br. III. 5. 33; 8. 6; M. 6. 9;
@@ -73732,7 +73732,7 @@ the rule of might.
 <L>10593<pc>2-680<k1>mAtsyam<k2>mAtsyam
 {%Mātsyam (Purāṇam)%}¦ — originally told by Gadādhara;<sup>1</sup>
 told by Janārdana in the guise of a fish to Manu consisting
-of a description of Nara siṃha and an account of the seven
+of a description of Narasiṃha and an account of the seven
 kalpas and consisting of 14,000 verses; he who gives it along
 with a golden fish and a cow on the first day of the Caitra
 month gets the benefit of the gift of the whole world.<sup>2</sup>
@@ -74175,7 +74175,7 @@ of.<sup>3</sup>
 
 <L>10659<pc>2-688<k1>mAyA<k2>mAyA<h>III
 {%Māyā%} (III)¦ — is Yogamāyā; a mind-born mother;<sup>1</sup> from
-the heart of Nara siṃha;<sup>2</sup> a śakti.<sup>3</sup>
+the heart of Narasiṃha;<sup>2</sup> a śakti.<sup>3</sup>
 <F>1) Bhā. X. 2. 12; M. 179. 21.</F>
 <F>2) Ib. 179. 64.</F>
 <F>3) Br. II. 26.
@@ -75947,7 +75947,7 @@ Puruṣa is Vāsudeva.
 <div n="P"/>M. 240. 3.
 <LEND>
 
-<L>10924<pc>2-722<k1>mUlasaṃhita<k2>mUlasaṃhita
+<L>10924<pc>2-722<k1>mUlasaMhita<k2>mUlasaMhita
 {%Mūlasaṃhitas%}¦ — four authors — Kāśyapa, Sāvarṇi, Śām-
 śapāyana, and Yājñavalkya.
 <div n="P"/>Br. II. 35. 66-68.
@@ -80455,7 +80455,7 @@ groups of earth, water and space.<sup>6</sup>
 <div n="P"/>Br. II. 13. 9; Vā. 30. 8.
 <LEND>
 
-<L>11527<pc>3-060<k1>rahaṃvarca<k2>rahaṃvarca
+<L>11527<pc>3-060<k1>rahaMvarca<k2>rahaMvarca
 {%Rahaṃvarcas%}¦ — a son of Sampāti.
 <div n="P"/>M. 49. 4.
 <LEND>
@@ -80842,8 +80842,8 @@ attained heaven by {%tapas.%}<sup>2</sup>
 <F>2) Ib. 143. 38.</F>
 <LEND>
 
-<L>11578<pc>3-067<k1>rAja siṃha<k2>rAja siṃha
-{%Rāja siṃha%}¦ — a king of Vidarbha. His daughter was
+<L>11578<pc>3-067<k1>rAjasiMha<k2>rAjasiMha
+{%Rājasiṃha%}¦ — a king of Vidarbha. His daughter was
 married to Malayadhvaja Pāṇḍya.
 <div n="P"/>Bhā. IV. 28. 28-29.
 <LEND>
@@ -82145,7 +82145,7 @@ Vārānasī.
 <div n="P"/>M. 43. 10-11.
 <LEND>
 
-<L>11713<pc>3-092<k1>rudrasaṃhitA<k2>rudrasaṃhitA
+<L>11713<pc>3-092<k1>rudrasaMhitA<k2>rudrasaMhitA
 {%Rudrasaṃhitā%}¦ — the Sūkta of the Sāmaveda, to be recit-
 ed in tank ritual.
 <div n="P"/>M. 58. 36.
@@ -83205,7 +83205,7 @@ a lotus garland at Vṛndāvana.<sup>2</sup>
 <div n="P"/>M. 13. 46.
 <LEND>
 
-<L>11876<pc>3-111<k1>lakzmIsvayaṃvaram<k2>lakzmIsvayaṃvaram
+<L>11876<pc>3-111<k1>lakzmIsvayaMvaram<k2>lakzmIsvayaMvaram
 {%Lakṣmīsvayaṃvaram%}¦ — apparently a dramatic compo-
 sition of Bharata (s.v.) enacted in the presence of Purū-
 ravas at Indra's command.
@@ -92745,7 +92745,7 @@ of Kroṣṭhu, helped the Vṛṣṇis;<sup>15</sup> helped Indra by killing
 Kāvya's mother;<sup>16</sup> worship of, in the Vibhūti dvādaśi-
 vratam;<sup>17</sup> Icon of, with different postures described;<sup>18</sup>
 <div n="P"/>Viṣṇu (Janārdana);<sup>19</sup> blessed Vaibhrāja of Pāñcāla with
-a son, Brahmadatta;<sup>20</sup> in Nāra siṃha form;<sup>21</sup> in {%Meghakara%}
+a son, Brahmadatta;<sup>20</sup> in Nārasiṃha form;<sup>21</sup> in {%Meghakara%}
 {%tīrtham;%}<sup>22</sup> blessed Soma with fulfilment of all his desires;<sup>23</sup>
 regained the jewel Syamantaka from the bear and gave it
 to Satrājit;<sup>24</sup> spoke of Ādisarga and Pratisarga;<sup>25</sup> worshipped
@@ -100740,7 +100740,7 @@ Maithilas, Sūrasenas, Vītihotras.<sup>2</sup> (See also Śiśunāka).
 
 <L>14518<pc>3-432<k1>SiSupAla<k2>SiSupAla
 {%Śiśupāla%}¦ — a son of Śrutaśravas and Damaghoṣa; in pre-
-vious births, Hiraṇyakaśipu killed by Nara siṃha and Rāvaṇa
+vious births, Hiraṇyakaśipu killed by Narasiṃha and Rāvaṇa
 (Daśagrīva) killed by Rāma; a hater of Hari but was shown
 grace by Kṛṣṇa;<sup>1</sup> attacked the northern gate of Mathurā and
 Gomanta when they were besieged by Jarāsandha;<sup>2</sup> engaged
@@ -100760,7 +100760,7 @@ how it was that though he was killed by the Lords Nara-
  siṃha and Rāma, Hiraṇyakaśipu did not attain salvation but
 was reborn as Śisupāla, and how he attained it when killed
 by Kṛṣṇa; Parāśara replied that neither Hiraṇyakaśipu nor
-Rāvaṇa knew that Nara siṃha or Rāma were the {%avatārs%} of
+Rāvaṇa knew that Narasiṃha or Rāma were the {%avatārs%} of
 Viṣṇu; Śiśupāla knew in his heart of hearts that Kṛṣṇa was
 God Viṣṇu and welcomed death at his hands. Hence his
 salvation.<sup>7</sup>
@@ -106244,7 +106244,7 @@ offerings.<sup>2</sup>
 <LEND>
 
 <L>15342<pc>3-532<k1>saptatAla<k2>saptatAla
-{%Saptatāla%}¦ — (śilpa) the images of Vārāha, Nāra siṃha
+{%Saptatāla%}¦ — (śilpa) the images of Vārāha, Nārasiṃha
 and Vāmana.
 <div n="P"/>M. 259. 2.
 <LEND>
@@ -106956,7 +106956,7 @@ epoch.
 <LEND>
 
 <L>15461<pc>3-545<k1>samBUtI<k2>samBUtI
-{%Sambhūtīs — divya avatārs;%}¦ Nārāyaṇa, Nara siṃha and
+{%Sambhūtīs — divya avatārs;%}¦ Nārāyaṇa, Narasiṃha and
 Vāmana; manuṣya {%avatārs%} seven due to Bhṛgu's curse; Dat-
 tātreya, Māndhāta, Jamadagni, Rāma, Vedavyāsa, Kṛṣṇa
 and Kalki.
@@ -107101,12 +107101,12 @@ shipped by Brahmans.
 <div n="P"/>Br. II. 12. 21; Vā. 29. 19.
 <LEND>
 
-<L>15484<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>I
+<L>15484<pc>3-548<k1>saMvatsara<k2>saMvatsara<h>I
 {%Saṃvatsara%} (I)¦ — a sage in the Darūvana.
 <div n="P"/>Br. II. 27. 104.
 <LEND>
 
-<L>15485<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>II
+<L>15485<pc>3-548<k1>saMvatsara<k2>saMvatsara<h>II
 {%Saṃvatsara%} (II)¦ — a part of the five-year yuga;<sup>1</sup> a year,
 the first among years; is Agni; represented by Kāvya pitṛs;<sup>2</sup>
 of different kinds — dīvyasaṃvatsara, Dhruvasaṃvatsara,
@@ -107117,17 +107117,17 @@ Pitṛsaṃvatsara, and Saptarṣisaṃvatsara.<sup>3</sup>
 <F>3) Ib. II. 28. 21; 29. 10, 16 and 18.</F>
 <LEND>
 
-<L>15486<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>III
+<L>15486<pc>3-548<k1>saMvatsara<k2>saMvatsara<h>III
 {%Saṃvatsara%} (III)¦ — a Śakti.
 <div n="P"/>Br. IV. 32. 15.
 <LEND>
 
-<L>15487<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>IV
+<L>15487<pc>3-548<k1>saMvatsara<k2>saMvatsara<h>IV
 {%Saṃvatsara%} (IV)¦ — is Agni.
 <div n="P"/>M. 141. 18.
 <LEND>
 
-<L>15488<pc>3-548<k1>saṃvatsara<k2>saṃvatsara<h>V
+<L>15488<pc>3-548<k1>saMvatsara<k2>saMvatsara<h>V
 {%Saṃvatsara%} (V)¦ — Vārāha Viṣṇu got the form of.
 <div n="P"/>Vā. 23. 104.
 <LEND>
@@ -107139,7 +107139,7 @@ father of Kuru.
 Vi. IV. 19. 75-6.
 <LEND>
 
-<L>15490<pc>3-548<k1>saṃvarta<k2>saṃvarta<h>I
+<L>15490<pc>3-548<k1>saMvarta<k2>saMvarta<h>I
 {%Saṃvarta%} (I)¦ — a son of Aṅgiras, and a yogin; helped
 Marutta in his {%yajñas;%}<sup>1</sup> enabled Prāṃśu's son to go to
 Heaven.<sup>2</sup>
@@ -107148,14 +107148,14 @@ Heaven.<sup>2</sup>
 <F>2) Br. III. 61. 5.</F>
 <LEND>
 
-<L>15491<pc>3-549<k1>saṃvarta<k2>saṃvarta<h>II
+<L>15491<pc>3-549<k1>saMvarta<k2>saMvarta<h>II
 {%Saṃvarta%} (II)¦ — a son of Svarūpa and a gotrakāra;<sup>1</sup>
 attained salvation at Benares.<sup>2</sup>
 <F>1) M. 196. 4.</F>
 <F>2) Ib. 180. 63.</F>
 <LEND>
 
-<L>15492<pc>3-549<k1>saṃvarta<k2>saṃvarta<h>III
+<L>15492<pc>3-549<k1>saMvarta<k2>saMvarta<h>III
 {%Saṃvarta%} (III)¦ — a priest of Maruttacakravarti who
 went bodily to heaven with all his relations and Marutta
 taking {%yajña%} with him; hence Bṛhaspati got angry with him
@@ -107163,14 +107163,14 @@ as he anticipated the destruction of the world.
 <div n="P"/>Vā. 86. 9, 11.
 <LEND>
 
-<L>15493<pc>3-549<k1>saṃvartaka<k2>saṃvartaka<h>I
+<L>15493<pc>3-549<k1>saMvartaka<k2>saMvartaka<h>I
 {%Saṃvartaka%} (I)¦ — a group of clouds ordered by Indra to
 inundate Gokula;<sup>1</sup> {%Pralaya%} clouds.<sup>2</sup>
 <F>1) Bhā. X. 25. 2-7.</F>
 <F>2) M. 2. 8; Vā. 77. 7; 100. 156.</F>
 <LEND>
 
-<L>15494<pc>3-549<k1>saṃvartaka<k2>saṃvartaka<h>II
+<L>15494<pc>3-549<k1>saMvartaka<k2>saMvartaka<h>II
 {%Saṃvartaka%} (II)¦ — also Aurva and Vaḍavāmukha;<sup>1</sup> the
 fire that consumes waters; the {%pralaya%} fire;<sup>2</sup> son of Manyu-
 mān Agni.<sup>3</sup>
@@ -107180,19 +107180,19 @@ Vā. 6. 29; 54. 57</F>
 <F>3) Ib. 29. 33.</F>
 <LEND>
 
-<L>15495<pc>3-549<k1>saṃvartta<k2>saṃvartta
+<L>15495<pc>3-549<k1>saMvartta<k2>saMvartta
 {%Saṃvartta%}¦ — a son of Pathya and Atharvāṅgiras.
 <div n="P"/>Br. III. 1. 106.
 <LEND>
 
-<L>15496<pc>3-549<k1>saṃvarttaka<k2>saṃvarttaka
+<L>15496<pc>3-549<k1>saMvarttaka<k2>saMvarttaka
 {%Saṃvarttakas%}¦ — massive clouds like elephants and of
 different colours pouring down rain for 100 years during the
 period of dissolution.
 <div n="P"/>Vi. V. 11. 1; VI. 3. 31.
 <LEND>
 
-<L>15497<pc>3-549<k1>saṃvaha<k2>saṃvaha
+<L>15497<pc>3-549<k1>saMvaha<k2>saMvaha
 {%Saṃvaha%}¦ — the chief of the fourth Vātaskandha.
 <div n="P"/>Br. III. 5. 85; M. 163. 32.
 <LEND>
@@ -110068,19 +110068,19 @@ ruled.
 <div n="P"/>Bhā. V. 10. 1; M. 114. 41; Vā. 45. 116.
 <LEND>
 
-<L>15922<pc>3-602<k1> siṃha<k2> siṃha<h>I
-{% siṃha%} (I)¦ — a son of Mādrī and Kṛṣṇa.
+<L>15922<pc>3-602<k1>siMha<k2>siMha<h>I
+{%siṃha%} (I)¦ — a son of Mādrī and Kṛṣṇa.
 <div n="P"/>Bhā. X. 61. 15.
 <LEND>
 
-<L>15923<pc>3-602<k1> siṃha<k2> siṃha<h>II
-{% siṃha%} (II)¦ — a palace in the form of a lion; the {%toraṇa%}
+<L>15923<pc>3-602<k1>siMha<k2>siMha<h>II
+{%siṃha%} (II)¦ — a palace in the form of a lion; the {%toraṇa%}
 is 16 hastas.
 <div n="P"/>M. 269. 36, 49.
 <LEND>
 
-<L>15924<pc>3-602<k1> siṃha<k2> siṃha
-{% siṃhas%}¦ — born of Hari and Pulaha; as a son of Jām-
+<L>15924<pc>3-602<k1>siMha<k2>siMha
+{%siṃhas%}¦ — born of Hari and Pulaha; as a son of Jām-
 bavān, a {%vānara jāti;%}<sup>1</sup> a golden image of, as a gift for
 {%vīravratam%} of women;<sup>2</sup> the riding animal of Lalitā;<sup>3</sup> born
 out of the wrath of Śiva and destroyed Dakṣa's sacrifice.<sup>4</sup>
@@ -110090,18 +110090,18 @@ out of the wrath of Śiva and destroyed Dakṣa's sacrifice.<sup>4</sup>
 <F>4) Vā. 101. 295.</F>
 <LEND>
 
-<L>15925<pc>3-602<k1> siṃhaGoza<k2> siṃhaGoza
-{% siṃhaghoṣa%}¦ — a son and commander of Bhaṇḍa.
+<L>15925<pc>3-602<k1>siMhaGoza<k2>siMhaGoza
+{%siṃhaghoṣa%}¦ — a son and commander of Bhaṇḍa.
 <div n="P"/>Br. IV. 21. 81; 26. 48.
 <LEND>
 
-<L>15926<pc>3-602<k1> siṃhadvAra<k2> siṃhadvAra
-{% siṃhadvāra%}¦ — the lion-gate in front of Śivaloka.
+<L>15926<pc>3-602<k1>siMhadvAra<k2>siMhadvAra
+{%siṃhadvāra%}¦ — the lion-gate in front of Śivaloka.
 <div n="P"/>Br. III. 32. 11.
 <LEND>
 
-<L>15927<pc>3-602<k1> siṃhanAda<k2> siṃhanAda
-{% siṃhanāda%}¦ (also meghanāda) a war cry;<sup>1</sup> made by
+<L>15927<pc>3-602<k1>siMhanAda<k2>siMhanAda
+{%siṃhanāda%}¦ (also meghanāda) a war cry;<sup>1</sup> made by
 Kṛṣṇa on seeing the Ariṣṭa bull;<sup>2</sup> before wrestling with
 Cāṇūra.<sup>3</sup>
 [Page3-603+ 35]
@@ -110110,32 +110110,32 @@ Cāṇūra.<sup>3</sup>
 <F>3) Ib. V. 20. 35.</F>
 <LEND>
 
-<L>15928<pc>3-603<k1> siṃharaTa<k2> siṃharaTa
-{% siṃharatha%}¦ — the chariot of lion of Kārttikeya.
+<L>15928<pc>3-603<k1>siMharaTa<k2>siMharaTa
+{%siṃharatha%}¦ — the chariot of lion of Kārttikeya.
 <div n="P"/>Vā. 41. 38.
 <LEND>
 
-<L>15929<pc>3-603<k1> siṃhala<k2> siṃhala
-{% siṃhala%}¦ — an Upadvīpa to Jambūdvīpa;<sup>1</sup> the modern
+<L>15929<pc>3-603<k1>siMhala<k2>siMhala
+{%siṃhala%}¦ — an Upadvīpa to Jambūdvīpa;<sup>1</sup> the modern
 Ceylon: to be conquered by Kalki.<sup>2</sup>
 <F>1) Bhā. V. 19. 30.</F>
 <F>2) Br. II. 31. 82; III. 73. 107; M. 144. 56.</F>
 <LEND>
 
-<L>15930<pc>3-603<k1> siṃhala<k2> siṃhala
-{% siṃhalas%}¦ — Ceylonese.
+<L>15930<pc>3-603<k1>siMhala<k2>siMhala
+{%siṃhalas%}¦ — Ceylonese.
 <div n="P"/>Vā. 58. 82; 98. 107.
 <LEND>
 
-<L>15931<pc>3-603<k1> siṃhasTa<k2> siṃhasTa
-{% siṃhastha Bṛhaspati%}¦ — When Guru is in  siṃha (this
+<L>15931<pc>3-603<k1>siMhasTa<k2>siMhasTa
+{%siṃhastha Bṛhaspati%}¦ — When Guru is in  siṃha (this
 only once in every twelve years) Gayāśrāddham not to be
 omitted.
 <div n="P"/>Vā. 105. 19.
 <LEND>
 
-<L>15932<pc>3-603<k1> siṃhAsana<k2> siṃhAsana
-{% siṃhāsana%}¦ — the lion throne for kings;<sup>1</sup> of Devī which
+<L>15932<pc>3-603<k1>siMhAsana<k2>siMhAsana
+{%siṃhāsana%}¦ — the lion throne for kings;<sup>1</sup> of Devī which
 was placed in the Sabhā;<sup>2</sup> of the Pāṇḍavas; Mārkaṇḍeya
 seated by Yudhiṣṭhira on;<sup>3</sup> of Tāraka Asura.<sup>4</sup>
 <F>1) Br. III. 26. 21.</F>
@@ -110144,18 +110144,18 @@ seated by Yudhiṣṭhira on;<sup>3</sup> of Tāraka Asura.<sup>4</sup>
 <F>4) Ib. 148. 29;</F>
 <LEND>
 
-<L>15933<pc>3-603<k1> siṃhAsaneSvarI<k2> siṃhAsaneSvarI
-{% siṃhāsaneśvarī%}¦ — Lalitā
+<L>15933<pc>3-603<k1>siMhAsaneSvarI<k2>siMhAsaneSvarI
+{%siṃhāsaneśvarī%}¦ — Lalitā
 <div n="P"/>Br. IV. 15. 58.
 <LEND>
 
-<L>15934<pc>3-603<k1> siṃhAsya<k2> siṃhAsya
-{% siṃhāsya%}¦ — a palace with candraśālas.
+<L>15934<pc>3-603<k1>siMhAsya<k2>siMhAsya
+{%siṃhāsya%}¦ — a palace with candraśālas.
 <div n="P"/>M. 269. 46.
 <LEND>
 
-<L>15935<pc>3-603<k1> siṃhikA<k2> siṃhikA<h>I
-{% siṃhikā%} (I)¦ — a daughter of Diti and Kaśyapa and
+<L>15935<pc>3-603<k1>siMhikA<k2>siMhikA<h>I
+{%siṃhikā%} (I)¦ — a daughter of Diti and Kaśyapa and
 sister of Hiraṇyakaśipu: the wife of Vipracitti, and mother
 of one hundred and one sons of whom Rāhu was the eldest;<sup>1</sup>
 mother of 14 Rākṣasas;<sup>2</sup> mother of {%grahas.%}<sup>3</sup>
@@ -110165,8 +110165,8 @@ Vā. 67. 60; 128. 50; Vi. I. 15. 141.</F>
 <F>3) M. 171. 60.</F>
 <LEND>
 
-<L>15936<pc>3-603<k1> siṃhikA<k2> siṃhikA<h>II
-{% siṃhikā%} (II)¦ — a daughter of Dakṣa;<sup>1</sup> a goddess enshrin-
+<L>15936<pc>3-603<k1>siMhikA<k2>siMhikA<h>II
+{%siṃhikā%} (II)¦ — a daughter of Dakṣa;<sup>1</sup> a goddess enshrin-
 ed at Kṛtaśauca.<sup>2</sup>
 [Page3-604+ 33]
 <F>1) M. 171. 29.</F>
@@ -116255,8 +116255,8 @@ janikam.
 <L>16931<pc>3-714<k1>stotra<k2>stotra
 {%Stotras%}¦ (I)<sup>1</sup> — of Brahmā by Gods oppressed by Tāraka;<sup>2</sup>
 of Pārvatī by Vīraka;<sup>3</sup> of Ṣanmukha before Tārakāvadha;<sup>4</sup>
-same by Siddhas and Bandies;<sup>5</sup> of Nara siṃha by Gods after
-the death of Hiraṇyakaśipu;<sup>6</sup> of Nara siṃha by Śankara;<sup>7</sup> of
+same by Siddhas and Bandies;<sup>5</sup> of Narasiṃha by Gods after
+the death of Hiraṇyakaśipu;<sup>6</sup> of Narasiṃha by Śankara;<sup>7</sup> of
 Hari by Aditi;<sup>8</sup> of Hari by Prahlāda;<sup>9</sup> of Vāmana by
 Brahmā;<sup>10</sup> of Mādhava by earth (Mādhavīya);<sup>11</sup> of Viṣṇu by
 Gods for Amṛthamathana.<sup>12</sup>
@@ -116961,7 +116961,7 @@ Vā. P.) and father of Hṛdīka.
 <div n="P"/>Br. IV. 15. 4.
 <LEND>
 
-<L>17029<pc>3-727<k1>svayaṃvara<k2>svayaṃvara
+<L>17029<pc>3-727<k1>svayaMvara<k2>svayaMvara
 {%Svayaṃvara%}¦ — a form of marriage by which Kṛṣṇa mar-
 ried a good number of women;<sup>1</sup> of Draupadī;<sup>2</sup> of Lakṣmaṇā.
 <F>1) Vi. III. 18. 88; V. 28. 6; Bhā. I. 10. 29; X. 52. 16.</F>
@@ -118047,7 +118047,7 @@ adharma.
 <LEND>
 
 <L>17189<pc>3-746<k1>hari<k2>hari<h>X
-{%Hari%} (X)¦ — Nara siṃha.
+{%Hari%} (X)¦ — Narasiṃha.
 <div n="P"/>Bhā. X. 40. 19.
 <LEND>
 
@@ -119314,7 +119314,7 @@ of Jambūdvīpa.<sup>2</sup>
 <F>2) Vi. II. 2. 14.</F>
 <LEND>
 
-<L>17382<pc>3-769<k1>hiraRyakaṃvarzam<k2>hiraRyakaṃvarzam
+<L>17382<pc>3-769<k1>hiraRyakaMvarzam<k2>hiraRyakaMvarzam
 {%Hiraṇyakaṃvarṣam%}¦ — belonging to Śveta.
 <div n="P"/>M. 113. 31.
 <LEND>
@@ -119364,7 +119364,7 @@ child Hiraṇyakaśipu sat on one of the golden seats reserved
 for Hotṛ, and hence the name. Ruled for nearly (1/4) of the
 manvantara, got aurvimāyā from Aurva to dispel;<sup>10</sup> Tāmaśi-
 māyā;<sup>11</sup> rivers, mountains, worlds, etc. shaken by him;<sup>12</sup> first
-of Daityas, killed by Nara siṃha whom he never considered
+of Daityas, killed by Narasiṃha whom he never considered
 as Viṣṇu;<sup>13</sup> taken out by action of Yoganidrā under orders
 from Viṣṇu.<sup>14</sup>
 <F>1) Bhā. III. 17. 18-19; IV. 21. 47; VI. 18. 11-12; M. 6. 8, 9;
@@ -119633,7 +119633,7 @@ takes him to the abode of Śiva.
 <div n="P"/>M. 196. 41.
 <LEND>
 
-<L>17418<pc>3-775<k1>hiraRvataṃvarzam<k2>hiraRvataṃvarzam
+<L>17418<pc>3-775<k1>hiraRvataMvarzam<k2>hiraRvataMvarzam
 {%Hiraṇvataṃvarṣam%}¦ — north of Śveta and south of Śṛṅga-
 sāhva; here is Hairanvatīnadī; age of the people 11,000
 years; there is a tree Lakuca whose juice endows the people
