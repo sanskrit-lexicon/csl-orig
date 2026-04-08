@@ -188,7 +188,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          DATE_TAG=$(date +%Y-%m-%d)
+          DATE_TAG=$(date +%Y-%m-%d-%H-%M-%S)
           
           gh release create "$DATE_TAG" --title "Release $DATE_TAG" --draft=false --prerelease=false \
             -R sanskrit-lexicon/csl-sqlite \
