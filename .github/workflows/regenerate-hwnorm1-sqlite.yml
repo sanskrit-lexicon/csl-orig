@@ -71,11 +71,12 @@ jobs:
           mkdir -p sanskrit-lexicon/pd/orig
           mkdir -p sanskrit-lexicon/pd/pywork/hwextra
           
-          cd sanskrit-lexicon/pd/orig
-          curl -L -o pdtxt.zip https://www.sanskrit-lexicon.uni-koeln.de/scans/PDScan/2020/downloads/pdtxt.zip
-          unzip -o pdtxt.zip
-          mv txt/* . 2>/dev/null || true
-          rm -rf txt pdtxt.zip
+          ( cd sanskrit-lexicon/pd/orig
+            curl -L -o pdtxt.zip https://www.sanskrit-lexicon.uni-koeln.de/scans/PDScan/2020/downloads/pdtxt.zip
+            unzip -o pdtxt.zip
+            mv txt/* . 2>/dev/null || true
+            rm -rf txt pdtxt.zip
+          )
           
           touch sanskrit-lexicon/pd/pywork/hwextra/pd_hwextra.txt
 
