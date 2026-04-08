@@ -64,23 +64,19 @@ jobs:
       - name: Install dependencies
         run: |
           pip install mako lxml indic-transliteration
-          sudo apt-get update && sudo apt-get install -y libxml2-utils sqlite3 unzip
+          sudo apt-get update && sudo apt-get install -y libxml2-utils sqlite3 unzip gh
 
-      - name: Prepare pd folder structure
+      - name: Fetch data of PD dictionary
         run: |
           mkdir -p sanskrit-lexicon/pd/orig
           mkdir -p sanskrit-lexicon/pd/pywork/hwextra
-
-      - name: Download and extract pdtxt.zip
-        run: |
+          
           cd sanskrit-lexicon/pd/orig
           curl -L -o pdtxt.zip https://www.sanskrit-lexicon.uni-koeln.de/scans/PDScan/2020/downloads/pdtxt.zip
           unzip -o pdtxt.zip
           mv txt/* . 2>/dev/null || true
           rm -rf txt pdtxt.zip
-
-      - name: Create blank hwextra file
-        run: |
+          
           touch sanskrit-lexicon/pd/pywork/hwextra/pd_hwextra.txt
 
       - name: Run redo_xampp_all.sh
@@ -170,10 +166,6 @@ jobs:
           cd /tmp/csl-sqlite
           zip hwnorm1c.sqlite.zip hwnorm1c.sqlite
           zip keydoc_glob.sqlite.zip keydoc_glob.sqlite
-
-      - name: Install gh CLI
-        run: |
-          sudo apt-get install -y gh
 
       - name: Create Release with Assets
         run: |
