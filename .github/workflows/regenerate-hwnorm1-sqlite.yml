@@ -185,6 +185,8 @@ jobs:
 
       - name: Create Release with Assets
         if: env.HAS_CHANGES == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           DATE_TAG=$(date +%Y-%m-%d)
           
