@@ -186,10 +186,11 @@ jobs:
       - name: Create Release with Assets
         if: env.HAS_CHANGES == 'true'
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           DATE_TAG=$(date +%Y-%m-%d)
           
           gh release create "$DATE_TAG" --title "Release $DATE_TAG" --draft=false --prerelease=false \
+            -R sanskrit-lexicon/csl-sqlite \
             /tmp/csl-sqlite/hwnorm1c.sqlite.zip \
             /tmp/csl-sqlite/keydoc_glob1.sqlite.zip
