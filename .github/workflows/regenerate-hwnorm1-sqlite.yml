@@ -93,11 +93,6 @@ jobs:
           cd sanskrit-lexicon/hwnorm1/sanhw1
           sh redo.sh
 
-      - name: Move hwnorm1c.sqlite to csl-apidev
-        run: |
-          mkdir -p sanskrit-lexicon/csl-apidev/simple-search/hwnorm1
-          mv sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite sanskrit-lexicon/csl-apidev/simple-search/hwnorm1/
-
       - name: Configure git for hwnorm1
         run: |
           cd sanskrit-lexicon/hwnorm1
@@ -141,6 +136,17 @@ jobs:
             git push
           fi
 
+      - name: Copy sqlite files for release
+        run: |
+          mkdir -p /tmp/csl-sqlite
+          cp sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite /tmp/csl-sqlite/
+          cp sanskrit-lexicon/hwnorm2/keydoc/keydoc_glob.sqlite /tmp/csl-sqlite/
+
+      - name: Move hwnorm1c.sqlite to csl-apidev
+        run: |
+          mkdir -p sanskrit-lexicon/csl-apidev/simple-search/hwnorm1
+          mv sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite sanskrit-lexicon/csl-apidev/simple-search/hwnorm1/
+
       - name: Configure git for csl-apidev
         run: |
           cd sanskrit-lexicon/csl-apidev
@@ -158,3 +164,21 @@ jobs:
             git commit -m "Regenerated hwnorm1.sqlite as on $TIMESTAMP"
             git push
           fi
+
+      - name: Create zip files for release
+        run: |
+          cd /tmp/csl-sqlite
+          zip hwnorm1c.sqlite.zip hwnorm1c.sqlite
+          zip keydoc_glob.sqlite.zip keydoc_glob.sqlite
+
+      - name: Install gh CLI
+        run: |
+          sudo apt-get install -y gh
+
+      - name: Create Release with Assets
+        run: |
+          DATE_TAG=$(date +%Y-%m-%d)
+          
+          gh release create "$DATE_TAG" --title "Release $DATE_TAG" --draft=false --prerelease=false \
+            /tmp/csl-sqlite/hwnorm1c.sqlite.zip \
+            /tmp/csl-sqlite/keydoc_glob.sqlite.zip
