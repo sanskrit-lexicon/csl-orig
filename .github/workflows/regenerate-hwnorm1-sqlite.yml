@@ -148,7 +148,7 @@ jobs:
         run: |
           mkdir -p /tmp/csl-sqlite
           cp sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite /tmp/csl-sqlite/
-          cp sanskrit-lexicon/hwnorm2/keydoc/keydoc_glob.sqlite /tmp/csl-sqlite/
+          cp sanskrit-lexicon/hwnorm2/keydoc/keydoc_glob1.sqlite /tmp/csl-sqlite/
 
       - name: Move hwnorm1c.sqlite to csl-apidev
         if: env.HAS_CHANGES == 'true'
@@ -181,7 +181,7 @@ jobs:
         run: |
           cd /tmp/csl-sqlite
           zip hwnorm1c.sqlite.zip hwnorm1c.sqlite
-          zip keydoc_glob.sqlite.zip keydoc_glob.sqlite
+          zip keydoc_glob1.sqlite.zip keydoc_glob1.sqlite
 
       - name: Create Release with Assets
         if: env.HAS_CHANGES == 'true'
@@ -190,4 +190,4 @@ jobs:
           
           gh release create "$DATE_TAG" --title "Release $DATE_TAG" --draft=false --prerelease=false \
             /tmp/csl-sqlite/hwnorm1c.sqlite.zip \
-            /tmp/csl-sqlite/keydoc_glob.sqlite.zip
+            /tmp/csl-sqlite/keydoc_glob1.sqlite.zip
