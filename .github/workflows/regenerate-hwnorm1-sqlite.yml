@@ -101,13 +101,21 @@ jobs:
           TIMESTAMP=$(date +%Y%m%d-%H%M%S)
           if git diff --quiet; then
             echo "No changes to commit in hwnorm1"
+            echo "No Change In Headword. Not Required To Do Anything Further"
+            echo "HAS_CHANGES=false" >> $GITHUB_ENV
           else
             git add -A
             git commit -m "Regenerated hwnorm1.sqlite as on $TIMESTAMP"
             git push
+            echo "HAS_CHANGES=true" >> $GITHUB_ENV
           fi
 
+      - name: Check for changes
+        if: env.HAS_CHANGES == 'true'
+        run: echo "Changes detected in sanhw1.txt - continuing with hwnorm2, csl-apidev and csl-sqlite"
+
       - name: Run hwnorm2 redo scripts
+        if: env.HAS_CHANGES == 'true'
         run: |
           cd sanskrit-lexicon/hwnorm2/keydoc/distincthws
           sh redo.sh
@@ -115,12 +123,14 @@ jobs:
           sh redo.sh xampp
 
       - name: Configure git for hwnorm2
+        if: env.HAS_CHANGES == 'true'
         run: |
           cd sanskrit-lexicon/hwnorm2
           git config user.name "HWNORM1 BOT"
           git config user.email "actions@github.com"
 
       - name: Commit and push hwnorm2 changes
+        if: env.HAS_CHANGES == 'true'
         run: |
           cd sanskrit-lexicon/hwnorm2
           TIMESTAMP=$(date +%Y%m%d-%H%M%S)
@@ -133,23 +143,27 @@ jobs:
           fi
 
       - name: Copy sqlite files for release
+        if: env.HAS_CHANGES == 'true'
         run: |
           mkdir -p /tmp/csl-sqlite
           cp sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite /tmp/csl-sqlite/
           cp sanskrit-lexicon/hwnorm2/keydoc/keydoc_glob.sqlite /tmp/csl-sqlite/
 
       - name: Move hwnorm1c.sqlite to csl-apidev
+        if: env.HAS_CHANGES == 'true'
         run: |
           mkdir -p sanskrit-lexicon/csl-apidev/simple-search/hwnorm1
           mv sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite sanskrit-lexicon/csl-apidev/simple-search/hwnorm1/
 
       - name: Configure git for csl-apidev
+        if: env.HAS_CHANGES == 'true'
         run: |
           cd sanskrit-lexicon/csl-apidev
           git config user.name "HWNORM1 BOT"
           git config user.email "actions@github.com"
 
       - name: Commit and push csl-apidev changes
+        if: env.HAS_CHANGES == 'true'
         run: |
           cd sanskrit-lexicon/csl-apidev
           TIMESTAMP=$(date +%Y%m%d-%H%M%S)
@@ -162,12 +176,14 @@ jobs:
           fi
 
       - name: Create zip files for release
+        if: env.HAS_CHANGES == 'true'
         run: |
           cd /tmp/csl-sqlite
           zip hwnorm1c.sqlite.zip hwnorm1c.sqlite
           zip keydoc_glob.sqlite.zip keydoc_glob.sqlite
 
       - name: Create Release with Assets
+        if: env.HAS_CHANGES == 'true'
         run: |
           DATE_TAG=$(date +%Y-%m-%d)
           
