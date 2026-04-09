@@ -210,3 +210,44 @@ jobs:
           gh release create "$DATE_TAG" --title "Release $DATE_TAG" --draft=false --prerelease=false \
             -R sanskrit-lexicon/csl-sqlite \
             $ASSETS
+
+      - name: Publish ZIPs to csl-sqlite gh-pages
+        if: env.HAS_CHANGES == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          # Clone only the gh-pages branch of csl-sqlite (create it if it doesn't exist yet)
+          if git ls-remote --heads https://x-access-token:${GH_TOKEN}@github.com/sanskrit-lexicon/csl-sqlite.git gh-pages | grep -q gh-pages; then
+            git clone --depth=1 --branch gh-pages \
+              https://x-access-token:${GH_TOKEN}@github.com/sanskrit-lexicon/csl-sqlite.git \
+              /tmp/csl-sqlite-pages
+          else
+            # Branch doesn't exist yet — create an orphan branch
+            mkdir -p /tmp/csl-sqlite-pages
+            cd /tmp/csl-sqlite-pages
+            git init
+            git remote add origin https://x-access-token:${GH_TOKEN}@github.com/sanskrit-lexicon/csl-sqlite.git
+            git checkout --orphan gh-pages
+            # Add a minimal index so GitHub Pages activates
+            echo "Sanskrit Lexicon SQLite dictionaries" > index.html
+            git add index.html
+            git commit -m "Initialize gh-pages"
+          fi
+
+          cd /tmp/csl-sqlite-pages
+
+          git config user.name "HWNORM1 BOT"
+          git config user.email "actions@github.com"
+
+          # Copy all generated ZIPs into the gh-pages root
+          cp /tmp/csl-sqlite/*.zip .
+
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
+          git add *.zip
+          if git diff --cached --quiet; then
+            echo "No zip changes to push to gh-pages"
+          else
+            git commit -m "Update SQLite ZIPs as on $TIMESTAMP"
+            git push origin gh-pages
+            echo "Pushed ZIPs to sanskrit-lexicon.github.io/csl-sqlite/"
+          fi
