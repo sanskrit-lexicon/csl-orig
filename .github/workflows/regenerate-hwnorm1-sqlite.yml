@@ -179,9 +179,23 @@ jobs:
       - name: Create zip files for release
         if: env.HAS_CHANGES == 'true'
         run: |
+          mkdir -p /tmp/csl-sqlite
           cd /tmp/csl-sqlite
           zip hwnorm1c.sqlite.zip hwnorm1c.sqlite
           zip keydoc_glob1.sqlite.zip keydoc_glob1.sqlite
+
+          # All dictionary codes except 'pd' (excluded due to copyright)
+          DICTCODES="acc ae ap90 ap ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh pwkvn lrv abch acph acsj fri"
+
+          for DICTCODE in $DICTCODES; do
+            SQLITE_DIR="$GITHUB_WORKSPACE/sanskrit-lexicon/${DICTCODE}/web/sqlite"
+            if [ -d "$SQLITE_DIR" ] && [ -n "$(ls -A "$SQLITE_DIR" 2>/dev/null)" ]; then
+              zip -j "${DICTCODE}.zip" "${SQLITE_DIR}"/*
+              echo "Created ${DICTCODE}.zip"
+            else
+              echo "Skipping ${DICTCODE}: no sqlite files found at ${SQLITE_DIR}"
+            fi
+          done
 
       - name: Create Release with Assets
         if: env.HAS_CHANGES == 'true'
@@ -189,8 +203,10 @@ jobs:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           DATE_TAG=$(date +%Y-%m-%d-%H-%M-%S)
-          
+
+          # Collect all zip files from /tmp/csl-sqlite
+          ASSETS=$(ls /tmp/csl-sqlite/*.zip 2>/dev/null | tr '\n' ' ')
+
           gh release create "$DATE_TAG" --title "Release $DATE_TAG" --draft=false --prerelease=false \
             -R sanskrit-lexicon/csl-sqlite \
-            /tmp/csl-sqlite/hwnorm1c.sqlite.zip \
-            /tmp/csl-sqlite/keydoc_glob1.sqlite.zip
+            $ASSETS
