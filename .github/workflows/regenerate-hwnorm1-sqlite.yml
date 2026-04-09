@@ -40,6 +40,14 @@ jobs:
           fetch-depth: 1
           token: ${{ secrets.PAT_TOKEN }}
 
+      - name: Checkout csl-lslink
+        uses: actions/checkout@v4
+        with:
+          repository: sanskrit-lexicon/csl-lslink
+          path: sanskrit-lexicon/csl-lslink
+          fetch-depth: 1
+          token: ${{ secrets.PAT_TOKEN }}
+
       - name: Checkout hwnorm2
         uses: actions/checkout@v4
         with:
@@ -197,6 +205,26 @@ jobs:
             fi
           done
 
+      - name: Create LS links zip files
+        run: |
+          mkdir -p /tmp/csl-sqlite-lslinks
+          cd /tmp/csl-sqlite-lslinks
+          
+          # Copy LS links sqlite files from csl-lslink/zip
+          LSLINK_DIR="$GITHUB_WORKSPACE/sanskrit-lexicon/csl-lslink/zip"
+          if [ -d "$LSLINK_DIR" ] && [ -n "$(ls -A "$LSLINK_DIR" 2>/dev/null)" ]; then
+            for f in "$LSLINK_DIR"/*_lslinks.sqlite.zip; do
+              if [ -f "$f" ]; then
+                # Rename: pwg_lslinks.sqlite.zip -> pwg_lslinks.sqlite.zip (keep as is since already named correctly)
+                # Files are already named like pwg_lslinks.sqlite.zip
+                cp "$f" .
+                echo "Copied $(basename "$f")"
+              fi
+            done
+          else
+            echo "No LS links files found at ${LSLINK_DIR}"
+          fi
+
       - name: Create Release with Assets
         if: env.HAS_CHANGES == 'true'
         env:
@@ -204,12 +232,21 @@ jobs:
         run: |
           DATE_TAG=$(date +%Y-%m-%d-%H-%M-%S)
 
-          # Collect all zip files from /tmp/csl-sqlite
-          ASSETS=$(ls /tmp/csl-sqlite/*.zip 2>/dev/null | tr '\n' ' ')
+          # Collect all zip files from /tmp/csl-sqlite (dictionary zips)
+          DICT_ASSETS=$(ls /tmp/csl-sqlite/*.zip 2>/dev/null | tr '\n' ' ')
+
+          # Collect LS links zip files
+          LSLINKS_ASSETS=""
+          if [ -d "/tmp/csl-sqlite-lslinks" ] && [ -n "$(ls -A '/tmp/csl-sqlite-lslinks' 2>/dev/null)" ]; then
+            LSLINKS_ASSETS=$(ls /tmp/csl-sqlite-lslinks/*.zip 2>/dev/null | tr '\n' ' ')
+          fi
+
+          # Combine both asset lists
+          ALL_ASSETS="$DICT_ASSETS $LSLINKS_ASSETS"
 
           gh release create "$DATE_TAG" --title "Release $DATE_TAG" --draft=false --prerelease=false \
             -R sanskrit-lexicon/csl-sqlite \
-            $ASSETS
+            $ALL_ASSETS
 
       - name: Publish ZIPs to csl-sqlite gh-pages
         if: env.HAS_CHANGES == 'true'
@@ -236,6 +273,11 @@ jobs:
 
           # Copy all generated ZIPs into the working directory
           cp /tmp/csl-sqlite/*.zip .
+
+          # Copy LS links ZIPs (pwg_lslinks, pw_lslinks, mw_lslinks, gra_lslinks, sch_lslinks)
+          if [ -d "/tmp/csl-sqlite-lslinks" ]; then
+            cp /tmp/csl-sqlite-lslinks/*.zip .
+          fi
 
           # Add a minimal index.html so GitHub Pages activates on this branch
           echo "Sanskrit Lexicon SQLite dictionaries" > index.html
