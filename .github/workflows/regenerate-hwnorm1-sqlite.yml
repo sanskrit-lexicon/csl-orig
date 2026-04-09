@@ -216,38 +216,34 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          # Clone only the gh-pages branch of csl-sqlite (create it if it doesn't exist yet)
-          if git ls-remote --heads https://x-access-token:${GH_TOKEN}@github.com/sanskrit-lexicon/csl-sqlite.git gh-pages | grep -q gh-pages; then
-            git clone --depth=1 --branch gh-pages \
-              https://x-access-token:${GH_TOKEN}@github.com/sanskrit-lexicon/csl-sqlite.git \
-              /tmp/csl-sqlite-pages
-          else
-            # Branch doesn't exist yet — create an orphan branch
-            mkdir -p /tmp/csl-sqlite-pages
-            cd /tmp/csl-sqlite-pages
-            git init
-            git remote add origin https://x-access-token:${GH_TOKEN}@github.com/sanskrit-lexicon/csl-sqlite.git
-            git checkout --orphan gh-pages
-            # Add a minimal index so GitHub Pages activates
-            echo "Sanskrit Lexicon SQLite dictionaries" > index.html
-            git add index.html
-            git commit -m "Initialize gh-pages"
-          fi
+          # Strategy: force-orphan push — the gh-pages branch always has exactly
+          # ONE commit in history, no matter how many times this workflow runs.
+          # This keeps the csl-sqlite repo history clean (same approach as
+          # peaceiris/actions-gh-pages with force_orphan: true).
 
-          cd /tmp/csl-sqlite-pages
+          REMOTE="https://x-access-token:${GH_TOKEN}@github.com/sanskrit-lexicon/csl-sqlite.git"
+          WORK_DIR="/tmp/csl-sqlite-pages"
+          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
 
+          mkdir -p "$WORK_DIR"
+          cd "$WORK_DIR"
+
+          # Initialise a throw-away local repo (no history needed)
+          git init
           git config user.name "HWNORM1 BOT"
           git config user.email "actions@github.com"
+          git remote add origin "$REMOTE"
 
-          # Copy all generated ZIPs into the gh-pages root
+          # Copy all generated ZIPs into the working directory
           cp /tmp/csl-sqlite/*.zip .
 
-          TIMESTAMP=$(date +%Y%m%d-%H%M%S)
-          git add *.zip
-          if git diff --cached --quiet; then
-            echo "No zip changes to push to gh-pages"
-          else
-            git commit -m "Update SQLite ZIPs as on $TIMESTAMP"
-            git push origin gh-pages
-            echo "Pushed ZIPs to sanskrit-lexicon.github.io/csl-sqlite/"
-          fi
+          # Add a minimal index.html so GitHub Pages activates on this branch
+          echo "Sanskrit Lexicon SQLite dictionaries" > index.html
+
+          # Stage everything and create a single root commit (no parent → orphan)
+          git add .
+          git commit -m "SQLite ZIPs as on $TIMESTAMP"
+
+          # Force-push as gh-pages — replaces any prior history with this one commit
+          git push --force origin HEAD:gh-pages
+          echo "✓ Pushed ZIPs to https://sanskrit-lexicon.github.io/csl-sqlite/ (single-commit history)"
