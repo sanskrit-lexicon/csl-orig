@@ -34213,7 +34213,7 @@ or {#saMtap#} c.; {#dIp#} freq. ({#dedIpyate#}). {@2@} {#ugra-#}
 <LEND>
 
 <L>4533<pc>184<k1>glean<k2>glean
-{@Glean,@}¦ {%v. t.%} (bits &c.) {#uC#} 6 P, {#Sil#} 6 P,
+{@Glean,@}¦ {%v. t.%} (bits &c.) {#uMC#} 6 P, {#Sil#} 6 P,
 {#ud-Dras#} 9 P or c., {#avaSezaM ci#} 5 U or
 {#saMgrah#} 9 P. {@2@} {#saMkal#} 10 {#saMgrah, udDf#} 1 P.
 {%-s.%} {#DAnyaSezaH, SezaDAnyasaMcayaH#}. {@-er,@} {%s.%}
