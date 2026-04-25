@@ -1161,9 +1161,9 @@ p. 275.
 {#loke tAvanmAtApitarO putrasya jAtasya saMvfte'vakASe nAma#}
 {#kurvAte devadatto yajadata iti . tayorupacArAdanye'pi jAnantIyamasya saMjYeti .#}
 Kane, JJ., XIV, 1938, p. 243.
-<P>59. {#muni puRyavijaya, aMgavijjA; prAkftagraTaparizad, vArARasI,#} 1957.
+<P>59. {#muni puRyavijaya, aMgavijjA; prAkftagraTaparizad, vArARasI#}, 1957.
 <P>60. Ibid., p. 152; {#tatTa maRussaRamaDejjaM paMcaviDaM, taM jaDA — #}
-1. {#gottaRAmaDejjaM,#} 2. {#ayaRamakaM,#} 3. {#kammaRamaDejjaM,#} 4. {#sarIraRamaM,#}
+1. {#gottaRAmaDejjaM#}, 2. {#ayaRamakaM#}, 3. {#kammaRamaDejjaM#}, 4. {#sarIraRamaM#},
 5. {#karaRaRamaM ceti .#}
 <P>61. Ibid., p. 152.
 <P>62. Ibid., p. 152, VS. 1-2.
@@ -3846,7 +3846,7 @@ Nārāyaṇa Paṇḍita, Hitopadeśa, Prastāvikā, p. 1, v. 1.
 <P>42. Ibid., pp. 474-475.
 <P>43. Ibid., p. 344, col. 1.
 <P>44. V.S. Agrawala, Jy. p. 186.
-<P>45. Pāṇini, II. 1, 56: {#upamitaM vyAGrAdiBiH sAmAnyaprayoge,#}
+<P>45. Pāṇini, II. 1, 56: {#upamitaM vyAGrAdiBiH sAmAnyaprayoge#},
 <P>Cf. Pāṇini, V. 3. 81. The names of species adopted as personal
 names, e.g. Vyāghraka, Siṃhaka.
 <P>46. Fz. p. 1289, col. 3.
@@ -5436,7 +5436,7 @@ pp. 453-54.
 <P>39. Fz. p. 297, col. 2.
 <P>40. Ibid., p. 779, col. 1.
 <P>41. Pāṇini, IV. I. 177.
-<P>42. Ibid., II. 3. 73. {#BadraM tassya, tasmE,#} “Joy to him.”
+<P>42. Ibid., II. 3. 73. {#BadraM tassya, tasmE#}, “Joy to him.”
 <P>43. Fz. p. 591, col. 1.
 <P>44. Ibid., p. 662, col. 2.
 <P>45. No. 15, L. 7: {#tatsUnu rudrasoma (H) pfTula-Bati-yaSA#}
@@ -8537,7 +8537,7 @@ them to become his servants who were not his servants.
 <P>77. D.C. Sircar, Hz. p. 395, L. 8:
 {#sAzwAdaSAwavI-rAjyAByantaraM qaBAlA — rAjyamanvayAgatam .#}
 <P>78. Ibid., p. 395, note 3.
-<P>79. G.J. XXXVIII, p. 331: {#tosalyAM sAzwAdaSAwavIrAjyAM,#}
+<P>79. G.J. XXXVIII, p. 331: {#tosalyAM sAzwAdaSAwavIrAjyAM#},
 <P>80. Sabhāparvan, XXX, 1176.
 <P>81. B.C. Law, Tg. p. 383.
 <P>82. D.D. Kosambi, (Xz)<sup>1</sup>, (edn. 1975), p. 151.
@@ -9071,7 +9071,7 @@ with a Kuṣāṇa princess.
 <P>428. See the Appendix No. IV.
 <P>429. S.R. Goyal, D. p. 177: {%‘Sāhi,’%} who belonged to (the family of)
 the ‘Devaputras’.
-<P>430. {#raGuvaMSa,#} 4/60 {#pArasIkAMstato jetuM pratasTe sTalavartmanA .#}
+<P>430. {#raGuvaMSa#}, 4/60 {#pArasIkAMstato jetuM pratasTe sTalavartmanA .#}
 <P>431. S.R. Goyal, D. p. 179.
 <P>432. {%Śāsa — Śāha:%} We know that the Vedic Sanskrit and the old Persian
 (Avesta) were very nearer to each other and Sanskrit {%‘sa’%} usually changed
@@ -12389,7 +12389,7 @@ Cf. B.C. Sen, (Kz)<sup>1</sup>, p. 117.
 <P>32. Ibid., p. 177, L. 8. Cf. B.C. Law, Yx., p. 298.
 <P>33. D.C. Sircar, Oz. p. 33.
 <P>34. {#kAvyamImAMsA, saptadaSo'DyAyaH#} p. 236
-<P>35. {#bfhatsaMhitA,#} XIV: V. 19, p. 121.
+<P>35. {#bfhatsaMhitA#}, XIV: V. 19, p. 121.
 <P>36. N.L. Dey, Nx. p. 183.
 Daśakumāracarita, Chapter VI.
 <P>37. S.B. Chaudhuri, Jx. p. 152.
@@ -12559,9 +12559,9 @@ Commissioners were also known as Prādeśikas.
 <P>165. Ay. p. 141.
 <P>166. (Dx)<sup>1</sup>, p. 21.
 <P>167. PJ. Vol. XIV, 1935, p. 29.
-<P>168. {#viprEraTAnyErvaROrvA Bogyo grAma udAhftaH,#}
+<P>168. {#viprEraTAnyErvaROrvA Bogyo grAma udAhftaH#},
 {#eko grAmaRiko yatra saBftyaparicArakaH .#}
-{#kuwikaM tadDijAnIyAdekaBogaH sa eva tu,#}
+{#kuwikaM tadDijAnIyAdekaBogaH sa eva tu#},
 {#janEH parivftaM dravyaM kraya-vikrayakAriBiH ..#}
 <P>169. PJ. Vol. XIV, 1935, p. 29.
 <P>170. See the inscription, (Dx)<sup>1</sup>, pp. 20-21.
@@ -12678,9 +12678,9 @@ letter.
 <P>235. (Dx)<sup>1</sup>, p. 80.
 <P>236. No. 17, L. 19.
 <P>237. No. 17, LL. 16-17, verse 29:
-{#tasminnevakzitipati-vri (vf) ze baMDavarmmaRyudAre,#}
+{#tasminnevakzitipati-vri (vf) ze baMDavarmmaRyudAre#},
 {#samyakUsPotaM daSapuramidaM pAlayatyunnatAraM .#}
-{#SilpAvAptErdDana-samudayEH pawwavAyErudAraM,#}
+{#SilpAvAptErdDana-samudayEH pawwavAyErudAraM#},
 {#SreRIBUtErbBabanamatulaM kAritaM dIptaraSmeH ..#}
 <P>238. No. 17, LL. 20-21.
 <P>239. (Dx)<sup>1</sup>, p. 79; B.C. Law, Yx. pp. 280-81.
@@ -12985,7 +12985,7 @@ Nandapur grant.
 <P>433. Ibid., p. 354, L. 20.
 <P>434. Ibid., pp. 360-61. See the transliteration. While in this inscription
 it is clearly with short ‘i’:
-No. 43, L. 2 {#saMgohAlizu,#} Cf. No. 28, L. 3 {#nitvagohAlIzuH#} L. 9, L. 15 {#nitva-#}
+No. 43, L. 2 {#saMgohAlizu#}, Cf. No. 28, L. 3 {#nitvagohAlIzuH#} L. 9, L. 15 {#nitva-#}
 {#gohAlIto;#} L. 7 {#vawagohalIto;#} L. 12 {#vawagohAlIH#} = (Hz. p. 360).
 <P>435. Vaṭodaka = Vaṭa + udaka.
 <P>436. Fz. p. 914. col. 3.
@@ -13100,7 +13100,7 @@ biḍāla, birāla (‘Cat’), Tamil, Malayalam: veruku, Kannada: berku.
 <P>518. Fz. 1003, col. 3: Monier Williams, {%Buddhism,%} pp. 68, 81.
 <P>519. Sen, (Kz)<sup>1</sup>, p. 93: Sircar, Hz. p. 343, note. 8.
 <P>520. GJ. II. p. 389. No. 311: also see p. 369.
-<P>521. {#aMgavijjA,#} Introduction, p. 47.
+<P>521. {#aMgavijjA#}, Introduction, p. 47.
 <P>522. Fz. p. 871, col. 3.
 <P>523. V.S. Apte, Gz. p. 1036, Col. II.
 <P>524. Sircar, Hz. p. 345, f. n. 2: JJ. VI, p. 56, f. n. I.
@@ -13422,7 +13422,7 @@ inhabited by the Vaṅgas. Also see Mādhava Campu, 26. Vide Jz.
 <P>741. Sircar, Oz. p. 131.
 <P>742. JJ. XIX, X p. 214 ff.: IJ. VII, p. 411.
 <P>743. Ibid., pp. 219-20: Sircar, Oz. p. 125.
-<P>744. {#vaNgo lohityAtpUrveRa,#} of Yaśodhara on Vātas. Sūtra (VI. 5. 25, p. 294)
+<P>744. {#vaNgo lohityAtpUrveRa#}, of Yaśodhara on Vātas. Sūtra (VI. 5. 25, p. 294)
 ed. by Damodara Gosvamin: IJ. II, 755ff. Chaudhuri, Jx., p. 187.
 [Page-293+ 31]
 <H>Names of the Rivers
@@ -13842,7 +13842,7 @@ See Indrapura in the place-names
 [Page-302+ 44]
 note of this river. It says “Gold is deposited in its bed, but there is not
 enough to make its working profitable”.
-<P>50. No. 20, I. 2: {#tIrtvA saptamuKAni yena samare sinDojjitA vAhlikA,#}
+<P>50. No. 20, I. 2: {#tIrtvA saptamuKAni yena samare sinDojjitA vAhlikA#},
 <P>51. i, 97, 8: 125, 5: ii, 11, 9: 253-5: iii, 53, 9 etc.
 <P>52. iii, 13. 1: iv. 24, 2: x. 4. 15: xiii, 3. 50 etc.
 <P>53. Law, Yx. p. 8
@@ -13851,7 +13851,7 @@ enough to make its working profitable”.
 Vg. Pt. II, p. 450.
 <P>55. {#amarakoza#} p. 100: 1. 10. 35: p. 458: 3. 3 101.
 <P>56. Bṛhadāraṇyaka Upaniṣad, VI. 2. 15.
-<P>57. {#amarakoza,#} p, 321: 2. 9. 42.
+<P>57. {#amarakoza#}, p, 321: 2. 9. 42.
 <P>58. Agrawala, Jy. p. 51.
 <P>59. Dey, Nx. p. 186: Law, Yx. p. 8.
 <P>60. Agrawala, Jy. p. 44: D.C. Gangoly, ‘Yādavaprakāṣa, on the
@@ -13895,7 +13895,7 @@ Junāgaṛh Rock Inscription of Rudradāman I: Hz. pp. 176-77, LL. 5-8.
 <P>83. Law, Yx. p. 88. The Kalikāpurāṇa (Vangabasi edn.) Ch. 14. 31.
 <P>84. Dey, Nx. p. 165: Pandey, Wx. p. 96, f. n. 5.
 <P>85. {%Vividhatīrthakalpa,%} p. 7, verse I.
-<P>86. {#bfhatsaMhitA,#} XIV, V. 19.
+<P>86. {#bfhatsaMhitA#}, XIV, V. 19.
 <P>87. GJ. XXIV. P.V. Jan. 1938, p. 216.
 <P>88. (Dx)<sup>1</sup>. p. 230, L. 7.
 <P>89. Sankalia, Pz. pp. 50-51: Fleet, (Dx)<sup>1</sup> p. 57.
@@ -13943,7 +13943,7 @@ I, L. 5:
 <P>117. U.N. Roy, Lz. pp. 21-27,: Sircar, Hz. p. 285, f. n. 4, Cf. Mahā-
 bhārata, III, 73, 8ff: also 103 ff.
 {#gatvA hi SradDayA yuktaH kurukzetraM kurudvahaH . … tato#}
-{#gacCet DarmajYo vizRoH sTAna muttamam,#} etc.
+{#gacCet DarmajYo vizRoH sTAna muttamam#}, etc.
 Ibid. III. 138, 8:
 {#etadviRupadaM nAma dfSyate tIrTamuttamam .#}
 {#ezA ndI vipASA ca nadI paramapAvanI ..#}
@@ -14485,9 +14485,9 @@ L. 16: {#imASca yA rEvatakAdvinirgatAH#}
 {#punaH pati SAstra-yaTocitaM yayuH ..#}
 <P>8. Śiśupālavadha, IV. 47.
 <P>9. Sircar, Hz. p. 313.
-v. 29: {#avekzya varzAgamajaM mahodBramaM,#}
+v. 29: {#avekzya varzAgamajaM mahodBramaM#},
 {#mahodaDerUrjayatA priyepsunA .#}
-{#anekatIrAntaja-puzpaSoBito,#}
+{#anekatIrAntaja-puzpaSoBito#},
 {#nadImayahasta iva prasAritaH ..#}
 <P>10. (Dx)<sup>1</sup>, p. 64. “(and) having noticed the great bewilderment caused
 by the excess of rain, (the mountain) Ūrjayat, desirous of appropriating
