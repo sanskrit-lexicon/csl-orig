@@ -611,7 +611,7 @@ countenance’ {#trapADomuKa#} ({#KI#} {%f.%}).
 <L>9<pc>001<k1>abbreviate<k2>abbreviate
 {@Abbreviate,@}¦ {%v. t.%} {#saM-pratisaM-hf#} 1 P, {#saMkzip#}
 6 P, {#samas#} 4 P, {#hras#} c. {@-ion,@} {%s.%} {#saMkzepaH-#}
-{#paNaM#}.
+{#paRaM#}.
 <LEND>
 
 <L>10<pc>001<k1>abdicate<k2>abdicate
