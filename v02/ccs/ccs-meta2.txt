@@ -32,7 +32,7 @@ Meta lines:
 Each entry of the digitization is contained within a beginning and ending
 markup. As example,
 <L>2<pc>001-1<k1>a<k2>a,<h>2
-2. {#a,#}¦ {#an#} {#(°—)#} {%negat. Präfix -un, vor Subst.,%}
+2. {#a#}¦, {#an#} {#(°—)#} {%negat. Präfix -un, vor Subst.,%}
 {%Adj., Adv., Partic. u. Ger.; selten vor%}
 {%Inf. und Verb. fin.%}
 <LEND>
