@@ -2969,7 +2969,7 @@ directly is against the tradition of the Dharmasūtras.
 <P>8. Fz. p. 172, col. 2, M. N. Sircar, ‘Śaivism’, vide Ky. pp. 316-35.
 <P>9. D.C. Sircar, Hz. p. 408:
 {#guptAnvayAridruma-DUmaketuH praBAkaro BUmipatiryyamenam .#}
-{#svezAmbalAnAM baladeva-vIryyaM guRAnurAgAdaDipaM cakAra .. 90 ..;#}
+{#svezAmbalAnAM baladeva-vIryyaM guRAnurAgAdaDipaM cakAra .. 90 ..#};
 [Page-053+ 46]
 <P>We know that the Hūṇas were thereatening to invade the western
 portion of the Gupta Empire about this time.
@@ -12986,7 +12986,7 @@ Nandapur grant.
 <P>434. Ibid., pp. 360-61. See the transliteration. While in this inscription
 it is clearly with short ‘i’:
 No. 43, L. 2 {#saMgohAlizu#}, Cf. No. 28, L. 3 {#nitvagohAlIzuH#} L. 9, L. 15 {#nitva-#}
-{#gohAlIto;#} L. 7 {#vawagohalIto;#} L. 12 {#vawagohAlIH#} = (Hz. p. 360).
+{#gohAlIto#}; L. 7 {#vawagohalIto#}; L. 12 {#vawagohAlIH#} = (Hz. p. 360).
 <P>435. Vaṭodaka = Vaṭa + udaka.
 <P>436. Fz. p. 914. col. 3.
 <P>437. No. 30, LL. 4-5: {#vawodake sADujanADivAse .#}
@@ -13149,7 +13149,7 @@ Vol. I, p. 116.
 <P>561. Beal, U. Vol. II, p. 230.
 <P>562. Kane, (Zx)<sup>1</sup>, Vol. IV, pp. 711-12.
 <P>563. {#ayoDyA mAyA maTurAkASI kAYcI abantikA .#}
-{#purI dvAravatI cEva saptEte mokzadAyakAH ..;#} See Dy. p. 52 note
+{#purI dvAravatI cEva saptEte mokzadAyakAH ..#}; See Dy. p. 52 note
 <P>564. IV, 19, 15.
 <P>565. III. 124.
 <P>566. Kane, (Zx)<sup>1</sup>, Vol. IV, p. 712.

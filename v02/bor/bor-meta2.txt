@@ -33,8 +33,8 @@ Each entry of the digitization is contained within a beginning and ending
 markup. As example,
 
 <L>5<pc>001<k1>abandonment<k2>abandonment
-<div n="lb"/>{@ABANDONMENT:@}¦ <div n="1">(1) {#tyAgaH;#} </div><div n="1">(2) {#parityAgaH;#}</div>
-<div n="lb"/><div n="1">(3) {#utsargaH;#} Ph: a. of wordly connexions:
+<div n="lb"/>{@ABANDONMENT:@}¦ <div n="1">(1) {#tyAgaH#}; </div><div n="1">(2) {#parityAgaH#};</div>
+<div n="lb"/><div n="1">(3) {#utsargaH#}; Ph: a. of wordly connexions:
 <div n="lb"/>{#sannpAsaH.#}</div>
 <LEND>
 
