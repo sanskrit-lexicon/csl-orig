@@ -42,7 +42,7 @@ tumskunde.
 <HI>{@Lp.@} = Lokapāla.
 <HI>{@M.@} = Marut.
 <HI>{@Mhbhr.@} = Mahābhārata.
-<HI>{@M°Pu°st.@} = Mahāpuruṣastave.
+<HI>{@M˚Pu˚st.@} = Mahāpuruṣastave.
 [PageVII-b+ 41]
 <HI>{@M.-ṛ.@} = Maharshi.
 <HI>{@MSNSt.@} = Mahādevasahasranāma-
@@ -54,7 +54,7 @@ stotra.
 <HI>{@Nīl.@} = Nīlakaṇṭha.
 <HI>{@P.@} = Pitṛ.
 <HI>{@Pāṇḍ.@} = Pāṇḍava.
-<HI>{@Pa°vra°mā°@} = Pativratāmāhātmya.
+<HI>{@Pa˚vra˚mā˚@} = Pativratāmāhātmya.
 parvan.
 <HI>{@Pś.@} = Piśāca.
 <HI>{@PCR.@} = Protap Chandra Roy's
@@ -95,7 +95,7 @@ by FitzEdward Hall, London,
 <HI>{@v.s.@} = vide supra.
 <HI>{@Y.@} = Yakṣa.
 <HI>{@Yudh.@} = Yudhiṣṭhira.
-<HI>° abbreviation of a word.
+<HI>˚ abbreviation of a word.
 <HI>[] (1) headings not occurring as
 names in the text; (2) passages
 of the text in which a synonym

@@ -324,8 +324,8 @@ Vaivasvata.
 <HI>§ 148, I, {@84@}, 1—{@85@}, 35 (3466—3534). pp. 255—260: Yayāti.
 <HI>{%(d) Uttara-Yayāty-upākhyāna:%} I, {@86@}, 1—{@93@}, 28 (3535-
 3690): pp. 261—277.
-<HI>{@86@}, 1—17 (3535—3550). pp. 261—262: Uttara-Ya°-upākhyā°
-(U°-Yāyātaṃ).
+<HI>{@86@}, 1—17 (3535—3550). pp. 261—262: Uttara-Ya˚-upākhyā˚
+(U˚-Yāyātaṃ).
 <HI>{@87@}, 1—13 (3551—3563). pp. 262—263: id. (id.).
 <HI>{@88@}, 1—13 (3564—3576). pp. 263—265: id. (id.).
 <HI>{@89@}, 1—23 (3577—3599). pp. 265—267: id. (id.).
@@ -338,7 +338,7 @@ Vaivasvata.
 pp. 278—288.
 <HI>{@94@}, 1—64 (3691—3753). pp. 278—282: Pūruvaṃśānukīrtana.
 <HI>{@95@}, 1—90 (3754—3842). pp. 282—288: id.
-<HI>§ 150, I, {@94@}, 1—19 (3691—3709). pp. 278—279: Pūruvaṃś°
+<HI>§ 150, I, {@94@}, 1—19 (3691—3709). pp. 278—279: Pūruvaṃś˚
 (from Pūru to Bharata).
 [PageXII-a+ 58]
 <HI>§ 151, I, {@94@}, 20—23 (3710—3713). p. 279: id. (Bharata).
@@ -463,7 +463,7 @@ Bhīmasena-rasapāna.
 saṃvāda (Droṇasya Bhārgavād āstraprāpti).
 [PageXIII-a+ 59]
 <HI>{@131@}, 1—79 (5134—5210). pp. 385—391: Bhīṣma-Droṇa-
-Samvāda (°samāgama).
+Samvāda (˚samāgama).
 <HI>{@132@}, 1—79 (5211—5288). pp. 391—396: Droṇa-śiṣya-
 parīkṣā.
 <HI>{@133@}, 1—22 (5289—5311). pp. 397—398: Droṇa-grāha-
@@ -514,13 +514,13 @@ praveśa.
 <HI>{@151@}, 1—45 (5882—5926). pp. 443—446: Bhīma-jalāharaṇa.
 <H>IX. HIḌIMBAVADHAPARVAN.
 <HI>§ 214, I, {@152@}, 1—36 (5927—5961). pp. 446—448: Hiḍimbā-
-Bhīma-saṃvāda (Bhīma-Hiḍimbā°).
+Bhīma-saṃvāda (Bhīma-Hiḍimbā˚).
 <HI>{@153@}, 1—45 (5962—6006). pp. 448—452: Hiḍimba-[Bhīma-]
 yuddha.
 <HI>{@154@}, 1—36 (6007—6041). pp. 452—454: Hiḍimba-vadha.
 <HI>{@155@}, 1—46 (6042—6083). pp. 454—457: Ghaṭotkacotpatti.
 <HI>{@156@}, 1—19 (6084—6102). pp. 458—459: Vyāsa-darśana
-[Ekacakrāpraveśe Vyā°].
+[Ekacakrāpraveśe Vyā˚].
 [PageXIII-b+ 59]
 <H>X. BAKAVADHAPARVAN.
 <HI>§ 215, I, {@157@}, 1—41 (6103—6142). pp. 459—462: Brāhmaṇa-cintā.
@@ -531,7 +531,7 @@ putra-vākya.
 <HI>{@161@}, 1—20 (6222—6240). pp. 468—470: Bhīma-Baka-
 vadhāṅgīkāra.
 <HI>{@162@}, 1—26 (6241—6266). pp. 470—472: Kuntī-Yudhiṣṭhira-
-vākya (°samvāda).
+vākya (˚samvāda).
 <HI>{@163@}, 1—28 (6267—6294). pp. 472—474: Baka-Bhīma-yuddha.
 <HI>{@164@}, 1—21 (6295—6315). pp. 474—475: Baka-vadha.
 <H>XI. CATTRARATHAPARVAN: I, {@165—183:@} ({%a%}) {@165—170@}.
@@ -544,7 +544,7 @@ deśayātrā.
 <HI>§ 220, I, {@169@}, 1—16 (6421—6436). pp. 484—485: [Draupadī-
 janmāntara-kathana].
 <HI>§ 221, I, {@170@}, 1—80 (6437—6515). pp. 486—492: Gandharva-
-vākya (°parābhava).
+vākya (˚parābhava).
 <HI>{%(b) Tapaty-upākhyāna:%} I, {@171—173@}.
 <HI>§ 222, I, {@171@}, 1—44 (6516—6559). pp. 492—495: <is>Tapaty-
 upākhyāna</is>.
@@ -584,7 +584,7 @@ vākya.
 [PageXIV-a+ 55]
 <HI>{@186@}, 1—24 (6981—7004). pp. 527—528: Rājanāmakīrtana.
 <HI>{@187@}, 1—29 (7005—7033). pp. 528—530: [Sarva-]Rāja-
-parāṇmukha (°parāṅmukhībhavana).
+parāṇmukha (˚parāṅmukhībhavana).
 <HI>{@188@}, 1—28 (7034—7060). pp. 531—533: Lakshyacchedana.
 <HI>{@189@}, 1—24 (7061—7084). pp. 533—535: Kṛṣṇa-vākya.
 <HI>{@190@}, 1—47 (7085—7130). pp. 535—538: Pāṇḍavapratyā-
@@ -601,7 +601,7 @@ pratyāgamana.
 <HI>§ 236, I, {@192@}, 1—18 (7156—7173): id.
 <H>XIII. VAIVĀHIKAPARVA.
 <HI>I, {@193@}, 1—29 (7174—7202). pp. 543—545: Purohitāgamana
-(°Yudhiṣṭhira-saṃvāda).
+(˚Yudhiṣṭhira-saṃvāda).
 <HI>{@194@}, 1—15 (7203—7217). pp. 546—547: Sāṅgrāmikadravya-
 grahana (Yudhiṣṭhirādiparīkṣaṇa).
 <HI>{@195@}, 1—33 (7218—7251). pp. 547—550: Dvaipāyanāgamana.
@@ -628,7 +628,7 @@ parvan.
 <HI>§ 242, I, {@204@}, 13—25 (7472—7484): Ambuvīca.
 <HI>§ 243, I, {@204@}, 26—{@206@}, 26 (7485—7544): Vidurāgamana-
 parvan.
-<H>XV. RĀJYALĀBHAPARVAN (°LAMBHA°).
+<H>XV. RĀJYALĀBHAPARVAN (˚LAMBHA˚).
 <HI>({%a%}) § 244, I, {@207@}, 1—52 (7545—7595). pp. 575—579: Kṛṣṇa-
 gamana (Puranirmāṇa).
 <HI>({%b%}) § 245, I, {@208@}, 1—24 (7596—7618). pp. 579—580: Yudhi-
@@ -639,7 +639,7 @@ pasundopākhyāna</is>.
 <HI>{@210@}, 1—27 (7652—7678). pp. 583—585: id.
 [PageXIV-b+ 54]
 <HI>{@211@}, 1—32 (7679—7710). pp. 586—588: Tilottamā-prasthā-
-pana (Su° Ti°).
+pana (Su˚ Ti˚).
 <HI>{@212@}, 1—31 (7711—7742). pp. 588—590: Sundopasundo-
 pākhyāna.
 <H>XVI. ARJUNAVANAVĀSAPARVAN.
@@ -700,7 +700,7 @@ dahanap.
 <H>II. SABHĀPARVAN.
 <H>XX. SABHĀKRIYĀPARVAN.
 <HI>§ 261, II, {@1@}, 1—21 (1—20). pp. 1—2: Sabhākhyānanirṇaya
-(°sthāna°).
+(˚sthāna˚).
 <HI>§ 262, II, {@2@}, 1—36 (21—57). pp. 3—5: <is>Bhagavad-yāna</is>.
 <HI>§ 263, II, {@3@}, 1—37 (58—95). pp. 5—8: Sabhānirmāṇa.
 <HI>§ 264, II, {@4@}, 1—41 (96—134). pp. 8—10: Sabhāpraveśa.
@@ -711,11 +711,11 @@ rājadharmānuśāsana (Kaccid-adhyāya).
 <HI>{@6@}, 1—19 (264—282). pp. 21—23: [Yudhiṣṭhira-]sabhā-
 jijñāsā.
 <HI>{@7@}, 1—30 (283—310). pp. 23—25: Indra-sabhā-varṇana
-(Śakra°).
+(Śakra˚).
 <HI>{@8@}, 1—41 (311—352). pp. 25—28: Yama-sabhā-varṇana.
 <HI>{@9@}, 1—30 (353—382). pp. 29—30: Varuṇa-sabhā-varṇana.
 <HI>{@10@}, 1—40 (383—419). pp. 30—33: Dhanada-sabhā-varṇana
-(Vaiśravaṇa°).
+(Vaiśravaṇa˚).
 <HI>{@11@}, 1—62 (420—478). pp. 33—37: Brahma-sabhā-varṇana.
 <HI>{@12@}, 1—34 (479—513). pp. 37—40: Pāṇḍu-sandeśa-kathana
 (Brahma-sabhā-varṇana).
@@ -731,7 +731,7 @@ varṇana.
 varṇana.
 <HI>§ 270, II, {@11@}, 1—62 (420—478). pp. 33—37: Brahma-sabhā-
 varṇana.
-<HI>§ 271, II, {@12@}, 1—34 (479—513). pp. 37—40: ({%a%}) Lokapālas°,
+<HI>§ 271, II, {@12@}, 1—34 (479—513). pp. 37—40: ({%a%}) Lokapālas˚,
 ({%b%}) Hariścandra.
 <H>XXII. RĀJASŪYĀRAMBHAPARVAN.
 <HI>§ 272, II, {@13@}, 1—51 (514—564). pp. 40—44: [Vāsudevāgamana].
@@ -774,7 +774,7 @@ digvijaya.
 ({%b%}) Agni (enumeration of names).
 <HI>§ 284, II, {@31@}, 51—78 (1155—1182). pp. 91—93: Sahadeva.
 <HI>§ 285, II, {@32@}, 1—20 (1183—1203). pp. 93—94: Nakula.
-<H>XXV. RĀJASŪYIKAPARVAN (°SŪYA°).
+<H>XXV. RĀJASŪYIKAPARVAN (˚SŪYA˚).
 <HI>§ 286, II, {@33@}, 1—55 (1204—1259). pp. 95—99: Rājasūyadīkṣā.
 <HI>§ 287, II, {@34@}, 1—25 (1260—1285). pp. 99—101: Nimantrita-
 rājāgamana.
@@ -844,7 +844,7 @@ Yudhiṣṭhirā-hvāna (Yudhiṣṭhira-pratyānayana).
 <HI>§ 303, II, {@75@}, 1—12 (2479—2490). pp. 198—199: Gāndhārī-
 vākya.
 <HI>{@76@}, 1—24 (2491—2513). pp. 200—201: Punar-Yudhiṣṭhira-
-parājaya (°bhava).
+parājaya (˚bhava).
 <HI>§ 304, II, {@77@}, 1—46 (2514—2559). pp. 202—205: Dhṛtarāṣṭra-
 samīpagamana (Pāṇḍava-pratijñākaraṇa).
 <HI>§ 305, II, {@78@}, 1—24 (2560—2583). pp. 205—207: Yudhi-
@@ -854,7 +854,7 @@ samīpagamana (Pāṇḍava-pratijñākaraṇa).
 <HI>§ 306, II, {@80@}, 1—52 (2620—2671). pp. 210—214: [Vidura-]
 Dhṛtarāṣṭra-[Droṇa-]vākya.
 <HI>§ 307, II, {@81@}, 1—39 (2672—2709). pp. 214—216: Dhṛtarāṣṭra-
-cintā (°Sañjaya-saṃvāda).
+cintā (˚Sañjaya-saṃvāda).
 <H>{@III. VANAPARVAN@}.
 XXX. ĀRAṆYAKAPARVAN.
 <HI>III, {@1@}, 1—46 (1—46). pp. 1—4: Paurapratyāgamana.
@@ -913,14 +913,14 @@ vākya.
 Yudhiṣṭhira-saṃvāda.
 <HI>{@30@}, 1—43 (1117—1159). pp. 85—89: id. (Draupadī-vākya).
 <HI>{@31@}, 1—42 (1160—1201). pp. 89—92: Yudhiṣṭhira-Draupadī-
-saṃvāda (°vākya).
+saṃvāda (˚vākya).
 <HI>{@32@}, 1—62 (1202—1263). pp. 92—97: Draupadī-vākya.
 <HI>{@33@}, 1—90 (1264—1353). pp. 97—104: Bhīma-vākya.
 <HI>{@34@}, 1—22 (1354—1375). pp. 104—106: Yudhiṣṭhira-vākya.
 <HI>{@35@}, 1—35 (1376—1410). pp. 107—109: Bhīma-vākya.
 <HI>{%(e) Kāmyakavanapraveśa:%} III, {@36@}.
 <HI>III, {@36@}, 1—45 (1411—1455). pp. 109—113: Kāmyakavana-
-praveśa (°gamana).
+praveśa (˚gamana).
 <HI>§ 328, III, {@36@}, 1—21 (1411—1431): Kāmyakavanapraveśa.
 <HI>§ 329, III, {@36@}, 22—45 (1432—1455): id.
 [PageXVII-a+ 57]
@@ -960,11 +960,11 @@ vilāpa.
 <HI>§ 343, III, {@52@}, 1—59 (2013—2071). 157—161: [Bṛhadaśva-
 Yudhiṣṭhira-saṃvāda].
 <HI>§ 344, III, {@53@}, 1—32 (2072—2103). pp. 161—164: Haṃsa-
-vākya (°Damayantī-saṃvāda).
+vākya (˚Damayantī-saṃvāda).
 <HI>§ 345, III, {@54@}, 1—31 (2104—2134). pp. 164—166: Nala-dautya
 (Indra-Nārada-saṃvāda).
 <HI>{@55@}, 1—25 (2135—2159). pp. 166—168: Nalasya deva-dautya.
-<HI>{@56@}, 1—31 (2160—2190). pp. 168—170: id. (Nalakartṛka°).
+<HI>{@56@}, 1—31 (2160—2190). pp. 168—170: id. (Nalakartṛka˚).
 <HI>{@57@}, 1—47 (2191—2238). pp. 170—173: Damayantī-svayaṃvara.
 <HI>§ 346, III, {@58@}, 1—14 (2239—2253). pp. 173—174: Kali-deva-
 saṃvāda.
@@ -978,7 +978,7 @@ vanayātrā.
 <HI>{@63@}, 1—39 (2362—2400). pp. 182—184: Damayantī-sarpa-
 grāsamocana (Ajagaragrasta-Damayantī-mocana).
 <HI>{@64@}, 1—132 (2401—2531). pp. 185—194: Damayantī-vilāpa
-(°sārthavāhasaṅgama).
+(˚sārthavāhasaṅgama).
 <HI>{@65@}, 1—76 (2532—2607). pp. 195—200: Damayantī-Cedi-
 rājagṛha-vāsa.
 [PageXVII-b+ 60]
@@ -993,19 +993,19 @@ punaḥ svayaṃvara-kathana.
 <HI>{@71@}, 1—36 (2771—2807). pp. 212—214: Ṛtuparṇa-Vidarbha-
 gamana.
 <HI>§ 352, III, {@72@}, 1—43 (2808—2851). pp. 214—217: [Nala-]
-Kali-tyāga (°nirgama).
+Kali-tyāga (˚nirgama).
 <HI>§ 353, III, {@73@}, 1—36 (2852—2889). pp. 217—220: Bhīma-
 purapraveśa.
 <HI>{@74@}, 1—31 (2890—2920). pp. 220—222: [Nala-]Kecinīvākya
-(°saṃvāda).
+(˚saṃvāda).
 <HI>{@75@}, 1—28 (2921—2950). pp. 222—224: [Nala-]kanyā-putra-
 darśana.
 <HI>{@76@}, 1—53 (2951—3008). pp. 225—228: Nala-Damayantī-
-melana (°samāgama).
+melana (˚samāgama).
 <HI>{@77@}, 1—20 (3009—3029). pp. 228—229: Ṛtuparṇa-svadeśa-
 gamana.
 <HI>{@78@}, 1—33 (3030—3062). pp. 229—231: Puṣkarāśvasana
-(°parābhava-purvakaṃ rājya-pratyānayanaṃ).
+(˚parābhava-purvakaṃ rājya-pratyānayanaṃ).
 <HI>{@79@}, 1—27 (3063—3089). pp. 232—234: Bṛhadaśva-gamana.
 <HI>§ 354, III, {@78@}, 1—{@79@}, 5{%a%} (3030—3067{%a%}): Nalopākhyānaparvan.
 <HI>§ 355, III, {@79@}, 5{%b%}—27 (3067{%b%}—3089): id.
@@ -1019,9 +1019,9 @@ saṃvāda.
 <HI>{@83@}, 1—208 (5071—7078). pp. 249—264: id. (id.).
 <HI>{@84@}, 1—163 (7079—8142). pp. 265—276: Tīrthakathana (id.).
 <HI>{@85@}, 1—132 (8143—8275). pp. 276—285: Nāradavākya [id.
-Nā°].
+Nā˚].
 <HI>{@86@}, 1—21 (8276—8296). pp. 286—288: Dhaumya-Yudhi-
-ṣṭhira-kathā (°tīrthayātrā).
+ṣṭhira-kathā (˚tīrthayātrā).
 <HI>{@87@}, 1—28 (8297—8325). pp. 288—290: Dhaumya-tīrtha-
 kathana (id.).
 <HI>{@88@}, 1—27 (8326—8353). pp. 291—293: id. (id.).
@@ -1029,7 +1029,7 @@ kathana (id.).
 <HI>{@90@}, 1—34 (8372—8406). pp. 294—297: id. (id.).
 <HI>{@91@}, 1—25 (8407—8431). pp. 297—298: Lomaśa-saṃvāda.
 <HI>{@92@}, 1—27 (8432—8457). pp. 299—300: Yudhiṣṭhira-
-tīrthayātrā (Lomaśa°).
+tīrthayātrā (Lomaśa˚).
 <HI>{@93@}, 1—29 (8458—8486). pp. 301—302: id. (id.).
 <HI>{@94@}, 1—22 (8487—8509). pp. 303—304: Yudhiṣṭhira-
 tīrthagamana (id.).
@@ -1065,31 +1065,31 @@ kathana.
 <HI>{%(b) Agastyopākhyāna:%} III, {@96@}, 1—{@99@}, 30 (8540—8645).
 <HI>§ 382 (Agastya).
 <HI>III, {@96@}, 1—30 (8540—8569). pp. 307—309: Agastyopākhyāna.
-<HI>{@97@}, 1—25 (8570—8594). pp. 309—311: id. [Lo°tī°yā° Aga°].
+<HI>{@97@}, 1—25 (8570—8594). pp. 309—311: id. [Lo˚tī˚yā˚ Aga˚].
 <HI>{@98@}, 1—20 (8595—8614). pp. 311—312: id. [id.].
 <HI>{@99@}, 1—71 (8615—8688). pp. 312—317: Jāmadagnya-tejohā-
-nikathana (Lo°tī°yā° Jā°).
+nikathana (Lo˚tī˚yā˚ Jā˚).
 <HI>{%(c) Jāmadagnya-tejohānikathana:%} III, {@99@}, 31—71 (8646—8688).
 <HI>§ 383 ({%a%}) Tīrthayātrāp., ({%b%}) Paraśurāma.
 <HI>{%(d) Āgastya:%} III, {@100—109@}.
 <HI>III, {@100@}, 1—25 (8689—8713). pp. 318—319: Vajranirmāṇa-
-kathana (Lo°tī°yā° Va°).
+kathana (Lo˚tī˚yā˚ Va˚).
 <HI>{@101@}, 1—23 (8714—8736). pp. 320—321: Vṛtravadhopākhyāna
-(id. Vṛ°).
+(id. Vṛ˚).
 <HI>{@102@}, 1—26 (8737—8762). pp. 322—323: Viṣṇu-stava
-(id. Vi°).
+(id. Vi˚).
 <HI>{@103@}, 1—18 (8763—8780). pp. 324—325: Agastyamāhātmya-
-kathana (id. Aga°).
+kathana (id. Aga˚).
 <HI>{@104@}, 1—24 (8781—8804). pp. 325—327: id. (id.).
 <HI>{@105@}, 1—20 (8805—8824). pp. 327—328: Samudrapūraṇa-
 mantraṇa (id. Agastyopākhyāna).
 <HI>{@106@}, 1—23 (8825—8848). pp. 329—331: Sagarasantalikathana
-(id. Sa°).
+(id. Sa˚).
 <HI>{@107@}, 1—70 (8849—9919). pp. 331—336: Gaṅgāvataraṇa
 (id. Agastyamāhātmyakathana).
-<HI>{@108@}, 1—27 (9920—9946). pp. 336—338: id. (id. Aga°opā-
+<HI>{@108@}, 1—27 (9920—9946). pp. 336—338: id. (id. Aga˚opā-
 khyāna).
-<HI>{@109@}, 1—21 (9947—9967). pp. 338—340: id. (id. Aga°mā°).
+<HI>{@109@}, 1—21 (9947—9967). pp. 338—340: id. (id. Aga˚mā˚).
 <HI>§ 384, III, {@100@}, 1—{@103@}, 18 (8689—8780): Agastyopākhyāna.
 <HI>§ 385, III, {@104@}, 1—15 (8781—8795): Vindhya.
 <HI>§ 386, III, {@104@}, 16—{@106@}, 2 (8796—8827): Agastyopākhyāna.
@@ -1098,7 +1098,7 @@ khyāna).
 <HI>§ 389, III, {@107@}, 45{%b%}—{@109@}, 21 (8894{%b%}—9967): Gaṅgāvataraṇa.
 <HI>{%(e) Ṛṣyaśṛṅgopākhyāna:%} III, {@110—113@}.
 <HI>III, {@110@}, 1—58 (9968—10026). pp. 340—344: Ṛṣyaśṛṅgopā-
-khyāna (Lo°tī°śya°).
+khyāna (Lo˚tī˚śya˚).
 <HI>{@111@}, 1—23 (10027—10050). pp. 345—347: id. (id.).
 <HI>{@112@}, 1—19 (10051—10069). pp. 347—349: id. (id.).
 <HI>{@113@}, 1—25 (10070—10094). pp. 349—351: id. (id.).
@@ -1106,10 +1106,10 @@ khyāna (Lo°tī°śya°).
 <HI>§ 391, III, {@110@}, 27—{@113@}, 25 (9994{%b%}—10094): Ṛṣyaśṛṅga.
 [PageXVIII-b+ 58]
 <HI>{%(f) Mahendrācalagamana:%} III, {@114@}.
-<HI>§ 392, III, {@114@}, 1—30 (10095—10124). pp. 352—354: [Lo°tī°]
+<HI>§ 392, III, {@114@}, 1—30 (10095—10124). pp. 352—354: [Lo˚tī˚]
 <is>Mahendrācalagamana</is>.
 <HI>{%(g):%} III, {@115—117@}.
-<HI>III, {@115@}, 1—45 (10125—10170). pp. 354—358: [Lo°tī° Kārtta-
+<HI>III, {@115@}, 1—45 (10125—10170). pp. 354—358: [Lo˚tī˚ Kārtta-
 vīryopākhyāna] Jamadagnyutpatti.
 <HI>{@116@}, 1—29 (10171—10200). pp. 358—361: [id.] Jamadagni-
 vadha.
@@ -1128,14 +1128,14 @@ Yudhiṣṭhira-saṃvāda (Prabhāse Yādava-Pāṇḍava-
 samāgama).
 <HI>{@119@}, 1—22 (10237—10258). pp. 365—367: Balarāma-vākya.
 <HI>{@120@}, 1—32 (10259—10290). pp. 368—371: Vṛṣṇigamana
-(Lo° Yādavagamana).
+(Lo˚ Yādavagamana).
 <HI>§ 400, III, {@118@}, 1—23 (10214—10236): ({%a%}) Tīrthayātrāparvan,
 ({%b%}) Sūrpāraka.
 <HI>§ 401, III, {@119@}, 1—22 (10237—10258): Balarāma.
 <HI>§ 402, III, {@120@}, 1—32 (10259—10290): Tīrthayātrāparvan.
 <HI>{%(i) Sukanyopākhyāna:%} III, {@121—125@}.
 <HI>III, {@121@}, 1—24 (10291—10315). pp. 371—373: Sukanyopā-
-khyāna (Lo°Saukanya).
+khyāna (Lo˚Saukanya).
 <HI>{@122@}, 1—29 (10316—10344). pp. 373—375: id. (id.).
 <HI>{@123@}, 1—24 (10345—10370). pp. 375—377: id. (id.).
 <HI>{@124@}, 1—25 (10371—10395). pp. 377—379: id. (id.).
@@ -1147,16 +1147,16 @@ khyāna (Lo°Saukanya).
 khyāna.
 <HI>§ 406, III, {@125@}, 12—26 (10407—10422): Tīrthayātrāparvan.
 <HI>{%(k) Māndhātrupākhyāna:%} III, {@126@}.
-<HI>III, {@126@}, 1—47 (10423—10469). pp. 382—385: [Lo°] <is>Māndha-
+<HI>III, {@126@}, 1—47 (10423—10469). pp. 382—385: [Lo˚] <is>Māndha-
 trupākhyāna</is>.
 <HI>{%(l) Jantūpākhyāna:%} III, {@127—128@}.
-<HI>§ 408, III, {@127@}, 1—21 (10470—10490). pp. 386—387: [Lo°]
+<HI>§ 408, III, {@127@}, 1—21 (10470—10490). pp. 386—387: [Lo˚]
 <is>Jantūpākhyāna</is>.
 <HI>{@128@}, 1—21 (10491—10512). pp. 388—389: id. (id.).
 <HI>{%(m):%} III, {@129—131@}.
 <HI>III, {@129@}, 1—22 (10513—10535). pp. 389—391: Plakṣāvata-
-raṇagamana (Lo°).
-<HI>{@130@}, 1—24 (10536—10560). pp. 391—393: [Lo°] Śyena-
+raṇagamana (Lo˚).
+<HI>{@130@}, 1—24 (10536—10560). pp. 391—393: [Lo˚] Śyena-
 kapotīya.
 <HI>{@131@}, 1—34 (10561—10596). pp. 393—396: [id.] id.
 <HI>§ 409, III, {@129@}, 1—22 (10513—10535): Plakṣāvataraṇa-
@@ -1165,12 +1165,12 @@ gamana.
 <HI>§ 411, III, {@130@}, 21{%b%}—{@131@}, 34 (10557—10596): Śyenakapotīya.
 [PageXIX-a+ 61]
 <HI>{%(n) Aṣṭāvakrīya:%} III, {@132—134@}.
-<HI>§ 412, III, {@132@}, 1—23 (10597—10620). pp. 396—398: [Lo°]-
+<HI>§ 412, III, {@132@}, 1—23 (10597—10620). pp. 396—398: [Lo˚]-
 <is>Aṣṭāvakrīya</is>.
 <HI>{@188@}, 1—30 (10621—10650). pp. 398—401: [id.] id.
 <HI>{@134@}, 1—41 (10651—10691). pp. 401—407: [id.] id.
 <HI>{%(o) Yavakrītopākhyāna:%} III, {@135—138@}.
-<HI>III, {@135@}, 1—60 (10692—10751). pp. 408—412: [Lo°] Yava-
+<HI>III, {@135@}, 1—60 (10692—10751). pp. 408—412: [Lo˚] Yava-
 krītopākhyāna.
 <HI>{@136@}, 1—20 (10752—10771). pp. 412—413: [id.] id.
 <HI>{@137@}, 1—19 (10772—10790). pp. 413—415: [id.] id.
@@ -1183,8 +1183,8 @@ khyāna.
 <HI>§ 417, III, {@138@}, 1—28 (10791—10819): id.
 <HI>{%(p):%} III, {@139—145@}.
 <HI>III, {@139@}, 1—20 (10820—10839). pp. 417—419: Yudhiṣṭhira-
-vākya [Lo° Kailāsādigiripraveśa].
-<HI>{@140@}, 1—29 (10840—10870). pp. 419—421: [Lo°] Gandhamā-
+vākya [Lo˚ Kailāsādigiripraveśa].
+<HI>{@140@}, 1—29 (10840—10870). pp. 419—421: [Lo˚] Gandhamā-
 danapraveśa.
 <HI>{@141@}, 1—28 (10871—10898). pp. 421—423: [id.] id.
 <HI>{@142@}, 1—63 (10899—10962). pp. 423—427: [id.] id.
@@ -1202,7 +1202,7 @@ praveśa, ({%b%}) Naraka.
 <HI>§ 423, III, {@143@}, 1—{@145@}, 54 (10963—11068): Gandhamādana-
 praveśa.
 <HI>{%(q):%} III, {@146-150@}.
-<HI>III, {@146@}, 1—96 (11069—11166). pp. 435—441: [Lo°] Bhīma-
+<HI>III, {@146@}, 1—96 (11069—11166). pp. 435—441: [Lo˚] Bhīma-
 khadalī-khaṇḍa-praveśa.
 <HI>{@147@}, 1—34 (11167—11200). pp. 441—443: [id.] Hanūmad-
 Bhīma-saṃvada.
@@ -1223,22 +1223,22 @@ saṃvāda, ({%b%}) Kṛta-yuga.
 <HI>§ 430, III, {@150@}, 1—52 (11265—11317): Hanūmad-Bhīma-saṃvāda.
 <HI>{%(r):%} III, {@151—156@}.
 <HI>§ 431, III, {@151@}, 1—19 (11318—11336). pp. 452—454: <is>Saugan-
-dhikāharaṇa</is> (Lo° Gandhamā° Hanūmad-Bhīma-
+dhikāharaṇa</is> (Lo˚ Gandhamā˚ Hanūmad-Bhīma-
 saṃvāda).
 [PageXIX-b+ 58]
-<HI>§ 432, III, {@152@}, 1—14 (11337—11350). pp. 454—455: [Lo°]
+<HI>§ 432, III, {@152@}, 1—14 (11337—11350). pp. 454—455: [Lo˚]
 Saugandhikāharaṇa.
 <HI>{@153@}, 1—16 (11351—11366). pp. 455—456: [id.] id.
 <HI>{@154@}, 1—27 (11367—11394). pp. 456—458: [id.] id.
 <HI>§ 433, III, {@155@}, 1—34 (11395—11429). pp. 459—461: [id.] id.
-<HI>§ 434, III, {@156@}, 1—21 (11430—11450). pp. 461—462: [Lo°
+<HI>§ 434, III, {@156@}, 1—21 (11430—11450). pp. 461—462: [Lo˚
 punar] [Nara] Nārāyaṇāśramāgamana.
 <H>XXXVII. JAṬĀSURAVADHAPARVAN.
 <HI>§ 435, III, {@157@}, 1—72 (11451—11523). pp. 462—467: Jaṭā-
 suravadha.
 <H>XXXVIII. YAKSHAYUDDHAPARVAN.
 <HI>§ 436, III, {@158@}, 1—103 (11524—11627). pp. 467—473: Gandha-
-mādanaśobhādarśana (°praveśa).
+mādanaśobhādarśana (˚praveśa).
 <HI>{@159@}, 1—32 (11628—11660). pp. 473—475: Arṣṭiṣeṇa-
 Yudhiṣṭhira-saṃvāda.
 <HI>§ 437, III, {@160@}, 1—77 (11661—11738). pp. 475—480: Maṇimad-
@@ -1265,7 +1265,7 @@ kavaca-vadha (Yuddhārambha).
 vadha.
 <HI>{@171@}, 1—30 (12132—12161). pp. 506—508: Māyāyuddha.
 <HI>{@172@}, 1—35 (12162—12196). pp. 509—511: Nivātakavaca-
-vadha (°yuddha).
+vadha (˚yuddha).
 <HI>§ 445, III, {@173@}, 1—75 (12197—12273). pp. 511—516: Hiraṇya-
 pura-Daitya-vadha.
 <HI>§ 446, III, {@174@}, 1—17 (12274—12290). pp. 516—517: Astra-
@@ -1288,7 +1288,7 @@ Bhīma-darśana.
 <H>XLI. MĀRKAṆḌEYASAMĀSYĀPARVAN.
 <HI>{%(a):%} III, {@182—200@}.
 <HI>§ 451, III, {@182@}, 1—18 (12539—12556). pp. 536—538: Kāmyaka-
-pratyāgamana (°vanapraveśa).
+pratyāgamana (˚vanapraveśa).
 <HI>{@183@}, 1—95 (12557—12651). pp. 538—546: [Mārkaṇḍeya-
 kathā].
 <HI>§ 452, III, {@183@}, 1—40 (12557—12596): Mārkaṇḍeyasamāsyā-
@@ -1310,16 +1310,16 @@ parvan, ({%b%}) Kali-yuga.
 <HI>§ 459, III, {@188@}, 86—{@189@}, 59 (12891—13008): Mārkaṇḍeya-
 samāsyāparvan
 <HI>§ 460, III, {@190@}, 1—97 (13009—13106). pp. 571—579: Kali-
-yugakṛtyakathana (Bhavishya°).
+yugakṛtyakathana (Bhavishya˚).
 <HI>{@191@}, 1—35 (13107—13141). pp. 579—582: Yudhiṣṭhira-
 darśāsana. ({%a%}) Mārkaṇḍeyasamāsyāparvan, ({%b%}) Kali-
 yuga, ({%c%}) Kalkin
 <HI>§ 461, III, {@192@}, 1—72 (13142—13211). pp. 582—589: <is>Vāma-
 devacarita</is> (Maṇḍūkopākhyāna).
 <HI>§ 462, III, {@193@}, 1—36 (13212—13247). pp. 589—593: <is>Baka-
-Śakra-saṃvāda</is> (Brāhmaṇamahābhāgye Ba°).
+Śakra-saṃvāda</is> (Brāhmaṇamahābhāgye Ba˚).
 <HI>§ 463, III, {@194@}, 1—8 (13248—13255). pp. 593—594: <is>Śibi-</is>
-mahābhāgyakathana (°carita).
+mahābhāgyakathana (˚carita).
 <HI>III, {@195@}, 1—6 (13256—13260). pp. 594—595: Nāhuṣacarit[r]a.
 <HI>§ 464, III, {@195:@} Yayāti.
 <HI>§ 465, III, {@196@}, 1—13 (13261—13273). pp. 595—596: [Seduka-
@@ -1330,7 +1330,7 @@ nyamahābhāgya</is> [kathana] [Śibicarita].
 <HI>§ 468, III, {@199@}, 1—18 (13331—13348). pp. 602—605: <is>Indra-
 dyumnopākhyāna</is>.
 <HI>{@200@}, 1—129 (13349—13481). pp. 605—617: Dānākathana
-(°māhātmya).
+(˚māhātmya).
 <HI>§ 469, III, {@200@}, 1—42 (13349—13391): Mārkaṇḍeyasamāsyāp.
 <HI>§ 470, III, {@200@}, 43—63 (13392—13412): Yama-loka.
 <HI>§ 471, III, {@200@}, 64—80 (13413—13429): Mārkaṇḍeyasamāsyāp.
@@ -1359,19 +1359,19 @@ topākhyāna</is>.
 <HI>{@208@}, 1—39 (13802—13841). pp. 643—646: id. [Pativrato-
 pākhyāna, id.].
 <HI>{@209@}, 1—56 (13842—13897). pp. 646 650: Dvijavyādha-
-saṃvāda (Brāhmaṇa°).
+saṃvāda (Brāhmaṇa˚).
 <HI>{@210@}, 1—21 (13898—13919). pp. 650 652: id. (Brāhmaṇa-
 māhātmya).
 <HI>§ 481, III, {@210@}, 1—12 (13898—13909): Pativratopākhyāna.
 <HI>§ 482, III, {@210@}, 13—21 (13910—13919): id.
 <HI>§ 483, III, {@211@}, 1—27 (13920—13946). pp. 652—654: id.
-Dvijavyādhasaṃvāda (Brāhmaṇa°).
+Dvijavyādhasaṃvāda (Brāhmaṇa˚).
 <HI>§ 484, III, {@212@}, 1—12 (13947—13958). pp. 654—655: id. (id.).
 <HI>§ 485, III, {@213@}, 1—40 (13959—13999). pp. 655—659: Brāhmaṇa-
 vyādhasaṃvāda.
 <HI>{@214@}, 1—29 (14000—14029). pp. 659—661: Dvijavyādha-
 saṃvāda.
-<HI>{@215@}, 1—31 (14030—14062). pp. 662—664: id. (Brāhmaṇa°).
+<HI>{@215@}, 1—31 (14030—14062). pp. 662—664: id. (Brāhmaṇa˚).
 <HI>{@216@}, 1—37 (14063—14099). pp. 664—667: Pativrato-
 pākhyāna (id.).
 <HI>§ 486, III, {@214@}, 1—{@215@}, 20 (14000—14051{%a%}): Pativrato-
@@ -1392,39 +1392,39 @@ pākhyāna (<is>Āṅgirasa</is>).
 <HI>§ 494, III, {@222@}, 22—32 (14229{%b%}-14240): id.
 <HI>{%(e) Skandotpatti%}, etc.: III, {@223—232@}. {%(a) Skandotpatti:%}
 III, {@223—226@}.
-<HI>{@223@}, 1—15 (14241—14256). pp. 679—680: [Āṅgi°] Skan-
+<HI>{@223@}, 1—15 (14241—14256). pp. 679—680: [Āṅgi˚] Skan-
 dotpatti [Keśiparābhava].
 <HI>{@224@}, 1—42 (14257—14298). pp. 680—683: [id.] id.
 <HI>{@225@}, 1—39 (14299—14338). pp. 683—686: [id.] id.
 [Kumārotpatti].
 <HI>§ 495, III, {@223@}, 1—{@224@}, 10 (14241—14266): Skandotpatti.
 <HI>§ 496, III, {@224@}, 11—{@225@}, 39 (14267—14338): id.
-<HI>{@226@}, 1—29 (14339—14367). pp. 686—688: [Āṅgi°] Skan-
+<HI>{@226@}, 1—29 (14339—14367). pp. 686—688: [Āṅgi˚] Skan-
 dotpatti [Keśiparābhava].
 <HI>§ 497, III, {@226@}, 1—17{%a%} (14339—14355{%a%}): Skandotpatti.
 <HI>§ 498, III, {@226@}, 17{%b%}-29 (14355{%b%}-14367): id.
 <HI>(β)
 <HI>§ 499, III, {@227@}, 1—18 (14368—14386). pp. 688—690: <is>Skanda-
-Śakra-samāgama</is> (Āṅgi° Indra-Skando°).
+Śakra-samāgama</is> (Āṅgi˚ Indra-Skando˚).
 [PageXXI-a+ 59]
 <HI>(γ) {%Skandopākhyāna:%} III, {@228—229@}.
 <HI>§ 500, III, {@228@}, 1—15 (14387—14401). pp. 690—691: <is>Skando-
-pākhyāna</is> (Āṅgi° Kumārotpatti).
+pākhyāna</is> (Āṅgi˚ Kumārotpatti).
 <HI>§ 501, III, {@229@}, 1—52 (14402—14453). pp. 691—695: id.
-(Āṅgi° Skandop°).
+(Āṅgi˚ Skandop˚).
 <HI>(δ) {%Manuṣyagrahakathana:%} III, {@230@}.
-<HI>§ 502, {@230@}, 1—59 (14454—14513). pp. 695—699: [Āṅgi°]
+<HI>§ 502, {@230@}, 1—59 (14454—14513). pp. 695—699: [Āṅgi˚]
 <is>Manushyagrahakathana</is>.
 <HI>(ε) {%Skandhayuddha:%} III, {@231@}.
-<HI>{@231@}, 1—113 (14514—14627). pp. 699—707: [Ā°] Skanda-
-yuddha (°otpatti) [Mahiṣāsuravadha].
+<HI>{@231@}, 1—113 (14514—14627). pp. 699—707: [Ā˚] Skanda-
+yuddha (˚otpatti) [Mahiṣāsuravadha].
 <HI>§ 503, III, {@231@}, 1—7 (14514—14520): Skandayuddha.
 <HI>§ 504, III, {@231@}, 8—17{%a%} (14521—14530): id.
 <HI>§ 505, III, {@231@}, 17{%b%}-27 (14531—14541{%a%}): id.
 <HI>§ 506, III, {@231@}, 28—57 (14541{%b%}-14571): id.
 <HI>§ 507, III, {@231@}, 58—113 (14572—14627): id.
 <HI>(ζ) {%Kārttikeyastava:%} III, {@232@}.
-<HI>{@232@}, 1—21 (14628—14648). pp. 707—710: [Ā°] Kārttikeya-
+<HI>{@232@}, 1—21 (14628—14648). pp. 707—710: [Ā˚] Kārttikeya-
 stava.
 <HI>§ 508, III, {@232@}, 1—9 (14628—14636): Kārttikeyastava.
 <HI>§ 509, III, {@232@}, 10—21 (14637—14648): id.
@@ -1443,11 +1443,11 @@ vākya.
 <HI>{@238@}, 1—24 (14796—14819). pp. 722—724: Ghoṣayātrā-
 mantraṇa.
 <HI>{@239@}, 1—29 (14820—14848). pp. 724—726: Duryodhana-
-Dvaitavana-gamana (°-prasthāna).
+Dvaitavana-gamana (˚-prasthāna).
 <HI>{@240@}, 1—31 (14849—14879). pp. 726—729: Gandharva-
 Duryodhanasenā-saṃvāda.
 <HI>{@241@}, 1—32 (14880—14912). pp. 729—731: Karṇa-raṇabhaṅga
-(°parābhava).
+(˚parābhava).
 <HI>{@242@}, 1—22 (14913—14934). pp. 731—733: Duryodhanādi-
 haraṇa.
 <HI>{@243@}, 1—22 (14935—14956). pp. 733—735: Duryodhana-
@@ -1492,16 +1492,16 @@ yajña.
 ṣṭhira-mṛgasvapnadarśana (Kāmyakapraveśa).
 <H>XLV. VRĪHIDRAUṆIKAPARVAN.
 <HI>§ 519, III, {@259@}, 1—35 (15370—15404). pp. 765—768: Dāna-
-kathana (Dānaduṣkaratva°)
+kathana (Dānaduṣkaratva˚)
 <HI>§ 520, III, {@260@}, 1—36 (15405—15440). pp. 768—771: Svarga-
 guṇapraśna (<is>Mudgalo</is>pākhyāna).
 <HI>{@261@}, 1—51 (15441—15491). pp. 771—775: Mudgala-jñāna-
-prāpti (°devadūta-saṃvāda).
+prāpti (˚devadūta-saṃvāda).
 <H>XLVI. DRAUPADĪHARAṆAPARVAN.
 <HI>§ 521, III, {@262@}, 1—28 (15492—15520). pp. 775—777: Durvāsa-
-ātithya (°upākhyāna).
+ātithya (˚upākhyāna).
 <HI>{@263@}, 1—49 (15521—15570). pp. 777—780: Kṛṣṇagamana
-(°upākhyāna).
+(˚upākhyāna).
 <HI>§ 522, III, {@264@}, 1—17 (15571—15587). pp. 781—782: Koti-
 kāsyapraśna (Jayadrathāgamana).
 <HI>{@265@}, 1—14 (15588—15601). pp. 782—783: id.
@@ -1513,7 +1513,7 @@ Draupadī-saṃvāda).
 <HI>{@270@}, 1—21 (15695—15715). pp. 792—794: Pārtha-yuddha
 (Draupadī-vākya).
 <HI>{@271@}, 1—60 (15716—15776). pp. 794—798: Jayadrathagrahaṇa
-(°palāyana).
+(˚palāyana).
 <H>XLVII. JAYADRATHAVIMOKSHAṆAPARVAN.
 <HI>III, {@272@}, 1—81 (15777—15858). pp. 198—804: [Jayadratha-
 varaprāpti].
@@ -1598,7 +1598,7 @@ bhisheka.
 ṣṭhirāśvāsa.
 <H>XLIX. PATIVRATĀMĀHĀTMYAPARVAN.
 <HI>§ 545, III, {@293@}, 1—41 (16616—16657). pp. 864—866: Sāvitrī-
-svayaṃvara (°upākhyāna).
+svayaṃvara (˚upākhyāna).
 <HI>{@294@}, 1—33 (16658—16690). pp. 867—869: Sāvitry-udvāha
 Nāradānumati (id.).
 <HI>{@295@}, 1—23 (16691—16713). pp. 869—871: id. (id.).
@@ -1629,7 +1629,7 @@ kṣepaṇa (Karṇa-parityāga).
 <HI>{@309@}, 1—25 (17153—17177). pp. 907—909: Rādhā-Karṇa-
 prāpti.
 <HI>{@310@}, 1—42 (17178—17220). pp. 909—912: [Karṇasya]varma-
-kuṇḍaladāna (kavaca°).
+kuṇḍaladāna (kavaca˚).
 <HI>§ 546: Kuṇḍalāharaṇaparvan.
 <HI>§ 547: Karṇa.
 <H>LI. ĀRAṆEYAPARVAN.
@@ -1642,9 +1642,9 @@ mṛgānveṣaṇa.
 <HI>{@314@}, 1—29 (17419—17447). pp. 931—933: Nakulādi-jīvan
 [ādivaraprāpti].
 <HI>{@315@}, 1—31 (17448—17478). pp. 933—935: Ajñātavāsodyoga
-(°saṃmantraṇa).
+(˚saṃmantraṇa).
 <HI>§ 548, III, {@311@}, 1—{@315@}, 31 (17221—17478). pp. 913—935:
-({%a%}) Āraṇeyaparvan, ({%b%}) Pāripātra (°yā°), ({%c%}) Dharma,
+({%a%}) Āraṇeyaparvan, ({%b%}) Pāripātra (˚yā˚), ({%c%}) Dharma,
 ({%d%}) Indra, ({%e%}) Viṣṇu, ({%f%}) Agni, ({%g%}) Aurva, ({%h%}) Vivasvat.
 [PageXXIII-a+ 57]
 <H>{@IV. VIRATAPARVAN@}.
@@ -1693,11 +1693,11 @@ yāna (Dakshinagograhe Suśarmādi-yāna).
 <HI>{@31@}, 1—35 (1000—1035). pp. 76—78: [Dakṣiṇagograhe]
 Matsyarājaraṇodyoga.
 <HI>{@32@}, 1—30 (1036—1066). pp. 78—80: [id.] Suśarma-Virāṭa-
-(Vi°-Su°-) yuddha.
+(Vi˚-Su˚-) yuddha.
 <HI>{@33@}, 1—61 (1067—1128). pp. 81—85: [id.] Suśarma-nigraha.
 <HI>{@34@}, 1—19 (1129—1148). pp. 85—86: [id.] Virāṭa-jayaghoṣa.
 <HI>{@35@}, 1—22 (1149—1170). pp. 87—88: Uttara-praśaṃsā
-(°gograhe gopavākya).
+(˚gograhe gopavākya).
 <HI>{@36@}, 1—24 (1171—1194). pp. 88—90: [Uttaragograhe-]
 Bṛhannalā-sārathyakathana.
 <HI>{@37@}, 1—34 (1195—1229). pp. 90—93: [id.] Uttara-niryāṇa.
@@ -1724,14 +1724,14 @@ vikatthana.
 bhartsana-vākya (Drauṇivākya).
 <HI>{@51@}, 1—22 (1583—1605). pp. 123—125: Droṇavākya.
 <HI>{@52@}, 1—23 (1606—1629). pp. 125—127: Bhīṣma—sainyavyūha.
-<HI>{@53@}, 1—25 (1630—1659). pp. 127—129: [U°] Gonivartana.
-<HI>{@54@}, 1—36 (1660—1695). pp. 130—133: [U°] Karṇāpayāna.
+<HI>{@53@}, 1—25 (1630—1659). pp. 127—129: [U˚] Gonivartana.
+<HI>{@54@}, 1—36 (1660—1695). pp. 130—133: [U˚] Karṇāpayāna.
 <HI>{@55@}, 1—60 (1696—1758). pp. 134—138: Arjuna-Kṛpa-
 saṅgrāma.
 <HI>{@56@}, 1—19 (1759—1778). pp. 138—140: Devāgamana.
-<HI>{@57@}, 1—43 (1779—1822). pp. 140—143: [U°] Kṛpāpayāna.
+<HI>{@57@}, 1—43 (1779—1822). pp. 140—143: [U˚] Kṛpāpayāna.
 <HI>{@58@}, 1—76 (1823—1900). pp. 143—148: Droṇāpayāna.
-<HI>{@59@}, 1—21 (1901—1922). pp. 148—150: [U°] Arjunāśvatthāma-
+<HI>{@59@}, 1—21 (1901—1922). pp. 148—150: [U˚] Arjunāśvatthāma-
 yuddha.
 <HI>{@60@}, 1—27 (1923—1949). pp. 150—152: Karṇāpayāna.
 <HI>{@61@}, 1—46 (1950—1997). pp. 152—156: Arjuna-Duḥśāsanādi-
@@ -1740,7 +1740,7 @@ yuddha.
 <HI>{@63@}, 1—14 (2021—2034). [omitted]: id.
 <HI>{@64@}, 1—49 (2035—2085). pp. 158—161: Bhīṣmāpayāna.
 <HI>{@65@}, 1—18 (2086—2104). pp. 162—163: Duryodhana-palāyana
-(°āpayāna).
+(˚āpayāna).
 <HI>{@66@}, 1—30 (2105—2135). pp. 164—167: Arjuna-yuddha-
 nivartana (Samasta-Kaurava-palāyana).
 <HI>{@67@}, 1—23 (2136—2159). pp. 167—169: Uttarāgamana.
@@ -1778,10 +1778,10 @@ Nahuṣa-bhraṃśa.
 <HI>{@19@}, 1—33 (570—602). pp. 42—44: Purohitasainyadarśana.
 <H>LVIII. SAÑJAYAYĀNAPARVAN.
 <HI>§ 556, V, {@20@}, 1—21 (603—623). pp. 44—45: Purohita-vākya
-(°yāna).
+(˚yāna).
 <HI>{@21@}, 1—21 (624—644). pp. 46—47: Sañjayāhvāna (id.).
 <HI>{@22@}, 1—40 (645—684). pp. 47—51: Dhṛtarāṣṭra-kathā
-(°sandeśa).
+(˚sandeśa).
 <HI>{@23@}, 1—28 (685—712). pp. 51—54: Yudhiṣṭhira-praśna.
 <HI>{@24@}, 1—10 (713—722). pp. 54—55: Sañjaya-vākya.
 <HI>{@25@}, 1—15 (723—737). pp. 55—56: id.
@@ -1790,14 +1790,14 @@ Nahuṣa-bhraṃśa.
 <HI>{@28@}, 1—14 (794—808). pp. 63—65: Yudhiṣṭhira-vākya.
 <HI>{@29@}, 1—58 (809—866). pp. 65—70: Kṛṣṇa-vākya.
 <HI>{@30@}, 1—49 (867—915). pp. 70—75: Yudhiṣṭhira-vākya
-(°sandeśa).
+(˚sandeśa).
 <HI>{@31@}, 1—23 (916—938). pp. 76—77: id. (id.).
 <HI>{@32@}, 1—32 (939—970). pp. 77—81: Dhṛtarāṣṭra-Sañjaya-
 saṃvāda.
 <H>LIX. PRAJĀGARAPARVAN.
 <HI>§ 557,
 <F>1) Prajāg.</F> V, {@33@}, 1—123 (971—1093). pp. 81—91: Vidura-hita-
-vākya (°nīti°).
+vākya (˚nīti˚).
 <HI>{@34@}, 1—86 (1094—1180). pp. 91—97: Vidura-vākya (id.).
 <HI>§ 558,
 <F>2) Virocana.</F> V, {@35@}, 1—77 (1181—1259). pp. 97—103: Vidura-hita-
@@ -1852,7 +1852,7 @@ gamana).
 <HI>{@71@}, 1—7 (2574—2580). p. 229: Dhṛtarāṣṭra-vākya.
 <H>LXII. BHAGAVADYĀNAPARVAN.
 <HI>§ 562, V, {@72@}, 1—93 (2581—2674). pp. 229—236: Yudhiṣṭhira-
-vākya (Y°-kṛta-Kṛṣṇa-preraṇa).
+vākya (Y˚-kṛta-Kṛṣṇa-preraṇa).
 <HI>{@73@}, 1—42 (2675—2716). pp. 237—239: Kṛṣṇa-vākya.
 <HI>{@74@}, 1—23 (2717—2739). pp. 240—241: Bhīma-vākya.
 <HI>{@75@}, 1—23 (2740—2762). pp. 241—243: [Bhīmottejaka-]
@@ -1878,12 +1878,12 @@ māṇa).
 vāda (Dhṛtarāṣṭra-gṛhapraveśa-pūrvakaṃ Śrī-Kṛṣṇasya
 Vidura-gṛha-praveśaḥ).
 <HI>{@90@}, 1—105 (3128—3235). pp. 271—279: Kuntī-Kṛṣṇa-
-(Kṛ°-Ku°)-saṃvāda.
+(Kṛ˚-Ku˚)-saṃvāda.
 <HI>{@91@}, 1—41 (3236—3277). pp. 280—283: Śrī-Kṛṣṇa-Duryo-
 dhana-saṃvāda.
 <HI>{@92@}, 1—30 (3278—3307). pp. 283—285: Śrī-Kṛṣṇa-Vidura-
 saṃvāda.
-<HI>{@93@}, 1—22 (3308—3329). pp. 285—287: id. (°vākya).
+<HI>{@93@}, 1—22 (3308—3329). pp. 285—287: id. (˚vākya).
 <HI>{@94@}, 1—54 (3330—3383). pp. 287—291: Bhagavad-upaveśa
 (Śrī-Kṛṣṇa-sabhāpraveśa).
 [PageXXV-a+ 62]
@@ -1892,7 +1892,7 @@ Kṛṣṇa-)vākya.
 <HI>§ 563, V, {@96@}, 1—52 (3448—3500). pp. 296—300: Jāmadagnya-
 vākya (<is>Dambhodbhavopākhyāna</is>).
 <HI>§ 564, V, {@97@}, 1—21 (3501—3521). pp. 300—302: <is>Mātalīyo-
-pākhyāna</is> (°li-varānveṣaṇa).
+pākhyāna</is> (˚li-varānveṣaṇa).
 <HI>{@98@}, 1—25 (3522—3546). pp. 302—304: id. (id.).
 <HI>{@99@}, 1—20 (3547—3566). pp. 304—306: id. (id.).
 <HI>{@100@}, 1—19 (3567—3585). pp. 306—308: id. (id.).
@@ -1919,13 +1919,13 @@ carita</is>.
 <HI>{@120@}, 1—22 (4026—4047). pp. 347—349: id.
 <HI>§ 566, V, {@121@}, 1—28 (4048—4077). pp. 350—352: [Gālava-
 carite] <is>Yayāti-</is>[svarga-]bhraṃśa.
-<HI>{@122@}, 1—18 (4078—4096). pp. 352—353: [Gā°-]Yayāti-
+<HI>{@122@}, 1—18 (4078—4096). pp. 352—353: [Gā˚-]Yayāti-
 svargārohaṇ.
-<HI>{@123@}, 1—23 (4097—4120). pp. 353—356: [Gā°-] [id.].
+<HI>{@123@}, 1—23 (4097—4120). pp. 353—356: [Gā˚-] [id.].
 <HI>§ 567, V, {@124@}, 1—62 (4121—4185). pp. 356—361: Bhagavad-
 vākya.
 <HI>{@125@}, 1—27 (4186—4213). pp. 361—363: Dhṛtarāṣṭra-vākya
-(Bhīṣmādi°-).
+(Bhīṣmādi˚-).
 <HI>{@126@}, 1—18 (4214—4232). pp. 363—364: Bhīṣma-Droṇa-
 vākya.
 <HI>{@127@}, 1—25 (4232—4258). pp. 364—366: Duryodhana-vākya.
@@ -1947,11 +1947,11 @@ vākya.
 vākya.
 <HI>{@139@}, 1—22 (4704—4725). pp. 404—406: id.
 <HI>{@140@}, 1—29 (4726—4754). pp. 406—409: Bhagavad-vākya
-(Śrī-Kṛṣṇa°).
+(Śrī-Kṛṣṇa˚).
 <P><sup>1</sup> Vidulāputraśāsana.
 [PageXXV-b+ 58]
 <HI>{@141@}, 1—57 (4755—1812). pp. 409—415: Karṇa-vākya
-(°opanivāda).
+(˚opanivāda).
 <HI>{@142@}, 1—20 (4813—4832). pp. 415—417: [id.] Bhagavad-
 vākya.
 <HI>{@143@}, 1—52 (4833—4884). pp. 417—421: [id.] Kṛṣṇa-Karṇa-
@@ -1965,7 +1965,7 @@ samāgama.
 <HI>{@149@}, 1—36 (5040—5076). pp. 434—436: id. (Dhṛtarāṣtra-
 vākyakathana).
 <HI>{@150@}, 1—20 (5077—5096). pp. 437—438: Bhagavad-vākya
-(Kṛṣṇa°).
+(Kṛṣṇa˚).
 <H>LXIII. SAINYANIRYĀṆAPARVAN.
 <HI>§ 570, V, {@151@}, 1—71 (5097—5169). pp. 438—444: Kurukshetra-
 praveśa.
@@ -1987,7 +1987,7 @@ khyāna.
 vākya.
 <HI>{@161@}, 1—43 (5535—5577). pp. 472—475: Ulūka-vākya.
 <HI>{@162@}, 1—63 (5578—5642). pp. 475—480: Bhagavad-vākya
-(Kṛṣṇādi°).
+(Kṛṣṇādi˚).
 <HI>{@163@}, 1—57 (5643—5701). pp. 480—484: Ulūkāpayāna.
 <HI>{@164@}, 1—12 (5702—5713). pp. 484—485: Senāpatiniyoga.
 <H>LXV. RATHĀTIRATHASAṄKHYĀNAPARVAN.
@@ -1996,7 +1996,7 @@ rathātirathasaṅkhyā].
 <HI>{@166@}, 1—22 (5748—5769). pp. 488—489: [id.].
 <HI>{@167@}, 1—38 (5770—5807). pp. 489—492: [id.].
 <HI>{@168@}, 1—42 (5808—5849). pp. 492—495: Bhīṣma-Karṇa-
-kalaha (°saṃvāda).
+kalaha (˚saṃvāda).
 <HI>{@169@}, 1—28 (5850—5878). pp. 495—497: Pāṇḍava-rathā-
 tirathasaṅkhyā.
 <HI>{@170@}, 1—14 (5879—5892). pp. 498—499: [id.].
@@ -2010,12 +2010,12 @@ Kanyāharaṇa.
 saṃvāda.
 [PageXXVI-a+ 57]
 <HI>{@176@}, 1—59 (6022—6082). pp. 508—512: Akṛtavraṇāmbā-
-saṃvāda (Hotravahanā°).
+saṃvāda (Hotravahanā˚).
 <HI>{@177@}, 1—42 (6083—7024). pp. 513—516: Rāmāmbā-saṃvāda.
 <HI>{@178@}, 1—95 (7025—7123). pp. 516—523: Gaṅgā-vākya
 (Paraśu-Rāma-Bhīṣmayoḥ Kurukṣetrāvataraṇā).
 <HI>{@179@}, 1—39 (7124—7162). pp. 523—526: Bhīṣma-Rāma-
-yuddhe (Rā° Bhī°) [Bhīṣma-paścāttāpa].
+yuddhe (Rā˚ Bhī˚) [Bhīṣma-paścāttāpa].
 <HI>{@180@}, 1—38 (7163—7200). pp. 526—529: Rāma-Bhīṣma-
 yuddha.
 <HI>{@181@}, 1—16 (7201—7216). pp. 529—530: [id. śakti-prakṣepa].
@@ -2032,10 +2032,10 @@ yuddhanivṛtti.
 praveśa.
 <HI>{@188@}, 1—20 (7389—7408). pp. 542—544: Śikhaṇḍy-utpatti.
 <HI>{@189@}, 1—23 (7409—7433). pp. 544—545: Hiraṇyavarma-
-dūtāgamana (°ta-preṣaṇa).
+dūtāgamana (˚ta-preṣaṇa).
 <HI>{@190@}, 1—22 (7434—7455). pp. 545—547: Drupada-praśna.
 <HI>{@191@}, 1—30 (7456—7486). pp. 547—549: Sthūṇākarṇa-
-pratyaksha (°samāgama).
+pratyaksha (˚samāgama).
 <HI>{@192@}, 1—70 (7487—7557). pp. 549—554: Śikhandi-puṃstva-
 prāpti.
 <HI>{@193@}, 1—22 (7558—7580). pp. 554—556: Bhīṣmādi-śaktika-
@@ -2082,34 +2082,34 @@ saṃvāda.
 saṃvāda.
 <HI>{@25@}, 1—47 (830—878). pp. 74—78: Śrī-Kṛṣṇārjuna-saṃvāde
 Arjuna-viṣāda[-yoga].
-<HI>{@26@}, 1—72 (878—950). pp. 78—86: Śrī° Sāṅkhya-Yoga.
-<HI>{@27@}, 1—43 (951—993). pp. 86—91: Śrī° Karmayoga.
-<HI>{@28@}, 1—42 (994—1035). pp. 91—95: Śrī° Jñānayoga (Yajña-
-vibhāga°).
-<HI>{@29@}, 1—29 (1036—1064). pp. 95—98: [Śrī° Karma-]Sannyāsa-
+<HI>{@26@}, 1—72 (878—950). pp. 78—86: Śrī˚ Sāṅkhya-Yoga.
+<HI>{@27@}, 1—43 (951—993). pp. 86—91: Śrī˚ Karmayoga.
+<HI>{@28@}, 1—42 (994—1035). pp. 91—95: Śrī˚ Jñānayoga (Yajña-
+vibhāga˚).
+<HI>{@29@}, 1—29 (1036—1064). pp. 95—98: [Śrī˚ Karma-]Sannyāsa-
 yoga.
-<HI>{@30@}, 1—47 (1065—1111). pp. 98—102: [Śrī°]ātmasaṃyama-
+<HI>{@30@}, 1—47 (1065—1111). pp. 98—102: [Śrī˚]ātmasaṃyama-
 (adhyātma-)yoga.
-<HI>{@31@}, 1—30 (1112—1141). pp. 102—105: Śrī° Jñānayoga.
-<HI>{@32@}, 1—28 (1142—1169). pp. 105—108: Śrī° [Mahāpuruṣa-
+<HI>{@31@}, 1—30 (1112—1141). pp. 102—105: Śrī˚ Jñānayoga.
+<HI>{@32@}, 1—28 (1142—1169). pp. 105—108: Śrī˚ [Mahāpuruṣa-
 yoga].
-<HI>{@33@}, 1—34 (1170—1204). pp. 108—111: [Śrī°] Rājavidyā-
+<HI>{@33@}, 1—34 (1170—1204). pp. 108—111: [Śrī˚] Rājavidyā-
 rājaguhya-yoga.
-<HI>{@34@}, 1—42 (1205—1246). pp. 111—115: [Śrī°] Vibhūtiyoga.
-<HI>{@35@}, 1—55 (1247—1301). pp. 115—121: [Śrī°] Viśvarūpa-
+<HI>{@34@}, 1—42 (1205—1246). pp. 111—115: [Śrī˚] Vibhūtiyoga.
+<HI>{@35@}, 1—55 (1247—1301). pp. 115—121: [Śrī˚] Viśvarūpa-
 darśana.
-<HI>{@36@}, 1—20 (1302—1321). pp. 121—123: [Śrī° Bhaktiyoga].
-<HI>{@37@}, 1—34 (1322—1355). pp. 123—126: [Śrī°] Kshetra-
+<HI>{@36@}, 1—20 (1302—1321). pp. 121—123: [Śrī˚ Bhaktiyoga].
+<HI>{@37@}, 1—34 (1322—1355). pp. 123—126: [Śrī˚] Kshetra-
 kṣetrajña-[vibhāga-]yoga.
-<HI>{@38@}, 1—27 (1356—1382). pp. 126—129: [Śrī°] Guṇatraya-
+<HI>{@38@}, 1—27 (1356—1382). pp. 126—129: [Śrī˚] Guṇatraya-
 vibhāga[-yoga].
-<HI>{@39@}, 1—20 (1383—1402). pp. 129—132: [Śrī°] Purushottama-
+<HI>{@39@}, 1—20 (1383—1402). pp. 129—132: [Śrī˚] Purushottama-
 yoga.
-<HI>{@40@}, 1—14 (1403—1426). pp. 132—134: [Śrī°] Daivā (Devā°)
+<HI>{@40@}, 1—14 (1403—1426). pp. 132—134: [Śrī˚] Daivā (Devā˚)
 sura-Sampatti-(Sampadvibhāga-)yoga.
-<HI>{@41@}, 1—28 (1427—1454). pp. 134—136: [Śrī°] Śraddhā-
+<HI>{@41@}, 1—28 (1427—1454). pp. 134—136: [Śrī˚] Śraddhā-
 trayavibhāga[-yoga].
-<HI>{@42@}, 1—78 (1455—1532). pp. 136—143: Śrī° Sannyāsayoga.
+<HI>{@42@}, 1—78 (1455—1532). pp. 136—143: Śrī˚ Sannyāsayoga.
 <H>LXX. BHĪSHMAVADHAPARVAN.
 <HI>§ 577, VI, {@43@}, 6—109 (1533—1637). pp. 143—152: Bhīṣma-
 Droṇa-Kṛpa-Śalyābhigamana (Bhīṣmādi-saṃmānana).
@@ -2177,7 +2177,7 @@ vahāra.
 <HI>{@80@}, 1—19 (3512—3530). pp. 291—293: Bhīṣma-Duryodhana-
 saṃvāda.
 <HI>§ 584, VI, {@81@}, 1—46 (3531—3576). pp. 293—296: Saptama-
-divasa-yuddhā-(Sa°yu°di°)[rambha].
+divasa-yuddhā-(Sa˚yu˚di˚)[rambha].
 <HI>{@82@}, 1—62 (3577—3638). pp. 297—301: Dvairatha.
 <HI>{@83@}, 1—57 (3639—3695). pp. 301—305: Dvandvayuddha.
 <HI>{@84@}, 1—55 (3696—3750). pp. 305—309: [Saptamayuddha-
@@ -2199,11 +2199,11 @@ vadha (Sunābhādi-Dhṛtarāṣṭraputravadha).
 <HI>{@94@}, 1—50 (4182—4231). pp. 342—345: Haiḍimbamāyā
 (Aṣṭamayuddhadivase Ghaṭotkaca-yuddha).
 <HI>{@95@}, 1—86 (4232—4322). pp. 345—351: Bhagadatta-parākrama
-(°yuddha).
+(˚yuddha).
 <HI>{@96@}, 1—80 (4323—4403). pp. 351—357: Aṣṭadivasayuddhā-
 vahāra.
 <HI>{@97@}, 1—43 (4404—4447). pp. 357—360: Bhīṣma[m prati]
-Duryodhana-saṃvāda (°vākya).
+Duryodhana-saṃvāda (˚vākya).
 <HI>{@98@}, 1—51 (4448—4499). pp. 360—363: [Bhīṣma-]Dur-
 yodhana-[Duḥśāsana]-saṃvāda.
 <HI>§ 586, VI, {@99@}, 1—30 (4500—4529). pp. 363—366: [Paraspara-
@@ -2223,14 +2223,14 @@ yuddhasamāpti.
 <HI>{@107@}, 1—107 (4886—4993). pp. 390—398: Navamadivasā[va]
 hārottaramantra.
 <HI>§ 587, VI, {@108@}, 1—60 (4994—5054). pp. 398—402: [Daśama-
-divasayuddhārambhe] Bhīṣma-Śikhaṇḍi-pralāpa(°samā-
+divasayuddhārambhe] Bhīṣma-Śikhaṇḍi-pralāpa(˚samā-
 gama).
 <HI>{@109@}, 1—39 (5055—5093). pp. 402—405: Duryodhana-Bhīṣma
-(Bhī° Du°)-saṃvāda.
+(Bhī˚ Du˚)-saṃvāda.
 <HI>{@110@}, 1—48 (5094—5139). pp. 405—408: Arjuna-Duḥśāsana-
 samāgama.
 <HI>{@111@}, 1—58 (5140—5197). pp. 408—412: Dvandvasamāgama
-(°yuddha).
+(˚yuddha).
 <HI>{@112@}, 1—41 (5198—5238). pp. 412—415: Droṇāśvatthāma-
 saṃvāda.
 <HI>{@113@}, 1—53 (5239—5290). pp. 415—418: Bhīma[sena]parā-
@@ -2245,9 +2245,9 @@ krama.
 <HI>{@120@}, 1—38 (5689—5727). pp. 447—449.
 39—71 (5728—5761). pp. 449—452: Bhīṣmopadhānadāna.
 <HI>§ 588, VI, {@121@}, 1—57 (5762—5817). pp. 452—456: [Duryo-
-dhanaṃ prati] Bhīṣma-[śikṣā]-kathana (°vākya).
+dhanaṃ prati] Bhīṣma-[śikṣā]-kathana (˚vākya).
 <HI>{@122@}, 1—39 (5818—5856). pp. 456—459: Bhīṣma-Karṇa-
-samāgama (°saṃvāda).
+samāgama (˚saṃvāda).
 <H>{@VII. DROṆAPARVAN@}.
 <H>LXXI. DROṆĀBHISHEKAPARVAN.
 <HI>§ 589, VII, {@1@}, 1—53 (1—51). pp. 1—5: Dhṛtarāṣṭrapraśna.
@@ -2264,7 +2264,7 @@ samāgama (°saṃvāda).
 <HI>{@10@}, 1—77 (306—381). pp. 25—31: Dhṛtarāṣṭra-vākya.
 <HI>{@11@}, 1—51 (382—433). pp. 31—35: Dhṛtarāṣṭra-vilāpa.
 <HI>590, VII, {@12@}, 1—31 (434—464). pp. 35—37: Droṇa-varadāna
-(°pratijñā).
+(˚pratijñā).
 <HI>{@13@}, 1—29 (465—494). pp. 37—39: Yudhiṣṭhira-grahaṇa-
 pratijñā (Arjuna-kṛta-Yudhiṣṭhirāśvāsana).
 <HI>{@14@}, 1—87 (495—581). pp. 39—46: Abhimanyu-parākrama.
@@ -2301,7 +2301,7 @@ kathana).
 <HI>{@38@}, 1—24 (1623—1645). pp. 122—124: id.
 <HI>{@39@}, 1—31 (1646—1676). pp. 124—127: Duḥśāsana-yuddha.
 <HI>{@40@}, 1—37 (1677—1713). pp. 127—129: Duḥśāsana-Karṇa-
-parājaya (Ka°-Du°-parākrama).
+parājaya (Ka˚-Du˚-parākrama).
 <HI>{@41@}, 1—26 (1714—1740). pp. 129—131: Abhimanyu-parākrama.
 <HI>{@42@}, 1—22 (1741—1762). pp. 131—133: Jayadratha-yuddha.
 <HI>{@43@}, 1—19 (1763—1781). pp. 133—135: id.
@@ -2310,14 +2310,14 @@ parājaya (Ka°-Du°-parākrama).
 <HI>{@46@}, 1—27 (1833—1860). pp. 139—141: Krāthaputra-vadha
 (Lakṣmaṇa-vadha).
 <HI>{@47@}, 1—24 (1861—1884). pp. 141—143: Bṛhadbala-jaya
-(°vadha).
+(˚vadha).
 <HI>{@48@}, 1—41 (1885—1926). pp. 143—146: Abhimanyu-yuddha
 (virathakaraṇa).
 <HI>{@49@}, 1—39 (1927—1966). pp. 146—149: Abhimanyu-vadha.
 <HI>{@50@}, 1—15 (1967—1981). pp. 149—151: [Tṛtīyadivasāvahāre]
 Samara-bhūmivarṇana.
 [PageXVIII-b+ 61]
-<HI>{@51@}, 1—21 (1982—2002). pp. 151—152: Yudhiṣṭhiravi (°pra)
+<HI>{@51@}, 1—21 (1982—2002). pp. 151—152: Yudhiṣṭhiravi (˚pra)
 lāpa.
 <HI>§ 594, VII, {@52@}, 1—45 (2003—2048). pp. 152—156: [Śokā-
 panodana].
@@ -2325,7 +2325,7 @@ panodana].
 <HI>{@54@}, 1—58 (2073—2133). pp. 158—162: Mṛtyu-Prajāpati.
 saṃvāda.
 <HI>§ 595, VII, {@55@}, 1—50 (2134—2183). pp. 163—167: Ṣoḍaśa-
-rājika (°īya).
+rājika (˚īya).
 <HI>{@56@}, 1—12 (2184—2195). pp. 167—168: id.
 <HI>{@57@}, 1—12 (2196—2208). pp. 168—169: id.
 <HI>{@58@}, 1—15 (2209—2223). pp. 169—170: id.
@@ -2362,7 +2362,7 @@ Pāśupatāstraprāpti.
 <HI>{@84@}, 1—35 (2974—3009). pp. 228—231: Arjunavākya.
 <H>LXXV. JAYADRATHAVADHAPARVAN.
 <HI>§ 598, VII, {@85@}, 1—54 (3010—3063). pp. 231—234: Dhṛta-
-rāṣṭrānutāpa (°vākya).
+rāṣṭrānutāpa (˚vākya).
 <HI>{@86@}, 1—23 (3064—3086). pp. 235—236: Sañjaya-vākya.
 <HI>{@87@}, 1—34 (3087—3120). pp. 236—239: Kaurava-vyūha-
 nirmāṇa.
@@ -2382,14 +2382,14 @@ bandh[an]a.
 <HI>{@96@}, 1—31 (3542—3572). pp. 268—270: Saṅkula (Dvandva)-
 yuddha.
 <HI>{@97@}, 1—36 (3573—3608). pp. 270—272: Saṅkula-yuddha
-(Droṇa-Dhṛṣṭadyumna°).
+(Droṇa-Dhṛṣṭadyumna˚).
 <HI>{@98@}, 1—57 (3609—3665). pp. 273—277: Droṇa-Sātyaki-yuddha.
 <HI>{@99@}, 1—63 (3666—3725). pp. 277—281: [Vindānuvinda-vadhe]
 Arjuna-saro [vara-]nirmāṇa[ca].
 <HI>{@100@}, 1—37 (3726—3762). pp. 281—284: Sainyavismaya.
 <HI>{@101@}, 1—42 (3763—3804). pp. 284—287: Duryodhanāgam[an]a.
 <HI>{@102@}, 1—38 (3805—3842). pp. 287—289: Duryodhana-dambha-
-vākya (°vacana).
+vākya (˚vacana).
 <HI>{@103@}, 1—49 (3843—3890). pp. 290—293: Duryodhana-parājaya.
 <HI>{@104@}, 1—35 (3891—3925). pp. 293—295: Saṅkulayuddha.
 <HI>{@105@}, 1—38 (3926—3964). pp. 295—298: Dhvajavarṇana.
@@ -2415,19 +2415,19 @@ Yavanaparājaya.
 <HI>{@120@}, 1—47 (4758—4805). pp. 351—355: Sātyaki-praveśe
 [Duryodhanapalāyana].
 <HI>{@121@}, 1—58 (4806—4863). pp. 355—359: Sātyaki-praveśa.
-<HI>{@122@}, 1—73 (4864—4934). pp. 359—363: [Sā°-pra°] Droṇa-
+<HI>{@122@}, 1—73 (4864—4934). pp. 359—363: [Sā˚-pra˚] Droṇa-
 parākrama.
-<HI>{@123@}, 1—37 (4935—4971). pp. 363—366: Sā°-pra° Duḥśāsana-
+<HI>{@123@}, 1—37 (4935—4971). pp. 363—366: Sā˚-pra˚ Duḥśāsana-
 parājaya.
-<HI>{@124@}, 1—47 (4972—5016). pp. 366—369: [Sā°-pra°] Saṅkula-
+<HI>{@124@}, 1—47 (4972—5016). pp. 366—369: [Sā˚-pra˚] Saṅkula-
 yuddha.
 <HI>{@125@}, 1—78 (5017—5095). pp. 369—374: Droṇa-parākrama.
 <HI>{@126@}, 1—49 (5096—5143). pp. 375—378: Yudhiṣṭhira-cintā.
 <HI>{@127@}, 1—74 (5144—5218). pp. 378—383: Bhīma[sena-]-
 praveśe Bhīma-parākrama.
-<HI>{@128@}, 1—56 (5219—5271). pp. 383—386: [Bhīmasena-pra°]
+<HI>{@128@}, 1—56 (5219—5271). pp. 383—386: [Bhīmasena-pra˚]
 Yudhiṣṭhira-harṣa.
-<HI>{@129@}, 1—39 (5272—5310). pp. 386—389: [Bhīma-pra°]
+<HI>{@129@}, 1—39 (5272—5310). pp. 386—389: [Bhīma-pra˚]
 Karṇaparājaya.
 <HI>{@130@}, 1—44 (5311—5354). pp. 389—392: Duryodhana-yuddha.
 <HI>{@131@}, 1—58 (5355—5412). pp. 392—396: Karṇa-parājaya.
@@ -2466,12 +2466,12 @@ rambha.
 <HI>§ 600, VII, {@153@}, 1—44 (6605—6640). pp. 480—483: Duryodhana-
 parābhava.
 <HI>{@154@}, 1—41 (6641—6681). pp. 483—486: Droṇa-yuddha
-(Rātri°).
+(Rātri˚).
 <HI>{@155@}, 1—46 (6682—6728). pp. 486—489: [Rātriyuddhe]
 Bhīmaparākrama.
 <HI>{@156@}, 1—190 (6729—6921). pp. 489—503: [id.] [Aśvatthāma-
 yuddha].
-<HI>{@157@}, 1—49 (6922—6969). pp. 503—506: [Rā°] Droṇa-
+<HI>{@157@}, 1—49 (6922—6969). pp. 503—506: [Rā˚] Droṇa-
 Yudhiṣṭhira-yuddha.
 <HI>{@158@}, 1—70 (6970—7041). pp. 506—511: [id.] Kṛpa-Karṇa-vākya.
 <HI>{@159@}, 1—100 (7042—7142). pp. 511—518: [id.] Duryodhana-
@@ -2481,24 +2481,24 @@ parākrama.
 <HI>{@161@}, 1—19 (7204—7223). pp. 522—523: [id.] Saṅkulayuddha.
 <HI>{@162@}, 1—55 (7224—7278). pp. 523—527: Rātriyuddhe [Soma-
 dattavadha].
-<HI>{@163@}, 1—37 (7279—7316). pp. 527—530: [Rā°] Dīpoddyotana.
+<HI>{@163@}, 1—37 (7279—7316). pp. 527—530: [Rā˚] Dīpoddyotana.
 <HI>{@164@}, 1—37 (7317—7354). pp. 531—533: [id.] Saṅkulayuddha.
 <HI>{@165@}, 1—41 (7355—7396). pp. 533—536: [id.] Yudhiṣṭhirā-
 payāna.
 <HI>{@166@}, 1—64 (7397—7461). pp. 536—540: [id.] Duryodhanā-
 payāna.
 <HI>{@167@}, 1—22 (7462—7483). pp. 541—542.
-23—50 (7484—7511). pp. 542—544: [Rā°] Alam-
+23—50 (7484—7511). pp. 542—544: [Rā˚] Alam-
 buṣaparābhava.
 <HI>{@168@}, 1—47 (7512—7558). pp. 544—547: [id.] Śatānīkādi-
 yuddha.
 <HI>{@169@}, 1—50 (7559—7608). pp. 547—550: Rātri-[yuddhe]
 Saṅkulayuddha.
-<HI>{@170@}, 1—70 (7609—7679). pp. 550—555: [Rā°] Saṅkulayuddha.
+<HI>{@170@}, 1—70 (7609—7679). pp. 550—555: [Rā˚] Saṅkulayuddha.
 <HI>{@171@}, 1—54 (7680—7734). pp. 555—558: [id.] id.
 <HI>{@172@}, 1—41 (7735—7773). pp. 558—561: [id.] id.
 <HI>{@173@}, 1—68 (7774—7843). pp. 561—566: [id.] Ghaṭotkaca-
-yāna (°protsāhana).
+yāna (˚protsāhana).
 <HI>{@174@}, 1—45 (7844—7889). pp. 566—569: [id.] Alambusha-
 vadha.
 <HI>{@175@}, 1—114 (7890—8003). pp. 569—577: [id.] Karṇa-
@@ -2510,13 +2510,13 @@ yuddha.
 <HI>{@178@}, 1—40 (8074—8114). pp. 582—584: [id.] Alāyudha-vadha.
 <HI>{@179@}, 1—64 (8115—8177). pp. 584—590: [id.] Ghaṭotkaca-
 vadha.
-<HI>{@180@}, 1—33 (8178—8212). pp. 590—592: [Rā° Gha° Śrī-]
+<HI>{@180@}, 1—33 (8178—8212). pp. 590—592: [Rā˚ Gha˚ Śrī-]
 Kṛṣṇaharṣa.
-<HI>{@181@}, 1—33 (8213—8246). pp. 593—595: [Rā°] Kṛṣṇa-vākya.
+<HI>{@181@}, 1—33 (8213—8246). pp. 593—595: [Rā˚] Kṛṣṇa-vākya.
 <HI>{@182@}, 1—47 (8247—8293). pp. 595—599: [id.] id.
 <HI>{@183@}, 1—67 (8294—8361). pp. 599—603: [id.] Vyāsa-vākya.
 <H>LXXVII. DROṆAVADHAPARVAN.
-<HI>§ 601, VII, {@184@}, 1—56 (8362—8418). pp. 603—607: [Rā°]
+<HI>§ 601, VII, {@184@}, 1—56 (8362—8418). pp. 603—607: [Rā˚]
 Sainyanidrā.
 <HI>{@185@}, 1—37 (8419—8456). pp. 607—610: [Droṇa-Duryodhana-
 bhāṣaṇa].
@@ -2550,7 +2550,7 @@ krama.
 <H>VIII. KARṆAPARVAN.
 LXXIX. KARṆAPARVAN.
 <HI>§ 604, VIII, {@1@}, 1—24 (1—24). pp. 1—3: Janamejaya-vākya.
-<HI>{@2@}, 1—25 (25—50). pp. 3—5: Sañjaya-Dhṛtarāṣṭra (Dh° S°)-
+<HI>{@2@}, 1—25 (25—50). pp. 3—5: Sañjaya-Dhṛtarāṣṭra (Dh˚ S˚)-
 saṃvāda.
 <HI>{@3@}, 1—21 (51—72). pp. 5—6: Sañjaya-vākya.
 <HI>{@4@}, 1—16 (73—89). pp. 7—8: Dhṛtarāṣṭra-śoka.
@@ -2568,7 +2568,7 @@ saṃvāda.
 <HI>{@15@}, 1—44 (566—609). pp. 43—46: Aśvatthāma-Bhīmasena-
 [yor]yuddha.
 <HI>{@16@}, 1—51 (610—660). pp. 46—50: Aśvatthāmārjuna-yuddha
-(°saṃvāda).
+(˚saṃvāda).
 <HI>{@17@}, 1—26 (661—686). pp. 51—53: Aśvatthāma-parājaya.
 <HI>{@18@}, 1—25 (687—710). pp. 53—56: Daṇḍavadha.
 <HI>{@19@}, 1—58 (711—769). pp. 56—60: Saṅkulayuddha.
@@ -2583,7 +2583,7 @@ yuddha.
 <HI>{@27@}, 1—42 (1076—1118). pp. 83—85: Saṃśaptaka-jaya.
 <HI>{@28@}, 1—49 (1119—1168). pp. 85—88: Saṅkulayuddha.
 <HI>{@29@}, 1—36 (1169—1204). pp. 89—91: id.
-<HI>{@30@}, 1—44 (1205—1248). pp. 91—95: Prathama(°me)-yuddha-
+<HI>{@30@}, 1—44 (1205—1248). pp. 91—95: Prathama(˚me)-yuddha-
 divasa.
 <HI>{@31@}, 1—73 (1249—1323). pp. 95—100: Karṇa-Duryodhana-
 saṃvāda.
@@ -2633,19 +2633,19 @@ Haṃsa-kākīyopākhyāna.
 prati Kṛṣṇārjunāgama).
 <HI>{@66@}, 1—48 (3309—3356). pp. 242—246: Yudhiṣṭhira-vākya.
 <HI>{@67@}, 1—23 (3357—3379). pp. 246—248: Arjuna-pratijñā
-(°vākya).
+(˚vākya).
 <HI>{@68@}, 1—30 (3380—3402). pp. 248—250: Yudhiṣṭhira[krodha]
 vākya.
 <HI>{@69@}, 1—88 (3403—3491). pp. 251—258: Kṛṣṇārjuna-saṃvāda.
 <HI>{@70@}, 1—60 (3492—3551). pp. 259—264: Yudhiṣṭhira-
-prabodhana (°samāśvāsana).
+prabodhana (˚samāśvāsana).
 <HI>{@71@}, 1—40 (3552—3592). pp. 264—267: Yudhiṣṭhirārjuna-
 saṃvāda (Arjuna-pratijñā).
 <HI>{@72@}, 1—40 (3593—3633). pp. 267—270: Kṛṣṇārjuna-saṃvāda.
 <HI>{@73@}, 1—125 (3634—3750). pp. 270—278: Arjunopadeśa
 (Kṛṣṇavākya).
 <HI>{@74@}, 1—58 (3751—3803). pp. 278—282: Arjuna-ślāghā
-(°vākya).
+(˚vākya).
 <HI>{@75@}, 1—17 (3804—3820). pp. 282—284: Saṅkula-[dvandva-]
 yuddha.
 <HI>{@76@}, 1—40 (3821—3860). pp. 284—287: Bhīmasena-Viśoka-
@@ -2667,7 +2667,7 @@ Nakulaparājaya.
 game] dvairatha.
 <HI>{@88@}, 1—34 (4490—4523). pp. 336—340: Aśvatthāma-vākya.
 <HI>{@89@}, 1—97 (4524—7621). pp. 340—350: Karṇārjuna-yuddha
-(°dvairatha).
+(˚dvairatha).
 <HI>{@90@}, 1—116 (4622—4747). pp. 350—362: Karṇa-rathacakra-
 grasana.
 <HI>{@91@}, 1—67 (4748—4817). pp. 362—368: Karṇa-vadha.
@@ -2688,7 +2688,7 @@ LXXX. ŚALYAPARVAN.
 <HI>{@4@}, 1—51 (187—238). pp. 14—17: Duryodhana-prabodhana
 (Kṛpavākya).
 <HI>{@5@}, 1—52 (239—291). pp. 17—21: Duryodhana-vākya.
-<HI>{@6@}, 1—30 (292—320). pp. 21—23: [Śalya] id. (°saṃvāda).
+<HI>{@6@}, 1—30 (292—320). pp. 21—23: [Śalya] id. (˚saṃvāda).
 [PageXXXI-b+ 59]
 <HI>{@7@}, 1—46 (321—366). pp. 24—27: Śalya-saināpaty[ābhiṣek]a.
 <HI>§ 611, IX, {@8@}, 1—45 (367—412). pp. 27—30: Vyūhanirmāṇa.
@@ -2732,11 +2732,11 @@ yodhana-saṃvāda.
 <HI>§ 614, IX, {@34@}, 1—22 (1947—1968). pp. 135—136: Baladevā-
 gamana.
 <HI>§ 615, IX, {@35@}, 1—90 (1969—2063). pp. 137—143: Baladeva-
-tīrthayātrāyāṃ Candra-śāpopakhyāna (°Prabhāsotpatti-
+tīrthayātrāyāṃ Candra-śāpopakhyāna (˚Prabhāsotpatti-
 kathana).
-<HI>{@36@}, 1—54 (2064—2118). pp. 143—146: Ba°tī° Tīrthaka-
+<HI>{@36@}, 1—54 (2064—2118). pp. 143—146: Ba˚tī˚ Tīrthaka-
 thana (Tritākhyāna).
-<HI>{@37@}, 1—66 (2119—2185). pp. 147—151: Ba°tī° Sārasvato-
+<HI>{@37@}, 1—66 (2119—2185). pp. 147—151: Ba˚tī˚ Sārasvato-
 pākhyāna.
 <HI>{@38@}, 1—59 (2186—2245). pp. 152—156: id.
 <HI>{@39@}, 1—38 (2246—2284). pp. 156—158: id.
@@ -2752,14 +2752,14 @@ kopakrama].
 [PageXXXII-a+ 57]
 <HI>{@48@}, 1—68 (2762—2830). pp. 190—195: id. [Badarapācana-
 tīrthakathana].
-<HI>{@49@}, 1—24 (2831—2853). pp. 195—197: [Ba°] Sārasvato-
+<HI>{@49@}, 1—24 (2831—2853). pp. 195—197: [Ba˚] Sārasvato-
 pakhyāna.
-<HI>{@50@}, 1—69 (2854—2924). pp. 197—202: Ba° Sā°.
+<HI>{@50@}, 1—69 (2854—2924). pp. 197—202: Ba˚ Sā˚.
 <HI>{@51@}, 1—53 (2925—2978). pp. 202—205: id.
 <HI>{@52@}, 1—29 (2979—3007). pp. 205—207: id.
-<HI>{@53@}, 1—26 (3008—3034). pp. 208—209: Ba° [Sā° Kurukshe-
+<HI>{@53@}, 1—26 (3008—3034). pp. 208—209: Ba˚ [Sā˚ Kurukshe-
 trakathana].
-<HI>{@54@}, 1—41 (3035—3076). pp. 210—212: Ba° Sā°.
+<HI>{@54@}, 1—41 (3035—3076). pp. 210—212: Ba˚ Sā˚.
 <HI>{@55@}, 1—51 (3077—3128). pp. 213—216: [Gadā]yuddh[ārambha].
 <HI>{@56@}, 1—46 (3129—3174). pp. 216—219: id.
 <HI>{@57@}, 1—70 (3175—3245). pp. 219—224: Gadāyuddha.
@@ -2771,7 +2771,7 @@ yodhana-vadha.
 [Duryodhana-]saṃvāda.
 <HI>{@62@}, 1—46 (3460—3502). pp. 239—242: Vāsudeva-vākya.
 <HI>{@63@}, 1—78 (3503—3581). pp. 242—247: Dhṛtarāṣṭra-Gāndhārī-
-prabodhana (°samāśvāsana).
+prabodhana (˚samāśvāsana).
 <HI>{@64@}, 1—43 (3582—3624). pp. 248—251: Duryodhana-vilāpa.
 <HI>{@65@}, 1—46 (3625—3671). pp. 251—254: Aśvatthāma-sainā-
 patyābhiṣeka.
@@ -2789,7 +2789,7 @@ vadha.
 <HI>{@9@}, 1—63 (479—542). pp. 35—39: Duryodhana-prāṇatyāga.
 <H>LXXXIV. AISHĪKAPARVAN.
 <HI>§ 617, X, {@10@}, 1—31 (543—573). pp. 39—42: Yudhiṣṭhira[sya]
-śibiradarśana (°praveśa).
+śibiradarśana (˚praveśa).
 <HI>{@11@}, 1—31 (574—605). pp. 42—44: Drauṇi-vadhārtha[ṃ]-
 Bhīma[sena]gamana.
 <HI>{@12@}, 1—41 (606—645). pp. 44—47: Yudhiṣṭhira-Kṛṣṇa-
@@ -2832,7 +2832,7 @@ bhūmidarśana (Āyodhanadarśana).
 <HI>{@20@}, 1—35 (568—602). pp. 42—45: id.
 <HI>{@21@}, 1—14 (603—616). pp. 45—46: id. (Karṇa-darśana).
 <HI>{@22@}, 1—18 (617—634). pp. 46—47: Gāndhārī-vākya.
-<HI>{@23@}, 1—42 (635—676). pp. 47—50: id. (°vacana).
+<HI>{@23@}, 1—42 (635—676). pp. 47—50: id. (˚vacana).
 <HI>{@24@}, 1—30 (677—705). pp. 50—52: Gāndhārī-vākya.
 <HI>{@25@}, 1—50 (706—755). pp. 52—56: Gāndhārī-śāpadāna.
 <H>LXXXVII. ŚRĀDDHAPARVAN.
@@ -2846,7 +2846,7 @@ LXXXVIII. RĀJADHARMĀNUŚĀSANAPARVAN.
 <HI>{@2@}, 1—29 (46—74). pp. 4—6: Karṇa-śāpa(-kathana).
 <HI>{@3@}, 1—33 (75—107). pp. 6—9: Karṇ[asy]āstra-prāpti.
 <HI>{@4@}, 1—21 (108—128). pp. 9—10: Duryodhanasya svayaṃvara-
-(°re) kanyāharaṇa.
+(˚re) kanyāharaṇa.
 <HI>{@5@}, 1—15 (129—143). pp. 10—11: Karṇa-vīrya-kathana.
 <HI>{@6@}, 1—13 (144—156). pp. 11—12: Strīśāpa.
 <HI>{@7@}, 1—44 (157—200). pp. 12—16: Yudhiṣṭhira-paridevana.
@@ -2884,7 +2884,7 @@ Parvatopākhyāna.
 <HI>§ 634, XII, {@31@}, 1—47 (1088—1134). pp. 94—97: S[u]varṇa-
 ṣṭhīvi-sambhavopākhyāna.
 <HI>§ 635, XII, {@32@}, 1—25 (1135—1159). pp. 98—100: Prāyaś-
-cittopākhyāna (°vidhi).
+cittopākhyāna (˚vidhi).
 <HI>{@33@}, 1—48 (1160—1207). pp. 100—103: Prāyaścittīyo-
 pākhyāna.
 <HI>{@34@}, 1—32 (1208—1240). pp. 104—106: id. (Prāyaścittīya).
@@ -2894,7 +2894,7 @@ pākhyāna.
 pura-]praveśa.
 <HI>{@38@}, 1—37 (1393—1429). pp. 120—122: Cārvākavadha.
 <HI>§ 636, XII, {@39@}, 1—12 (1430—1442). p. 123: Cārvāka-
-vadhopāya-(°varadānādi-)kathana.
+vadhopāya-(˚varadānādi-)kathana.
 <HI>§ 637, XII, {@40@}, 1—24 (1443—1466). pp. 124—125: Yudhi-
 ṣṭhirābhiṣeka.
 <HI>{@41@}, 1—19 (1467—1485). pp. 125—127: Bhīmādi-karmani-
@@ -2904,7 +2904,7 @@ yoga.
 <HI>{@43@}, 1—17 (1499—1515). pp. 128—130: Vāsudeva-stuti.
 <HI>{@44@}, 1—16 (1516—1531). pp. 130—131: Gṛhavibhāga.
 <HI>{@45@}, 1—20 (1532—1552). pp. 131—133: [Kṛṣṇaṃ prati]
-Yudhiṣṭhira-praśna(°vākya).
+Yudhiṣṭhira-praśna(˚vākya).
 <HI>{@46@}, 1—35 (1553—1587). pp. 133—136: Mahā-Puruṣastava
 [upākhyāna].
 <HI>{@47@}, 1—108 (1588—1697). pp. 136—146: [Bhīṣma-]Stavarāja
@@ -2918,7 +2918,7 @@ vākya.
 <HI>{@52@}, 1—34 (1862—1895). pp. 158—161: Yudhiṣṭhirādyā-
 gamana.
 <HI>{@53@}, 1—28 (1896—1924). pp. 161—163: [Kṛṣṇādi-]Bhīṣma-
-samīpayāna (°abhigamana).
+samīpayāna (˚abhigamana).
 <HI>§ 640, XII, {@54@}, 1—39 (1925—1963). pp. 163—166: Kṛṣṇa-
 vākya.
 <HI>{@55@}, 1—22 (1964—1986). pp. 166—168: Yudhiṣṭhirāśvāsana
@@ -3002,7 +3002,7 @@ māhātmya].
 saṃvāda.
 <HI>{@112@}, 1—21 (4173—4195). pp. 365—367: Uṣṭragrīvopākhyāna.
 <HI>{@113@}, 1—14 (4196—4209). pp. 367—368: Sarit-sāgara-saṃvāda.
-<HI>{@114@}, 1—21 (4210—4230). pp. 368—370: Ṭiṭṭibhaka (°upā-
+<HI>{@114@}, 1—21 (4210—4230). pp. 368—370: Ṭiṭṭibhaka (˚upā-
 khyāna).
 <HI>{@115@}, 1—23 (4231—4253). pp. 370—372: ***
 <HI>{@116@}, 1—23 (4254—4278). pp. 373—374: Śva-rṣi-saṃvāda.
@@ -3045,7 +3045,7 @@ padeśa.
 mitra-śvapaca-saṃvāda.
 <HI>§ 650, XII, {@142@}, 1—38 (5421—5458). pp. 477—480: ***
 <HI>§ 651, XII, {@143@}, 1—34 (5459—5492). pp. 481—483: Kapota-
-lubdhaka-saṃvāda[°upakrama].
+lubdhaka-saṃvāda[˚upakrama].
 <HI>{@144@}, 1—17 (5493—5509). pp. 483—484: Bhāryāpraśaṃsā.
 <HI>{@145@}, 1—14 (5510—5523). pp. 485—486: Kapota-lubdhaka-
 saṃvāda (Kapotaṃ prati kapotī-vākya).
@@ -3074,13 +3074,13 @@ mūla-bhūta-doṣakathana].
 māhātmya).
 <HI>{@160@}, 1—38 (5926—5963). pp. 519—523: Damakathana.
 <HI>{@161@}, 1—13 (5964—5976). pp. 523—524: Tapaḥ-kathana
-(°praśaṃsā).
+(˚praśaṃsā).
 <HI>{@162@}, 1—26 (5977—6002). pp. 524—526: Satyakathana
-(°praśaṃsā).
+(˚praśaṃsā).
 <HI>{@163@}, 1—22 (6003—6025). pp. 526—528: Lobhopākhyāna
-(°nirūpana).
+(˚nirūpana).
 <HI>{@164@}, 1—13 (6026—6038). pp. 528—529: Nṛśaṃsa-kathana
-(°ākhyāna).
+(˚ākhyāna).
 <HI>{@165@}, 1—78 (6039—6119). pp. 530—538: Prāyaścittīya.
 <HI>§ 656, XII, {@166@}, 1—89 (6120—6209). pp. 538—545: Khaḍgot-
 pattikathana.
@@ -3100,7 +3100,7 @@ pākhyāna.
 <HI>{@176@}, 1—23 (6562—6585). pp. 12—14: Śampāka-gītā.
 <HI>{@177@}, 1—54 (6586—6639). pp. 14—20: Maṅki-gītā.
 <HI>{@178@}, 1—13 (6640—6652). pp. 20—21: Bodhya-gītā.
-<HI>{@179@}, 1—37 (6653—6689). pp. 21—25: Prahrādājagara(A°Pra°)
+<HI>{@179@}, 1—37 (6653—6689). pp. 21—25: Prahrādājagara(A˚Pra˚)
 saṃvāda.
 <HI>{@180@}, 1—54 (6690—6744). pp. 25—30: Śṛgāla-Kāśyapa-
 saṃvāda.
@@ -3112,7 +3112,7 @@ kathana].
 <HI>{@184@}, 1—44 (6821—6865). pp. 37—40: Bhṛgu-Bharadvāja-
 saṃvāda.
 <HI>{@185@}, 1—17 (6866—6882). pp. 41—42: [id.].
-<HI>{@186@}, 1—15 (6883—6897). pp. 43—44: Bhṛ° [Jīvasvarūpā-
+<HI>{@186@}, 1—15 (6883—6897). pp. 43—44: Bhṛ˚ [Jīvasvarūpā-
 kshepa].
 <HI>{@187@}, 1—31 (6898—6929). pp. 44—47: id. [Jīvasvarūpanirū-
 pana].
@@ -3147,7 +3147,7 @@ bhūtotpatti[-kathana].
 <HI>§ 665, XII, {@208@}, 1—37 (7567—7603). pp. 127—129: Diśā[ṃ]
 svastika.
 <HI>§ 666, XII, {@209@}, 1—36 (7604—7640). pp. 129—132: Antar-
-bhūmivikrīḍita (°ḍana).
+bhūmivikrīḍita (˚ḍana).
 <HI>§ 667, XII, {@210@}, 1—46 (7641—7688). pp. 133—137: Vārṣṇe-
 yādhyātma[kathana].
 <HI>{@211@}, 1—17 (7689—7706). pp. 137—141: id. [id.].
@@ -3214,18 +3214,18 @@ saṃvāda.
 <HI>§ 679, XII, {@260@}, 1—27 (9229—9256). pp. 342—346: Dharma-
 lakṣaṇa [kathana].
 <HI>{@261@}, 1—20 (9257—9276). pp. 346—350: Dharmalakṣaṇa-
-kathana (°prāmāṇyākṣepa).
+kathana (˚prāmāṇyākṣepa).
 <HI>§ 680, XII, {@262@}, 1—51 (9277—9328). pp. 350—354: Tulādhāra-
 Jājali-saṃvāda.
 <HI>{@263@}, 1—55 (9339 ({%sic%})—9395). pp. 354—362: id.
 <HI>{@264@}, 1—42 (9396—9441). pp. 362—370: id.
 <HI>{@265@}, 1—23 (9442—9466). pp. 370—373: id.
 <HI>§ 681, XII, {@266@}, 1—14 (9467—9480). pp. 373—375: Vicakhyu
-(°khnu) gītā.
+(˚khnu) gītā.
 <HI>§ 682, XII, {@267@}, 1—78 (9481—9558). pp. 375—384: Cirakāri-
 kopākhyāna.
 <HI>§ 683, XII, {@268@}, 1—36 (9559—9595). pp. 384—389: Dyu-
-matsena-Satyavad-vākya (°t-saṃvāda).
+matsena-Satyavad-vākya (˚t-saṃvāda).
 <HI>§ 684, XII, {@269@}, 1—40 (9596—9635). pp. 389—394: Go-
 kapilīya.
 <HI>{@270@}, 1—68 (9636—9706). pp. 394—406: id.
@@ -3257,7 +3257,7 @@ patti.
 <HI>§ 695, XII, {@285@}, 1—71 (10272—10345). pp. 478—485:
 [Dakṣayajñavināśa].
 <HI>§ 696, XII, {@285@}, 72—208 (10346—10484). pp. 485—502:
-Dakṣaprokta-Śiva-sahasranāma-stotra (°stava).
+Dakṣaprokta-Śiva-sahasranāma-stotra (˚stava).
 <HI>§ 697, XII, {@286@}, 1—46 (10485—10531). pp. 502—508: Pāñca-
 bhautika.
 <HI>§ 698, XII, {@287@}, 1—21 (10532—10552). pp. 508—511:
@@ -3360,9 +3360,9 @@ stava].
 bhāva.
 <HI>{@350@}, 1—74 (13637—13712). pp. 852—860: [id.] Dvaipāyaṇot-
 patti.
-<HI>{@351@}, 1—27 (13713—13739). pp. 860—863: Nār° [Brahma-
+<HI>{@351@}, 1—27 (13713—13739). pp. 860—863: Nār˚ [Brahma-
 Rudra-saṃvāda].
-<HI>{@352@}, 1—23 (13740—13763). pp. 863—866: Nār°[-samāpti].
+<HI>{@352@}, 1—23 (13740—13763). pp. 863—866: Nār˚[-samāpti].
 <HI>§ 718, XII, {@353@}, 1—11 (13764—13774). pp. 866—867:
 Uñchavṛtty-upākhyāna.
 <HI>{@354@}, 1—9 (13775—13783). pp. 867—869: id.
@@ -3407,13 +3407,13 @@ svanopākhyāna.
 <HI>§ 729, XIII, {@13@}, 1—6 (582—587). pp. 48—49: [do.] Lokayātrā-
 kathana.
 <HI>§ 730, XIII, {@14@}, 1—429 (588—1024). pp. 49—91: Meghavāhano-
-pākhyāna (°parvākhyāna).
+pākhyāna (˚parvākhyāna).
 <HI>{@15@}, 1—11 (1025—1036). pp. 92—93: id. (id.).
 <HI>{@16@}, 1—76 (1037—1113). pp. 93—101: id. (id.).
 <HI>{@17@}, 1—182 (1114—1295). pp. 101—140: [Dānadharme]
 Mahādeva-sahasranāma-stotra.
 <HI>{@18@}, 1—83 (1296—1380). pp. 140—147: [id.] Meghavāhano-
-pākhyāna (°parvākhyāna).
+pākhyāna (˚parvākhyāna).
 <HI>§ 731, XIII, {@19@}, 1—103 (1381—1484). pp. 148—157: Aṣṭā-
 vakra-dik-saṃvāda.
 <HI>{@20@}, 1—26 (1485—1511). pp. 157—160: id.
@@ -3425,7 +3425,7 @@ Dānakathana (Svarga-Naraka-gāmi-varṇana).
 <HI>{@24@}, 1—12 (1676—1687). pp. 180—181: [do.] Brahmaghna-
 kathana.
 <HI>§ 733, XIII, {@25@}, 1—71 (1688—1757). pp. 181—187: [id.]
-Aṅgirasastīrthayātrā (Āṅgirasatī-°).
+Aṅgirasastīrthayātrā (Āṅgirasatī-˚).
 <HI>§ 734, XIII, {@26@}, 1—106 (1758—1864). pp. 187—198: [id.]
 Gaṅgā-māhātmyakathana.
 <HI>§ 735, XIII, {@27@}, 1—30 (1865—1895). pp. 198—201: [id.]
@@ -3478,7 +3478,7 @@ Kuśika-saṃvāda).
 <HI>{@53@}, 1—68 (2755—2824). pp. 289—294: [id.] Kuśikopākhyāna
 (id.).
 <HI>{@54@}, 1—40 (2825—2866). pp. 294—298: [id.] Kuśika-Cyavana
-(Cya° Ku°)-saṃvāda.
+(Cya˚ Ku˚)-saṃvāda.
 <HI>{@55@}, 1—37 (2867—2903). pp. 298—301: [id.] Cyavana-Kuśika-
 saṃvāda.
 <HI>{@56@}, 1—21 (2904—2925). pp. 302—303: [id.] id.
@@ -3492,10 +3492,10 @@ taḍāga-māhātmya-varṇana].
 <HI>{@61@}, 1—38 (3064—3102). pp. 317—321: id. [id.].
 <HI>{@62@}, 1—96 (3103—3199). pp. 321—329: [id.] [-kathana]
 [Indra-Bṛhaspati-saṃvāda].
-<HI>{@63@}, 1—52 (3200—3251). pp. 330—334: [id.] [-ka°] [anna-
+<HI>{@63@}, 1—52 (3200—3251). pp. 330—334: [id.] [-ka˚] [anna-
 dāna-praśaṃsā].
 [PageXXXVIII-a+ 63]
-<HI>{@64@}, 1—36 (3252—3288). pp. 334—337: [id.] [-ka°] [Nakshatra
+<HI>{@64@}, 1—36 (3252—3288). pp. 334—337: [id.] [-ka˚] [Nakshatra
 yoga-dāna].
 <HI>{@65@}, 1—19 (3289—3308). pp. 337—339: Dānadharma
 [-kathana].
@@ -3516,15 +3516,15 @@ dānika].
 hendra-saṃvāda].
 <HI>{@74@}, 1—16 (3606—3621). pp. 370—372: Dānadharma[-kathana].
 <HI>{@75@}, 1—41 (3622—3664). pp. 372—375: id. [id.].
-<HI>{@76@}, 1—31 (3665—3695). pp. 375—380: id. [Godāna]-ka°.
+<HI>{@76@}, 1—31 (3665—3695). pp. 375—380: id. [Godāna]-ka˚.
 <HI>{@77@}, 1—35 (3696—3731). pp. 380—384: id. [Goprabhava]
-ka°.
+ka˚.
 <HI>{@78@}, 1—25 (3732—3756). pp. 384—387: id. [Gopradānike]
-[-ka°].
+[-ka˚].
 <HI>{@79@}, 1—27 (3757—3784). pp. 387—390: id. [id.] [id.].
 <HI>{@80@}, 1—17 (3785—3801). pp. 390—391: id. [id.] [id.].
-<HI>{@81@}, 1—47 (3802—3850). pp. 391—396: Dāna°[-ka°] Gopra°.
-<HI>{@82@}, 1—27 (3851—3878). pp. 396—398: Dānadharma[-ka°]
+<HI>{@81@}, 1—47 (3802—3850). pp. 391—396: Dāna˚[-ka˚] Gopra˚.
+<HI>{@82@}, 1—27 (3851—3878). pp. 396—398: Dānadharma[-ka˚]
 [Śrī-go-saṃvāda].
 <HI>{@83@}, 1—52 (3879—3930). pp. 398—402: id. [id.] [Goloka-
 varṇana].
@@ -3535,14 +3535,14 @@ Suvarṇotpatti.
 <HI>§ 748, XIII, {@86@}, 1—35 (4186—4220). pp. 424—427: id. [id.]
 Tārakavadhopākhyāna.
 <HI>§ 749, XIII, {@87@}, 1—19 (4221—4239). pp. 427—429: [Dāna-
-dharme] Śrāddhakathana(°kalpa).
-<HI>{@88@}, 1—15 (4240—4254). pp. 429—431: Dānadharma [-ka°]
+dharme] Śrāddhakathana(˚kalpa).
+<HI>{@88@}, 1—15 (4240—4254). pp. 429—431: Dānadharma [-ka˚]
 Śrāddhakalpa.
 <HI>{@89@}, 1—15 (4255—4269). pp. 431—432: id. [id.] id.
 <HI>{@90@}, 1—54 (4270—4325). pp. 432—439: id. [id.] id.
-<HI>{@91@}, 1—45 (4326—4371). pp. 439—443: Śrāddhadharmaka°
-(Dā° Śrā°).
-<HI>{@92@}, 1—23 (4372—4395). pp. 443—445: Dā° [-ka°] Śrāddha-
+<HI>{@91@}, 1—45 (4326—4371). pp. 439—443: Śrāddhadharmaka˚
+(Dā˚ Śrā˚).
+<HI>{@92@}, 1—23 (4372—4395). pp. 443—445: Dā˚ [-ka˚] Śrāddha-
 kalpa.
 <HI>§ 750, XIII, {@93@}, 1—149 (4396—4546). pp. 445—460: id. [id.]
 Bisastainyopākhyāna.
@@ -3553,38 +3553,38 @@ Chattropānahotpatti.
 <HI>{@96@}, 1—22 (4629—4650). pp. 469—471: id. [id.] Chattro-
 pānahadāna-praśaṃsā.
 <HI>§ 753, XIII, {@97@}, 1—25 (4651—4676). pp. 471—473: Dāna-
-dharma [-ka°] [bali-dānavidhi].
-<HI>§ 754, XIII, {@98@}, 1—66 (4677—4742). pp. 473—479: Dā° [-ka°]
+dharma [-ka˚] [bali-dānavidhi].
+<HI>§ 754, XIII, {@98@}, 1—66 (4677—4742). pp. 473—479: Dā˚ [-ka˚]
 Suvarṇa-Manu-saṃvāda.
 <HI>§ 755, XIII, {@99@}, 1—21 (4743—4771). pp. 479—482: id. [id.]
 Agastya-Bhṛgu-saṃvāda.
 [PageXXXVIII-b+ 63]
 <HI>{@100@}, 1—41 (4772—4812). pp. 482—485: [id. id.] Nahusho-
 pākhyāna (id.).
-<HI>§ 756, XIII, {@101@}, 1—29 (4813—4842). pp. 485—488: [Dā°]
+<HI>§ 756, XIII, {@101@}, 1—29 (4813—4842). pp. 485—488: [Dā˚]
 Rājanya-Cāṇḍāla-saṃvāda.
-<HI>§ 757, XIII, {@102@}, 1—63 (4843—4905). pp. 488—496: [Dā°]
+<HI>§ 757, XIII, {@102@}, 1—63 (4843—4905). pp. 488—496: [Dā˚]
 Hastikūṭa.
 <HI>§ 758, XIII, {@103@}, 1—45 (4906—4953). pp. 496—501: [id.]
 [Tapaḥkathana] Brahma-Bhagiratha-saṃvāda.
 <HI>§ 759, XIII, {@104@}, 1—157 (4954—5112). pp. 501—517: [id.]
 Āyuṣyākhyāna.
 <HI>{@105@}, 1—20 (5113—5132). pp. 517—520: [id.] Jyeṣṭha-
-kaniṣṭha-dharma-kathana (°vṛtti).
-<HI>{@106@}, 1—72 (5133—5204). pp. 520—526: [id.] [-ka°] upa-
+kaniṣṭha-dharma-kathana (˚vṛtti).
+<HI>{@106@}, 1—72 (5133—5204). pp. 520—526: [id.] [-ka˚] upa-
 vāsavidhi.
 <HI>{@107@}, 1—144 (5205—5348). pp. 526—538: [id.] upavāsa-
 vidhi.
 <HI>{@108@}, 1—21 (5349—5369). pp. 538—540: [id.] śaucakathana
-(°ānupṛcchā).
+(˚ānupṛcchā).
 <HI>{@109@}, 1—17 (5370—5386). pp. 541—542: [id.] Viṣṇor
 dvādaśa [nāma] [ka] (-kathana).
 <HI>{@110@}, 1—10 (5387—5396). pp. 542—543: [id.] [Aṅgavidhi].
 <HI>§ 760, XIII, {@111@}, 1—133 (5397—5531). pp. 543—554: [id.]
 Saṃsāracakra [kathana].
-<HI>{@112@}, 1—31 (5532—5563). pp. 554—557: [id. Sa°] [Anna-
+<HI>{@112@}, 1—31 (5532—5563). pp. 554—557: [id. Sa˚] [Anna-
 dānakathana].
-<HI>{@113@}, 1—11 (5564—5574). pp. 557—558: id. [ka°] [Saṃsāra-
+<HI>{@113@}, 1—11 (5564—5574). pp. 557—558: id. [ka˚] [Saṃsāra-
 cakrasamāpti].
 <HI>§ 761, XIII, {@114@}, 1—19 (5575—5593). pp. 558—560: [id.]
 Māṃsavarjana-kathana.
@@ -3598,7 +3598,7 @@ Kīṭopākhyāna.
 <HI>{@119@}, 1—15 (5777—5792). pp. 575—577: [id.] id.
 <HI>§ 763, XIII, {@120@}, 1—27 (5793—5820). pp. 577—580: [id.]
 Maitreya-bhikṣā.
-<HI>{@121@}, 1—17 (5821—5837). pp. 580—581: id. [ka°] [id.].
+<HI>{@121@}, 1—17 (5821—5837). pp. 580—581: id. [ka˚] [id.].
 <HI>{@122@}, 1—20 (5838—5857). pp. 581—583: [id.] id.
 <HI>§ 764, XIII, {@123@}, 1—22 (5858—5879). pp. 583—585: [id.
 Śāṇḍilī-]Sumanā-saṃvāda.
@@ -3606,11 +3606,11 @@ Maitreya-bhikṣā.
 Hariṇa-Kṛśakākhyāna.
 <HI>§ 766, XIII, {@125@}, 1—84 (5919—6004). pp. 588—597: [id.]
 Crāddhadharmakathana (Piṭr-rahasya).
-<HI>{@126@}, 1—50 (6005—6054). pp. 597—602: [id.] [ka°] [Deva-
+<HI>{@126@}, 1—50 (6005—6054). pp. 597—602: [id.] [ka˚] [Deva-
 rahasya].
-<HI>{@127@}, 1—19 (6055—6075). pp. 602—604: [id.] Dai (De°)va-
+<HI>{@127@}, 1—19 (6055—6075). pp. 602—604: [id.] Dai (De˚)va-
 rahasya.
-<HI>{@128@}, 1—11 (6076—6086). pp. 604—605: [id.] [ka°] [Deva-
+<HI>{@128@}, 1—11 (6076—6086). pp. 604—605: [id.] [ka˚] [Deva-
 rahasya].
 <HI>{@129@}, 1—15 (6087—6101). pp. 605—607: [id.] Lomaśa-
 rahasya.
@@ -3628,14 +3628,14 @@ rahasya.
 <HI>§ 767, XIII, {@135@}, 1—21 (6199—6219). pp. 616—617: [id.]
 Bhojyābhojyānnakathana.
 <HI>{@136@}, 1—25 (6220—6243). pp. 618—619: [id.] Prāyaścitta-
-kathana (°vidhi).
+kathana (˚vidhi).
 <HI>{@137@}, 1—32 (6244—6276). pp. 620—622: [id.] [Dānaphala-
 kathana].
 <HI>{@138@}, 1—11 (6277—6287). pp. 622—623: Dānadharma
 [-kathana].
-<HI>§ 768, XIII, {@139@}, 1—50 (6288—6337). pp. 623—627: [Dāna°]
+<HI>§ 768, XIII, {@139@}, 1—50 (6288—6337). pp. 623—627: [Dāna˚]
 [Ṛṣi-Vāsudeva-saṃvāda].
-<HI>{@140@}, 1—51 (6338—6389). pp. 627—631: [Dā°] Umā-Mahe-
+<HI>{@140@}, 1—51 (6338—6389). pp. 627—631: [Dā˚] Umā-Mahe-
 śvara-saṃvāda.
 <HI>{@141@}, 1—115 (6390—6505). pp. 632—643: [id.] [id.]
 <HI>{@142@}, 1—59 (6506—6564). pp. 643—649: [id.] id.
@@ -3648,9 +3648,9 @@ kathana].
 <HI>{@148@}, 1—66 (6870—6935). pp. 679—684: [id.] Umā-Maheśvara-
 saṃvāda (Mahāpuruṣa-prastāva).
 <HI>§ 769, XIII, {@149@}, 1—142 (6936—7078). pp. 684—715: [id.]
-Viṣṇor (°ṇu-) [divya-] sahasranāmakathana.
+Viṣṇor (˚ṇu-) [divya-] sahasranāmakathana.
 <HI>§ 770, XIII, {@151@} ({%sic%}), 1—82 (7079—7161). pp. 715—722: [id.]
-Sāvitrī-vratakathana (°opākhyana).
+Sāvitrī-vratakathana (˚opākhyana).
 <HI>§ 771, XIII, {@152@}, 1—23 (7162—7184). pp. 723—725: [id.]
 Brāhmaṇapraśaṃsā.
 <HI>§ 772, XIII, {@153@}, 1—28 (7185—7212). pp. 725—727: [id.]
@@ -3674,12 +3674,12 @@ Dharma [pramāṇa] kathana.
 (Dānadharme dharmapraśaṃsā).
 <HI>{@165@}, 1—15 (7612—7626). pp. 766—768: Dharmakathana
 (Dānadharme Dharmapraśaṃsā).
-<HI>§ 775, XIII, {@166@}, 1—62 (7627—7688). pp. 769—772: [Dā°]
+<HI>§ 775, XIII, {@166@}, 1—62 (7627—7688). pp. 769—772: [Dā˚]
 Vaṃśānukīrtana.
 <HI>§ 776, XIII, {@167@}, 1—17 (7689—7705). pp. 772—774: [id.]
 Bhīṣmānujñā.
 <H>XCII. [BHĪSHMA]-SVARGĀROHAṆ[IK]A-PARVAN.
-<HI>§ 777, XIII, {@168@}, 1—52 (7706—7758). pp. 774—778: [Dā°]
+<HI>§ 777, XIII, {@168@}, 1—52 (7706—7758). pp. 774—778: [Dā˚]
 [Bhīṣma-prārthanā].
 <HI>{@169@}, 1—37 (7759—7796). pp. 778—780: Bhīṣma-svargārohaṇa
 (Bhīṣma-mukti).
@@ -3745,11 +3745,11 @@ prayāṇa.
 [PageXL-a+ 60]
 <HI>§ 784, XIV, {@53@}, 1—26 (1536—1562). pp. 138—140: Ut[t]aṅko-
 pākhyāna [Kṛṣṇottaṅka-samāgama].
-<HI>{@54@}, 1—23 (1563—1585). pp. 140—142: Ut[t]° [Kṛṣṇa-
+<HI>{@54@}, 1—23 (1563—1585). pp. 140—142: Ut[t]˚ [Kṛṣṇa-
 vākya].
 <HI>{@55@}, 1—37 (1586—1624). pp. 142—145: Ut[t]aṅkopākhyāna.
 <HI>{@56@}, 1—35 (1625—1660). pp. 145—148: id. [Kuṇḍalāharaṇa].
-<HI>{@57@}, 1—28 (1661—1689). pp. 148—150: Ut[t]aṅkop°.
+<HI>{@57@}, 1—28 (1661—1689). pp. 148—150: Ut[t]aṅkop˚.
 <HI>{@58@}, 1—60 (1690—1750). pp. 151—155: id.
 <HI>§ 785, XIV, {@59@}, 1—21 (1751—1772). pp. 156—157: Kṛṣṇasya
 Dvārakā-praveśa.
@@ -3773,7 +3773,7 @@ Kṛṣṇāt]saṃjīvana.
 Vyāsānujñā).
 <HI>{@72@}, 1—26 (2083—2109). pp. 181—183: Aśvarakṣārtham
 Arjunaniyoga (Yajñasāmagrīsampādana).
-<HI>{@73@}, 1—28 (2110—2140). pp. 183—185: Aśvānusāra (°saraṇa).
+<HI>{@73@}, 1—28 (2110—2140). pp. 183—185: Aśvānusāra (˚saraṇa).
 <HI>{@74@}, 1—34 (2141—2174). pp. 185—188: id. (Trigarta-parā-
 bhava).
 <HI>{@75@}, 1—20 (2175—2194). pp. 188—189: [Aśvānusāre] Vajra-
@@ -3785,11 +3785,11 @@ yuddha].
 <HI>{@78@}, 1—49 (2253—2301). pp. 194—197: [id.] Saindhava-
 parājaya.
 <HI>{@79@}, 1—39 (2302—2340). pp. 197—200: [id.] Arjuna-parā-
-bhava (°Babhruvāhana-yuddha).
-<HI>{@80@}, 1—61 (2341—2401). pp. 200—204: Aśvānusāre (°-saraṇe)
+bhava (˚Babhruvāhana-yuddha).
+<HI>{@80@}, 1—61 (2341—2401). pp. 200—204: Aśvānusāre (˚-saraṇe)
 Arjuna-pratyujjīvana.
-<HI>{@81@}, 1—32 (2402—2434). pp. 205—207: Aśvānusāra (°saraṇa).
-<HI>{@82@}, 1—30 (2435—2465). pp. 207—209: Aśv° (id.) Māgadha-
+<HI>{@81@}, 1—32 (2402—2434). pp. 205—207: Aśvānusāra (˚saraṇa).
+<HI>{@82@}, 1—30 (2435—2465). pp. 207—209: Aśv˚ (id.) Māgadha-
 parājaya.
 <HI>{@83@}, 1—20 (2466—2485). pp. 209—211: id. (id.).
 <HI>{@84@}, 1—24 (2486—2509). pp. 211—213: id. (id.) [Śakuni-
@@ -3799,7 +3799,7 @@ Aśvamedha-[ārambha].
 <HI>{@86@}, 1—21 (2553—2573). pp. 216—218: [id.] id. [id.]
 <HI>{@87@}, 1—28 (2574—2602). pp. 218—220: Babhruvāhanāgamana
 (Arjuna-pratyāgamana).
-<HI>{@88@}, 1—40 (2603—2643). pp. 220—223: Aśvamedha (°-ārambha).
+<HI>{@88@}, 1—40 (2603—2643). pp. 220—223: Aśvamedha (˚-ārambha).
 <HI>{@89@}, 1—44 (2644—2688). pp. 224—227: Aśvamedhasamāpti.
 <HI>§ 786, XIV, {@90@}, 1—120 (2689—2809). pp. 227—237: Nakulā-
 khyāna.
@@ -3848,7 +3848,7 @@ kṛta-prārthana].
 <HI>{@31@}, 1—25 (843—867). pp. 69—71: Gaṅgā-tīra-gamana].
 <HI>{@32@}, 1—21 (868—888). pp. 71—72: [Bhīṣmādi-darśana].
 <HI>{@33@}, 1—31 (889—919). pp. 72—75: Strīṇāṃ [sva-sva-]pati-
-samāgama (°lokagamana).
+samāgama (˚lokagamana).
 <HI>§ 790, XV, {@34@}, 1—18 (920—938). pp. 75—77: [Janamejayaṃ
 prati. Vaiśampāyana-vākya].
 <HI>{@35@}, 1—18 (939—956). pp. 78—79: Janamejayasya [sva-]
@@ -3856,7 +3856,7 @@ pitṛ-darśana.
 <HI>§ 791, XV, {@36@}, 1—53 (957—1010). pp. 79—83: Yudhiṣṭhira-
 pratyāgama[na].
 <H>XCVII. NĀRADĀGAMANAPARVAN.
-<HI>§ 792, XV, {@37@}, 1—45 (1011—1056). pp. 83—86: Vanā (davā°)
+<HI>§ 792, XV, {@37@}, 1—45 (1011—1056). pp. 83—86: Vanā (davā˚)
 gninā Dhṛtarāṣṭrādi-dāhaḥ.
 [PageXLI-a+ 14]
 <HI>{@38@}, 1—20 (1057—1077). pp. 87—88: Yudhiṣṭhira-vilāpa.
