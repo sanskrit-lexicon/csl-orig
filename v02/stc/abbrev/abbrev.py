@@ -172,7 +172,7 @@ def last_minute_change(line,idx):
   110007:'{@yad-@}¦ <ab>pron.</ab> rel., <ab>nt.</ab> <ab>sg.</ab> de {%ya-%} ; <ab>conj.</ab> que (complétives) ; de sorte',
   121936:'{@vi-TṜ-@}¦ traverser, pénétrer; accorder ({%uttaraṃ  v.%} donner une',
   128059:'à la tête; {%parājñayā v.%} être aux ordres; {%priyaṃ v.%} agir avec',
-  131228:"occuper <ab>qq'un</ab> de ou auprès de (<ab>loc.</ab>, rar. <ab>instr.</ab>, <ab>qqf.</ab>  {%°artham%}; {%hastaṃ v.%}",
+  131228:"occuper <ab>qq'un</ab> de ou auprès de (<ab>loc.</ab>, rar. <ab>instr.</ab>, <ab>qqf.</ab>  {%˚artham%}; {%hastaṃ v.%}",
   131229:'faire un mouvement de la main; {%vaṇīṃ v.%} élever la voix); charger',
  }
  if idx in newlines:

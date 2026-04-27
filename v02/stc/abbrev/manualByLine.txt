@@ -30,8 +30,8 @@
 71526 new couché (soleil); {%paralokāya n.%} qui a passé dans l'autre monde;
 71582 old efficiente; {%-aṃ yā-%} être la cause ; {%kiṃ n.%} pourquoi ? pourquoi
 71582 new efficiente; {%-aṃ yā-%} être la cause ; {%kiṃ n.%} pourquoi ? pourquoi
-72694 old ({%nidrāṃ n.%} s'endormir); {%°gata-%} sorti, parti, disparu; devenu visible,
-72694 new ({%nidrāṃ n.%} s'endormir); {%°gata-%} sorti, parti, disparu; devenu visible,
+72694 old ({%nidrāṃ n.%} s'endormir); {%˚gata-%} sorti, parti, disparu; devenu visible,
+72694 new ({%nidrāṃ n.%} s'endormir); {%˚gata-%} sorti, parti, disparu; devenu visible,
 73197 old être brisé, se briser, s'ouvrir; {%khaṃ n.%} creuser la terre; {%granthaṃ%}
 73197 new être brisé, se briser, s'ouvrir; {%khaṃ n.%} creuser la terre; {%granthaṃ%}
 73311 old (ville); produire, causer, déterminer; {%giraṃ n.%} élever la voix, prononcer
@@ -48,20 +48,20 @@
 74356 new présenter; {%ātmānaṃ n.%} se présenter, s'offrir; {%doṣaṃ n.%} imputer la
 74379 old désigner pour une fonction, diriger vers; {%citre n.%} peindre; {%manasi%} ou
 74379 new désigner pour une fonction, diriger vers; {%citre n.%} peindre; {%manasi%} ou
-74380 old {%hṛdaye n.%} graver dans l'esprit, dans le coeur; {%°viṣṭa-%} entré, etc.;
-74380 new {%hṛdaye n.%} graver dans l'esprit, dans le coeur; {%°viṣṭa-%} entré, etc.;
+74380 old {%hṛdaye n.%} graver dans l'esprit, dans le coeur; {%˚viṣṭa-%} entré, etc.;
+74380 new {%hṛdaye n.%} graver dans l'esprit, dans le coeur; {%˚viṣṭa-%} entré, etc.;
 74472 old mariage; trace imprimée, marque <lbinfo n="3"/>, ornement; {%sthāne n.%} arrangement; {%-aṃ%}
 74472 new mariage; trace imprimée, marque <lbinfo n="3"/>, ornement; {%sthāne n.%} arrangement; {%-aṃ%}
 74817 old couché, reposer; sombrer; {%sattraṃ n.%} tenir une session sacrificielle;
 74817 new couché, reposer; sombrer; {%sattraṃ n.%} tenir une session sacrificielle;
-75314 old mûrir, consommer; {%rājyaṃ n.%} régner; {%°panna-%} tombé dehors, sorti,
-75314 new mûrir, consommer; {%rājyaṃ n.%} régner; {%°panna-%} tombé dehors, sorti,
+75314 old mûrir, consommer; {%rājyaṃ n.%} régner; {%˚panna-%} tombé dehors, sorti,
+75314 new mûrir, consommer; {%rājyaṃ n.%} régner; {%˚panna-%} tombé dehors, sorti,
 75393 old {@niṣ-PIṢ-@}¦ broyer, écraser; battre (linge); {%caraṇau n.%} frapper des
 75393 new {@niṣ-PIṢ-@}¦ broyer, écraser; battre (linge); {%caraṇau n.%} frapper des
 75394 old pieds; {%karaṃ kareṇa n.%} se frotter les mains; {%dantair%} ou {%dantān%} ou
 75394 new pieds; {%karaṃ kareṇa n.%} se frotter les mains; {%dantair%} ou {%dantān%} ou
-75395 old {%danteṣu n.%} grincer des dents; {%°piṣṭa-%} broyé, écrasé, etc.;
-75395 new {%danteṣu n.%} grincer des dents; {%°piṣṭa-%} broyé, écrasé, etc.;
+75395 old {%danteṣu n.%} grincer des dents; {%˚piṣṭa-%} broyé, écrasé, etc.;
+75395 new {%danteṣu n.%} grincer des dents; {%˚piṣṭa-%} broyé, écrasé, etc.;
 75401 old {%caraṇau n.%} étreindre les pieds de qq'un en signe de respect;
 75401 new {%caraṇau n.%} étreindre les pieds de <ab>qq'un</ab> en signe de respect;
 76097 old {%abalimānaṃ n.%} proche du coma.
@@ -74,8 +74,8 @@
 77001 new confier; régler, arranger; mentionner <lbinfo n="7"/>; {%citre n.%} reproduire en peinture,
 77002 old peindre; {%pathi n.%} quitter ou laisser tomber en route; {%manasi n.%}
 77002 new peindre; {%pathi n.%} quitter ou laisser tomber en route; {%manasi n.%}
-77003 old méditer; {%śirasi n.%} recevoir avec grand respect; {%°asta-%} jeté, rejeté,
-77003 new méditer; {%śirasi n.%} recevoir avec grand respect; {%°asta-%} jeté, rejeté,
+77003 old méditer; {%śirasi n.%} recevoir avec grand respect; {%˚asta-%} jeté, rejeté,
+77003 new méditer; {%śirasi n.%} recevoir avec grand respect; {%˚asta-%} jeté, rejeté,
 77132 old {@ny-etya@}¦ abs. étant entré ou tombé dans; {%bhāvaṃ n.%} ayant assumé
 77132 new {@ny-etya@}¦ <ab>abs.</ab> étant entré ou tombé dans; {%bhāvaṃ n.%} ayant assumé
 103938 old ({%manye%} me semble-t-il); considérer, tenir pour ({%bahu m.%} estimer ;
@@ -114,22 +114,22 @@
 122535 new {%vairyaṃ v.%} déclarer la guerre; {%śaucaṃ v.%} se purifier; {%saṃdhiṃ%}
 122536 old {%v.%} conclure la paix; {%siṃhatvaṃ v.%} transformer en un lion; {%hṛdaye v.%}
 122536 new {%v.%} conclure la paix; {%siṃhatvaṃ v.%} transformer en un lion; {%hṛdaye v.%}
-122696 old préserver; {%mano v.%} fixer l'esprit sur (loc.); {%°dhṛta-%} séparé, etc.;
-122696 new préserver; {%mano v.%} fixer l'esprit sur (<ab>loc.</ab>); {%°dhṛta-%} séparé, etc.;
+122696 old préserver; {%mano v.%} fixer l'esprit sur (loc.); {%˚dhṛta-%} séparé, etc.;
+122696 new préserver; {%mano v.%} fixer l'esprit sur (<ab>loc.</ab>); {%˚dhṛta-%} séparé, etc.;
 122697 old écarté, arrêté, etc.; {%antare v.%} mis en gage; {%śirāsā,%} etc.  {%v.%}
 122697 new écarté, arrêté, etc.; {%antare v.%} mis en gage; {%śirāsā,%} etc.  {%v.%}
-122956 old sur ou dans (loc.); {%hṛdaye v.%} garder dans son coeur; {%°hita-%} placé,
-122956 new sur ou dans (<ab>loc.</ab>); {%hṛdaye v.%} garder dans son coeur; {%°hita-%} placé,
+122956 old sur ou dans (loc.); {%hṛdaye v.%} garder dans son coeur; {%˚hita-%} placé,
+122956 new sur ou dans (<ab>loc.</ab>); {%hṛdaye v.%} garder dans son coeur; {%˚hita-%} placé,
 123183 old appliquer, assigner (à une fonction, loc.); {%kare v.%} rendre tributaire <lbinfo n="5"/>;
 123183 new appliquer, assigner (à une fonction, <ab>loc.</ab>); {%kare v.%} rendre tributaire <lbinfo n="5"/>;
 123185 old sur (loc.; {%hṛdaye v.%} gravé dans le coeur).
 123185 new sur (<ab>loc.</ab>; {%hṛdaye v.%} gravé dans le coeur).
-124015 old (lire {%prati°%}); caus. outrager ({%ājnāṃ v.%} enfreindre un ordre);
-124015 new (lire {%prati°%}); <ab>caus.</ab> outrager ({%ājnāṃ v.%} enfreindre un ordre);
+124015 old (lire {%prati˚%}); caus. outrager ({%ājnāṃ v.%} enfreindre un ordre);
+124015 new (lire {%prati˚%}); <ab>caus.</ab> outrager ({%ājnāṃ v.%} enfreindre un ordre);
 124293 old {%samaṃ v.%} diviser en parties égales; {%ardhaṃ v.%} diviser en deux);
 124293 new {%samaṃ v.%} diviser en parties égales; {%ardhaṃ v.%} diviser en deux);
-124598 old disperser; {%indriyaṃ v.%} troubler les sens; {%°mathita-%} dispersé, etc.
-124598 new disperser; {%indriyaṃ v.%} troubler les sens; {%°mathita-%} dispersé, etc.
+124598 old disperser; {%indriyaṃ v.%} troubler les sens; {%˚mathita-%} dispersé, etc.
+124598 new disperser; {%indriyaṃ v.%} troubler les sens; {%˚mathita-%} dispersé, etc.
 124742 old pardonner; émettre, lâcher, lancer, décocher ({%ātmānaṃ v.%} se jeter);
 124742 new pardonner; émettre, lâcher, lancer, décocher ({%ātmānaṃ v.%} se jeter);
 127107 old (larmes, etc.; {%vācaṃ v.%} élever la voix; {%nādān v.%} produire du
@@ -152,8 +152,8 @@
 128060 new à la tête; {%parājñayā v.%} être aux ordres; {%priyaṃ v.%} agir avec
 130715 old {%vākye v.%} obéissant); décidé à (loc.); déterminé, défini, bien
 130715 new {%vākye v.%} obéissant); décidé à (<ab>loc.</ab>); déterminé, défini, bien
-131229 old occuper qq'un de ou auprès de (loc., rar. instr., qqf.  {%°artham; hastaṃ%}
-131229 new occuper <ab>qq'un</ab> de ou auprès de (<ab>loc.</ab>, rar. <ab>instr.</ab>, <ab>qqf.</ab>  {%°artham%}; {%hastaṃ v.%}
+131229 old occuper qq'un de ou auprès de (loc., rar. instr., qqf.  {%˚artham; hastaṃ%}
+131229 new occuper <ab>qq'un</ab> de ou auprès de (<ab>loc.</ab>, rar. <ab>instr.</ab>, <ab>qqf.</ab>  {%˚artham%}; {%hastaṃ v.%}
 131230 old {%v.%} faire un mouvement de la main; {%vaṇīṃ v.%} élever la voix); charger
 131230 new faire un mouvement de la main; {%vaṇīṃ v.%} élever la voix); charger
 131498 old s'entretenir avec ({%saha%}); qqf.  = {%vi-HṚ-%} s'amuser; {%nāmabhir v.%}
