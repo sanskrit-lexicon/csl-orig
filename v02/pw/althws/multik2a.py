@@ -101,7 +101,7 @@ def unused_parse_k2(x):
   h = None
   k2 = parts[0]
  # k1 strips away accents,-,*
- k1 = re.sub(r'[/\^*()°-]','',k2)
+ k1 = re.sub(r'[/\^*()˚-]','',k2)
  return h,k1
 
 def k2_to_k1(k2):

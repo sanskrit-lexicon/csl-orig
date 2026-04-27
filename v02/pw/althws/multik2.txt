@@ -1,4 +1,4 @@
-2	3	1-001-a	a	2. a°, an°
+2	3	1-001-a	a	2. a˚, an˚
 46	47	1-001-b	aMseBAra	*aMseBAra, *aMseBArika
 47	48	1-001-b	aMsya	(a/Msya), a/Msia
 51	52	1-001-c	aMhasaspati	aMhasaspati/, aMhaspati
@@ -128,7 +128,7 @@
 2363	2364	1-027-c	aTa	a/Ta, (a/TA)
 2366	2367	1-028-a	aTarya	aTarya, aTaryu/
 2385	2386	1-028-b	aTA	a/TA, a/To
-2387	2388	1-028-b	ad	2. °ad, °ada
+2387	2388	1-028-b	ad	2. ˚ad, ˚ada
 2409	2410	1-028-c	adantaka	adanta/ka, aduntaka
 2447	2448	1-029-a	adABya	a/dABya, a/dABia
 2457	2458	1-029-a	adASu	a/dASu, a/dASuri, a/dASvaMs
@@ -181,7 +181,7 @@
 3084	3085	1-036-b	aDyAtmakalpataru	aDyAtmakalpataru, aDyAtmacintAmanI
 3086	3087	1-036-c	aDyAtmapradIpikA	aDyAtmapradIpikA, aDyAtmaboDa, aDyAtmamImAMsA, aDyAtmarAmAyaRa, aDyAtmavidyopadeSaviDi, aDyAtmaSAstra, aDyAtmasuDAtaraMgiRI
 3097	3098	1-036-c	aDyAropa	aDyAropa, aDyAropaRA
-3130	3131	1-037-a	aDva	°aDva, °aDvaka
+3130	3131	1-037-a	aDva	˚aDva, ˚aDvaka
 3182	3183	1-037-c	anakz	ana/kz, anakza/
 3184	3185	1-037-c	anakzasaNgam	anakzasaNgam, a/nakzastamBam
 3234	3235	1-038-b	anajakA	*anajakA, *anajikA
@@ -218,8 +218,8 @@
 4348	4349	1-051-a	anugra	a/nugra, anugra/
 4363	4364	1-051-b	anucintana	anucintana, anucintA
 4370	4371	1-051-c	anucCittiDarmaka	anucCittiDarmaka, a/nucCittiDarman
-4390	4391	1-051-c	anutawam	anutawam, anutawa°
-4447	4448	1-052-b	anudinam	anudinam, anudina°
+4390	4391	1-051-c	anutawam	anutawam, anutawa˚
+4447	4448	1-052-b	anudinam	anudinam, anudina˚
 4524	4525	1-053-b	anupadasya	anupadasya, a/nupadasvant
 4615	4616	1-054-b	anupUrvya	anupUrvya, anupUrvia
 4618	4619	1-054-c	anupeta	a/nupeta, anupetapUrva
@@ -250,7 +250,7 @@
 5072	5073	1-060-a	anftika	anftika, anftin
 5119	5120	1-060-b	anedya	(a/nedya), a/nedia
 5124	5125	1-060-b	anevaMvid	a/nevaMvid, a/vevaMvidvaMs
-5154	5155	1-061-a	antaHpadam	antaHpadam, antaHpade, antaHpada°
+5154	5155	1-061-a	antaHpadam	antaHpadam, antaHpade, antaHpada˚
 5223	5224	1-062-a	antarantasTa	antarantasTa, antarantaHsTa
 5274	5275	1-062-c	antarikzya	(anta/rikzya), anta/rikzia
 5280	5281	1-062-c	antarIkzaga	antarIkzaga, antarIkzacara
@@ -561,7 +561,7 @@
 10569	10570	1-124-b	avaravarRa	2. *avaravarRa, *avaravarRaka
 10624	10625	1-125-a	avarza	avarza, avarzaRa
 10638	10639	1-125-b	avaliptatA	avaliptatA, avaliptatva
-10696	10697	1-126-a	avaSyam	avaSyam, avaSya°
+10696	10697	1-126-a	avaSyam	avaSyam, avaSya˚
 10706	10707	1-126-a	avazawkAra	avazawkAra, a/vazawkfta
 10715	10716	1-126-a	avasakTi	*avasakTi, avasakTikA
 10803	10804	1-127-b	avahela	avahela, avahelA
@@ -684,9 +684,9 @@
 13259	13260	1-157-a	ahirbraDna	ahirbraDna, ahirbraDnya
 13295	13296	1-157-b	aheLant	a/heLant, a/heLamAna, a/heLayant
 13319	13320	1-157-c	ahnavAyya	(ahnavAyya/), ahnavAia/
-13340	13341	1-158-a	AkaRWam	AkaRWam, AkaRWa°
+13340	13341	1-158-a	AkaRWam	AkaRWam, AkaRWa˚
 13350	13351	1-158-a	AkaraRa	*AkaraRa, *AkaraRA
-13357	13358	1-158-a	AkarRam	AkarRam, AkarRa°
+13357	13358	1-158-a	AkarRam	AkarRam, AkarRa˚
 13375	13376	1-158-b	Akalpam	Akalpam, AkalpAntam
 13379	13380	1-158-b	Akazaka	*Akazaka, *Akazika
 13387	13388	1-158-b	AkAyya	(AkAyya^), AkAyi/a
@@ -773,7 +773,7 @@
 14994	14995	1-177-c	Aptya	Aptya/, Aptia/
 14999	15000	1-177-c	Apya	3. (A/pya), A/pia
 15032	15033	1-178-b	APIna	*APIna, *APUka
-15045	15046	1-178-b	AbAlyam	AbAlyam, AbAlya°
+15045	15046	1-178-b	AbAlyam	AbAlyam, AbAlya˚
 15073	15074	1-178-c	ABAsura	ABAsura, ABAsvara
 15079	15080	1-178-c	ABijAtI	ABijAtI, ABijAtya
 15091	15092	1-178-c	ABizeka	ABizeka, ABizecanika
@@ -789,7 +789,7 @@
 15191	15192	1-180-a	AmitrAyaRa	*AmitrAyaRa, *AmitrAyaRi, *Amitri
 15210	15211	1-180-a	Amur	Amu/r, Amu/ri
 15212	15213	1-180-a	Amuzyakulaka	*Amuzyakulaka, AmuzyakulikA
-15217	15218	1-180-b	AmUlam	AmUlam, AmUla°
+15217	15218	1-180-b	AmUlam	AmUlam, AmUla˚
 15220	15221	1-180-b	Amenya	Amenya/, Amenia/
 15222	15223	1-180-b	AmokzaRa	AmokzaRa, Amocana
 15248	15249	1-180-c	AmraganDaka	*AmraganDaka, *AmraganDakft, *AmraganDaDfk, *AmraganDaDft
@@ -939,9 +939,9 @@
 17964	17965	1-219-b	utkawikA	utkawikA, utkawikAsana
 18024	18025	1-220-a	utkuYcikA	*utkuYcikA, *utkuYcitA
 18051	18052	1-220-b	utkramajIvA	utkramajIvA, utkramajyA
-18069	18070	1-220-c	utkleSana	utkleSana, °utkleSin
+18069	18070	1-220-c	utkleSana	utkleSana, ˚utkleSin
 18094	18095	1-221-a	uttabDa	u/ttabDa, uttaBita
-18104	18105	1-221-a	uttamam	uttama/m, uttama°
+18104	18105	1-221-a	uttamam	uttama/m, uttama˚
 18120	18121	1-221-b	uttamAyya	(uttamA/yya), uttamA/yia
 18178	18179	1-222-a	uttarapaTika	uttarapaTika, (OttarapaTika)
 18184	18185	1-222-b	uttarapaScima	uttarapaScima, (uttarapaScimA)
@@ -994,7 +994,7 @@
 19528	19529	1-239-a	upacUqana	upacUqana, upacUlana
 19548	19549	1-239-a	upajiGraRa	upajiGraRa, upajiGraRA
 19568	19569	1-239-b	upatakza	upatakza, upatakzaka
-19569	19570	1-239-b	upatawam	upatawam, upatawa°
+19569	19570	1-239-b	upatawam	upatawam, upatawa˚
 19570	19571	1-239-b	upatapant	upata/pant, *upataptar
 19584	19585	1-239-c	upatEla	*upatEla, *upatEza
 19612	19613	1-239-c	upadIka	upadI/ka, upadI/kA
@@ -1008,7 +1008,7 @@
 19742	19743	1-241-b	upapura	*upapura, upapurI
 19748	19749	1-241-c	upapOrRamAsam	*upapOrRamAsam, *upapOrRamAsi
 19766	19767	1-241-c	upabAhyakasfYjayI	upabAhyakasfYjayI, upabAhyA
-19826	19827	1-242-b	upamUlam	upamUla/m, upamUla°
+19826	19827	1-242-b	upamUlam	upamUla/m, upamUla˚
 19837	19838	1-242-c	upayAcana	upayAcana, upayAcita, *upayAcitaka
 19843	19844	1-242-c	upayAmavant	*upayAmavant, *yAmin
 19898	19899	1-243-b	uparimartya	(upa/rimartya), upa/rimartia
@@ -1826,7 +1826,7 @@
 33622	33623	2-138-c	KalIkAra	KalIkAra, KalIkfti
 33625	33626	2-138-c	Kaluk	*Kaluk, *Kaluc, *Kaluj
 33628	33629	2-138-c	KalUrikA	KalUrikA, *KalUrI
-33633	33634	2-139-a	KaleSa	*KaleSa, *KaleSaya, *°Kaleha
+33633	33634	2-139-a	KaleSa	*KaleSa, *KaleSaya, *˚Kaleha
 33658	33659	2-139-a	KaSewa	*KaSewa, *KaSera
 33663	33664	2-139-b	Kasakanda	*Kasakanda, *Kasakanna, *KasaganDa
 33677	33678	2-139-b	KasKasarasa	*KasKasarasa, *KasKasasAra
@@ -1999,7 +1999,7 @@
 36450	36451	2-179-a	gokzoqaka	gokzoqaka, *gokzveqa
 36451	36452	2-179-a	goKala	goKala, goKalu, goKalya
 36463	36464	2-179-a	goGAta	goGAta/, *goGAta/ka, goGAtin
-36472	36473	2-179-b	gocaratA	°gocaratA, °gocaratva
+36472	36473	2-179-b	gocaratA	˚gocaratA, ˚gocaratva
 36542	36543	2-180-a	gotrapravaradIpa	gotrapravaradIpa, gotrapravaranirRaya, gotrapravaramaYjarI
 36562	36563	2-180-b	goda	2. *goda, *godaka
 36592	36593	2-180-c	goDApadikA	*goDApadikA, *goDApadI
@@ -2102,7 +2102,7 @@
 38535	38536	2-207-c	caRqikArcanakrama	caRqikArcanakrama, caRqikArcanacandrikA
 38554	38555	2-207-c	caRqIviDAna	caRqIviDAna, caRqIviDi
 38570	38571	2-208-a	catasar	ca/tasar, catasa/r
-38574	38575	2-208-a	catuHka	catuHka°, catuHKa°, catuHpa°, catuHPa°
+38574	38575	2-208-a	catuHka	catuHka˚, catuHKa˚, catuHpa˚, catuHPa˚
 38592	38593	2-208-b	caturatA	caturatA, caturatva
 38593	38594	2-208-b	caturaDyAyika	caturaDyAyika, caturaDyAyikA, caturaDyAyI
 38613	38614	2-208-b	caturADyAyika	caturADyAyika, caturADyAyikA, caturADyAyI
@@ -2844,7 +2844,7 @@
 50734	50735	3-096-c	dIrGANgI	dIrGANgI, *dIrGANGri
 50787	50788	3-097-b	duHKaBAgin	duHKaBAgin, duHKaBAj
 50812	50813	3-097-c	duHKitA	duHKitA, duHKitva
-50820	50821	3-097-c	duHpa	duHpa°, duHPa°
+50820	50821	3-097-c	duHpa	duHpa˚, duHPa˚
 50838	50839	3-098-a	dugDasamudra	*dugDasamudra, dugDasinDu
 50946	50947	3-099-a	duravagrAha	duravagrAha, duravagrAhya
 50999	51000	3-099-c	durArakza	durArakza, durArakzya
@@ -2995,7 +2995,7 @@
 53615	53616	3-132-a	dvaMdvacara	dvaMdvacara, *dvaMdvacArin
 53642	53643	3-132-b	dvari	dvari/, dvari/n
 53645	53646	3-132-b	dvAcatvAriMSat	dvAcatvAriMSat, dvAcatvAriMSati
-53651	53652	3-132-b	dvAtriMSatikA	°dvAtriMSatikA, °dvAtriMSatkA
+53651	53652	3-132-b	dvAtriMSatikA	˚dvAtriMSatikA, ˚dvAtriMSatkA
 53669	53670	3-132-c	dvAdaSatA	dvAdaSatA, dvAdaSatva
 53671	53672	3-132-c	dvAdaSan	dvA/daSan, du/AdaSan, dvAdaSa/n
 53677	53678	3-132-c	dvAdaSaBAva	dvAdaSaBAva, dvAdaSaBAvaPala
@@ -3411,7 +3411,7 @@
 61774	61776	4-004-b	pacaMpacA	pacaMpacA, *pacaMbacA
 61781	61782	4-004-c	paccanikA	paccanikA, paccanI
 61801	61802	4-004-c	paYcakarma	*paYcakarma, paYcakarman, *paYcakarmI
-61819	61820	4-005-a	paYcakroSa	paYcakroSa°, paYcakroSI
+61819	61820	4-005-a	paYcakroSa	paYcakroSa˚, paYcakroSI
 61824	61825	4-005-a	paYcagaNga	paYcagaNga, paYcagaNgA
 61859	61860	4-005-b	paYcatantra	paYcatantra, paYcatantraka
 61869	61870	4-005-c	paYcatriMSat	pa/YcatriMSat, paYcatriMSati
@@ -3446,7 +3446,7 @@
 62346	62347	4-012-a	pawwiloDra	*pawwiloDra, *pawwiloDraka
 62371	62372	4-012-b	paqa	paqa, paqu
 62373	62374	4-012-b	paqbISa	pa/qbISa, pa/qvISa, paqviMSa
-62398	62399	4-012-c	paRAsTi	°paRAsTi, *paRAsTika
+62398	62399	4-012-c	paRAsTi	˚paRAsTi, *paRAsTika
 62417	62418	4-013-a	paRqitamAnika	paRqitamAnika, paRqitamAnin, paRqitaMmanya
 62425	62426	4-013-a	paRqra	paRqra, paRqraka
 62442	62443	4-013-b	paRyavITikA	paRyavITikA, *paRyavITI
@@ -3600,7 +3600,7 @@
 65631	65632	4-064-c	pARqavagItA	pARqavagItA, pARqavacaritra
 65648	65649	4-065-a	pARqukaraRa	pARqukaraRa, pARqukarman
 65660	65661	4-065-a	pARqupatnI	*pARqupatnI, pARquputrI
-65665	65666	4-065-a	pARqumfttika	pARqumfttika°, pARqumfttikA
+65665	65666	4-065-a	pARqumfttika	pARqumfttika˚, pARqumfttikA
 65683	65684	4-065-b	pARquleKa	pARquleKa, pARquleKya
 65684	65685	4-065-b	pARqulomaSaparRI	pARqulomaSaparRI, *pARqulomaSA, *pARqulomA
 65690	65691	4-065-b	pARqusopAka	pARqusopAka, pARqusOpAka
@@ -3877,27 +3877,27 @@
 70842	70843	4-136-c	pratAparudrayaSoBUzaRAlaMkAraSAraSAstra	pratAparudrayaSoBUzaRAlaMkAraSAraSAstra, pratAparudrIya
 70887	70888	4-137-c	pratikAmya	(pratikAmya), pratikAmi/a
 70927	70928	4-138-a	pratikramaRaviDi	pratikramaRaviDi, pratikramaRasUtra
-70954	70955	4-138-b	pratigAtram	pratigAtram, pratigAtra°
+70954	70955	4-138-b	pratigAtram	pratigAtram, pratigAtra˚
 71018	71019	4-139-b	pratijihvA	*pratijihvA, *pratijihvikA
 71019	71020	4-139-b	pratijIvana	pratijIvana, pratijIvita
 71034	71035	4-139-c	pratijYAvAda	pratijYAvAda, pratijYAvAdArTa
 71081	71082	4-140-a	pratidvAram	pratidvAram, pratidvAri
 71097	71098	4-140-b	pratiDvani	pratiDvani, pratiDvAna
 71148	71149	4-141-a	pratipakzatA	pratipakzatA, pratipakzatva
-71162	71163	4-141-a	pratipaTa	pratipaTa°, pratipaTam
-71166	71167	4-141-b	pratipada	2. pratipada°, pratipadam
+71162	71163	4-141-a	pratipaTa	pratipaTa˚, pratipaTam
+71166	71167	4-141-b	pratipada	2. pratipada˚, pratipadam
 71194	71195	4-141-c	pratipAlanIya	pratipAlanIya, pratipAlayitavya
-71206	71207	4-142-a	pratipuruza	2. pratipuruza°, pratipuruza/m
-71225	71226	4-142-a	pratipratIka	pratipratIka°, pratipratIkam
+71206	71207	4-142-a	pratipuruza	2. pratipuruza˚, pratipuruza/m
+71225	71226	4-142-a	pratipratIka	pratipratIka˚, pratipratIkam
 71251	71252	4-142-b	pratiPala	*pratiPala, pratiPalana
 71288	71289	4-143-a	pratiBayakara	pratiBayakara, pratiBayaMkara
 71319	71320	4-143-c	pratimaYca	pratimaYca, pratimaYcaka
-71342	71343	4-143-c	pratimAsa	pratimAsa°, pratimAsam
-71351	71352	4-144-a	pratimuKa	3. pratimuKa°, pratimuKam
+71342	71343	4-143-c	pratimAsa	pratimAsa˚, pratimAsam
+71351	71352	4-144-a	pratimuKa	3. pratimuKa˚, pratimuKam
 71399	71400	4-144-b	pratirAja	pratirAja, pratirAjan
 71401	71402	4-144-b	pratirAtram	pratirAtram, pratirAtri
 71420	71421	4-144-c	pratileKana	pratileKana, pratileKA
-71444	71445	4-145-b	prativarza	prativarza°, prativarzam
+71444	71445	4-145-b	prativarza	prativarza˚, prativarzam
 71497	71498	4-145-c	prativIkzaRIya	prativIkzaRIya, prativIkzya
 71522	71523	4-146-a	pratiSabda	pratiSabda, pratiSabdaka
 71542	71543	4-146-b	pratiSyA	pratiSyA, pratiSyAya
@@ -3920,16 +3920,16 @@
 71846	71847	4-150-c	pratyakzatamAt	pratyakzatamAt, pratyakzatamA/m
 71877	71878	4-151-a	pratyakzAnumAna	pratyakzAnumAna, pratyakzAnumAnaSabdaKaRqana, (pratyakzAnumAnaSabdaKaRqa)
 71896	71897	4-151-b	pratyagdakziRatas	pratyagdakziRatas, pratyagdakziRA
-71916	71917	4-151-b	pratyaNga	4. pratyaNga°, pratyaNgam
+71916	71917	4-151-b	pratyaNga	4. pratyaNga˚, pratyaNgam
 71922	71923	4-151-c	pratyaNgirAkalpa	pratyaNgirAkalpa, pratyaNgirAtattva, pratyaNgirApaYcANga, pratyaNgirAsUkta
 71960	71961	4-152-b	pratyaBimarSa	pratyaBimarSa, pratyaBimarSana
 71999	72000	4-152-c	pratyarDi	pra/tyarDi, pra/tiarDi
 72006	72007	4-152-c	pratyavaBAza	pratyavaBAza, pratyavaBAzA
 72011	72012	4-153-a	pratyavamarza	pratyavamarza, pratyavamarzavant
-72012	72013	4-153-a	pratyavayava	pratyavayava°, pratyavayavam
+72012	72013	4-153-a	pratyavayava	pratyavayava˚, pratyavayavam
 72034	72035	4-153-b	pratyavekzaRa	pratyavekzaRa, pratyavekzA
 72054	72055	4-153-b	pratyAgati	pratyAgati, pratyAgama
-72060	72061	4-153-c	pratyAtma	pratyAtma°, pratyAtmam
+72060	72061	4-153-c	pratyAtma	pratyAtma˚, pratyAtmam
 72061	72062	4-153-c	pratyAtmaka	pratyAtmaka, pratyAtmika
 72102	72103	4-154-a	pratyASrAva	pratyASrAva/, pratyASrA/vaRa
 72109	72110	4-154-b	pratyAsara	*pratyAsara, *pratyAsAra
@@ -3985,7 +3985,7 @@
 73051	73052	4-168-b	pravacanasAragATA	pravacanasAragATA, pravacanasArodDAra
 73089	73090	4-169-a	pravaradarpaRa	pravaradarpaRa, pravaradIpikA
 73095	73096	4-169-a	pravaramaYjarI	pravaramaYjarI, pravararatna
-73121	73122	4-169-c	pravarDaka	°pravarDaka, °pravarDana
+73121	73122	4-169-c	pravarDaka	˚pravarDaka, ˚pravarDana
 73137	73138	4-169-c	pravahli	*pravahli, *pravahlikA, *pravahlI
 73146	73147	4-170-a	pravARi	*pravARi, *pravARI
 73150	73151	4-170-a	pravAteja	pravAteja/, pravAtejA
@@ -4073,7 +4073,7 @@
 74804	74805	4-193-a	priyAtmaka	priyAtmaka, priyAtmaja
 74827	74828	4-193-c	prItamanas	prItamanas, prItAtman
 74875	74876	4-194-b	prekzAgAra	prekzAgAra, prekzAgfha
-74876	74877	4-194-b	prekzApUrvam	prekzApUrvam, prekzApUrva°
+74876	74877	4-194-b	prekzApUrvam	prekzApUrvam, prekzApUrva˚
 74903	74904	4-195-a	pretakArya	pretakArya, pretakftya
 74913	74914	4-195-a	pretaniryAtaka	pretaniryAtaka, pretanirgAraha
 74914	74915	4-195-a	pretapakza	pretapakza, pretapakzaka
@@ -4135,7 +4135,7 @@
 76043	76044	4-212-b	balAbalasUtra	balAbalasUtra, balAbalAkzepaparihAra
 76142	76143	4-213-c	bazkayaRI	*bazkayaRI, *bazkayiRI
 76149	76150	4-213-c	bastamAra	bastamAra, bastamAram
-76172	76173	4-214-a	bahiHka	bahiHka°, bahiHpa°
+76172	76173	4-214-a	bahiHka	bahiHka˚, bahiHpa˚
 76255	76256	4-215-a	bahInara	bahInara, bahInara
 76270	76271	4-215-b	bahukulIna	*bahukulIna, *kulya
 76301	76302	4-215-c	bahujanya	*bahujanya, (bAhujanya)
@@ -4737,7 +4737,7 @@
 87543	87544	5-089-c	mudgaraparRaka	mudgaraparRaka, mudrarapiRqaka
 87546	87547	5-089-c	mudgalapurARa	mudgalapurARa, mudralasmfti
 87551	87552	5-089-c	mudgazwa	*mudgazwa, mudgazwaka, mudrazWa, mudrazWaka
-87561	87562	5-090-a	mudrANka	°mudrANka, °mudrANkita
+87561	87562	5-090-a	mudrANka	˚mudrANka, ˚mudrANkita
 87569	87570	5-090-a	mudrArAkzasakaTAsaMgraha	mudrArAkzasakaTAsaMgraha, mudrArAkzasakaTAsAra
 87618	87619	5-090-c	munTahA	munTahA, munTA
 87626	87627	5-091-a	mumukzutA	mumukzutA, mumukzutva
@@ -4866,31 +4866,31 @@
 89743	89744	5-120-b	yatra	ya/tra, ya/trA
 89745	89746	5-120-b	yatrakAmAvaSAyitA	yatrakAmAvaSAyitA, yatrakAmAvaSAyitva
 89776	89777	5-121-a	yaTAkAmam	yaTAkA/mam, yaTAkAma/m
-89792	89793	5-121-b	yaTAkrama	yaTAkrama°, yaTAkramam, yaTAkrameRa
-89832	89833	5-121-c	yaTAtattva	yaTAtattva°, yaTAtattvam
+89792	89793	5-121-b	yaTAkrama	yaTAkrama˚, yaTAkramam, yaTAkrameRa
+89832	89833	5-121-c	yaTAtattva	yaTAtattva˚, yaTAtattvam
 89834	89835	5-121-c	yaTAtaTyam	yaTAtaTyam, yaTAtaTyena
-89838	89839	5-121-c	yaTAdarSana	yaTAdarSana°, yaTAdarSanam
+89838	89839	5-121-c	yaTAdarSana	yaTAdarSana˚, yaTAdarSanam
 89840	89841	5-121-c	yaTAdik	yaTAdik, yaTAdiSam
-89850	89851	5-122-a	yaTADikAra	yaTADikAra°, yaTADikAram
+89850	89851	5-122-a	yaTADikAra	yaTADikAra˚, yaTADikAram
 89852	89853	5-122-a	yaTADIta	yaTADIta, yaTADItam
-89864	89865	5-122-a	yaTAnupUrvam	yaTAnupUrvam, yaTAnupUrvya°, yaTAnupUrvyA
+89864	89865	5-122-a	yaTAnupUrvam	yaTAnupUrvam, yaTAnupUrvya˚, yaTAnupUrvyA
 89909	89910	5-122-c	yaTAprARam	yaTAprARam, yaTAprARena
 89954	89955	5-123-b	yaTAmnAtam	yaTAmnAtam, yaTAmnAyam
 89960	89961	5-123-b	yaTAyukti	yaTAyukti, yaTAyuktitas
-89991	89992	5-123-c	yaTAlABa	yaTAlABa°, yaTAlABam
+89991	89992	5-123-c	yaTAlABa	yaTAlABa˚, yaTAlABam
 90018	90019	5-124-a	yaTAvittAnusAram	yaTAvittAnusAram, yaTAvittAnusAreRa
 90021	90022	5-124-a	yaTAviDAnam	yaTAviDAnam, yaTAviDAnEna
-90025	90026	5-124-a	yaTAviBava	yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt
-90032	90033	5-124-b	yaTAvfdDa	yaTAvfdDa°, yaTAvfdDam
+90025	90026	5-124-a	yaTAviBava	yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt
+90032	90033	5-124-b	yaTAvfdDa	yaTAvfdDa˚, yaTAvfdDam
 90039	90040	5-124-b	yaTASakti	yaTASakti, yaTASaktyA
-90042	90043	5-124-b	yaTASAstra	yaTASAstra°, yaTASAstram
+90042	90043	5-124-b	yaTASAstra	yaTASAstra˚, yaTASAstram
 90058	90059	5-124-c	yaTAsaMKyam	yaTAsaMKyam, yaTAsaMKyena
 90078	90079	5-125-a	yaTAsaMBavin	yaTAsaMBavin, yaTAsaMBAvita
-90084	90085	5-125-a	yaTAsuKa	yaTAsuKa°, yaTAsuKam
-90098	90099	5-125-a	yaTAsTUla	yaTAsTUla°, yaTAsTUlam
-90103	90104	5-125-b	yaTAsvEra	yaTAsvEra°, yaTAsvEram
+90084	90085	5-125-a	yaTAsuKa	yaTAsuKa˚, yaTAsuKam
+90098	90099	5-125-a	yaTAsTUla	yaTAsTUla˚, yaTAsTUlam
+90103	90104	5-125-b	yaTAsvEra	yaTAsvEra˚, yaTAsvEram
 90108	90109	5-125-b	yaTecCakam	yaTecCakam, yaTEcCayA
-90144	90145	5-125-c	yaTopayoga	yaTopayoga°, yaTopayogam
+90144	90145	5-125-c	yaTopayoga	yaTopayoga˚, yaTopayogam
 90151	90152	5-126-a	yaTOcityam	yaTOcityam, yaTOcityAt
 90166	90167	5-126-b	yadi	ya/di, ya/dI
 90214	90215	5-127-b	yantraputraka	yantraputraka, yantraputrikA
@@ -4932,7 +4932,7 @@
 90846	90847	5-140-a	yAminIdayita	yAminIdayita, yAminInATa, yAminIpati
 90848	90849	5-140-a	yAminIpriyatama	yAminIpriyatama, yAminIramaRa
 90855	90856	5-140-a	yAmundAyanika	*yAmundAyanika, *yAmundAyanIya
-90892	90893	5-140-c	yAvajjIva	yAvajjIva°, yAvajjI/vam
+90892	90893	5-140-c	yAvajjIva	yAvajjIva˚, yAvajjI/vam
 90913	90914	5-140-c	yAvadantam	yAvadantam, yAvadantAya
 90977	90978	5-141-c	yAskAyanIya	*yAskAyanIya, *yAskIya
 90991	90992	5-142-c	yuktakArin	yuktakArin, yuktakft
@@ -5414,7 +5414,7 @@
 99581	99582	6-048-a	vastiruj	vastiruj, vastivyApad
 99657	99658	6-048-c	vasnya	(vasnya), va/snia
 99670	99671	6-049-a	vasvokasArA	vasvokasArA, vasvOkasArA
-99672	99673	6-050-b	vah	2. °vah, (vAh, uh, Uh)
+99672	99673	6-050-b	vah	2. ˚vah, (vAh, uh, Uh)
 99692	99693	6-050-c	vahitra	vahitra, *vahitraka
 99698	99699	6-050-c	vahedaka	vahedaka, (bahedaka)
 99782	99783	6-052-b	vAkinakAyani	*vAkinakAyani, *vAkini
@@ -5483,7 +5483,7 @@
 100830	100831	6-066-b	vAyya	(vAyya), vAyia/
 100855	100856	6-066-c	vAraRabusA	*vAraRabusA, *vAraRavallaBA
 100872	100873	6-066-c	vArapASi	vArapASi, vArapASya
-100874	100875	6-067-a	vArabuzA	*vArabuzA, °vArabfzA
+100874	100875	6-067-a	vArabuzA	*vArabuzA, ˚vArabfzA
 100895	100896	6-067-a	vAravAsi	vAravAsi, vAravAsya
 100896	100897	6-067-a	vAravilAsinI	vAravilAsinI, *vArasundarI
 100898	100899	6-067-a	vArastrI	*vArastrI, vArANganA
@@ -5519,7 +5519,7 @@
 101485	101486	6-074-c	vAstusaMgraha	vAstusaMgraha, vAstusanatkumAra
 101490	101491	6-074-c	vAstUpaSama	vAstUpaSama, vAstUpaSamana
 101494	101495	6-074-c	vAstozpatIya	vAstozpatI/ya, vAstozpatya
-101504	101505	6-075-a	vAh	2. °vAh, (vah)
+101504	101505	6-075-a	vAh	2. ˚vAh, (vah)
 101514	101515	6-075-a	vAhanatA	vAhanatA, vAhanatva
 101552	101553	6-075-c	vAhyAlI	vAhyAlI, vAhyAlIBU
 101580	101581	6-076-a	viMSatISa	viMSatISa, viMSatISin, viMSatyaDipati
@@ -5610,7 +5610,7 @@
 103406	103407	6-103-c	vipUra	vipUra, vipUram
 103471	103472	6-104-c	viprarAjya	viprarAjya, viprarA/jia
 103510	103511	6-105-a	vipriyakara	vipriyakara, vipriyakArin, vipriyaMkara
-103528	103529	6-105-b	viplAvaka	°viplAvaka, °viplAvin
+103528	103529	6-105-b	viplAvaka	˚viplAvaka, ˚viplAvin
 103571	103572	6-105-c	vibuDADipa	vibuDADipa, vibuDADipati
 103642	103643	6-107-a	viBAvarIkAnta	viBAvarIkAnta, viBAvarISa
 103657	103658	6-107-b	viBIta	viBIta, viBI/taka, viBI/daka
@@ -5620,7 +5620,7 @@
 103768	103769	6-109-a	vimalatA	vimalatA, vimalatva
 103812	103813	6-109-c	vimalodakA	vimalodakA, vimalodA
 103831	103832	6-109-c	vimAnana	vimAnana, (vimAnanA)
-103853	103854	6-110-a	vimuktakaRWa	vimuktakaRWa°, vimuktakaRWam
+103853	103854	6-110-a	vimuktakaRWa	vimuktakaRWa˚, vimuktakaRWam
 103924	103925	6-111-a	viyanmaRi	*viyanmaRi, viyanmaDyahaMsa
 103954	103955	6-111-c	viyoni	1. viyoni, viyonI
 103980	103981	6-112-a	viraYca	viraYca, *viraYcana, viraYci, viraYcya
@@ -5765,7 +5765,7 @@
 106418	106419	6-149-a	vfttADyayanardDi	vfttADyayanardDi, vfttADyanasaMpatti
 106459	106460	6-150-a	vftratUrya	vftratU/rya, vftratU/ria
 106462	106463	6-150-a	vftradviz	*vftradviz, vftranASana
-106467	106468	6-150-a	vftravidviz	vftravidviz, °vftravErin
+106467	106468	6-150-a	vftravidviz	vftravidviz, ˚vftravErin
 106471	106472	6-150-a	vftrahatya	vftraha/tya, vftra/haTa
 106500	106501	6-150-b	vfTAzah	vfTAza/h, (vfTAzA/h)
 106535	106536	6-150-c	vfdDadAra	*vfdDadAra, *vfdDadAraka, *vfdDadAru
@@ -6279,7 +6279,7 @@
 114556	114557	6-264-b	SOnahotra	SOnahotra, SOnahotri
 114571	114572	6-264-b	SOradevya	(SOradevya), SOradevia/
 114622	114623	6-265-a	Scut	1. Scut, Scyut
-114623	114624	6-265-a	Scut	2. °Scut, °Scyut
+114623	114624	6-265-a	Scut	2. ˚Scut, ˚Scyut
 114640	114641	6-265-b	SmaSAnakAlikA	SmaSAnakAlikA, SmaSAnakAlI
 114679	114680	6-266-a	SyAmakARqA	*SyAmakARqA, *SyAmagranTi
 114682	114683	6-266-a	SyAmatA	SyAmatA, SyAmatva
@@ -6350,7 +6350,7 @@
 115759	115760	6-283-b	SvaBakza	SvaBakza, SvaBakzya
 115796	115797	6-283-c	SvaSrUSvaSurO	*SvaSrUSvaSurO, SvaSrUSvaSurAs
 115800	115801	6-284-b	Svas	2. Sva/s, Sua/s
-115813	115814	6-284-c	Svasuta	°Svasuta, *Svasuna
+115813	115814	6-284-c	Svasuta	˚Svasuta, *Svasuna
 115822	115823	6-284-c	SvA	SvA, (Svi)
 115831	115832	6-284-c	SvAtrya	(SvAtrya), SvA/tria
 115857	115858	6-285-a	SvAvillomApanayana	SvAvillomApanayana, SvAvillomApaha
@@ -6358,7 +6358,7 @@
 115887	115888	6-285-b	Svitrya	(Svitrya), Svi/tria
 115911	115912	6-286-a	Svetakola	*Svetakola, *Svetakolaka
 116075	116076	6-287-c	Svetya	(Svetya), Svetia/
-116107	116108	6-288-a	zawkArakapraticCandaka	zawkArakapraticCandaka, zawkArakapraticCandasa, °zawkArakavivecana
+116107	116108	6-288-a	zawkArakapraticCandaka	zawkArakapraticCandaka, zawkArakapraticCandasa, ˚zawkArakavivecana
 116115	116116	6-288-a	zawcatvAriMSa	zawcatvAriMSa, zawcatvAriMSaka
 116119	116120	6-288-a	zawciti	zawciti, za/wcitika
 116150	116151	6-288-b	zawpaYcASatikahorA	zawpaYcASatikahorA, zawpaYcASatikA, zawpaYcASadDorAvftti
@@ -6383,7 +6383,7 @@
 116470	116471	6-292-b	zoqaSAditantra	zoqaSAditantra, zoqaSAyuDastuti
 116479	116480	6-292-b	zoqaSimant	zoqaSi/mant, zoqaSima/nt
 116488	116489	6-292-c	zWiv	zWiv, zWIv
-116491	116492	6-292-c	zWIvi	°zWIvi, °zWIvin
+116491	116492	6-292-c	zWIvi	˚zWIvi, ˚zWIvin
 116494	116495	6-292-c	zWevana	*zWevana, *zWyUta
 116496	116497	6-292-c	zvazk	*zvazk, *zvask
 116532	116533	7-002-a	saMyAja	saMyAja, saMyAjana
@@ -6400,7 +6400,7 @@
 116997	116998	7-009-b	saMskArapadDati	saMskArapadDati, saMskaraprakASa, saMskAraprayoga, saMskAraBAskara
 116999	117000	7-009-b	saMskAramayUKa	saMskAramayUKa, saMskAraratna
 117011	117012	7-009-c	saMskftamAlA	saMskftamAlA, saMskftavAkyaratnAvalI
-117067	117068	7-010-c	saMsparSin	°saMsparSin, °saMspfS
+117067	117068	7-010-c	saMsparSin	˚saMsparSin, ˚saMspfS
 117091	117092	7-011-a	saMsrAvya	(saMsrAvya), saMsrAvi/a
 117144	117145	7-012-a	saMhitApradIpa	saMhitApradIpa, saMhitABAzya, saMhitAratnAkara, saMhitArRava, saMhitAvftti, saMhitASamAnalakzaRa, saMhitAsUtra, saMhitAskanDa
 117148	117149	7-012-a	saMhitopanizad	saMhitopanizad, saMhitopanizadbrAhmaRa
@@ -6428,7 +6428,7 @@
 117644	117645	7-020-a	saMgrahaRIratna	saMgrahaRIratna, saMgrahaprakASikA, saMgraharAmAyaRa, saMgraharAmAyaRavivaraRa
 117647	117648	7-020-a	saMgrahavEdyanATIya	saMgrahavEdyanATIya, *saMgrahasUtra
 117716	117717	7-021-a	saMGAwi	saMGAwi, saMGAwI
-117740	117741	7-021-b	sac	2. °sac, (°sAc)
+117740	117741	7-021-b	sac	2. ˚sac, (˚sAc)
 117747	117748	7-021-c	sacakzuza	sacakzuza, sa/cakzus
 117749	117750	7-021-c	sacaTya	(sacaTya), sacaTi/a
 117790	117792	7-022-a	saccaritraparitrARa	saccaritraparitrARa, saccaritrarakzA, saccaritrasuDAniDi
@@ -6485,11 +6485,11 @@
 119192	119193	7-045-b	saMnipAtakalikA	saMnipAtakalikA, saMnipAtacandriokA
 119245	119246	7-046-a	saMnyAsaDarmasaMgraha	saMnyAsaDarmasaMgraha, saMnyAsanirRaya, saMnyAsapa, samaYjarI, saMnyAsapadDati
 119247	119248	7-046-a	saMnyAsaviDi	saMnyAsaviDi, saMnyAsAhnika
-119267	119268	7-046-b	sap	2. °sap, (°sAp)
+119267	119268	7-046-b	sap	2. ˚sap, (˚sAp)
 119273	119274	7-046-b	sapakzatA	sapakzatA, sapakzatva
 119281	119282	7-046-b	sapattrAkaraRa	*sapattrAkaraRa, sapttrAkfti
 119322	119323	7-047-a	saparya	saparya, sapari/a
-119433	119434	7-048-b	saptadina	saptadina°, saptadivasa°
+119433	119434	7-048-b	saptadina	saptadina˚, saptadivasa˚
 119458	119459	7-048-c	saptapadArTacandrikA	saptapadArTacandrikA, saptapadArTanirUpaRa, saptapadArTI, saptapadArTIwIkA, saptapadArTIvyAKyA
 119470	119471	7-048-c	saptaBaNginaya	saptaBaNginaya, saptaBaNgInaya
 119513	119514	7-049-b	saptarzistotra	saptarzistotra, saptarzismfti, saptarzismftisaMgraha
@@ -6499,7 +6499,7 @@
 119586	119587	7-050-a	saptahOtra	saptahOtra, saptahOtraprayoga
 119623	119624	7-050-c	saptya	(saptya), sa/ptiA
 119648	119649	7-050-c	sapraTas	sapra/Tas, sa/praTas
-119786	119787	7-053-a	samakAla	samakAla°, samakAlam
+119786	119787	7-053-a	samakAla	samakAla˚, samakAlam
 119809	119810	7-053-b	samacaturaSra	samacaturaSra, samacaturasra
 119810	119811	7-053-b	samacaturaSrI	samacaturaSrI, samacaturasrI
 119921	119922	7-054-c	samanya	(samanya), samani/a
@@ -6574,7 +6574,7 @@
 121622	121623	7-083-c	sarpaSIrzan	sarpaSIrzan, sarpaSIrzin
 121661	121662	7-084-a	sarpizwA	*sarpizwA, sarpizwva
 121662	121663	7-084-a	sarpizmant	sa/rpizmant, sarpi/zvant
-121700	121701	7-084-c	sarvakAla	sarvakAla°, sarvakAlam
+121700	121701	7-084-c	sarvakAla	sarvakAla˚, sarvakAlam
 121716	121717	7-084-c	sarvagaRa	2. sa/rvagaRa, sarva/gaRa
 121737	121738	7-085-a	sarvagranTi	*sarvagranTi, sarvagranTika
 121773	121774	7-085-c	sarvajYAtmagiri	sarvajYAtmagiri, sarvajYAtmamuni
@@ -6589,7 +6589,7 @@
 122020	122021	7-088-c	sarvarUpa	sa/rvarUpa, sarva/rUpa
 122035	122036	7-088-c	sarvaliNgasaMnyAsanirRaya	sarvaliNgasaMnyAsanirRaya, sarvaliNgasADanI
 122181	122182	7-090-b	sarvasidDAnta	sarvasidDAnta, sarvasidDAntasaMgraha
-122227	122228	7-091-a	sarvAkAra	sarvAkAra°, sarvAkAram
+122227	122228	7-091-a	sarvAkAra	sarvAkAra˚, sarvAkAram
 122249	122250	7-091-b	sarvAtman	2. sa/rvAtman, sarvA/tman
 122264	122265	7-091-b	sarvAnukrama	sarvAnukrama, sarvAnukramaRikA, sarvAnukramaRI
 122272	122273	7-091-b	sarvAntaka	sarvAntaka, sarvAntakft
@@ -6608,7 +6608,7 @@
 122631	122632	7-096-a	savyezWa	savyezWa, savyezWar
 122695	122696	7-097-a	sasattrin	sasattri/n, sa/sattrin
 122793	122794	7-098-a	sasyasaMvara	*sasyasaMvara, sasyasaMvaraRa
-122812	122813	7-099-a	sah	2. °sah, (°sAh)
+122812	122813	7-099-a	sah	2. ˚sah, (˚sAh)
 122827	122828	7-099-b	sahakAritA	sahakAritA, sahakAritva
 122841	122842	7-099-b	sahacaraBinna	sahacaraBinna, sahacaraBinnatA, sahacaraBinnatva
 122898	122899	7-100-b	sahantya	sa/hantya, sa/hantia
@@ -6661,7 +6661,7 @@
 123997	123998	7-116-a	sApta	1. sA/pta, sApta/
 124005	124006	7-116-a	sAptapuruza	sAptapuruza, sAptapOruza
 124012	124013	7-116-a	sApya	(sApya), sApia/
-124024	124025	7-116-a	sABijYAna	sABijYAna°, sABijYAnam
+124024	124025	7-116-a	sABijYAna	sABijYAna˚, sABijYAnam
 124037	124038	7-116-b	sABramatI	sABramatI, sABravati
 124046	124047	7-116-b	sAmaga	sAmaga/, sAmagA/
 124078	124079	7-117-a	sAmanya	2. sAmanya, sAmani/a
@@ -6775,7 +6775,7 @@
 126620	126621	7-151-a	sunizaRRa	sunizaRRa, sunizaRRaka
 126631	126632	7-151-a	sunIti	1. su/nIti, sunIti/
 126632	126633	7-151-a	sunIti	2. su/nIti, sunIti/
-126672	126673	7-151-c	sundarikAtIrTa	sundarikAtIrTa, °sundarikAhrada
+126672	126673	7-151-c	sundarikAtIrTa	sundarikAtIrTa, ˚sundarikAhrada
 126673	126674	7-151-c	sundarItApanI	sundarItApanI, sundarItApinI
 126704	126705	7-152-a	supad	supad, (supAd)
 126707	126708	7-152-a	supadmaDAtupAWa	supadmaDAtupAWa, supadmapariSizwa, supadmamakaranda
@@ -6828,7 +6828,7 @@
 128102	128103	7-169-b	suvyUhamuKA	suvyUhamuKA, suvyUhA
 128116	128117	7-169-c	suSami	suSa/mi, suSa/mI
 128142	128143	7-170-a	suSipra	suSipra/, suSiSa/pra
-128148	128149	7-170-a	suSIGra	suSIGra°, suSIGram
+128148	128149	7-170-a	suSIGra	suSIGra˚, suSIGram
 128162	128163	7-170-a	suSukvan	suSu/kvan, suSukva/ni
 128171	128172	7-170-b	suSevya	(suSevya), suSe/viA
 128210	128211	7-170-c	suzaRa	suza/Ra, suzaRana/
@@ -6965,7 +6965,7 @@
 130744	130745	7-205-b	strIrAjya	strIrAjya, (strIrAja)
 130755	130756	7-205-c	strIvaSa	strIvaSa, strIvaSya
 130763	130764	7-205-c	strIvezaDAraka	strIvezaDAraka, strIvezaDArin
-130795	130796	7-206-a	sTa	°sTa, °zWa
+130795	130796	7-206-a	sTa	˚sTa, ˚zWa
 130829	130830	7-206-c	sTalaga	sTalaga, sTalacara
 130845	130846	7-206-c	sTalavihaMga	sTalavihaMga, sTalavihaMgama
 130846	130847	7-206-c	sTalaSfNgAwa	*sTalaSfNgAwa, sTalaSfNgAwaka
@@ -7152,7 +7152,7 @@
 133189	133190	7-247-b	svizu	(svizu), suizu/
 133191	133192	7-247-b	svizwa	2. svi^zwa, su/izwa
 133196	133197	7-247-b	svizwi	1. svi^zwi, su/izwi
-133215	133216	7-247-c	svecCa	svecCa°, svecCam
+133215	133216	7-247-c	svecCa	svecCa˚, svecCam
 133242	133243	7-248-a	svEtu	(svEtu), sva/etu
 133266	133267	7-248-b	svojas	(svojas), suo/jas
 133379	133380	7-249-c	hajAja	hajAja, hajAji
@@ -7553,7 +7553,7 @@
 206764	206765	5-248-c	AtAyin	AtAyin, AtAmra
 206832	206833	5-249-c	ikawI	*ikawI, *ikkawI
 206836	206837	5-249-c	indindirA	indindirA, *indindira
-206886	206887	5-250-b	udgrAhiRikA	°udgrAhiRikA, udgrAhaRikA
+206886	206887	5-250-b	udgrAhiRikA	˚udgrAhiRikA, udgrAhaRikA
 206928	206929	5-250-c	ulkapAta	ulkapAta, ulkApAta
 206934	206935	5-250-c	uzRIzavijaya	*uzRIzavijaya, *uzRIzavijayaDAraRI
 206958	206959	5-251-a	ekAdaSANgavedin	ekAdaSANgavedin, ekAdaSANgin
@@ -7918,7 +7918,7 @@
 211394	211395	7-301-a	anUha	1. anUha, 2. anUha
 211404	211405	7-301-a	anftakAraka	anftakAraka, anftakArin
 211406	211407	7-301-a	anftavAdin	anftavAdin, anftavAditA
-211416	211417	7-301-a	anekaSatasAhasra	anekaSatasAhasra, anekasaMKya, anekAMSa°
+211416	211417	7-301-a	anekaSatasAhasra	anekaSatasAhasra, anekasaMKya, anekAMSa˚
 211420	211421	7-301-a	anekArTakEravakOmudI	anekArTakEravakOmudI, anejant
 211430	211431	7-301-a	anEScArika	anEScArika, anEzaDa
 211436	211437	7-301-b	anOpama	anOpama, anOpamya, anOpayika, anOpADika
@@ -7948,7 +7948,7 @@
 211641	211642	7-302-c	apatyaduHKEkamaya	apatyaduHKEkamaya, apatyasnehakfpAmaya
 211645	211646	7-302-c	apaTadAyin	apaTadAyin, apaTahara
 211648	211649	7-302-c	apadAnta	apadAnta, apadAntasTa
-211672	211673	7-302-c	apamada	apamada, °apamAnaka
+211672	211673	7-302-c	apamada	apamada, ˚apamAnaka
 211678	211679	7-302-c	apayoDarava	apayoDarava, apayoDaravAraRa
 211682	211683	7-302-d	aparakriyA	aparakriyA, aparacAnarAwa
 211684	211685	7-302-d	apararAtri	apararAtri, aparavallaBa
@@ -7974,7 +7974,7 @@
 211791	211792	7-303-b	apavyAhAra	apavyAhAra, apaSakuna
 211796	211797	7-303-b	apaSutA	apaSu/tA, apaScAttApin
 211805	211806	7-303-b	apaspfS	1. apaspfS, apasPu/r
-211813	211814	7-303-c	apahft	°apahft, apahelana
+211813	211814	7-303-c	apahft	˚apahft, apahelana
 211816	211817	7-303-c	apahvara	apahvara, apAMsula
 211836	211837	7-303-c	apApad	apApad, apApada
 211846	211847	7-303-c	apAraRIya	apAraRIya, apAramitA
@@ -8068,7 +8068,7 @@
 212788	212789	7-309-c	arDamuRqa	arDamuRqa, arDamuRqita
 212792	212793	7-309-c	arDalakzya	arDalakzya, arDalANgalaka
 212806	212807	7-309-c	arDasamasyA	arDasamasyA, arDasTa
-212826	212827	7-309-d	arSasin	arSasin, °arhaka
+212826	212827	7-309-d	arSasin	arSasin, ˚arhaka
 212836	212837	7-309-d	alakzaRya	alakzaRya, alakzamARa
 212843	212844	7-309-d	alaMkarmIRa	alaMkarmIRa, alaMkAra
 212845	212846	7-309-d	alaMkAranikarza	alaMkAranikarza, alaMkAramayUKa
@@ -8090,7 +8090,7 @@
 212946	212947	7-310-c	avacCedakatattvanirukti	avacCedakatattvanirukti, avacCedakatAnirukti, avacCedakatAmAlA, avacCedakatAleSa, avacCedakatAvAda, avacCedakatAsAra, avajayana
 212956	212957	7-310-c	avataMsa	avataMsa, avataMsana
 212957	212958	7-310-c	avataMsay	avataMsay, avatara
-212968	212969	7-310-d	avaDAnavant	avaDAnavant, °avaDika, avaDI
+212968	212969	7-310-d	avaDAnavant	avaDAnavant, ˚avaDika, avaDI
 212969	212970	7-310-d	avaDUta	avaDUta, avaDUtaka
 212970	212971	7-310-d	avaDUlay	avaDUlay, avaDeya
 212977	212978	7-310-d	avanipAtam	avanipAtam, avaniBft
@@ -8187,7 +8187,7 @@
 213814	213815	7-316-b	ahiSuzmasatvan	ahiSuzmasa/tvan, ahI/
 213825	213826	7-316-b	aheli	aheli, ahelin
 213827	213828	7-316-b	ahotavya	ahotavya^, ahomaka
-213837	213838	7-316-b	AkarRatawa	AkarRatawa°, AkarRadeSAntam, °AkarRin
+213837	213838	7-316-b	AkarRatawa	AkarRatawa˚, AkarRadeSAntam, ˚AkarRin
 213847	213848	7-316-c	Akaza	Akaza, AkArakara
 213856	213857	7-316-c	AkASaBErava	AkASaBErava, AkASaBEravakalpa
 213912	213913	7-316-d	AgamanagamanA	AgamanagamanA, AgamaprAmARya
@@ -8225,7 +8225,7 @@
 214192	214193	7-318-c	AptacCandas	AptacCandas, AptamImAMsAlaMkfti, AptamImAMsAvivfti, AptamImAMsAvftti, Aptar
 214197	214198	7-318-d	ApyAnavant	ApyAnavant, ApyAyin
 214198	214199	7-318-d	Apyeya	Apyeya/, Apyeyatva/
-214206	214207	7-318-d	AbrahmARqa	AbrahmARqa°, ABaraRI
+214206	214207	7-318-d	AbrahmARqa	AbrahmARqa˚, ABaraRI
 214224	214225	7-318-d	Ama	3. Ama, AmakoSin
 214241	214242	7-319-a	Amezwaka	Amezwaka, AmezwakA
 214244	214245	7-319-a	AmnAyakriyArTatvAdisUtravicAra	AmnAyakriyArTatvAdisUtravicAra, AmnAyazawka
@@ -8625,7 +8625,7 @@
 217952	217953	7-346-c	triparus	triparus, triparva, triparvan, tripala
 217957	217958	7-346-d	tripurARaka	tripurARaka, tripurARIya
 217969	217970	7-346-d	triyukta	triyukta, triyUpa
-217989	217990	7-346-d	triHzamfdDatva	triHzamfdDatva, trisatya, trisaptaka°
+217989	217990	7-346-d	triHzamfdDatva	triHzamfdDatva, trisatya, trisaptaka˚
 217993	217994	7-347-a	trihalikAgrAma	trihalikAgrAma, trihalikASrama
 217996	217997	7-347-a	treDABAva	treDABAva, treDAsaMnadDa/
 218006	218007	7-347-a	tryArzeya	tryArzeya, tryu^dDi

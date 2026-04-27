@@ -1,4 +1,4 @@
-<L>2.1<pc>1-001-a<k1>an<k2>2. a°, an°<type>alt<LP>2<k1P>a
+<L>2.1<pc>1-001-a<k1>an<k2>2. a˚, an˚<type>alt<LP>2<k1P>a
 <L>46.1<pc>1-001-b<k1>aMseBArika<k2>*aMseBAra, *aMseBArika<type>alt<LP>46<k1P>aMseBAra
 <L>47.1<pc>1-001-b<k1>aMsia<k2>(a/Msya), a/Msia<type>alt<LP>47<k1P>aMsya
 <L>51.1<pc>1-001-c<k1>aMhaspati<k2>aMhasaspati/, aMhaspati<type>alt<LP>51<k1P>aMhasaspati
@@ -148,7 +148,7 @@
 <L>2363.1<pc>1-027-c<k1>aTA<k2>a/Ta, (a/TA)<type>alt<LP>2363<k1P>aTa
 <L>2366.1<pc>1-028-a<k1>aTaryu<k2>aTarya, aTaryu/<type>alt<LP>2366<k1P>aTarya
 <L>2385.1<pc>1-028-b<k1>aTo<k2>a/TA, a/To<type>alt<LP>2385<k1P>aTA
-<L>2387.1<pc>1-028-b<k1>ada<k2>2. °ad, °ada<type>alt<LP>2387<k1P>ad
+<L>2387.1<pc>1-028-b<k1>ada<k2>2. ˚ad, ˚ada<type>alt<LP>2387<k1P>ad
 <L>2409.1<pc>1-028-c<k1>aduntaka<k2>adanta/ka, aduntaka<type>alt<LP>2409<k1P>adantaka
 <L>2447.1<pc>1-029-a<k1>adABia<k2>a/dABya, a/dABia<type>alt<LP>2447<k1P>adABya
 <L>2457.1<pc>1-029-a<k1>adASuri<k2>a/dASu, a/dASuri, a/dASvaMs<type>alt<LP>2457<k1P>adASu
@@ -221,7 +221,7 @@
 <L>3086.5<pc>1-036-c<k1>aDyAtmaSAstra<k2>aDyAtmapradIpikA, aDyAtmaboDa, aDyAtmamImAMsA, aDyAtmarAmAyaRa, aDyAtmavidyopadeSaviDi, aDyAtmaSAstra, aDyAtmasuDAtaraMgiRI<type>alt<LP>3086<k1P>aDyAtmapradIpikA
 <L>3086.6<pc>1-036-c<k1>aDyAtmasuDAtaraMgiRI<k2>aDyAtmapradIpikA, aDyAtmaboDa, aDyAtmamImAMsA, aDyAtmarAmAyaRa, aDyAtmavidyopadeSaviDi, aDyAtmaSAstra, aDyAtmasuDAtaraMgiRI<type>alt<LP>3086<k1P>aDyAtmapradIpikA
 <L>3097.1<pc>1-036-c<k1>aDyAropaRA<k2>aDyAropa, aDyAropaRA<type>alt<LP>3097<k1P>aDyAropa
-<L>3130.1<pc>1-037-a<k1>aDvaka<k2>°aDva, °aDvaka<type>alt<LP>3130<k1P>aDva
+<L>3130.1<pc>1-037-a<k1>aDvaka<k2>˚aDva, ˚aDvaka<type>alt<LP>3130<k1P>aDva
 <L>3182.1<pc>1-037-c<k1>anakza<k2>ana/kz, anakza/<type>alt<LP>3182<k1P>anakz
 <L>3184.1<pc>1-037-c<k1>anakzastamBam<k2>anakzasaNgam, a/nakzastamBam<type>alt<LP>3184<k1P>anakzasaNgam
 <L>3234.1<pc>1-038-b<k1>anajikA<k2>*anajakA, *anajikA<type>alt<LP>3234<k1P>anajakA
@@ -267,8 +267,8 @@
 <L>4348.1<pc>1-051-a<k1>anugra<k2>a/nugra, anugra/<type>alt<LP>4348<k1P>anugra
 <L>4363.1<pc>1-051-b<k1>anucintA<k2>anucintana, anucintA<type>alt<LP>4363<k1P>anucintana
 <L>4370.1<pc>1-051-c<k1>anucCittiDarman<k2>anucCittiDarmaka, a/nucCittiDarman<type>alt<LP>4370<k1P>anucCittiDarmaka
-<L>4390.1<pc>1-051-c<k1>anutawa<k2>anutawam, anutawa°<type>alt<LP>4390<k1P>anutawam
-<L>4447.1<pc>1-052-b<k1>anudina<k2>anudinam, anudina°<type>alt<LP>4447<k1P>anudinam
+<L>4390.1<pc>1-051-c<k1>anutawa<k2>anutawam, anutawa˚<type>alt<LP>4390<k1P>anutawam
+<L>4447.1<pc>1-052-b<k1>anudina<k2>anudinam, anudina˚<type>alt<LP>4447<k1P>anudinam
 <L>4524.1<pc>1-053-b<k1>anupadasvant<k2>anupadasya, a/nupadasvant<type>alt<LP>4524<k1P>anupadasya
 <L>4615.1<pc>1-054-b<k1>anupUrvia<k2>anupUrvya, anupUrvia<type>alt<LP>4615<k1P>anupUrvya
 <L>4618.1<pc>1-054-c<k1>anupetapUrva<k2>a/nupeta, anupetapUrva<type>alt<LP>4618<k1P>anupeta
@@ -316,8 +316,8 @@
 <L>5072.1<pc>1-060-a<k1>anftin<k2>anftika, anftin<type>alt<LP>5072<k1P>anftika
 <L>5119.1<pc>1-060-b<k1>anedia<k2>(a/nedya), a/nedia<type>alt<LP>5119<k1P>anedya
 <L>5124.1<pc>1-060-b<k1>avevaMvidvaMs<k2>a/nevaMvid, a/vevaMvidvaMs<type>alt<LP>5124<k1P>anevaMvid
-<L>5154.1<pc>1-061-a<k1>antaHpade<k2>antaHpadam, antaHpade, antaHpada°<type>alt<LP>5154<k1P>antaHpadam
-<L>5154.2<pc>1-061-a<k1>antaHpada<k2>antaHpadam, antaHpade, antaHpada°<type>alt<LP>5154<k1P>antaHpadam
+<L>5154.1<pc>1-061-a<k1>antaHpade<k2>antaHpadam, antaHpade, antaHpada˚<type>alt<LP>5154<k1P>antaHpadam
+<L>5154.2<pc>1-061-a<k1>antaHpada<k2>antaHpadam, antaHpade, antaHpada˚<type>alt<LP>5154<k1P>antaHpadam
 <L>5223.1<pc>1-062-a<k1>antarantaHsTa<k2>antarantasTa, antarantaHsTa<type>alt<LP>5223<k1P>antarantasTa
 <L>5274.1<pc>1-062-c<k1>antarikzia<k2>(anta/rikzya), anta/rikzia<type>alt<LP>5274<k1P>antarikzya
 <L>5280.1<pc>1-062-c<k1>antarIkzacara<k2>antarIkzaga, antarIkzacara<type>alt<LP>5280<k1P>antarIkzaga
@@ -681,7 +681,7 @@
 <L>10569.1<pc>1-124-b<k1>avaravarRaka<k2>2. *avaravarRa, *avaravarRaka<type>alt<LP>10569<k1P>avaravarRa
 <L>10624.1<pc>1-125-a<k1>avarzaRa<k2>avarza, avarzaRa<type>alt<LP>10624<k1P>avarza
 <L>10638.1<pc>1-125-b<k1>avaliptatva<k2>avaliptatA, avaliptatva<type>alt<LP>10638<k1P>avaliptatA
-<L>10696.1<pc>1-126-a<k1>avaSya<k2>avaSyam, avaSya°<type>alt<LP>10696<k1P>avaSyam
+<L>10696.1<pc>1-126-a<k1>avaSya<k2>avaSyam, avaSya˚<type>alt<LP>10696<k1P>avaSyam
 <L>10706.1<pc>1-126-a<k1>avazawkfta<k2>avazawkAra, a/vazawkfta<type>alt<LP>10706<k1P>avazawkAra
 <L>10715.1<pc>1-126-a<k1>avasakTikA<k2>*avasakTi, avasakTikA<type>alt<LP>10715<k1P>avasakTi
 <L>10803.1<pc>1-127-b<k1>avahelA<k2>avahela, avahelA<type>alt<LP>10803<k1P>avahela
@@ -823,9 +823,9 @@
 <L>13295.1<pc>1-157-b<k1>aheLamAna<k2>a/heLant, a/heLamAna, a/heLayant<type>alt<LP>13295<k1P>aheLant
 <L>13295.2<pc>1-157-b<k1>aheLayant<k2>a/heLant, a/heLamAna, a/heLayant<type>alt<LP>13295<k1P>aheLant
 <L>13319.1<pc>1-157-c<k1>ahnavAia<k2>(ahnavAyya/), ahnavAia/<type>alt<LP>13319<k1P>ahnavAyya
-<L>13340.1<pc>1-158-a<k1>AkaRWa<k2>AkaRWam, AkaRWa°<type>alt<LP>13340<k1P>AkaRWam
+<L>13340.1<pc>1-158-a<k1>AkaRWa<k2>AkaRWam, AkaRWa˚<type>alt<LP>13340<k1P>AkaRWam
 <L>13350.1<pc>1-158-a<k1>AkaraRA<k2>*AkaraRa, *AkaraRA<type>alt<LP>13350<k1P>AkaraRa
-<L>13357.1<pc>1-158-a<k1>AkarRa<k2>AkarRam, AkarRa°<type>alt<LP>13357<k1P>AkarRam
+<L>13357.1<pc>1-158-a<k1>AkarRa<k2>AkarRam, AkarRa˚<type>alt<LP>13357<k1P>AkarRam
 <L>13375.1<pc>1-158-b<k1>AkalpAntam<k2>Akalpam, AkalpAntam<type>alt<LP>13375<k1P>Akalpam
 <L>13379.1<pc>1-158-b<k1>Akazika<k2>*Akazaka, *Akazika<type>alt<LP>13379<k1P>Akazaka
 <L>13387.1<pc>1-158-b<k1>AkAyia<k2>(AkAyya^), AkAyi/a<type>alt<LP>13387<k1P>AkAyya
@@ -937,7 +937,7 @@
 <L>14994.1<pc>1-177-c<k1>Aptia<k2>Aptya/, Aptia/<type>alt<LP>14994<k1P>Aptya
 <L>14999.1<pc>1-177-c<k1>Apia<k2>3. (A/pya), A/pia<type>alt<LP>14999<k1P>Apya
 <L>15032.1<pc>1-178-b<k1>APUka<k2>*APIna, *APUka<type>alt<LP>15032<k1P>APIna
-<L>15045.1<pc>1-178-b<k1>AbAlya<k2>AbAlyam, AbAlya°<type>alt<LP>15045<k1P>AbAlyam
+<L>15045.1<pc>1-178-b<k1>AbAlya<k2>AbAlyam, AbAlya˚<type>alt<LP>15045<k1P>AbAlyam
 <L>15073.1<pc>1-178-c<k1>ABAsvara<k2>ABAsura, ABAsvara<type>alt<LP>15073<k1P>ABAsura
 <L>15079.1<pc>1-178-c<k1>ABijAtya<k2>ABijAtI, ABijAtya<type>alt<LP>15079<k1P>ABijAtI
 <L>15091.1<pc>1-178-c<k1>ABizecanika<k2>ABizeka, ABizecanika<type>alt<LP>15091<k1P>ABizeka
@@ -957,7 +957,7 @@
 <L>15191.2<pc>1-180-a<k1>Amitri<k2>*AmitrAyaRa, *AmitrAyaRi, *Amitri<type>alt<LP>15191<k1P>AmitrAyaRa
 <L>15210.1<pc>1-180-a<k1>Amuri<k2>Amu/r, Amu/ri<type>alt<LP>15210<k1P>Amur
 <L>15212.1<pc>1-180-a<k1>AmuzyakulikA<k2>*Amuzyakulaka, AmuzyakulikA<type>alt<LP>15212<k1P>Amuzyakulaka
-<L>15217.1<pc>1-180-b<k1>AmUla<k2>AmUlam, AmUla°<type>alt<LP>15217<k1P>AmUlam
+<L>15217.1<pc>1-180-b<k1>AmUla<k2>AmUlam, AmUla˚<type>alt<LP>15217<k1P>AmUlam
 <L>15220.1<pc>1-180-b<k1>Amenia<k2>Amenya/, Amenia/<type>alt<LP>15220<k1P>Amenya
 <L>15222.1<pc>1-180-b<k1>Amocana<k2>AmokzaRa, Amocana<type>alt<LP>15222<k1P>AmokzaRa
 <L>15248.1<pc>1-180-c<k1>AmraganDakft<k2>*AmraganDaka, *AmraganDakft, *AmraganDaDfk, *AmraganDaDft<type>alt<LP>15248<k1P>AmraganDaka
@@ -1144,9 +1144,9 @@
 <L>17964.1<pc>1-219-b<k1>utkawikAsana<k2>utkawikA, utkawikAsana<type>alt<LP>17964<k1P>utkawikA
 <L>18024.1<pc>1-220-a<k1>utkuYcitA<k2>*utkuYcikA, *utkuYcitA<type>alt<LP>18024<k1P>utkuYcikA
 <L>18051.1<pc>1-220-b<k1>utkramajyA<k2>utkramajIvA, utkramajyA<type>alt<LP>18051<k1P>utkramajIvA
-<L>18069.1<pc>1-220-c<k1>utkleSin<k2>utkleSana, °utkleSin<type>alt<LP>18069<k1P>utkleSana
+<L>18069.1<pc>1-220-c<k1>utkleSin<k2>utkleSana, ˚utkleSin<type>alt<LP>18069<k1P>utkleSana
 <L>18094.1<pc>1-221-a<k1>uttaBita<k2>u/ttabDa, uttaBita<type>alt<LP>18094<k1P>uttabDa
-<L>18104.1<pc>1-221-a<k1>uttama<k2>uttama/m, uttama°<type>alt<LP>18104<k1P>uttamam
+<L>18104.1<pc>1-221-a<k1>uttama<k2>uttama/m, uttama˚<type>alt<LP>18104<k1P>uttamam
 <L>18120.1<pc>1-221-b<k1>uttamAyia<k2>(uttamA/yya), uttamA/yia<type>alt<LP>18120<k1P>uttamAyya
 <L>18178.1<pc>1-222-a<k1>OttarapaTika<k2>uttarapaTika, (OttarapaTika)<type>alt<LP>18178<k1P>uttarapaTika
 <L>18184.1<pc>1-222-b<k1>uttarapaScimA<k2>uttarapaScima, (uttarapaScimA)<type>alt<LP>18184<k1P>uttarapaScima
@@ -1204,7 +1204,7 @@
 <L>19528.1<pc>1-239-a<k1>upacUlana<k2>upacUqana, upacUlana<type>alt<LP>19528<k1P>upacUqana
 <L>19548.1<pc>1-239-a<k1>upajiGraRA<k2>upajiGraRa, upajiGraRA<type>alt<LP>19548<k1P>upajiGraRa
 <L>19568.1<pc>1-239-b<k1>upatakzaka<k2>upatakza, upatakzaka<type>alt<LP>19568<k1P>upatakza
-<L>19569.1<pc>1-239-b<k1>upatawa<k2>upatawam, upatawa°<type>alt<LP>19569<k1P>upatawam
+<L>19569.1<pc>1-239-b<k1>upatawa<k2>upatawam, upatawa˚<type>alt<LP>19569<k1P>upatawam
 <L>19570.1<pc>1-239-b<k1>upataptar<k2>upata/pant, *upataptar<type>alt<LP>19570<k1P>upatapant
 <L>19584.1<pc>1-239-c<k1>upatEza<k2>*upatEla, *upatEza<type>alt<LP>19584<k1P>upatEla
 <L>19612.1<pc>1-239-c<k1>upadIkA<k2>upadI/ka, upadI/kA<type>alt<LP>19612<k1P>upadIka
@@ -1222,7 +1222,7 @@
 <L>19742.1<pc>1-241-b<k1>upapurI<k2>*upapura, upapurI<type>alt<LP>19742<k1P>upapura
 <L>19748.1<pc>1-241-c<k1>upapOrRamAsi<k2>*upapOrRamAsam, *upapOrRamAsi<type>alt<LP>19748<k1P>upapOrRamAsam
 <L>19766.1<pc>1-241-c<k1>upabAhyA<k2>upabAhyakasfYjayI, upabAhyA<type>alt<LP>19766<k1P>upabAhyakasfYjayI
-<L>19826.1<pc>1-242-b<k1>upamUla<k2>upamUla/m, upamUla°<type>alt<LP>19826<k1P>upamUlam
+<L>19826.1<pc>1-242-b<k1>upamUla<k2>upamUla/m, upamUla˚<type>alt<LP>19826<k1P>upamUlam
 <L>19837.1<pc>1-242-c<k1>upayAcita<k2>upayAcana, upayAcita, *upayAcitaka<type>alt<LP>19837<k1P>upayAcana
 <L>19837.2<pc>1-242-c<k1>upayAcitaka<k2>upayAcana, upayAcita, *upayAcitaka<type>alt<LP>19837<k1P>upayAcana
 <L>19843.1<pc>1-242-c<k1>yAmin<k2>*upayAmavant, *yAmin<type>alt<LP>19843<k1P>upayAmavant
@@ -2205,8 +2205,8 @@
 <L>33625.1<pc>2-138-c<k1>Kaluc<k2>*Kaluk, *Kaluc, *Kaluj<type>alt<LP>33625<k1P>Kaluk
 <L>33625.2<pc>2-138-c<k1>Kaluj<k2>*Kaluk, *Kaluc, *Kaluj<type>alt<LP>33625<k1P>Kaluk
 <L>33628.1<pc>2-138-c<k1>KalUrI<k2>KalUrikA, *KalUrI<type>alt<LP>33628<k1P>KalUrikA
-<L>33633.1<pc>2-139-a<k1>KaleSaya<k2>*KaleSa, *KaleSaya, *°Kaleha<type>alt<LP>33633<k1P>KaleSa
-<L>33633.2<pc>2-139-a<k1>Kaleha<k2>*KaleSa, *KaleSaya, *°Kaleha<type>alt<LP>33633<k1P>KaleSa
+<L>33633.1<pc>2-139-a<k1>KaleSaya<k2>*KaleSa, *KaleSaya, *˚Kaleha<type>alt<LP>33633<k1P>KaleSa
+<L>33633.2<pc>2-139-a<k1>Kaleha<k2>*KaleSa, *KaleSaya, *˚Kaleha<type>alt<LP>33633<k1P>KaleSa
 <L>33658.1<pc>2-139-a<k1>KaSera<k2>*KaSewa, *KaSera<type>alt<LP>33658<k1P>KaSewa
 <L>33663.1<pc>2-139-b<k1>Kasakanna<k2>*Kasakanda, *Kasakanna, *KasaganDa<type>alt<LP>33663<k1P>Kasakanda
 <L>33663.2<pc>2-139-b<k1>KasaganDa<k2>*Kasakanda, *Kasakanna, *KasaganDa<type>alt<LP>33663<k1P>Kasakanda
@@ -2414,7 +2414,7 @@
 <L>36451.2<pc>2-179-a<k1>goKalya<k2>goKala, goKalu, goKalya<type>alt<LP>36451<k1P>goKala
 <L>36463.1<pc>2-179-a<k1>goGAtaka<k2>goGAta/, *goGAta/ka, goGAtin<type>alt<LP>36463<k1P>goGAta
 <L>36463.2<pc>2-179-a<k1>goGAtin<k2>goGAta/, *goGAta/ka, goGAtin<type>alt<LP>36463<k1P>goGAta
-<L>36472.1<pc>2-179-b<k1>gocaratva<k2>°gocaratA, °gocaratva<type>alt<LP>36472<k1P>gocaratA
+<L>36472.1<pc>2-179-b<k1>gocaratva<k2>˚gocaratA, ˚gocaratva<type>alt<LP>36472<k1P>gocaratA
 <L>36542.1<pc>2-180-a<k1>gotrapravaranirRaya<k2>gotrapravaradIpa, gotrapravaranirRaya, gotrapravaramaYjarI<type>alt<LP>36542<k1P>gotrapravaradIpa
 <L>36542.2<pc>2-180-a<k1>gotrapravaramaYjarI<k2>gotrapravaradIpa, gotrapravaranirRaya, gotrapravaramaYjarI<type>alt<LP>36542<k1P>gotrapravaradIpa
 <L>36562.1<pc>2-180-b<k1>godaka<k2>2. *goda, *godaka<type>alt<LP>36562<k1P>goda
@@ -2530,9 +2530,9 @@
 <L>38535.1<pc>2-207-c<k1>caRqikArcanacandrikA<k2>caRqikArcanakrama, caRqikArcanacandrikA<type>alt<LP>38535<k1P>caRqikArcanakrama
 <L>38554.1<pc>2-207-c<k1>caRqIviDi<k2>caRqIviDAna, caRqIviDi<type>alt<LP>38554<k1P>caRqIviDAna
 <L>38570.1<pc>2-208-a<k1>catasar<k2>ca/tasar, catasa/r<type>alt<LP>38570<k1P>catasar
-<L>38574.1<pc>2-208-a<k1>catuHKa<k2>catuHka°, catuHKa°, catuHpa°, catuHPa°<type>alt<LP>38574<k1P>catuHka
-<L>38574.2<pc>2-208-a<k1>catuHpa<k2>catuHka°, catuHKa°, catuHpa°, catuHPa°<type>alt<LP>38574<k1P>catuHka
-<L>38574.3<pc>2-208-a<k1>catuHPa<k2>catuHka°, catuHKa°, catuHpa°, catuHPa°<type>alt<LP>38574<k1P>catuHka
+<L>38574.1<pc>2-208-a<k1>catuHKa<k2>catuHka˚, catuHKa˚, catuHpa˚, catuHPa˚<type>alt<LP>38574<k1P>catuHka
+<L>38574.2<pc>2-208-a<k1>catuHpa<k2>catuHka˚, catuHKa˚, catuHpa˚, catuHPa˚<type>alt<LP>38574<k1P>catuHka
+<L>38574.3<pc>2-208-a<k1>catuHPa<k2>catuHka˚, catuHKa˚, catuHpa˚, catuHPa˚<type>alt<LP>38574<k1P>catuHka
 <L>38592.1<pc>2-208-b<k1>caturatva<k2>caturatA, caturatva<type>alt<LP>38592<k1P>caturatA
 <L>38593.1<pc>2-208-b<k1>caturaDyAyikA<k2>caturaDyAyika, caturaDyAyikA, caturaDyAyI<type>alt<LP>38593<k1P>caturaDyAyika
 <L>38593.2<pc>2-208-b<k1>caturaDyAyI<k2>caturaDyAyika, caturaDyAyikA, caturaDyAyI<type>alt<LP>38593<k1P>caturaDyAyika
@@ -3563,7 +3563,7 @@
 <L>50734.1<pc>3-096-c<k1>dIrGANGri<k2>dIrGANgI, *dIrGANGri<type>alt<LP>50734<k1P>dIrGANgI
 <L>50787.1<pc>3-097-b<k1>duHKaBAj<k2>duHKaBAgin, duHKaBAj<type>alt<LP>50787<k1P>duHKaBAgin
 <L>50812.1<pc>3-097-c<k1>duHKitva<k2>duHKitA, duHKitva<type>alt<LP>50812<k1P>duHKitA
-<L>50820.1<pc>3-097-c<k1>duHPa<k2>duHpa°, duHPa°<type>alt<LP>50820<k1P>duHpa
+<L>50820.1<pc>3-097-c<k1>duHPa<k2>duHpa˚, duHPa˚<type>alt<LP>50820<k1P>duHpa
 <L>50838.1<pc>3-098-a<k1>dugDasinDu<k2>*dugDasamudra, dugDasinDu<type>alt<LP>50838<k1P>dugDasamudra
 <L>50946.1<pc>3-099-a<k1>duravagrAhya<k2>duravagrAha, duravagrAhya<type>alt<LP>50946<k1P>duravagrAha
 <L>50999.1<pc>3-099-c<k1>durArakzya<k2>durArakza, durArakzya<type>alt<LP>50999<k1P>durArakza
@@ -3742,7 +3742,7 @@
 <L>53615.1<pc>3-132-a<k1>dvaMdvacArin<k2>dvaMdvacara, *dvaMdvacArin<type>alt<LP>53615<k1P>dvaMdvacara
 <L>53642.1<pc>3-132-b<k1>dvarin<k2>dvari/, dvari/n<type>alt<LP>53642<k1P>dvari
 <L>53645.1<pc>3-132-b<k1>dvAcatvAriMSati<k2>dvAcatvAriMSat, dvAcatvAriMSati<type>alt<LP>53645<k1P>dvAcatvAriMSat
-<L>53651.1<pc>3-132-b<k1>dvAtriMSatkA<k2>°dvAtriMSatikA, °dvAtriMSatkA<type>alt<LP>53651<k1P>dvAtriMSatikA
+<L>53651.1<pc>3-132-b<k1>dvAtriMSatkA<k2>˚dvAtriMSatikA, ˚dvAtriMSatkA<type>alt<LP>53651<k1P>dvAtriMSatikA
 <L>53669.1<pc>3-132-c<k1>dvAdaSatva<k2>dvAdaSatA, dvAdaSatva<type>alt<LP>53669<k1P>dvAdaSatA
 <L>53671.1<pc>3-132-c<k1>duAdaSan<k2>dvA/daSan, du/AdaSan, dvAdaSa/n<type>alt<LP>53671<k1P>dvAdaSan
 <L>53671.2<pc>3-132-c<k1>dvAdaSan<k2>dvA/daSan, du/AdaSan, dvAdaSa/n<type>alt<LP>53671<k1P>dvAdaSan
@@ -4327,7 +4327,7 @@
 <L>61781.1<pc>4-004-c<k1>paccanI<k2>paccanikA, paccanI<type>alt<LP>61781<k1P>paccanikA
 <L>61801.1<pc>4-004-c<k1>paYcakarman<k2>*paYcakarma, paYcakarman, *paYcakarmI<type>alt<LP>61801<k1P>paYcakarma
 <L>61801.2<pc>4-004-c<k1>paYcakarmI<k2>*paYcakarma, paYcakarman, *paYcakarmI<type>alt<LP>61801<k1P>paYcakarma
-<L>61819.1<pc>4-005-a<k1>paYcakroSI<k2>paYcakroSa°, paYcakroSI<type>alt<LP>61819<k1P>paYcakroSa
+<L>61819.1<pc>4-005-a<k1>paYcakroSI<k2>paYcakroSa˚, paYcakroSI<type>alt<LP>61819<k1P>paYcakroSa
 <L>61824.1<pc>4-005-a<k1>paYcagaNgA<k2>paYcagaNga, paYcagaNgA<type>alt<LP>61824<k1P>paYcagaNga
 <L>61859.1<pc>4-005-b<k1>paYcatantraka<k2>paYcatantra, paYcatantraka<type>alt<LP>61859<k1P>paYcatantra
 <L>61869.1<pc>4-005-c<k1>paYcatriMSati<k2>pa/YcatriMSat, paYcatriMSati<type>alt<LP>61869<k1P>paYcatriMSat
@@ -4380,7 +4380,7 @@
 <L>62371.1<pc>4-012-b<k1>paqu<k2>paqa, paqu<type>alt<LP>62371<k1P>paqa
 <L>62373.1<pc>4-012-b<k1>paqvISa<k2>pa/qbISa, pa/qvISa, paqviMSa<type>alt<LP>62373<k1P>paqbISa
 <L>62373.2<pc>4-012-b<k1>paqviMSa<k2>pa/qbISa, pa/qvISa, paqviMSa<type>alt<LP>62373<k1P>paqbISa
-<L>62398.1<pc>4-012-c<k1>paRAsTika<k2>°paRAsTi, *paRAsTika<type>alt<LP>62398<k1P>paRAsTi
+<L>62398.1<pc>4-012-c<k1>paRAsTika<k2>˚paRAsTi, *paRAsTika<type>alt<LP>62398<k1P>paRAsTi
 <L>62417.1<pc>4-013-a<k1>paRqitamAnin<k2>paRqitamAnika, paRqitamAnin, paRqitaMmanya<type>alt<LP>62417<k1P>paRqitamAnika
 <L>62417.2<pc>4-013-a<k1>paRqitaMmanya<k2>paRqitamAnika, paRqitamAnin, paRqitaMmanya<type>alt<LP>62417<k1P>paRqitamAnika
 <L>62425.1<pc>4-013-a<k1>paRqraka<k2>paRqra, paRqraka<type>alt<LP>62425<k1P>paRqra
@@ -4618,7 +4618,7 @@
 <L>65631.1<pc>4-064-c<k1>pARqavacaritra<k2>pARqavagItA, pARqavacaritra<type>alt<LP>65631<k1P>pARqavagItA
 <L>65648.1<pc>4-065-a<k1>pARqukarman<k2>pARqukaraRa, pARqukarman<type>alt<LP>65648<k1P>pARqukaraRa
 <L>65660.1<pc>4-065-a<k1>pARquputrI<k2>*pARqupatnI, pARquputrI<type>alt<LP>65660<k1P>pARqupatnI
-<L>65665.1<pc>4-065-a<k1>pARqumfttikA<k2>pARqumfttika°, pARqumfttikA<type>alt<LP>65665<k1P>pARqumfttika
+<L>65665.1<pc>4-065-a<k1>pARqumfttikA<k2>pARqumfttika˚, pARqumfttikA<type>alt<LP>65665<k1P>pARqumfttika
 <L>65683.1<pc>4-065-b<k1>pARquleKya<k2>pARquleKa, pARquleKya<type>alt<LP>65683<k1P>pARquleKa
 <L>65684.1<pc>4-065-b<k1>pARqulomaSA<k2>pARqulomaSaparRI, *pARqulomaSA, *pARqulomA<type>alt<LP>65684<k1P>pARqulomaSaparRI
 <L>65684.2<pc>4-065-b<k1>pARqulomA<k2>pARqulomaSaparRI, *pARqulomaSA, *pARqulomA<type>alt<LP>65684<k1P>pARqulomaSaparRI
@@ -4969,27 +4969,27 @@
 <L>70842.1<pc>4-136-c<k1>pratAparudrIya<k2>pratAparudrayaSoBUzaRAlaMkAraSAraSAstra, pratAparudrIya<type>alt<LP>70842<k1P>pratAparudrayaSoBUzaRAlaMkAraSAraSAstra
 <L>70887.1<pc>4-137-c<k1>pratikAmia<k2>(pratikAmya), pratikAmi/a<type>alt<LP>70887<k1P>pratikAmya
 <L>70927.1<pc>4-138-a<k1>pratikramaRasUtra<k2>pratikramaRaviDi, pratikramaRasUtra<type>alt<LP>70927<k1P>pratikramaRaviDi
-<L>70954.1<pc>4-138-b<k1>pratigAtra<k2>pratigAtram, pratigAtra°<type>alt<LP>70954<k1P>pratigAtram
+<L>70954.1<pc>4-138-b<k1>pratigAtra<k2>pratigAtram, pratigAtra˚<type>alt<LP>70954<k1P>pratigAtram
 <L>71018.1<pc>4-139-b<k1>pratijihvikA<k2>*pratijihvA, *pratijihvikA<type>alt<LP>71018<k1P>pratijihvA
 <L>71019.1<pc>4-139-b<k1>pratijIvita<k2>pratijIvana, pratijIvita<type>alt<LP>71019<k1P>pratijIvana
 <L>71034.1<pc>4-139-c<k1>pratijYAvAdArTa<k2>pratijYAvAda, pratijYAvAdArTa<type>alt<LP>71034<k1P>pratijYAvAda
 <L>71081.1<pc>4-140-a<k1>pratidvAri<k2>pratidvAram, pratidvAri<type>alt<LP>71081<k1P>pratidvAram
 <L>71097.1<pc>4-140-b<k1>pratiDvAna<k2>pratiDvani, pratiDvAna<type>alt<LP>71097<k1P>pratiDvani
 <L>71148.1<pc>4-141-a<k1>pratipakzatva<k2>pratipakzatA, pratipakzatva<type>alt<LP>71148<k1P>pratipakzatA
-<L>71162.1<pc>4-141-a<k1>pratipaTam<k2>pratipaTa°, pratipaTam<type>alt<LP>71162<k1P>pratipaTa
-<L>71166.1<pc>4-141-b<k1>pratipadam<k2>2. pratipada°, pratipadam<type>alt<LP>71166<k1P>pratipada
+<L>71162.1<pc>4-141-a<k1>pratipaTam<k2>pratipaTa˚, pratipaTam<type>alt<LP>71162<k1P>pratipaTa
+<L>71166.1<pc>4-141-b<k1>pratipadam<k2>2. pratipada˚, pratipadam<type>alt<LP>71166<k1P>pratipada
 <L>71194.1<pc>4-141-c<k1>pratipAlayitavya<k2>pratipAlanIya, pratipAlayitavya<type>alt<LP>71194<k1P>pratipAlanIya
-<L>71206.1<pc>4-142-a<k1>pratipuruzam<k2>2. pratipuruza°, pratipuruza/m<type>alt<LP>71206<k1P>pratipuruza
-<L>71225.1<pc>4-142-a<k1>pratipratIkam<k2>pratipratIka°, pratipratIkam<type>alt<LP>71225<k1P>pratipratIka
+<L>71206.1<pc>4-142-a<k1>pratipuruzam<k2>2. pratipuruza˚, pratipuruza/m<type>alt<LP>71206<k1P>pratipuruza
+<L>71225.1<pc>4-142-a<k1>pratipratIkam<k2>pratipratIka˚, pratipratIkam<type>alt<LP>71225<k1P>pratipratIka
 <L>71251.1<pc>4-142-b<k1>pratiPalana<k2>*pratiPala, pratiPalana<type>alt<LP>71251<k1P>pratiPala
 <L>71288.1<pc>4-143-a<k1>pratiBayaMkara<k2>pratiBayakara, pratiBayaMkara<type>alt<LP>71288<k1P>pratiBayakara
 <L>71319.1<pc>4-143-c<k1>pratimaYcaka<k2>pratimaYca, pratimaYcaka<type>alt<LP>71319<k1P>pratimaYca
-<L>71342.1<pc>4-143-c<k1>pratimAsam<k2>pratimAsa°, pratimAsam<type>alt<LP>71342<k1P>pratimAsa
-<L>71351.1<pc>4-144-a<k1>pratimuKam<k2>3. pratimuKa°, pratimuKam<type>alt<LP>71351<k1P>pratimuKa
+<L>71342.1<pc>4-143-c<k1>pratimAsam<k2>pratimAsa˚, pratimAsam<type>alt<LP>71342<k1P>pratimAsa
+<L>71351.1<pc>4-144-a<k1>pratimuKam<k2>3. pratimuKa˚, pratimuKam<type>alt<LP>71351<k1P>pratimuKa
 <L>71399.1<pc>4-144-b<k1>pratirAjan<k2>pratirAja, pratirAjan<type>alt<LP>71399<k1P>pratirAja
 <L>71401.1<pc>4-144-b<k1>pratirAtri<k2>pratirAtram, pratirAtri<type>alt<LP>71401<k1P>pratirAtram
 <L>71420.1<pc>4-144-c<k1>pratileKA<k2>pratileKana, pratileKA<type>alt<LP>71420<k1P>pratileKana
-<L>71444.1<pc>4-145-b<k1>prativarzam<k2>prativarza°, prativarzam<type>alt<LP>71444<k1P>prativarza
+<L>71444.1<pc>4-145-b<k1>prativarzam<k2>prativarza˚, prativarzam<type>alt<LP>71444<k1P>prativarza
 <L>71497.1<pc>4-145-c<k1>prativIkzya<k2>prativIkzaRIya, prativIkzya<type>alt<LP>71497<k1P>prativIkzaRIya
 <L>71522.1<pc>4-146-a<k1>pratiSabdaka<k2>pratiSabda, pratiSabdaka<type>alt<LP>71522<k1P>pratiSabda
 <L>71542.1<pc>4-146-b<k1>pratiSyAya<k2>pratiSyA, pratiSyAya<type>alt<LP>71542<k1P>pratiSyA
@@ -5014,7 +5014,7 @@
 <L>71877.1<pc>4-151-a<k1>pratyakzAnumAnaSabdaKaRqana<k2>pratyakzAnumAna, pratyakzAnumAnaSabdaKaRqana, (pratyakzAnumAnaSabdaKaRqa)<type>alt<LP>71877<k1P>pratyakzAnumAna
 <L>71877.2<pc>4-151-a<k1>pratyakzAnumAnaSabdaKaRqa<k2>pratyakzAnumAna, pratyakzAnumAnaSabdaKaRqana, (pratyakzAnumAnaSabdaKaRqa)<type>alt<LP>71877<k1P>pratyakzAnumAna
 <L>71896.1<pc>4-151-b<k1>pratyagdakziRA<k2>pratyagdakziRatas, pratyagdakziRA<type>alt<LP>71896<k1P>pratyagdakziRatas
-<L>71916.1<pc>4-151-b<k1>pratyaNgam<k2>4. pratyaNga°, pratyaNgam<type>alt<LP>71916<k1P>pratyaNga
+<L>71916.1<pc>4-151-b<k1>pratyaNgam<k2>4. pratyaNga˚, pratyaNgam<type>alt<LP>71916<k1P>pratyaNga
 <L>71922.1<pc>4-151-c<k1>pratyaNgirAtattva<k2>pratyaNgirAkalpa, pratyaNgirAtattva, pratyaNgirApaYcANga, pratyaNgirAsUkta<type>alt<LP>71922<k1P>pratyaNgirAkalpa
 <L>71922.2<pc>4-151-c<k1>pratyaNgirApaYcANga<k2>pratyaNgirAkalpa, pratyaNgirAtattva, pratyaNgirApaYcANga, pratyaNgirAsUkta<type>alt<LP>71922<k1P>pratyaNgirAkalpa
 <L>71922.3<pc>4-151-c<k1>pratyaNgirAsUkta<k2>pratyaNgirAkalpa, pratyaNgirAtattva, pratyaNgirApaYcANga, pratyaNgirAsUkta<type>alt<LP>71922<k1P>pratyaNgirAkalpa
@@ -5022,10 +5022,10 @@
 <L>71999.1<pc>4-152-c<k1>pratiarDi<k2>pra/tyarDi, pra/tiarDi<type>alt<LP>71999<k1P>pratyarDi
 <L>72006.1<pc>4-152-c<k1>pratyavaBAzA<k2>pratyavaBAza, pratyavaBAzA<type>alt<LP>72006<k1P>pratyavaBAza
 <L>72011.1<pc>4-153-a<k1>pratyavamarzavant<k2>pratyavamarza, pratyavamarzavant<type>alt<LP>72011<k1P>pratyavamarza
-<L>72012.1<pc>4-153-a<k1>pratyavayavam<k2>pratyavayava°, pratyavayavam<type>alt<LP>72012<k1P>pratyavayava
+<L>72012.1<pc>4-153-a<k1>pratyavayavam<k2>pratyavayava˚, pratyavayavam<type>alt<LP>72012<k1P>pratyavayava
 <L>72034.1<pc>4-153-b<k1>pratyavekzA<k2>pratyavekzaRa, pratyavekzA<type>alt<LP>72034<k1P>pratyavekzaRa
 <L>72054.1<pc>4-153-b<k1>pratyAgama<k2>pratyAgati, pratyAgama<type>alt<LP>72054<k1P>pratyAgati
-<L>72060.1<pc>4-153-c<k1>pratyAtmam<k2>pratyAtma°, pratyAtmam<type>alt<LP>72060<k1P>pratyAtma
+<L>72060.1<pc>4-153-c<k1>pratyAtmam<k2>pratyAtma˚, pratyAtmam<type>alt<LP>72060<k1P>pratyAtma
 <L>72061.1<pc>4-153-c<k1>pratyAtmika<k2>pratyAtmaka, pratyAtmika<type>alt<LP>72061<k1P>pratyAtmaka
 <L>72102.1<pc>4-154-a<k1>pratyASrAvaRa<k2>pratyASrAva/, pratyASrA/vaRa<type>alt<LP>72102<k1P>pratyASrAva
 <L>72109.1<pc>4-154-b<k1>pratyAsAra<k2>*pratyAsara, *pratyAsAra<type>alt<LP>72109<k1P>pratyAsara
@@ -5120,7 +5120,7 @@
 <L>73051.1<pc>4-168-b<k1>pravacanasArodDAra<k2>pravacanasAragATA, pravacanasArodDAra<type>alt<LP>73051<k1P>pravacanasAragATA
 <L>73089.1<pc>4-169-a<k1>pravaradIpikA<k2>pravaradarpaRa, pravaradIpikA<type>alt<LP>73089<k1P>pravaradarpaRa
 <L>73095.1<pc>4-169-a<k1>pravararatna<k2>pravaramaYjarI, pravararatna<type>alt<LP>73095<k1P>pravaramaYjarI
-<L>73121.1<pc>4-169-c<k1>pravarDana<k2>°pravarDaka, °pravarDana<type>alt<LP>73121<k1P>pravarDaka
+<L>73121.1<pc>4-169-c<k1>pravarDana<k2>˚pravarDaka, ˚pravarDana<type>alt<LP>73121<k1P>pravarDaka
 <L>73137.1<pc>4-169-c<k1>pravahlikA<k2>*pravahli, *pravahlikA, *pravahlI<type>alt<LP>73137<k1P>pravahli
 <L>73137.2<pc>4-169-c<k1>pravahlI<k2>*pravahli, *pravahlikA, *pravahlI<type>alt<LP>73137<k1P>pravahli
 <L>73146.1<pc>4-170-a<k1>pravARI<k2>*pravARi, *pravARI<type>alt<LP>73146<k1P>pravARi
@@ -5254,7 +5254,7 @@
 <L>74804.1<pc>4-193-a<k1>priyAtmaja<k2>priyAtmaka, priyAtmaja<type>alt<LP>74804<k1P>priyAtmaka
 <L>74827.1<pc>4-193-c<k1>prItAtman<k2>prItamanas, prItAtman<type>alt<LP>74827<k1P>prItamanas
 <L>74875.1<pc>4-194-b<k1>prekzAgfha<k2>prekzAgAra, prekzAgfha<type>alt<LP>74875<k1P>prekzAgAra
-<L>74876.1<pc>4-194-b<k1>prekzApUrva<k2>prekzApUrvam, prekzApUrva°<type>alt<LP>74876<k1P>prekzApUrvam
+<L>74876.1<pc>4-194-b<k1>prekzApUrva<k2>prekzApUrvam, prekzApUrva˚<type>alt<LP>74876<k1P>prekzApUrvam
 <L>74903.1<pc>4-195-a<k1>pretakftya<k2>pretakArya, pretakftya<type>alt<LP>74903<k1P>pretakArya
 <L>74913.1<pc>4-195-a<k1>pretanirgAraha<k2>pretaniryAtaka, pretanirgAraha<type>alt<LP>74913<k1P>pretaniryAtaka
 <L>74914.1<pc>4-195-a<k1>pretapakzaka<k2>pretapakza, pretapakzaka<type>alt<LP>74914<k1P>pretapakza
@@ -5325,7 +5325,7 @@
 <L>76043.1<pc>4-212-b<k1>balAbalAkzepaparihAra<k2>balAbalasUtra, balAbalAkzepaparihAra<type>alt<LP>76043<k1P>balAbalasUtra
 <L>76142.1<pc>4-213-c<k1>bazkayiRI<k2>*bazkayaRI, *bazkayiRI<type>alt<LP>76142<k1P>bazkayaRI
 <L>76149.1<pc>4-213-c<k1>bastamAram<k2>bastamAra, bastamAram<type>alt<LP>76149<k1P>bastamAra
-<L>76172.1<pc>4-214-a<k1>bahiHpa<k2>bahiHka°, bahiHpa°<type>alt<LP>76172<k1P>bahiHka
+<L>76172.1<pc>4-214-a<k1>bahiHpa<k2>bahiHka˚, bahiHpa˚<type>alt<LP>76172<k1P>bahiHka
 <L>76255.1<pc>4-215-a<k1>bahInara<k2>bahInara, bahInara<type>alt<LP>76255<k1P>bahInara
 <L>76270.1<pc>4-215-b<k1>kulya<k2>*bahukulIna, *kulya<type>alt<LP>76270<k1P>bahukulIna
 <L>76301.1<pc>4-215-c<k1>bAhujanya<k2>*bahujanya, (bAhujanya)<type>alt<LP>76301<k1P>bahujanya
@@ -6210,7 +6210,7 @@
 <L>87551.1<pc>5-089-c<k1>mudgazwaka<k2>*mudgazwa, mudgazwaka, mudrazWa, mudrazWaka<type>alt<LP>87551<k1P>mudgazwa
 <L>87551.2<pc>5-089-c<k1>mudrazWa<k2>*mudgazwa, mudgazwaka, mudrazWa, mudrazWaka<type>alt<LP>87551<k1P>mudgazwa
 <L>87551.3<pc>5-089-c<k1>mudrazWaka<k2>*mudgazwa, mudgazwaka, mudrazWa, mudrazWaka<type>alt<LP>87551<k1P>mudgazwa
-<L>87561.1<pc>5-090-a<k1>mudrANkita<k2>°mudrANka, °mudrANkita<type>alt<LP>87561<k1P>mudrANka
+<L>87561.1<pc>5-090-a<k1>mudrANkita<k2>˚mudrANka, ˚mudrANkita<type>alt<LP>87561<k1P>mudrANka
 <L>87569.1<pc>5-090-a<k1>mudrArAkzasakaTAsAra<k2>mudrArAkzasakaTAsaMgraha, mudrArAkzasakaTAsAra<type>alt<LP>87569<k1P>mudrArAkzasakaTAsaMgraha
 <L>87618.1<pc>5-090-c<k1>munTA<k2>munTahA, munTA<type>alt<LP>87618<k1P>munTahA
 <L>87626.1<pc>5-091-a<k1>mumukzutva<k2>mumukzutA, mumukzutva<type>alt<LP>87626<k1P>mumukzutA
@@ -6386,40 +6386,40 @@
 <L>89743.1<pc>5-120-b<k1>yatrA<k2>ya/tra, ya/trA<type>alt<LP>89743<k1P>yatra
 <L>89745.1<pc>5-120-b<k1>yatrakAmAvaSAyitva<k2>yatrakAmAvaSAyitA, yatrakAmAvaSAyitva<type>alt<LP>89745<k1P>yatrakAmAvaSAyitA
 <L>89776.1<pc>5-121-a<k1>yaTAkAmam<k2>yaTAkA/mam, yaTAkAma/m<type>alt<LP>89776<k1P>yaTAkAmam
-<L>89792.1<pc>5-121-b<k1>yaTAkramam<k2>yaTAkrama°, yaTAkramam, yaTAkrameRa<type>alt<LP>89792<k1P>yaTAkrama
-<L>89792.2<pc>5-121-b<k1>yaTAkrameRa<k2>yaTAkrama°, yaTAkramam, yaTAkrameRa<type>alt<LP>89792<k1P>yaTAkrama
-<L>89832.1<pc>5-121-c<k1>yaTAtattvam<k2>yaTAtattva°, yaTAtattvam<type>alt<LP>89832<k1P>yaTAtattva
+<L>89792.1<pc>5-121-b<k1>yaTAkramam<k2>yaTAkrama˚, yaTAkramam, yaTAkrameRa<type>alt<LP>89792<k1P>yaTAkrama
+<L>89792.2<pc>5-121-b<k1>yaTAkrameRa<k2>yaTAkrama˚, yaTAkramam, yaTAkrameRa<type>alt<LP>89792<k1P>yaTAkrama
+<L>89832.1<pc>5-121-c<k1>yaTAtattvam<k2>yaTAtattva˚, yaTAtattvam<type>alt<LP>89832<k1P>yaTAtattva
 <L>89834.1<pc>5-121-c<k1>yaTAtaTyena<k2>yaTAtaTyam, yaTAtaTyena<type>alt<LP>89834<k1P>yaTAtaTyam
-<L>89838.1<pc>5-121-c<k1>yaTAdarSanam<k2>yaTAdarSana°, yaTAdarSanam<type>alt<LP>89838<k1P>yaTAdarSana
+<L>89838.1<pc>5-121-c<k1>yaTAdarSanam<k2>yaTAdarSana˚, yaTAdarSanam<type>alt<LP>89838<k1P>yaTAdarSana
 <L>89840.1<pc>5-121-c<k1>yaTAdiSam<k2>yaTAdik, yaTAdiSam<type>alt<LP>89840<k1P>yaTAdik
-<L>89850.1<pc>5-122-a<k1>yaTADikAram<k2>yaTADikAra°, yaTADikAram<type>alt<LP>89850<k1P>yaTADikAra
+<L>89850.1<pc>5-122-a<k1>yaTADikAram<k2>yaTADikAra˚, yaTADikAram<type>alt<LP>89850<k1P>yaTADikAra
 <L>89852.1<pc>5-122-a<k1>yaTADItam<k2>yaTADIta, yaTADItam<type>alt<LP>89852<k1P>yaTADIta
-<L>89864.1<pc>5-122-a<k1>yaTAnupUrvya<k2>yaTAnupUrvam, yaTAnupUrvya°, yaTAnupUrvyA<type>alt<LP>89864<k1P>yaTAnupUrvam
-<L>89864.2<pc>5-122-a<k1>yaTAnupUrvyA<k2>yaTAnupUrvam, yaTAnupUrvya°, yaTAnupUrvyA<type>alt<LP>89864<k1P>yaTAnupUrvam
+<L>89864.1<pc>5-122-a<k1>yaTAnupUrvya<k2>yaTAnupUrvam, yaTAnupUrvya˚, yaTAnupUrvyA<type>alt<LP>89864<k1P>yaTAnupUrvam
+<L>89864.2<pc>5-122-a<k1>yaTAnupUrvyA<k2>yaTAnupUrvam, yaTAnupUrvya˚, yaTAnupUrvyA<type>alt<LP>89864<k1P>yaTAnupUrvam
 <L>89909.1<pc>5-122-c<k1>yaTAprARena<k2>yaTAprARam, yaTAprARena<type>alt<LP>89909<k1P>yaTAprARam
 <L>89954.1<pc>5-123-b<k1>yaTAmnAyam<k2>yaTAmnAtam, yaTAmnAyam<type>alt<LP>89954<k1P>yaTAmnAtam
 <L>89960.1<pc>5-123-b<k1>yaTAyuktitas<k2>yaTAyukti, yaTAyuktitas<type>alt<LP>89960<k1P>yaTAyukti
-<L>89991.1<pc>5-123-c<k1>yaTAlABam<k2>yaTAlABa°, yaTAlABam<type>alt<LP>89991<k1P>yaTAlABa
+<L>89991.1<pc>5-123-c<k1>yaTAlABam<k2>yaTAlABa˚, yaTAlABam<type>alt<LP>89991<k1P>yaTAlABa
 <L>90018.1<pc>5-124-a<k1>yaTAvittAnusAreRa<k2>yaTAvittAnusAram, yaTAvittAnusAreRa<type>alt<LP>90018<k1P>yaTAvittAnusAram
 <L>90021.1<pc>5-124-a<k1>yaTAviDAnEna<k2>yaTAviDAnam, yaTAviDAnEna<type>alt<LP>90021<k1P>yaTAviDAnam
-<L>90025.1<pc>5-124-a<k1>yaTAviBavatas<k2>yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
-<L>90025.2<pc>5-124-a<k1>aTAviBavatas<k2>yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
-<L>90025.3<pc>5-124-a<k1>yaTAviBavam<k2>yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
-<L>90025.4<pc>5-124-a<k1>yaTAviBavamAnena<k2>yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
-<L>90025.5<pc>5-124-a<k1>yaTAviBavavistaram<k2>yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
-<L>90025.6<pc>5-124-a<k1>yaTAviBavavistarEs<k2>yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
-<L>90025.7<pc>5-124-a<k1>yaTAviBavavistAram<k2>yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
-<L>90025.8<pc>5-124-a<k1>yaTAviBavasaMBavAt<k2>yaTAviBava°, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
-<L>90032.1<pc>5-124-b<k1>yaTAvfdDam<k2>yaTAvfdDa°, yaTAvfdDam<type>alt<LP>90032<k1P>yaTAvfdDa
+<L>90025.1<pc>5-124-a<k1>yaTAviBavatas<k2>yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
+<L>90025.2<pc>5-124-a<k1>aTAviBavatas<k2>yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
+<L>90025.3<pc>5-124-a<k1>yaTAviBavam<k2>yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
+<L>90025.4<pc>5-124-a<k1>yaTAviBavamAnena<k2>yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
+<L>90025.5<pc>5-124-a<k1>yaTAviBavavistaram<k2>yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
+<L>90025.6<pc>5-124-a<k1>yaTAviBavavistarEs<k2>yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
+<L>90025.7<pc>5-124-a<k1>yaTAviBavavistAram<k2>yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
+<L>90025.8<pc>5-124-a<k1>yaTAviBavasaMBavAt<k2>yaTAviBava˚, yaTAviBavatas, (aTAviBavatas), yaTAviBavam, yaTAviBavamAnena, yaTAviBavavistaram, yaTAviBavavistarEs, yaTAviBavavistAram, yaTAviBavasaMBavAt<type>alt<LP>90025<k1P>yaTAviBava
+<L>90032.1<pc>5-124-b<k1>yaTAvfdDam<k2>yaTAvfdDa˚, yaTAvfdDam<type>alt<LP>90032<k1P>yaTAvfdDa
 <L>90039.1<pc>5-124-b<k1>yaTASaktyA<k2>yaTASakti, yaTASaktyA<type>alt<LP>90039<k1P>yaTASakti
-<L>90042.1<pc>5-124-b<k1>yaTASAstram<k2>yaTASAstra°, yaTASAstram<type>alt<LP>90042<k1P>yaTASAstra
+<L>90042.1<pc>5-124-b<k1>yaTASAstram<k2>yaTASAstra˚, yaTASAstram<type>alt<LP>90042<k1P>yaTASAstra
 <L>90058.1<pc>5-124-c<k1>yaTAsaMKyena<k2>yaTAsaMKyam, yaTAsaMKyena<type>alt<LP>90058<k1P>yaTAsaMKyam
 <L>90078.1<pc>5-125-a<k1>yaTAsaMBAvita<k2>yaTAsaMBavin, yaTAsaMBAvita<type>alt<LP>90078<k1P>yaTAsaMBavin
-<L>90084.1<pc>5-125-a<k1>yaTAsuKam<k2>yaTAsuKa°, yaTAsuKam<type>alt<LP>90084<k1P>yaTAsuKa
-<L>90098.1<pc>5-125-a<k1>yaTAsTUlam<k2>yaTAsTUla°, yaTAsTUlam<type>alt<LP>90098<k1P>yaTAsTUla
-<L>90103.1<pc>5-125-b<k1>yaTAsvEram<k2>yaTAsvEra°, yaTAsvEram<type>alt<LP>90103<k1P>yaTAsvEra
+<L>90084.1<pc>5-125-a<k1>yaTAsuKam<k2>yaTAsuKa˚, yaTAsuKam<type>alt<LP>90084<k1P>yaTAsuKa
+<L>90098.1<pc>5-125-a<k1>yaTAsTUlam<k2>yaTAsTUla˚, yaTAsTUlam<type>alt<LP>90098<k1P>yaTAsTUla
+<L>90103.1<pc>5-125-b<k1>yaTAsvEram<k2>yaTAsvEra˚, yaTAsvEram<type>alt<LP>90103<k1P>yaTAsvEra
 <L>90108.1<pc>5-125-b<k1>yaTEcCayA<k2>yaTecCakam, yaTEcCayA<type>alt<LP>90108<k1P>yaTecCakam
-<L>90144.1<pc>5-125-c<k1>yaTopayogam<k2>yaTopayoga°, yaTopayogam<type>alt<LP>90144<k1P>yaTopayoga
+<L>90144.1<pc>5-125-c<k1>yaTopayogam<k2>yaTopayoga˚, yaTopayogam<type>alt<LP>90144<k1P>yaTopayoga
 <L>90151.1<pc>5-126-a<k1>yaTOcityAt<k2>yaTOcityam, yaTOcityAt<type>alt<LP>90151<k1P>yaTOcityam
 <L>90166.1<pc>5-126-b<k1>yadI<k2>ya/di, ya/dI<type>alt<LP>90166<k1P>yadi
 <L>90214.1<pc>5-127-b<k1>yantraputrikA<k2>yantraputraka, yantraputrikA<type>alt<LP>90214<k1P>yantraputraka
@@ -6474,7 +6474,7 @@
 <L>90846.2<pc>5-140-a<k1>yAminIpati<k2>yAminIdayita, yAminInATa, yAminIpati<type>alt<LP>90846<k1P>yAminIdayita
 <L>90848.1<pc>5-140-a<k1>yAminIramaRa<k2>yAminIpriyatama, yAminIramaRa<type>alt<LP>90848<k1P>yAminIpriyatama
 <L>90855.1<pc>5-140-a<k1>yAmundAyanIya<k2>*yAmundAyanika, *yAmundAyanIya<type>alt<LP>90855<k1P>yAmundAyanika
-<L>90892.1<pc>5-140-c<k1>yAvajjIvam<k2>yAvajjIva°, yAvajjI/vam<type>alt<LP>90892<k1P>yAvajjIva
+<L>90892.1<pc>5-140-c<k1>yAvajjIvam<k2>yAvajjIva˚, yAvajjI/vam<type>alt<LP>90892<k1P>yAvajjIva
 <L>90913.1<pc>5-140-c<k1>yAvadantAya<k2>yAvadantam, yAvadantAya<type>alt<LP>90913<k1P>yAvadantam
 <L>90977.1<pc>5-141-c<k1>yAskIya<k2>*yAskAyanIya, *yAskIya<type>alt<LP>90977<k1P>yAskAyanIya
 <L>90991.1<pc>5-142-c<k1>yuktakft<k2>yuktakArin, yuktakft<type>alt<LP>90991<k1P>yuktakArin
@@ -7124,9 +7124,9 @@
 <L>99581.1<pc>6-048-a<k1>vastivyApad<k2>vastiruj, vastivyApad<type>alt<LP>99581<k1P>vastiruj
 <L>99657.1<pc>6-048-c<k1>vasnia<k2>(vasnya), va/snia<type>alt<LP>99657<k1P>vasnya
 <L>99670.1<pc>6-049-a<k1>vasvOkasArA<k2>vasvokasArA, vasvOkasArA<type>alt<LP>99670<k1P>vasvokasArA
-<L>99672.1<pc>6-050-b<k1>vAh<k2>2. °vah, (vAh, uh, Uh)<type>alt<LP>99672<k1P>vah
-<L>99672.2<pc>6-050-b<k1>uh<k2>2. °vah, (vAh, uh, Uh)<type>alt<LP>99672<k1P>vah
-<L>99672.3<pc>6-050-b<k1>Uh<k2>2. °vah, (vAh, uh, Uh)<type>alt<LP>99672<k1P>vah
+<L>99672.1<pc>6-050-b<k1>vAh<k2>2. ˚vah, (vAh, uh, Uh)<type>alt<LP>99672<k1P>vah
+<L>99672.2<pc>6-050-b<k1>uh<k2>2. ˚vah, (vAh, uh, Uh)<type>alt<LP>99672<k1P>vah
+<L>99672.3<pc>6-050-b<k1>Uh<k2>2. ˚vah, (vAh, uh, Uh)<type>alt<LP>99672<k1P>vah
 <L>99692.1<pc>6-050-c<k1>vahitraka<k2>vahitra, *vahitraka<type>alt<LP>99692<k1P>vahitra
 <L>99698.1<pc>6-050-c<k1>bahedaka<k2>vahedaka, (bahedaka)<type>alt<LP>99698<k1P>vahedaka
 <L>99782.1<pc>6-052-b<k1>vAkini<k2>*vAkinakAyani, *vAkini<type>alt<LP>99782<k1P>vAkinakAyani
@@ -7209,7 +7209,7 @@
 <L>100830.1<pc>6-066-b<k1>vAyia<k2>(vAyya), vAyia/<type>alt<LP>100830<k1P>vAyya
 <L>100855.1<pc>6-066-c<k1>vAraRavallaBA<k2>*vAraRabusA, *vAraRavallaBA<type>alt<LP>100855<k1P>vAraRabusA
 <L>100872.1<pc>6-066-c<k1>vArapASya<k2>vArapASi, vArapASya<type>alt<LP>100872<k1P>vArapASi
-<L>100874.1<pc>6-067-a<k1>vArabfzA<k2>*vArabuzA, °vArabfzA<type>alt<LP>100874<k1P>vArabuzA
+<L>100874.1<pc>6-067-a<k1>vArabfzA<k2>*vArabuzA, ˚vArabfzA<type>alt<LP>100874<k1P>vArabuzA
 <L>100895.1<pc>6-067-a<k1>vAravAsya<k2>vAravAsi, vAravAsya<type>alt<LP>100895<k1P>vAravAsi
 <L>100896.1<pc>6-067-a<k1>vArasundarI<k2>vAravilAsinI, *vArasundarI<type>alt<LP>100896<k1P>vAravilAsinI
 <L>100898.1<pc>6-067-a<k1>vArANganA<k2>*vArastrI, vArANganA<type>alt<LP>100898<k1P>vArastrI
@@ -7258,7 +7258,7 @@
 <L>101485.1<pc>6-074-c<k1>vAstusanatkumAra<k2>vAstusaMgraha, vAstusanatkumAra<type>alt<LP>101485<k1P>vAstusaMgraha
 <L>101490.1<pc>6-074-c<k1>vAstUpaSamana<k2>vAstUpaSama, vAstUpaSamana<type>alt<LP>101490<k1P>vAstUpaSama
 <L>101494.1<pc>6-074-c<k1>vAstozpatya<k2>vAstozpatI/ya, vAstozpatya<type>alt<LP>101494<k1P>vAstozpatIya
-<L>101504.1<pc>6-075-a<k1>vah<k2>2. °vAh, (vah)<type>alt<LP>101504<k1P>vAh
+<L>101504.1<pc>6-075-a<k1>vah<k2>2. ˚vAh, (vah)<type>alt<LP>101504<k1P>vAh
 <L>101514.1<pc>6-075-a<k1>vAhanatva<k2>vAhanatA, vAhanatva<type>alt<LP>101514<k1P>vAhanatA
 <L>101552.1<pc>6-075-c<k1>vAhyAlIBU<k2>vAhyAlI, vAhyAlIBU<type>alt<LP>101552<k1P>vAhyAlI
 <L>101580.1<pc>6-076-a<k1>viMSatISin<k2>viMSatISa, viMSatISin, viMSatyaDipati<type>alt<LP>101580<k1P>viMSatISa
@@ -7373,7 +7373,7 @@
 <L>103471.1<pc>6-104-c<k1>viprarAjia<k2>viprarAjya, viprarA/jia<type>alt<LP>103471<k1P>viprarAjya
 <L>103510.1<pc>6-105-a<k1>vipriyakArin<k2>vipriyakara, vipriyakArin, vipriyaMkara<type>alt<LP>103510<k1P>vipriyakara
 <L>103510.2<pc>6-105-a<k1>vipriyaMkara<k2>vipriyakara, vipriyakArin, vipriyaMkara<type>alt<LP>103510<k1P>vipriyakara
-<L>103528.1<pc>6-105-b<k1>viplAvin<k2>°viplAvaka, °viplAvin<type>alt<LP>103528<k1P>viplAvaka
+<L>103528.1<pc>6-105-b<k1>viplAvin<k2>˚viplAvaka, ˚viplAvin<type>alt<LP>103528<k1P>viplAvaka
 <L>103571.1<pc>6-105-c<k1>vibuDADipati<k2>vibuDADipa, vibuDADipati<type>alt<LP>103571<k1P>vibuDADipa
 <L>103642.1<pc>6-107-a<k1>viBAvarISa<k2>viBAvarIkAnta, viBAvarISa<type>alt<LP>103642<k1P>viBAvarIkAnta
 <L>103657.1<pc>6-107-b<k1>viBItaka<k2>viBIta, viBI/taka, viBI/daka<type>alt<LP>103657<k1P>viBIta
@@ -7385,7 +7385,7 @@
 <L>103768.1<pc>6-109-a<k1>vimalatva<k2>vimalatA, vimalatva<type>alt<LP>103768<k1P>vimalatA
 <L>103812.1<pc>6-109-c<k1>vimalodA<k2>vimalodakA, vimalodA<type>alt<LP>103812<k1P>vimalodakA
 <L>103831.1<pc>6-109-c<k1>vimAnanA<k2>vimAnana, (vimAnanA)<type>alt<LP>103831<k1P>vimAnana
-<L>103853.1<pc>6-110-a<k1>vimuktakaRWam<k2>vimuktakaRWa°, vimuktakaRWam<type>alt<LP>103853<k1P>vimuktakaRWa
+<L>103853.1<pc>6-110-a<k1>vimuktakaRWam<k2>vimuktakaRWa˚, vimuktakaRWam<type>alt<LP>103853<k1P>vimuktakaRWa
 <L>103924.1<pc>6-111-a<k1>viyanmaDyahaMsa<k2>*viyanmaRi, viyanmaDyahaMsa<type>alt<LP>103924<k1P>viyanmaRi
 <L>103954.1<pc>6-111-c<k1>viyonI<k2>1. viyoni, viyonI<type>alt<LP>103954<k1P>viyoni
 <L>103980.1<pc>6-112-a<k1>viraYcana<k2>viraYca, *viraYcana, viraYci, viraYcya<type>alt<LP>103980<k1P>viraYca
@@ -7578,7 +7578,7 @@
 <L>106418.1<pc>6-149-a<k1>vfttADyanasaMpatti<k2>vfttADyayanardDi, vfttADyanasaMpatti<type>alt<LP>106418<k1P>vfttADyayanardDi
 <L>106459.1<pc>6-150-a<k1>vftratUria<k2>vftratU/rya, vftratU/ria<type>alt<LP>106459<k1P>vftratUrya
 <L>106462.1<pc>6-150-a<k1>vftranASana<k2>*vftradviz, vftranASana<type>alt<LP>106462<k1P>vftradviz
-<L>106467.1<pc>6-150-a<k1>vftravErin<k2>vftravidviz, °vftravErin<type>alt<LP>106467<k1P>vftravidviz
+<L>106467.1<pc>6-150-a<k1>vftravErin<k2>vftravidviz, ˚vftravErin<type>alt<LP>106467<k1P>vftravidviz
 <L>106471.1<pc>6-150-a<k1>vftrahaTa<k2>vftraha/tya, vftra/haTa<type>alt<LP>106471<k1P>vftrahatya
 <L>106500.1<pc>6-150-b<k1>vfTAzAh<k2>vfTAza/h, (vfTAzA/h)<type>alt<LP>106500<k1P>vfTAzah
 <L>106535.1<pc>6-150-c<k1>vfdDadAraka<k2>*vfdDadAra, *vfdDadAraka, *vfdDadAru<type>alt<LP>106535<k1P>vfdDadAra
@@ -8292,7 +8292,7 @@
 <L>114556.1<pc>6-264-b<k1>SOnahotri<k2>SOnahotra, SOnahotri<type>alt<LP>114556<k1P>SOnahotra
 <L>114571.1<pc>6-264-b<k1>SOradevia<k2>(SOradevya), SOradevia/<type>alt<LP>114571<k1P>SOradevya
 <L>114622.1<pc>6-265-a<k1>Scyut<k2>1. Scut, Scyut<type>alt<LP>114622<k1P>Scut
-<L>114623.1<pc>6-265-a<k1>Scyut<k2>2. °Scut, °Scyut<type>alt<LP>114623<k1P>Scut
+<L>114623.1<pc>6-265-a<k1>Scyut<k2>2. ˚Scut, ˚Scyut<type>alt<LP>114623<k1P>Scut
 <L>114640.1<pc>6-265-b<k1>SmaSAnakAlI<k2>SmaSAnakAlikA, SmaSAnakAlI<type>alt<LP>114640<k1P>SmaSAnakAlikA
 <L>114679.1<pc>6-266-a<k1>SyAmagranTi<k2>*SyAmakARqA, *SyAmagranTi<type>alt<LP>114679<k1P>SyAmakARqA
 <L>114682.1<pc>6-266-a<k1>SyAmatva<k2>SyAmatA, SyAmatva<type>alt<LP>114682<k1P>SyAmatA
@@ -8416,7 +8416,7 @@
 <L>115759.1<pc>6-283-b<k1>SvaBakzya<k2>SvaBakza, SvaBakzya<type>alt<LP>115759<k1P>SvaBakza
 <L>115796.1<pc>6-283-c<k1>SvaSrUSvaSurAs<k2>*SvaSrUSvaSurO, SvaSrUSvaSurAs<type>alt<LP>115796<k1P>SvaSrUSvaSurO
 <L>115800.1<pc>6-284-b<k1>Suas<k2>2. Sva/s, Sua/s<type>alt<LP>115800<k1P>Svas
-<L>115813.1<pc>6-284-c<k1>Svasuna<k2>°Svasuta, *Svasuna<type>alt<LP>115813<k1P>Svasuta
+<L>115813.1<pc>6-284-c<k1>Svasuna<k2>˚Svasuta, *Svasuna<type>alt<LP>115813<k1P>Svasuta
 <L>115822.1<pc>6-284-c<k1>Svi<k2>SvA, (Svi)<type>alt<LP>115822<k1P>SvA
 <L>115831.1<pc>6-284-c<k1>SvAtria<k2>(SvAtrya), SvA/tria<type>alt<LP>115831<k1P>SvAtrya
 <L>115857.1<pc>6-285-a<k1>SvAvillomApaha<k2>SvAvillomApanayana, SvAvillomApaha<type>alt<LP>115857<k1P>SvAvillomApanayana
@@ -8426,8 +8426,8 @@
 <L>115887.1<pc>6-285-b<k1>Svitria<k2>(Svitrya), Svi/tria<type>alt<LP>115887<k1P>Svitrya
 <L>115911.1<pc>6-286-a<k1>Svetakolaka<k2>*Svetakola, *Svetakolaka<type>alt<LP>115911<k1P>Svetakola
 <L>116075.1<pc>6-287-c<k1>Svetia<k2>(Svetya), Svetia/<type>alt<LP>116075<k1P>Svetya
-<L>116107.1<pc>6-288-a<k1>zawkArakapraticCandasa<k2>zawkArakapraticCandaka, zawkArakapraticCandasa, °zawkArakavivecana<type>alt<LP>116107<k1P>zawkArakapraticCandaka
-<L>116107.2<pc>6-288-a<k1>zawkArakavivecana<k2>zawkArakapraticCandaka, zawkArakapraticCandasa, °zawkArakavivecana<type>alt<LP>116107<k1P>zawkArakapraticCandaka
+<L>116107.1<pc>6-288-a<k1>zawkArakapraticCandasa<k2>zawkArakapraticCandaka, zawkArakapraticCandasa, ˚zawkArakavivecana<type>alt<LP>116107<k1P>zawkArakapraticCandaka
+<L>116107.2<pc>6-288-a<k1>zawkArakavivecana<k2>zawkArakapraticCandaka, zawkArakapraticCandasa, ˚zawkArakavivecana<type>alt<LP>116107<k1P>zawkArakapraticCandaka
 <L>116115.1<pc>6-288-a<k1>zawcatvAriMSaka<k2>zawcatvAriMSa, zawcatvAriMSaka<type>alt<LP>116115<k1P>zawcatvAriMSa
 <L>116119.1<pc>6-288-a<k1>zawcitika<k2>zawciti, za/wcitika<type>alt<LP>116119<k1P>zawciti
 <L>116150.1<pc>6-288-b<k1>zawpaYcASatikA<k2>zawpaYcASatikahorA, zawpaYcASatikA, zawpaYcASadDorAvftti<type>alt<LP>116150<k1P>zawpaYcASatikahorA
@@ -8460,7 +8460,7 @@
 <L>116470.1<pc>6-292-b<k1>zoqaSAyuDastuti<k2>zoqaSAditantra, zoqaSAyuDastuti<type>alt<LP>116470<k1P>zoqaSAditantra
 <L>116479.1<pc>6-292-b<k1>zoqaSimant<k2>zoqaSi/mant, zoqaSima/nt<type>alt<LP>116479<k1P>zoqaSimant
 <L>116488.1<pc>6-292-c<k1>zWIv<k2>zWiv, zWIv<type>alt<LP>116488<k1P>zWiv
-<L>116491.1<pc>6-292-c<k1>zWIvin<k2>°zWIvi, °zWIvin<type>alt<LP>116491<k1P>zWIvi
+<L>116491.1<pc>6-292-c<k1>zWIvin<k2>˚zWIvi, ˚zWIvin<type>alt<LP>116491<k1P>zWIvi
 <L>116494.1<pc>6-292-c<k1>zWyUta<k2>*zWevana, *zWyUta<type>alt<LP>116494<k1P>zWevana
 <L>116496.1<pc>6-292-c<k1>zvask<k2>*zvazk, *zvask<type>alt<LP>116496<k1P>zvazk
 <L>116532.1<pc>7-002-a<k1>saMyAjana<k2>saMyAja, saMyAjana<type>alt<LP>116532<k1P>saMyAja
@@ -8482,7 +8482,7 @@
 <L>116997.3<pc>7-009-b<k1>saMskAraBAskara<k2>saMskArapadDati, saMskaraprakASa, saMskAraprayoga, saMskAraBAskara<type>alt<LP>116997<k1P>saMskArapadDati
 <L>116999.1<pc>7-009-b<k1>saMskAraratna<k2>saMskAramayUKa, saMskAraratna<type>alt<LP>116999<k1P>saMskAramayUKa
 <L>117011.1<pc>7-009-c<k1>saMskftavAkyaratnAvalI<k2>saMskftamAlA, saMskftavAkyaratnAvalI<type>alt<LP>117011<k1P>saMskftamAlA
-<L>117067.1<pc>7-010-c<k1>saMspfS<k2>°saMsparSin, °saMspfS<type>alt<LP>117067<k1P>saMsparSin
+<L>117067.1<pc>7-010-c<k1>saMspfS<k2>˚saMsparSin, ˚saMspfS<type>alt<LP>117067<k1P>saMsparSin
 <L>117091.1<pc>7-011-a<k1>saMsrAvia<k2>(saMsrAvya), saMsrAvi/a<type>alt<LP>117091<k1P>saMsrAvya
 <L>117144.1<pc>7-012-a<k1>saMhitABAzya<k2>saMhitApradIpa, saMhitABAzya, saMhitAratnAkara, saMhitArRava, saMhitAvftti, saMhitASamAnalakzaRa, saMhitAsUtra, saMhitAskanDa<type>alt<LP>117144<k1P>saMhitApradIpa
 <L>117144.2<pc>7-012-a<k1>saMhitAratnAkara<k2>saMhitApradIpa, saMhitABAzya, saMhitAratnAkara, saMhitArRava, saMhitAvftti, saMhitASamAnalakzaRa, saMhitAsUtra, saMhitAskanDa<type>alt<LP>117144<k1P>saMhitApradIpa
@@ -8550,7 +8550,7 @@
 <L>117644.3<pc>7-020-a<k1>saMgraharAmAyaRavivaraRa<k2>saMgrahaRIratna, saMgrahaprakASikA, saMgraharAmAyaRa, saMgraharAmAyaRavivaraRa<type>alt<LP>117644<k1P>saMgrahaRIratna
 <L>117647.1<pc>7-020-a<k1>saMgrahasUtra<k2>saMgrahavEdyanATIya, *saMgrahasUtra<type>alt<LP>117647<k1P>saMgrahavEdyanATIya
 <L>117716.1<pc>7-021-a<k1>saMGAwI<k2>saMGAwi, saMGAwI<type>alt<LP>117716<k1P>saMGAwi
-<L>117740.1<pc>7-021-b<k1>sAc<k2>2. °sac, (°sAc)<type>alt<LP>117740<k1P>sac
+<L>117740.1<pc>7-021-b<k1>sAc<k2>2. ˚sac, (˚sAc)<type>alt<LP>117740<k1P>sac
 <L>117747.1<pc>7-021-c<k1>sacakzus<k2>sacakzuza, sa/cakzus<type>alt<LP>117747<k1P>sacakzuza
 <L>117749.1<pc>7-021-c<k1>sacaTia<k2>(sacaTya), sacaTi/a<type>alt<LP>117749<k1P>sacaTya
 <L>117790.1<pc>7-022-a<k1>saccaritrarakzA<k2>saccaritraparitrARa, saccaritrarakzA, saccaritrasuDAniDi<type>alt<LP>117790<k1P>saccaritraparitrARa
@@ -8635,11 +8635,11 @@
 <L>119245.3<pc>7-046-a<k1>samaYjarI<k2>saMnyAsaDarmasaMgraha, saMnyAsanirRaya, saMnyAsapa, samaYjarI, saMnyAsapadDati<type>alt<LP>119245<k1P>saMnyAsaDarmasaMgraha
 <L>119245.4<pc>7-046-a<k1>saMnyAsapadDati<k2>saMnyAsaDarmasaMgraha, saMnyAsanirRaya, saMnyAsapa, samaYjarI, saMnyAsapadDati<type>alt<LP>119245<k1P>saMnyAsaDarmasaMgraha
 <L>119247.1<pc>7-046-a<k1>saMnyAsAhnika<k2>saMnyAsaviDi, saMnyAsAhnika<type>alt<LP>119247<k1P>saMnyAsaviDi
-<L>119267.1<pc>7-046-b<k1>sAp<k2>2. °sap, (°sAp)<type>alt<LP>119267<k1P>sap
+<L>119267.1<pc>7-046-b<k1>sAp<k2>2. ˚sap, (˚sAp)<type>alt<LP>119267<k1P>sap
 <L>119273.1<pc>7-046-b<k1>sapakzatva<k2>sapakzatA, sapakzatva<type>alt<LP>119273<k1P>sapakzatA
 <L>119281.1<pc>7-046-b<k1>sapttrAkfti<k2>*sapattrAkaraRa, sapttrAkfti<type>alt<LP>119281<k1P>sapattrAkaraRa
 <L>119322.1<pc>7-047-a<k1>saparia<k2>saparya, sapari/a<type>alt<LP>119322<k1P>saparya
-<L>119433.1<pc>7-048-b<k1>saptadivasa<k2>saptadina°, saptadivasa°<type>alt<LP>119433<k1P>saptadina
+<L>119433.1<pc>7-048-b<k1>saptadivasa<k2>saptadina˚, saptadivasa˚<type>alt<LP>119433<k1P>saptadina
 <L>119458.1<pc>7-048-c<k1>saptapadArTanirUpaRa<k2>saptapadArTacandrikA, saptapadArTanirUpaRa, saptapadArTI, saptapadArTIwIkA, saptapadArTIvyAKyA<type>alt<LP>119458<k1P>saptapadArTacandrikA
 <L>119458.2<pc>7-048-c<k1>saptapadArTI<k2>saptapadArTacandrikA, saptapadArTanirUpaRa, saptapadArTI, saptapadArTIwIkA, saptapadArTIvyAKyA<type>alt<LP>119458<k1P>saptapadArTacandrikA
 <L>119458.3<pc>7-048-c<k1>saptapadArTIwIkA<k2>saptapadArTacandrikA, saptapadArTanirUpaRa, saptapadArTI, saptapadArTIwIkA, saptapadArTIvyAKyA<type>alt<LP>119458<k1P>saptapadArTacandrikA
@@ -8653,7 +8653,7 @@
 <L>119586.1<pc>7-050-a<k1>saptahOtraprayoga<k2>saptahOtra, saptahOtraprayoga<type>alt<LP>119586<k1P>saptahOtra
 <L>119623.1<pc>7-050-c<k1>saptiA<k2>(saptya), sa/ptiA<type>alt<LP>119623<k1P>saptya
 <L>119648.1<pc>7-050-c<k1>sapraTas<k2>sapra/Tas, sa/praTas<type>alt<LP>119648<k1P>sapraTas
-<L>119786.1<pc>7-053-a<k1>samakAlam<k2>samakAla°, samakAlam<type>alt<LP>119786<k1P>samakAla
+<L>119786.1<pc>7-053-a<k1>samakAlam<k2>samakAla˚, samakAlam<type>alt<LP>119786<k1P>samakAla
 <L>119809.1<pc>7-053-b<k1>samacaturasra<k2>samacaturaSra, samacaturasra<type>alt<LP>119809<k1P>samacaturaSra
 <L>119810.1<pc>7-053-b<k1>samacaturasrI<k2>samacaturaSrI, samacaturasrI<type>alt<LP>119810<k1P>samacaturaSrI
 <L>119921.1<pc>7-054-c<k1>samania<k2>(samanya), samani/a<type>alt<LP>119921<k1P>samanya
@@ -8746,7 +8746,7 @@
 <L>121622.1<pc>7-083-c<k1>sarpaSIrzin<k2>sarpaSIrzan, sarpaSIrzin<type>alt<LP>121622<k1P>sarpaSIrzan
 <L>121661.1<pc>7-084-a<k1>sarpizwva<k2>*sarpizwA, sarpizwva<type>alt<LP>121661<k1P>sarpizwA
 <L>121662.1<pc>7-084-a<k1>sarpizvant<k2>sa/rpizmant, sarpi/zvant<type>alt<LP>121662<k1P>sarpizmant
-<L>121700.1<pc>7-084-c<k1>sarvakAlam<k2>sarvakAla°, sarvakAlam<type>alt<LP>121700<k1P>sarvakAla
+<L>121700.1<pc>7-084-c<k1>sarvakAlam<k2>sarvakAla˚, sarvakAlam<type>alt<LP>121700<k1P>sarvakAla
 <L>121716.1<pc>7-084-c<k1>sarvagaRa<k2>2. sa/rvagaRa, sarva/gaRa<type>alt<LP>121716<k1P>sarvagaRa
 <L>121737.1<pc>7-085-a<k1>sarvagranTika<k2>*sarvagranTi, sarvagranTika<type>alt<LP>121737<k1P>sarvagranTi
 <L>121773.1<pc>7-085-c<k1>sarvajYAtmamuni<k2>sarvajYAtmagiri, sarvajYAtmamuni<type>alt<LP>121773<k1P>sarvajYAtmagiri
@@ -8761,7 +8761,7 @@
 <L>122020.1<pc>7-088-c<k1>sarvarUpa<k2>sa/rvarUpa, sarva/rUpa<type>alt<LP>122020<k1P>sarvarUpa
 <L>122035.1<pc>7-088-c<k1>sarvaliNgasADanI<k2>sarvaliNgasaMnyAsanirRaya, sarvaliNgasADanI<type>alt<LP>122035<k1P>sarvaliNgasaMnyAsanirRaya
 <L>122181.1<pc>7-090-b<k1>sarvasidDAntasaMgraha<k2>sarvasidDAnta, sarvasidDAntasaMgraha<type>alt<LP>122181<k1P>sarvasidDAnta
-<L>122227.1<pc>7-091-a<k1>sarvAkAram<k2>sarvAkAra°, sarvAkAram<type>alt<LP>122227<k1P>sarvAkAra
+<L>122227.1<pc>7-091-a<k1>sarvAkAram<k2>sarvAkAra˚, sarvAkAram<type>alt<LP>122227<k1P>sarvAkAra
 <L>122249.1<pc>7-091-b<k1>sarvAtman<k2>2. sa/rvAtman, sarvA/tman<type>alt<LP>122249<k1P>sarvAtman
 <L>122264.1<pc>7-091-b<k1>sarvAnukramaRikA<k2>sarvAnukrama, sarvAnukramaRikA, sarvAnukramaRI<type>alt<LP>122264<k1P>sarvAnukrama
 <L>122264.2<pc>7-091-b<k1>sarvAnukramaRI<k2>sarvAnukrama, sarvAnukramaRikA, sarvAnukramaRI<type>alt<LP>122264<k1P>sarvAnukrama
@@ -8781,7 +8781,7 @@
 <L>122631.1<pc>7-096-a<k1>savyezWar<k2>savyezWa, savyezWar<type>alt<LP>122631<k1P>savyezWa
 <L>122695.1<pc>7-097-a<k1>sasattrin<k2>sasattri/n, sa/sattrin<type>alt<LP>122695<k1P>sasattrin
 <L>122793.1<pc>7-098-a<k1>sasyasaMvaraRa<k2>*sasyasaMvara, sasyasaMvaraRa<type>alt<LP>122793<k1P>sasyasaMvara
-<L>122812.1<pc>7-099-a<k1>sAh<k2>2. °sah, (°sAh)<type>alt<LP>122812<k1P>sah
+<L>122812.1<pc>7-099-a<k1>sAh<k2>2. ˚sah, (˚sAh)<type>alt<LP>122812<k1P>sah
 <L>122827.1<pc>7-099-b<k1>sahakAritva<k2>sahakAritA, sahakAritva<type>alt<LP>122827<k1P>sahakAritA
 <L>122841.1<pc>7-099-b<k1>sahacaraBinnatA<k2>sahacaraBinna, sahacaraBinnatA, sahacaraBinnatva<type>alt<LP>122841<k1P>sahacaraBinna
 <L>122841.2<pc>7-099-b<k1>sahacaraBinnatva<k2>sahacaraBinna, sahacaraBinnatA, sahacaraBinnatva<type>alt<LP>122841<k1P>sahacaraBinna
@@ -8860,7 +8860,7 @@
 <L>123997.1<pc>7-116-a<k1>sApta<k2>1. sA/pta, sApta/<type>alt<LP>123997<k1P>sApta
 <L>124005.1<pc>7-116-a<k1>sAptapOruza<k2>sAptapuruza, sAptapOruza<type>alt<LP>124005<k1P>sAptapuruza
 <L>124012.1<pc>7-116-a<k1>sApia<k2>(sApya), sApia/<type>alt<LP>124012<k1P>sApya
-<L>124024.1<pc>7-116-a<k1>sABijYAnam<k2>sABijYAna°, sABijYAnam<type>alt<LP>124024<k1P>sABijYAna
+<L>124024.1<pc>7-116-a<k1>sABijYAnam<k2>sABijYAna˚, sABijYAnam<type>alt<LP>124024<k1P>sABijYAna
 <L>124037.1<pc>7-116-b<k1>sABravati<k2>sABramatI, sABravati<type>alt<LP>124037<k1P>sABramatI
 <L>124046.1<pc>7-116-b<k1>sAmagA<k2>sAmaga/, sAmagA/<type>alt<LP>124046<k1P>sAmaga
 <L>124078.1<pc>7-117-a<k1>sAmania<k2>2. sAmanya, sAmani/a<type>alt<LP>124078<k1P>sAmanya
@@ -9076,7 +9076,7 @@
 <L>126620.1<pc>7-151-a<k1>sunizaRRaka<k2>sunizaRRa, sunizaRRaka<type>alt<LP>126620<k1P>sunizaRRa
 <L>126631.1<pc>7-151-a<k1>sunIti<k2>1. su/nIti, sunIti/<type>alt<LP>126631<k1P>sunIti
 <L>126632.1<pc>7-151-a<k1>sunIti<k2>2. su/nIti, sunIti/<type>alt<LP>126632<k1P>sunIti
-<L>126672.1<pc>7-151-c<k1>sundarikAhrada<k2>sundarikAtIrTa, °sundarikAhrada<type>alt<LP>126672<k1P>sundarikAtIrTa
+<L>126672.1<pc>7-151-c<k1>sundarikAhrada<k2>sundarikAtIrTa, ˚sundarikAhrada<type>alt<LP>126672<k1P>sundarikAtIrTa
 <L>126673.1<pc>7-151-c<k1>sundarItApinI<k2>sundarItApanI, sundarItApinI<type>alt<LP>126673<k1P>sundarItApanI
 <L>126704.1<pc>7-152-a<k1>supAd<k2>supad, (supAd)<type>alt<LP>126704<k1P>supad
 <L>126707.1<pc>7-152-a<k1>supadmapariSizwa<k2>supadmaDAtupAWa, supadmapariSizwa, supadmamakaranda<type>alt<LP>126707<k1P>supadmaDAtupAWa
@@ -9133,7 +9133,7 @@
 <L>128102.1<pc>7-169-b<k1>suvyUhA<k2>suvyUhamuKA, suvyUhA<type>alt<LP>128102<k1P>suvyUhamuKA
 <L>128116.1<pc>7-169-c<k1>suSamI<k2>suSa/mi, suSa/mI<type>alt<LP>128116<k1P>suSami
 <L>128142.1<pc>7-170-a<k1>suSiSapra<k2>suSipra/, suSiSa/pra<type>alt<LP>128142<k1P>suSipra
-<L>128148.1<pc>7-170-a<k1>suSIGram<k2>suSIGra°, suSIGram<type>alt<LP>128148<k1P>suSIGra
+<L>128148.1<pc>7-170-a<k1>suSIGram<k2>suSIGra˚, suSIGram<type>alt<LP>128148<k1P>suSIGra
 <L>128162.1<pc>7-170-a<k1>suSukvani<k2>suSu/kvan, suSukva/ni<type>alt<LP>128162<k1P>suSukvan
 <L>128171.1<pc>7-170-b<k1>suSeviA<k2>(suSevya), suSe/viA<type>alt<LP>128171<k1P>suSevya
 <L>128210.1<pc>7-170-c<k1>suzaRana<k2>suza/Ra, suzaRana/<type>alt<LP>128210<k1P>suzaRa
@@ -9291,7 +9291,7 @@
 <L>130744.1<pc>7-205-b<k1>strIrAja<k2>strIrAjya, (strIrAja)<type>alt<LP>130744<k1P>strIrAjya
 <L>130755.1<pc>7-205-c<k1>strIvaSya<k2>strIvaSa, strIvaSya<type>alt<LP>130755<k1P>strIvaSa
 <L>130763.1<pc>7-205-c<k1>strIvezaDArin<k2>strIvezaDAraka, strIvezaDArin<type>alt<LP>130763<k1P>strIvezaDAraka
-<L>130795.1<pc>7-206-a<k1>zWa<k2>°sTa, °zWa<type>alt<LP>130795<k1P>sTa
+<L>130795.1<pc>7-206-a<k1>zWa<k2>˚sTa, ˚zWa<type>alt<LP>130795<k1P>sTa
 <L>130829.1<pc>7-206-c<k1>sTalacara<k2>sTalaga, sTalacara<type>alt<LP>130829<k1P>sTalaga
 <L>130845.1<pc>7-206-c<k1>sTalavihaMgama<k2>sTalavihaMga, sTalavihaMgama<type>alt<LP>130845<k1P>sTalavihaMga
 <L>130846.1<pc>7-206-c<k1>sTalaSfNgAwaka<k2>*sTalaSfNgAwa, sTalaSfNgAwaka<type>alt<LP>130846<k1P>sTalaSfNgAwa
@@ -9537,7 +9537,7 @@
 <L>133189.1<pc>7-247-b<k1>suizu<k2>(svizu), suizu/<type>alt<LP>133189<k1P>svizu
 <L>133191.1<pc>7-247-b<k1>suizwa<k2>2. svi^zwa, su/izwa<type>alt<LP>133191<k1P>svizwa
 <L>133196.1<pc>7-247-b<k1>suizwi<k2>1. svi^zwi, su/izwi<type>alt<LP>133196<k1P>svizwi
-<L>133215.1<pc>7-247-c<k1>svecCam<k2>svecCa°, svecCam<type>alt<LP>133215<k1P>svecCa
+<L>133215.1<pc>7-247-c<k1>svecCam<k2>svecCa˚, svecCam<type>alt<LP>133215<k1P>svecCa
 <L>133242.1<pc>7-248-a<k1>svaetu<k2>(svEtu), sva/etu<type>alt<LP>133242<k1P>svEtu
 <L>133266.1<pc>7-248-b<k1>suojas<k2>(svojas), suo/jas<type>alt<LP>133266<k1P>svojas
 <L>133379.1<pc>7-249-c<k1>hajAji<k2>hajAja, hajAji<type>alt<LP>133379<k1P>hajAja
@@ -10313,7 +10313,7 @@
 <L>206764.1<pc>5-248-c<k1>AtAmra<k2>AtAyin, AtAmra<type>alt<LP>206764<k1P>AtAyin
 <L>206832.1<pc>5-249-c<k1>ikkawI<k2>*ikawI, *ikkawI<type>alt<LP>206832<k1P>ikawI
 <L>206836.1<pc>5-249-c<k1>indindira<k2>indindirA, *indindira<type>alt<LP>206836<k1P>indindirA
-<L>206886.1<pc>5-250-b<k1>udgrAhaRikA<k2>°udgrAhiRikA, udgrAhaRikA<type>alt<LP>206886<k1P>udgrAhiRikA
+<L>206886.1<pc>5-250-b<k1>udgrAhaRikA<k2>˚udgrAhiRikA, udgrAhaRikA<type>alt<LP>206886<k1P>udgrAhiRikA
 <L>206928.1<pc>5-250-c<k1>ulkApAta<k2>ulkapAta, ulkApAta<type>alt<LP>206928<k1P>ulkapAta
 <L>206934.1<pc>5-250-c<k1>uzRIzavijayaDAraRI<k2>*uzRIzavijaya, *uzRIzavijayaDAraRI<type>alt<LP>206934<k1P>uzRIzavijaya
 <L>206958.1<pc>5-251-a<k1>ekAdaSANgin<k2>ekAdaSANgavedin, ekAdaSANgin<type>alt<LP>206958<k1P>ekAdaSANgavedin
@@ -10828,8 +10828,8 @@
 <L>211394.1<pc>7-301-a<k1>anUha<k2>1. anUha, 2. anUha<type>alt<LP>211394<k1P>anUha
 <L>211404.1<pc>7-301-a<k1>anftakArin<k2>anftakAraka, anftakArin<type>alt<LP>211404<k1P>anftakAraka
 <L>211406.1<pc>7-301-a<k1>anftavAditA<k2>anftavAdin, anftavAditA<type>alt<LP>211406<k1P>anftavAdin
-<L>211416.1<pc>7-301-a<k1>anekasaMKya<k2>anekaSatasAhasra, anekasaMKya, anekAMSa°<type>alt<LP>211416<k1P>anekaSatasAhasra
-<L>211416.2<pc>7-301-a<k1>anekAMSa<k2>anekaSatasAhasra, anekasaMKya, anekAMSa°<type>alt<LP>211416<k1P>anekaSatasAhasra
+<L>211416.1<pc>7-301-a<k1>anekasaMKya<k2>anekaSatasAhasra, anekasaMKya, anekAMSa˚<type>alt<LP>211416<k1P>anekaSatasAhasra
+<L>211416.2<pc>7-301-a<k1>anekAMSa<k2>anekaSatasAhasra, anekasaMKya, anekAMSa˚<type>alt<LP>211416<k1P>anekaSatasAhasra
 <L>211420.1<pc>7-301-a<k1>anejant<k2>anekArTakEravakOmudI, anejant<type>alt<LP>211420<k1P>anekArTakEravakOmudI
 <L>211430.1<pc>7-301-a<k1>anEzaDa<k2>anEScArika, anEzaDa<type>alt<LP>211430<k1P>anEScArika
 <L>211436.1<pc>7-301-b<k1>anOpamya<k2>anOpama, anOpamya, anOpayika, anOpADika<type>alt<LP>211436<k1P>anOpama
@@ -10864,7 +10864,7 @@
 <L>211641.1<pc>7-302-c<k1>apatyasnehakfpAmaya<k2>apatyaduHKEkamaya, apatyasnehakfpAmaya<type>alt<LP>211641<k1P>apatyaduHKEkamaya
 <L>211645.1<pc>7-302-c<k1>apaTahara<k2>apaTadAyin, apaTahara<type>alt<LP>211645<k1P>apaTadAyin
 <L>211648.1<pc>7-302-c<k1>apadAntasTa<k2>apadAnta, apadAntasTa<type>alt<LP>211648<k1P>apadAnta
-<L>211672.1<pc>7-302-c<k1>apamAnaka<k2>apamada, °apamAnaka<type>alt<LP>211672<k1P>apamada
+<L>211672.1<pc>7-302-c<k1>apamAnaka<k2>apamada, ˚apamAnaka<type>alt<LP>211672<k1P>apamada
 <L>211678.1<pc>7-302-c<k1>apayoDaravAraRa<k2>apayoDarava, apayoDaravAraRa<type>alt<LP>211678<k1P>apayoDarava
 <L>211682.1<pc>7-302-d<k1>aparacAnarAwa<k2>aparakriyA, aparacAnarAwa<type>alt<LP>211682<k1P>aparakriyA
 <L>211684.1<pc>7-302-d<k1>aparavallaBa<k2>apararAtri, aparavallaBa<type>alt<LP>211684<k1P>apararAtri
@@ -10890,7 +10890,7 @@
 <L>211791.1<pc>7-303-b<k1>apaSakuna<k2>apavyAhAra, apaSakuna<type>alt<LP>211791<k1P>apavyAhAra
 <L>211796.1<pc>7-303-b<k1>apaScAttApin<k2>apaSu/tA, apaScAttApin<type>alt<LP>211796<k1P>apaSutA
 <L>211805.1<pc>7-303-b<k1>apasPur<k2>1. apaspfS, apasPu/r<type>alt<LP>211805<k1P>apaspfS
-<L>211813.1<pc>7-303-c<k1>apahelana<k2>°apahft, apahelana<type>alt<LP>211813<k1P>apahft
+<L>211813.1<pc>7-303-c<k1>apahelana<k2>˚apahft, apahelana<type>alt<LP>211813<k1P>apahft
 <L>211816.1<pc>7-303-c<k1>apAMsula<k2>apahvara, apAMsula<type>alt<LP>211816<k1P>apahvara
 <L>211836.1<pc>7-303-c<k1>apApada<k2>apApad, apApada<type>alt<LP>211836<k1P>apApad
 <L>211846.1<pc>7-303-c<k1>apAramitA<k2>apAraRIya, apAramitA<type>alt<LP>211846<k1P>apAraRIya
@@ -11010,7 +11010,7 @@
 <L>212788.1<pc>7-309-c<k1>arDamuRqita<k2>arDamuRqa, arDamuRqita<type>alt<LP>212788<k1P>arDamuRqa
 <L>212792.1<pc>7-309-c<k1>arDalANgalaka<k2>arDalakzya, arDalANgalaka<type>alt<LP>212792<k1P>arDalakzya
 <L>212806.1<pc>7-309-c<k1>arDasTa<k2>arDasamasyA, arDasTa<type>alt<LP>212806<k1P>arDasamasyA
-<L>212826.1<pc>7-309-d<k1>arhaka<k2>arSasin, °arhaka<type>alt<LP>212826<k1P>arSasin
+<L>212826.1<pc>7-309-d<k1>arhaka<k2>arSasin, ˚arhaka<type>alt<LP>212826<k1P>arSasin
 <L>212836.1<pc>7-309-d<k1>alakzamARa<k2>alakzaRya, alakzamARa<type>alt<LP>212836<k1P>alakzaRya
 <L>212843.1<pc>7-309-d<k1>alaMkAra<k2>alaMkarmIRa, alaMkAra<type>alt<LP>212843<k1P>alaMkarmIRa
 <L>212845.1<pc>7-309-d<k1>alaMkAramayUKa<k2>alaMkAranikarza, alaMkAramayUKa<type>alt<LP>212845<k1P>alaMkAranikarza
@@ -11047,8 +11047,8 @@
 <L>212946.6<pc>7-310-c<k1>avajayana<k2>avacCedakatattvanirukti, avacCedakatAnirukti, avacCedakatAmAlA, avacCedakatAleSa, avacCedakatAvAda, avacCedakatAsAra, avajayana<type>alt<LP>212946<k1P>avacCedakatattvanirukti
 <L>212956.1<pc>7-310-c<k1>avataMsana<k2>avataMsa, avataMsana<type>alt<LP>212956<k1P>avataMsa
 <L>212957.1<pc>7-310-c<k1>avatara<k2>avataMsay, avatara<type>alt<LP>212957<k1P>avataMsay
-<L>212968.1<pc>7-310-d<k1>avaDika<k2>avaDAnavant, °avaDika, avaDI<type>alt<LP>212968<k1P>avaDAnavant
-<L>212968.2<pc>7-310-d<k1>avaDI<k2>avaDAnavant, °avaDika, avaDI<type>alt<LP>212968<k1P>avaDAnavant
+<L>212968.1<pc>7-310-d<k1>avaDika<k2>avaDAnavant, ˚avaDika, avaDI<type>alt<LP>212968<k1P>avaDAnavant
+<L>212968.2<pc>7-310-d<k1>avaDI<k2>avaDAnavant, ˚avaDika, avaDI<type>alt<LP>212968<k1P>avaDAnavant
 <L>212969.1<pc>7-310-d<k1>avaDUtaka<k2>avaDUta, avaDUtaka<type>alt<LP>212969<k1P>avaDUta
 <L>212970.1<pc>7-310-d<k1>avaDeya<k2>avaDUlay, avaDeya<type>alt<LP>212970<k1P>avaDUlay
 <L>212977.1<pc>7-310-d<k1>avaniBft<k2>avanipAtam, avaniBft<type>alt<LP>212977<k1P>avanipAtam
@@ -11175,8 +11175,8 @@
 <L>213814.1<pc>7-316-b<k1>ahI<k2>ahiSuzmasa/tvan, ahI/<type>alt<LP>213814<k1P>ahiSuzmasatvan
 <L>213825.1<pc>7-316-b<k1>ahelin<k2>aheli, ahelin<type>alt<LP>213825<k1P>aheli
 <L>213827.1<pc>7-316-b<k1>ahomaka<k2>ahotavya^, ahomaka<type>alt<LP>213827<k1P>ahotavya
-<L>213837.1<pc>7-316-b<k1>AkarRadeSAntam<k2>AkarRatawa°, AkarRadeSAntam, °AkarRin<type>alt<LP>213837<k1P>AkarRatawa
-<L>213837.2<pc>7-316-b<k1>AkarRin<k2>AkarRatawa°, AkarRadeSAntam, °AkarRin<type>alt<LP>213837<k1P>AkarRatawa
+<L>213837.1<pc>7-316-b<k1>AkarRadeSAntam<k2>AkarRatawa˚, AkarRadeSAntam, ˚AkarRin<type>alt<LP>213837<k1P>AkarRatawa
+<L>213837.2<pc>7-316-b<k1>AkarRin<k2>AkarRatawa˚, AkarRadeSAntam, ˚AkarRin<type>alt<LP>213837<k1P>AkarRatawa
 <L>213847.1<pc>7-316-c<k1>AkArakara<k2>Akaza, AkArakara<type>alt<LP>213847<k1P>Akaza
 <L>213856.1<pc>7-316-c<k1>AkASaBEravakalpa<k2>AkASaBErava, AkASaBEravakalpa<type>alt<LP>213856<k1P>AkASaBErava
 <L>213912.1<pc>7-316-d<k1>AgamaprAmARya<k2>AgamanagamanA, AgamaprAmARya<type>alt<LP>213912<k1P>AgamanagamanA
@@ -11242,7 +11242,7 @@
 <L>214192.4<pc>7-318-c<k1>Aptar<k2>AptacCandas, AptamImAMsAlaMkfti, AptamImAMsAvivfti, AptamImAMsAvftti, Aptar<type>alt<LP>214192<k1P>AptacCandas
 <L>214197.1<pc>7-318-d<k1>ApyAyin<k2>ApyAnavant, ApyAyin<type>alt<LP>214197<k1P>ApyAnavant
 <L>214198.1<pc>7-318-d<k1>Apyeyatva<k2>Apyeya/, Apyeyatva/<type>alt<LP>214198<k1P>Apyeya
-<L>214206.1<pc>7-318-d<k1>ABaraRI<k2>AbrahmARqa°, ABaraRI<type>alt<LP>214206<k1P>AbrahmARqa
+<L>214206.1<pc>7-318-d<k1>ABaraRI<k2>AbrahmARqa˚, ABaraRI<type>alt<LP>214206<k1P>AbrahmARqa
 <L>214224.1<pc>7-318-d<k1>AmakoSin<k2>3. Ama, AmakoSin<type>alt<LP>214224<k1P>Ama
 <L>214241.1<pc>7-319-a<k1>AmezwakA<k2>Amezwaka, AmezwakA<type>alt<LP>214241<k1P>Amezwaka
 <L>214244.1<pc>7-319-a<k1>AmnAyazawka<k2>AmnAyakriyArTatvAdisUtravicAra, AmnAyazawka<type>alt<LP>214244<k1P>AmnAyakriyArTatvAdisUtravicAra
@@ -11851,8 +11851,8 @@
 <L>217952.3<pc>7-346-c<k1>tripala<k2>triparus, triparva, triparvan, tripala<type>alt<LP>217952<k1P>triparus
 <L>217957.1<pc>7-346-d<k1>tripurARIya<k2>tripurARaka, tripurARIya<type>alt<LP>217957<k1P>tripurARaka
 <L>217969.1<pc>7-346-d<k1>triyUpa<k2>triyukta, triyUpa<type>alt<LP>217969<k1P>triyukta
-<L>217989.1<pc>7-346-d<k1>trisatya<k2>triHzamfdDatva, trisatya, trisaptaka°<type>alt<LP>217989<k1P>triHzamfdDatva
-<L>217989.2<pc>7-346-d<k1>trisaptaka<k2>triHzamfdDatva, trisatya, trisaptaka°<type>alt<LP>217989<k1P>triHzamfdDatva
+<L>217989.1<pc>7-346-d<k1>trisatya<k2>triHzamfdDatva, trisatya, trisaptaka˚<type>alt<LP>217989<k1P>triHzamfdDatva
+<L>217989.2<pc>7-346-d<k1>trisaptaka<k2>triHzamfdDatva, trisatya, trisaptaka˚<type>alt<LP>217989<k1P>triHzamfdDatva
 <L>217993.1<pc>7-347-a<k1>trihalikASrama<k2>trihalikAgrAma, trihalikASrama<type>alt<LP>217993<k1P>trihalikAgrAma
 <L>217996.1<pc>7-347-a<k1>treDAsaMnadDa<k2>treDABAva, treDAsaMnadDa/<type>alt<LP>217996<k1P>treDABAva
 <L>218006.1<pc>7-347-a<k1>tryudDi<k2>tryArzeya, tryu^dDi<type>alt<LP>218006<k1P>tryArzeya
