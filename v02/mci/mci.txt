@@ -5457,7 +5457,7 @@ a skeleton of Rājadharman; he and his as-
 sociates pursued Gautama, captured him, and
 returned to Virūpākṣa with the body of Rāja-
 dharman which was without wings, bones and
-feet ({%°śarīraṃ ca pakṣāsthicaraṇojjhitam%}
+feet ({%˚śarīraṃ ca pakṣāsthicaraṇojjhitam%}
 12. 166. 13) 12. 166. 5-14; Virūpākṣa lame-
 nted over the loss of his friend and prepared a
 funeral pyre decorated with jewels, and spread
@@ -5980,7 +5980,7 @@ reckoned as one of the {%vibhūtis%} of Bhagavān
 ({%sarpāṇām asmi vāsukiḥ%} 6. 32. 28); often
 called ‘the king or the best of the serpents’:
 {%nāgarāj%} 1. 35. 7; {%nāgarāja%} 1. 49. 1, 4, 12
-({%nāgarāja°%} 1. 44. 18); {%nāgarājan%} 1. 16. 13,
+({%nāgarāja˚%} 1. 44. 18); {%nāgarājan%} 1. 16. 13,
 (1. 49. 11); {%pannagarāja%} 1. 44. 21; 9. 36. 30;
 {%(sarva) pannagarājan%} 9. 36. 31; {%nāgapati%}
 1. 43. 9; {%pannageśvara%} 1. 33. 29; 1. 44. 9;
@@ -9965,7 +9965,7 @@ considered very suitable for Arjuna 2. 3. 6;
 like {%gāṇḍīvadhanvan%} 2. 54. 22; 3 34. 6; 3.
 46. 8; 3. 49. 26; 3. 155. 6; 3. 159. 22; 3. 225.
 20; 3. 252. 18; 3. 299. 22; 4. 2. 16; 4. 40. 7;
-4. 48. 3 ({%°dhanvin%}); 4. 49. 16; 4. 53. 63;
+4. 48. 3 ({%˚dhanvin%}); 4. 49. 16; 4. 53. 63;
 4. 61. 8; 5. 3. 16; 5. 5. 10; 5. 22. 10, 12, 13;
 5. 47. 6; 5. 51. 2, 3; 5. 56. 60; 5. 63. 5; 5.
 88. 69; 5. 139. 41; 5. 153. 25; 5. 154. 20;
@@ -12963,14 +12963,14 @@ weapon: Dear weapon of Indra ({%indrasya%}
 6. 114. 52; 7. 12. 11; 8. 5. 63; 9. 30. 5;
 12. 217. 9; 13. 40. 29; {%vajrasya bhartā%}
 1. 3. 152; {%vajradhara%} 1. 150. 16; 1. 207.
-1 ({%vajradhara°%}); 1. 215. 13 (pl. {%yair%}
+1 ({%vajradhara˚%}); 1. 215. 13 (pl. {%yair%}
 {%ahaṃ śaknuyām yoddhum api vajradharān%}
 {%bahūn%}); 2. 4. 20; 3. 113. 23; 3. 121. 3;
 3. 142. 14; 3. 154. 41; 3. 161. 19; 3. 216. 11;
 3. 272, 3; 5. 21. 7; 6. 17. 36; 6. 79. 25; 6.
 103. 69, 93; 7. 72. 30; 7. 94. 15; 7. 115. 10;
 7. 167. 22; 9. 19. 5; 9. 47. 53; 12. 221. 88;
-14. 78. 31 ({%vajradhara°%}); 15. 26. 11; {%vajra-%}
+14. 78. 31 ({%vajradhara˚%}); 15. 26. 11; {%vajra-%}
 {%dhārin%} 6. 95. 20; {%vajrapāṇi%} 1. 50. 12; 1.
 [Page132-b+ 40]
 134. 4; 1. 189. 21, 28; 3. 126. 39 ({%vajra-%}
@@ -14400,7 +14400,7 @@ wonder, in the Sabhā of the Kauravas 5. 129.
 9-10; Kṛṣṇa (and Viṣṇu) have epithets like
 {%śārṅgadhanvan%} 3. 120. 6; 3. 189. 30; 5. 73.
 2; 5. 135. 30; 6. 61. 35; 7. 9. 71; 8. 5. 16
-({%śārṅga° °dhanvan%}); 10. 13. 6, 9; 12. 200.
+({%śārṅga˚ ˚dhanvan%}); 10. 13. 6, 9; 12. 200.
 6; 13. 135. 120; 14. 52. 6; 16. 9. 14; {%śārṅga-%}
 {%dhanurdhara%} 6. 61. 45; {%śārṅgarathāṅgapāṇi%}
 6. 55. 94; {%śārṅgagadādhara%} 2. 41. 33;
@@ -15128,7 +15128,7 @@ cattle-raid riding his Sudarśana Vimāna 4.
 <LEND>
 
 <L>622<pc>156-b<k1>sUcI<k2>sUcI
-{@Sūcī (Sūcī̆°)@}¦ f.: Name of a particular
+{@Sūcī (Sūcī̆˚)@}¦ f.: Name of a particular
 arrangement of the army ({%vyūha%}).
 {@A.@} When to be used: According to
 the great sage Bṛhaspati if the number
@@ -18497,12 +18497,12 @@ is included here—this defines the text
 {%ca / iha sarvam anukrāntam uktaṃ gran-%}
 {%thasya lakṣaṇam%} 1. 1. 47-48. {@B.@} Charac-
 terizations: (i) {%ākhyāna%} (once {%upākhyāna%}
-1. 2. 236) 1. 1. 16 ({%°variṣṭha%}); 1. 2. 29, 30,
+1. 2. 236) 1. 1. 16 ({%˚variṣṭha%}); 1. 2. 29, 30,
 195, 235, 238-241, 243; 1. 53. 31, 32, 35;
 1. 56. 1, 30, 32; 12. 331. 2; 12. 334. 11; 12.
 337. 10; 18. 5. 53; (ii) {%itihāsa%} 1. 1. 17,
-24, 52; 1. 2. 31, 32 ({%°uttama%}), 33, 237
-({%°uttama%}) 1. 54. 23 ({%purātana%}); 1. 56.
+24, 52; 1. 2. 31, 32 ({%˚uttama%}), 33, 237
+({%˚uttama%}) 1. 54. 23 ({%purātana%}); 1. 56.
 16, 18, 1. 93. 46 ({%dyutimant%}); 18. 5. 31
 ({%puṇyo 'yam itihāsākhyaḥ%}), 43 ({%puṇya%});
 (iii) {%purāṇa%} 1. 1. 15; 1. 56. 15 ({%purāṇaṃ%}
@@ -20758,7 +20758,7 @@ Sū. 1. 24. 4: {%pra te yacchāmi madhu-%}
 <LEND>
 
 <L>816<pc>219-b<k1>sAvitrI<k2>sAvitrI
-{@Sāvitrī°<sup>3</sup>:@}¦ Name of an Upākhyāna.
+{@Sāvitrī˚<sup>3</sup>:@}¦ Name of an Upākhyāna.
 <div n="P">Mentioned in the contents of the
 Āraṇyakaparvan ({%sāvitryauddālakīyaṃ ca%})
 1. 2. 126; related to the {%adhyāyas%} 3. 277-283
@@ -24837,7 +24837,7 @@ made ready for Śiva's fight with the Tripuras
 ({%prajvalita%}) 6. 3. 15; having smoke and fire
 {%sadhūmaḥ sahapāvakaḥ%}) 6. 3. 15; having
 [Page266-b+ 40]
-copper-red crest ({%? tāmra° °śikha%}) 6. 3. 24.
+copper-red crest ({%? tāmra˚ ˚śikha%}) 6. 3. 24.
 {@B.@} Importance: Chief among the planets
 ({%grahapatir varaḥ%}) 13. 17. 37; Rāhu, along
 with other planets, visits the {%sabhā%} of Brah-
@@ -55780,7 +55780,7 @@ Janapada.
 <div n="P">Listed by Saṃjaya among the (nor-
 thern) Janapadas of the Bhāratavarṣa
 ({%janapadān nibodha gadato mama%}) 6. 10.
-37, 5; ({%upāvṛścānupāvṛśca°%}) 6. 10. 47.
+37, 5; ({%upāvṛścānupāvṛśca˚%}) 6. 10. 47.
 <LEND>
 
 <L>2089<pc>609-b<k1>anUpa<k2>anUpa
@@ -55988,7 +55988,7 @@ their gifts were accepted by him ({%tāṃś ca%}
 [Page612-a+ 40]
 52; they enjoyed their stay at Khāṇḍava-
 prastha and returned to Dvārakā after a
-few days ({%°vṛṣṇyandhakottamāḥ / vijahrur%}
+few days ({%˚vṛṣṇyandhakottamāḥ / vijahrur%}
 {% … // … yayur vṛṣṇyandhakamahārathāḥ%}) 1.
 213. 53, 56; (9) Jarāsandha was neglect-
 ed by Andhakas, Kukuras and Vṛṣṇis on
@@ -57430,7 +57430,7 @@ Horses: (i) Description: excellent horses
 ({%sujavana%}) 7. 165. 79; having the speed of
 wind ({%vātajava%}) 6. 86. 5; having the speed
 of mind ({%manojava%}) 6. 86. 16; having speed
-as desired ({%kāma° °java%}) 6. 86. 15; when
+as desired ({%kāma˚ ˚java%}) 6. 86. 15; when
 they ran they almost flew like swans on
 an ocean ({%utpetuḥ sahasā rājan haṃsā iva%}
 {%mahodadhau%}) 6. 86. 16; they carried their
@@ -57616,7 +57616,7 @@ to 7. 132. 15); (26) Horse-riding Bāhlīkas,
 fighting with {%śakti, prāsa and tuṇīra,%} along
 with their horses, killed by the Pāṇḍya
 king ({%saśaktiprāsatūṇīrān aśvārohān hayān%}
-{%api … °bāhlīkān … krūrān saṃgrāmakar-%}
+{%api … ˚bāhlīkān … krūrān saṃgrāmakar-%}
 {%kaśān / pāṇḍyo 'karod vyasūn%}) 8. 15.
 [Page631-a+ 39]
 9-10; (27) Karṇa told Śalya what an old
@@ -57822,7 +57822,7 @@ Suhotra ({%aikṣvākī%}) 1. 89. 26; (9) Triśaṅku
 ({%ikṣvākum%}) 5. 113. 18; (12) Kuvalāśva
 ({%ikṣvākuḥ%}) 3. 192. 4, 7; (13) Subala
 ({%ikṣvākurājñaḥ%}) 3. 249. 8; (14) Rāma
-({%ikṣvākunandanam%}) 3. 273. 8; ({%°nandanaḥ%})
+({%ikṣvākunandanam%}) 3. 273. 8; ({%˚nandanaḥ%})
 3. 275. 8; ({%ikṣvākuḥ%}) 3. 267. 35; (15)
 Lakṣmaṇa ({%ikṣvākunandanaḥ%}) 3. 274. 10;
 (16) Suvarṇā, wife of Suhotra and mother
@@ -58519,7 +58519,7 @@ and its people.
 [Page641-a+ 40]
 thern Ṛṣikas ({%ṛṣikān uttarān api%}) 2. 24. 24.
 {@B.@} Description: Great Ṛṣikas ({%paramar-%}
-{%ṣika°%}) 2. 24. 25. {@C.@} Epic events: (1)
+{%ṣika˚%}) 2. 24. 25. {@C.@} Epic events: (1)
 Arjuna in his expedition to the north before
 the Rājasūya conquered the northern Ṛṣikas;
 in the Ṛṣika country there was a battle
@@ -59096,7 +59096,7 @@ by Kekaya, Cedi, Karūṣa and Matsya kings
 Among the exploits of Kṛṣṇa recounted by
 Dhṛtarāṣṭra one referred to his victory in
 war over Kāśis, Karūṣas and many others
-({%kāśikosalān °karūṣāṃś ca … ajayad raṇe%})
+({%kāśikosalān ˚karūṣāṃś ca … ajayad raṇe%})
 7. 10. 15; (16) On the eleventh day of
 the war, among those who attacked Droṇa
 are mentioned Cedis and Kārūṣas; he
@@ -59449,7 +59449,7 @@ Kaliṅgas and made them pay tribute
 {%balibhṛtaḥ purā%}) 8. 5. 20; (16) On the
 sixteenth day of the war, Kaliṅgas rushed
 [Page651-b+ 40]
-towards Arjuna to kill him ({%kaliṅga° … %}
+towards Arjuna to kill him ({%kaliṅga˚ … %}
 {%jighāṃsavaḥ pāṇḍavam abhyadhāvan%}) 8.
 12. 59; (17) On the same day, many
 warriors from different countries like Aṅga,
@@ -59469,7 +59469,7 @@ that he was destined to win the Kaliṅgas
 7; (19) Arjuna told Yudhiṣṭhira that
 only Bhīma, who killed Kaliṅga warriors
 and their elephants, could find fault with
-him (Arjuna) ({%kaliṅga° … sadāmadān … /%}
+him (Arjuna) ({%kaliṅga˚ … sadāmadān … /%}
 {%nihanti%}) 8. 49. 79; (20) Kaliṅgas men-
 tioned among those who fell on the battle-
 field during the first seventeen days of the
@@ -59846,7 +59846,7 @@ Kṛṣṇa the dead body of Jayadratha watched
 over by Kāmboja and other women ({%tam%}
 [Page656-a+ 39]
 {%etāḥ paryupāsante rakṣamāṇā mahābhu-%}
-{%jam / … °kāmbojayavanastriyaḥ%}) 11. 22. 11.
+{%jam / … ˚kāmbojayavanastriyaḥ%}) 11. 22. 11.
 {@G.@} Events referred to but not reported in
 the epic: (1) Karṇa's victory over the
 Kāmbojas mentioned by Saṃjaya ({%kāmbo-%}
@@ -59854,7 +59854,7 @@ Kāmbojas mentioned by Saṃjaya ({%kāmbo-%}
 {%vaṃ saṃgrāme śūrasaṃmatāḥ%}) 7. 66. 38-
 39; the feat also referred to by Bhīṣma
 ({%kāmbojā nihatās tvayā%}) 7. 4. 4; by Śalya
-({%°kāmbojās … jitāḥ saṃkhye sudurjayāḥ%})
+({%˚kāmbojās … jitāḥ saṃkhye sudurjayāḥ%})
 8. 57. 31; (2) Kṛṣṇa had once defeated
 the Kāmbojas ({%kāmbojān … jitavān puṇda-%}
 {%rīkākṣaḥ%}) 7. 10. 17-18. {@H.@} Other event:
@@ -62730,8 +62730,8 @@ surprise, its sight caused surprise ({%adbhuta,%}
 to stand ({%lomaharṣaṇa, romaharṣaṇa%}) 6.
 [Page690-a+ 40]
 100. 37; 7. 12. 18; 7. 70. 3; 7. 81. 2 ({%pāñcā-%}
-{%lānāṃ kurūṇāṃ ca%}) 8. 18. 56 ({%roma°%}); 14.
-59. 10 ({%roma°%}); causing fear ({%bhayavar-%}
+{%lānāṃ kurūṇāṃ ca%}) 8. 18. 56 ({%roma˚%}); 14.
+59. 10 ({%roma˚%}); causing fear ({%bhayavar-%}
 {%dhana, lokabhayaṃkara%}) 9. 8. 1; 5. 157. 4;
 depriving men, horses and elephants of
 their lives ({%narāśvanāgāsuhara, yama-%}
@@ -65460,7 +65460,7 @@ dered over the earth and lived like dogs,
 crows, {%balas%} (?) and vultures; they did
 not exist in the {%kṛtayuga,%} but were met
 with since the {%tretāyuga; (niradhyakṣāṃs%}
-{%tu … °gāndhārāḥ // ete pāpakṛtas tāta%}
+{%tu … ˚gāndhārāḥ // ete pāpakṛtas tāta%}
 [Page722-a+ 40]
 {%caranti pṛthivīm imām / śvakākabala-%}
 {%gṛdhrāṇāṃ sadharmāṇo narādhipa // nlite%}
@@ -65564,7 +65564,7 @@ him were killed by him ({%gāndhārāḥ … /%}
 {%tvām āsādya mahāyuddhe nihatāḥ pāṇḍu-%}
 {%nandana%}) 9. 32. 22; (14) Gāndhrī pointed
 out to Kṛṣṇa that Gāndhāra women
-({%gāndhāra° °striyaḥ%}) and other women
+({%gāndhāra˚ ˚striyaḥ%}) and other women
 kept watch on the body of fallen Jaya-
 dratha 11. 22. 11; (15) The horse of the
 horse-sacrifice went to the Gāndhāra
@@ -67754,7 +67754,7 @@ lotus in a cemetery or godliness in a Piśāca
 {%daivatam / teṣu yaḥ samayaṃ kuryād ajñeṣu%}
 {%hatabuddhiṣu //%}) 12. 259. 22 (Nī., however,
 on Bom. Ed. 12. 267. 22: {%padmaṃ śavālaṅ-%}
-{%kāra(? °ram) ādatte piśācāt piśācopaha-%}
+{%kāra(? ˚ram) ādatte piśācāt piśācopaha-%}
 {%tāt / ādatte cailādikam iti śeṣaḥ / kīdṛśaṃ%}
 {%samayaṃ daivataṃ devatāśapathādirūpam / ;%}
 also cf. Critical Notes to Vol. 16 (p. 2193)
@@ -68312,7 +68312,7 @@ On the seventeenth day, the Draviḍa foot-
 soldiers (on the side of Pāṇḍavas), in-
 cited by Sātyaki, attacked Karṇa; Karṇa
 cut off with his arrows their arms and
-head-gears and felled them down ({%draviḍa°%}
+head-gears and felled them down ({%draviḍa˚%}
 {% … abhyardayañ … karṇaṃ āhave te vibāhu-%}
 {%śirastrāṇāḥ … prahatāḥ karṇasāyakaiḥ%}
 {%petuḥ pṛthivyāṃ%}) 8. 33. 4-5; (8) Saṃjaya
@@ -69490,7 +69490,7 @@ las and the rest in no time; that was his
 responsibility ({%tatas tad astram mama%}
 {%sāvaśeṣaṃ / tasmāt samartho 'smi mamaiṣa%}
 {%bhāraḥ // … tam ṛṣiprasādam avāpya pāñ-%}
-{%cāla° … /nihatya%}) 5. 61. 4-5 (Nī., however,
+{%cāla˚ … /nihatya%}) 5. 61. 4-5 (Nī., however,
 on Bom. Ed. 5. 62. 4: {%sāvaśeṣaṃ mama%}
 {%āyur asti /ato 'ntakālasyānupasthitatvāt tad%}
 {%astraṃ mamāstīty ahaṃ samartho 'smi%});
@@ -73476,7 +73476,7 @@ sound of the war-drum; they left eating
 and drinking and gathered in the Sudharmā
 hall ({%sabhāpālo bherīṃ sāṃnāhikīṃ tataḥ /%}
 {%samājaghne … kṣubdhās tenātha śabdena%}
-{%bhoja° … /annapānam apāsyātha samāpetuḥ%}
+{%bhoja˚ … /annapānam apāsyātha samāpetuḥ%}
 {%sabhāṃ tataḥ%}) 1. 212. 11-12 (Nī. on Bom.
 [Page815-a+ 40]
 Ed. 1. 220. 11: {%sāṃnāhikīṃ saṃnaddhāḥ%}
@@ -74128,8 +74128,8 @@ Virāṭa 2. 28. 2 (?); 4. 21. 3; 4. 29. 24; 4.
 (2) Virāṭa 4. 21. 9; 4. 30. 12; 4. 42. 15;
 4. 43. 2; 4. 63. 5, 13; 5. 19. 12; (v)
 {%matsyapati:%} Virāṭa 4. 33. 20; 5. 1. 2; {@B.@}
-The best among the Matsyas: (i) {%matsya°%}
-{%°sattama: (matsyabhāratasattamau):%}
+The best among the Matsyas: (i) {%matsya˚%}
+{%˚sattama: (matsyabhāratasattamau):%}
 Virāṭa 4. 66. 29; (ii) {%jyeṣṭhaṃ mātsyā-%}
 {%nām:%} Uttara 5. 47. 34.
 <LEND>
@@ -76288,7 +76288,7 @@ Kṛṣṇa 6. 61. 62; (2) Yadu: ({%asmākaṃ vaṃ-%}
 Vasudeva 14. 60. 38; {@C.@} The delighter of
 the Yadus or Yādavas: (i) {%yadunandana:%}
 (1) Kṛṣṇa 2. 21. 1; 2. 22. 1; 2. 40. 21;
-({%yadukula° °nandana%}) 7. 157. 26; 8. 49. 11;
+({%yadukula˚ ˚nandana%}) 7. 157. 26; 8. 49. 11;
 8. 69. 12; 9. 32. 15; 9. 61. 17; 14. 65. 17;
 14. 69. 8; 14. 70. 20; 14. 88. 12; 14. 89. 22;
 16. 4. 34; (2) Balarāma 9. 11. 6; 9. 34. 12;
@@ -77116,7 +77116,7 @@ Indra, rushed at Arjuna to kill him; Arjuna
 cut off the armours, the vitals and trunks
 of the elephants and also their controllers
 ({%atha dvipair devapatidvipābhair … kaliṅga-%}
-{%vaṅga° … /teṣāṃ dvipānāṃ vicakarta%}
+{%vaṅga˚ … /teṣāṃ dvipānāṃ vicakarta%}
 {%pārtho varmāṇi marmāṇi karān niyantṝn%})
 8. 12. 59-60; on the same day, incited by
 Duryodhana, Vaṅgas and others, riding
@@ -77268,7 +77268,7 @@ minds, trusting each other ({%sarve vedavidaḥ%}
 {@B.@} Characteristic: Karṇa while deriding
 Śalya mentioned Vasātis among those who
 were generally considered despicable
-({%vasāti° … prāyo vikutsitāḥ%}) 8. 30. 47.
+({%vasāti˚ … prāyo vikutsitāḥ%}) 8. 30. 47.
 {@C.@} Epic events: (1) Vasāti Kṣatriyas
 had brought wealth in hundreds for the
 Rājasūya of Yudhiṣṭhira ({%āhārṣuḥ kṣatriyā%}
@@ -77761,7 +77761,7 @@ had formerly defeated Videhas (7. 4. 5);
 on the seventeenth day, Śalya too, in order
 to encourage Karṇa reminded him that
 he had once with great courage defeated
-Videhas ({%vaidehā° … yayā dhṛtyā jitāḥ saṃ-%}
+Videhas ({%vaidehā˚ … yayā dhṛtyā jitāḥ saṃ-%}
 {%khye sudurjayāḥ%}) 8. 57. 31; later Dhṛta-
 rāṣṭra while lamenting over the death of
 [Page864-a+ 40]
@@ -78784,12 +78784,12 @@ Nala's charioteer 3. 57. 9-11, 19; 3. 58. 1;
 93. 33; 7. 145. 55; {@B.@} Chief, king or ex-
 cellent among Vṛṣṇis or their important
 hero: (i) {%vṛṣṇinātha:%} Kṛṣṇa 6. 55. 95;
-(ii) {%vṛṣṇipati:%} (1) Ugrasena ({%vṛṣṇi° °pati%})
-14. 84. 15; (2) Kṛṣṇa 5. 61. 12; ({%vṛṣṇi°%}
-{%°pati%}) 14. 88. 13; (iii) {%vṛṣṇipravara:%} (1)
+(ii) {%vṛṣṇipati:%} (1) Ugrasena ({%vṛṣṇi˚ ˚pati%})
+14. 84. 15; (2) Kṛṣṇa 5. 61. 12; ({%vṛṣṇi˚%}
+{%˚pati%}) 14. 88. 13; (iii) {%vṛṣṇipravara:%} (1)
 Kṛtavarman ({%vṛṣṇināṃ pravara-%}) 7. 140.
-34; (2) Kṛṣṇa 3. 118. 18 ({%sarva°%}); 8.
-45. 65; (3) Balarāma 3. 118. 18 ({%sarva°%});
+34; (2) Kṛṣṇa 3. 118. 18 ({%sarva˚%}); 8.
+45. 65; (3) Balarāma 3. 118. 18 ({%sarva˚%});
 9. 38. 21; 9. 47. 61; (4) Sātyaki 7. 117.
 59 ({%vṛṣṇivīrāṇāṃ pravara-%}); (iv) {%vṛṣṇi-%}
 {%mahāmātra:%} Unspecified Vṛṣṇis 1. 213.
@@ -78800,7 +78800,7 @@ Kṛtavarman ({%vṛṣṇināṃ pravara-%}) 7. 140.
 {%vāsudevo 'smi:%} Kṛṣṇa 6. 32. 37; (ix) {%vṛṣṇi-%}
 {%kulaśreṣṭha:%} Kṛṣṇa 3. 23. 24; (x) {%vṛṣṇi-%}
 {%śreṣṭha:%} Kṛṣṇa 5. 69. 4; (xi) {%vṛṣṇyan-%}
-{%dhaka° °uttama:%} Kṛṣṇa 7. 79. 1; {@C.@} Pro-
+{%dhaka˚ ˚uttama:%} Kṛṣṇa 7. 79. 1; {@C.@} Pro-
 tector, upbringer of Vṛṣṇis; (i) {%prākāraḥ%}
 [Page876-b+ 40]
 {%sarvavṛṣṇīnām:%} Kṛṣṇa 2. 30. 12; {%vṛṣṇivaṃ-%}
@@ -78827,7 +78827,7 @@ Sātyaki 7. 85. 90; 16. 7. 6; (ii) {%vṛṣṇī-%}
 {%nāṃ pravararatha-:%} Sātyaki 7. 102. 7;
 7. 145. 36; 8. 69. 36; (iii) {%vārṣṇeyānāṃ%}
 {%mahāratha-:%} Sātyaki 6. 107. 14; (iv)
-{%vṛṣṇi° mahāratha-:%} (1) Kṛtavarman 9. 20.
+{%vṛṣṇi˚ mahāratha-:%} (1) Kṛtavarman 9. 20.
 12; (2) Pradyumna ({%vṛṣṇīnāṃ khyātau%}
 {%mahārathau%}) 7. 131. 4; (3) Sātyaki 9.
 20. 12; ({%vṛṣṇīnāṃ khyātau mahārathau%}) 7.
@@ -78856,12 +78856,12 @@ Sātyaki 7. 117. 25, 28; 7. 137. 10; {%(b)%}
 (i) {%vṛṣṇīnām ṛṣabha-:%} (1) Kṛṣṇa (not
 directly mentioned) 3. 34. 85; 5. 91. 22;
 10. 12. 38; (2) Sātyaki 7. 91. 50; (ii)
-{%vārṣṇeya° °puṃgava:%} Kṛṣṇa 14. 51. 36;
+{%vārṣṇeya˚ ˚puṃgava:%} Kṛṣṇa 14. 51. 36;
 young ones (not specified); {%bālakaiḥ%}
 {%vṛṣṇipuṃgavaiḥ%} 3. 15. 6; (iii) {%vṛṣṇipuṃ-%}
 {%gava:%} (1) Kṛṣṇa 14. 52. 11; (2) Sātyaki 7.
-95. 1; (b) Tiger among Vṛṣṇis: {%vṛṣṇi°%}
-{%°vyāghra:%} Sātyaki 7. 117. 47, 55; (c)
+95. 1; (b) Tiger among Vṛṣṇis: {%vṛṣṇi˚%}
+{%˚vyāghra:%} Sātyaki 7. 117. 47, 55; (c)
 Tiger or lion among Vṛṣṇis: {%vṛṣṇiśārdūla:%}
 (1) Kṛṣṇa 3. 187. 54; 3. 188. 8; 4. 67. 24;
 7. 148. 29; 11. 16. 42; 13. 32. 8, 32; 14. 66.
@@ -78872,7 +78872,7 @@ Kṛtavarman 9. 16. 71; 9. 20. 14; (2) Kṛṣṇa
 114. 80; (3) Sātyaki 9. 16. 71; 9. 20. 14.
 {@G.@} Honoured by Vṛṣṇis: (a) {%vṛṣṇīnām%}
 {%arcitaḥ:%} Uddhava 2. 46. 11; (b) {%saṃmato%}
-{%°vṛṣṇiṣu:%} Sātyaki 5. 63. 7. {@H.@} Born in the
+{%˚vṛṣṇiṣu:%} Sātyaki 5. 63. 7. {@H.@} Born in the
 family of Vṛṣṇis: {%vṛṣṇīnāṃ kule jātā:%}
 Kuntī 3. 287. 23. {@I.@} Teacher of Vṛṣṇi
 heroes: {%ācāryo vṛṣṇivīrāṇām:%} Droṇa 4.
@@ -78885,7 +78885,7 @@ Sātyaki (so called by Somadatta after the
 death of his son Bhūriśravas) 7. 131. 7.
 {@K.@} Dvārakā referred to as a town of
 [Page877-b+ 37]
-Vṛṣṇis: {%vṛṣṇi° °pura%} 3. 16. 19; 12. 7. 3;
+Vṛṣṇis: {%vṛṣṇi˚ ˚pura%} 3. 16. 19; 12. 7. 3;
 {%vṛṣṇipura%} 3. 180. 25. [See {@Andhaka,@}
 {@Daśārha, Bhoja, Madhu, Yādava, Vāsudeva,@}
 {@Sātvat@}]
@@ -80013,7 +80013,7 @@ return to his town in Magadha ({%jarāsan-%}
 2. 13. 43; (See Edgerton's note on the
 stanza in Vol. II, p. 496: “This latter
 [Page890-b+ 40]
-reading ({%°senebhyaḥ%}) confirms my inter-
+reading ({%˚senebhyaḥ%}) confirms my inter-
 pretation of {%śūrasenānāṃ%} as ablative
 genitive (Speyer, {%V. S. S. § 73%}) in the sense
 of “from the Śūrasena country””); (3)
@@ -81266,7 +81266,7 @@ cording to Harivaṃaśa 1. 24. 10): {%sātvatī-%}
 among the Sātvatas (or Sātvats): Kṛṣṇa
 (i) {%ṛṣabhaḥ sarvasātvatāṃ%} 5. 70. 1; 5. 92.
 5, 30; 5. 128. 7; (see {%sātvatarṣabha%} below);
-(ii) {%°sātvatapuṃgava:%} Sātyaki 7. 117. 41;
+(ii) {%˚sātvatapuṃgava:%} Sātyaki 7. 117. 41;
 (iii) {%purogaḥ sarvasātvatām:%} Kṛṣṇa 5. 84.
 2; (iv) {%sātvatapravara:%} (1) Kṛṣṇa 2. 42.
 60; 10. 16. 5; (2) Sātyaki ({%pravaraḥ%}
@@ -81617,7 +81617,7 @@ ing to Sindhu, king of the Sindhu country:
 11; (b) {%sindhupati;%} (1) Jayadratha 3. 251.
 7 ({%sindhūnāṃ patiḥ%}); 6. 17. 31; 7. 24. 11; 7.
 69. 15-16; 7. 121. 26; 9. 53. 23; (2) Vṛddha-
-kṣatra 7. 41. 13; (c) {%sindhu° °bhartṛ:%}
+kṣatra 7. 41. 13; (c) {%sindhu˚ ˚bhartṛ:%}
 Jayadratha 11. 22. 9; (d) (i) {%sindhurāj:%}
 Jayadratha 7. 53. 27; (ii) {%sindhurāja:%} (1)
 Jayadratha 1. 108. 18; 3. 251. 19; 3. 253.
@@ -82085,7 +82085,7 @@ to Kṛṣṇa women of the Sindhu and Suvīra
 countries who sat around the dead body
 of Jayadratha keeping watch over him
 ({%tam etāḥ paryupāsante rakṣamāṇā mahā-%}
-{%bhujam / sindhusauvīra° °striyaḥ /%}) 11.
+{%bhujam / sindhusauvīra˚ ˚striyaḥ /%}) 11.
 22. 9. 11. {@E.@} Past events: (1) Vidurā
 exhorted Saṃjaya not to be under the
 control of the Sindhu maidens but live,
@@ -82866,7 +82866,7 @@ told Sṛñjayas not to rebuke Duryodhana
 anymore because he was already killed when
 he refused to give Pāṇḍavas their share
 although advised to do that, among others,
-by them ({%°gāṅgevasṛñjayaiḥ / … procya-%}
+by them ({%˚gāṅgevasṛñjayaiḥ / … procya-%}
 {%māno 'pi%}) 9. 60. 20; (31) During the
 massacre which took place at night of the
 eighteenth day, Aśvatthāman killed Pāṇḍava
@@ -84646,7 +84646,7 @@ Abhibhū (father of Sukumāra) 7. 22. 19,
 5. 187. 34; (ii) Baladharā (married to
 Bhīma) 1. 90. 84; a {%ṛṣi%} of Kāśi: {%kāśya%} 13.
 15. 21; (b) {%kāśirāja%} (rarely {%kāśirājan-%})
-(i) Alarka ({%kāśi° °rāja-%}) 3. 26. 12; (ii)
+(i) Alarka ({%kāśi˚ ˚rāja-%}) 3. 26. 12; (ii)
 Sudeva 13. 31. 13; (iii) Subandhu 2. 27.
 6; (iv) Father (not named) of Ambā,
 Ambikā and Ambālikā 1. 90. 54; 1. 96.

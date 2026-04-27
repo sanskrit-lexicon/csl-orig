@@ -226,8 +226,8 @@ assimilation of letters &c. are assumed; {%e. g%}. {#--apara#} under {#pUrva#} s
 some cases the compound words, where not easily intelligible, are given in full within brackets; see {#Danus, punas#},
 {#vAc#}. &c.
 <P>({%b%}) Where a compound itself is used as the first member of other compounds, these letter are given
-immediately after, their second member being preceded by °which represents the first compound; {%e. g%}. {#°iMdra#},
-{#°rAja#} &c. given under {#dvi#} stand not for {#dvIMdra#} or {#dvirAja#}, but for {#dvijeMdra#} or {#dvijarAja#}.
+immediately after, their second member being preceded by ˚which represents the first compound; {%e. g%}. {#˚iMdra#},
+{#˚rAja#} &c. given under {#dvi#} stand not for {#dvIMdra#} or {#dvirAja#}, but for {#dvijeMdra#} or {#dvijarAja#}.
 <P>({%c%}) All {%aluk%} compounds ({%e. g%}. {#Atmanepada, kuSeSaya, parasmEpada, manasija, dAsyAH putraH, hfdispfS#} &c.) are
 given separately in their proper places, but under the radical word.
 <P>8. All words formed by Kṛt or Taddhita affixes are given separately; thus {#kUlaMkaza, BayaMkara, annamaya#},
@@ -536,8 +536,8 @@ Subhāṣitaratnākara).
 <HI>Bg.… Bhagavadgītā (Bombay).
 <HI>Bh.… Bhartṛhari's three Śatakas (the
 figures 1., 2., 3. after Bh. <lbinfo n="de+noting"/>
-denoting Śṛṅgāra°, Nīti°, and
-Vairāgya°).
+denoting Śṛṅgāra˚, Nīti˚, and
+Vairāgya˚).
 <HI>Bhav. P.… Bhaviṣyottara Purāṇa.
 <HI>Bhāg.… Bhāgavata (Bombay).
 <HI>Bhār. Ch.… Bhāratacampū (Bombay).
@@ -813,10 +813,10 @@ Grammatical and other Abbreviations, and Symbols.
 <HI>=… Equal or equivalent to, same as.
 <HI>+… Plus.
 <HI>&c.… Et cætera.
-<HI>°… denotes that the rest of the
+<HI>˚… denotes that the rest of the
 word under consideration is
-to be supplied; {%<ab>e. g.</ab>%};  <lbinfo n="°ratnapraBa#vasya"/>
-{#°ratnapraBavasya yasya#} under {#anaMta#} means
+to be supplied; {%<ab>e. g.</ab>%};  <lbinfo n="˚ratnapraBa#vasya"/>
+{#˚ratnapraBavasya yasya#} under {#anaMta#} means
 {#anaMtaratna#} &c. 
 [Page0001-a+ 46]
 <H>THE
