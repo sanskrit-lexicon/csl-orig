@@ -56,7 +56,7 @@ Numerous xml tags are introduced as markup within the body of entries.
 <ab>X</ab>  general abbreviation. The expansion is from a separate table in
             the pywork/mwab directory.
 <ab n="Y">X</ab> local abbreviation. Y is the expansion of X.
-<ab n="Y" slp1="Z">X°</ab>  Abbreviation of a Sanskrit word. 
+<ab n="Y" slp1="Z">X˚</ab>  Abbreviation of a Sanskrit word. 
             Y is the IAST spelling and Z is the slp1 spelling
 <s1 slp1="Z>Y</s1>  Y is given in the print as an IAST spelling of a 
             Sanskrit word; Z is the corresponding slp1 spelling. Y is
