@@ -498,7 +498,7 @@ that the word after it may be compounded with the word
 preceding it; {%e. g.%} in STAGE {%l.%} 1, {#raMgaH-, SAlA#} means the word is either
 {#raMgaH#}, or {#raMgaSAlA#}. ({%fº%}) denotes that the word immediately before it
 which is separated by a comma, may be compounded with the
-words which it connects; {%e. g.%} {@PREVENT,@} {%l.%} 1 {#vf#} c.. {#ni-vini°#}, means
+words which it connects; {%e. g.%} {@PREVENT,@} {%l.%} 1 {#vf#} c.. {#ni-vini˚#}, means
 the root is also {#nivf#} c. and {#vinivf#} c.
 [Pagex12]
 
@@ -3278,7 +3278,7 @@ c., {#viGuz#} 10, {#prakAS#} c. {@-er,@} {%s.%} {#AKyAyakaH#},
 
 <L>398<pc>015<k1>annual<k2>annual
 {@Annual,@}¦ {%a.%} {#vArzika-sAMvatsarika-Abdika#} ({#kA#}
-{%f.%}); {#prati°#}. {@-ly,@} {%adv.%} {#prativarzaM, pratisaMvatsaraM#},
+{%f.%}); {#prati˚#}. {@-ly,@} {%adv.%} {#prativarzaM, pratisaMvatsaraM#},
 {#varze varze#}.
 <LEND>
 
@@ -3847,9 +3847,9 @@ a.’ {#tIkzRamati#}; ‘of dull a.’ {#maMdaDI, sTUla-#}
 
 <L>487<pc>018<k1>approach<k2>approach
 {@Approach,@}¦ {%v. t.%} {#upa-samupa-aBi-gam#} 1 P,
-{#°i-yA#} 2 P, {#°sf-sfp#} 1 P; {#samIpaM-nikawe-gam#}
+{#˚i-yA#} 2 P, {#˚sf-sfp#} 1 P; {#samIpaM-nikawe-gam#}
 (with gen.). {%-v. i.%} {#upa-samupA-sTA#} 1 U,
-{#°gam; pratyAsad#} 1 P. {%-s.%} {#AgamaH, avatAraH#},
+{#˚gam; pratyAsad#} 1 P. {%-s.%} {#AgamaH, avatAraH#},
 {#upasTiti#} {%f.;%} ‘a. of night’ {#dozAgamaH#},
 {#rajanyupasTitiH#}. {@2@} {#saMnikarzaH, AsannatA#}. {@3@}
 {#praveSaH, upasarpaRamArgaH#}. {@-ing,@} {%a.%} {#Asanna#};
@@ -3915,7 +3915,7 @@ boys’ {#alasErbAlakEH prAyo durvfttErBavitavyaM#};
 ‘a. to take pity’ {#dayAlu#}; ‘a. to break’
 {#BaMgura#}. {@3@} {#dakza, kuSala, aBijYa#}, {%See%} {@Skilful.@}
 {@4@} {#tvarita, capala, udyukta#}. {@-itude,@} {%s.%} {#yogyatA#},
-{#pAtratA, OcityaM#}. {@2@} {#°SIlatA, svaBAvaH#},
+{#pAtratA, OcityaM#}. {@2@} {#˚SIlatA, svaBAvaH#},
 {#SIlaM#}. {@-ly,@} {%adv.%} {#yaTocitaM, yaTopapannaM, sTAne#},
 {#cAturyeRa, sakOSalaM#}. {@-ness,@} {%s.%} {#yogyatA#};
 {#kOSalaM, pAwavaM#}. {@2@} {#Sakti#} {%f.,%} {#sAmarTyaM#}.
@@ -6706,7 +6706,7 @@ c. ({#dUzayati#}).
 <L>917<pc>032<k1>bend<k2>bend
 {@Bend,@}¦ {%v. t.%} {#nam#} c. ({#na-nA-mayati#}), {#ava-A-#}
 {#-nam#} c. ({#namayati#}), {#namrIkf#} 8 U, {#Avfj#} 10,
-{#vakrIkf, Buj-, vi-A°-#}, 6 P; ‘bent under
+{#vakrIkf, Buj-, vi-A˚-#}, 6 P; ‘bent under
 the load of breasts’ {#kucaBArAnamitA#},
 {#stanaBareRa namratAmAnItA, stanaBAreRAvajiMtA#};
 ‘b. the brow’ {#BrUBaMgaM kf#}; he ‘bent his
@@ -7111,7 +7111,7 @@ seduced by pleasures’ {#sAvaDAno Bava#}
 <LEND>
 
 <L>985<pc>034<k1>bewitch<k2>bewitch
-{@Bewitch,@}¦ {%v. t.%} {#muh#} c., {#saM-vi-pari°, vaSIkf#}
+{@Bewitch,@}¦ {%v. t.%} {#muh#} c., {#saM-vi-pari˚, vaSIkf#}
 8 U, {#mad#} c. ({#mano madayaMti ye#} Mal. 2); {#maMtreRa#}
 {#vaSIkf#}. {@2@} {#mano hf#} or {#Akfz#} 1 P. {@-ing,@} {%a.%}
 {#mohana#} ({#nI#} {%f.%}), {#hArin#} {@-ment,@} {%s.%} {#mohanaM#},
@@ -7543,8 +7543,8 @@ M. 2), {#avAcyatA, dozABAvaH#}.
 <LEND>
 
 <L>1057<pc>036<k1>blaze<k2>blaze
-{@Blaze,@}¦ {%v. i.%} {#jval#} 1 P, {#pra-ut°-, dIp#} 4 A, {#saM-#}
-{#-ut-pra-°#}; ‘b. ing’ {#ujjvala, pradIpta, dedIpya-#}
+{@Blaze,@}¦ {%v. i.%} {#jval#} 1 P, {#pra-ut˚-, dIp#} 4 A, {#saM-#}
+{#-ut-pra-˚#}; ‘b. ing’ {#ujjvala, pradIpta, dedIpya-#}
 {#-mAna, BAsvara#}, {%See%} {@Bright,@} ‘b. abroad’
 {#prakAS#} c., {#praKyA#} c. ({#KyApayati#}). {%-s.%} {#praBA#},
 {#arcis#} {%f., n.,%} {#dIpti#} {%f.,%} {#jvAlA#}; “b. of light”
@@ -7746,7 +7746,7 @@ the b. ing youth’ {#praTame vayasi#},
 {#duz#} c. ({#dUzayati#}), {#kalaMkayati#} (D.), {#kf-#}
 {#-zRIkf#} 8 U. {@2@} {#aspazwIkf#}; ‘b. out’ {#vinaS#}
 c., {#ucCid#} 7 P, {#vilup#} c., {#vyAmfj#} c., {#vyA-#}
-{#-mfS#} c., ‘b. ing paper’ {#masISozakaH, °kaM#}
+{#-mfS#} c., ‘b. ing paper’ {#masISozakaH, ˚kaM#}
 {#paMtraM#}.
 <LEND>
 
@@ -8300,7 +8300,7 @@ all sides’ {#darIparigataH#}; {%See%} {@Border. 2@}
 <L>1164<pc>040<k1>bow<k2>bow
 {@Bow,@}¦ {%v. i.%} {#nam#} 1 P, {#praRam#} (acc. or dat.);
 {#aBivad#} c., {#aBivaMd#} 1 A {#prahvIBU; caraRayoH#}
-{#pat#} 1 P. {@2@} {#aMgIkf#} 8 U, {#aByupa-i#} {@2@} P, {#°gam#}
+{#pat#} 1 P. {@2@} {#aMgIkf#} 8 U, {#aByupa-i#} {@2@} P, {#˚gam#}
 1 P; oft by {#pramARaM#}; ‘I b. to your deci-
 -sion’ {#AryamiSrAH pramARaM#} (M. 1) or {#Bavato#}
 {#nirRayo me pramARaM#}. {%-v. t.%} {#ava-Avi-nam#} c.
@@ -9028,7 +9028,7 @@ in comp; Se Cruel {@2@} {#paSuSIla, pASava#}
 
 <L>1268<pc>044<k1>budget<k2>budget
 {@Budget,@}¦ {%s.%} {#SARapuwaH, dfti#} {%f.%} {@2@} {#kozaH, saMgrahaH#},
-{#saMcayaH#}. {@3@} {#AyavyayagaRanA, °patraM#}.
+{#saMcayaH#}. {@3@} {#AyavyayagaRanA, ˚patraM#}.
 <LEND>
 
 <L>1269<pc>044<k1>buff<k2>buff
@@ -10484,7 +10484,7 @@ c. or {#nirA-kf#} 8 U or {#apAs#} 4 P.
 <LEND>
 
 <L>1508<pc>050<k1>cast<k2>cast
-{@Cast,@}¦ {%v. t.%} {#kzip#} 6 P. {#pra vi-°; as#} 4 P, {#mus-#}
+{@Cast,@}¦ {%v. t.%} {#kzip#} 6 P. {#pra vi-˚; as#} 4 P, {#mus-#}
 {#-sfj#} 6 P, {#pat#} c. {@2@} (about) {#vigaR#} 10,
 {#Akal#} 10, {#ciMt#} 10 {#vicar#} c. {@3@} {#vilApya#}
 {#saMDA#} 3 U; ‘c. glance’ {#dfSaM kzip, dfzwiM-#}
@@ -10804,11 +10804,11 @@ against the approaching danger’ {#upa-#}
 
 <L>1558<pc>052<k1>cease<k2>cease
 {@Cease,@}¦ {%v. i.%} {#viram#} 1 P, {#nivft#} 1 A, {#viSram#}
-4 P, (with abl.); {#Sam#} 4 P, {#pra-upa°#};
+4 P, (with abl.); {#Sam#} 4 P, {#pra-upa˚#};
 ‘this said, he c. ed’ {#ityuktvopaSaSAma#};
 ‘c. ed to be opulent’ {#nirDanoBUt#}; ‘c. to
 exist’ {#layaM-kzayaM-gam#} 1 P. {#naS#} 4 P. {@3@} {#gam#},
-{#vi-ap-nir-°, apayA#} 2 P. {%-v. t.%} (c.) of
+{#vi-ap-nir-˚, apayA#} 2 P. {%-v. t.%} (c.) of
 roots above. {@-ing, -Cessation,@} {%s.%}
 {#virAmaH, upa-pra-SamaH, nivftti#} {%f.,%} {#virati#} {%f.,%}
 {#vicCedaH#}. {@-less,@} {%a%} {#anavarata, niraMtara, satata#},
@@ -12442,7 +12442,7 @@ up a business &c.’ {#samAp#} c., {#saMpUr#} 10,
 <LEND>
 
 <L>1810<pc>060<k1>cleave<k2>cleave
-{@Cleave,@}¦ {%v. i.%} {#saMj#} pass., {#A-vi-saM-anu°#},
+{@Cleave,@}¦ {%v. i.%} {#saMj#} pass., {#A-vi-saM-anu˚#},
 {#lag#} 1 P. {#saMlagnIBU#}. {@2@} {#vidF#} pass., {#dal#} 1 P,
 {#sPuw#} 6 P. {%-v. t.%} {#vidF#} 9 P, 10; {#vi-nir-#}
 {#-Bid#} 7 P, {#dal#} c. ({#dalayati#}), {#vipaw#} 10.
@@ -12535,9 +12535,9 @@ her love reached its c.’ {#dUrArUQaH praRa-#}
 <LEND>
 
 <L>1826<pc>060<k1>cling<k2>cling
-{@Cling,@}¦ {%v. i.%} {#saMj#} 1 P, {#A-pra-sa°, sajj#} 1 U;
+{@Cling,@}¦ {%v. i.%} {#saMj#} 1 P, {#A-pra-sa˚, sajj#} 1 U;
 ({#nivasane kaH sajjati#} S. 4), {#lag#} 1 P, {#saM-#}
-{#-pari°#}; ‘c.-ing to my neck at the time
+{#-pari˚#}; ‘c.-ing to my neck at the time
 of going’ {#gamanasamaye kaMWe lagnA#} (Mal. 2),
 {#A-ava-laMb#} 1 A, {#anubaMD#} 9 P; ‘c. to
 hope’ {#ASAM na tyaj#} 1 P, {#ASAmavalaMb#}.
@@ -13220,7 +13220,7 @@ a c. welcome’ {#nirutsAhaM svAgataM mAM vyA-#}
 <LEND>
 
 <L>1930<pc>064<k1>collect<k2>collect
-{@Collect,@}¦ {%v. t.%} {#ci#} 5 U, {#ava-vi-saM-ni-°, samA-#}
+{@Collect,@}¦ {%v. t.%} {#ci#} 5 U, {#ava-vi-saM-ni-˚, samA-#}
 {#-nI#} 1 P, {#saMgrah#} 9 P, {#samAhf#} 1 P, {#saMBf#} 3 U,
 {#samAkzip#} 6 P, {#piMqIkf#} 8 U, {#rASIkf, ekatra#}
 {#kf#}. {@2@} {#anumA#} 3 A, {#Uh#} 1 A, {#avagam#} 1 P;
@@ -13541,7 +13541,7 @@ sleep c. even at night’ {#rAtrAvapi nikAmaM#}
 
 <L>1972<pc>066<k1>command<k2>command
 {@Command,@}¦ {%v. t.%} {#AjYA#} c. ({#AjYApayati#})
-{#AdiS#} 6 P, {#vyA-saM-samA-°, viDA#} 3 U,
+{#AdiS#} 6 P, {#vyA-saM-samA-˚, viDA#} 3 U,
 {#SAs#} 2 P, {#niyuj#} 7 A, 10. {@2@} {#aDizWA#} 1 P,
 {#aDyAs#} 2 A; {#IS#} 2 A, {#praBU#}, (with
 gen.); ‘Rākshasas c. ed by 2
@@ -15444,10 +15444,10 @@ relation between c. and contained’
 <L>2178<pc>077<k1>content<k2>content
 {@Content,@}¦ {%a.%} {#saM-, pari-,tuzwa, tfpta, niHspfha, vi-#}
 {#-tfzRa, prIta, praSAMta, hfzwa#}; ‘to be c.’ {#tuz#} 4 P,
-{#tfp#} 4 P, {#saMpari-°#}; ‘is c. with even little’
+{#tfp#} 4 P, {#saMpari-˚#}; ‘is c. with even little’
 {#svalpakenApi tuzyati#}; ‘poor and c. is
 rich and rich enough’ {#saMtoza eva puruzasya#}
-{#paraM niDAnaM#}. {%-v. t.%} {#tuz#} c., {#tfp#} c., {#saM-pari-°, naMd#}
+{#paraM niDAnaM#}. {%-v. t.%} {#tuz#} c., {#tfp#} c., {#saM-pari-˚, naMd#}
 c., {#prI#} 9 P; ‘c. s. the eyes’ {#kftArTayati#}
 {#cakzuH#}. {%-s.%} {@-ment,@} {%s.%} {#saM,-pari,-tozaH, tfpti#}
 {%f.,%} {#prIti#} {%f.,%} {#aspfhA, vitfzRA, Dfti#} {%f.,%} {#kAma#},
@@ -15674,7 +15674,7 @@ dat.); {%See%} {@Conduce. -ary,@} {%a.%} {#eka-#}
 <LEND>
 
 <L>2202<pc>079<k1>control<k2>control
-{@Control,@}¦ {%v. t.%} {#yam#} 1 P, {#saM-ni-°, dam#} c.
+{@Control,@}¦ {%v. t.%} {#yam#} 1 P, {#saM-ni-˚, dam#} c.
 ({#damayati#}), {#vaSaM nI#} 1 P, {#ji#} 1 P, {#Avf#}
 5 U, {#vaSIkf#} 8 U, {#ni-vini-grah#} 9 P,
 (passions &c.); {#niruD#} 7 U. {@2@} {#SAs#} 2 P,
@@ -16957,7 +16957,7 @@ desid. ({#lipsate#}); {%See%} {@Wish. -ing,@} {%s.%}
 <LEND>
 
 <L>2381<pc>085<k1>crawl<k2>crawl
-{@Crawl,@}¦ {%v. i.%} {#sfp#} 1 P, {#vi-pra-saM°, urasA gam#}
+{@Crawl,@}¦ {%v. i.%} {#sfp#} 1 P, {#vi-pra-saM˚, urasA gam#}
 1 P, {#maMdagatyA cal#} 1 P. {%-s.%} {#gupti#} {%f.;%} {#po-#}
 {#-todaraM#}.
 <LEND>
@@ -17065,7 +17065,7 @@ give c.’ {#viSvas-pratI#} 2 P.
 <LEND>
 
 <L>2395<pc>086<k1>creep<k2>creep
-{@Creep,@}¦ {%v. i.%} {#sfp#} 1 P, {#vi-saM pra°, maMdagatyA cal-#}
+{@Creep,@}¦ {%v. i.%} {#sfp#} 1 P, {#vi-saM pra˚, maMdagatyA cal-#}
 {#-maMdaM prasf#} 1 P. {@2@} {#alakzitaM praviS#} 6 P. {@3@} {#SanEH#}
 {#pravft#} 1 A. {@-er,@} {%s.%} {#latA, vallI, vallarI, vratati-#}
 {#-tI#} {%f.;%} ‘a branching c.’ {#vIruD#} {%f.,%}
@@ -17307,7 +17307,7 @@ bodied’ {#vikftAkAraH#}; ‘c. armed’ {#kuMpaH#},
 
 <L>2431<pc>087<k1>cross<k2>cross
 {@Cross,@}¦ {%v. t.%} {#tF#} 1 P, (lit. and fig.), {#saM-#}
-{#-ut°, laMG, ut°#} 1 A, 10, {#ati-i#} 2 P, {#a-#}
+{#-ut˚, laMG, ut˚#} 1 A, 10, {#ati-i#} 2 P, {#a-#}
 {#-tikram#} 1 U, 4 P, {#Akram#}; ‘these thoughts
 c. ed my mind’ {#ete saMkalpA mama prAdurAsan#}
 or {#AsIt-sama BUt-me manasi#} (Ka.); ‘he
@@ -19357,11 +19357,11 @@ a d.’ {#viSvamidaM mAyAmayaM, asAraM, vivarta#}
 {#mahAsaMplavaH, saMvartaH, kzayaH, kalpAMtaH#}. {@2@} {#DArA-#}
 {#-saMpAtaH, vAripUraH, aviralaDArAsAraH, ati#}
 {#vfzwiH#} {%f.%} {@3@} {#utpAtaH, AkasmikI Apad#} {%-v. t.%}
-{#pla#} {%v.,%} {#A-saM°, nimasj#} c. ({#majjayati#}).
+{#pla#} {%v.,%} {#A-saM˚, nimasj#} c. ({#majjayati#}).
 <LEND>
 
 <L>2695<pc>099<k1>delve<k2>delve
-{@Delve,@}¦ {%v. t.%} {#Kan#} 1 P, {#ni-ava°; urvIM Bid#}
+{@Delve,@}¦ {%v. t.%} {#Kan#} 1 P, {#ni-ava˚; urvIM Bid#}
 7 P. {%-s.%} {#KAtaM, vivaraM, bilaM, gartA-rtaH#}. {@-er,@}
 {%s.%} {#KanakaH, Kanitf#} {%m.%}
 <LEND>
@@ -19450,7 +19450,7 @@ expense’ {#BUridravyavyayenAyaM dozaH pramArzwuM#}
 
 <L>2710<pc>099<k1>demolish<k2>demolish
 {@Demolish,@}¦ {%v. t.%} {#vinaS#} c., {#ucCid#} 7 P,
-{#avasad#} c., {#DvaMs#} c.; {#pra-vi-°; unmUl#} 10,
+{#avasad#} c., {#DvaMs#} c.; {#pra-vi-˚; unmUl#} 10,
 {#utpad#} 10. {@-er,@} {%s.%} {#vinASakaH, ucCedakaH#}.
 {@-Demolition,@} {%s.%} {#vinASaH, ucCedaH, pra-vi-#}
 {#-DvaMsaH, unmUlanaM, utpAwanaM, avasAdanaM#}.
@@ -19492,7 +19492,7 @@ or {#cyu#} c., {#AcAraM duz#} c. ({#dUzayati#}), {#BrazwIkf#}
 <LEND>
 
 <L>2715<pc>099<k1>demur<k2>demur
-{@Demur,@}¦ {%v. i.%} {#SaMk#} 1 A, {#vi-A°; vicar#} c.,
+{@Demur,@}¦ {%v. i.%} {#SaMk#} 1 A, {#vi-A˚; vicar#} c.,
 {#vikxp#} c., {#vilaMb#} 1 A, {#manasA dolAyate#}
 (D.); {#savitarkaM vyAkzip#} c. {%-s.%} {#ASaMkA-#}
 [Page100]
@@ -20221,8 +20221,8 @@ hands and feet’ {#apARipAda#}. {@-ion,@} {%s.%}
 <LEND>
 
 <L>2801<pc>104<k1>destroy<k2>destroy
-{@Destroy,@}¦ {%v. t.%} {#naS#} c., {#pra-vi°; ava-ut-sad#}
-c., {#DvaMs#} c., {#pra-vi°; vilup#} c., {#kzE#} c. ({#kzapa-#}
+{@Destroy,@}¦ {%v. t.%} {#naS#} c., {#pra-vi˚; ava-ut-sad#}
+c., {#DvaMs#} c., {#pra-vi˚; vilup#} c., {#kzE#} c. ({#kzapa-#}
 {#-yati#}), {#kzi#} 5 P or c., {#saMhf#} 1 P, {#ut-nir-#}
 {#-dal#} c., {#ucCid#} 7 P, {#pratihan#} 2 P. {@2@}
 (persons, &c.) {#han#} 2 P, {#nizUd#} 10, {#vyA-#}
@@ -20428,7 +20428,7 @@ c.; {#tasya#} ({#kAryopakzepasya#}) {#vistAramicCan#}
 d. even an inch from the beaten
 path’ {#kzuRRAdvartmano reKAmAtramapi na vyatIyuH#}
 (R. I. 17); {#apa-yA-i#} 2 P, {#cal#} 1 P, {#pra-#}
-{#-vi-°; cyu#} 1 A, {#BraMS#} 4 P, 1 A, (with abl.).
+{#-vi-˚; cyu#} 1 A, {#BraMS#} 4 P, 1 A, (with abl.).
 {@-ion,@} {%s.%} {#atikramaH, vicalanaM, cyuti#} {%f.,%} {#BrezaH#},
 {#BraMSaH, vyaBicAraH, tyAgaH#}; ‘d. from the
 right path’ {#utpaTayAnaM, vimArgagamanaM#}.
@@ -20759,7 +20759,7 @@ d.’ {#han#} 2 P, {#vyApad#} c., {#vaDaM AdiS#} 6 P;
 <LEND>
 
 <L>2870<pc>107<k1>differ<k2>differ
-{@Differ,@}¦ {%v. i.%} {#Bid#} pass., {#pra-vi-°; viSiz#}
+{@Differ,@}¦ {%v. i.%} {#Bid#} pass., {#pra-vi-˚; viSiz#}
 pass., ({#na kAraRAtsvAdviBide kumAraH#} R. v.
 35): gen. ex. by ({%s.%}) ‘they two do
 not d. {#na tayorBedaH, viSezaH#}, &c. {@2@} {#anyaTA#}
@@ -22463,7 +22463,7 @@ or c., {#viyuj#} 7 A, 10, {#BaMj#} 7 P, {#vinaS#} c.,
 meeting’ {#saBAM visfj#} 6 P or c.; ‘d.
 friendship’ {#sOhfdaM Bid#} or {#truw#} c.
 or {#viGaw#} c.; ‘d. a compound’ {#samAsaM#}
-{#vigrah#} 9 P. {%-v. i.%} {#lI#} 4 A, {#vi-pra°#}, ({#lavaRaM#}
+{#vigrah#} 9 P. {%-v. i.%} {#lI#} 4 A, {#vi-pra˚#}, ({#lavaRaM#}
 {#jale vilIyate#}); {#vidru#} 1 P, {#gal#} 1 P, {#kzar#} 1 P.
 {#dravIBU#} 1 P. {@-able, -Dissoluble,@} {%a.%} {#vi-#}
 {#-drAvya, kzaraRaSIla, vilayanaSIla#}. {@-ent,@} {%a.%}
@@ -25078,7 +25078,7 @@ in comp.
 <LEND>
 
 <L>3407<pc>131<k1>emancipate<k2>emancipate
-{@Emancipate,@}¦ {%v. t.%} {#muc#} 6 P or c., {#vi-nir°#};
+{@Emancipate,@}¦ {%v. t.%} {#muc#} 6 P or c., {#vi-nir˚#};
 {#mokza#} 10, {#udDf#} 1 P, {#nistF#} c., {#visfj#} 6 P.
 {@-ion,@} {%s.%} {#vimocanaM, mokzaH, mukti#} {%f.,%} {#udDAraH#}.
 {#nistAraH#}. {@2@} {#mukti#} {%f.,%} {#mokzaH#}; {%See%} {@Beati-@}
@@ -25327,8 +25327,8 @@ cloth’ {#citritaM-kArmikaM-vastraM#}. {@-er,@} {%s.%} {#kArmika-#}
 
 <L>3446<pc>133<k1>emigrate<k2>emigrate
 {@Emigrate,@}¦ {%v. i.%} {#deSAMtaraM aDivastuM svadeSaM#}
-{#tyaj#} 1 P. {@-ion,@} {%s.%} {#°svadeSatyAgaH#}. {@-Emi-@}
-{@-grant,@} {%s.%} {#°tyAgin#} {%m.%}
+{#tyaj#} 1 P. {@-ion,@} {%s.%} {#˚svadeSatyAgaH#}. {@-Emi-@}
+{@-grant,@} {%s.%} {#˚tyAgin#} {%m.%}
 <LEND>
 
 <L>3447<pc>133<k1>eminent<k2>eminent
@@ -26168,7 +26168,7 @@ success’ {#udyamayogAdadUravartinIM sidDima-#}
 <LEND>
 
 <L>3557<pc>137<k1>enter<k2>enter
-{@Enter,@}¦ {%v.%} {#viS#} 6 P, {#ni-pra-A°; gAh#} 1 A,
+{@Enter,@}¦ {%v.%} {#viS#} 6 P, {#ni-pra-A˚; gAh#} 1 A,
 {#Agam#} 1 P, {#AyA#} 2 P, {#padaM kf#} 8 U or {#ni-#}
 {#-DA#} 3 U; ‘a thought e. ed into his head’
 {#kaScitkalpastasya cetasi prAdurbaBUva#}; ‘curiosity
@@ -26713,7 +26713,7 @@ autumnal e.’ {#vizupadaM, jalavizuvaM#};
 {#ajihma#}; gen. ex. by {#ut#} in comp.;
 ‘with the neck e.’ {#udgrIva, utkaMDara#};
 ‘with the hair e.’ {#pulakita, romAMcita#}.
-{%-v. t.%} {#sTA#} c. ({#sTApayati#}), {#prati-saM-aDi°#},
+{%-v. t.%} {#sTA#} c. ({#sTApayati#}), {#prati-saM-aDi˚#},
 {#aDiruh#} c. {@2@} {#nirmA#} 3 A, {#rac#} 10, {#virac#},
 {#niKan#} 1 P, ({#nicaKAna jayastaMBAn#} R. IV.
 36). {@3@} {#utTA#} c., {#unnI#} 1 P, {#ucCri#} c.,
@@ -28271,7 +28271,7 @@ or c., {#vyAmfS#} 6 P or c., {#ucCid#} 7 P,
 <LEND>
 
 <L>3819<pc>149<k1>extend<k2>extend
-{@Extend,@}¦ {%v. t.%} {#tan#} 8 U, {#vi-pra-°; vistF#} 5,
+{@Extend,@}¦ {%v. t.%} {#tan#} 8 U, {#vi-pra-˚; vistF#} 5,
 9 U or c., {#pra-sf#} c., {#A-yam#} 1 P, {#vfD#} c.,
 {#dIrGIkf#} 8 U, {#praT#} 10. {@2@} {#pradA#} 3 U, {#vitF#}
 1 P. {%-v. i.%} {#vitan-vistF#} pass., {#vyAp#} 5 P;
@@ -28829,7 +28829,7 @@ Fairy, {%s.%} {#vidyADarI, piSAcI, yoginI, rAkzasI#}.
 
 <L>3879<pc>153<k1>fall<k2>fall
 {@Fall,@}¦ {%v. i.%} {#cyu#} 1 A, {#gal#} 1 P, {#sraMs#} 1 A, {#pat#}
-1 P, {#ni-ava°, BraMS#} 1 A, 4 P; ‘fell under
+1 P, {#ni-ava˚, BraMS#} 1 A, 4 P; ‘fell under
 his displeasure’ {#tasyAkfpApAtraM-kopAspadaM-#}
 {#-baBUva#}. {@2@} {#mf#} 6 A, {#naS#} 4 P, {#vi-pra-DvaMs#} 1 A,
 {#pra-lI#} 4 A, {#prAREH viyuj#} pass. {@3@} {#avasad#}
@@ -29005,7 +29005,7 @@ dispute’ {#gfhacCidraM, aMtarBedaH#}; ‘a f. man
 
 <L>3890<pc>154<k1>fan<k2>fan
 {@Fan,@}¦ {%s.%} {#tAlavfMtaH-vfMtakaM, vyajanaM, vIjanaM, vyajaH#}.
-{%-v. t.%} {#vIj#} 10, {#upa-anu-saM°; vyajanena viDU#}
+{%-v. t.%} {#vIj#} 10, {#upa-anu-saM˚; vyajanena viDU#}
 5, 9 U; (fig.) {#ud-dIp#} c., {#saMDukz#} 10.
 <LEND>
 
@@ -29210,7 +29210,7 @@ asleep’ {#suKasupta, gAQanidrAM gata#}. {@2@} {#SIGraM#},
 {#ASu, satvaraM, kzipraM, tvaritaM#} ‘not so
 f.’ {#alamalamIdfSyA tvarayA#}. {@-ness,@} {%s.%}
 {#dfQatA, sTiratA#}. {@2@} {#durgaM, kowaH#}.
-{@-Fasten,@} {%v. t.%} {#baMD#} 9 P, {#sa-ni°, pi-#}
+{@-Fasten,@} {%v. t.%} {#baMD#} 9 P, {#sa-ni˚, pi-#}
 {#-nah#} 4 U, {#graMT#} 9 P, (together); {#saMyuj#}
 7 U, 10, {#saM-Sliz#} c., {#saM-DA#} 3 U, {#yoktrayati#}
 (D.). {@2@} {#pi-DA#} 3 U, {#saM-vf#} 5 U, {#niruD#} 7 U,
@@ -30052,7 +30052,7 @@ speech’ {#vAkyAlaMkAraH#}. {@6@} {#rUpakaM, AropaH#},
 {#gOravaM, yaSas#} {%n.,%} {#varRaH, kIrti#} {%f.; See%}
 {@Fame.@} {%-v. t.%} {#vi-DA#} 3 U, {#virac#} 10, {#nirmA#}
 3 A, {#saM-pari-kxp#} c. {@2@} {#varR#} 10, {#citr#} 10,
-{#liK#} 6 P, {#vi-A°, rUp#} 10, {#citrIkf#} 8 U,
+{#liK#} 6 P, {#vi-A˚, rUp#} 10, {#citrIkf#} 8 U,
 {#karburIkf#} {@3@} (To oneself) {#vi-BU#} c., {#ciMt#}
 10, {#kxp#} c., {#vigaR#} 10, {@-Figurate,@}
 {%a.%} {#sAkAra, rUpavat, mUrtimat, sarUpa#}.
@@ -30425,7 +30425,7 @@ f. s well’ {#suSlizwametat#} (Mal. 1), {#susaMgata-#}
 <LEND>
 
 <L>4060<pc>162<k1>fix<k2>fix
-{@Fix,@}¦ {%v. t.%} {#sTA#} c. ({#sTApayati#}), {#prati-saM°; ni-#}
+{@Fix,@}¦ {%v. t.%} {#sTA#} c. ({#sTApayati#}), {#prati-saM˚; ni-#}
 {#-DA#} 3 U, {#niruh#} c.; ‘f. your dwelling
 there’ {#tatra vasatiM kuru, tatsTAne nivasa#}. {@2@}
 {#sTirIkf#} 8 U, {#dfQIkf#}. {@3@} (F. upon) {#nirRI#}
@@ -30875,7 +30875,7 @@ goats’ {#ajAvikaM#}; ‘in f s’ {#gaRaSaH, saMGa-#}
 of tears’ {#bAzpapUraH-oGaH-varzaH, aSrupAtaH-#}
 {#-varzaH#}, ‘f. -gate’ {#dvAraM, nirgamamArgaH, pari(rI)-#}
 {#-vAhaH, jaladvAraM, jalanirgamaH#}. {%-v. t.%} {#plu#} c., {#A-#}
-{#-saM-pari°-, parivah#} c.; ‘with her eyes f.
+{#-saM-pari˚-, parivah#} c.; ‘with her eyes f.
 -ed with tears’ {#aSrupariplutekzaRA#}; ‘a f.-
 -ed river’ {#AplutodakA-parivAhiRI-nadI#}.
 <LEND>
@@ -32216,7 +32216,7 @@ from’ ex. by {#nir-a#} in comp. or by
 mostly in comp.; ‘f. from pride’
 {#niravalapa; anfRa, vItaspfha, ciMtAhIna#}, &c.,
 ‘f. choice’ {#svecCA, svaruci#} {%f.;%} ‘f. course’
-{#prasaraH#}. {%-v. t.%} {#muc#} 6 P or c., {#vi-nir°#},
+{#prasaraH#}. {%-v. t.%} {#muc#} 6 P or c., {#vi-nir˚#},
 {#vi- sfj#} 6 P or c., {#mokz#} 10; gen. ex.
 by {#nir#} or {#a#} pr. to nouns; ‘f. from
 obstacle’ {#viGnAn apanI#} or {#hf#} 1 P, {#nirvi-#}
@@ -33441,7 +33441,7 @@ other comps.; {%See%} {@Door.@}
 [Page180]
 
 <L>4437<pc>180<k1>gather<k2>gather
-{@Gather,@}¦ {%v. t.%} {#ci#} 5 U, {#saM-ava-pra-A-°; samA-#}
+{@Gather,@}¦ {%v. t.%} {#ci#} 5 U, {#saM-ava-pra-A-˚; samA-#}
 {#-hf#} 1 P, {#samA-nI#} 1 P, {#saMgrah#} 9 P, {#saM-Bf#} 1,
 3 U, {#ekIkf#} 8 U; {%See%} {@Collect;@} ‘g.
 flowers’ {#puzpARi ci#} or {#lU#} 9 U. {@2@} {#jYA#}
@@ -34248,7 +34248,7 @@ or {#saMtap#} c.; {#dIp#} freq. ({#dedIpyate#}). {@2@} {#ugra-#}
 <LEND>
 
 <L>4539<pc>184<k1>glide<k2>glide
-{@Glide,@}¦ {%v. t.%} {#sfp#} 1 P, {#saM-vi-pra°, pra-vi-sf#} 1 P;
+{@Glide,@}¦ {%v. t.%} {#sfp#} 1 P, {#saM-vi-pra˚, pra-vi-sf#} 1 P;
 {#maMdaM i-yA#} 2 P or {#gam#} 1 P, {#SanEH prasf#} or
 {#cal#} 1 P; {#alakzitaM-niBftaM gam#} or {#yA#} or
 {#ati-i#}; {%See%} {@Steal, 2@} {#vah#} 1 P, {#sru#} 1 P; {#syaMd#}
@@ -35090,7 +35090,7 @@ the ear’ {#SravaRakawu#}. {%-s.%} {#anyonyaGarzaRaM, ka-#}
 <LEND>
 
 <L>4634<pc>189<k1>gratify<k2>gratify
-{@Gratify,@}¦ {%v. t.%} {#tuz#} c., {#saM-pari°, AnaMd#} c., {#prI#}
+{@Gratify,@}¦ {%v. t.%} {#tuz#} c., {#saM-pari˚, AnaMd#} c., {#prI#}
 10, {#tfp#} c., {#pramud#} c., {#hfz#} c., {#ram#} c., {#A-#}
 {#-hlad#} c.; {%See%} {@Delight@} also. {@2@} {#anu-vft#}
 1 A, {#anuruD#} 4 A, {#lal#} 10, {#pra-sad#} c., {#A-#}
@@ -35373,7 +35373,7 @@ stone) {#pezaRaM-RI, pezaRayaMtraM#}. {@3@} {#carvaRadaMtaH#},
 
 <L>4665<pc>191<k1>gripe<k2>gripe
 {@Gripe,@}¦ {%v. t.%} {#grah#} 9 U, {#muzwinA grah#} or {#Df#} 1 P;
-{%See%} {@Grasp. 2@} {#pIq#} 10, {#saM-ni°#}. {@3@} {#muzwiM baMD#}
+{%See%} {@Grasp. 2@} {#pIq#} 10, {#saM-ni˚#}. {@3@} {#muzwiM baMD#}
 9 P. {%-s.%} {#muzwigrAhaH, hastagrahaH, saMgrAhaH#},
 {#dfQagrahaH, muzwibaMDaH, muzwi#} {%m., f.%} {@2@} {#nipIqanaM#}.
 {@3@} (g. s) {#aMtraSUlaM, vedanA, udaraSUlaM-vyaTA#}.
@@ -35534,7 +35534,7 @@ grammar’ {#svaDItavyAkaraRaH#}; ‘g. -floor’
 1 A, {#vfdDiM yA-i#} 2 P. 3 {#saM-, jan#}, 4 A, {#BU#}
 1 P. ‘the beard having begun to g.’
 {#udBidyamAnaSmaSrurAjitayA#} (Ka. 29). {@4@}
-{#jan, utpad#} 4 A; {#ud-i#} 2 P, {#BU, ut-saM-pra°#}.
+{#jan, utpad#} 4 A; {#ud-i#} 2 P, {#BU, ut-saM-pra˚#}.
 {@5@} {#vistF#} pass., {#vyAp#} 5 P; ‘g. up’
 {#saMvfD, eD, prOQIBU#}; ‘bad boys g. to be
 bad men’ {#kubAlAH kunarAeva nizpadyaMte-#}
@@ -35628,7 +35628,7 @@ size’ {#pra-upa-cIyamAna-avayava#}. {@-Growth,@} {%s.%}
 <L>4699<pc>192<k1>guard<k2>guard
 {@Guard,@}¦ {%v. t.%} {#saM-, pari-, rakz#} 1 P; {#pA#} 2 P; {#pA#}
 c. ({#pAlayati#}), {#trE#} 1 A, {#av#} 1 P, {#gup#} 1 P;
-{%See%} {@Protect. 2@} {#vf#} c., {#vAr#} 10, {#ni°#}; ‘g.
+{%See%} {@Protect. 2@} {#vf#} c., {#vAr#} 10, {#ni˚#}; ‘g.
 against’ {#ava-DA#} 3 U; {#sAvaDAna-avahita#} {%-a.%}
 {#BU#}; {%See%} {@Beware.@} {%-s.%} {#rakzA, rakzaRaM, gupti#} {%f.,%}
 {#gopanaM pAlanaM, trARaM#}. {@2@} {#rakzakaH, rakzin#} {%m.,%}
@@ -36444,7 +36444,7 @@ pass. {@-ous,@} {%a.%} {#ekatAla-na, eka-sama-svara#},
 <L>4794<pc>197<k1>harness<k2>harness
 {@Harness,@}¦ {%v. t.%} {#sajjIkf#} 8 U, {#sannah#} 4 P or
 c., {#sajja#} {%a.%} {#kf#}. {@2@} ({#raTe#}) {#yuj#} 7 U, 10,
-{#ni-A-sam°#}. {%-s.%} {#sajjA, sannAhaH, prasADanaM#},
+{#ni-A-sam˚#}. {%-s.%} {#sajjA, sannAhaH, prasADanaM#},
 {#paricCadaH, ABaraRaM#}. {@2@} {#aSvasajjA#}.
 <LEND>
 
@@ -36556,7 +36556,7 @@ h.’ {#tvar#} 1 A, {#satvaraM-ASu-gam#} or {#cal#} or
 
 <L>4812<pc>198<k1>hate<k2>hate
 {@Hate,@}¦ {%v. t.%} {#vi-, dviz#} 2 U, {#gup#} desid. ({#jugu-#}
-{#-psate#}) (with abl.), {#garh#} 1, 10 A, {#vi-pra-°#},
+{#-psate#}) (with abl.), {#garh#} 1, 10 A, {#vi-pra-˚#},
 {#kuts#} 10 A, {#druh#} 4 P (with dat.), {#aBi-#}
 {#-druh#} (with acc.). {%-s.%} {@-Hatred,@} {%s.%} {#vi-#}
 {#-dvezaH, jugupsA, garhA, kutsA, GfRA, aprIti#} {%f.%}
@@ -36856,7 +36856,7 @@ content’ {#yaTecCaM, paryAptaM, AcittatozaM#},
 <LEND>
 
 <L>4837<pc>200<k1>heat<k2>heat
-{@Heat,@}¦ {%v. t.%} {#tap#} c., {#pari-pra-saM°; ud-, dIp#} c.,
+{@Heat,@}¦ {%v. t.%} {#tap#} c., {#pari-pra-saM˚; ud-, dIp#} c.,
 {#jval#} c., {#saMDukz#} 10; {#dah#} 1 P. {%-s.%} {#tApaH, saM-#}
 {#-ut-pari-tApaH, dAhaH; uzRatA, uzmaH, tigmatA#},
 {#praKaratvaM, U-uzman#} {%m.,%} {#caMqatA#}. {@2@} {#AtapaH#},
@@ -37542,7 +37542,7 @@ in comp., {#carama, apara, avara#}; ‘h. part’
 
 <L>4926<pc>204<k1>hinder<k2>hinder
 {@Hinder,@}¦ {%v. t.%} {#ni-vini-vAr#} 10 or {#vf#} c., {#ni-#}
-{#-prati-ziD#} 1 P, {#ruD#} 7 U, {#ni upa-ava-saM-prati°#},
+{#-prati-ziD#} 1 P, {#ruD#} 7 U, {#ni upa-ava-saM-prati˚#},
 {#staMB#} 9 P, {#bAD#} 1 A, {#vi-prati-han#} 2 P,
 {#pratibaMD#} 9 P. {@-ance,@} {%s.%} {#pratizeDaH, nivAraRaM#},
 {#pratibaMDaH, viGnaH, aMtarAyaH, pratyUhaH, pratiroDaH#},
@@ -39326,7 +39326,7 @@ Rāma’ {#rAmasyAkftirasmin SiSO saMpUrRaM#}
 {#AqaMbaraH, anukAraH#}.
 <LEND>
 <L>5137<pc>214<k1>imagine<k2>imagine
-{@Imagine,@}¦ {%v. t.%} {#manasA kxp#} c., {#saM-pari°; saM-#}
+{@Imagine,@}¦ {%v. t.%} {#manasA kxp#} c., {#saM-pari˚; saM-#}
 {#-vi-BU#} c., {#sfj#} 6 P, {#DyE#} 1 P. {@2@} {#man#} 4 A,
 {#gaR#} 10, {#ciMt#} 10, {#tark#} 10, {#utprekz#} 1 A, {#buD#}
 1 P, {#ava-i#} 2 P, {#avagam#} 1 P, {#upalaB#} 1 A.
@@ -40043,7 +40043,7 @@ or {#naS#} c. {@-ed,@} {%a.%} {#nirDana, kzIRaDana, pari-#}
 <LEND>
 
 <L>5236<pc>218<k1>impregnate<k2>impregnate
-{@Impregnate@}¦ {%v. t.%} {#sic#} 6 P, {#ni-A°-, pra-#}
+{@Impregnate@}¦ {%v. t.%} {#sic#} 6 P, {#ni-A˚-, pra-#}
 {#-kzip#} 6 P; {#vyAp#} 5 P or c., {#vyaS#} 5 A, {#pUr#}
 10. {@2@} (Make pregnant) {#retaH sic#},
 {#garBaM grah#} c. or {#utpad#} c., {#sasattvAM kf#};
@@ -40564,7 +40564,7 @@ c. {@2@} {#pi-DA, Avf#} 5 U, {#A-pari-vezw#} c., {#pari-#}
 <LEND>
 
 <L>5311<pc>221<k1>incline<k2>incline
-{@Incline,@}¦ {%v. i.%} {#nam#} 1 P, {#ava-A°-, namrIBU#} 1 P.
+{@Incline,@}¦ {%v. i.%} {#nam#} 1 P, {#ava-A˚-, namrIBU#} 1 P.
 {@2@} {#pravaRa-#} {%a.%} {#BU#}; ‘lavourably i. ed towards
 her by (her) penance’ {#tapasA tatpravaRIkftaH#}
 (K. IV. 42); gen. ex. by {#SIla#} in
@@ -40860,7 +40860,7 @@ conduct’ {#durvftta, durAcAra#}. {@-ly,@} {%adv.%} {#miTyA#},
 <LEND>
 
 <L>5355<pc>222<k1>increase<k2>increase
-{@Increase,@}¦ {%v. i.%} {#vfD#} 1 A, {#vi-saM-pra-pari°, eD#}
+{@Increase,@}¦ {%v. i.%} {#vfD#} 1 A, {#vi-saM-pra-pari˚, eD#}
 1 A, {#saM-fD#} 4, 5 P, {#sPAy#} 1 A, {#A-pyE#} 1 A,
 {#vfdDiM yA-i#} 2 P or {#gam#} 1 P or {#prAp#} 5 P,
 {#pra-upa-ci#} pass., {#murC#} 1 P, {#(mumUrCa sahajaM tejo#}
@@ -41737,7 +41737,7 @@ being. i.’ {#nAtisTiracaraRasaMcArasya#} (Ka.
 <LEND>
 
 <L>5474<pc>227<k1>inflame<k2>inflame
-{@Inflame,@}¦ {%v. t.%} {#dIp#} c., {#saM-ut-pra,° jval#}
+{@Inflame,@}¦ {%v. t.%} {#dIp#} c., {#saM-ut-pra,˚ jval#}
 c., {#tap#} c., {#dah#} 1 P, {#saM-iMD#} 7 A. {@2@}
 {#uttij#} c., {#protsah#}. c., {#uddIp#} c. (as
 feelings); will only serve to i. his
@@ -41981,7 +41981,7 @@ into the mind’ {#upadiS#} 6 P, {#citte ni-#}
 <LEND>
 
 <L>5505<pc>228<k1>inhabit<k2>inhabit
-{@Inhabit,@}¦ {%v. t.%} {#vas#} 1 P, {#ni-prati°#}, (with
+{@Inhabit,@}¦ {%v. t.%} {#vas#} 1 P, {#ni-prati˚#}, (with
 loc.); {#A-aDi-vas, aDyAs#} 2 A, {#ASri#}
 1 U, {#sev#} 1 A, {#juz#} 6 A, {#aDi-zWA#} 1 P
 (all with acc.); ‘thickly i. ed’ {#janA-#}
@@ -42636,7 +42636,7 @@ on her demands’ {#prArTanAvizaye svaM grahaM na#}
 <LEND>
 
 <L>5597<pc>232<k1>inspect<k2>inspect
-{@Inspect,@}¦ {%v. t.%} {#Ikz#} 1 A; {#saM-pari-ava-nir-vi°-#},
+{@Inspect,@}¦ {%v. t.%} {#Ikz#} 1 A; {#saM-pari-ava-nir-vi˚-#},
 {#nirUp#} 10, {#dfS#} 1 P, {#A-ava-lok#} 1 A, 10,
 {#Aloc#} 10, {#anusaM-DA#} 3 U. {@-ion,@} {%s.%} {#nirI-#}
 {#-kzaRaM, avekzaRaM, nirUpaRaM, darSanaM, AlokanaM#}. {@2@}
@@ -42815,7 +42815,7 @@ c. {@-ion,@} {%s.%} {#protsAhanaM-nA, preraRaM-RA, praco-#}
 <L>5615<pc>233<k1>institute<k2>institute
 {@Institute,@}¦ {%v. t.%} {#prAraB#} 1 A, {#upakram#} 1 A,
 {#pravft#} c., {#prastu#} 2 U; {#sTA#} c. {#(sTApayati)#},
-{#prati-vyava-saM°#}. {@2@} {#pra-pari-kxp#} c., {#vi-DA#} 3 U,
+{#prati-vyava-saM˚#}. {@2@} {#pra-pari-kxp#} c., {#vi-DA#} 3 U,
 {#A-nir-diS#} 6 P, {#pracud#} 10, {#SAs#} 2 P. {%-s.%}
 {#vyavasTA, sTiti#} {%f.,%} {#viDiH, niyamaH, kalpaH#},
 {#sUtra, SAstraviDAnaM-maryAdA-nidarSanaM, niyogaH#},
@@ -42988,7 +42988,7 @@ in elevating me’ {#sa mamonnatO kAraRaM-hetuH#};
 <LEND>
 
 <L>5637<pc>234<k1>integument<k2>integument
-{@Integument,@}¦ {%s.%} {#vezwanaM, A-pari-°; pawalaM#},
+{@Integument,@}¦ {%s.%} {#vezwanaM, A-pari-˚; pawalaM#},
 {#kaMcukaH, puwaH-waM, koSaH-zaH, AcCAdanaM#},
 {#AvaraRaM#}.
 <LEND>
@@ -43476,7 +43476,7 @@ or {#ni-pra-viS#} c. {%-v. i.%} {#maDye sTA#} 1 P or
 
 <L>5697<pc>237<k1>intertwine<k2>intertwine
 {@Intertwine, Intertwist,@}¦ {%v. t.%} {#graMT#} 9 P, {#saM-#}
-{#-ut°, parasparaM kuMc#} c. or {#vyAvft#} c., {#utKac#}
+{#-ut˚, parasparaM kuMc#} c. or {#vyAvft#} c., {#utKac#}
 10, {#parasparaM graMT#} or {#saMyuj#} 7 U, 10, {#saMmiSr#}
 10; ‘with hair i. ed with the tendrils
 of creepers’ {#latApratAnodgraTitEH keSEH#}
@@ -43586,7 +43586,7 @@ or by acc. with verbs of motion;
 <LEND>
 
 <L>5711<pc>237<k1>intoxicate<k2>intoxicate
-{@Intoxicate,@}¦ {%v. t.%} {#mad#} c., {#ut-pra-°, madaM utpad#}
+{@Intoxicate,@}¦ {%v. t.%} {#mad#} c., {#ut-pra-˚, madaM utpad#}
 c., {#mattIkf#} 8 U; (fig.) {#utsic#} c., {#ud-#}
 {#-han#} 2 P, {#A-DmA#} 1 P, {#muh#} c. {@-ed,@} {%a.%} {#matta#},
 {#pra-ut-matta, kzIva, madonmatta, unmada, madodagra#},
@@ -44322,7 +44322,7 @@ or {#roza-kAraRaM#} or {#hetuH#}. {@2@} {#uttApaH, uttejanaM, saM-#}
 <L>5813<pc>241<k1>issue<k2>issue
 {@Issue,@}¦ {%v. i.%} {#nirgam#} 1 P, {#apa-i#} 2 P, {#nir-yA#}
 2 P, {#niHsf#} 1 P, {#nizkram#} 1 U, 4 P. {@2@} {#sru#}
-1 P, {#niH-pra-°; kzar#} 1 P, {#gal#} 1 P, {#syaMd#} 1 A.
+1 P, {#niH-pra-˚; kzar#} 1 P, {#gal#} 1 P, {#syaMd#} 1 A.
 {@3@} {#ut-pra-BU#} 1 P, {#pra-jan#} 4 A, {#utpad#} 4 A, {#pra-#}
 {#-vft#} 1 A; {%See%} {@Arise. 4@} {#nizpad, nirvft, sa-#}
 {#-mAp#} pass. {%-v. t.%} {#niHsf#} c., {#pracar-l#} c., {#ni-#}
@@ -44720,7 +44720,7 @@ your j. s’ {#DikprahasanaM#} (U. 4.), {#alaM pari-#}
 <LEND>
 
 <L>5874<pc>243<k1>join<k2>join
-{@Join,@}¦ {%v. t.%} {#yuj#} 7 U, 10, {#saM-A°-, saMsaMj#} 1 P,
+{@Join,@}¦ {%v. t.%} {#yuj#} 7 U, 10, {#saM-A˚-, saMsaMj#} 1 P,
 {#yu#} 2 P, {#saMSliz#} c., {#saM-DA#} 3 U, {#saMbaMD#} 9 P,
 {#saMhan#} 2 P, {#ekatra kf#} 8 U, {#saMgraMT#} 9 P,
 {#yoktrayati#} (D.), {#Gaw#} c. {#(Gawayati), saMpfc#}
@@ -45124,10 +45124,10 @@ one's own children’ {#svaputranirviSezaM#}
 <L>5922<pc>245<k1>keep<k2>keep
 {@Keep,@}¦ {%v. t.%} {#rakz#} 1 P, {#pA#} 2 P {#pA#} c. {#(pAla-#}
 {#-yati), gup#} 1 P, {#trE#} 1 A, {#av#} 1 P. {@2@} {#Df#}
-1 P, 10; {#DA#} 3 U, {#ni-A-°, niviS#} c., {#sTA#}
+1 P, 10; {#DA#} 3 U, {#ni-A-˚, niviS#} c., {#sTA#}
 c. {#(sTApayati), nyas#} 4 U. {@3@} {#ruD#} 7 U,
 [Page246]
-{#ni-ava-upa-°, Df, baMD#} 9 P, {#nivAr#} 10, {#prati-#}
+{#ni-ava-upa-˚, Df, baMD#} 9 P, {#nivAr#} 10, {#prati-#}
 {#-ni-ziD#} 1 P, {#ni-saM-yam#} 1 P. {@4@} (As cattle)
 {#nirup#} 10, {#pA#} c., {#rakz#}. {@5@} (As a secret) {#na#}
 {#prakAS#} c. or {#BaMj#} 7 P, or {#Bid#} 7 P {#gup, rakz#}.
@@ -45883,7 +45883,7 @@ ladyship’ {#atraBavatI, tatraBavatI, BavatI#}. {@2@}
 <L>6021<pc>250<k1>lament<k2>lament
 {@Lament,@}¦ {%v.%} {#vilap#} 1 P, {#rud#} 2 P, {#A-, kraMd#}
 1 P, {#anu-, Suc#} 1 P, {#pari-dev#} 1 A {#paridiv#}
-10 A, {#kruS#} 1 P, {#vi-A-aBi-°#}; ‘they
+10 A, {#kruS#} 1 P, {#vi-A-aBi-˚#}; ‘they
 l. ed his departure’ {#tadgamanamanvaSocan#},
 {#tadgamanamuddiSya akroSan#}, &c. {@-able,@} {%a.%}
 {#Socya, SocanIya, Sokavizaya, SokAspadaM, So-#}
@@ -46054,7 +46054,7 @@ of l.’ {#vacasAM prOQatA#}.
 the l.’ {#koqIkf#} 8 U. {%-v. t.%} {#puwIkf, vyAvft#}
 c. {@2@} {#A-pari-vezw#} 1 A or c.: {#avaguMW#} 10,
 {#A-pari-vf#} 5 U, {#koSe ni-DA#} 3 U. {@3@} {#lih#}
-2 U, {#A-ava-saM°; A-svAd#} 1 A; ‘l. -dog’
+2 U, {#A-ava-saM˚; A-svAd#} 1 A; ‘l. -dog’
 {#aMke pAlanIyaH kukkuraH#}; ‘l. ful’ {#aMkapUraRaM-kaM#}.
 <LEND>
 
@@ -46336,13 +46336,13 @@ above; ‘too l. in the day’ {#atiparAhRe#};
 <LEND>
 
 <L>6081<pc>252<k1>laugh<k2>laugh
-{@Laugh,@}¦ {%v. i.%} {#has#} 1 P, {#pra-vi°; smi#} 1 A (l.
+{@Laugh,@}¦ {%v. i.%} {#has#} 1 P, {#pra-vi˚; smi#} 1 A (l.
 gently); ‘l. violently’ {#uccEH has, awwa-#}
 {#-hAsaM kf#} 8 U; ‘l. at’ {#ava-upa-has, upahA-#}
 {#-sAspadaM man#} 4 A, {#ava-man#}; ‘l. in the
 sleeves’ {#aMtar-niBftaM-has#}. {%-s.,%} {@-ing,@}
 {@-Laughter,@} {%s.%} {#hAsaH, hasanaM, hAsyaM, hasitaM#},
-{#vi-pra°; smitaM#}; ‘a horse-l.’ {#awwahAsaH#},
+{#vi-pra˚; smitaM#}; ‘a horse-l.’ {#awwahAsaH#},
 {#uccErhAsaH, pra-ati-hAsaH#}; ‘an inward l.’
 {#aMtarhAsaH#} {@-able,@} {%a.%} {#hAsakara#} ({#rI#} {%f.%}), {#hA-#}
 {#-syAspadaM, hAsya#}. {@-er,@} {%s.%} {#hAsakaH, hAsin#} {%m.%}
@@ -46461,13 +46461,13 @@ wife’ {#DarmapatnI#}; ‘l. means’ {#DarmopAyaH#},
 <LEND>
 
 <L>6091<pc>253<k1>lay<k2>lay
-{@Lay,@}¦ {%v. t.%} {#DA#} 3 U, {#ni-A°, nyas#} 4 U, {#ni-#}
+{@Lay,@}¦ {%v. t.%} {#DA#} 3 U, {#ni-A˚, nyas#} 4 U, {#ni-#}
 {#-viS#} c., {#sTA#} c. ({#sTApayati#}); {#sam-f#} c.
 {#(arpayati), nikzip#} 6 P, {#Aruh#} c. {#(ropa-#}
 {#-yati); dA#} 3 U, {#Df#} 1 P; {#krameRa sTA#} c. or
 {#ni-DA; prakxp#} c., {#prayuj#} 7 A, 10 (a plot,
 snare, &c.). {@2@} {#A-stf-stF#} 5, 9 U. {@3@} {#Sam#}
-c. {#(Samayati), pra-upa-°; sAMtv#} 10, {#sTirIkf#}
+c. {#(Samayati), pra-upa-˚; sAMtv#} 10, {#sTirIkf#}
 8 U. {@4@} {#SI#} c.; {#nipat#} c.; ‘l. eggs’ {#aMqa-#}
 {#-mokzaM kf; aMqAni sU#} 2, 4 A; ‘l. siege’
 {#ruD#} 7 U, {#vi-zwaMB#} 9 P; {%See%} {@Besiege;@} ‘l.
@@ -46754,7 +46754,7 @@ oft ex. by {#sTA#} 1 P, {#As#} 2 A; ‘l. it
 now’ {#tizWatu-AstAM tadaDunA#}. {@4@} {#nikzip#}
 6 P, {#nyas, sam-f#} c. ({#arpayati#}); ‘l.
 everything to him’ {#sarvaM tadaDInaM kuru#}. {@5@}
-{#Siz#} 7 P, or c., {#ava-pari°#}; {#ud-vft#} c.,
+{#Siz#} 7 P, or c., {#ava-pari˚#}; {#ud-vft#} c.,
 ‘nothing was left’ {#na kimapyavaSizwaM#};
 ‘to be left’ {#Siz#} pass.; ‘we being left
 behind’ {#asmAsvavahInezu#} (S. 2). {%-v. t.%}
@@ -46764,7 +46764,7 @@ behind’ {#asmAsvavahInezu#} (S. 2). {%-v. t.%}
 -ing’ {#parityaktanartano mayUraH#} (S. 6). ‘when
 it left off raining’ {#SAMte pAnIyavarze#} ((H.
 3). {@-out,@} {#vfj, parityaj#}. {@-Leavings.@} {%s.%}
-{#SezaH-zaM, paMri-ava°; SizwaM, ava-pari°, SezaBAgaH-#}
+{#SezaH-zaM, paMri-ava˚; SizwaM, ava-pari˚, SezaBAgaH-#}
 {#-KaMqaH, udvartaH, ucCizwaM#}. {@2@} {#malaM#}; ‘l. of food’
 {#SezAnnaM, Bakzita-Bukta-SezaH-zaM, BuktAvaSizwaM, u-#}
 {#-cCizwaM, BuktojJitaM#}; ‘one who eats l.’
@@ -47299,7 +47299,7 @@ countenances such l. is guilty’ {#na ke-#}
 
 <L>6180<pc>258<k1>liberate<k2>liberate
 {@Liberate,@}¦ {%v. t.%} {#muc#} 6 P or c., {#mokz#} 10,
-{#vi-nir°; visfj#} 6 P, {#nistF#} c., {#ud-Df-hf#}
+{#vi-nir˚; visfj#} 6 P, {#nistF#} c., {#ud-Df-hf#}
 1 P, {#trE#} 1 A. {@-ion,@} {%s.%} {#vi-, mukti#} {%f.,%} {#mocanaM#},
 {#mokzaH-kzaRaM, udDAraH, trARaM, nistAraH#}. {@-or,@} {%s.%}
 {#vi-, mocakaH, mokzakaH, udDartf#} {%m.,%} {#tArakaH#},
@@ -47387,7 +47387,7 @@ way)’ {#niraMkuSAH kavayaH#}. {%-v. t.%} {#anu-jYA#} 9 U.
 <LEND>
 
 <L>6189<pc>259<k1>lick<k2>lick
-{@Lick,@}¦ {%v. t.%} {#lih#} 2 U, {#A-ava-saM-pari°#}; ‘l.
+{@Lick,@}¦ {%v. t.%} {#lih#} 2 U, {#A-ava-saM-pari˚#}; ‘l.
 up’ {#gras#} 1 A, {#gF#} 6 P. 2 {#taq#} 10, {#pra-hf#} 1 P;
 ‘l. the dust (before one)’ {#BUmO nipat#}
 1 P or {#SI#} 2 A. {@-ing,@} {%s.%} {#lehaH-hanaM#}. {@2@}
@@ -47586,7 +47586,7 @@ c., {#prAp#} 5 P, {#A-upA-gam#} 1 P. {@2@} {#avatF#}
 1 P, {#ava-ruh#} 1 P, {#ava-ni-pat; aDyAs#}
 2 A, {#aDi-SI#} 2 A (with acc.), {#nizad#}
 1 P, {#ni-lI#} 4 A. {@-en,@} {%v. t.%} {#laGUkf, laGa-#}
-{#-yati#} (D.); {#Sam#} c. ({#Samayati#}), {#pra-upa°#}.
+{#-yati#} (D.); {#Sam#} c. ({#Samayati#}), {#pra-upa˚#}.
 {@-er,@} {%a.%} {#laGutara, laGIyas#}. {%-s.%} {#tarAluH, vahitraM#},
 {#uqupaM#}. {@-ly,@} {%adv.%} {#laGu, lAGavena, alpapramARena#}.
 {@2@} {#suKena, akazwena, anAyAsena#} {@3@} {#nizkAraRaM#},
@@ -47619,9 +47619,9 @@ c. {#(KyApayati)#}; ‘to throw l. on,’ {#viSadI-#}
 {#-kf, vivf, prakAS#} c.; {%See%} {@Explain;@}
 ‘from the l. of utility’ {#upayogadfzwyA#};
 ‘considered in this l.’ {#anayA dfzwyA#}.
-{%-v. t.%} {#dIp#} c., {#ut-pra-saM°; pra-, dyut#} c., {#prakAS#}
-c., {#ava-vi-BAs#} c., {#jval#} c., {#pra-ut-saM-°#};
-{#saM-, iMD#} 7 A; {#saMDukz#} 10; {#tap#} c., {#pra-saM-ut°#};
+{%-v. t.%} {#dIp#} c., {#ut-pra-saM˚; pra-, dyut#} c., {#prakAS#}
+c., {#ava-vi-BAs#} c., {#jval#} c., {#pra-ut-saM-˚#};
+{#saM-, iMD#} 7 A; {#saMDukz#} 10; {#tap#} c., {#pra-saM-ut˚#};
 ‘to be l. ed’ {#dIp#} 4 A, {#jval#} 1 P. {@-en,@}
 {%-v. t.%} {#prakAS#} c., {#dIp#} c., {#jval#} c., {#dyut#} c.,
 {%See (v. t.)%} above. {%-v. i.%} {#sPur#} 6 P, {#dyut#}
@@ -47698,7 +47698,7 @@ as you l.’ {#yaste CaMdaH#} (V. 3), {#yadBavate#}
 {#svEravfttaH, svacCaMdaH, svErin#}; ‘taking what
 form he l. s’ {#kAmarUpaH#}; ‘do what you
 l.’ {#yaTABilazitaM kriyatAM#}. {@-ed,@} {%a.%} {#mata#},
-{#aBi-anu-saM-° izwa, priya, dayita#}. {@-en,@} {%v. t.%}
+{#aBi-anu-saM-˚ izwa, priya, dayita#}. {@-en,@} {%v. t.%}
 {#upa-mA#} 3 A, 2 P, {#sadfSIkf#}; {%See%} {@Compare.@}
 {@-ing,@} {%s.%} {#ruci#} {%f.,%} {#aBiruciH, kAmaH, icCA#},
 {#tozaH, prIti#} {%f.,%} {#tuzwi#} {%f.,%} {#praRayaH, anurAgaH#},
@@ -48196,7 +48196,7 @@ comp.; ‘a l. less than dead’ {#mftaprAya-#}
 <LEND>
 
 <L>6265<pc>264<k1>live<k2>live
-{@Live,@}¦ {%v. i.%} {#vas#} 1 P, {#ni-prati-°; aDivas, a-#}
+{@Live,@}¦ {%v. i.%} {#vas#} 1 P, {#ni-prati-˚; aDivas, a-#}
 {#-DyAs#} 2 A, {#aDi-zWA#} 1 P (with acc.).
 {@2@} {#jIv#} 1 P, {#pra-an#} 2 P, {#Svas#} 2 P, {#Df#}
 pass. or 6 A, {#vid#} 4 A, {#vft#} 1 A; ‘here
@@ -48234,7 +48234,7 @@ or {#vftti#} in comp.; ‘l. by arms’ {#Sastropa-#}
 &c.; ‘within l. memory’ {#smArte kAle#};
 ‘a l. sacrifice’ {#jIvopahAraH#}; ‘a l
 death’ {#jIvitamaraRaM#}. {%-s.%} {#jIvanaM, prARaDAraRaM#},
-{#vAsaH#}. {@2@} {#jIvikA, A-upa°-; AjIvaH, vftti#}
+{#vAsaH#}. {@2@} {#jIvikA, A-upa˚-; AjIvaH, vftti#}
 {%f.,%} {#jIvanaM, vartanaM, A-upa-jIvanaM, jIvanopAyaH#},
 {#jIvana-jIva-sADanaM, prARa-SarIra-yAtrA, ni-#}
 {#-rvAhaH, prARa-jIva-nirvAhaH, prARa-SarIra-sTiti#}
@@ -48636,7 +48636,7 @@ pass., {#dIrGIBU#}. {@-wise,@} {%adv.%} {#anvAyAmaM#},
 10, {#dfzwiM dA#} 3 U or {#kzip#} 6 P, {#lakz#} 10;
 ‘l. intently at’ {#nayanEH-dfzwiBiH-pA#} 1 P,
 {#niDyE#} 1 P, {#(tA rAGavaM dfzwiBirApibaMtyaH#}
-&c. R. VII. 12). {@2@} {#BA#} 2 P, {#A-prati°-#},
+&c. R. VII. 12). {@2@} {#BA#} 2 P, {#A-prati˚-#},
 {#lakz-dfS#} -pass.; oft. by {#vadana, muKa, Anana#}
 in comp.; ‘she l. s sad’ {#vizaRRA lakzyate#}
 or {#ABAti#}, &c.; ‘that l. s like wanton-
@@ -48728,7 +48728,7 @@ l. man’ {#laMpawaH, vyasanin#} {%m.%} ‘a l. woman’
 {%v. t.%} {#SiTilayati#} (D.), {#SiTilIkf#} 8 U,
 {#Sra(SraM)T-SlaT#} 1 P, 10 ({#SlaTayati)#},
 {#sraMs#} c., {#SlaTIkf#}. {@2@} {#muc#} 6 P or c., {#vi-#}
-{#-nir-ut°; mokz#} 10, {#visfj#} 6 P or c.,
+{#-nir-ut˚; mokz#} 10, {#visfj#} 6 P or c.,
 {#baMDanAt muc#}. {@3@} {#ud-graMT#} 9 P, {#ud-ava-#}
 {#-muc, viyuj#} 7 A, 10, {#viSliz#} c., {#visaM-#}
 {#-DA#} 3 U. {%-v. i.%} {@-en,@} {#SiTilIBU#} 1 P,
@@ -48803,7 +48803,7 @@ above; ‘his l.’ {#tatraBavAn; mahArAjaH#};
 {@Lose,@}¦ {%v. t.%} {#apa-, hf#} c., {#tyaj#} 1 P, {#hA#} 3 P or
 c. {#(hApayati)#}. {@2@} {#viyuj-vihA-parihA#} -pass.,
 {#vinAkf#} 8 U, (with instr.); {#BraMS#} 1 A,
-4 P, {#pari-pra°, cyu#} 1 A, {#pra-vi-°#}, (with
+4 P, {#pari-pra˚, cyu#} 1 A, {#pra-vi-˚#}, (with
 abl.); {%See%} {@Deprived@} also; ‘he lost
 his life’ {#prARErviyuktaH, vigatAsurbaBUva#},
 {#prARahInaH, prARErahIyata#}; ‘lost his realm’
@@ -49187,7 +49187,7 @@ pass., {#hras#} 1 P. {@2@} {#namrIBU#}. {@3@} {#malinIBU#},
 <LEND>
 
 <L>6350<pc>271<k1>lull<k2>lull
-{@Lull,@}¦ {%v. i.%} {#Sam#} 4 P, {#pra-upa°, nivft#} 1 A, {#viram#}
+{@Lull,@}¦ {%v. i.%} {#Sam#} 4 P, {#pra-upa˚, nivft#} 1 A, {#viram#}
 1 P, {#nirvA#} 2 P, {#vigam#} 1 P. {%-v. t.%} {#Sam#} c.
 ({#Samayati#}), {#sAMtv#} 10; {#nivft#} c. {@2@} {#pra-sad#}
 c., {#lal#} 10; ‘l. to sleep’ ({#gItAdinA#})
@@ -50477,7 +50477,7 @@ interpreter of bodily m. s’ {#sAmudrikaH#}.
 {#cihnayati-mudrayati#} (D.), {#lAMC#} 1 P. {@2@} {#ka-#}
 {#-laMkayati-malinayati#} (D.), {#malinI-kaluzI-#}
 {#-kf#} 8 U. {@3@} {#liK#} 6 P, {#reKAH liK#}. {@4@} {#lakz#}
-10, {#A-upa-°; ni-r-pra-saM-ava-Ikz#} 1 A. {#ava-#}
+10, {#A-upa-˚; ni-r-pra-saM-ava-Ikz#} 1 A. {#ava-#}
 {#-DA#} 3 U; {#Aloc#} 10, {#vimfS#} 6 P; {#nirUp#}
 10; ‘m. out’ {#paricCid#} 7 P, {#sImAM nirDf#}
 10 or {#nirdiS#} 6 P, {#lakz, bAhyareKAM liK#}. {@-ed,@}
@@ -50940,10 +50940,10 @@ m. ed by studying &c.’ {%-v. i.%} {#pac#} pass.,
 {#kavervARIM#} (U. 7) ‘of m. ed intellect.’
 {@-ate,@} {%v. t.%} {#pac#} c., {#pari-Ram#} c. {%-v. i.%} {#pac#}
 pass., {#pakvIBU, pUyapUrRa#} {%-a.%} {#BU#}. {@-ation,@} {%s.%}
-{#pAkaH, vipari°, -pariRati#} {%f.,%} {#pariRAmaH#}. {@2@}
+{#pAkaH, vipari˚, -pariRati#} {%f.,%} {#pariRAmaH#}. {@2@}
 {#sapUyatvaM, pUyasrAvaH#}. {@-ative,@} {%a.%} {#pAkala, pA-#}
 {#-cana, pacizRu, pUyajanana#} ({#nI#} {%f.%}). {@-ity,@}
-{@-ness,@} {%s.%} {#pAkaH, vi-pari°-, pariRAmaH#},
+{@-ness,@} {%s.%} {#pAkaH, vi-pari˚-, pariRAmaH#},
 {#vipakvatA, pariRati#} {%f.,%} {#prOQa-pakva-daSA, pakva-#}
 {#-pariRata-avasTA, pakvaBAvaH, kaWoratA, prOQatA#},
 {#sidDi#} {%f.,%} {#saMpUrRatA#}. {@-ly,@} {%adv.%} {#sapariRAmaM#},
@@ -51136,7 +51136,7 @@ attired’ {#kfpaRa-anArya-veza#}. {@-ness,@} {%s.%}
 <LEND>
 
 <L>6573<pc>283<k1>measure<k2>measure
-{@Measure,@}¦ {%v. t.%} {#mA#} 3 A, 2 P, {#pra-pari-°; tul#}
+{@Measure,@}¦ {%v. t.%} {#mA#} 3 A, 2 P, {#pra-pari-˚; tul#}
 10, {#mAnaM nirUp#} 10 or {#jYA#} 9 U. {@2@} {#gaR#} 10.
 {@3@} {#viBaj#} 1 U, {#pari-kxp#} c.; {%See%} {@Divide.@}
 {@3@} {#laMG#} 1 A, 10, {#atikram#} 1 U, 4 P, {#ati#}
@@ -52233,7 +52233,7 @@ not m. matters’ {#yaTAvfttaM sarvaM sAkalyena#}
 {#prazwumanAH-kAmaH#}; ‘to cross the m.’ {#manasi#}
 {#ud-i#} 2 P or {#udBU#} 1 P, {#budDO saMjan#} 4 A;
 {%See%} {@Occur;@} ‘call to m.’ {#smf#} 1 P, {#saM-#}
-{#-anu-°, anuciMt#} 10; ‘put in m.’ {#smf#} c.,
+{#-anu-˚, anuciMt#} 10; ‘put in m.’ {#smf#} c.,
 {#anu-ud-buD#} c.; ‘of one m.’ {#ekacitta#} {%-a.;%}
 ‘being of one m.’ {#ekacittIBUya#}; ‘change
 of m.’ {#budDi-mati-BedaH#}; ‘flashing across
@@ -52265,7 +52265,7 @@ in comp.; ‘worldly-m.’ {#saMsArAsaktacitta#};
 {#utpattisTAnaM#}; ‘m. for jewels’ {#maRiBUmi#}
 {%f.,%} {#ratnAkaraH#}, (fig.) {#AkaraH, niDiH, rASiH#}.
 {@2@} {#saMDiH, suruMgA, KAnikaM, kulyA#}. {%-v. t.%} {#Kan#}
-1 P, {#A-ni-°, aDastAt Kan, UrvIM Bid#} 7 P
+1 P, {#A-ni-˚, aDastAt Kan, UrvIM Bid#} 7 P
 or {#vi-dF#} 9 P, {#suruMgAM kf#}. {@-er,@} {%s.%} {#KanakaH#},
 {#KAtakaH, AKanikaH, Kanitf#} {%m.%} {@2@} {#suruMgAkAraH#},
 {#sOruMgikaH#}. {@-Mineral,@} {%s.%} {#DAtuH, KanijaM#},
@@ -52277,7 +52277,7 @@ comp. {@2@} {#Kanija, Akaraja, AkarodBava#}. {@3@}
 <LEND>
 
 <L>6707<pc>289<k1>mingle<k2>mingle
-{@Mingle,@}¦ {%v. t.%} {#miSr#} 10, {#vi-saM-vyA-°, saMyuj#}
+{@Mingle,@}¦ {%v. t.%} {#miSr#} 10, {#vi-saM-vyA-˚, saMyuj#}
 7 U, 10, {#saMsfj#} 6 P, {#saMpfc#} 2 A, 7 P,
 {#saMkf#} 6 P, {#saMmil#} c., {#miSrIkf#} 8 U, {#ekIkf#};
 {#utkaMWAsADAraRaM paritozamanuBavAmi#} (S. 4)
@@ -52662,7 +52662,7 @@ come single’ {#raMDropanipAtino'narTAH#} (S. 6),
 {#prati-i#} or {#viSvas#} 2 P, {#vikxp#} 1 A, {#vep#}
 1 A, {%See%} {@Doubt;@} ‘my mind m. s me’
 {#udeti me manasi SaMkA, SaMkate-vepate me hfdayaM#}.
-{@-ing,@} {%s.%} {#SaMkA, A-vi-°, saMdehaH, saMSayaH#},
+{@-ing,@} {%s.%} {#SaMkA, A-vi-˚, saMdehaH, saMSayaH#},
 {#vikalpaH, apratyayaH, aviSvAsaH#}.
 <LEND>
 
@@ -52958,17 +52958,17 @@ servants). {@2@} {#aDyApikA, AcAryA, upa-#}
 <LEND>
 
 <L>6800<pc>293<k1>mitigate<k2>mitigate
-{@Mitigate,@}¦ {%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-°#},
+{@Mitigate,@}¦ {%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-˚#},
 {#laGU-kf#} 8 U, {#laGayati#} (D.), {#nyUnIkf, alpI-#}
 {#-kf; ni-yam#} 1 P or c.; {%See%} {@Moderate;@}
 ‘to be m. ed’ {#Sam#} 4 P, {#laGUBU#} 1 P.
-{@-lon,@} {%s.%} {#SamaH, SamanaM, SAMti#} {%f.,%} {#pra-upa-°#},
+{@-lon,@} {%s.%} {#SamaH, SamanaM, SAMti#} {%f.,%} {#pra-upa-˚#},
 {#laGUkaraRaM, nyUnatA#}. {@-ive, -Mitigant,@} {%a.%}
 {#Samaka, SAMtida, SAMtikara#} ({#rI#} {%f.%}).
 <LEND>
 
 <L>6801<pc>293<k1>mix<k2>mix
-{@Mix,@}¦ {%v. t.%} {#miSr#} 10, {#saM-vyA-vi°-, saMyuj#} 7 U,
+{@Mix,@}¦ {%v. t.%} {#miSr#} 10, {#saM-vyA-vi˚-, saMyuj#} 7 U,
 10, {#saM-yu#} 2 P; {#saMsfj#} 6 P, {#saMpfc#} 2 A, 7 P,
 {#prakzip#} 6 P, {#ekIkf#} 8 U, {#ekatra kf, saMmil#} c.
 {@2@} {#saMkF#} 6 P, {#saMkulIkf#}. {%-v. i.%} {#miSrIBU#} 1 P,
@@ -53076,7 +53076,7 @@ comp.; ‘m. fight’ {#kftrimayudDaM, vyAjayudDaM#}.
 speech’ {#mitavAc-BAzin#}. {@2@} (Middling)
 {#maDyama, sAmAnya, anati-nAti#}. in comp.;
 ‘trees of a m. height’ {#nAtituMgA vfkzAH#}.
-{%-v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-°, laGayati#}
+{%-v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-˚, laGayati#}
 (D.). {#laGUkf#} 8 U, {#nyUnI-alpI-kf, niyam#}
 1 P or c.; {#CAyAdrumErniyamitArkamayUKatApaH#}
 (S. 4) ‘the heat of the sun's rays
@@ -53209,7 +53209,7 @@ makes mountains of m.-hills’ {#tile#}
 <LEND>
 
 <L>6830<pc>294<k1>mollify<k2>mollify
-{@Mollify,@}¦ {%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-°#}
+{@Mollify,@}¦ {%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-˚#}
 {#sAMtv#} 10, {#mfdUkf#} 8 U, {#laGUkf#}.
 <LEND>
 
@@ -53955,7 +53955,7 @@ only); ‘corner of the m.’ {#sfkkan#} {%n.,%}
 <LEND>
 
 <L>6925<pc>299<k1>move<k2>move
-{@Move,@}¦ {%v. i.%} {#cal-r#} 1 P, {#sfp#} 1 P, {#pra-vi-°, sf#}
+{@Move,@}¦ {%v. i.%} {#cal-r#} 1 P, {#sfp#} 1 P, {#pra-vi-˚, sf#}
 1 P, {#gam#} 1 P, {#yA#} 2 P, {#i#} 1 P. {@2@} {#Bram#} 1,
 4 P, {#parivft#} 1 A. {@3@} {#sTAnAMtaraM-gfhAMtaraM gam#}
 or {#yA#}. {@4@} {#cezw#} 1 A, {#yat#} 1 A; ‘m. on’
@@ -53964,7 +53964,7 @@ or {#yA#}. {@4@} {#cezw#} 1 A, {#yat#} 1 A; ‘m. on’
 {#apakram#} 1 U, 4 P, {#apa-sf-gam#}; ‘don't m.
 even a step further’ {#asmAtsTAnAtpadA-#}
 {#-tpadamapi na gaMtavyaM#} (Ka. 147). {%-v. t.%} {#cal#}
-c., {#pra-vi-saM°, pra-sf#} c., {#Ir#} c. {@2@} {#pari-, Bram#} c.
+c., {#pra-vi-saM˚, pra-sf#} c., {#Ir#} c. {@2@} {#pari-, Bram#} c.
 ({#Bramayati#}); {#sTAnAMtaraM gam#} c. ({#gamayati#}). {@2@}
 {#kfz#} 1 P, {#prer#} c., {#pravft#} c.; {#protsah#} c., {#nud#}
 6 P or c., {#pracud#} 10, {#cezw#} c., {#ud-pra-yuj#}
@@ -54163,7 +54163,7 @@ the urethra’ {#puzpaM, ftuH#} {@-Mucous,@}
 
 <L>6952<pc>300<k1>multiply<k2>multiply
 {@Multiply,@}¦ {%v. t.%} {#guRayati#} (D.), {#han#} 2 P or
-c. ({#GAtayati#}), {#A-ni-°, pUr#} 10; ‘m. ing
+c. ({#GAtayati#}), {#A-ni-˚, pUr#} 10; ‘m. ing
 4 by 3 we get 12’ {#triguRitAH-triBi-#}
 {#-rAhatAH-catvAraH dvAdaSa saMpadyaMte; triGnezu caturzu#}
 {#dvAdaSa PalaM#}. {@2@} {#vfD#} c., {#upa-ci#} 5 U, {#bahulI-#}
@@ -55597,7 +55597,7 @@ below. {@-Nobly,@} {%adv.%} {#kulInavat, ABijA-#}
 {#vi-, ru#} 2 P, {#raR#} 1 P, {#SabdAyate#} (D.),
 {#kolAhalaM-kalakalaM-kf#} 8 U; ‘shallow
 water makes great n.’ {#arDo Gawo Gozamu-#}
-{#-pEti nUnaM#}. {%-v. t.%} {#Guz#} 10, {#ut-vi-°, prakAS#}
+{#-pEti nUnaM#}. {%-v. t.%} {#Guz#} 10, {#ut-vi-˚, prakAS#}
 c., {#pra-, KyA#} c. ({#KyApayati#}), {#prakawIkf#}. {@-ful,@}
 {%a.%} {#saSabda#}; {%See%} {@Noisy,@} below. {@-less,@} {%a.%}
 {#niHSabda, nIrava, nirGoza#}. {@-lessly,@} {%adv.%} {#niH-#}
@@ -55889,7 +55889,7 @@ guest’ {#atiTiviSezaH#}. {%-s.%} {#kulIna-viSizwa-#}
 <LEND>
 
 <L>7161<pc>310<k1>notice<k2>notice
-{@Notice,@}¦ {%v. t.%} {#lakz#} 10, {#saM-A-°, nirUp#} 10,
+{@Notice,@}¦ {%v. t.%} {#lakz#} 10, {#saM-A-˚, nirUp#} 10,
 {#Alok#} 1 A, 10, {#pra-ava-nir-pari-Ikz#} 1 A,
 {#dfS#} 1 P, {#nirvarR#} 10. {@2@} {#mano dA#}
 3 U, {#ava-DA#} 3 U, {#sAvaDAna#} {%-a.%}
@@ -56578,7 +56578,7 @@ benefits’ {#kftajYa, kftavedin#}. {@-ation,@} {%s.%}
 <L>7247<pc>314<k1>obstacle<k2>obstacle
 {@Obstacle,@}¦ {%s.%} {#aMtarAyaH, pratyUhaH, vyAGAtaH#},
 {#pratibaMDaH, vi-prati-zwaMBaH, vAraRaM, viGnaH, roDaH#},
-{#upa-prati-ava-ni°-, viGAtaH, bADaH-DA, vyava-#}
+{#upa-prati-ava-ni˚-, viGAtaH, bADaH-DA, vyava-#}
 {#-DAnaM, pratyarTin#}, {%m.,%} ‘though an o. to
 his meditation’ {#pratyarTiBUtAmapi samADeH#}
 (K. I. 59).
@@ -56612,7 +56612,7 @@ noise). {@-ly,@} {%adv.%} {#uccEHsvareRa, sakolA-#}
 <LEND>
 
 <L>7252<pc>314<k1>obstruct<k2>obstruct
-{@Obstruct,@}¦ {%v. t.%} {#ruD#} 7 U, {#ni-vi-saM-prati-upa°#},
+{@Obstruct,@}¦ {%v. t.%} {#ruD#} 7 U, {#ni-vi-saM-prati-upa˚#},
 {#vi-prati-vyA-han#} 2 P, {#vf#} c., or {#vAr#} 10, {#vi-#},
 {#-staMB#} 9 P, or c., {#pra-saM-bAD#} 1 A, {#viGnayati#}
 (D.), {#ni-prati-ziD#} 1 P. {@-er,@} {%s.%} {#viGnakaraH#},
@@ -57184,7 +57184,7 @@ o.’ {#sulakzaRaM#}; ‘ill o.’ {#duScihnaM, durlakzaRaM#},
 <LEND>
 
 <L>7312<pc>317<k1>omit<k2>omit
-{@Omit,@}¦ {%v. t.%} {#vfj#} 10, {#vi-pari-°, pari-tyaj#} 1 P,
+{@Omit,@}¦ {%v. t.%} {#vfj#} 10, {#vi-pari-˚, pari-tyaj#} 1 P,
 {#ut-, kzip#} 6 P, {#muc#} 6 P, {#utsfj#} 6 P,
 [Page318]
 {#apAs#} 4 U, {#hA#} 3 P, {@2@} {#atikram#} 1 U, 4 P,
@@ -57369,7 +57369,7 @@ c., &c. {%-s.%} {#kzaratpaMkaH, mfdumfttikA#}. {@2@} {#sravaH#},
 c., {#prabuD#} c., {#Bid#} 7 P or c., ({#sUryAMSuBi-#}
 {#-rBinnamivAraviMdaM#} K. 1. 32), {#sPuw#} c.;
 (eyes) {#unmIl#} c., {#utPal#} c., {#unmiz#} c.;
-(mouth) {#vyA-dA#} 3 P, {#jfMB#} c., {#ut-vi-°#};
+(mouth) {#vyA-dA#} 3 P, {#jfMB#} c., {#ut-vi-˚#};
 (hand) {#prasf#} c., {#vitan#} 8 U, {#vistF#} c. {@2@}
 [Page319]
 {#vi-aMj#} 7 P or c., {#vivf, prakawIkf, Avizkf#},
@@ -57377,7 +57377,7 @@ c., {#prabuD#} c., {#Bid#} 7 P or c., ({#sUryAMSuBi-#}
 oneself’ {#hfdgataM nivid#} c. {@3@} (As mean-
 -ing) {#vyA-KyA#} 2 P, {#vyAcakz#} 2 A, {#vyAkf#},
 {#vyaktIkf, vivf#}. {@4@} {#Cid#} 7 P, {#nirBid#}. {@5@} {#SuD#}
-c., {#vi-pari°#}. {@6@} {#prAraB#} 1 A, {#prastu#} 2 U, {#pra-#}
+c., {#vi-pari˚#}. {@6@} {#prAraB#} 1 A, {#prastu#} 2 U, {#pra-#}
 {#-upa-kram#} 1 A. {%-v. i.%} {#unmIl#} 1 P, {#vikas#}
 1 P, {#sPuw#} 6 P, {#dal#} 1 P, {#Bid#} pass., {#Pull#}
 1 P. {@2@} {#vistF-vivf#}- pass., {#vi-jfMB#} 1 A,
@@ -58720,14 +58720,14 @@ or {#upakxp#} c., {#pra-saM-ci#} 5 U. {%-s.%} {#ati-#}
 <LEND>
 
 <L>7524<pc>326<k1>overthrow<k2>overthrow
-{@Overthrow,@}¦ {%v. t.%} {#naS#} c., {#vi-pra-,° kzi#} 1,
-5 P, {#DvaMs#} c., {#pra-vi-ut°, ucCid#} 7 P,
+{@Overthrow,@}¦ {%v. t.%} {#naS#} c., {#vi-pra-,˚ kzi#} 1,
+5 P, {#DvaMs#} c., {#pra-vi-ut˚, ucCid#} 7 P,
 {#ava-ut-sad#} c. {@2@} {#parivft#} c., {#pari-vipari-#}
 {#-as#} 4 U, {#parAkzip#} 6 P or c., {#aDomuKIkf#}
 8 U, {#nipat#} c. {@3@} {#ji#} 1 P, {#parAji#} (A.),
 {#aBi-parA-BU#} 1 P, {#dam#} c. ({#damayati#}), {#vaSIkf#}
 8 U, {#parAs#} 4 U, {#BaMj#} 7 P, {#parAhan#} 2 P.
-{%-s.%} {#nASaH, DvaMsaH, pra-vi°-, ucCedaH, utsAdaH#},
+{%-s.%} {#nASaH, DvaMsaH, pra-vi˚-, ucCedaH, utsAdaH#},
 {#kzayaH#}. {@2@} {#GAtaH, BaMgaH, BedaH, parA-aBi-BavaH#},
 {#parAjayaH, vyasanaM#}. {@3@} {#parivartanaM, paryAsaH, nipAtanaM#}.
 <LEND>
@@ -58766,8 +58766,8 @@ or {#upakxp#} c., {#pra-saM-ci#} 5 U. {%-s.%} {#ati-#}
 {#ava-saM-mfd#} 9 P or c., {#ava-ni-pat#} c. {#nizpiz#}
 7 P. {@2@} {#A-vf#} 5 U, {#Astf-stF#} 5, 9 U,
 {#AcCad#} 10, {#AkF#} 6 P. {@3@} {#ni-, masj#} c.
-({#majjayati#}), {#gAh#} c., {#ava-vi°-, plu#} c., {#A-#}
-{#-saM-pari-°#}. {@-ed,@} {%a.%} {#aBiBUta, grasta, AkrAMta#},
+({#majjayati#}), {#gAh#} c., {#ava-vi˚-, plu#} c., {#A-#}
+{#-saM-pari-˚#}. {@-ed,@} {%a.%} {#aBiBUta, grasta, AkrAMta#},
 {#magna, AkIrRa, upapluta, upadruta, Akula#}; {%See%}
 {@Overcome;@} ‘o. with grief’ {#SokasamA-#}
 {#-kula#}; ‘o. with a flood of tears’ {#bAzpa-#}
@@ -58903,14 +58903,14 @@ with’ {#saha gam#} or {#cal#} 1 P. {%-v. i.%} {#pari-#}
 
 <L>7546<pc>327<k1>pacify<k2>pacify
 {@Pacify,@}¦ {%v. t.%} {#sAM(SAM)tv#} 10, {#Sam#} c.
-({#Samayati#}), {#pra-upa°-, pra-sad#} c., {#saM-pari-tuz#} c.,
+({#Samayati#}), {#pra-upa˚-, pra-sad#} c., {#saM-pari-tuz#} c.,
 {#ArAD#} c. {@-ied,@} {%a.%} {#SAMta, prasAdita, SAMtakroDa#};
 ‘to be p.’ {#Sam#} 4 P, {#prasad#} 1 P, {#tuz#} 4 P,
 {#SamaM i-yA#} 2 P. {@-ier,@} {%s.%} {#SamakaH, sAMtvakaH#}.
 {@-ic,@} {%a.%} {#SAMta, praSamita, nirudvega#}. {@2@} {#sAMtva-#}
 {#-praSama-SIla; sAMtvanakArin, sAma#} in comp.;
 ‘p. words’ {#sAmavAdaH#}. {@-ication,@} {%s.%} {#SamaH#},
-{#SamanaM, SAMti#} {%f.,%} {#pra-upa°-, sAMtvanaM, sAman#} {%n.,%}
+{#SamanaM, SAMti#} {%f.,%} {#pra-upa˚-, sAMtvanaM, sAman#} {%n.,%}
 {#prasAdanaM#}. {@2@} {#saMDAnaM, saMDikaraRaM#}. {@-icatory,@} {%a.%}
 {#SAMtida, SAMtikara#} ({#rI#} {%f.%}), {#Samaka, sAmopA-#}
 {#-yaka, sAma#} in comp.
@@ -59015,7 +59015,7 @@ p.’ {#pIqA-duHKa-kara#} ({#rI#} {%f.%}); ‘suffering p.’
 {#-yAsaH, kazwaM#}; ‘to take p. s’ {#prayat#} 1 A, {#udyam#}
 1 A, {#cezw#} 1 A, {#Gaw#} 1 A, {#vyava-so#} 4 P. {@3@}
 {#daMqaH, sAhasaM#}. {%-v. t.%} {#pIq#} 10, {#du#} 5 P, {#vyaT#} c.
-({#vyaTayati#}), {#tap#} c, {#saM-pari-upa°-, bAD#} 1 A,
+({#vyaTayati#}), {#tap#} c, {#saM-pari-upa˚-, bAD#} 1 A,
 {#kliS#} 9 P, {#ard#} 1 P or c., {#duHKayati#} (D.).
 {@-ed,@} {%a.%} {#pIqita, dUna, duHKita, vyaTita, tApita#},
 {#saM-pari-tapta, Arta, duHKArta, duHKAtura, savedana#},
@@ -59219,7 +59219,7 @@ was p. ed off upon him’ {#tena CadmanA#}
 [Page329]
 
 <L>7589<pc>329<k1>palsy<k2>palsy
-{@Palsy,@}¦ {%s.%} {#staMBaH, saM-vi-°, svApaH, supti#} {%f.%} {@2@}
+{@Palsy,@}¦ {%s.%} {#staMBaH, saM-vi-˚, svApaH, supti#} {%f.%} {@2@}
 {#pakzAGAtaH, pakzavAyuH#}. {%-v. t.%} {#staMB#} 9 P or c.,
 {#jaqIkf#} 8 U, {#svap#} c., {#cEtanyaM naS#} c. {@-ied,@}
 {@-ical,@} {%a.%} {#pakzavAyugrasta#}.
@@ -59910,7 +59910,7 @@ by ({%s.%}); ‘p.-coloured’ {#citravicitra#},
 {@Pass,@}¦ {%v. t.%} {#ati-vyati-i#} 2 P, {#atikram#} 1 U,
 4 P; ‘they two p. ed each other’ {#para-#}
 {#-sparamatItya-ullaMGya-tO nirgatO; tF#} 1 P, {#saM-#}
-{#-ut-niH-°, ut-, laMG#} 1 A, 10, {#pAraM gam#} 1 P,
+{#-ut-niH-˚, ut-, laMG#} 1 A, 10, {#pAraM gam#} 1 P,
 {#atigam#}; ‘p. ed his examination’ {#parIkzA-#}
 {#-pAraM gataH, parIkzAmuttatAra#}. {@2@} (Time) {#gam#} c.
 ({#gamayati#}), {#nI#} 1 P, {#ati-vah#} c., {#kzE#} c.
@@ -61080,7 +61080,7 @@ monthly p.’ {#mAsikapustakaM#}. {@-ically,@}
 <LEND>
 
 <L>7844<pc>338<k1>perish<k2>perish
-{@Perish,@}¦ {%v. i.%} {#naS#} 4 P, {#pra-vi-°, kzi#} -pass.;
+{@Perish,@}¦ {%v. i.%} {#naS#} 4 P, {#pra-vi-˚, kzi#} -pass.;
 {#pramI#} 4 A, {#DvaMs#} 1 A, {#kzayaM-nASaM-layaM-gam#}
 [Page339]
 1 P or {#i-yA#} 2 P, {#pra-vi-lI#} 4 A; {#mf#} 6 A,
@@ -61448,7 +61448,7 @@ minds of) those’ &c., ‘(the fresh-
 <LEND>
 
 <L>7883<pc>341<k1>petition<k2>petition
-{@Petition,@}¦ {%v. t.%} {#arT#} 10 A, {#pra-ABi°-, yAc#}
+{@Petition,@}¦ {%v. t.%} {#arT#} 10 A, {#pra-ABi˚-, yAc#}
 1 A; {#nivid#} c., {#vi-jYA#} c. ({#jYApayati#}). {%-s.%}
 {#prArTanA, yAcYA, nivedanaM, vijYapti#} {%f.,%} {#vi-#}
 {#-jYApanA#}. {@2@} (Written) {#vijYaptiH, prArTanA-#}
@@ -62178,7 +62178,7 @@ the next p.’ {#aparaMca, punaH, punaSca#}; ‘to
 give p.’ {#sTAnaM tyaj#} 1 P, {#vyapa-sfp#} 1 P,
 {#apa-sf#} 1 P; ‘to take p.’ {%See%} {@Happen,@}
 {@Occur.@} {%-v. t.%} {#sTA#} c. ({#sTApayati#}), {#DA#} 3 U,
-{#ni-A°-, vi-, nyas#} 4 U, {#nikzip#} 6 P, {#A-#}
+{#ni-A˚-, vi-, nyas#} 4 U, {#nikzip#} 6 P, {#A-#}
 {#-ni-viS#} c., {#Aruh#} c. ({#ropayati#}), {#Df#} 10;
 oft. by {#kf#} 8 U, {#dA#} 3 U, {#vyApf#} c., ({#vyA#}-
 [Page345]
@@ -62188,7 +62188,7 @@ office’ {#pade niyuj#} 7 A, 10 or {#Aruh#} c.
 <LEND>
 
 <L>7993<pc>345<k1>placid<k2>placid
-{@Placid,@}¦ {%s.%} {#SAMta, pra-upa°-, prasanna, nirAkula#},
+{@Placid,@}¦ {%s.%} {#SAMta, pra-upa˚-, prasanna, nirAkula#},
 {#anudvigna, jitakroDa, asaMBrama, SAMtAtman#},
 {#prasannacitta#}. {@-ly,@} {%adv.,%} {#prasannaM, SAMtyA, SAMta-#}
 {#-cetasA, nirAkulaM#}. {@-ity, -ness,@} {%s.%} {#SamaH#},
@@ -62324,7 +62324,7 @@ words’ {#paridevitAkzarEH#}. {@-ly,@} {%adv.%} {#karuRaM#},
 
 <L>8009<pc>345<k1>plaster<k2>plaster
 {@Plaster,@}¦ {%s.%} {#lepaH, suDA, cUrRalepaH#}. {@2@} {#upanAhaH#}
-{#upadehaH#}. {%-v. t.%} {#lip#} 6 P, {#vi-anu-pra-°, dih#}
+{#upadehaH#}. {%-v. t.%} {#lip#} 6 P, {#vi-anu-pra-˚, dih#}
 2 U, {#upa-nah#} 4 P. {@-er,@} {%s.%} {#lepakaH, palagaMqaH#}.
 {@-ing,@} {%s.%} {#vi-pra-lepaH-panaM#}.
 <LEND>
@@ -62430,7 +62430,7 @@ for his life’ {#jIvitadAnArTaM prArTayAmAsa#}.
 
 <L>8021<pc>346<k1>please<k2>please
 {@Please,@}¦ {%v. t.%} {#prI#} 9 P, 10 ({#prIRayati#}), {#tfp#}
-c., {#saM-pari-°, ram#} c. ({#ramayati#}), {#pramud#} c.,
+c., {#saM-pari-˚, ram#} c. ({#ramayati#}), {#pramud#} c.,
 {#suKayati#} (D.), {#A-naMd#} c., {#saM-, tuz#} c.,
 {#prasad#} c., {#AhlAd#} c., {#hfz#} c., {#ArAD#} c.,
 {#anuraMj#} c.; oft. by {#icCA, prasAdaH, kfpA#};
@@ -62650,10 +62650,10 @@ life’ {#jIvitApaharaRAya kapawaprabaMDAnracayaMti#}.
 {@Pluck,@}¦ {%v. t.%} (Off) {#lU#} 9 U, {#nizkfz#} 1 P;
 ‘crows with feathers p. ed off’ {#lUna-#}
 {#-pakzAH kAkAH#}; (out) {#utpaw#} 10, {#saM-, udDf#} 1 P,
-{#nirhf#}; (hair) {#luMc#} 1 P, {#ava-ut-°, utpaw#}.
+{#nirhf#}; (hair) {#luMc#} 1 P, {#ava-ut-˚, utpaw#}.
 c.; (up) {#unmUl#} 10, {#ut-Kan#} 1 P, {#ucCid#}
 7 P, {#utpaw, udDf, kfz#}. {@2@} (Gather) {#ci#}
-5 U, {#ava-saM-°, lU, Cid, A-dA#} 3 A, {#grah#}
+5 U, {#ava-saM-˚, lU, Cid, A-dA#} 3 A, {#grah#}
 9 U. {%-s.%} {#sattvaM, vIryaM, pOruzaM, utsAhaH#}; {%See%}
 {@Courage, -ing,@} {%s.%} {#utpAwanaM, udDaraRaM, ulluM-#}
 {#-canaM, ava-, cayaH#}.
@@ -62714,8 +62714,8 @@ learning’ {#jYAnena AtmAnaM atIva SlAGate-#}
 <LEND>
 
 <L>8053<pc>348<k1>plunge<k2>plunge
-{@Plunge,@}¦ {%v. i.%} {#masj#} 6 P, {#ni-ava-°, Aplu#}
-1 A, {#gAh#} 1 A, {#vi-ava-°, praviS#} 6 P. {%-v. t.%}
+{@Plunge,@}¦ {%v. i.%} {#masj#} 6 P, {#ni-ava-˚, Aplu#}
+1 A, {#gAh#} 1 A, {#vi-ava-˚, praviS#} 6 P. {%-v. t.%}
 Causal of roots above. {%-s.%} {#avagAhaH-#}
 {#-hanaM, ni-, majjanaM, AplavaH, praveSaH#}. {@-ed,@} {%a.%}
 {#magna, avagAQa, Apluta, lIna, pra-ni-vizwa#}.
@@ -63431,7 +63431,7 @@ for securing an elephant’ {#AlAnaM#},
 {#javaturagaH#}; ‘p. -man’ {#patra#} or {#leKa-vAhaH#} or
 {#hAraH#}; ‘P.-master’ {#patrasTAnADikArin#} {%m.,%}
 {#patravAhADyakzaH#}; ‘p. office’ {#patrasTAnaM-gfhaM#}.
-{%-v. t.%} {#sTA#} c. ({#sTApayati#}), {#saM-prati-°, niyuj#}
+{%-v. t.%} {#sTA#} c. ({#sTApayati#}), {#saM-prati-˚, niyuj#}
 7 A, 10. {@2@} {#staMBe baMD#} 9 P. {@3@} {#patrasTAne#}
 {#niviS#} c. or {#kzip#} 6 P. {@4@} {#prakAS#} c., {#A-#}
 {#-saMj#} c. {%-v. i.%} {#javena gam#} or {#vraj#} 1 P; ‘p.
@@ -63628,7 +63628,7 @@ contents’ {#nirgalitAMbugarBaH, pAnIyarikto-#}
 the pot’ {#pAtraM jalariktaM kuru#}; ‘p. ed
 forth arrows’ {#SaravfzwiM mumoca#}; ‘p. one's
 soul to another’ {#anyasmE svamanogataM sarvA-#}
-{#-tmanA nivid#} c. {%-v. i.%} {#sru#} 1 P, {#pra-pari-°#},
+{#-tmanA nivid#} c. {%-v. i.%} {#sru#} 1 P, {#pra-pari-˚#},
 {#pra-, syaMd#} 1 A, {#Scyut#} 1 A, {#jalaM sru#} c. or
 {#pravah#} 1 P. {@2@} {#vfz, nirgal#} 1 P. {@3@} {#niHsf#}
 1 P, {#nirgam#} 1 P, {#niH-sru#} ‘rain
@@ -63759,7 +63759,7 @@ is a p. teacher’ {#sa SikzaRaprayoganipuRaH#}. {@3@}
 <L>8182<pc>354<k1>praise<k2>praise
 {@Praise,@}¦ {%v. t.%} {#praSaMs#} 1 P, {#SlAG#} 1 A, {#Iq#} 2 A, {#nu#}
 2 P, {#stu#} 2 U, {#varR#} 10, {#gE#} 1 P, {#kFt#} 10, {#vi-#}
-{#-pra-° KyA#} 2 P or c. ({#KyApayati#}), {#pan#} 1 P,
+{#-pra-˚ KyA#} 2 P or c. ({#KyApayati#}), {#pan#} 1 P,
 {#nU#} 6 P. {%-s.%} {#pra-, SaMsA, SlAGA, stuti#} {%f.,%} {#stavaH#},
 {#varRanaM-nA, kIrtanaM, nuti#} {%f.,%} {#IqA, stotraM#}. {@-er,@}
 {%s.%} {#praSaMsakaH, stAvakaH, varRakaH, vaMdAruH#}.
@@ -63794,7 +63794,7 @@ is a p. teacher’ {#sa SikzaRaprayoganipuRaH#}. {@3@}
 <LEND>
 
 <L>8187<pc>354<k1>pray<k2>pray
-{@Pray,@}¦ {%v.%} (A deity) {#stu#} 2 U, {#pra-aBi-saM-°#},
+{@Pray,@}¦ {%v.%} (A deity) {#stu#} 2 U, {#pra-aBi-saM-˚#},
 {#namasyati#} (D.), {#aBivaw#} c., {#ArAD#} c.,
 {#praRam#} 1 P; ({#manasA#}) {#pUj#} 10, {#upAs#} 2 A,
 {#DyE#} 1 P; {#ciMt#} 10. {@2@} {#ASaMs#} 1 A. {@3@} {#yAc#}
@@ -64477,7 +64477,7 @@ over the body’ {#SarIrABimAnI AtmA#}.
 <LEND>
 
 <L>8265<pc>358<k1>press<k2>press
-{@Press,@}¦ {%v. t.%} {#pIq#} 10, {#niH-A-°, nizkfz#} 1 P,
+{@Press,@}¦ {%v. t.%} {#pIq#} 10, {#niH-A-˚, nizkfz#} 1 P,
 {#nirhf#} 1 P, {#nirduh#} 2 U; (together) {#saMpIq#},
 {#saMhan#} 2 P, {#saMhf, saMkuc#} 1 P, {#saMpiMq#} 10,
 {#saMGaww#} c. {@2 Clasp,@} q. v; ‘p. ing him to
@@ -64659,8 +64659,8 @@ everywhere’ {#sarvaM tamovftaM AsIt#}. {@3@} {#siD#}
 <LEND>
 
 <L>8279<pc>359<k1>prevent<k2>prevent
-{@Prevent,@}¦ {%v. t.%} {#vf#} c., {#ni-vini-°, ruD#} 7 U,
-{#prati-ava-ni°, prati-ni-ziD#} 1 P, {#pratikf#} 8 U,
+{@Prevent,@}¦ {%v. t.%} {#vf#} c., {#ni-vini-˚, ruD#} 7 U,
+{#prati-ava-ni˚, prati-ni-ziD#} 1 P, {#pratikf#} 8 U,
 {#bAD#} {@1@} A, {#pratibaMD#} 9 P, {#pratizwaMB#} 9 P, {#prati-#}
 {#-vyA-han#} {@2@} P, {#pratyA-KyA#} {@2@} P, {#nivft#} c.,
 {#aMtarAyaH BU- paripaMTIBU#} 1 P; ‘do not p.
@@ -65060,7 +65060,7 @@ cause does thy disorder p.’ {#kinni-#}
 <LEND>
 
 <L>8316<pc>362<k1>proclaim<k2>proclaim
-{@Proclaim,@}¦ {%v. t.%} {#Guz#} 10, {#ut-vi°-, pra-KyA#} c.
+{@Proclaim,@}¦ {%v. t.%} {#Guz#} 10, {#ut-vi˚-, pra-KyA#} c.
 ({#KyApayati#}), {#prakAS#} c., {#prakawayati#} (D.),
 {#prakawIkf, kft#} 10, {#ucCar#} c. {@2 Outlaw,@}
 q. v. {@-er,@} {%s.%} {#GozakaH, praKyApakaH#}.
@@ -65812,7 +65812,7 @@ strength’ {#SaktipAtaH-kzayaH, sattvahAni#} {%f.%}
 <L>8391<pc>367<k1>protect<k2>protect
 {@Protect,@}¦ {%v. t.%} {#rakz#} 1 P, {#av#} 1 P, {#pari-, trE#}
 1 A, {#gup#} 1 P, {#pA#} 2 P, {#pA#} c ({#pAlayati#}),
-{#pari-prati°-; tF#} c. {@2@} {#saMvfD#} c., {#pari-, puz#} c.
+{#pari-prati˚-; tF#} c. {@2@} {#saMvfD#} c., {#pari-, puz#} c.
 {@-ion,@} {%s.%} {#gopanaM, gupti#} {%f.,%} {#pAlanaM, trARaM, rakzA#},
 {#rakzaRaM, aByupapatti#} {%f.,%} {#saMvarDanaM, paripozaRaM#}. {@2@}
 {#SaraRaM, A-saMSrayaH, A-ava-laMbaH, ADAraH#};
@@ -66178,7 +66178,7 @@ c. ({#jYApayati#}), {#pra-vi-Guz#} 10, {#jYA#} c.
 <LEND>
 
 <L>8432<pc>369<k1>puff<k2>puff
-{@Puff,@}¦ {%v. t.%} {#DmA#} 1 P, {#A-upa-°, ut-Svi#} c.,
+{@Puff,@}¦ {%v. t.%} {#DmA#} 1 P, {#A-upa-˚, ut-Svi#} c.,
 (lit. & fig.); {#vAtena pUr#} 10, {#ud-han#} 2 P,
 {#sPAy#} c. ({#sPAvayati#}). {%-v. i.%} {#Svas#} 2 P,
 {#kfcCreRa Svas, ud-DmA#}. {@2@} {#vA#} 2 P. {@3@} {#Putkf#}
@@ -66238,7 +66238,7 @@ p. up, when praised’ {#stUyamAnA notsi-#}
 
 <L>8442<pc>369<k1>pull<k2>pull
 {@Pull,@}¦ {%s.%} {#karzaRaM, AkarzaH; grahaRaM, DaraRaM#}. {%-v. t.%}
-{#kfz#} 1 P, {#A-sa-°#}. {@2@} {#grah#} 9 U, {#A-dA#} 3 A,
+{#kfz#} 1 P, {#A-sa-˚#}. {@2@} {#grah#} 9 U, {#A-dA#} 3 A,
 {#Df#} 1 P, 10. {@-down,@} {#ni-, pat#} c., {#aDaH pat#}
 c., {#avakfz#}; (in strength) {#ava-sad#} c.,
 {#apa-ci#} 5 U, {#kzi#} 5 P, {#apakfz#}. {@-off,@} {#apa-#}
@@ -66423,7 +66423,7 @@ be p.’ {#SuD#} 4 P. {@-ly,@} {%adv.%} {#nirmalaM#},
 {%f.,%} {#SudDatA, prasAdaH, vESadyaM, SucitA, SOcaM#},
 {#puRyatA, sADutA, apApatA, pavitratA, pUtatA#},
 {#sADvItvaM#}, &c. {@-Purify,@} {%v. t.%} {#pari-, pU#} 9 U
-or c., {#SuD#} c., {#vi-pari-,° SucIkf#} 8 U, {#nirma-#}
+or c., {#SuD#} c., {#vi-pari-,˚ SucIkf#} 8 U, {#nirma-#}
 {#-lIkf, pavitrIkf, saMskf; pra-, mfj#} 2 P, {#nirRij#}
 3 U, {#prakzal#} 10, {#DAv#} 10. {@-ed,@} {%a.%} {#pari-, pUta#},
 {#SudDa, SoDita, prakzAlita, DOta, nirRikta#}, &c.;
@@ -66932,7 +66932,7 @@ address), {#rAjapatnI-mahizI#}; ‘q.'s metal’
 <LEND>
 
 <L>8534<pc>373<k1>quell<k2>quell
-{@Quell,@}¦ {%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-,°#}
+{@Quell,@}¦ {%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-,˚#}
 {#nivft#} c., {#vinaS#} {%c.,%} {#ucCid#} 7 P. {@2@} {#dam#} c.
 ({#damayati#}), {#vaSIkf#} 8 U, {#parA-aBi-BU#} 1 P,
 {#parAji#} 1 A.
@@ -66940,7 +66940,7 @@ address), {#rAjapatnI-mahizI#}; ‘q.'s metal’
 
 <L>8535<pc>373<k1>quench<k2>quench
 {@Quench,@}¦ {%v. t.%} (Thirst) {#Sam#} c. ({#Samayati#}),
-{#pra-upa-,° Cid#} 7 P, {#nivft#} c., {#avanI#} 1 P.
+{#pra-upa-,˚ Cid#} 7 P, {#nivft#} c., {#avanI#} 1 P.
 {@2@} {#nirvA#} c. ({#vApayati#}), {#pra-upa-Sam#} c.
 {@-ing,@} {%s.%} {#SamanaM, SAMti#} {%f.,%} {#vi-, cCedaH#}.
 <LEND>
@@ -67037,7 +67037,7 @@ in comp.; ‘going q.’ {#drutagAmin, SIGra-#}
 <LEND>
 
 <L>8543<pc>374<k1>quiet<k2>quiet
-{@Quiet,@}¦ {%a.%} {#SAMta, pra-upa-°, niScala, acala#},
+{@Quiet,@}¦ {%a.%} {#SAMta, pra-upa-˚, niScala, acala#},
 {#sTira, nizkaMpa; akzubDa, avyAkula, stimita#},
 {#nirvAta, nivfttavAyu#}, (sea); {#virata, viSrAMta#}.
 {@2@} {#sOmya, mfdu, acaMqa, anugra#}; {%See%} {@Mild.@}
@@ -67045,7 +67045,7 @@ in comp.; ‘going q.’ {#drutagAmin, SIGra-#}
 {#-plava, nirudvega, aBaMga#}. {@4@} {#niHSabda, tUzRIka#};
 ‘keep q.’ {#mOnamavalaMbasva, jihvAM DAraya#},
 {#tUzRIM Bava, jozamAssva#}. {%-s.%} {#sTiratA, niScalatvaM#},
-{#SAMti#} {%f.,%} {#SamaH, pra-upa-°, viSrAmaH, svAsTyaM#},
+{#SAMti#} {%f.,%} {#SamaH, pra-upa-˚, viSrAmaH, svAsTyaM#},
 {#nirupadravatA, nirvAtatvaM, akzoBaH, nirupaplavatA#},
 &c. {%-v. t.%} {#sAMtv#} 10, {#pra-upa-Sam#} c. ({#Samayati#}),
 {#nivft#} c., {#viram#} c., {#viSram#} c., {#sTirIkf#}
@@ -67668,7 +67668,7 @@ found’ {#duzprApa, durlaBa#}; ‘r. to be seen’
 
 <L>8625<pc>377<k1>rate<k2>rate
 {@Rate,@}¦ {%s.%} {#mUlyaM, arGaH, mUlya-arGa-pramARaM#},
-{#vasnaH, avakrayaH#}. {@2@} {#mAnaM, pra-pari°#}. {@3@}
+{#vasnaH, avakrayaH#}. {@2@} {#mAnaM, pra-pari˚#}. {@3@}
 {#vegaH, gati#} {%f.,%} {#gatimAnaM-pramARaM#}. {@4@}
 {#niyata-nirUpita-mUlyaM-vetanaM#}. {@5@} {#karaH#},
 {#SulkaM, baliH#}; ‘at. any r.’ {#yena kena prakAreRa#};
@@ -68093,7 +68093,7 @@ under {@Refract.@}
 
 <L>8666<pc>380<k1>receive<k2>receive
 {@Receive,@}¦ {%v. t.%} {#A-dA#} 3 A, {#prati-iz#} 6 P,
-{#grah#} 9 U, {#prati-pari-°, prati-A-pad#} 4 A,
+{#grah#} 9 U, {#prati-pari-˚, prati-A-pad#} 4 A,
 {#svIkf#} 8 U, {#aMgIkf#}. {@2@} {#Ap#} 5 P, {#aDigam#}
 1 P, {#laB#} 1 A; {%See%} {@Get. 3@} {#praviS#} c.; {%See%}
 {@Admit 4@} (A guest) {#pratyud-gam-vraj#} 1 P,
@@ -68242,7 +68242,7 @@ his own hand’ {#DanI vopagataM dadyAt#} ({#DanaM#})
 <LEND>
 
 <L>8681<pc>381<k1>recollect<k2>recollect
-{@Recollect,@}¦ {%v. t.%} {#smf#} 1 P, {#anu-saM-°, anu-DyE#}
+{@Recollect,@}¦ {%v. t.%} {#smf#} 1 P, {#anu-saM-˚, anu-DyE#}
 1 P, {#anuciMt#} 10, {#anubuD#} 4 A, 1 P. {@2@}
 (Oneself) {#DEryaM avazwaMB#} 9 P or {#avalaMb#}
 1 A; {%See%} {@Courage;@} ‘he tries to r.’ {#su-#}
@@ -68338,7 +68338,7 @@ or {#nirUp#} 10 or {#anusaM-DA#} 3 U, {#gavez#} 10.
 <L>8690<pc>382<k1>recourse<k2>recourse
 {@Recourse,@}¦ {%s.%} {#A-saM-upA-SrayaH, A-ava-laMbaH#},
 {@2@} {#SaraRaM, gati#} {%f.,%} ({#SrIharirme gatiH#}) {%f;%} ‘have
-r. to’ {#Sri#} 1 U, {#A-upA-samA-saM°, A-sTA#}
+r. to’ {#Sri#} 1 U, {#A-upA-samA-saM˚, A-sTA#}
 1 P, {#A-ava-laMb#} 1 A; {#upagam#} 1 P.
 <LEND>
 
@@ -68490,7 +68490,7 @@ mind) {#AviH-prAduH-BU, ud-i#} 2 P, {#sPur#}
 <L>8709<pc>383<k1>redeem<k2>redeem
 {@Redeem,@}¦ {%v. t.%} {#ava-hf#} 1 P, {#nizkrI#} 9 U, {#pari-#}
 {#-krI#} 9 A, {#DanaM dattvA mokz#} 10; {#muc#} c.,
-{#mokz, vi-nir-°, pratyA-dA#} 3 A, {#upa-nI#} 1 U;
+{#mokz, vi-nir-˚, pratyA-dA#} 3 A, {#upa-nI#} 1 U;
 ‘a pledge to be r. ed at a fixed time’
 {#kftakAlopaneyaH ADiH#} (V. M. 66). {@2@} {#pari-#},
 {#trE#} 1 A, {#ud-Df#} 1 P, 10, {#nistF#} c. {@3@} {#pUr#} 10,
@@ -68705,7 +68705,7 @@ credit on you’ {#idaM te caritaM atIva praSasyaM#}.
 {@Reform,@}¦ {%v. t.%} {#dozaM apanI#} 1 P or {#KaMq#}
 10 or {#apAkf#} 8 U or {#nivft#} c.; {#pApAt#}
 {#nivft#} c. or {#viram#} c.; {#durmatiM naS#} c., (of
-persons). {@2@} {#SuD#} c., {#pari-vi-saM-°, samA-#}
+persons). {@2@} {#SuD#} c., {#pari-vi-saM-˚, samA-#}
 {#-pratisamA-DA#} 3 U, {#pratikf#}. {@3@} {#punaH kf#} of
 {#kxp#} c. or {#vi-DA#}. {%-v. i.%} {#pApAt ni-parA-vft#}
 1 A or {#viram#} 1 P, {#pApamArgaM tyaj#} 1 P. {%-s.,%}
@@ -69178,7 +69178,7 @@ his hold’ {#mukta#} or {#SiTilita-grahaH#} or {#hastaH#}.
 
 <L>8777<pc>387<k1>release<k2>release
 {@Release,@}¦ {%v. t.%} {#mokz#} 10, {#muc#} 6 P or c., {#vi-#}
-{#-nir-°, udDf#} 1 P, {#nistF#} c., {#visfj#} 6 P;
+{#-nir-˚, udDf#} 1 P, {#nistF#} c., {#visfj#} 6 P;
 {%See%} {@Free,@} {%-s.%} {#vi-mukti#} {%f.,%} {#mokzaH, mocanaM#},
 {#udDAraH, nistAraH#} {@-er,@} {%s.%} {#mocakaH, mokzakaH#},
 {#udDartf#} {%m.%}
@@ -69302,7 +69302,7 @@ by {#Ayatta, aDIna, taMtra#} in comp.;
 {@Remain,@}¦ {%v. i.%} {#ava-sTA#} 1 A, {#sTA#} 1 P,
 {#As#} 2 A, {#vft#} 1 A; {%See%} {@Continue. 2@}
 {#ni-, vas#} 1 P, {#sTA, aDi-zWA#}. {@3@} {#Siz#} pass.,
-{#ava-pari-ut°-, ud-vft#}; ‘he r. ed only’
+{#ava-pari-ut˚-, ud-vft#}; ‘he r. ed only’
 in memory (his name only r. ed)
 {#smartavyaSezaM nItaH#}; ‘r. ing after what is
 eaten’ {#BuktAvaSizwaM, BUktaSezaM#} ({#annaM#});
@@ -69374,7 +69374,7 @@ love’ {#prItyaBijYAnaM#}. {@-er,@} {%s.%} {#smArakaH#},
 <LEND>
 
 <L>8796<pc>388<k1>remind<k2>remind
-{@Remind,@}¦ {%v. t.%} {#smf#} c., {#anu-saM-°, ud-pra-anu-#}
+{@Remind,@}¦ {%v. t.%} {#smf#} c., {#anu-saM-˚, ud-pra-anu-#}
 {#-buD#} c.; ‘this group of gallants, as if,
 r. s. me to-day of Pātala’ {#pAtAlaM mAmadya#}
 {#saMsmarayatIva BujaMgalokaH#} (Rat. 1), ‘Oh
@@ -69887,10 +69887,10 @@ or {#jan#} c.; ‘he r. ed the whole speech’
 <LEND>
 
 <L>8854<pc>392<k1>repute<k2>repute
-{@Repute,@}¦ {%v. t.%} {#man#} 4 A, {#aBi-saM-°, gaR#} 10;
+{@Repute,@}¦ {%v. t.%} {#man#} 4 A, {#aBi-saM-˚, gaR#} 10;
 {%See%} {@Consider,@} ‘r. ed as authors’ {#ka-#}
 {#-rtftvenABimatAH#} {%-s.%} {@-ation,@} {%s.%} {#kIrti#} {%f.,%}
-{#KyAti#} {%f.,%} {#pra-vi-°, yaSas#} {%n.,%} {#pratizWA, praTA-#}
+{#KyAti#} {%f.,%} {#pra-vi-˚, yaSas#} {%n.,%} {#pratizWA, praTA-#}
 {#-pratipatti#} {%f.,%} {#gOravaM, prasidDi#} {%f.;%} ‘of es-
 -tablished r.’ {#labDapratizWa#}; ‘good r.’ {#su-#}
 {#-KyAtiH#}; ‘bad r.’ {#duzkIrtiH, apa-a-kIrtiH#},
@@ -69903,7 +69903,7 @@ or {#jan#} c.; ‘he r. ed the whole speech’
 
 <L>8855<pc>392<k1>request<k2>request
 {@Request.@}¦ {%v. t.%} {#yAc#} 1 A, {#arT#} 10 A. {#pra-#}
-{#-aBi-°, vi-jYA#} c. ({#jYApayati#}), {#savinayaM ni-#}
+{#-aBi-˚, vi-jYA#} c. ({#jYApayati#}), {#savinayaM ni-#}
 {#-A-vid#} c. {%-s.%} {#prArTanA, aByarTanA, yAcanA#},
 {#vijYApanA, vijYapti#} {%f.,%} {#ni-A-vedanaM, yAcYA#}
 {@2@} {#AkAMkzA, icCA, aBilAzaH, ApekzA#};
@@ -69951,7 +69951,7 @@ consideration’ {#nipuRamavekzaRIyaH, nipu-#}
 
 <L>8860<pc>392<k1>rescue<k2>rescue
 {@Rescue,@}¦ {%v. t.%} {#muc#} 6 P or c., {#mokz#} 10, {#vi-#}
-{#-nir-°, nistF#} c., {#ud-hf#} 1 P or {#Df#} 10; {#pari-#}
+{#-nir-˚, nistF#} c., {#ud-hf#} 1 P or {#Df#} 10; {#pari-#}
 {#-trE#} 1 A, {#rakz#} 1 P; {%See%} {@Protect.@} {%-s.%} {#vi-#},
 {#mukti#} {%f.,%} {#mocanaM, mokzaH-kzaRaM, udDAraH; pari-#},
 {#trARaM, rakzaRaM, nistAraH, tAraRaM#}; ‘on, on, to
@@ -70030,7 +70030,7 @@ disposition) {#vAgyaMtraRaM, kaTA-AlApa-virakti#}
 [Page393]
 
 <L>8866<pc>393<k1>reside<k2>reside
-{@Reside,@}¦ {%v. t.%} {#vas#} 1 P, {#ni-prati-°; aDi-zWA#}
+{@Reside,@}¦ {%v. t.%} {#vas#} 1 P, {#ni-prati-˚; aDi-zWA#}
 1 P, {#aDivas#} (with acc.); {#nilI#} 4 A;
 {#ASri#} 1 U, {#vft#} 1 A; {%See%} {@Dwell. 2@} {#sad#}
 1 P; {#avaSiz#} pass. {@-ence,@} {%s.%} {#sTiti#} {%f.,%}
@@ -70125,8 +70125,8 @@ sea’ {@2@} {#vi-yuj#} 7 A, 10, {#viSliz#} c.,
 <LEND>
 
 <L>8873<pc>393<k1>resort<k2>resort
-{@Resort,@}¦ {%v. i.%} (To) {#sev#} 1 A, {#ni-pari-°#},
-{#Sri#} 1 U, {#A-saM-samA-upA-°, upa-aBi-gam#}
+{@Resort,@}¦ {%v. i.%} (To) {#sev#} 1 A, {#ni-pari-˚#},
+{#Sri#} 1 U, {#A-saM-samA-upA-˚, upa-aBi-gam#}
 1 P or {#i-yA#} 2 P, {#aBi-upa-sf#} 1 P; {#juz#}
 6 A, (frequently), {%-s.%} {#ASrayaRaM, sevanaM#},
 {#gamanaM#}, &c. {@2@} {#ASrayaH, SaraRaM, AyatanaM#},
@@ -70710,7 +70710,7 @@ c., {#saM-vi-pari-SuD#} c. {@-al, -ion,@} {%s.%} {#punarda-#}
 <LEND>
 
 <L>8925<pc>397<k1>revive<k2>revive
-{@Revive,@}¦ {%v. t.%} {#jIv#} c., {#pratyut-ut-saM-°#}, (fig.
+{@Revive,@}¦ {%v. t.%} {#jIv#} c., {#pratyut-ut-saM-˚#}, (fig.
 also); {#punaH jIv#} c., {#pra-vi-buD#} c., {#cetanAM-#}
 {#-saMjYAM-laB#} c. ({#laMBayati#}) or {#prAp#} c., {#pratyA-#}
 {#-samA-Svas#} c., {#punaH ut-sTA#} c. ({#utTApayati#}),
@@ -70743,7 +70743,7 @@ r. scene, {#bIBatsAlokaH#}.
 
 <L>8928<pc>397<k1>revolve<k2>revolve
 {@Revolve,@}¦ {%v. i.%} {#parivft#} 1 A; {#vi-vyA-A-vft#},
-{#pari-Bram#} 1, 4 P, {#GUrR#} 6 P, 1 A, {#vi-pari°#},
+{#pari-Bram#} 1, 4 P, {#GUrR#} 6 P, 1 A, {#vi-pari˚#},
 {#luW#} 6 P; ‘that matter (idea)
 constantly r. ing in his mind’ {#tasya#}
 {#cArTasya satataM manasi viparivartamAnatvAt#}
@@ -71091,7 +71091,7 @@ or {#kf#}. {@-er,@} {%s.%} {#tumulasaMkzoBakArin#} {%m.%}
 <LEND>
 
 <L>8969<pc>399<k1>ripe<k2>ripe
-{@Ripe,@}¦ {%a.%} {#pakva, pari-vri-su-°, pakvatAM#}
+{@Ripe,@}¦ {%a.%} {#pakva, pari-vri-su-˚, pakvatAM#}
 {#Apanna, pariRata, pAkonmuKa#} ({#KI#} {%f.%}),
 {#PalonmuKa, prOQa#}; ‘r. in years’ {#pari-#}
 {#-Ratavayas, pravayas, pravfdDa, vayovfdDa#}; ‘r. to
@@ -71181,7 +71181,7 @@ r.’ {#SAstraviDiH-karma, SAstroktakriyA#}. {@-Ritual,@}
 <LEND>
 
 <L>8977<pc>400<k1>rival<k2>rival
-{@Rival,@}¦ {%v. t.%} {#sparD#} 1 A, {#prati-pari-°#}, (with
+{@Rival,@}¦ {%v. t.%} {#sparD#} 1 A, {#prati-pari-˚#}, (with
 instr.), {#saMGfz#} 1 P, {#ahamahamikayA-paraspara-#}
 {#-jigIzayA-yat#} 1 A, {#vi-, ji#} desid. ({#ji-#}
 {#-gIzati#}); oft. by {#pratidvaMdvin, pratisparDin#};
@@ -71360,7 +71360,7 @@ the Vindhya’ {#viMDyApAde viSIrRAM#} (Me.
 19). {%-v. t.%} {#vyA-pari-vft#} c., {#GUrR#}; c., {#Bram#}
 c., &c.; ‘r. down’ {#rayeRa nI#} 1 P; ‘r.
 ing down corpses’ {#pretavAhinI#} ({#nadI#}).
-{@2@} {#luw-W#} c., {#vi-pra-°#}, {@3@} {#piMqIkf#} 8 U, {#saMpu-#}
+{@2@} {#luw-W#} c., {#vi-pra-˚#}, {@3@} {#piMqIkf#} 8 U, {#saMpu-#}
 {#-wIkf, saMpiMq#} 10. {@4@} {#A-pari-vezw#} c., {#avaguMW#}
 10, {#A-prA-vf#} 5 U. {%-s.%} {#luMWanaM, parivartanaM#}, &c.
 {@2@} {#piMqaH, golaH-lakaH, nAlI#}. {@3@} {#nAmAvali-lI#}
@@ -71725,7 +71725,7 @@ disposition’ {#prakftigaMBIra, SAMtAtman#}. {%-s.%}
 <LEND>
 
 <L>9039<pc>403<k1>ruin<k2>ruin
-{@Ruin,@}¦ {%v. t.%} {#naS#} c., {#vi-pra-°, pra-vi-DvaMs#} c., {#kzi#}
+{@Ruin,@}¦ {%v. t.%} {#naS#} c., {#vi-pra-˚, pra-vi-DvaMs#} c., {#kzi#}
 5, 9 P or c., {#vi-, lup#} 6 P or c., {#ucCid#}
 7 P, {#han#} 2 P or c. ({#GAtayati#}); {#ut-ava-#}
 {#-sad#} c., {#ni-ava-pat#} c., {#ud-hf#} 1 P,
@@ -71826,7 +71826,7 @@ or {#vicar#} c., {#ni-DyE#} desid. ({#nidiDyAsati#}).
 <LEND>
 
 <L>9048<pc>404<k1>run<k2>run
-{@Run,@}¦ {%v. i.%} {#DAv#} 1 P, {#dru#} 1 P, {#pra-vi-°, SIGraM-#}
+{@Run,@}¦ {%v. i.%} {#DAv#} 1 P, {#dru#} 1 P, {#pra-vi-˚, SIGraM-#}
 {#-drutaM gam-cal-car#} 1 P or {#yA-i#} 2 P, {#raMh#}
 1 P; (as a fluid) {#kzar#} 1 P, {#pra-, syaMd#} 1 A,
 {#gal#} 1 P, {#dru, pra-, sru#}; (as rivers) {#vah#} 1 P,
@@ -72553,7 +72553,7 @@ s.’ {#saM-pari-tfp#} 4 P or {#tuz#} 4 P. {@-Satiety,@}
 {#-tuz#} c., {#kAmaM-icCAM-pUr#} 10 or {#nivft#} c., {#tf-#}
 {#-ptiM-tuzwiM-utpad#} c., {#suKayati#} (D.), {#prI#} 9 P,
 {#ArAD#} c.; {#sAMtv#} 10, {#prasad#} c.; (hunger,
-desire. &c.) {#Sam#} c. ({#Samayati#}), {#pra-upa-,°#}
+desire. &c.) {#Sam#} c. ({#Samayati#}), {#pra-upa-,˚#}
 {#Cid#} 7 P, {#pari-pUr, nirAkf#} 8 U, {#nivft#} c.;
 ‘child, s. your curiosity’ {#pUrayatu kutU-#}
 {#-halaM vatsaH#} (U. 4). {@2@} {#saMdehaM apanI#} 1 P, {#saM-#}
@@ -72644,7 +72644,7 @@ pass. {@-ing,@} {%a.%} {#saMtarpaka, saMtozaka, tuzwi-tfpti-#}
 <L>9159<pc>408<k1>save<k2>save
 {@Save,@}¦ {%v. t.%} {#rakz#} 1 P, in all senses, {#pari-#},
 {#trE#} 1 A, {#ud-samud-hf#} 1 P, {#Df#} 1 P, {#tF#} c.,
-{#ut-saM-niH-°, muc#} c., {#mokz#} 10, {#pApAt muc#}
+{#ut-saM-niH-˚, muc#} c., {#mokz#} 10, {#pApAt muc#}
 &c. {@2@} {#saM-ci#} 5 U, {#saMrakz, ni-DA#} 3 U, {#saMgrah#}
 9 P, {#avaSiz#} c. {@3@} {#nivft#} c., {#nivf#} c., {#niruD#}
 7 U, {#parihf#}; ‘those that were s. ed out
@@ -72840,7 +72840,7 @@ by {#ca-ca; ApUrRaSca kalABiriMduramalo yAtaSca#}
 <LEND>
 
 <L>9183<pc>409<k1>scare<k2>scare
-{@Scare,@}¦ {%v. t.%} {#tras#} c., {#saM-vi-,° BI#} c., {#udvij#}
+{@Scare,@}¦ {%v. t.%} {#tras#} c., {#saM-vi-,˚ BI#} c., {#udvij#}
 c.; ‘s. away’ {#BayadarSanena vi-dru#} c.; ‘s.-
 crow’ {#biBIzikA, saMtrAsanaM, BayahetuH#}.
 <LEND>
@@ -72877,7 +72877,7 @@ or c.; {%See%} {@Harm, Injure. -less,@} {%a.%}
 <LEND>
 
 <L>9190<pc>410<k1>scatter<k2>scatter
-{@Scatter,@}¦ {%v. t.%} {#kF#} 6 P, {#vi-A-avA-pra-°, prasf#}
+{@Scatter,@}¦ {%v. t.%} {#kF#} 6 P, {#vi-A-avA-pra-˚, prasf#}
 c., {#vikzip#} 6 P; (away) {#viSliz#} c., {#nirDU#}
 5, 9 U, {#viBid#} c.; {#niras#}, 4 U, {#apanud#}
 6 P; {#vi-dru#} c. (army); {%See%} {@Dispel,@}
@@ -72920,7 +72920,7 @@ s.’ {#nirhArI, samAkarzI#}; ‘having a sweet
 s.’ {#sugaMDi, izwagaMDa, suraBi, GrARatarpaRa#}. {@2@}
 (Organ) {#GrARaM, GrAReMdriyaM, GrARaSakti#} {%f.,%}
 ‘having a quick s.’ {#tIkzRaGrARa#}. {%-v. t.%}
-{#GrA#} 1 P, {#upa-A-°#} {@2@} {#vAs#} 10, {#suraBIkf#} 8 U,
+{#GrA#} 1 P, {#upa-A-˚#} {@2@} {#vAs#} 10, {#suraBIkf#} 8 U,
 {#BU#} c., {#DUp#} 1 P, 10. {@-ed,@} {%a.%} {#su-, vAsita#},
 {#suraBi, sugaMDi, suraBIkfta, sAmoda, BAvita#},
 {#sagaMDa#}. {@-less,@} {%a.%} {#nirgaMDa, gaMDahIna#}.
@@ -73211,7 +73211,7 @@ of what is eaten’ {#PelA, BuktasamujJitaM#};
 {#duHKaM, durgati#} {%f.,%} {#durdaSA#}; ‘got into a s.’
 [Page412]
 {#kfcCragata, Apadgata, duHsTita#}. {@2@} {#GarzaRaM#}. {%-v. t.%}
-{#Gfz#} 1 P; {#liK#} 6 P, {#ut-vi-°, takz#} 1, 5 P,
+{#Gfz#} 1 P; {#liK#} 6 P, {#ut-vi-˚, takz#} 1, 5 P,
 {#tvakz#} 1 P, {#Kur#} 6 P. {@3@} {#GarzaRena pramfj#} 2 P
 or {#nirRij#} 3 U or {#apa-nI#} 1 P or {#SuD#} c.;
 (with feet) {#apaskF#} 6 P. {@4@} (Together)
@@ -73333,7 +73333,7 @@ in comp.; ‘s. prohibition’ {#SAstrapratizeDaH#}.
 <L>9249<pc>412<k1>scruple<k2>scruple
 {@Scruple,@}¦ {%s.%} {#saMdehaH, A-,SaMkA, saMSayaH#},
 {#vikalpaH#}. {%-v. i.%} {#vikxp#} 1 A or c., {#saMdih#}
-2 U, {#SaMk#} 1 A, {#vi-A-pari-°#}; ex. by
+2 U, {#SaMk#} 1 A, {#vi-A-pari-˚#}; ex. by
 ‘Doubt’ q. v. {@-Scrupulous,@} {%a.%} {#sarala#},
 {#fju#}. {@2@} {#sUkzma, nipuRa, atisUkzma, atisUkzma-#}
 {#-dfzwi#}. {@3@} {#sASaMka, SaMkASIla, A-, SaMkita#}.
@@ -73632,7 +73632,7 @@ s. s of others’ {#paramarmaBedin, marmAnvezin#},
 <LEND>
 
 <L>9277<pc>414<k1>secrete<k2>secrete
-{@Secrete,@}¦ {%v. t.%} {#sru#} c., {#pra-niH-pari°-, nirgam#} c.,
+{@Secrete,@}¦ {%v. t.%} {#sru#} c., {#pra-niH-pari˚-, nirgam#} c.,
 {#niHsf#} c., {#udvam#} 1 P. {#ud-gF#} 6 P, {#utsfj#}
 6 P: (bile, &c.) {#ut-, ric#} 7 P or c.;
 {#utpad#} c., {#jan#} c.; ‘the mouth frequently
@@ -73753,7 +73753,7 @@ c.; {#aBigam#} 1 P. {@-er,@} {%s.%} {#dUzakaH, praloBayitf#}
 
 <L>9291<pc>415<k1>see<k2>see
 {@See,@}¦ {%s.%} {#DarmADyakzADikAraH#}. {%v. t.%} {#dfS#} 1 P,
-{#Ikz#} 1 A, {#vi-saM-ava-pra-nir-;° lakz#} 10, {#ava-#}
+{#Ikz#} 1 A, {#vi-saM-ava-pra-nir-;˚ lakz#} 10, {#ava-#}
 {#-vi-A-lok#} 1 A, 10, {#nirUp#} 10, {#nirvarR#}
 10 (carefully), {#Aloc#} 10; ‘s. with
 one's own eyes’ {#pratyakzIkf#} 8 U, ({#kadA-#}
@@ -73804,7 +73804,7 @@ s. {#bIjaprarohaH, bIjAMkuraH#}. {@-y,@} {%a.%} {#bIjin#},
 <LEND>
 
 <L>9294<pc>415<k1>seem<k2>seem
-{@Seem,@}¦ {%v. i.%} {#BA#} 2 P, {#A-prati-,° dfSa-lakz-#}
+{@Seem,@}¦ {%v. i.%} {#BA#} 2 P, {#A-prati-,˚ dfSa-lakz-#}
 pass., {#ABAs#} 1 A; {%See%} {@Appear;@} ‘it s.
 s to me’ {#manye, SaMke, iti me matiH#}. {@-ing,@} {%a.%}
 {#bAhya, bahiH#} in comp., {#kftaka, kftrima#}. {%-s.%}
@@ -74396,7 +74396,7 @@ parts of the body’ {#sarvAMgikA ABaraRasaM-#}
 {#pratibaDyate#} P. 1. 1), {#ut-, Kac#} 10 ({#Kaca-#}
 {#-yati#}), {#anu-vyaD#} 4 P; ‘s. with jewels’
 {#ratnAnuvidDa#}. {@4@} {#ni-, So#} 4 P, {#ut-, tij#} c.,
-{#tIkzRIkf#}. {@5@} {#yuj#} 7 U, 10, {#saM-A-°, samA-#}
+{#tIkzRIkf#}. {@5@} {#yuj#} 7 U, 10, {#saM-A-˚, samA-#}
 {#-DA, saM-, vi-DA#}. (limb &c.); ‘s. one's
 foot in’ {#padaM kf#} (lit. and fig.), {#kari-#}
 {#-zyasi padaM punarASramesmin#} (S. 4), {#kftaM me#}
@@ -74482,7 +74482,7 @@ scream was s. up’; ({%v. i.%}) {#vfttiM-vyava-#}
 <LEND>
 
 <L>9359<pc>420<k1>settle<k2>settle
-{@Settle,@}¦ {%v. t.%} {#sTA#} c. ({#sTApayati#}), {#prati-ava-°#},
+{@Settle,@}¦ {%v. t.%} {#sTA#} c. ({#sTApayati#}), {#prati-ava-˚#},
 {#ni-A-ruh#} c. {@2@} {#saM-vyava-sTA#} c., {#vyavaso#} 4 P,
 {#nir-ava-Df#} 10, {#saMkxp#} c., {#sAD#} c.; ‘s. ing
 what to say’ {#vyavasTApitavAk, vAcaM vyava-#}
@@ -74499,7 +74499,7 @@ debt’ {#fRaM SuD#} c. or {#apAkf#}. {@8@} {#aDaH pat#}
 c. or {#gam#} c., {#ava-sad#} c. {%-v. i.%} {#ava-vyava-#}
 {#-sTA#} 1 A, {#sTirIBU#} 1 P, {#nivAsaM sTirIkf#}. {@2@}
 {#praSam#} 4 P, {#viSram#} 4 P. {@3@} {#tale pat#} 1 P, {#sad#}
-1 P, {#ava-ni-°, aDaH gam#} 1 P; {#prasad#} (for
+1 P, {#ava-ni-˚, aDaH gam#} 1 P; {#prasad#} (for
 becoming clear). {@4@} {#aDaH pat#} c. {@5@} {#GanIBU#},
 {#saMhan#} pass., {#saMhatIBU#}; ‘s. ed amongst
 themselves’ {#miTaH praSamaM yAtAH, paraspara-#}
@@ -74508,7 +74508,7 @@ themselves’ {#miTaH praSamaM yAtAH, paraspara-#}
 {#-zWita#} {%-a.%} {#BU#}. {@-ed,@} {%a.%} {#sTApita, ropita, prati-#}
 {#-zWita#} &c. {@2@} {#niyata, niScita, nirRIta, vyava-#}
 {#-sTita, sidDa, nizpanna#}. {@-ing, -ment,@} {%s.%}
-{#sTApanaM, saM-prati-ava-°#}. {@2@} {#nirRayaH, niScayaH#},
+{#sTApanaM, saM-prati-ava-˚#}. {@2@} {#nirRayaH, niScayaH#},
 {#nirDAraRaM-RA, avaDAraRaM#} {@3@} {#saM-DAnaM, pra-, SamaH-#}
 {#-manaM, saMDiH, samADAnaM#}. {@4@} {#aDivAsanaM#}. {@5@} {#aDi-#}
 {#-vAsitadeSaH#}; ‘s. in life’ {#vivAhaH, saMsAra-#}
@@ -74547,8 +74547,8 @@ themselves’ {#miTaH praSamaM yAtAH, paraspara-#}
 <LEND>
 
 <L>9363<pc>420<k1>sew<k2>sew
-{@Sew,@}¦ {%v. t.%} {#siv#} 4 P, {#vi-ni-°#} (together;);
-{#ve#} 1 P, {#pra-vi-°#}. {@-ed, Sewn,@} {%a.%} {#syUta-na#},
+{@Sew,@}¦ {%v. t.%} {#siv#} 4 P, {#vi-ni-˚#} (together;);
+{#ve#} 1 P, {#pra-vi-˚#}. {@-ed, Sewn,@} {%a.%} {#syUta-na#},
 {#uta, prota#}. {@-ing,@} {%s.%} {#sIvanaM, sevanaM, syUti#} {%f.%}
 <LEND>
 
@@ -74608,7 +74608,7 @@ dense s. of sugarcanes’ {#ikzucCAyaM#};
 all its s. s painted by a pencil’ {#unmI-#}
 {#-litaM tUlikayeva citraM#} (K. I. 32); ‘cast
 into s.’ {#tiraskf#} 8 U, {#pratyAdiS#} 6 P; {%See%}
-{@Back-ground.@} {%-v. t.%} {#Cad#} 10, {#pra-A-°#},
+{@Back-ground.@} {%-v. t.%} {#Cad#} 10, {#pra-A-˚#},
 {#vitan#}, 8 U. {@2@} {#AtapaM nivAr#} 10, {#anAtapa#} {%-a.%}
 {#kf#}. {%-y, a.%} {#pracCAya, sacCAya, CAyAbahula-Avfta-#}
 {#-yukta-sanATa; nirAtapa, Ataparahita, CAyA#} in
@@ -74643,7 +74643,7 @@ plough); {#IzASA#}; (of a mine) {#kUpaH#},
 {@Shake,@}¦ {%v. i.%} {#pra-, kaMp-vep-#} 1 A, {#vi-pra-cal#} 1 P,
 {#vell#} 1 P, {#saM-pra-kzuB#} 4 P, 1 A; (tig.)
 {#aBiBU-bAD#} -pass. {%-v. t.%} {#kaMp#} c., {#DU#} 5, 9 U,
-6 P, {#vi-A-°, cal#} c., {#saM-vi-pra°; kzuB#} c.;
+6 P, {#vi-A-˚, cal#} c., {#saM-vi-pra˚; kzuB#} c.;
 {#DvAnena sarvataH pracalitamiva tadaraRyaBavet#}
 (Ka. 29) ‘was, as if, s. en by the
 sound’. {@2@} {#aBiBU#} 1 P, {#AkulIkf#} 8 U;
@@ -75169,7 +75169,7 @@ think so’ {#ahaM tAvadevaM manye, iti mama matiH#}.
 
 <L>9430<pc>424<k1>show<k2>show
 {@Show,@}¦ {%v. t.%} {#dfS#} c. (with acc. or dat. of
-person), {#pra-saM-°#} {@2@} {#nirdiS#} 6 P, {#sUc#} 10,
+person), {#pra-saM-˚#} {@2@} {#nirdiS#} 6 P, {#sUc#} 10,
 {#prakAS#} c., {#vyaMj#} 7 P or c., {#vyaktIkf#} 8 U;
 {#Avizkf, prakawIkf; A-upa-diS#} 6 P or c.
 (way). {@3@} {#kaT#} 10, {#A-, KyA#} 2 P, {#buD#} c.,
@@ -75276,7 +75276,7 @@ by ‘s. -ed.’ {@-led,@} {%a.%} {#saMkucita, AkuMcita#},
 <LEND>
 
 <L>9445<pc>424<k1>shudder<k2>shudder
-{@Shudder,@}¦ {%v. i.%} {#vep-kaMp#} 1 A, {#pra-vi-°, vi-pra-#}
+{@Shudder,@}¦ {%v. i.%} {#vep-kaMp#} 1 A, {#pra-vi-˚, vi-pra-#}
 {#-sPur#} 6 P. {%-s.,%} {@-ing,@} {%s.%} {#pra-, kaMpaH, vepaTuH#},
 {#aMgakaMpaH-sPuraRaM-vepanaM#}. {@-ing,@} {%a.%} {#saMjAtavepaTu#},
 {#sakaMpa#}.
@@ -75296,7 +75296,7 @@ by ‘s. -ed.’ {@-led,@} {%a.%} {#saMkucita, AkuMcita#},
 <LEND>
 
 <L>9447<pc>425<k1>shun<k2>shun
-{@Shun,@}¦ {%v. t.%} {#pari-hf#} 1 P, {#vfj#} 10, {#pari-vi-°#},
+{@Shun,@}¦ {%v. t.%} {#pari-hf#} 1 P, {#vfj#} 10, {#pari-vi-˚#},
 {#pari-, tyaj#} 1 P, {#hA#} 3 P; {#na upagam#} or {#upasf#}
 1 P, {#saMgamaM parihf#} (a person).
 <LEND>
@@ -75739,7 +75739,7 @@ s. eye’. {@-Sinistrally,@} {%adv.%} {#vAmataH#},
 
 <L>9491<pc>427<k1>sink<k2>sink
 {@Sink,@}¦ {%v. i.%} {#ni-masj#} 6 P; ‘sank in deep
-mire’ {#mahApaMke nimagnaH; sad#} 1 P. {#ava-ni-°#},
+mire’ {#mahApaMke nimagnaH; sad#} 1 P. {#ava-ni-˚#},
 {#aDaH gam#} 1 P or {#pat#} 1 P or {#yA#} 2 P, {#ava-#}
 {#-pat#}. {@2@} {#hrAsaM-kzayaM yA-i#} 2 P, {#kzi#} pass.,
 {#DvaMs#} 1 A; {%See%} {@Decay, Decline. 3@}
@@ -76451,7 +76451,7 @@ knowledge’ {#atyalpaM jYAnaM#}.
 <LEND>
 
 <L>9585<pc>431<k1>smear<k2>smear
-{@Smear,@}¦ {%v. t.%} {#lip#} 6 P, {#vi-pra-A-ava-°, aBi-#},
+{@Smear,@}¦ {%v. t.%} {#lip#} 6 P, {#vi-pra-A-ava-˚, aBi-#},
 {#aMj#} 7 P or c., {#dih#} 2 U. {@-ing,@} {%s.%} {#lepaH-#}
 {#-panaM, aMjanaM#}.
 <LEND>
@@ -76461,7 +76461,7 @@ knowledge’ {#atyalpaM jYAnaM#}.
 {#GrARaSakti#} {%f.,%} {#gaMDagrahaRaSaktiH#}. {@2@} {#A-, GrARaM#},
 {#gaMDagrahaRaM#}. {@3@} {#gaMDaH, vAsaH, AmodaH#}; {%See%}
 {@Odour, Fragrance.@} -{%v. t.%} {#GrA#} 1 P,
-{#A-upA-°#} -{%v. i.%} Ex. by {#gaMDa#} in comp. or
+{#A-upA-˚#} -{%v. i.%} Ex. by {#gaMDa#} in comp. or
 {#sagaMDa-tulyagaMDa#} -{%a.;%} ‘s. ing of honey’
 {#maDugaMDi#}; ‘s. ing like fat’ {#vasAgaMDi#}; ‘the
 flower s. s sweet’ {#maDurosya kusumasya gaMDaH#};
@@ -76927,7 +76927,7 @@ very severe nor very s.’ {#na#}
 -{%interj.%} {#tUzRIM Bava, tUzRIM, SAMtaM, nIcEH#}
 {@-en,@} {%v. t.%} {#mfdUkf#} 8 U, {#kf#} with ({%a.%})
 (with pity) {#dayArdrIkf, vi-, dru#} c., {#karuRa-#}
-{#-yA dru#} c. {@2@} {#Sam#} c. ({#Samayati#}), {#pra-, upa-°#},
+{#-yA dru#} c. {@2@} {#Sam#} c. ({#Samayati#}), {#pra-, upa-˚#},
 {#sAMtv#} 10. {#laGUkf, laGayati#} (D.). {%See%}
 {@Alleviate.@} -{%v. i.%} {#mArdavaM Baj#} 1 A, {#BU#} 1 P
 with ({%a.%}); {#mfdUBU, dayArdrIBU; pra-,Sam#} 4 P;
@@ -77078,7 +77078,7 @@ s.’ {#karkasaMkrAMtiH, uttarAyaRaM#}; ‘winter s.’
 
 <L>9662<pc>435<k1>solve<k2>solve
 {@Solve,@}¦ {%v. t.%} {#vyAkf#} 8 U, {#vivf#} 5 U; {#SuD#}
-c., {#vi-pari-, °vyA-KyA#} 2 P, {#viSadIkf, sAD-#}
+c., {#vi-pari-, ˚vyA-KyA#} 2 P, {#viSadIkf, sAD-#}
 {#-siD#} c. ({#sADayati#}), {#upa-prati-pad#} c.; ‘s. s
 the difficulties’ {#vizamapadAni SoDayati-#}
 {#-vimarSayati#}. {@2@} (Question) {#uttaraM dA#} 3 U
@@ -77203,7 +77203,7 @@ Dasaratha’ {#dASaraTiH; gAMgeyaH, pAMqavaH#},
 <LEND>
 
 <L>9677<pc>436<k1>soothe<k2>soothe
-{@Soothe,@}¦ {%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-°#},
+{@Soothe,@}¦ {%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-˚#},
 {#laGUkf#} 8 U, {#laGayati#} (D.), {#nirvA#} c. ({#vA-#}
 {#-payati#}); (persons) {#lal#} 10, {#anunI#} 1 P,
 {#sAMtv#} 10, {#pra-sad#} c., {#pari-tuz#} c., {#ArAD#} c.,
@@ -77436,7 +77436,7 @@ beasts’ {#mfgeMdratA#}. {@2@} (Authority) {#muKya-#}
 
 <L>9698<pc>437<k1>sow<k2>sow
 {@Sow,@}¦ {%s.%} {#sU(SU)karI, varAhI, kolI#}. -{%v. t.%}
-{#vap#} 1 P, {#A-ni-°#}, ({#bIjAni#}) {#vikF#} 6 P,
+{#vap#} 1 P, {#A-ni-˚#}, ({#bIjAni#}) {#vikF#} 6 P,
 {#Aruh#} c.; ‘s. dissensions’ {#BedaM jan#} c.,
 {#BedabIjAni vap#}; ‘s. dragon's teeth’
 {#kalahabIjaM vap#}; ‘as you s., so you reap’ {#yo#}
@@ -77523,7 +77523,7 @@ my service’ {#tasya sevayA na me prayojana-#}
 {@Spark,@}¦ {%s.%} {#vi-, sPuliMgaH, agni#} or {#jvalana-kaRaH#} or
 {#kaRikA; kaRaH, kaRikA, lavaH, leSaH, aRuH#}.
 {@2 Fop,@} q. v. {@-Sparkle,@} {%v. i.%} {#sPur#} 6 P,
-{#pra-vi-°, tejaHkaRAn-sPuliMgAn-utkzip#} 6 P
+{#pra-vi-˚, tejaHkaRAn-sPuliMgAn-utkzip#} 6 P
 or {#vikF#} 6 P; {%See%} {@Shine@} also; ‘s. -ing
 fitfully’ {#kzaRanazwadfzwAH#} (Mr. 5.). -{@ing,@}
 {%a.%} {#sPurat, sPuritapraBa, dIptimat#} &c.; ‘s. wit’
@@ -77779,7 +77779,7 @@ vain’ {#kzip, hf#} 1 P. {@-ing,@} {%s.%} {#vyayaH, vi-#}
 
 <L>9736<pc>439<k1>spice<k2>spice
 {@Spice,@}¦ {%s.%} {#gaMDadravyaM#}; ‘the three s. s.’ {#tri-#}
-{#-jAtakaM#}. -{%v. t.%} {#vAs#} 10, {#aDi-su-°#}. {@-ed, -y,@}
+{#-jAtakaM#}. -{%v. t.%} {#vAs#} 10, {#aDi-su-˚#}. {@-ed, -y,@}
 {%a.%} {#vAsita, sagaMDa, sugaMDa, mizwa, surasa#}.
 <LEND>
 
@@ -78127,9 +78127,9 @@ s. s’ {#SIkarin, SIkarAsAravAhin#}. {@2@} {#viwapaH#},
 {#-jfMB#} 1 A, {#pracar#} 1 P; (disease) {#saMkram#}
 1 U, 4 P, {#saMcar, vi-sfp; praruh#} 1 P, {#vfD#}
 1 A. -{%v. t.%} {#stf#} 5 U, {#stF#} 9 U or c., {#vi-#}
-{#-saM-A-°; ava-vi-kF#} 6 P, (net &c.); {#vi-#}
+{#-saM-A-˚; ava-vi-kF#} 6 P, (net &c.); {#vi-#}
 {#-pra-sfp#} c., {#vi-pra-sf#} c., {#tan#} 8 U, {#pra-vi-saM-#}
-{#-A-°, pravfD#} c. {@2@} (Opinions &c.) {#pra-sf#}
+{#-A-˚, pravfD#} c. {@2@} (Opinions &c.) {#pra-sf#}
 c., {#saM-pra-car#} c., {#pravft#} c., {#prakAS#} c., {#bahu-#}
 {#-lIkf#} 8 U. -{%s.%} {#prasAraH, prasaraH, aBi-, vfdDi#} {%f.,%}
 {#pravartanaM, vistAraH#}. {@-ing,@} {%a.%} {#pra-vi-sArin#},
@@ -78182,7 +78182,7 @@ q. v. -{%v. t.%} {#uTA#} c. ({#utTApayati#}), {#pra-#}
 <LEND>
 
 <L>9780<pc>442<k1>sprinkle<k2>sprinkle
-{@Sprinkle,@}¦ {%v. t.%} {#sic#} 6 P, {#A-ni-ava-,° saM-#}
+{@Sprinkle,@}¦ {%v. t.%} {#sic#} 6 P, {#A-ni-ava-,˚ saM-#}
 {#-pra-aBi-ukz#} 1 P; {#avakF#} 6 P. {@-er,@} {%s.%} {#sektf#}
 {%m.,%} {#secakaH, prokzakaH#}. {@-ing,@} {%s.%} {#prokzaRaM, A-#}
 {#-ava-sekaH#}; ‘s. of’ ex. by {#virala#}. {%a.,%} ({#vira-#}
@@ -78626,7 +78626,7 @@ who has obtained a s. {#labDapratizWaH#} -{%a.%}
 <L>9838<pc>444<k1>standard<k2>standard
 {@Standard,@}¦ {%s.%} {#DvajaH, patAkA, ketuH, ketanaM#},
 {#vEjayaMtI#}; ‘s. -bearer’ {#Dvajin, patAkin#}. {@2@}
-{#mAnaM, pra-pari-°, sUtraM, viDiH, niyamaH#}; ‘a s.
+{#mAnaM, pra-pari-˚, sUtraM, viDiH, niyamaH#}; ‘a s.
 person’ {#pramARapuruzaH, pramARaM#}; ‘s. authors’
 {#pramARaBUtAH#} ({#viSizwAH#}) {#graMTakftaH#}.
 <LEND>
@@ -78760,7 +78760,7 @@ s.’ {#upanyAsaSudDiH#}. {@-Statesman,@} {%s.%}
 {#paramasTAnaM, unnatAvasTA#}; ‘s. of life’ {#jAti#}
 {%f.%} {@3@} {#aDikAraH, niyogaH, padaM, padaviH-vI#}. {@4@}
 {#niveSaH#}. -{%v. t.%} {#sTA#} c. ({#sTApayati#}), {#ava-#}
-{#-saM-prati-°, niviS#} c.; ‘s. in any post’ {#pade-#}
+{#-saM-prati-˚, niviS#} c.; ‘s. in any post’ {#pade-#}
 {#-aDikAre-niyuj#} 7 A, 10. {@-ary,@} {%a.%} {#sTira#},
 {#acala, niScala, acara, sTAvara; ajaMgama#}. {@2@}
 {#avarDizRu, avarDamAna#}.
@@ -79024,7 +79024,7 @@ a decisive and s. tone’ {#paricCedanizWura#};
 <L>9884<pc>447<k1>stick<k2>stick
 {@Stick,@}¦ {%s.%} {#daMqaH, yazwi#} {%f.;%} {#vetraM, vetrayazwiH#} (cane);
 {#kAzWaM, kAzWaKaMqaH, laguqaH#}. -{%v. i.%} {#saM-lag#} 1 P,
-{#saMSliz#} 4 P, {#saMj#} pass., {#A-saM-anu-°, A-#}
+{#saMSliz#} 4 P, {#saMj#} pass., {#A-saM-anu-˚, A-#}
 {#-sasj#} 1 P, {#anubaMD#} 9 P, {#saMsaktI-saMlagnI-BU#}
 1 P. {@2@} {#masj#} 6 P, {#niruD-staMB#} pass.;
 ‘the wheels stuck fast into the mire’
@@ -79086,7 +79086,7 @@ with your body s. ed’ {#staMBitagAtrastizWa#}.
 {#mftajAta#}; ‘a s. -born child’ {#mUQagarBaH#},
 {#mftajAtaH#}. -{%adv.%} {#taTApi#}. {@2@} {#adyApi; adya#}
 {#yAvat#}. {@3@} {#sadA, sarvadA#}. {@4@} {#SAMtaM, tUzRIM, niH-#}
-{#-SabdaM#}. -{%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-°#}
+{#-SabdaM#}. -{%v. t.%} {#Sam#} c. ({#Samayati#}), {#pra-upa-˚#}
 {#niHSabdIkf#} 8 U. {@2 Stop,@} q. v. {@-ness,@}
 {%s.%} {#niHSabdatA, niScalatA, SAMtatA, akzoBaH#}.
 <LEND>
@@ -79152,7 +79152,7 @@ by ‘s. ing’ with {#BU#}. {@-ing,@} {%a.%} {#pUtigaMDi#},
 <LEND>
 
 <L>9900<pc>447<k1>stir<k2>stir
-{@Stir,@}¦ {%v. t.%} {#cal#} c., {#saM-vi-°#}; {%See%} {@Move;@}
+{@Stir,@}¦ {%v. t.%} {#cal#} c., {#saM-vi-˚#}; {%See%} {@Move;@}
 ‘when the fuel is s. ed, the fire
 blazes up’ {#jvalati caliteMDanogniH#} (S. 6).
 {@2@} {#A-vi-luq#} c, {#kzuB#} c, (of water);
@@ -79258,10 +79258,10 @@ pass s. s’ {#uccar#} 1 P, {#purIzaM utsfj#} 6 P.
 
 <L>9912<pc>448<k1>stoop<k2>stoop
 {@Stoop,@}¦ {%v. i.%} {#gAtraM nam#} c. or {#Avfj#} 10, {#nam#}
-1 P, {#ava-A-praM°-, prahvIBU#} 1 P, {#namrIBU, pravaRI-#}
+1 P, {#ava-A-praM˚-, prahvIBU#} 1 P, {#namrIBU, pravaRI-#}
 {#-BU#}. {@2 Condescend,@} q. v. -{%v. t.%} {#A-#}
 {#-vfj, nam#} c., {#namrIkf#} 8 U, {#prahvIkf#}. -{%s.,%} {@-ing,@}
-{%s.%} {#nati#} {%f.,%} {#namanaM, A-ava-pra°#}. {@-ing,@} {%a.%} {#nata#},
+{%s.%} {#nati#} {%f.,%} {#namanaM, A-ava-pra˚#}. {@-ing,@} {%a.%} {#nata#},
 {#pravaRa, praRatipravaRa; ava-, namra, prahva, natAMga#},
 {#avanatakAya, praRataSiras#}; ‘a s. posture’
 {#natiH, vEtasI vfttiH#}.
@@ -79269,7 +79269,7 @@ pass s. s’ {#uccar#} 1 P, {#purIzaM utsfj#} 6 P.
 
 <L>9913<pc>448<k1>stop<k2>stop
 {@Stop,@}¦ {%v. t.%} {#vi-, staMB#} 9 P or c., {#ava-sTA#} c.
-({#sTApayati#}), {#ruD#} 7 U, {#ni-prati-ava-saM°#},
+({#sTApayati#}), {#ruD#} 7 U, {#ni-prati-ava-saM˚#},
 {#prati-baMD#} 9 P; {#pi-DA#} 3 U (ears &c.);
 ‘s. s the chariot’ {#raTaM sTApayati#}. {@2@} {#nivf#}
 c., {#bAD#} 1 A, {#prati-vi-han#} 2 P, {#prati-ni-ziD#}
@@ -79543,7 +79543,7 @@ also. {@2 Exaggerate,@} q. v. -{%s.%} {#vitati#} {%f.,%}
 
 <L>9944<pc>450<k1>strew<k2>strew
 {@Strew,@}¦ {%v. t.%} {#ava-pra-vikF#} 6 P, {#stF#} 9 U, {#saM-#}
-{#A-pari-°, AcCad#} 10.
+{#A-pari-˚, AcCad#} 10.
 <LEND>
 
 <L>9945<pc>450<k1>striate<k2>striate
@@ -79578,7 +79578,7 @@ true’ {#sarvaTA satya#}. {@-ness,@} {%s.%} {#aSETilyaM#},
 <LEND>
 
 <L>9950<pc>450<k1>strike<k2>strike
-{@Strike,@}¦ {%v. t.%} {#han#} 2 P, {#pra-aBi upa-°, Ahan#}
+{@Strike,@}¦ {%v. t.%} {#han#} 2 P, {#pra-aBi upa-˚, Ahan#}
 2 U, {#tud#} 6 P, {#prahf#} 1 P (with loc.),
 {#taq#} 10; {#AsPal#} c. (water); ‘s. on the
 face’ {#muKe capewAM dA#} 3 U, {#hastatalena prahf#}. {@2@}
@@ -79602,7 +79602,7 @@ general sense, it easily s. s the mind’
 {#tadDi prasidDatareRa prayogeRa SIGraM budDimAro-#}
 {#-hati, prasidDibalena praTamataraM pratIyate#} (S. B.
 135, 137). -{%v. i.%} (Against) {#saMGaww#}
-1 A or c., {#AsPal#} 1 P; {%See%} {@Dash°. 2@}
+1 A or c., {#AsPal#} 1 P; {%See%} {@Dash˚. 2@}
 {#saMBUya karma parityaj#} 1 P; {#kAryanivfttisaMketaM#}
 {#kf#}. -{@down,@} {#ni-ava-pat#} c., {#Sad#} c. ({#SAta-#}
 {#-yati#}), {#Ahatya BUmO pat#} c. {@-for,@} {#pra-sTA#}
@@ -79863,9 +79863,9 @@ ed by the noise’ {#ninAdaSravaRenAmUrcCat#}.
 
 <L>9977<pc>452<k1>stupefy<k2>stupefy
 {@Stupefy,@}¦ {%v. t.%} {#jaqIkf#} 8 U, {#jaqayati#} (D.),
-{#muh#} c., {#saM-vyA-°, nizpaMdIkf, saM-, staMB#} c.
+{#muh#} c., {#saM-vyA-˚, nizpaMdIkf, saM-, staMB#} c.
 {@-action, Stupor,@} {%s.%} {#jAqyaM, jaqiman#} {%m.,%}
-{#jaqatA-tvaM, mohaH, saM-vyA-°, iMdriyasvApaH-mohaH-#}
+{#jaqatA-tvaM, mohaH, saM-vyA-˚, iMdriyasvApaH-mohaH-#}
 {#staMBaH#}. {@-ing,@} {%a.%} {#vyA-, mohin, mohakArin#},
 {#staMBaka#}. {@-Stupid.@} {%a.%} {#jaqa, mUQa, mUrKa#},
 {#maMda, mUQa-sTUla-jaqa-maMda-DI-mati-budDi#},
@@ -80107,7 +80107,7 @@ mention {#vakzyamARatA#}. {@-ly,@} {%adv.%} {#tata#}
 <LEND>
 
 <L>10007<pc>453<k1>subside<k2>subside
-{@Subside,@}¦ {%v. i.%} {#Sam#} 4 P, {#pra-upa-°, nivft#}
+{@Subside,@}¦ {%v. i.%} {#Sam#} 4 P, {#pra-upa-˚, nivft#}
 1 A, {#viram#} 1 P, {#vi-gam#} 1 P; {#prasad#} 1 P. {@2@}
 {#aDastale Asad, aDaH gam#} or {#pat#} 1 P.
 <LEND>
@@ -80123,7 +80123,7 @@ mention {#vakzyamARatA#}. {@-ly,@} {%adv.%} {#tata#}
 <L>10009<pc>453<k1>subsist<k2>subsist
 {@Subsist,@}¦ {%v. i.%} {#BU#} 1 P, {#vft#} 1 A, {#vid#}
 4 A, {#as#} 2 P, {#sTA#} 1 P. {@2@} {#jIv#} 1 P, {#A-#}
-{#-upa-°, prARayAtrAM kf, jIvitaM-prARAn Df#} 1 P,
+{#-upa-˚, prARayAtrAM kf, jIvitaM-prARAn Df#} 1 P,
 10; {%See%} {@Live. -ence,@} {%s.%} {#sattA, astitvaM#},
 {#BAvaH, vftti#} {%f.%} {@2@} {#AjIvaH, vfttiH, A-upa-#}
 {#-jIvikA, prARa-SarIra-yAtrA#}; {%See%} {@Living.@}
@@ -80951,7 +80951,7 @@ pass.; ‘s. ing waters’ {#kallolAkulaM-taraMga-#}
 <LEND>
 
 <L>10107<pc>458<k1>surmount<k2>surmount
-{@Surmount,@}¦ {%v. t.%} {#tF#} 1 P, {#saM-ut-°, atikram#}
+{@Surmount,@}¦ {%v. t.%} {#tF#} 1 P, {#saM-ut-˚, atikram#}
 1 U, 4 P, {#laMG#} 1 A, 10, {#pAraM gam#} 1 P.
 <LEND>
 
@@ -81059,7 +81059,7 @@ emotion’ {#vikArasya gamanIyAsmi saMvfttA#}
 <LEND>
 
 <L>10121<pc>459<k1>suspect<k2>suspect
-{@Suspect,@}¦ {%v. t.%} {#SaMk#} 1 A, {#vi-A-pari-°, saM-#}
+{@Suspect,@}¦ {%v. t.%} {#SaMk#} 1 A, {#vi-A-pari-˚, saM-#}
 {#-SI#} 2 A, {#na prati-i#} 2 P or {#viSvas#} 2 P;
 ‘excessive affection s. s evil’ {#atisnehaH#}
 {#pApaSaMkI#} (S. 4). {@2@} {#man#} 4 A, {#vi-, tark#} 10,
@@ -81197,7 +81197,7 @@ c.; ‘s. -ing clothes’ {#bAlaparivezwanaM#}.
 <LEND>
 
 <L>10140<pc>459<k1>sweep<k2>sweep
-{@Sweep,@}¦ {%v. t.%} {#mfj#} 2 P or c., {#saM-pari-pra-°#}
+{@Sweep,@}¦ {%v. t.%} {#mfj#} 2 P or c., {#saM-pari-pra-˚#}
 ‘s. away’ {#ava-apa-mfj, apavah#} c.,
 ({#rayeRa#}) {#apanI#}; ‘s. across’, ‘s. over’
 {#javena Atikram#} 1 U, 4 P or {#ati-i#} 2 P,
@@ -81229,7 +81229,7 @@ c.; ‘s. -ing clothes’ {#bAlaparivezwanaM#}.
 <LEND>
 
 <L>10142<pc>460<k1>swell<k2>swell
-{@Swell,@}¦ {%v. i.%} {#Svi#} 1 P or pass., {#pra-ut-°#},
+{@Swell,@}¦ {%v. i.%} {#Svi#} 1 P or pass., {#pra-ut-˚#},
 {#sPAy#} 1 A, {#vfD#} 1 A, {#utsfp#} 1 P; {#pra-upa-ci#}
 pass., {#bahulI-BU#} 1 P; ‘a heart s. ing
 with joy’ {#harzotPullaM hfdayaM#}; {%See%} {@Increase.@}
@@ -81319,7 +81319,7 @@ current’ {#pratIpataraRaM#}.
 <LEND>
 
 <L>10155<pc>460<k1>swoon<k2>swoon
-{@Swoon,@}¦ {%v. i.%} {#muh#} 4 P, {#pra-vi-vyA-°, murcC#}
+{@Swoon,@}¦ {%v. i.%} {#muh#} 4 P, {#pra-vi-vyA-˚, murcC#}
 1 P. {%-s.%} {#mUrcCA, mohaH#}; ‘he fell in a s.’
 {#mohaparAyaRo baBUva, mUrcCApannaH#}. {@-ing,@} {%a.%}
 {#mUQa, mugDa, mUrcCApanna, mohavaSa#}.
@@ -81609,7 +81609,7 @@ work’ {#sUcyA sevanaM, sUcikarman#} {%n.%}
 <LEND>
 
 <L>10205<pc>461<k1>take<k2>take
-{@Take,@}¦ {%v. t.%} {#grah#} 9 U, {#prati-pari-°#} (in all
+{@Take,@}¦ {%v. t.%} {#grah#} 9 U, {#prati-pari-˚#} (in all
 senses) {#agfhIte rAkzase#} (Mu. 1); {#upa-#}
 {#-deSaM gfhARa#} &c.; {#A-dA#} 3 A, {#prati-iz#} 6 P;
 {#svI-aMgI-kf#} 8 U. {@2@} {#Df#} 1 P, 10, {#A-ava-#}
@@ -83066,7 +83066,7 @@ reproof’ {#yattvaM#} ({#sAkzepamiva#}) {#nadasi siMha-#}
 <L>10407<pc>469<k1>tide<k2>tide
 {@Tide,@}¦ {%s.%} {#velA#} (of the sea). {@2@} {#srotas#} {%n.,%}
 {#oGaH, vegaH, rayaH#}; {%See%} {@Stream.@} {%-v. t.%}
-(over) {#tF#} 1 P, {#saM-ut-°#}.
+(over) {#tF#} 1 P, {#saM-ut-˚#}.
 <LEND>
 
 <L>10408<pc>469<k1>tidy<k2>tidy
@@ -83837,7 +83837,7 @@ the t.’ {#druh#} 4 P.
 <LEND>
 
 <L>10516<pc>473<k1>trample<k2>trample
-{@Trample,@}¦ {%v. t.%} {#mfd#} 9 P, {#saM-ava-°, aBihan#}
+{@Trample,@}¦ {%v. t.%} {#mfd#} 9 P, {#saM-ava-˚, aBihan#}
 2 P; (under foot) {#pAdatalena Ahan#} 2 U
 or {#A-samA-kram#} 1 U, 4 P or {#kzud#} 7 P; ‘t. to
 dust’ {#cUrR#} 10; {#nizpiz#} 7 P. {@-ed,@} {%a.%} {#saM-#}
@@ -83855,10 +83855,10 @@ dust’ {#cUrR#} 10; {#nizpiz#} 7 P. {@-ed,@} {%a.%} {#saM-#}
 <L>10518<pc>473<k1>tranquil<k2>tranquil
 {@Tranquil,@}¦ {%a.%} {#pra-, SAMta, stimita, niScala, svasTa#},
 {#akzubDa, SAMtAtman#}; {%See%} {@Calm. -lity,@} {%s.%}
-{#SamaH, SAMti#} {%f.,%} {#pra-, upa-°, akzoBaH, nirvfti#} {%f.,%}
+{#SamaH, SAMti#} {%f.,%} {#pra-, upa-˚, akzoBaH, nirvfti#} {%f.,%}
 {#nirupaplavatvaM, DEryaM, anudvegaH, svAsTyaM, sTEryaM#}.
 {@-lize,@} {%v. t.%} {#sAM(SAM)tv#} 10, {#Sam#} c. ({#Sama-#}
-{#-yati#}), {#pra-upa-°, A-samA-Svas#} c.; {%See%}
+{#-yati#}), {#pra-upa-˚, A-samA-Svas#} c.; {%See%}
 {@Calm, Compose;@} ‘t. yourself’ {#samASva-#}
 {#-sihi#}.
 <LEND>
@@ -84072,7 +84072,7 @@ legs t.’ {#vyatyastapAda#} {%-a.%} {@-ly,@} {%adv.%} {#vyatyA-#}
 
 <L>10549<pc>474<k1>traverse<k2>traverse
 {@Traverse,@}¦ {%v. t.%} {#Akram#} 1 U, 4 P, {#tF#} 1 P,
-{#saM-ati-ut-°, pAraM gam#} 1 P.
+{#saM-ati-ut-˚, pAraM gam#} 1 P.
 <LEND>
 
 <L>10550<pc>474<k1>tray<k2>tray
@@ -84176,7 +84176,7 @@ desid ({#cikitsati-te#}). {@4@} {#saMtfp#} c.;
 
 <L>10562<pc>475<k1>tremble<k2>tremble
 {@Tremble,@}¦ {%v. i.%} {#vi-tras#} 1, 4 P, (with fear)
-{#pra-vep#} 1 A, {#kaMp#} 1 A, {#sPur#} 6 P, {#pra-vi-°#},
+{#pra-vep#} 1 A, {#kaMp#} 1 A, {#sPur#} 6 P, {#pra-vi-˚#},
 {#spaMd#} 1 A; {#pra-vi-hval#} 1 P. {@-ing,-@}
 {@Tremulous,@} {%a.%} {#kaMpamAna, vepaTumat, sakaMpa#},
 {#tarala, vilola, capala, caMcala; uttrasta#},
@@ -85613,7 +85613,7 @@ comp.
 <LEND>
 
 <L>10814<pc>481<k1>unite<k2>unite
-{@Unite,@}¦ {%v. t.%} {#yuj#} 7 U, 10, {#saM-samA-°, saMgam#}
+{@Unite,@}¦ {%v. t.%} {#yuj#} 7 U, 10, {#saM-samA-˚, saMgam#}
 c., {#saMhan#} 2 P, {#samAnI#} 1 P, {#saM-Gaw#} c., {#saM-#}
 {#-pfc#} 7 P, 2 A, {#saM-DA#} 3 U; ‘seems u. ed’
 {#Bavati kftasaMDAnamiva#} (S. 1.) {%-v. i.%} {#Gaw#} 1 A,
@@ -86468,7 +86468,7 @@ speech &c.). {@-ly,@} {%adv.%} {#balavat caMqaM, tIvraM#}.
 <LEND>
 
 <L>10967<pc>485<k1>veil<k2>veil
-{@Veil,@}¦ {%v. t.%} {#Cad#} 10, {#A-pra-saM-°, avaguMW#} 10,
+{@Veil,@}¦ {%v. t.%} {#Cad#} 10, {#A-pra-saM-˚, avaguMW#} 10,
 {#saM-vf#} 5 U, {#vyava-DA#} 3 U; {%See%} {@Cover.@} {%-s%}
 {#avaguMWanaM, AvarakaM, AvarakaH, tiraskariRI#}. {@2@}
 {#AvaraRaM, vyavaDAnaM, AcCAdanaM, saMvaraRaM#};
@@ -87577,7 +87577,7 @@ battle); ‘w.-cry’ {#siMhanAdaH, kzveqA#}; ‘w.-
 <L>11142<pc>490<k1>ward<k2>ward
 {@Ward,@}¦ {%s.%} {#rakzA#}. {@2@} {#rakzitaH puruzaH, ASritaH#},
 {#rakzakADInaH, rakzyaH#}. {@3@} {#viBAgaH#}. {%-v. t.%} {#vAr#}
-10 or {#vf#} c., {#ni-prati-°, niruD#} 7 U, {#niras#}
+10 or {#vf#} c., {#ni-prati-˚, niruD#} 7 U, {#niras#}
 4 U, {#ni-prati-ziD#} 1 P, {#prati-han#} 2 P, {#vyapa-#}
 {#-Uh#} 1 U. {@-en,@} {%s.%} {#rakzakaH, rakzApuruzaH#}. {@-er,@}
 {%s.%} {#rakzakaH, dOvArikaH, dvAHsTaH#}.
@@ -87652,7 +87652,7 @@ the impending danger’ {#pratyAsannApadaM taM#}
 
 <L>11153<pc>491<k1>wash<k2>wash
 {@Wash,@}¦ {%v. t.%} {#pra-,kzal#} 10, {#pra-mfj#} 2 P or c.,
-{#nij#} 3 U, {#ava-nir-°, DAv#} 1 U, 10; ‘w.
+{#nij#} 3 U, {#ava-nir-˚, DAv#} 1 U, 10; ‘w.
 the mouth (after meals)’ {#upaspfS#} 6 P.
 {%-s.,%} {@-ing,@} {%s.%} {#DAvanaM, pra-, kzAlanaM, mArjanaM#},
 {#avasekaH, nirRekaH#}. {@2@} {#AlepaH, vi-pra-lepaH-panaM#}.
@@ -87744,7 +87744,7 @@ shafts’ {#varzaSarAH, DArASarasaMpAtAH#}. {@2@}
 <L>11159<pc>491<k1>wave<k2>wave
 {@Wave,@}¦ {%s.%} {#taraMgaH, Urmi#} {%f.,%} {#vIci-cI#} {%f.,%}
 {#kallolaH, BaMgaH, BaMgi-gI#} {%f.-v. t.%} {#DU#} 5, 9 U
-or c. ({#DUnayati#}), {#vi-A-°, cal#} c., {#saM-#},
+or c. ({#DUnayati#}), {#vi-A-˚, cal#} c., {#saM-#},
 {#Ir#} c. {@2@} {#utsfj#} 6 P, {#parityaj#} 1 P. {%-v. i.%}
 {#itastataH pra-vi-cal#} 1 P, {#DU#} pass. {@-y,@} {%a.%}
 {#taraMgita, Urmimat, kallolamaya#} ({#yI#} {%f.%}), {#BaMgi-#}
@@ -89162,7 +89162,7 @@ before last’ {#parAri#} {%ind.;%} ‘next y.’
 {#zaRmAsaM, varzArDaM#}; ‘throughout the y.’
 {#AvarzAMtAt#}; ‘y. after y.’ {#prativarzaM, vatsare#}
 {#vatsare#}. {@-ly,@} {%a.%} {#vArzika-sAMvatsarika-Abdika-#}
-({#kI#} {%f.%}), {#prati°#}; ‘half-y.’ {#arDavArzika-#}
+({#kI#} {%f.%}), {#prati˚#}; ‘half-y.’ {#arDavArzika-#}
 {#-zARmAsika#} ({#kI#} {%f.%}). {%-adv.%} {#varze varze, prativarzaM#},
 {#pratisaMvatsaraM#} &c.
 <LEND>
