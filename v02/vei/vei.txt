@@ -1839,7 +1839,7 @@ Myrobalan tree; also called {@Āmalaka,@} or {@Āmalakā.@}<sup>2</sup>
 i. 38, 6.</F>
 <F>2) The reading in Chāndogya Upani-
 ṣad, vii. 3, 1, is {%vāmalake,%} which may
-give {%ă°%} or {%ā°.%}</F>
+give {%ă˚%} or {%ā˚.%}</F>
 <LEND>
 
 <L>112<pc>1-030<k1>amAjur<k2>amAjur
@@ -4881,7 +4881,7 @@ Brāhmaṇa, iv. 3, 4, 16, etc.; Jaiminīya
 Brāhmaṇa, i. 9; ii. 134; Chāndogya
 Upaniṣad, v. 24, 3; Kāṭhaka Upaniṣad,
 ii. 6, 17, etc.; Nirukta, ix. 8.</F>
-<F>2) ii. 16 ({%v. l. °ike%}).</F>
+<F>2) ii. 16 ({%v. l. ˚ike%}).</F>
 <F>3) i. 1, 4, 19.
 <div n="P"/>{%Cf.%} Zimmer, {%Altindisches Leben,%} 71;
 Oertel, {%Journal of the American Oriental%}
@@ -62460,7 +62460,7 @@ the same text.<sup>4</sup>
 ṣad, vi. 2, 13 (Mādhyaṃdina = vi. 1,
 13 Kāṇva).</F>
 <F>4) Bṛhadāraṇyaka Upaniṣad, ii. 4, 12
-({%°khilya%}); iv. 5, 13 ({%°ghana%}).</F>
+({%˚khilya%}); iv. 5, 13 ({%˚ghana%}).</F>
 <LEND>
 
 <L>3670<pc>2-473<k1>sErya<k2>sErya
