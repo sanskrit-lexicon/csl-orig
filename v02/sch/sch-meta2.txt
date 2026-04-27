@@ -7,8 +7,8 @@ sch.txt uses the utf-8 encoding for extended ASCII characters.
 
 Here is the first record of sch.txt, to serve as an example for the following
 descriptions:
-<L>1<pc>001-1<k1>a<k2>a°
-{#a#} {%a°%}¦ {!2!}  , {%asvaptum%} Tāṇḍya-Br. 10 , 4 , 4. {part=,seq=1,type=,n=1}
+<L>1<pc>001-1<k1>a<k2>a˚
+{#a#} {%a˚%}¦ {!2!}  , {%asvaptum%} Tāṇḍya-Br. 10 , 4 , 4. {part=,seq=1,type=,n=1}
 <LEND>
 
 
@@ -26,8 +26,8 @@ The {X...X} style of coding serves several purposes:
  - seq  a sequence number for the entry in the original digitization. 
    For about 350 cases of homonyms merged in the original digitization, 
    a variant of this might be, e.g., seq=6109a.
- - type - Some entries appear with a preceding code (*, °, +). 
-    For example, °aMSumatPala, *aMSumatPalA, *+jyotiriNgaRa.
+ - type - Some entries appear with a preceding code (*, ˚, +). 
+    For example, ˚aMSumatPala, *aMSumatPalA, *+jyotiriNgaRa.
  - n This is the number of lines taken by the entry in the printed edition.
 
 Meta lines: 
