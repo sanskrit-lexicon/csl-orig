@@ -129,9 +129,9 @@ II akṣa m.
 <LEND>
 <L>25<pc>011<k1>akza<k2>akza
 III akṣa n. (cf. caturakṣa) 
-<div n="1"/>1 <lang n="czech">smyslový orgán; -° oko</lang>
-<div n="1"/>2 <lang n="russian">орган чувства; -° глаз</lang>
-<div n="1"/>3 <lang n="english">an organ of sense; -° the eye</lang>
+<div n="1"/>1 <lang n="czech">smyslový orgán; -˚ oko</lang>
+<div n="1"/>2 <lang n="russian">орган чувства; -˚ глаз</lang>
+<div n="1"/>3 <lang n="english">an organ of sense; -˚ the eye</lang>
 <LEND>
 <L>26<pc>011<k1>akzaja<k2>akzaja
 akṣaja
@@ -264,9 +264,9 @@ agnihotra n.
 <LEND>
 <L>49<pc>012<k1>agra<k2>agra
 agra n.
-<div n="1"/>1 <lang n="czech">špička, vrchol začátek; -° a. přední, vynikající</lang>
-<div n="1"/>2 <lang n="russian">кончик, вершина, начало; -° а. первый, выдающийся</lang>
-<div n="1"/>3 <lang n="english">a tip, summit, beginning; -° a. chief, excellent</lang>
+<div n="1"/>1 <lang n="czech">špička, vrchol začátek; -˚ a. přední, vynikající</lang>
+<div n="1"/>2 <lang n="russian">кончик, вершина, начало; -˚ а. первый, выдающийся</lang>
+<div n="1"/>3 <lang n="english">a tip, summit, beginning; -˚ a. chief, excellent</lang>
 <LEND>
 <L>50<pc>012<k1>agram<k2>agram
 agram, agre adv., prep. + gen. 
@@ -4796,7 +4796,7 @@ ahan, ahar, ahas n.
 <div n="1"/>3 <lang n="english">a day</lang>
 <LEND>
 <L>817<pc>040<k1>aham<k2>aham
-aham pron. (sg. aham, mām, mayā, mahyam, mat, mama, mayi; encl. acc. mā, dat., gen. me; °- mad, mat; du. āvām &c., encl. acc., dat., gen. nau; pl. vayam, q. v.) 
+aham pron. (sg. aham, mām, mayā, mahyam, mat, mama, mayi; encl. acc. mā, dat., gen. me; ˚- mad, mat; du. āvām &c., encl. acc., dat., gen. nau; pl. vayam, q. v.) 
 <div n="1"/>1 <lang n="czech">já</lang>
 <div n="1"/>2 <lang n="russian">я</lang>
 <div n="1"/>3 <lang n="english">I</lang>
@@ -4949,7 +4949,7 @@ II ā pcl., adv.
 <div n="1"/>3 <lang n="english">name</lang>
 <LEND>
 <L>843<pc>041<k1>AKya<k2>AKya
-ākhya (-°) 
+ākhya (-˚) 
 <div n="1"/>1 <lang n="czech">nazvaný</lang>
 <div n="1"/>2 <lang n="russian">названный</lang>
 <div n="1"/>3 <lang n="english">called, named</lang>
@@ -5183,7 +5183,7 @@ II ā pcl., adv.
 <div n="1"/>3 <lang n="english">beginning, commencement</lang>
 <LEND>
 <L>882<pc>042<k1>Adi<k2>Adi
-ādi, ādika (-°) a.
+ādi, ādika (-˚) a.
 <div n="1"/>1 <lang n="czech">počínající; atd.</lang>
 <div n="1"/>2 <lang n="russian">начинающий; и m. д.</lang>
 <div n="1"/>3 <lang n="english">beginning with; et caetera</lang>
@@ -5447,7 +5447,7 @@ II āpastamba m. (-ī f.)
 <div n="1"/>3 <lang n="english">able to reach</lang>
 <LEND>
 <L>927<pc>044<k1>ABa<k2>ABa
-ābha (-°; cf. ābhā) 
+ābha (-˚; cf. ābhā) 
 <div n="1"/>1 <lang n="czech">podobný, připomínající</lang>
 <div n="1"/>2 <lang n="russian">похожий, припоминающий</lang>
 <div n="1"/>3 <lang n="english">like, resembling</lang>
@@ -5840,7 +5840,7 @@ II āpastamba m. (-ī f.)
 <div n="1"/>3 <lang n="english">possessed</lang>
 <LEND>
 <L>995<pc>046<k1>ASa<k2>ASa
-āśa (-°) m.
+āśa (-˚) m.
 <div n="1"/>1 <lang n="czech">jídlo</lang>
 <div n="1"/>2 <lang n="russian">пища</lang>
 <div n="1"/>3 <lang n="english">food</lang>
@@ -5870,7 +5870,7 @@ II āpastamba m. (-ī f.)
 <div n="1"/>3 <lang n="english">satiated, eaten</lang>
 <LEND>
 <L>1000<pc>046<k1>ASin<k2>ASin
-āśin (-°) 
+āśin (-˚) 
 <div n="1"/>1 <lang n="czech">pojídající, živící se</lang>
 <div n="1"/>2 <lang n="russian">поедающий, кормящийся</lang>
 <div n="1"/>3 <lang n="english">eating, living on</lang>
@@ -6489,9 +6489,9 @@ indu m.
 <LEND>
 <L>1106<pc>051<k1>indra<k2>indra
 indra m.
-<div n="1"/>1 <lang n="czech">"silný", jm. boha; -°nejlepší, přední</lang>
-<div n="1"/>2 <lang n="russian">"сильный", имя бога; -° самый лучший, передний</lang>
-<div n="1"/>3 <lang n="english">"strong", name of a god; -° the best of, chief</lang>
+<div n="1"/>1 <lang n="czech">"silný", jm. boha; -˚nejlepší, přední</lang>
+<div n="1"/>2 <lang n="russian">"сильный", имя бога; -˚ самый лучший, передний</lang>
+<div n="1"/>3 <lang n="english">"strong", name of a god; -˚ the best of, chief</lang>
 <LEND>
 <L>1107<pc>051<k1>indratA<k2>indratA
 indratā f.
@@ -8840,7 +8840,7 @@ kad pcl. interrog. (n.sg. ≺ ka)
 <div n="1"/>3 <lang n="english">in no way</lang>
 <LEND>
 <L>1513<pc>068<k1>kad<k2>kad
- +kad- (°-) 
+ +kad- (˚-) 
 <div n="1"/>1 <lang n="czech">vyjádřuje špatnost nebo chybu</lang>
 <div n="1"/>2 <lang n="russian">выражает негодность или недостаток</lang>
 <div n="1"/>3 <lang n="english">it marks badness or defectiveness</lang>
@@ -9723,9 +9723,9 @@ kāpuruṣa m.
 <LEND>
 <L>1666<pc>075<k1>kAma<k2>kAma
 kāma m.
-<div n="1"/>1 <lang n="czech">přání, touha, rozkoš, láska; jméno boha lásky; -° a. toužící</lang>
-<div n="1"/>2 <lang n="russian">желание, влечение, вожделение, любовь; имя бога любви; -° а. желающий</lang>
-<div n="1"/>3 <lang n="english">wish, desire, lust, love; name of the god of love; -° a. desiring</lang>
+<div n="1"/>1 <lang n="czech">přání, touha, rozkoš, láska; jméno boha lásky; -˚ a. toužící</lang>
+<div n="1"/>2 <lang n="russian">желание, влечение, вожделение, любовь; имя бога любви; -˚ а. желающий</lang>
+<div n="1"/>3 <lang n="english">wish, desire, lust, love; name of the god of love; -˚ a. desiring</lang>
 <LEND>
 <L>1667<pc>075<k1>kAmam<k2>kAmam
  +kāmam adv.
@@ -9923,7 +9923,7 @@ kāśi, kāśī f.
 <div n="1"/>3 <lang n="english">the modern Benares</lang>
 <LEND>
 <L>1700<pc>076<k1>kASin<k2>kASin
-kāśin (-°) 
+kāśin (-˚) 
 <div n="1"/>1 <lang n="czech">jevící se</lang>
 <div n="1"/>2 <lang n="russian">являющийся</lang>
 <div n="1"/>3 <lang n="english">appearing</lang>
@@ -11573,7 +11573,7 @@ kṣuttāpa m.
 <div n="1"/>3 <lang n="english">pain of hunger</lang>
 <LEND>
 <L>1984<pc>087<k1>kzutpipAsA<k2>kzutpipAsA
-kṣutpipāsā° (subst.) 
+kṣutpipāsā˚ (subst.) 
 <div n="1"/>1 <lang n="czech">hlad a žízeň</lang>
 <div n="1"/>2 <lang n="russian">голод и жажда</lang>
 <div n="1"/>3 <lang n="english">hunger and thirst</lang>
@@ -11876,7 +11876,7 @@ khyāta (pp. ≺ khyā)
 <div n="1"/>3 <lang n="english">called, well-known</lang>
 <LEND>
 <L>2036<pc>089<k1>ga<k2>ga
-ga (-°) 
+ga (-˚) 
 <div n="1"/>1 <lang n="czech">jdoucí, pohybující se, vztahující se</lang>
 <div n="1"/>2 <lang n="russian">идущий, движущийся, относящийся</lang>
 <div n="1"/>3 <lang n="english">going, moving, relating to</lang>
@@ -12143,7 +12143,7 @@ gabhīra
 <div n="1"/>3 <lang n="english">to come together, meet</lang>
 <LEND>
 <L>2082<pc>091<k1>gama<k2>gama
-gama (-°) 
+gama (-˚) 
 <div n="1"/>1 <lang n="czech">jdoucí, žijící</lang>
 <div n="1"/>2 <lang n="russian">идущий, живущий</lang>
 <div n="1"/>3 <lang n="english">going, living</lang>
@@ -12344,7 +12344,7 @@ gāndharva (f. -ī)
 <div n="1"/>3 <lang n="english">belonging to the Gandharvas; m. a marriage without ceremonies; a singer; pl. name of a people; n. a song, music</lang>
 <LEND>
 <L>2117<pc>092<k1>gAmin<k2>gAmin
-gāmin (-°) 
+gāmin (-˚) 
 <div n="1"/>1 <lang n="czech">jdoucí</lang>
 <div n="1"/>2 <lang n="russian">идущий</lang>
 <div n="1"/>3 <lang n="english">going</lang>
@@ -12408,9 +12408,9 @@ guḍa m.
 <LEND>
 <L>2129<pc>092<k1>guRa<k2>guRa
 guṇa m.
-<div n="1"/>1 <lang n="czech">šňůra, provaz, tětiva, struna, část, složka, vedlejší věc, vlastnost (dobrá), přednost, ctnost; -° a. násobný</lang>
-<div n="1"/>2 <lang n="russian">шнур, веревка, тетива, струна, часть, составная часть, зависимая часть, свойство (хорошее), преимущество, добродетель; -° а. кратный</lang>
-<div n="1"/>3 <lang n="english">thread, cord, string, a subordinate or constituent part, (a good) quality, eminence, virtue; -° a. -fold</lang>
+<div n="1"/>1 <lang n="czech">šňůra, provaz, tětiva, struna, část, složka, vedlejší věc, vlastnost (dobrá), přednost, ctnost; -˚ a. násobný</lang>
+<div n="1"/>2 <lang n="russian">шнур, веревка, тетива, струна, часть, составная часть, зависимая часть, свойство (хорошее), преимущество, добродетель; -˚ а. кратный</lang>
+<div n="1"/>3 <lang n="english">thread, cord, string, a subordinate or constituent part, (a good) quality, eminence, virtue; -˚ a. -fold</lang>
 <LEND>
 <L>2130<pc>092<k1>guRamaya<k2>guRamaya
 guṇamaya
@@ -12630,9 +12630,9 @@ gokula n.
 <LEND>
 <L>2168<pc>094<k1>gocara<k2>gocara
 gocara m.
-<div n="1"/>1 <lang n="czech">území pro krávy, obvod, obzor, dohled, dosah; -° a. jsoucí na dosah, blízký, viditelný</lang>
-<div n="1"/>2 <lang n="russian">земля для коров, округ, кругозор, досягаемость; -°а. досягаемый, близкий, видимый</lang>
-<div n="1"/>3 <lang n="english">pasture ground for cattle, reach, scope, range; -° a. being within the range, near, visible</lang>
+<div n="1"/>1 <lang n="czech">území pro krávy, obvod, obzor, dohled, dosah; -˚ a. jsoucí na dosah, blízký, viditelný</lang>
+<div n="1"/>2 <lang n="russian">земля для коров, округ, кругозор, досягаемость; -˚а. досягаемый, близкий, видимый</lang>
+<div n="1"/>3 <lang n="english">pasture ground for cattle, reach, scope, range; -˚ a. being within the range, near, visible</lang>
 <LEND>
 <L>2169<pc>094<k1>gotra<k2>gotra
 gotra n.
@@ -12896,7 +12896,7 @@ grasta* (pp. ≺ gras)
 <div n="1"/>3 <lang n="english">to hold together; take, seize, grasp; gather together, collect; include, comprehend, contain; draw together, contract, abridge; hold in, restrain, govern; constrain, force; take a wife; mention, name; receive; support, favour; protect</lang>
 <LEND>
 <L>2216<pc>097<k1>graha<k2>graha
-I graha* (-°) 
+I graha* (-˚) 
 <div n="1"/>1 <lang n="czech">beroucí, uchvacující</lang>
 <div n="1"/>2 <lang n="russian">берущий, захватывающий</lang>
 <div n="1"/>3 <lang n="english">taking, seizing</lang>
@@ -12998,7 +12998,7 @@ grāhaṇa* n.
 <div n="1"/>3 <lang n="english">the act of causing anybody to take, grasp, accept anything</lang>
 <LEND>
 <L>2233<pc>098<k1>grAhin<k2>grAhin
-grāhin* (-°) 
+grāhin* (-˚) 
 <div n="1"/>1 <lang n="czech">beroucí, uchvacující, držící</lang>
 <div n="1"/>2 <lang n="russian">берущий, захватывающий, держащий</lang>
 <div n="1"/>3 <lang n="english">taking, seizing, keeping</lang>
@@ -13199,7 +13199,7 @@ ghoṣavant
 <div n="1"/>3 <lang n="english">sounding, sonant</lang>
 <LEND>
 <L>2268<pc>100<k1>Gna<k2>Gna
-ghna (-°) 
+ghna (-˚) 
 <div n="1"/>1 <lang n="czech">zabíjející, ničící, překonávající</lang>
 <div n="1"/>2 <lang n="russian">убивающий, уничтожающий, преодолевающий</lang>
 <div n="1"/>3 <lang n="english">killing, removing</lang>
@@ -13715,7 +13715,7 @@ cāritra n.
 <div n="1"/>3 <lang n="english">good conduct, manner of acting</lang>
 <LEND>
 <L>2358<pc>103<k1>cArin<k2>cArin
-cārin (-°) 
+cārin (-˚) 
 <div n="1"/>1 <lang n="czech">zachovávající (slib)</lang>
 <div n="1"/>2 <lang n="russian">исполняющий (обещание)</lang>
 <div n="1"/>3 <lang n="english">performing (a vow)</lang>
@@ -13799,7 +13799,7 @@ cikitsya
 <div n="1"/>3 <lang n="english">to be treated medically, curable</lang>
 <LEND>
 <L>2373<pc>104<k1>cikIr<k2>cikIr
-cikīr (cikīrṣ; -°) 
+cikīr (cikīrṣ; -˚) 
 <div n="1"/>1 <lang n="czech">chtějící udělat</lang>
 <div n="1"/>2 <lang n="russian">желающий сделать</lang>
 <div n="1"/>3 <lang n="english">desirous of doing</lang>
@@ -13944,9 +13944,9 @@ cid pcl. emph.
 <LEND>
 <L>2398<pc>105<k1>cintana<k2>cintana
 cintana n.
-<div n="1"/>1 <lang n="czech">péče; -° a. pečující</lang>
-<div n="1"/>2 <lang n="russian">забота; -° а. заботящийся</lang>
-<div n="1"/>3 <lang n="english">care; -° a. caring</lang>
+<div n="1"/>1 <lang n="czech">péče; -˚ a. pečující</lang>
+<div n="1"/>2 <lang n="russian">забота; -˚ а. заботящийся</lang>
+<div n="1"/>3 <lang n="english">care; -˚ a. caring</lang>
 <LEND>
 <L>2399<pc>105<k1>cintA<k2>cintA
 cintā f.
@@ -14159,7 +14159,7 @@ cyavana n.
 <div n="1"/>3 <lang n="english">to go off, part from</lang>
 <LEND>
 <L>2436<pc>106<k1>cyut<k2>cyut
-cyut (-°) 
+cyut (-˚) 
 <div n="1"/>1 <lang n="czech">otřásající</lang>
 <div n="1"/>2 <lang n="russian">потрясающий</lang>
 <div n="1"/>3 <lang n="english">shaking</lang>
@@ -14330,7 +14330,7 @@ chedya v. chettavya
 jaṃgh-, jaṃt-, jaṃb- v. jaṅgh-, jant-, jamb- 
 <LEND>
 <L>2468<pc>108<k1>ja<k2>ja
-ja (-°) 
+ja (-˚) 
 <div n="1"/>1 <lang n="czech">vzniklý, pocházející, patřící; m. syn, potomek; f. dcera</lang>
 <div n="1"/>2 <lang n="russian">возникший, происходящий, принадлежащий; m. сын, потомок; f. дочь</lang>
 <div n="1"/>3 <lang n="english">born, produced, belonging; m. son, descendant; f. daughter</lang>
@@ -14571,9 +14571,9 @@ jantu m.
 <LEND>
 <L>2510<pc>109<k1>janman<k2>janman
 janman n.
-<div n="1"/>1 <lang n="czech">narození, původ, život, rodiště, otec, rod; -° a. zrozený, vzniklý</lang>
-<div n="1"/>2 <lang n="russian">рождение, происхождение, жизнь, место рождения, отец, род; -° а. рожденный, возникший</lang>
-<div n="1"/>3 <lang n="english">birth, origin, life, birthplace, father, race; -° a. born, produced</lang>
+<div n="1"/>1 <lang n="czech">narození, původ, život, rodiště, otec, rod; -˚ a. zrozený, vzniklý</lang>
+<div n="1"/>2 <lang n="russian">рождение, происхождение, жизнь, место рождения, отец, род; -˚ а. рожденный, возникший</lang>
+<div n="1"/>3 <lang n="english">birth, origin, life, birthplace, father, race; -˚ a. born, produced</lang>
 <LEND>
 <L>2511<pc>110<k1>janya<k2>janya
 janya
@@ -14954,7 +14954,7 @@ jijñāsā f.
 <div n="1"/>3 <lang n="english">desire of knowing, investigation</lang>
 <LEND>
 <L>2578<pc>112<k1>jit<k2>jit
-jit (-°) 
+jit (-˚) 
 <div n="1"/>1 <lang n="czech">vítězící</lang>
 <div n="1"/>2 <lang n="russian">побеждающий</lang>
 <div n="1"/>3 <lang n="english">conquering</lang>
@@ -15125,7 +15125,7 @@ joṣa m.
 <div n="1"/>3 <lang n="english">pleasure, satisfaction</lang>
 <LEND>
 <L>2608<pc>113<k1>jYa<k2>jYa
-jña (-°) 
+jña (-˚) 
 <div n="1"/>1 <lang n="czech">znající, moudrý</lang>
 <div n="1"/>2 <lang n="russian">знающий, мудрый</lang>
 <div n="1"/>3 <lang n="english">knowing, wise</lang>
@@ -15209,7 +15209,7 @@ jñeya
 <div n="1"/>3 <lang n="english">to be known or understood</lang>
 <LEND>
 <L>2622<pc>114<k1>jya<k2>jya
-jya (-°) 
+jya (-˚) 
 <div n="1"/>1 <lang n="czech">utlačující</lang>
 <div n="1"/>2 <lang n="russian">притесняющий</lang>
 <div n="1"/>3 <lang n="english">oppressing</lang>
@@ -16751,7 +16751,7 @@ tvadīya
 <div n="1"/>3 <lang n="english">thy, thine</lang>
 <LEND>
 <L>2888<pc>124<k1>tvam<k2>tvam
-tvam pron. (sg. tvam, tvām, tvayā, tubhyam, tvat, tava, tvayi; encl. acc. tvā, dat., gen. te; °- tvad, tvat; du. yuvām &c., encl. acc., dat., gen. vām; pl. yūyam, q. v.
+tvam pron. (sg. tvam, tvām, tvayā, tubhyam, tvat, tava, tvayi; encl. acc. tvā, dat., gen. te; ˚- tvad, tvat; du. yuvām &c., encl. acc., dat., gen. vām; pl. yūyam, q. v.
 <div n="1"/>1 <lang n="czech">ty</lang>
 <div n="1"/>2 <lang n="russian">ты</lang>
 <div n="1"/>3 <lang n="english">thou, you</lang>
@@ -16787,7 +16787,7 @@ tsaru m.
 <div n="1"/>3 <lang n="english">the hilt of a sword</lang>
 <LEND>
 <L>2894<pc>124<k1>da<k2>da
-da (-°) 
+da (-˚) 
 <div n="1"/>1 <lang n="czech">dávající, působící</lang>
 <div n="1"/>2 <lang n="russian">дающий, вызывающий</lang>
 <div n="1"/>3 <lang n="english">giving, producing</lang>
@@ -17330,7 +17330,7 @@ dahana (f. -ī)
 <div n="1"/>3 <lang n="english">burning, consuming; m. fire</lang>
 <LEND>
 <L>2986<pc>128<k1>dA<k2>dA
-I √dā dadāti, datte, pp. datta, -° tta (ātta) 
+I √dā dadāti, datte, pp. datta, -˚ tta (ātta) 
 <div n="1"/>1 <lang n="czech">dávati, poskytovati, nabízeti (sedadlo), darovati; vydávati, podávati; pokládati, dělati, tvořiti; dávati v manželství (provdávati); platiti; dovolovati</lang>
 <div n="1"/>2 <lang n="russian">давать, предоставлять, предлагать (сесть), подарить; выдавать, подавать; класть, делать, создавать; давать в брак (выдавать замуж); платить; разрешать</lang>
 <div n="1"/>3 <lang n="english">to give, impart, offer (a seat), bestow; give up, give over, surrender; put, place, make, create; give in marriage; to pay (as debt); permit, allow</lang>
@@ -17417,7 +17417,7 @@ II √dā dāti, dyati, (pp. dita, dina)
 <div n="1"/>3 <lang n="english">to cut, mow, divide</lang>
 <LEND>
 <L>3001<pc>129<k1>dA<k2>dA
-III √dā dyati, pp. -° dita
+III √dā dyati, pp. -˚ dita
 <div n="1"/>1 <lang n="czech">vázati</lang>
 <div n="1"/>2 <lang n="russian">связывать</lang>
 <div n="1"/>3 <lang n="english">to bind</lang>
@@ -19088,16 +19088,16 @@ dvyāsya
 <div n="1"/>3 <lang n="english">two-mouthed</lang>
 <LEND>
 <L>3288<pc>139<k1>Da<k2>Da
-dha (-°) 
+dha (-˚) 
 <div n="1"/>1 <lang n="czech">kladoucí, poskytujicí</lang>
 <div n="1"/>2 <lang n="russian">кладущий, дающий, оказывающий</lang>
 <div n="1"/>3 <lang n="english">putting, granting</lang>
 <LEND>
 <L>3289<pc>139<k1>Dana<k2>Dana
 dhana n.
-<div n="1"/>1 <lang n="czech">cena, výhra, kořist, zisk, peníze, jmění, odměna; -° a. bohatý</lang>
-<div n="1"/>2 <lang n="russian">приз, выигрыш, добыча, прибыль, деньги, имущество, награда; -° а. богатый</lang>
-<div n="1"/>3 <lang n="english">the prize of a contest, booty, profit, money, wealth, reward; -°a. rich</lang>
+<div n="1"/>1 <lang n="czech">cena, výhra, kořist, zisk, peníze, jmění, odměna; -˚ a. bohatý</lang>
+<div n="1"/>2 <lang n="russian">приз, выигрыш, добыча, прибыль, деньги, имущество, награда; -˚ а. богатый</lang>
+<div n="1"/>3 <lang n="english">the prize of a contest, booty, profit, money, wealth, reward; -˚a. rich</lang>
 <LEND>
 <L>3290<pc>140<k1>DanaMjaya<k2>DanaMjaya
 dhanaṃjaya v. dhanajit; m., n. pr. 
@@ -20418,9 +20418,9 @@ nādhamāna
 <LEND>
 <L>3520<pc>149<k1>nAnA<k2>nAnA
 nānā adv.
-<div n="1"/>1 <lang n="czech">na různých místech, různě, zvláště; a. (°-) různý</lang>
-<div n="1"/>2 <lang n="russian">на разных местах, различно, отдельно; а. (°-) различный</lang>
-<div n="1"/>3 <lang n="english">in different places, variously, separately; a. (°-) various</lang>
+<div n="1"/>1 <lang n="czech">na různých místech, různě, zvláště; a. (˚-) různý</lang>
+<div n="1"/>2 <lang n="russian">на разных местах, различно, отдельно; а. (˚-) различный</lang>
+<div n="1"/>3 <lang n="english">in different places, variously, separately; a. (˚-) various</lang>
 <LEND>
 <L>3521<pc>149<k1>nAnADarman<k2>nAnADarman
 nānādharman
@@ -20832,9 +20832,9 @@ nipuṇa
 <LEND>
 <L>3592<pc>151<k1>nibanDana<k2>nibanDana
 nibandhana n.
-<div n="1"/>1 <lang n="czech">pouto, spoutání, závislost, příčina; -° a. závislý</lang>
-<div n="1"/>2 <lang n="russian">путы, связывание, зависимость, причина; -° а. зависимый</lang>
-<div n="1"/>3 <lang n="english">fetter, binding, dependence, cause; -° a. dependent</lang>
+<div n="1"/>1 <lang n="czech">pouto, spoutání, závislost, příčina; -˚ a. závislý</lang>
+<div n="1"/>2 <lang n="russian">путы, связывание, зависимость, причина; -˚ а. зависимый</lang>
+<div n="1"/>3 <lang n="english">fetter, binding, dependence, cause; -˚ a. dependent</lang>
 <LEND>
 <L>3593<pc>151<k1>niBfta<k2>niBfta
 nibhṛta (pp. ≺ bhar) 
@@ -21165,9 +21165,9 @@ nivārita (pp. caus. ≺ II var)
 <LEND>
 <L>3648<pc>154<k1>nivAsa<k2>nivAsa
 nivāsa m.
-<div n="1"/>1 <lang n="czech">bydlení, sídlo; -° a. sídlící</lang>
-<div n="1"/>2 <lang n="russian">житье, место жительства; -° a. живущий</lang>
-<div n="1"/>3 <lang n="english">dwelling, abode; -° a. living</lang>
+<div n="1"/>1 <lang n="czech">bydlení, sídlo; -˚ a. sídlící</lang>
+<div n="1"/>2 <lang n="russian">житье, место жительства; -˚ a. живущий</lang>
+<div n="1"/>3 <lang n="english">dwelling, abode; -˚ a. living</lang>
 <LEND>
 <L>3649<pc>154<k1>nivizwa<k2>nivizwa
 niviṣṭa (pp. ≺ viś) 
@@ -21746,13 +21746,13 @@ nvai ( ≺ nu vai) adv.
 <div n="1"/>3 <lang n="english">indeed, surely</lang>
 <LEND>
 <L>3747<pc>158<k1>pa<k2>pa
-I pa (-°) 
+I pa (-˚) 
 <div n="1"/>1 <lang n="czech">pijící</lang>
 <div n="1"/>2 <lang n="russian">пьющий</lang>
 <div n="1"/>3 <lang n="english">drinking</lang>
 <LEND>
 <L>3748<pc>158<k1>pa<k2>pa
-II pa (-°) 
+II pa (-˚) 
 <div n="1"/>1 <lang n="czech">chránící</lang>
 <div n="1"/>2 <lang n="russian">охраняющий</lang>
 <div n="1"/>3 <lang n="english">guarding</lang>
@@ -22163,7 +22163,7 @@ path m. (nom. panthās)
 <div n="1"/>3 <lang n="english">way, road, path, course, manner</lang>
 <LEND>
 <L>3818<pc>161<k1>paTa<k2>paTa
-patha m. (-°), v. path
+patha m. (-˚), v. path
 <LEND>
 <L>3819<pc>161<k1>paTika<k2>paTika
 pathika m.
@@ -22407,9 +22407,9 @@ III√par pṛṇoti; ā, vyā, pp. āpṛta, vyāpṛta
 <LEND>
 <L>3861<pc>163<k1>parapar<k2>parapar
  +parapar
-<div n="1"/>1 <lang n="czech">jsoucí na druhě straně, daleký, odlehlý, cizí, nepřátelský; o čase: minulý, dřívější, budoucí; o pořadí: jiný, druhý, odlišný, následující, další, poslední, nejzazší, (nej) vyšší, (nej) lepší, (nej) horší; -° a. zcela zabraný do, zcela se obírající; m. cizinec, nepřítel, nejvyšší bůh; n. dálka, vrchol, vykoupení</lang>
-<div n="1"/>2 <lang n="russian">находящийся на другой стороне, далекий, удаленный, отдаленный, чужой, враждебный; о времени: прошедший, прежний, будущий; о последовательности: другой, второй, отличающийся, следующий, последний, самый крайний, самый высокий, (самый) лучший, (самый) плохой; -° а. вполне поглощенный чем, занимающийся (вполне чем); m. чужеземец, враг, высшее божество; n. даль, верх, искупление</lang>
-<div n="1"/>3 <lang n="english">being on the other side, far, remote, foreign, hostile; said of time: past, former, future; said of series: other, another, different, following, further, ' last, extreme, higher, highest, superior, better, best, worse, worst; -° a. absorbed in, wholly occupied in; m. a stranger, enemy, the supreme spirit; n. distance, highest point, final beatitude</lang>
+<div n="1"/>1 <lang n="czech">jsoucí na druhě straně, daleký, odlehlý, cizí, nepřátelský; o čase: minulý, dřívější, budoucí; o pořadí: jiný, druhý, odlišný, následující, další, poslední, nejzazší, (nej) vyšší, (nej) lepší, (nej) horší; -˚ a. zcela zabraný do, zcela se obírající; m. cizinec, nepřítel, nejvyšší bůh; n. dálka, vrchol, vykoupení</lang>
+<div n="1"/>2 <lang n="russian">находящийся на другой стороне, далекий, удаленный, отдаленный, чужой, враждебный; о времени: прошедший, прежний, будущий; о последовательности: другой, второй, отличающийся, следующий, последний, самый крайний, самый высокий, (самый) лучший, (самый) плохой; -˚ а. вполне поглощенный чем, занимающийся (вполне чем); m. чужеземец, враг, высшее божество; n. даль, верх, искупление</lang>
+<div n="1"/>3 <lang n="english">being on the other side, far, remote, foreign, hostile; said of time: past, former, future; said of series: other, another, different, following, further, ' last, extreme, higher, highest, superior, better, best, worse, worst; -˚ a. absorbed in, wholly occupied in; m. a stranger, enemy, the supreme spirit; n. distance, highest point, final beatitude</lang>
 <LEND>
 <L>3862<pc>163<k1>paraMpar<k2>paraMpar
  +paraṃpar adv.
@@ -22583,7 +22583,7 @@ parassahasra, paraḥ-
 <div n="1"/>3 <lang n="english">more than a thousand</lang>
 <LEND>
 <L>3891<pc>164<k1>parA<k2>parA
-parā (°-) 
+parā (˚-) 
 <div n="1"/>1 <lang n="czech">pryč, dále, stranou</lang>
 <div n="1"/>2 <lang n="russian">прочь, дальше, в сторону</lang>
 <div n="1"/>3 <lang n="english">away, off, along, aside</lang>
@@ -22644,9 +22644,9 @@ parāmarśa m.
 <LEND>
 <L>3901<pc>165<k1>parAyaRa<k2>parAyaRa
 parāyaṇa m. 
-<div n="1"/>1 <lang n="czech">nejvyšší cíl, poslední útočiště; -° a. zcela upjatý, pohřížený</lang>
-<div n="1"/>2 <lang n="russian">высочайшая цель, последнее убежище; -° а. совершенно сосредоточенный, погруженный</lang>
-<div n="1"/>3 <lang n="english">final aim, last resort; -° a. wholly intent upon, absorbed in</lang>
+<div n="1"/>1 <lang n="czech">nejvyšší cíl, poslední útočiště; -˚ a. zcela upjatý, pohřížený</lang>
+<div n="1"/>2 <lang n="russian">высочайшая цель, последнее убежище; -˚ а. совершенно сосредоточенный, погруженный</lang>
+<div n="1"/>3 <lang n="english">final aim, last resort; -˚ a. wholly intent upon, absorbed in</lang>
 <LEND>
 <L>3902<pc>165<k1>parArGya<k2>parArGya
 parārghya
@@ -22680,9 +22680,9 @@ parāvat f.
 <LEND>
 <L>3907<pc>165<k1>pari<k2>pari
 pari adv.
-<div n="1"/>1 <lang n="czech">kolem, dokola; °- velmi, obzvláště</lang>
-<div n="1"/>2 <lang n="russian">кругом, вокруг; °- очень, преимущественно</lang>
-<div n="1"/>3 <lang n="english">round, about; °- much, excessively</lang>
+<div n="1"/>1 <lang n="czech">kolem, dokola; ˚- velmi, obzvláště</lang>
+<div n="1"/>2 <lang n="russian">кругом, вокруг; ˚- очень, преимущественно</lang>
+<div n="1"/>3 <lang n="english">round, about; ˚- much, excessively</lang>
 <LEND>
 <L>3908<pc>165<k1>pari<k2>pari
 pari prep. + acc.
@@ -23073,15 +23073,15 @@ paryaṅka m.
 <LEND>
 <L>3974<pc>168<k1>paryanta<k2>paryanta
 paryanta m.
-<div n="1"/>1 <lang n="czech">obvod, kraj, konec; -° a. zakoncený</lang>
-<div n="1"/>2 <lang n="russian">округ, край, конец; -° a. оконченный</lang>
-<div n="1"/>3 <lang n="english">circuit, border, end; -° a. ending in</lang>
+<div n="1"/>1 <lang n="czech">obvod, kraj, konec; -˚ a. zakoncený</lang>
+<div n="1"/>2 <lang n="russian">округ, край, конец; -˚ a. оконченный</lang>
+<div n="1"/>3 <lang n="english">circuit, border, end; -˚ a. ending in</lang>
 <LEND>
 <L>3975<pc>168<k1>paryantam<k2>paryantam
 paryantam adv.
-<div n="1"/>1 <lang n="czech">docela, úplně; -° až k</lang>
-<div n="1"/>2 <lang n="russian">совсем, вполне; -° до самого</lang>
-<div n="1"/>3 <lang n="english">entirely, altogether; -° as far as</lang>
+<div n="1"/>1 <lang n="czech">docela, úplně; -˚ až k</lang>
+<div n="1"/>2 <lang n="russian">совсем, вполне; -˚ до самого</lang>
+<div n="1"/>3 <lang n="english">entirely, altogether; -˚ as far as</lang>
 <LEND>
 <L>3976<pc>168<k1>paryAkula<k2>paryAkula
 paryākula
@@ -23325,9 +23325,9 @@ pāṭhita
 <LEND>
 <L>4017<pc>170<k1>pARi<k2>pARi
 pāṇi m. 
-<div n="1"/>1 <lang n="czech">ruka; -° a. držící v rukou</lang>
-<div n="1"/>2 <lang n="russian">рука; -° a. держа в руках</lang>
-<div n="1"/>3 <lang n="english">the hand; -° a. holding in the hand</lang>
+<div n="1"/>1 <lang n="czech">ruka; -˚ a. držící v rukou</lang>
+<div n="1"/>2 <lang n="russian">рука; -˚ a. держа в руках</lang>
+<div n="1"/>3 <lang n="english">the hand; -˚ a. holding in the hand</lang>
 <LEND>
 <L>4018<pc>170<k1>pARiM<k2>pARiM
  +pāṇiṃ grah
@@ -24396,9 +24396,9 @@ pūrṇacandra, pūrṇendu m.
 <LEND>
 <L>4202<pc>177<k1>pUrva<k2>pUrva
 pūrva
-<div n="1"/>1 <lang n="czech">jsoucí vpředu, prvni, (prvni věk = mládí), přední, východní, předcházející, dávný, minulý, po- čátecní; -° provázený; m. starší bratr; m. pl. předkově</lang>
-<div n="1"/>2 <lang n="russian">находящийся впереди, первый, (первый возраст = молодость), передний, восточный, предшествующий, давний, прошедший, начальный; -° сопровождаемый; m. старший брат; m. pl. предки</lang>
-<div n="1"/>3 <lang n="english">being in front of, first, (first age = youth), foremost, eastern, preceding, old, ancient, initial; -° accompanied by; m. an elder brother; m. pl. the ancestors</lang>
+<div n="1"/>1 <lang n="czech">jsoucí vpředu, prvni, (prvni věk = mládí), přední, východní, předcházející, dávný, minulý, po- čátecní; -˚ provázený; m. starší bratr; m. pl. předkově</lang>
+<div n="1"/>2 <lang n="russian">находящийся впереди, первый, (первый возраст = молодость), передний, восточный, предшествующий, давний, прошедший, начальный; -˚ сопровождаемый; m. старший брат; m. pl. предки</lang>
+<div n="1"/>3 <lang n="english">being in front of, first, (first age = youth), foremost, eastern, preceding, old, ancient, initial; -˚ accompanied by; m. an elder brother; m. pl. the ancestors</lang>
 <LEND>
 <L>4203<pc>177<k1>pUrvam<k2>pUrvam
 pūrvam adv.
@@ -25106,7 +25106,7 @@ pratibhaya
 <div n="1"/>3 <lang n="english">exciting fear, terrible, dangerous; n. fear, danger</lang>
 <LEND>
 <L>4322<pc>182<k1>pratima<k2>pratima
-pratima (-°) 
+pratima (-˚) 
 <div n="1"/>1 <lang n="czech">podobný, vyrovnávající se</lang>
 <div n="1"/>2 <lang n="russian">похожий, равняющийся</lang>
 <div n="1"/>3 <lang n="english">similar, equal</lang>
@@ -25472,16 +25472,16 @@ prabodhana n.
 <div n="1"/>3 <lang n="english">awakening, arousing, understanding, instruction</lang>
 <LEND>
 <L>4384<pc>185<k1>praBa<k2>praBa
-prabha (-°; сf. prabhā) 
+prabha (-˚; сf. prabhā) 
 <div n="1"/>1 <lang n="czech">zářící</lang>
 <div n="1"/>2 <lang n="russian">сияющий</lang>
 <div n="1"/>3 <lang n="english">shining</lang>
 <LEND>
 <L>4385<pc>185<k1>praBava<k2>praBava
 prabhava
-<div n="1"/>1 <lang n="czech">vynikající; -° pocházející; m. vznik, původ, rodiště</lang>
-<div n="1"/>2 <lang n="russian">выдающийся; -° происходящий; m. возникновение, происхождение, место рождения</lang>
-<div n="1"/>3 <lang n="english">excellent; -° springing from; m. production, origin, birthplace</lang>
+<div n="1"/>1 <lang n="czech">vynikající; -˚ pocházející; m. vznik, původ, rodiště</lang>
+<div n="1"/>2 <lang n="russian">выдающийся; -˚ происходящий; m. возникновение, происхождение, место рождения</lang>
+<div n="1"/>3 <lang n="english">excellent; -˚ springing from; m. production, origin, birthplace</lang>
 <LEND>
 <L>4386<pc>185<k1>praBA<k2>praBA
 prabhā f.
@@ -25496,7 +25496,7 @@ prabhākara m.
 <div n="1"/>3 <lang n="english">lit. light-maker; the sun</lang>
 <LEND>
 <L>4388<pc>185<k1>praBAkAra<k2>praBAkAra
-prabhākāra (-°) 
+prabhākāra (-˚) 
 <div n="1"/>1 <lang n="czech">podobající se záři něceho</lang>
 <div n="1"/>2 <lang n="russian">похожий на сияние чего-нибудь</lang>
 <div n="1"/>3 <lang n="english">resembling the splendor of something</lang>
@@ -25533,9 +25533,9 @@ prabhūtatā f.
 <LEND>
 <L>4394<pc>185<k1>praBfti<k2>praBfti
 prabhṛti f.
-<div n="1"/>1 <lang n="czech">přinesení, počátek; -° počnajíc; adv. od</lang>
-<div n="1"/>2 <lang n="russian">принесение, начало; -° начиная; adv. от</lang>
-<div n="1"/>3 <lang n="english">bringing forward, commencement; -° beginning with; adv. from</lang>
+<div n="1"/>1 <lang n="czech">přinesení, počátek; -˚ počnajíc; adv. od</lang>
+<div n="1"/>2 <lang n="russian">принесение, начало; -˚ начиная; adv. от</lang>
+<div n="1"/>3 <lang n="english">bringing forward, commencement; -˚ beginning with; adv. from</lang>
 <LEND>
 <L>4395<pc>185<k1>praBrazwa<k2>praBrazwa
 prabhraṣṭa (pp. ≺ bhramś) 
@@ -25614,9 +25614,9 @@ pramukta (pp. ≺ muc)
 <LEND>
 <L>4408<pc>186<k1>pramuKa<k2>pramuKa
 pramukha (f. -ī) 
-<div n="1"/>1 <lang n="czech">s tváří obrácenou dopředu, hlavní, přední; -° mající v čele, provázen</lang>
-<div n="1"/>2 <lang n="russian">с лицом повернутым вперед, главный, передний; -° имеющий во главе, провожаемый</lang>
-<div n="1"/>3 <lang n="english">turning the face towards, chief, first; -° headed by, accompanied by</lang>
+<div n="1"/>1 <lang n="czech">s tváří obrácenou dopředu, hlavní, přední; -˚ mající v čele, provázen</lang>
+<div n="1"/>2 <lang n="russian">с лицом повернутым вперед, главный, передний; -˚ имеющий во главе, провожаемый</lang>
+<div n="1"/>3 <lang n="english">turning the face towards, chief, first; -˚ headed by, accompanied by</lang>
 <LEND>
 <L>4409<pc>186<k1>pramud<k2>pramud
 pramud f.
@@ -26015,7 +26015,7 @@ I √prā (prāti), pp. prāta
 <div n="1"/>3 <lang n="english">to fill</lang>
 <LEND>
 <L>4476<pc>189<k1>prA<k2>prA
-II prā (-°) 
+II prā (-˚) 
 <div n="1"/>1 <lang n="czech">plnici</lang>
 <div n="1"/>2 <lang n="russian">наполняющий</lang>
 <div n="1"/>3 <lang n="english">filling</lang>
@@ -26205,9 +26205,9 @@ prāmāṇya n.
 <LEND>
 <L>4508<pc>190<k1>prAya<k2>prAya
 prāya m. 
-<div n="1"/>1 <lang n="czech">odchod; největší část, hojnost; -° a. hojný, podobný</lang>
-<div n="1"/>2 <lang n="russian">уход; самая большая часть, изобилие; -° а. изобильный, похожий</lang>
-<div n="1"/>3 <lang n="english">departure; the largest portion, plenty; -° a. abundant, resembling</lang>
+<div n="1"/>1 <lang n="czech">odchod; největší část, hojnost; -˚ a. hojný, podobný</lang>
+<div n="1"/>2 <lang n="russian">уход; самая большая часть, изобилие; -˚ а. изобильный, похожий</lang>
+<div n="1"/>3 <lang n="english">departure; the largest portion, plenty; -˚ a. abundant, resembling</lang>
 <LEND>
 <L>4509<pc>190<k1>prAyaSas<k2>prAyaSas
 prāyaśas adv.
@@ -27713,7 +27713,7 @@ bhava m.
 <div n="1"/>3 <lang n="english">becoming, origin, birth, being, existence, world, life, wellbeing, prosperity</lang>
 <LEND>
 <L>4771<pc>202<k1>Bavad<k2>Bavad
-bhavad (°-) v. II bhavant 
+bhavad (˚-) v. II bhavant 
 <LEND>
 <L>4772<pc>202<k1>BavadIya<k2>BavadIya
 bhavadīya
@@ -28440,9 +28440,9 @@ bhūyas adv.
 <LEND>
 <L>4895<pc>207<k1>BUyizWa<k2>BUyizWa
 bhūyiṣṭha (superl. ≺ bhūri) 
-<div n="1"/>1 <lang n="czech">největši, * nejčetnější, nejdůležitější, velmi velký nebo hojný, hlavní; -° skoro, těměř</lang>
-<div n="1"/>2 <lang n="russian">самый большой, самый многочисленный, важнейший, очень большой, очень обильный, главный; -° почти</lang>
-<div n="1"/>3 <lang n="english">most, most numerous or important, very great or many, chief; -° nearly ah, almost</lang>
+<div n="1"/>1 <lang n="czech">největši, * nejčetnější, nejdůležitější, velmi velký nebo hojný, hlavní; -˚ skoro, těměř</lang>
+<div n="1"/>2 <lang n="russian">самый большой, самый многочисленный, важнейший, очень большой, очень обильный, главный; -˚ почти</lang>
+<div n="1"/>3 <lang n="english">most, most numerous or important, very great or many, chief; -˚ nearly ah, almost</lang>
 <LEND>
 <L>4896<pc>208<k1>BUr<k2>BUr
 bhūr (f. índ.) 
@@ -28544,7 +28544,7 @@ bhṛṅga m.
 <div n="1"/>3 <lang n="english">to roast, parch</lang>
 <LEND>
 <L>4913<pc>208<k1>Bft<k2>Bft
-bhṛt (-°) 
+bhṛt (-˚) 
 <div n="1"/>1 <lang n="czech">nesoucí, udržující, mající</lang>
 <div n="1"/>2 <lang n="russian">носящий, удерживающий, имеющий</lang>
 <div n="1"/>3 <lang n="english">bearing, keeping, having</lang>
@@ -29102,7 +29102,7 @@ caus. mā̂dayati
 <div n="1"/>3 <lang n="english">to be intoxicated, be negligent, swerve</lang>
 <LEND>
 <L>5009<pc>213<k1>mad<k2>mad
-II mad (°-) v. aham 
+II mad (˚-) v. aham 
 <LEND>
 <L>5010<pc>213<k1>mada<k2>mada
 mada m.
@@ -29786,7 +29786,7 @@ mahas n.
 <div n="1"/>3 <lang n="english">greatness, might, plenty, festival</lang>
 <LEND>
 <L>5125<pc>218<k1>mahA<k2>mahA
-mahā (acc. sg. mahām; °-) v. mahant
+mahā (acc. sg. mahām; ˚-) v. mahant
 <LEND>
 <L>5126<pc>218<k1>mahAkapi<k2>mahAkapi
 mahākapi m.
@@ -30255,9 +30255,9 @@ mātuluṅga m.
 <LEND>
 <L>5207<pc>221<k1>mAtrA<k2>mAtrA
 mātrā f.
-<div n="1"/>1 <lang n="czech">míra, množství, malá částka; -° a. mající jako svou miru; tak a tak veliký, široký atd.; mající jako hranicí; nic než; jen</lang>
-<div n="1"/>2 <lang n="russian">мера, количество, малая часть; -° a. имеющий в качестве своей меры; такой большой, широкий и m. д.; имеющий в качестве границы; только</lang>
-<div n="1"/>3 <lang n="english">measure, quantity, a small portion; -° a. having as its measure; so and so large, broad &c.; having as its limit; not more than; only, merely</lang>
+<div n="1"/>1 <lang n="czech">míra, množství, malá částka; -˚ a. mající jako svou miru; tak a tak veliký, široký atd.; mající jako hranicí; nic než; jen</lang>
+<div n="1"/>2 <lang n="russian">мера, количество, малая часть; -˚ a. имеющий в качестве своей меры; такой большой, широкий и m. д.; имеющий в качестве границы; только</lang>
+<div n="1"/>3 <lang n="english">measure, quantity, a small portion; -˚ a. having as its measure; so and so large, broad &c.; having as its limit; not more than; only, merely</lang>
 <LEND>
 <L>5208<pc>221<k1>mAtrAtva<k2>mAtrAtva
  +mātrātva n. abstr.
@@ -30359,7 +30359,7 @@ māyā f.
 <div n="1"/>3 <lang n="english">a supernatural power, deceit, sorcery, illusion</lang>
 <LEND>
 <L>5225<pc>222<k1>mAya<k2>mAya
-māya (-°) a. (f. -ī) 
+māya (-˚) a. (f. -ī) 
 <div n="1"/>1 <lang n="czech">klamný</lang>
 <div n="1"/>2 <lang n="russian">обманчивый</lang>
 <div n="1"/>3 <lang n="english">deceitful</lang>
@@ -30501,9 +30501,9 @@ milita (pp. ≺ mil)
 <LEND>
 <L>5249<pc>223<k1>miSra<k2>miSra
 miśra
-<div n="1"/>1 <lang n="czech">smíšený, různý; -° spojený</lang>
-<div n="1"/>2 <lang n="russian">смешанный, разный; -° соединенный</lang>
-<div n="1"/>3 <lang n="english">mixed, various; -° connected</lang>
+<div n="1"/>1 <lang n="czech">smíšený, různý; -˚ spojený</lang>
+<div n="1"/>2 <lang n="russian">смешанный, разный; -˚ соединенный</lang>
+<div n="1"/>3 <lang n="english">mixed, various; -˚ connected</lang>
 <LEND>
 <L>5250<pc>223<k1>AryamiSra<k2>AryamiSra
  +āryamiśra
@@ -30642,9 +30642,9 @@ mukti f.
 <LEND>
 <L>5274<pc>224<k1>muKa<k2>muKa
 mukha n.
-<div n="1"/>1 <lang n="czech">ústa, tvář, obličej, ústí, vchod, přední část, začátek, povrch, vrch, vrchol; -° a. hlavní, obrácen tváří</lang>
-<div n="1"/>2 <lang n="russian">рот, лицо, устье, вход, передняя часть, начало, поверхность, верх; -° а. главный, обращенный лицом</lang>
-<div n="1"/>3 <lang n="english">the mouth, face, mouth of a river, entrance, forepart, commencement, surface, top, head; -° a. chief, turned towards</lang>
+<div n="1"/>1 <lang n="czech">ústa, tvář, obličej, ústí, vchod, přední část, začátek, povrch, vrch, vrchol; -˚ a. hlavní, obrácen tváří</lang>
+<div n="1"/>2 <lang n="russian">рот, лицо, устье, вход, передняя часть, начало, поверхность, верх; -˚ а. главный, обращенный лицом</lang>
+<div n="1"/>3 <lang n="english">the mouth, face, mouth of a river, entrance, forepart, commencement, surface, top, head; -˚ a. chief, turned towards</lang>
 <LEND>
 <L>5275<pc>224<k1>muKena<k2>muKena
  +mukhena
@@ -30725,7 +30725,7 @@ I √muc muñcati, -te, pp. mukta
 <div n="1"/>3 <lang n="english">to release, throw, shoot (an arrow), set free, abandon, break (a vow); pass. to escape from, get free</lang>
 <LEND>
 <L>5288<pc>225<k1>muc<k2>muc
-II muc (-°) 
+II muc (-˚) 
 <div n="1"/>1 <lang n="czech">vydávající (kapky potu)</lang>
 <div n="1"/>2 <lang n="russian">выделяющий (капли пота)</lang>
 <div n="1"/>3 <lang n="english">discharging (drops of perspiration)</lang>
@@ -32234,7 +32234,7 @@ yuvarāja m.
 <div n="1"/>3 <lang n="english">"young king"; a crown prince</lang>
 <LEND>
 <L>5549<pc>235<k1>yuzma<k2>yuzma
-yuṣma-, yuṣmān pron., v. yūyam yuṣmad (°-) pron., v. yūyam 
+yuṣma-, yuṣmān pron., v. yūyam yuṣmad (˚-) pron., v. yūyam 
 <LEND>
 <L>5550<pc>235<k1>yuzmadIya<k2>yuzmadIya
 yuṣmadīya
@@ -32273,7 +32273,7 @@ yūpākṣa m.
 <div n="1"/>3 <lang n="english">name of a demon</lang>
 <LEND>
 <L>5556<pc>235<k1>yUyam<k2>yUyam
-yūyam pron. (yūyam, yuṣmān, yuṣmābhis &c.); encl. acc., dat., gen. vas; °- yuṣmad, yuṣmat) 
+yūyam pron. (yūyam, yuṣmān, yuṣmābhis &c.); encl. acc., dat., gen. vas; ˚- yuṣmad, yuṣmat) 
 <div n="1"/>1 <lang n="czech">vy</lang>
 <div n="1"/>2 <lang n="russian">вы</lang>
 <div n="1"/>3 <lang n="english">you</lang>
@@ -32352,9 +32352,9 @@ yonija
 <LEND>
 <L>5569<pc>236<k1>yopana<k2>yopana
 yopana n.
-<div n="1"/>1 <lang n="czech">odstraňování, vyhlazování, zastírání (stop); -° a. zahlazující (stopy)</lang>
-<div n="1"/>2 <lang n="russian">устранение, истребление, прикрытие (следов); -° а. заметающий следы</lang>
-<div n="1"/>3 <lang n="english">destroying, effacing (of tracks); -° a. effacing (a track)</lang>
+<div n="1"/>1 <lang n="czech">odstraňování, vyhlazování, zastírání (stop); -˚ a. zahlazující (stopy)</lang>
+<div n="1"/>2 <lang n="russian">устранение, истребление, прикрытие (следов); -˚ а. заметающий следы</lang>
+<div n="1"/>3 <lang n="english">destroying, effacing (of tracks); -˚ a. effacing (a track)</lang>
 <LEND>
 <L>5570<pc>236<k1>yozan<k2>yozan
 yoṣan, yoṣā, yoṣit f.
@@ -32957,7 +32957,7 @@ rāghava m.
 <div n="1"/>3 <lang n="english">to shine, appear as, be illustrious, reign, govern</lang>
 <LEND>
 <L>5675<pc>241<k1>rAja<k2>rAja
-rāja m. (-°) 
+rāja m. (-˚) 
 <div n="1"/>1 <lang n="czech">král, kníže, první muž</lang>
 <div n="1"/>2 <lang n="russian">король, князь, первый муж</lang>
 <div n="1"/>3 <lang n="english">king, prince, chief</lang>
@@ -33354,9 +33354,9 @@ rīti f.
 <LEND>
 <L>5742<pc>243<k1>ruci<k2>ruci
 ruci f.
-<div n="1"/>1 <lang n="czech">světlo, jas, touha, záliba; - °a. chovající zálibu v něčem</lang>
-<div n="1"/>2 <lang n="russian">свет, сияние, страстное желание, увлечение; -° a. увлекающийся (чем)</lang>
-<div n="1"/>3 <lang n="english">light, brightness, desire, liking; -° a. taking pleasure in</lang>
+<div n="1"/>1 <lang n="czech">světlo, jas, touha, záliba; - ˚a. chovající zálibu v něčem</lang>
+<div n="1"/>2 <lang n="russian">свет, сияние, страстное желание, увлечение; -˚ a. увлекающийся (чем)</lang>
+<div n="1"/>3 <lang n="english">light, brightness, desire, liking; -˚ a. taking pleasure in</lang>
 <LEND>
 <L>5743<pc>243<k1>rucira<k2>rucira
 rucira
@@ -33497,7 +33497,7 @@ ruṣṭa (pp. ≺ ruṣ)
 <div n="1"/>3 <lang n="english">to ascend, enter, attain to; caus. to raise, place in (upon), commit, entrust with</lang>
 <LEND>
 <L>5766<pc>244<k1>ruha<k2>ruha
-ruha (-°) 
+ruha (-˚) 
 <div n="1"/>1 <lang n="czech">rostoucí</lang>
 <div n="1"/>2 <lang n="russian">растущий</lang>
 <div n="1"/>3 <lang n="english">growing</lang>
@@ -34967,7 +34967,7 @@ vapra m., n.
 <div n="1"/>3 <lang n="english">to vomit, emit, give out (as fire)</lang>
 <LEND>
 <L>6019<pc>255<k1>vayam<k2>vayam
-vayam pron. (vayam, asmān, asmābhis &c.; encl. acc., dat., gen. nas; °- asmad, asmat) 
+vayam pron. (vayam, asmān, asmābhis &c.; encl. acc., dat., gen. nas; ˚- asmad, asmat) 
 <div n="1"/>1 <lang n="czech">my</lang>
 <div n="1"/>2 <lang n="russian">мы</lang>
 <div n="1"/>3 <lang n="english">we</lang>
@@ -36641,7 +36641,7 @@ pass. vidyate
 <div n="1"/>3 <lang n="english">agreeing in opinion, being in concord</lang>
 <LEND>
 <L>6307<pc>269<k1>vid<k2>vid
-III vid (-°) 
+III vid (-˚) 
 <div n="1"/>1 <lang n="czech">znalý, nalézající</lang>
 <div n="1"/>2 <lang n="russian">знающий, находящий</lang>
 <div n="1"/>3 <lang n="english">knowing, finding</lang>
@@ -36743,7 +36743,7 @@ vidvaṃs
 <div n="1"/>3 <lang n="english">to worship, offer, be gracious</lang>
 <LEND>
 <L>6325<pc>270<k1>viDa<k2>viDa
-vidha (-°; cf. vidhā f.) 
+vidha (-˚; cf. vidhā f.) 
 <div n="1"/>1 <lang n="czech">jsoucí na způsob; -násobný</lang>
 <div n="1"/>2 <lang n="russian">образный; -кратный</lang>
 <div n="1"/>3 <lang n="english">-like; -fold</lang>
@@ -39894,9 +39894,9 @@ niśita
 <LEND>
 <L>6862<pc>293<k1>SIla<k2>SIla
 śīla n.
-<div n="1"/>1 <lang n="czech">povaha, vlastnosti člo- věka, charakter, chování, zvyk, obyčej, dobrá vlastnost (mravnost a pod.); -° a. zvyklý, mající ve zvyku</lang>
-<div n="1"/>2 <lang n="russian">характер, свойства человека, поведение, привычка, обычай, хорошее свойство (нравственность и пр.); -° а. привыкший</lang>
-<div n="1"/>3 <lang n="english">nature, character, disposition, conduct, habit, custom, good disposition (morality &c.); -°a. accustomed, who is wont</lang>
+<div n="1"/>1 <lang n="czech">povaha, vlastnosti člo- věka, charakter, chování, zvyk, obyčej, dobrá vlastnost (mravnost a pod.); -˚ a. zvyklý, mající ve zvyku</lang>
+<div n="1"/>2 <lang n="russian">характер, свойства человека, поведение, привычка, обычай, хорошее свойство (нравственность и пр.); -˚ а. привыкший</lang>
+<div n="1"/>3 <lang n="english">nature, character, disposition, conduct, habit, custom, good disposition (morality &c.); -˚a. accustomed, who is wont</lang>
 <LEND>
 <L>6863<pc>293<k1>SIlavant<k2>SIlavant
 śīlavant
@@ -40931,7 +40931,7 @@ so'ham
 <div n="1"/>3 <lang n="english">I here, I that very person</lang>
 <LEND>
 <L>7036<pc>300<k1>sa<k2>sa
-II sa adv. (°-) 
+II sa adv. (˚-) 
 <div n="1"/>1 <lang n="czech">opatřen, provázen, mající</lang>
 <div n="1"/>2 <lang n="russian">снабженный, провожаемый, имеющий</lang>
 <div n="1"/>3 <lang n="english">provided with, accompanied by, possessing</lang>
@@ -40956,9 +40956,9 @@ saṃkalpa m.
 <LEND>
 <L>7040<pc>301<k1>saMkASa<k2>saMkASa
 saṃkāśa m.
-<div n="1"/>1 <lang n="czech">vzhled; -° a. podobající se, připomínající</lang>
-<div n="1"/>2 <lang n="russian">вид; -° a. похожий, напоминающий</lang>
-<div n="1"/>3 <lang n="english">appearance; -° a. similar, resembling</lang>
+<div n="1"/>1 <lang n="czech">vzhled; -˚ a. podobající se, připomínající</lang>
+<div n="1"/>2 <lang n="russian">вид; -˚ a. похожий, напоминающий</lang>
+<div n="1"/>3 <lang n="english">appearance; -˚ a. similar, resembling</lang>
 <LEND>
 <L>7041<pc>301<k1>saMkula<k2>saMkula
 saṃkula
@@ -41352,9 +41352,9 @@ saṃbandha m.
 <LEND>
 <L>7107<pc>304<k1>saMbADa<k2>saMbADa
 saṃbādha m. 
-<div n="1"/>1 <lang n="czech">dav, tlak, tíseň; -° a. mající davy, oplývající</lang>
-<div n="1"/>2 <lang n="russian">толпа, давление, стеснение; -° а. имеющий толпы, изобилующий</lang>
-<div n="1"/>3 <lang n="english">a crowd, pressure, distress; -° a. crowded, abundant</lang>
+<div n="1"/>1 <lang n="czech">dav, tlak, tíseň; -˚ a. mající davy, oplývající</lang>
+<div n="1"/>2 <lang n="russian">толпа, давление, стеснение; -˚ а. имеющий толпы, изобилующий</lang>
+<div n="1"/>3 <lang n="english">a crowd, pressure, distress; -˚ a. crowded, abundant</lang>
 <LEND>
 <L>7108<pc>304<k1>saMBava<k2>saMBava
 saṃbhava m.
@@ -41646,9 +41646,9 @@ na saṃśayaḥ
 <LEND>
 <L>7156<pc>306<k1>saMSraya<k2>saMSraya
 saṃśraya m. 
-<div n="1"/>1 <lang n="czech">spojení, spolek, útočiště, sídlo; -° a. pobývající</lang>
-<div n="1"/>2 <lang n="russian">соединение, союз, убежище, жительство; -° а. пребывающий</lang>
-<div n="1"/>3 <lang n="english">connection, alliance, refuge, abode; -° a. living</lang>
+<div n="1"/>1 <lang n="czech">spojení, spolek, útočiště, sídlo; -˚ a. pobývající</lang>
+<div n="1"/>2 <lang n="russian">соединение, союз, убежище, жительство; -˚ а. пребывающий</lang>
+<div n="1"/>3 <lang n="english">connection, alliance, refuge, abode; -˚ a. living</lang>
 <LEND>
 <L>7157<pc>306<k1>saMsad<k2>saMsad
 saṃsad f.
@@ -41801,7 +41801,7 @@ sakthan, sakthi n.
 <div n="1"/>3 <lang n="english">the thigh</lang>
 <LEND>
 <L>7182<pc>307<k1>saKa<k2>saKa
-sakha (-°) m.
+sakha (-˚) m.
 <div n="1"/>1 <lang n="czech">přítel druh; doprovázen</lang>
 <div n="1"/>2 <lang n="russian">приятель, друг; провожаемый</lang>
 <div n="1"/>3 <lang n="english">a friend, associate; accompanied by</lang>
@@ -42140,7 +42140,7 @@ I √sad sīdati, (-te), pp. satta, sanna
 <div n="1"/>3 <lang n="english">to attain, attack</lang>
 <LEND>
 <L>7242<pc>310<k1>sad<k2>sad
-II sad (°-) v. sant
+II sad (˚-) v. sant
 <LEND>
 <L>7243<pc>310<k1>sadadi<k2>sadadi
 sadadi adv.
@@ -45461,7 +45461,7 @@ straiṇa* (f. -ī)
 <div n="1"/>3 <lang n="english">feminine, belonging to women; n. womankind, the female sex, the nature of women</lang>
 <LEND>
 <L>7812<pc>333<k1>sTa<k2>sTa
-stha*, ṣṭha (f. -ā) (-°) 
+stha*, ṣṭha (f. -ā) (-˚) 
 <div n="1"/>1 <lang n="czech">stojící, dlící, postavený, položený; zaměstnaný něčím, oddaný něčemu</lang>
 <div n="1"/>2 <lang n="russian">стоящий, проживающий, находящийся, положенный; занимающийся чем-нибудь, преданный чему-нибудь</lang>
 <div n="1"/>3 <lang n="english">standing, staying, being situated in, placed; engaged in, devoted to</lang>
@@ -47322,9 +47322,9 @@ hṛṣṭa (pp. ≺ harṣ)
 <LEND>
 <L>8130<pc>349<k1>hetu<k2>hetu
 hetu m.
-<div n="1"/>1 <lang n="czech">podnět, příčina, důvod, důkaz, původce, agens; -° a. způsobený</lang>
-<div n="1"/>2 <lang n="russian">повод, причина, довод, доказательство, инициатор, возбудитель; -° а. вызванный</lang>
-<div n="1"/>3 <lang n="english">impulse, cause, reason, proof, originator, agent; -° a. caused by</lang>
+<div n="1"/>1 <lang n="czech">podnět, příčina, důvod, důkaz, původce, agens; -˚ a. způsobený</lang>
+<div n="1"/>2 <lang n="russian">повод, причина, довод, доказательство, инициатор, возбудитель; -˚ а. вызванный</lang>
+<div n="1"/>3 <lang n="english">impulse, cause, reason, proof, originator, agent; -˚ a. caused by</lang>
 <LEND>
 <L>8131<pc>349<k1>hetunA<k2>hetunA
 hetunā
