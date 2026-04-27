@@ -569,7 +569,7 @@
 11394	11395	7-301-a	anUha	1. anUha, 2. anUha
 11404	11405	7-301-a	anftakAraka	anftakAraka, anftakArin
 11406	11407	7-301-a	anftavAdin	anftavAdin, anftavAditA
-11416	11417	7-301-a	anekaSatasAhasra	anekaSatasAhasra, anekasaMKya, anekAMSa°
+11416	11417	7-301-a	anekaSatasAhasra	anekaSatasAhasra, anekasaMKya, anekAMSa˚
 11420	11421	7-301-a	anekArTakEravakOmudI	anekArTakEravakOmudI, anejant
 11430	11431	7-301-a	anEScArika	anEScArika, anEzaDa
 11436	11437	7-301-b	anOpama	anOpama, anOpamya, anOpayika, anOpADika
@@ -599,7 +599,7 @@
 11641	11642	7-302-c	apatyaduHKEkamaya	apatyaduHKEkamaya, apatyasnehakfpAmaya
 11645	11646	7-302-c	apaTadAyin	apaTadAyin, apaTahara
 11648	11649	7-302-c	apadAnta	apadAnta, apadAntasTa
-11672	11673	7-302-c	apamada	apamada, °apamAnaka
+11672	11673	7-302-c	apamada	apamada, ˚apamAnaka
 11678	11679	7-302-c	apayoDarava	apayoDarava, apayoDaravAraRa
 11682	11683	7-302-d	aparakriyA	aparakriyA, aparacAnarAwa
 11684	11685	7-302-d	apararAtri	apararAtri, aparavallaBa
@@ -715,7 +715,7 @@
 12788	12789	7-309-c	arDamuRqa	arDamuRqa, arDamuRqita
 12792	12793	7-309-c	arDalakzya	arDalakzya, arDalANgalaka
 12806	12807	7-309-c	arDasamasyA	arDasamasyA, arDasTa
-12826	12827	7-309-d	arSasin	arSasin, °arhaka
+12826	12827	7-309-d	arSasin	arSasin, ˚arhaka
 12836	12837	7-309-d	alakzaRya	alakzaRya, alakzamARa
 12843	12844	7-309-d	alaMkarmIRa	alaMkarmIRa, alaMkAra
 12845	12846	7-309-d	alaMkAranikarza	alaMkAranikarza, alaMkAramayUKa
@@ -737,7 +737,7 @@
 12946	12947	7-310-c	avacCedakatattvanirukti	avacCedakatattvanirukti, avacCedakatAnirukti, avacCedakatAmAlA, avacCedakatAleSa, avacCedakatAvAda, avacCedakatAsAra, avajayana
 12956	12957	7-310-c	avataMsa	avataMsa, avataMsana
 12957	12958	7-310-c	avataMsay	avataMsay, avatara
-12968	12969	7-310-d	avaDAnavant	avaDAnavant, °avaDika, avaDI
+12968	12969	7-310-d	avaDAnavant	avaDAnavant, ˚avaDika, avaDI
 12969	12970	7-310-d	avaDUta	avaDUta, avaDUtaka
 12970	12971	7-310-d	avaDUlay	avaDUlay, avaDeya
 12977	12978	7-310-d	avanipAtam	avanipAtam, avaniBft
@@ -832,7 +832,7 @@
 13814	13815	7-316-b	ahiSuzmasatvan	ahiSuzmasa/tvan, ahI/
 13825	13826	7-316-b	aheli	aheli, ahelin
 13827	13828	7-316-b	ahotavya	ahotavya^, ahomaka
-13837	13838	7-316-b	AkarRatawa	AkarRatawa, AkarRadeSAntam, °AkarRin
+13837	13838	7-316-b	AkarRatawa	AkarRatawa, AkarRadeSAntam, ˚AkarRin
 13847	13848	7-316-c	Akaza	Akaza, AkArakara
 13856	13857	7-316-c	AkASaBErava	AkASaBErava, AkASaBEravakalpa
 13912	13913	7-316-d	AgamanagamanA	AgamanagamanA, AgamaprAmARya
@@ -1248,7 +1248,7 @@
 17952	17953	7-346-c	triparus	triparus, triparva, triparvan, tripala
 17957	17958	7-346-d	tripurARaka	tripurARaka, tripurARIya
 17969	17970	7-346-d	triyukta	triyukta, triyUpa
-17989	17990	7-346-d	triHzamfdDatva	triHzamfdDatva, trisatya, trisaptaka°
+17989	17990	7-346-d	triHzamfdDatva	triHzamfdDatva, trisatya, trisaptaka˚
 17993	17994	7-347-a	trihalikAgrAma	trihalikAgrAma, trihalikASrama
 17996	17997	7-347-a	treDABAva	treDABAva, treDAsaMnadDa/
 18006	18007	7-347-a	tryArzeya	tryArzeya, tryu^dDi

@@ -1051,8 +1051,8 @@
 <L>11394.1<pc>7-301-a<k1>anUha<k2>1. anUha, 2. anUha<type>alt<LP>11394<k1P>anUha
 <L>11404.1<pc>7-301-a<k1>anftakArin<k2>anftakAraka, anftakArin<type>alt<LP>11404<k1P>anftakAraka
 <L>11406.1<pc>7-301-a<k1>anftavAditA<k2>anftavAdin, anftavAditA<type>alt<LP>11406<k1P>anftavAdin
-<L>11416.1<pc>7-301-a<k1>anekasaMKya<k2>anekaSatasAhasra, anekasaMKya, anekAMSa°<type>alt<LP>11416<k1P>anekaSatasAhasra
-<L>11416.2<pc>7-301-a<k1>anekAMSa<k2>anekaSatasAhasra, anekasaMKya, anekAMSa°<type>alt<LP>11416<k1P>anekaSatasAhasra
+<L>11416.1<pc>7-301-a<k1>anekasaMKya<k2>anekaSatasAhasra, anekasaMKya, anekAMSa˚<type>alt<LP>11416<k1P>anekaSatasAhasra
+<L>11416.2<pc>7-301-a<k1>anekAMSa<k2>anekaSatasAhasra, anekasaMKya, anekAMSa˚<type>alt<LP>11416<k1P>anekaSatasAhasra
 <L>11420.1<pc>7-301-a<k1>anejant<k2>anekArTakEravakOmudI, anejant<type>alt<LP>11420<k1P>anekArTakEravakOmudI
 <L>11430.1<pc>7-301-a<k1>anEzaDa<k2>anEScArika, anEzaDa<type>alt<LP>11430<k1P>anEScArika
 <L>11436.1<pc>7-301-b<k1>anOpamya<k2>anOpama, anOpamya, anOpayika, anOpADika<type>alt<LP>11436<k1P>anOpama
@@ -1087,7 +1087,7 @@
 <L>11641.1<pc>7-302-c<k1>apatyasnehakfpAmaya<k2>apatyaduHKEkamaya, apatyasnehakfpAmaya<type>alt<LP>11641<k1P>apatyaduHKEkamaya
 <L>11645.1<pc>7-302-c<k1>apaTahara<k2>apaTadAyin, apaTahara<type>alt<LP>11645<k1P>apaTadAyin
 <L>11648.1<pc>7-302-c<k1>apadAntasTa<k2>apadAnta, apadAntasTa<type>alt<LP>11648<k1P>apadAnta
-<L>11672.1<pc>7-302-c<k1>apamAnaka<k2>apamada, °apamAnaka<type>alt<LP>11672<k1P>apamada
+<L>11672.1<pc>7-302-c<k1>apamAnaka<k2>apamada, ˚apamAnaka<type>alt<LP>11672<k1P>apamada
 <L>11678.1<pc>7-302-c<k1>apayoDaravAraRa<k2>apayoDarava, apayoDaravAraRa<type>alt<LP>11678<k1P>apayoDarava
 <L>11682.1<pc>7-302-d<k1>aparacAnarAwa<k2>aparakriyA, aparacAnarAwa<type>alt<LP>11682<k1P>aparakriyA
 <L>11684.1<pc>7-302-d<k1>aparavallaBa<k2>apararAtri, aparavallaBa<type>alt<LP>11684<k1P>apararAtri
@@ -1227,7 +1227,7 @@
 <L>12788.1<pc>7-309-c<k1>arDamuRqita<k2>arDamuRqa, arDamuRqita<type>alt<LP>12788<k1P>arDamuRqa
 <L>12792.1<pc>7-309-c<k1>arDalANgalaka<k2>arDalakzya, arDalANgalaka<type>alt<LP>12792<k1P>arDalakzya
 <L>12806.1<pc>7-309-c<k1>arDasTa<k2>arDasamasyA, arDasTa<type>alt<LP>12806<k1P>arDasamasyA
-<L>12826.1<pc>7-309-d<k1>arhaka<k2>arSasin, °arhaka<type>alt<LP>12826<k1P>arSasin
+<L>12826.1<pc>7-309-d<k1>arhaka<k2>arSasin, ˚arhaka<type>alt<LP>12826<k1P>arSasin
 <L>12836.1<pc>7-309-d<k1>alakzamARa<k2>alakzaRya, alakzamARa<type>alt<LP>12836<k1P>alakzaRya
 <L>12843.1<pc>7-309-d<k1>alaMkAra<k2>alaMkarmIRa, alaMkAra<type>alt<LP>12843<k1P>alaMkarmIRa
 <L>12845.1<pc>7-309-d<k1>alaMkAramayUKa<k2>alaMkAranikarza, alaMkAramayUKa<type>alt<LP>12845<k1P>alaMkAranikarza
@@ -1264,8 +1264,8 @@
 <L>12946.6<pc>7-310-c<k1>avajayana<k2>avacCedakatattvanirukti, avacCedakatAnirukti, avacCedakatAmAlA, avacCedakatAleSa, avacCedakatAvAda, avacCedakatAsAra, avajayana<type>alt<LP>12946<k1P>avacCedakatattvanirukti
 <L>12956.1<pc>7-310-c<k1>avataMsana<k2>avataMsa, avataMsana<type>alt<LP>12956<k1P>avataMsa
 <L>12957.1<pc>7-310-c<k1>avatara<k2>avataMsay, avatara<type>alt<LP>12957<k1P>avataMsay
-<L>12968.1<pc>7-310-d<k1>avaDika<k2>avaDAnavant, °avaDika, avaDI<type>alt<LP>12968<k1P>avaDAnavant
-<L>12968.2<pc>7-310-d<k1>avaDI<k2>avaDAnavant, °avaDika, avaDI<type>alt<LP>12968<k1P>avaDAnavant
+<L>12968.1<pc>7-310-d<k1>avaDika<k2>avaDAnavant, ˚avaDika, avaDI<type>alt<LP>12968<k1P>avaDAnavant
+<L>12968.2<pc>7-310-d<k1>avaDI<k2>avaDAnavant, ˚avaDika, avaDI<type>alt<LP>12968<k1P>avaDAnavant
 <L>12969.1<pc>7-310-d<k1>avaDUtaka<k2>avaDUta, avaDUtaka<type>alt<LP>12969<k1P>avaDUta
 <L>12970.1<pc>7-310-d<k1>avaDeya<k2>avaDUlay, avaDeya<type>alt<LP>12970<k1P>avaDUlay
 <L>12977.1<pc>7-310-d<k1>avaniBft<k2>avanipAtam, avaniBft<type>alt<LP>12977<k1P>avanipAtam
@@ -1390,8 +1390,8 @@
 <L>13814.1<pc>7-316-b<k1>ahI<k2>ahiSuzmasa/tvan, ahI/<type>alt<LP>13814<k1P>ahiSuzmasatvan
 <L>13825.1<pc>7-316-b<k1>ahelin<k2>aheli, ahelin<type>alt<LP>13825<k1P>aheli
 <L>13827.1<pc>7-316-b<k1>ahomaka<k2>ahotavya^, ahomaka<type>alt<LP>13827<k1P>ahotavya
-<L>13837.1<pc>7-316-b<k1>AkarRadeSAntam<k2>AkarRatawa, AkarRadeSAntam, °AkarRin<type>alt<LP>13837<k1P>AkarRatawa
-<L>13837.2<pc>7-316-b<k1>AkarRin<k2>AkarRatawa, AkarRadeSAntam, °AkarRin<type>alt<LP>13837<k1P>AkarRatawa
+<L>13837.1<pc>7-316-b<k1>AkarRadeSAntam<k2>AkarRatawa, AkarRadeSAntam, ˚AkarRin<type>alt<LP>13837<k1P>AkarRatawa
+<L>13837.2<pc>7-316-b<k1>AkarRin<k2>AkarRatawa, AkarRadeSAntam, ˚AkarRin<type>alt<LP>13837<k1P>AkarRatawa
 <L>13847.1<pc>7-316-c<k1>AkArakara<k2>Akaza, AkArakara<type>alt<LP>13847<k1P>Akaza
 <L>13856.1<pc>7-316-c<k1>AkASaBEravakalpa<k2>AkASaBErava, AkASaBEravakalpa<type>alt<LP>13856<k1P>AkASaBErava
 <L>13912.1<pc>7-316-d<k1>AgamaprAmARya<k2>AgamanagamanA, AgamaprAmARya<type>alt<LP>13912<k1P>AgamanagamanA
@@ -2039,8 +2039,8 @@
 <L>17952.3<pc>7-346-c<k1>tripala<k2>triparus, triparva, triparvan, tripala<type>alt<LP>17952<k1P>triparus
 <L>17957.1<pc>7-346-d<k1>tripurARIya<k2>tripurARaka, tripurARIya<type>alt<LP>17957<k1P>tripurARaka
 <L>17969.1<pc>7-346-d<k1>triyUpa<k2>triyukta, triyUpa<type>alt<LP>17969<k1P>triyukta
-<L>17989.1<pc>7-346-d<k1>trisatya<k2>triHzamfdDatva, trisatya, trisaptaka°<type>alt<LP>17989<k1P>triHzamfdDatva
-<L>17989.2<pc>7-346-d<k1>trisaptaka<k2>triHzamfdDatva, trisatya, trisaptaka°<type>alt<LP>17989<k1P>triHzamfdDatva
+<L>17989.1<pc>7-346-d<k1>trisatya<k2>triHzamfdDatva, trisatya, trisaptaka˚<type>alt<LP>17989<k1P>triHzamfdDatva
+<L>17989.2<pc>7-346-d<k1>trisaptaka<k2>triHzamfdDatva, trisatya, trisaptaka˚<type>alt<LP>17989<k1P>triHzamfdDatva
 <L>17993.1<pc>7-347-a<k1>trihalikASrama<k2>trihalikAgrAma, trihalikASrama<type>alt<LP>17993<k1P>trihalikAgrAma
 <L>17996.1<pc>7-347-a<k1>treDAsaMnadDa<k2>treDABAva, treDAsaMnadDa/<type>alt<LP>17996<k1P>treDABAva
 <L>18006.1<pc>7-347-a<k1>tryudDi<k2>tryArzeya, tryu^dDi<type>alt<LP>18006<k1P>tryArzeya
