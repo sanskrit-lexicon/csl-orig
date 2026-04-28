@@ -155,10 +155,10 @@ def transcode_as(line,opt1,iline):
 
 def convert1_misc(line,opt1):
  if opt1 == 'hk':
-  changes = [('º','°'),  # masc. ord. indicator <-> degree
+  changes = [('º','˚'),  # masc. ord. indicator <-> ring above
               ('²','<lb/>')]
  else:
-  changes = [('°','º'),('<lb/>','²')]
+  changes = [('˚','º'),('<lb/>','²')]
  newline = line
  for old,new in changes:
   newline = newline.replace(old,new)
