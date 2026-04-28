@@ -102,8 +102,8 @@ def parse_k2(x):
  else:
   h = None
   k2 = parts[0]
- # k1 strips away accents,-,*,°,() 
- k1 = re.sub(r'[/\^*°()-]','',k2)
+ # k1 strips away accents,-,*,˚,() 
+ k1 = re.sub(r'[/\^*˚()-]','',k2)
  # k1 st
  return h,k1,status
 
