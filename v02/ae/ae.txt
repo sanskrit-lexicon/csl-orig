@@ -19300,7 +19300,7 @@ causal of roots above. {@-ed,@} {%a.%} {#sAnaMda#},
 <L>2691<pc>098<k1>deliver<k2>deliver
 {@Deliver,@}¦ {%v. t.%} {#muc#} c., {#vi-pra-mokz#} 10, {#ud-hf-#}
 {#-Df#} 1 P, {#nistF#} c., {#rakz#} 1 P, {#pari-trE#} 1 A.
-{@2@} {#samaf#} c ({#arpayati#}), {#nyas#} 4 P, {#pratipad#} c.,
+{@2@} {#samf#} c ({#arpayati#}), {#nyas#} 4 P, {#pratipad#} c.,
 {#pra-dA#} 3 U, 1 P, {#saMkram#} c., {#Aruh#} c. ({#ropa-#}
 {#-yati#}), {#haste nikzip#} 6 P, {#hastaM prAp#} c., {#hasta-#}
 {#-gata-gAmin#} {%a.%} {#kf#} 8 U, ({#tasya vasuDAmapi ha-#}
@@ -21702,7 +21702,7 @@ or {#udhf#} 1 P.
 
 <L>2990<pc>112<k1>disenchant<k2>disenchant
 {@Disenchant,@}¦ {%v. t.%} {#pratikf#} 8 U, {#maMtravaSAd#}
-{#udhf#} 1 P.
+{#udDf#} 1 P.
 <LEND>
 
 <L>2991<pc>112<k1>disencumber<k2>disencumber
@@ -23660,7 +23660,7 @@ sharp d. ing shower’ {#aviralavAriDArA-#}
 {#-Tena saMcaraRaM#} or {#vihAraH#}. {@-at,@} {#uddiS#} 6 P,
 {#aBi-pra-i#} 2 P; {#aDikftya-uddiSya-vad#} 1 P;
 ‘what are you d. ing at’ {#kimuddiSya Ba-#}
-{#-vAnBAzate#}. {@-away, -off,@} {#nir-ap-as#} 4 U,
+{#-vAnBAzate#}. {@-away, -off,@} {#nir-apa-as#} 4 U,
 {#apavah#} c, {#nir-apa-sf#} c., {#nirA apA-kf#} 8 U,
 {#apAnud nirDU#} 5, 9 U; {#hf#} 1 P, {#apa-pari-hf#},
 {#apa-Uh#} 1 U. {@-out,@} {#nirvas#} c., {#nizkas#} c.,
@@ -23833,7 +23833,7 @@ dried rice in the sun’ {#taMqulAnsUryAtape#}
 {#dattavatI#}. {@2@} (up) {#Acam#} 1 P, ({#AcAmati#}
 {#svedalavAn muKe te#} R. XIII. 20); {#ucCuz#} c.,
 {#A-ni-pA#} 1 P. {%-a.%} {#Suzka, nirjala, nIrasa#},
-{#aklinna, vAna#}. {@2@} {#asAra, niHsAra, niHsatva#},
+{#aklinna, vAna#}. {@2@} {#asAra, niHsAra, niHsattva#},
 {#arasa, nIrasa, Palgu, virasa, tucCa#}. {@3@} {#udakA-#}
 {#-rTin, tfzita, tfzArta#}; ‘d. soil’ {#maru#} {%m.,%} {#maru-#}
 {#-sTalaM-lI#}; ‘d. ground’ {#sTalaM#}; ‘d. -eyed’
@@ -25805,7 +25805,7 @@ e. s’ {#budDiguRAH, mativiBavaH-prakarzaH#}.
 {#-tsAhaM, sodyogaM, sayatnaM, SaktyA#}.
 <LEND>
 
-<L>3509<pc>135<k1>enervate<k2>enervate
+<L>3510<pc>135<k1>enervate<k2>enervate
 {@Enervate,@}¦ {@Enfeeble,@} {%v. t.%} {#durbalIkf#} 8 U,
 {#kzIRIkf, tejaH-SaktiM-hf#} 1 P. {@-ed,@} {%a.%} {#SIRa-#}
 {#-Sakti, hatavIrya, kzIRabala, durbala, SiTilabala#}.
@@ -25971,7 +25971,7 @@ c., {#ApyE#} c., {#vfdDiM nI#} 1 P, {#sPAy#} c. ({#sPA-#}
 {#vfdDiM i#} 2 P. {@2@} ({@upon@}) {#prapaMcayati#} (D.),
 {#vistareRa-savistaraM-vad#} 1 P or {#aBiDA#} 3 U
 or {#varR#} 10. {@-ment,@} {%s.%} {#vfdDi#} {%f.,%} {#vistAraH#},
-{#varDanaM, sPIti#} {%f.,%} {#bfhaRaM#}. {@2@} {#vipulatA, prapaMcaH#},
+{#varDanaM, sPIti#} {%f.,%} {#bfMhaRaM#}. {@2@} {#vipulatA, prapaMcaH#},
 {#vAgvistaraH#}.
 <LEND>
 
@@ -46648,7 +46648,7 @@ growing l. -er and l. -er day by day’
 of body {#SarIrasAdaH#}. {%-s.%} {#snAyuH, vasnasA#}.
 {%-v. i.%} {#ava-laMb#} 1 A, {#A-saM-Sri#} 1 U; ‘l.
 ing on a mango stick’ {#avalaMbya cUtayazwiM#};
-{#madaleKayA dattahastAvalaMbAM#} (Ka 206) ‘l.
+{#madaleKayA dattahastAvalaMbaM#} (Ka 206) ‘l.
 ing on M. ’s arm.’ {@2@} {#pakzaM ASri#} or
 {#avalaMb, pravaRa-#} {%a.%} {#BU#} 1 P. {@3@} {#A-ava-nam#}
 1 P, {#namrIBU, bahirlaMb, tiraH-tiryak laMb#}.
@@ -64422,7 +64422,7 @@ in one's thoughts’ {#hfdaye-citte-vas#} 1 P.
 {#-dAnaM, nirvapaRaM#}. {@-ly,@} {%adv.%} {#aDunA, saMprati#},
 {#sAMprataM#}. {@2@} {#sapadi, anaMtaraM, drAk, tatkzaRaM-Re#},
 {#tatkAle, sadyaH, acirAt, SIGraM, ASu, Jawiti#}.
-{@-Presence,@} {%s.%} {#saMnniDiH, samupasTiti#} {%f.,%}
+{@-Presence,@} {%s.%} {#sanniDiH, samupasTiti#} {%f.,%}
 {#upasTAnaM, sAMniDyaM, sanniDAnaM, pratyakzatA#},
 {#samakzatA, ABimuKyaM#}; ‘in the p. of’ {#samakzaM#},
 {#pratyakzaM, saMmuKaM, sAkzAt#}, in comp. or with
@@ -69459,7 +69459,7 @@ c., {#nizkas#} c., {#apa-niH-ut-sf#} c., {#bAhizkf#};
 {#vi-prati-han#} 2 P, {#BaMj#} 7 P, {#nir-ava-DU#} 5,
 9 U, 6 P. {%-v. i.%} {#sTAnAMtaraM gam#} 1 P or {#yA-#}
 {#-i-#} 2 P: {#apasf#} 1 P, {#apagam-yA#}. {%-s.%} {#puruzaH#}
-(in geneology) ‘separated by one r.
+(in genealogy) ‘separated by one r.
 from the creator’ {#srazwurekAMtaraM#} ({#dvaMdvaM#})
 (S. 7). {@2@} {#padaM, padavI, kramaH#}. {@3@} {#apagamaH#},
 {#apasaraRaM#}, &c.; {%See%} below. {@-al,@} {%s.%} {#apa-#}
@@ -87566,7 +87566,7 @@ battle); ‘w.-cry’ {#siMhanAdaH, kzveqA#}; ‘w.-
 -horse’ {#vArakIraH#}. {%-v. i.%} {#vigrah#} 9 P, {#yuD#}
 4 A, {#kf#} with ({%s.%}). {@-like,@} {%a.%} {#raRapriya#},
 {#yuyutsu, yudDadurdama; raRotsuka, raRavIra-SUra#};
-‘w. qualities’ {#kzAtraDarmAH#}; ‘w. tribe’
+‘w. qualities’ {#kzatraDarmAH#}; ‘w. tribe’
 {#kzatriyajAtiH#}. {@2@} {#sAMgrAmika-sAmarika#} -({#kI#} {%f.%}),
 <LEND>
 
