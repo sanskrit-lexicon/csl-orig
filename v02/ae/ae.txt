@@ -25805,7 +25805,7 @@ e. s’ {#budDiguRAH, mativiBavaH-prakarzaH#}.
 {#-tsAhaM, sodyogaM, sayatnaM, SaktyA#}.
 <LEND>
 
-<L>3510<pc>135<k1>enervate<k2>enervate
+<L>3509<pc>135<k1>enervate<k2>enervate
 {@Enervate,@}¦ {@Enfeeble,@} {%v. t.%} {#durbalIkf#} 8 U,
 {#kzIRIkf, tejaH-SaktiM-hf#} 1 P. {@-ed,@} {%a.%} {#SIRa-#}
 {#-Sakti, hatavIrya, kzIRabala, durbala, SiTilabala#}.
