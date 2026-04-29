@@ -7748,7 +7748,7 @@ Händen*).
 
 <L>1780<pc>027-2<k1>arunDatI<k2>arunDatI/
 {#arunDatI/#}¦ {%f. Ni. einer Pflanze; eines Sternbildes%}; <lbinfo n="7"/>
-{%der Gattin Vasishṭha's.%}
+{%der Gattin Vasiṣṭha's.%}
 <LEND>
 
 <L>1781<pc>027-2<k1>aruza<k2>aruza/
@@ -50225,7 +50225,7 @@ Rechtes.
 
 <L>10958<pc>193-1<k1>DarmarAj<k2>DarmarAj
 {#DarmarAj#},¦ {#˚rAja#} {%u.%} {#˚rAjan#} {%m.%} Fürst der
-Gerechtigkeit, {%Bein. Yama's u. Yudhishṭhira's).%} <lbinfo n="17"/>
+Gerechtigkeit, {%Bein. Yama's u. Yudhiṣṭhira's).%} <lbinfo n="17"/>
 <LEND>
 
 <L>10959<pc>193-1<k1>Darmaruci<k2>Darmaruci
@@ -87580,7 +87580,7 @@ Sterne des großen Bären.
 
 <L>19015<pc>337-1<k1>munivara<k2>munivara
 {#munivara#}¦ {%m.%} der Beste der Büßer {%o.%} der
-Weisen {%(auch als Bein. Vasishṭha's Bez.%}
+Weisen {%(auch als Bein. Vasiṣṭha's Bez.%}
 {%eines Sternbildes).%}
 <LEND>
 
@@ -102436,7 +102436,7 @@ lebend in.
 <LEND>
 
 <L>22065<pc>400-1<k1>vAsizWa<k2>vAsizWa/
-{#vAsizWa/#},¦ {%f.%} {#I#} von Vasishṭha stammend.
+{#vAsizWa/#},¦ {%f.%} {#I#} von Vasiṣṭha stammend.
 <LEND>
 
 <L>22066<pc>400-1<k1>vAsuki<k2>vAsuki
