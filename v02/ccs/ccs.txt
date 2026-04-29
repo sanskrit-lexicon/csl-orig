@@ -12492,7 +12492,7 @@ die Bewohner dieses Landes.
 <LEND>
 
 <L>2847<pc>044-2<k1>ArzwizeRa<k2>ArzwizeRa/
-{#ArzwizeRa/#}¦ von Ṛshṭisheṇa stammend, {%patron.%}
+{#ArzwizeRa/#}¦ von Ṛṣṭisheṇa stammend, {%patron.%}
 {%Name.%}
 <LEND>
 
@@ -42300,7 +42300,7 @@ Schöpfer; {%N. eines Gottes.%}
 <LEND>
 
 <L>9216<pc>163-2<k1>tvAzwra<k2>tvA/zwra
-{#tvA/zwra#}¦ {%u.%} {#tvA/zwra#} dem Gotte Tvashṭar gehörig;
+{#tvA/zwra#}¦ {%u.%} {#tvA/zwra#} dem Gotte Tvaṣṭar gehörig;
 {%m.%} dessen Sohn.
 <LEND>
 
@@ -46389,11 +46389,11 @@ unzugänglich.
 
 <L>10098<pc>179-2<k1>duHSala<k2>duHSala
 {#duHSala#}¦ {%m.%}, {#A#} {%f. N. eines Sohnes und einer%}
-{%Tochter des Dhṛtarāshṭra.%}
+{%Tochter des Dhṛtarāṣṭra.%}
 <LEND>
 
 <L>10099<pc>179-2<k1>duHSAsana<k2>duHSAsana
-{#duHSAsana#}¦ {%m. N. eines Sohnes des Dhṛtarāshṭra.%}
+{#duHSAsana#}¦ {%m. N. eines Sohnes des Dhṛtarāṣṭra.%}
 <LEND>
 
 <L>10100<pc>179-2<k1>duHSAsus<k2>duHSA/sus
@@ -50991,7 +50991,7 @@ erhaltend, behaltend, beobachtend; <lbinfo n="8"/>
 <LEND>
 
 <L>11092<pc>197-1<k1>DArtarAzwra<k2>DArtarAzwra
-{#DArtarAzwra#}¦ {%f.%} {#I#} dem Dhṛtarāshṭra gehörig;
+{#DArtarAzwra#}¦ {%f.%} {#I#} dem Dhṛtarāṣṭra gehörig;
 {%m.%} dessen Sohn, {%bes. Duryodhana.%}
 <LEND>
 
@@ -58900,7 +58900,7 @@ Bedeutung. {%Abstr.%} {#˚tA#} {%f.%}, {#˚tva#} {%n.%}
 <LEND>
 
 <L>12832<pc>226-2<k1>nezwra<k2>nezwra
-{#nezwra#}¦ {%n.%} das Somagefäß {%o.%} Amt des Neshṭar.
+{#nezwra#}¦ {%n.%} das Somagefäß {%o.%} Amt des Neṣṭar.
 <LEND>
 
 <L>12833<pc>226-2<k1>nehus<k2>nehus
@@ -94999,7 +94999,7 @@ weibchen; {#rUpikA#} {%N. einer Pflanze%};
 <LEND>
 
 <L>20564<pc>367-2<k1>rUpakft<k2>rUpakf/t
-{#rUpakf/t#}¦ {%dass., auch Bein. Tvashṭar's.%}
+{#rUpakf/t#}¦ {%dass., auch Bein. Tvaṣṭar's.%}
 <LEND>
 
 <L>20565<pc>367-2<k1>rUpaRa<k2>rUpaRa
@@ -106898,7 +106898,7 @@ gewandt; {%n. adv.%} nach allen Seiten.
 <L>23021<pc>417-2<k1>viSvarUpa<k2>viSva/rUpa
 {#viSva/rUpa#}¦ ({%f.%} {#A#} {%u.%} {#viSvarUpI/#}) allfarbig,
 bunt, allgestaltig, verschiedenartig. {%m.%}
-{%N. eines Sohnes des Tvashṭar. f.%} {#A#}
+{%N. eines Sohnes des Tvaṣṭar. f.%} {#A#}
 eine bunte Kuh, Schecke.
 <LEND>
 
@@ -120001,7 +120001,7 @@ durch Ersticken.
 Einverstädnisses) mit (—˚); Bewusstsein; <lbinfo n="5"/>
 Bezeichnung, Name, {%bes.%} terminus
 technicus ({%vgl.%} {#saMjYa#}); {%N. einer Tochter%}
-{%Tvashṭar's.%}
+{%Tvaṣṭar's.%}
 <LEND>
 
 <L>25883<pc>467-2<k1>saMjYAna<k2>saMjYA/na
@@ -123931,7 +123931,7 @@ hineinbringen {%o.%} -führen.
 
 <L>26732<pc>482-2<k1>saraRyu<k2>saraRyu/
 {#saraRyu/#}¦ flüchtig, geschwind. {%f.%} {#˚RyU/#} {%N. einer%}
-{%Tochter Tvashṭara's.%}
+{%Tochter Tvaṣṭara's.%}
 <LEND>
 
 <L>26733<pc>482-2<k1>saraTa<k2>sa/raTa<h>1
@@ -131732,7 +131732,7 @@ der Surabhi); {%n.%} Wohlgeruch.
 <LEND>
 
 <L>28495<pc>510-2<k1>sOrAzwra<k2>sOrAzwra
-{#sOrAzwra#}¦ {%u.%} {#˚ka#} von Surāshṭra kommend;
+{#sOrAzwra#}¦ {%u.%} {#˚ka#} von Surāṣṭra kommend;
 {%m. Pl.%} die Bewohner von S.
 <LEND>
 
@@ -131765,7 +131765,7 @@ der Surabhi); {%n.%} Wohlgeruch.
 <LEND>
 
 <L>28503<pc>510-2<k1>sOvizwakfta<k2>sOvizwakfta
-{#sOvizwakfta#},¦ {%f.%} für den Agni Svishṭakṛt
+{#sOvizwakfta#},¦ {%f.%} für den Agni Sviṣṭakṛt
 bestimmt.
 <LEND>
 
