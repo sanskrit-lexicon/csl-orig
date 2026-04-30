@@ -941,7 +941,7 @@ under {#sa#} in their proper places).
 {|SANSKRIT PROSODY.|}
 <H>{%Introduction%}.
 <HI>The earliest and most important work in Sanskrit <lbinfo n="pro+sody"/>
-prosody is the Piṅgala-chhandas-śāstra, attributed
+prosody is the Piṅgala-chandas-śāstra, attributed
 to the sage Piṅgala, which consists of Sūtras <lbinfo n="dis+tributed"/>
 distributed over eight books. The Agni Purāṇa also
 gives a complete system of prosody founded <lbinfo n="ap+parently"/>

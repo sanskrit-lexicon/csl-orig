@@ -7388,7 +7388,7 @@ shows that {%Muruṇḍa%} was the name of a tribe and not a title.
 <div n="P"/>On the basis of Khoh plates, Smith<sup>375</sup> suggested that “the
 Muruṇḍas may possibly have been settled in the hill country of
 Riwa along the Kaimur range or more probably further south
-in the Vindhya or north Dekkan or possibly in the Chhota-
+in the Vindhya or north Dekkan or possibly in the Chota-
 nagpur”.
 <div n="P"/>According to R.K. Mookerji,<sup>376</sup> the people called here as
 the Muruṇḍas are to be distinguished from the Śakas and may
@@ -7430,11 +7430,11 @@ and {%Aganagora%} with {%Aghadip (Agradvīpa)%} on the eastern bank
 of the Ganges, a little below Katwa.<sup>387</sup>
 <div n="P"/>According to Cunningham, the name of the {%Marundai%} is
 still preserved in the country of the Muṇḍas, a hill tribe
-scattered over Chhota-Nagpur and Central India.<sup>388</sup> But M.S.
+scattered over Chota-Nagpur and Central India.<sup>388</sup> But M.S.
 Pandey<sup>389</sup> opposes the view on the ground that the Muruṇḍas
 dwelt in the north-west with other foreign tribes. The evidence
 is strong enough to show that the Muruṇḍas had not spread so
-far to the east as to occupy the Chhota-Nagpur region. How-
+far to the east as to occupy the Chota-Nagpur region. How-
 ever, barbarous and pastoral the Muruṇḍas might have been
 before their immigration into India, when they held the sceptre
 in their hands they must have been endowed with the quality
@@ -7442,7 +7442,7 @@ and capacity to rule over a people who were highly civilized.
 Such a race could hardly have sunk to a position so low as
 that of the Muṇḍas of the modern times. Moreover, the
 Muṇḍas are a dominant division of the aboriginals of the
-Chhota-Nagpur region. Had they been the descendants of the
+Chota-Nagpur region. Had they been the descendants of the
 Muruṇḍas, we should have found them in other parts of
 Central India also, and not confined to this small region so far
 from their place of origin.<sup>390</sup>
@@ -8070,7 +8070,7 @@ Account of fifty-six countries<sup>555</sup> is interesting as it mentions
 them with the Hūṇas, Kauravas, Gāndhāras and Vidarbhas
 among others. In the Śaktisaṅgama Tantra<sup>556</sup> Bāhlīka is
 described as famous for horses and situated to the east of
-Mahāmlechha and beginning with Kamboja. B.C. Law on the
+Mahāmleccha and beginning with Kamboja. B.C. Law on the
 basis of reference in the Mahābhārata<sup>557</sup> places the Vāhlikas
 in the neighbourhood of Gandhar and Kamboja.<sup>558</sup>
 <div n="P"/>Katyāyana (4th century B.C.)<sup>559</sup> mentions Bāhlāyana and
@@ -14803,7 +14803,7 @@ of India” {%Indian Antiquary,%} 1885.
 {%Indian Antiquary,%} Vol. XIV. pp. 319-20.
 <HI> — : {%The Buddhist Stupas of Amaravati and Jaggayapeta in%}
 {%the Krishna District, Madras Presidency,%} London, 1887.
-<HI> — : {%Report on the Antiquities of Kathiawad and Kachha,%}
+<HI> — : {%Report on the Antiquities of Kathiawad and Kaccha,%}
 London, 1876.
 <HI>Burrow, T.: {%The Sanskrit Language,%} London, 1955.
 <HI>Caldwell: {%History of Tinnevelly,%} 1881.
@@ -15140,7 +15140,7 @@ Calcutta, 1946.
 scriptions” {%Journal of Indian History,%} XLI, 345-62.
 <HI> — : “Rajagṛha” {%Memoirs of Archaeological Survey of India,%}
 No. 58.
-<HI> — “Ahichhatra” {%Memoirs of Archaeological Survery of%}
+<HI> — “Ahicchatra” {%Memoirs of Archaeological Survery of%}
 {%India,%} No. 67.
 <HI>Layard, F.P.: “The Ancient City of Kansonapuri — Now called
 Rungamuty” {%Journal of the Asiatic Society of Bengal,%}

@@ -97,7 +97,7 @@ be ascertained satisfactorily.
 [Pagetitle-iv+ 48]
 <P>A detailed account of the materials used in the present work must necessarily be deferred to a later date. I
 embrace, however, the opportunity now offered me, to express my obligation to Dr. TH. AUFRECHT for the kindness
-with which he allowed me the use of his Indices of the Hārāvalī, Trikāṇḍaśeṣa, Bṛhad-and Chhāndogya-Upanishads
+with which he allowed me the use of his Indices of the Hārāvalī, Trikāṇḍaśeṣa, Bṛhad-and Chāndogya-Upanishads
 and of the Vājasaneyisamhitā, as well as to Mr. CH. CASSAL for the assistance I have derived from an elaborate Index
 he has made of Hemachandra's Anekārtha and which, according to a recent advertisement of Mr. S. AUSTIN'S at Hertford,
 is now in course of publication together with the Anekārtha themselves, an Index and improvements of former editions
@@ -3561,7 +3561,7 @@ prayer: reciting mentally a particular passage from the Ve-
 das, while a little water, in the palm of the right hand, is
 held to the nose; this forms a part of the daily ceremonies
 of the Brahmans.
-<div n="P">II. m. ({#-RaH#}) The son of Madhuchhandas and author of the
+<div n="P">II. m. ({#-RaH#}) The son of Madhuchandas and author of the
 passage recited upon the above occasion. E. {#aGa#} and {#marzaRa#}.
 <LEND>
 
@@ -5082,7 +5082,7 @@ limpid waters.
 <div n="P">II. f. ({#-dA#}) The name of a river produced by the Manes
 Agniṣvāttas.
 <div n="P">III. n. ({#-dam#}) The name of a lake in the Himālaya, de-
-riving its origin from the river Achchhodā. E. {#acCa#} and
+riving its origin from the river Acchodā. E. {#acCa#} and
 {#uda#} (a substitute of {#udaka#}).
 <LEND>
 
@@ -7350,7 +7350,7 @@ prises the classes {#atijagatI, SakvarI, atiSakvarI, azwi#},
 <div n="P">III. f. ({#-ndAH#}) The name of one of the consecrated bricks
 or iṣṭakās. E. {#ati#} (sc. {#krAnta#}) and {#Candas#} I. desire, II.
 metre (in the sense of the accusative) ‘going or having
-gone beyond desires’ and ‘going beyond the seven Chhan-
+gone beyond desires’ and ‘going beyond the seven Chan-
 das or metres {#gAyatrI, uzRih, anuzwuB, bfhatI, paNkti, tri-#}
 {#zwuB#} and {#jagatI#}’.
 <LEND>
@@ -16430,7 +16430,7 @@ indomitable. E. {#a#} neg. and {#ADfzya#}.
 {#anAnata#}¦ Tatpur. I. m. f. n. ({#-taH-tA-tam#}) (ved.) Not bent,
 not depressed, unimpaired, superior.
 <div n="P">II. m. ({#-taH#}) The name of a Ṛṣi, the son of Paru-
-chhepa and author of a vaidik hymn. E. {#a#} neg. and {#Anata#}.
+chepa and author of a vaidik hymn. E. {#a#} neg. and {#Anata#}.
 <LEND>
 
 <L>2560<pc>076-b<k1>anAnukftya<k2>anAnukftya
@@ -16752,9 +16752,9 @@ not fit to be a priest. E. {#a#} neg. and {#ArtvijIna#}.
 {#anArya#}¦ I. Tatpur. 1. m. f. n. ({#-ryaH-ryA-ryam#}) Not respectable,
 not venerable, unworthy, inferior, bad, vile.
 <div n="P">2. m. ({#-ryaH#}) Other than an Ārya, a barbarian, a Sūdra,
-a Mlechchha, a Kirāta &c. E. {#a#} neg. and {#Arya#}.
+a Mleccha, a Kirāta &c. E. {#a#} neg. and {#Arya#}.
 <div n="P">II. Bahuvr. m. f. n. ({#-ryaH-ryA-ryam#}) Having no Āryas,
-inhabited by Mlechchhas &c. as a country. E. {#a#} priv.
+inhabited by Mlecchas &c. as a country. E. {#a#} priv.
 and {#Arya#}.
 <LEND>
 
@@ -16771,7 +16771,7 @@ a non-Ārya. E. {#anArya-karma#}, taddh. aff. {#ini#}.
 
 <L>2613<pc>078-a<k1>anAryaja<k2>anAryaja
 {#anAryaja#}¦ Tatpur. n. ({#-jam#}). The same as {#anAryaka#} q. v. E.
-{#anArya#} and {#ja#} ‘produced in the country of the Mlechchhas
+{#anArya#} and {#ja#} ‘produced in the country of the Mlecchas
 or barbarians’.
 <LEND>
 
@@ -20163,7 +20163,7 @@ ledge conveyed by words’. E. {#pat#} with {#anu#}, kṛt aff. {#Rini#}.
 <L>3109<pc>094-b<k1>anupAna<k2>anupAna
 {#anupAna#}¦ Tatpur. n. ({#-nam#}) <sup>1</sup> (In Medicine.) A fluid vehicle in
 medicine, drink taken after or with medicine. <sup>2</sup> (In a pas-
-sage of the Chhānd. Upan.) Drink which is near or stands
+sage of the Chānd. Upan.) Drink which is near or stands
 close by. E. {#anu#} and {#pAna#}.
 <LEND>
 
@@ -24353,7 +24353,7 @@ ceum. E. {#antaHpura#} and {#prezyA#}.
 {#antaHpurasahAya#}¦ Tatpur. m. ({#-yaH#}) An assistant belonging to
 the gynæceum or inner apartments (compare {#sTApatya#}); such
 assistants are: ‘dwarfs, eunuchs, Kirātas or mountaineers
---retained as guards--Mlechchhas or barbarians, Abhī-
+--retained as guards--Mlecchas or barbarians, Abhī-
 ras, the mock-brother-in-law of a king--i. e. the brother
 of his concubine--humpbacks, mutes &c. E. {#antaHpura#} and
 {#sahAya#}.
@@ -26694,7 +26694,7 @@ lowest tribe (see the following meanings). [Tatpur. com-
 pounds--not Karmadh.--the latter part of which is
 {#antya#} have the udātta accent on the first syllable.]
 <div n="P">2. m. ({#-ntyaH#}) <sup>1</sup> A man of the lowest tribe. See {#antyaja#}.
-<sup>2</sup> A Mlechchha or foreigner. See {#antyaja#}. <sup>3</sup> (In Astronomy.)
+<sup>2</sup> A Mleccha or foreigner. See {#antyaja#}. <sup>3</sup> (In Astronomy.)
 The twelfth or last lunar month, called Phālguna. <sup>4</sup> A
 fragrant grass (Cyperus rotundus). See {#mustA#}. <sup>5</sup> m. pl.
 ({#-ntyAH#}) The name of a people or country; read also {#anDAH#}
@@ -26761,7 +26761,7 @@ a Meda, a Śvapacha or Śvapāka (the son of an Ugrā woman
 by a Kshattriya male) and a man who belongs to the Kāpā-
 lika worshippers of Śiva ({#cARqAlamedaSvapacakapAlavratacAri-#}
 {#RAm#} &c.); of another lawbook which names, a Chāṇḍāla, a
-Pukkaśa, a Mlechchha, a Śvapāka and a man who has be-
+Pukkaśa, a Mleccha, a Śvapāka and a man who has be-
 come an outcast ({#cARqAlaM puzkasaM mlecCaM SvapAkaM patitaM taTA#}).
 In a similar manner {%Śātātapa%} speaks of {#antyajA#} women as
 of {#kEvartI rajakIM cEva veRucarmopajIvinIm#}; {%Āpastamba%} as of
@@ -28234,7 +28234,7 @@ rice. E. {#anna#} and {#Adya#} (to be eaten). [In Röer's valuable
 edition of Śaṅkara's comm. on the Bṛhadār., {#tadadyaM#} p. 279
 ({#annAdyamannameva tadadyaM ca#}) is probably a misprint for {#tadAdyaM#},
 conformably to similar explanations of the same author,
-e. g. Bṛhadār. p. 100, Chhānd. p. 161.]
+e. g. Bṛhadār. p. 100, Chānd. p. 161.]
 <div n="P">II. Bahuvr. m. f. n. ({#-dyaH-dyA-dyam#}) Rice and so on (see
 the meanings of {#anna#}); the same as if the latter part of the
 compound were {#Adi#}; e. g. {#sArvavarRikamannAdyaM saMnIyAplAvya#}
@@ -32136,7 +32136,7 @@ MDCCCLVIII.
 {#apaRya#}¦ [CONTINUED] scents, hides, cloth--the penalty being the {%Chāndrāyaṇa%}
 --; wool, hair, a horse ({%kesarin%}), land, a cow, a house,
 stones, weapons, eatable flesh, tendons, bones, horns, nails,
-shells--the penalty being the {%Taptakṛchchhra%}--; asafœtida,
+shells--the penalty being the {%Taptakṛcchra%}--; asafœtida,
 bdellium ({%guggula%}), yellow orpiment, red arsenic, collyrium,
 red chalk, medicinal and other salt ({%kṣāra%} and {%lavaṇa%}),
 precious stones, pearls, corals, bambu staves, wickerwork
@@ -38969,7 +38969,7 @@ a thinking of the quality ‘unity’ previously determined by
 the general notion (monad) [for the special unity could not
 be conceived without a previous knowledge of the general
 notion to which it belongs; comp. also the instance in the
-comm. to the {%Bhāṣāparichchheda%} v. 57]; this thinking is
+comm. to the {%Bhāṣāpariccheda%} v. 57]; this thinking is
 the {#apekzAbudDi#}; through it is produced a duality consisting
 of these two substances (unities); it leads to the generality
 or {%class of dyads;%} this class of dyads is reflected upon,
@@ -39637,7 +39637,7 @@ work is done, or speech joined to sacrificial acts). E.
 
 <L>5343<pc>206-a<k1>appa<k2>appa
 {#appa#}¦ m. ({#-ppaH#}) The name of a Telugu poet, who ‘wrote a
-work on prosody called Appakavi-chhāndasa and another
+work on prosody called Appakavi-chāndasa and another
 work called Vrindāsambhava which is an account of the
 birth and parentage of Vrinda, the chaste wife of a giant’
 …‘the manner of the death of this poet is unknown, nor
@@ -39810,7 +39810,7 @@ the {%Jaimini Sūtra:%} {#SAstraM syAdaprakalpakam#} (scil. {#smfteH#}); {%Śaba
 
 <L>5366<pc>207-a<k1>aprakAra<k2>aprakAra
 {#aprakAra#}¦ Tatpur. m. f. n. ({#-raH-rA-ram#}) Not producing, not
-manifesting; e. g. in the {%Bhāṣāparichchheda:%} {#tadaBAvApra-#}
+manifesting; e. g. in the {%Bhāṣāpariccheda:%} {#tadaBAvApra-#}
 {#kArA DIstatprakArA tu niScayaH#}. E. {#a#} neg. and {#prakAra#}.
 <LEND>
 
@@ -40388,7 +40388,7 @@ E. {#a#} neg. and {#pratimanyUyamAna#}.
 <L>5443<pc>210-a<k1>apratiyogin<k2>apratiyogin
 {#apratiyogin#}¦ Tatpur. m. f. n. ({#-gI-ginI-gi#}) <sup>1</sup> Not hostile,
 not opposed. <sup>2</sup> Not connected (by way of contrast); e. g.
-in the {%Bhāṣāparichchheda:%} {#hetumannizWavirahApratiyoginA#}
+in the {%Bhāṣāpariccheda:%} {#hetumannizWavirahApratiyoginA#}
 {#sADyena hetorEkADikaraRyaM vyAptirucyate#}. E. {#a#} neg. and {#prati-#}
 {#yogin#}.
 <LEND>
@@ -40524,7 +40524,7 @@ lit. or fig.; e. g. in the {%Vedānta Sūtra:%} {#tarkApratizWAnAdapyanya-#}
 
 <L>5457<pc>211-a<k1>apratizWita<k2>apratizWita
 {#apratizWita#}¦ Tatpur. m. f. n. ({#-taH-tA-tam#}) <sup>1</sup> Unfixed, unsettled;
-e. g. in the {%Chhāndogya-Upan.:%} {#apratizWitaM vE kila te dAlBya#}
+e. g. in the {%Chāndogya-Upan.:%} {#apratizWitaM vE kila te dAlBya#}
 {#sAma#} ({%Śaṅkara:%} {#asaMsTitaM parovarIyaH#}). <sup>2</sup> Not strong, not
 valid; e. g. {%Śaṅkara%} on a {%Vedānta Sūtra:%} {#yasmAnnirAgamAH#}
 {#puruzotprekzAmAtranibanDanAstarkA apratizWitAH saMBavanti#} &c. <sup>3</sup> (In
@@ -41470,7 +41470,7 @@ not proceeding; e. g. in the {%Bṛhadār. Upan.:%} {#sa hovAca#}
 {#gArgyo ya evAyamAkASe puruza etamevAhaM brahmopAsa iti sa#}
 {#hovAcAjAtaSatrurmA mEtasminsaMvadizWAH pUrRamapravartIti vA#} ({%Śan-%}
 {%kara:%} {#apravartiviSezaRaPalaM nAsyAsmAllokAtprajodvartata iti#});
-or in the {%Chhānd. Upan.:%} {#ayaM vAva sa yo'yamantarhfdaya#}
+or in the {%Chānd. Upan.:%} {#ayaM vAva sa yo'yamantarhfdaya#}
 {#AkASastadetatpUrRamapravarti pUrRamapravartinIM SriyaM laBate ya evaM#}
 {#veda#} ({%Śaṅkara:%} {#apravarti na kutaScitpravartituM SIlamasyetyapravarti#}
 {#tadanucCittiDarmakam .…pUrRamapravartinImanucCedAtmikAM Sri-#}
@@ -42769,7 +42769,7 @@ plur. of {#ap#}) and {#nAman#}.
 {#apsumat#}¦ m. f. n. ({#-mAn-matI-mat#}) <sup>1</sup> Having or possessing
 what is in water or arises from water; e. g. Agni so called
 from his combination with the fire of lightning which is in,
-or comes from, the rain-waters; or in the {%Chhāndogya Up.:%}
+or comes from, the rain-waters; or in the {%Chāndogya Up.:%}
 {#na hApsu prEtyapsumAnBavati ya etadevaM vidvAnsarvAsvapsu paYcaviDaM#}
 {#sAmopAste#} (where {%Ānandajn.%} explains the word ‘possessed
 with water’, viz. {#asAvupAsako marusTalIzvapi yaTecCamudaka-#}
@@ -43933,7 +43933,7 @@ and {#brahmavid#}.
 {#abrAhmaRa#}¦ I. Tatpur. 1. m. ({#-RaH#}) <sup>1</sup> Not a Brāhmaṇa, any
 one in general except a Brāhmaṇa; e. g. in the {%Śatapath.:%}
 {#…tadvE nAbrAhmaRaH pibedagnO hyaDiSrayanti tasmAnnAbrAhmaRaH#}
-{#pibet#}; or in the {%Chhānd. Upan.:%} {#taM hovAca nEtadabrAhmaRo#}
+{#pibet#}; or in the {%Chānd. Upan.:%} {#taM hovAca nEtadabrAhmaRo#}
 {#vivaktumarhati#} (where ‘none but a Brāhmaṇa’ implies ‘be-
 cause the Brāhmaṇas alone are upright’); or in the {%Mi-%}
 {%tākṣ.:%} {#aSvAdvaqavAyAmaSvaH . tasmAdbrAhmaRAdbrAhmaRyAmutpanno'brA-#}
@@ -44645,7 +44645,7 @@ the seventh or last {#padArTa#} or category, and distinguished as
 {#saMsargABAva#} and {#anyonyABAva#}, the former again as {#prAgaBAva#},
 {#DvaMsa#} and {#atyantABAva#}; for the definition of these terms see
 s. vv.; (hence the word occurs also in the plural, e. g. in
-the {%Bhāṣaparichchheda:%} {#viSezaRatayA tadvadaBAvAnAM graho#}
+the {%Bhāṣapariccheda:%} {#viSezaRatayA tadvadaBAvAnAM graho#}
 {#'Bavat#}); {%Gauḍapāda%} divides {#aBAva#} in {#prAgaBAva, itaretarA-#}
 {#BAva, atyantABAva#} and {#sarvABAva#} qq. vv. <sup>4</sup> Destruction, death;
 e. g. in the {%Vedānta S.:%} {#aBAvaM bAdarirAha hyevam#} ({%Anū-%}
@@ -45366,7 +45366,7 @@ for the sake of {%causing ruin, making sick%} &c., according to
 charms two hundred Paṇas (9. 290.), classes in another pas-
 sage {#aBicAra#} and {#mUlakarman#} amongst the Upapātaka (11. 63.)
 and makes the expiation of an {#aBicAra#} depend on the per-
-formance, thrice repeated, of the penance called Kṛchchhra
+formance, thrice repeated, of the penance called Kṛcchra
 (11. 197.). But as these clauses would jar apparently with
 the vaidik texts which impliedly sanction the employment
 of charms by regulating the sacrifices Śyena &c. performed
@@ -45389,7 +45389,7 @@ been brought under the spell (i. e. an innocent or unoffending
 person)’; some however, as results from {%Medh.'%}s discussion
 on the latter verse, give it a different bearing, for they supply
 the preceding word {#yAjana#} at {#aBicAra#} and subject thus to the
-penance Kṛchchhra, not the {#yajamAna#} or the person who
+penance Kṛcchra, not the {#yajamAna#} or the person who
 institutes an incantatory sacrifice, but the {#ftvij#} or the
 priest who performs for him such a sacrifice. But in spite
 of these efforts of the commentators to establish a harmony
@@ -46358,7 +46358,7 @@ fastened on or upon. E. {#nah#} with {#aBi#}, kṛt aff. {#kta#}.
 
 <L>6054<pc>246-a<k1>aBinadDAkza<k2>aBinadDAkza
 {#aBinadDAkza#}¦ Bahuvr. m. f. n. ({#-kzaH-kzI-kzam#}) Blindfolded, hood-
-winked; e. g. {%Chhānd. Up.:%} {#aBinadDAkza AnIto'BinadDAkzo#}
+winked; e. g. {%Chānd. Up.:%} {#aBinadDAkza AnIto'BinadDAkzo#}
 {#visfzwaH#}. E. {#aBinadDa#} and {#akzi#}, samās. aff. {#zac#}.
 <LEND>
 
@@ -46562,7 +46562,7 @@ aff. {#cvi#}, and {#BUta#}.
 
 <L>6073<pc>247-b<k1>aBinahana<k2>aBinahana
 {#aBinahana#}¦ Tatpur. n. ({#-nam#}) Any thing bound or tied over,
-a bandage, a blind (for the eyes); e. g. {%Chhānd. Up.:%} {#…#}
+a bandage, a blind (for the eyes); e. g. {%Chānd. Up.:%} {#…#}
 {#aBinadDAkzo visfzwaH . tasya yaTABinahanaM pramucya prabrUyAdetAM#}
 {#diSam#} &c. E. {#nah#} with {#aBi#}, kṛt aff. {#lyuw#}.
 <LEND>
@@ -48304,7 +48304,7 @@ the whole of mankind as referring to him exclusively &c.’
 implied sense: conceiving erroneously, fancying, imagining;
 e. g. {%Udyogap. Mahābh.:%} {#prajYABimAnI pratikUlavAdI tyAjyaH#}
 {#sa tAdfktvarayEva BftyaH#}. <sup>3</sup> Personifying, personating; e. g. {%Śan-%}
-{%kara%} in his comm. on the {%Chhānd. Up.:%} {#…te sarve'rcizam#}
+{%kara%} in his comm. on the {%Chānd. Up.:%} {#…te sarve'rcizam#}
 (i. e.) {#arciraBimAninIM devatAmaBiniviSanti#} (i. e. {#pratipadya-#}
 {#nte#}) &c. {#…. te DUmaM#} (i. e.) {#DUmABimAninIM devatAmABimu-#}
 {#Kyena saMBavanti#} &c. {#…. nEte karmiRaH prakftAH saMvatsaraM#} (i. e.)
@@ -48382,7 +48382,7 @@ on the word {#anavAk#}, viz.: {#avAk . aDomuKaH . na avAk .#}
 {%Pāṇ.%} IV. 1. 54. the fem. of this word must end in {#I (NIz)#},
 if it is applied to a {%living being,%} otherwise in {#A#}; thus e. g.
 {%Rāmāy.:%} {#rAjAnamevABimuKI kEkeyI vAkyamabravIt#}; or {#prayAtu#}
-{#caturaNgiRI . ayoDyABimuKI senA#}; or {%Śaṅk.%} on {%Chh. Upan.%}
+{#caturaNgiRI . ayoDyABimuKI senA#}; or {%Śaṅk.%} on {%Ch. Upan.%}
 4. 6. 1.: {#tAH SanEScarantya AcAryakulABimuKyaH prasTitAH#}; but {%Kā-%}
 {%śikā:%} {#aBimuKA SAlA#}; comp. e. g. {#candramuKI#} and similar
 compounds (said of a woman) but {#SlakzRamuKA SAlA#}.]
@@ -48932,7 +48932,7 @@ taddh. aff. {#kan#}.
 <L>6297<pc>262-b<k1>aBirUpapati<k2>aBirUpapati
 {#aBirUpapati#}¦ Bahuvr. m. ({#-tiH#}) The name of a fast observed
 in order to obtain a desirable master in a future world or
-birth; {%Mṛchchhak.:%} {#nawI . ajja ubavAso gahido#} (i. e. {#Arya#}
+birth; {%Mṛcchak.:%} {#nawI . ajja ubavAso gahido#} (i. e. {#Arya#}
 {#upavAso gfhItaH#}) {#.. sUtraDAraH . kiRRAmaDeo aaM ubavAso#}
 (i. e. {#kiMnAmaDeyo'yamupavAsaH#}) {#.. nawI . ahirUbabadI RAma#}
 (i. e. {#aBirUpapatirnAma#}) {#.. sUtraDAraH . ajje ihaloio Adu#}
@@ -49769,10 +49769,10 @@ schooled in the performance of duties; e. g. {%Mit.%} on {%Yā-%}
 
 <L>6356<pc>268-a<k1>aBivimAna<k2>aBivimAna
 {#aBivimAna#}¦ Tatpur. m. ({#-naH#}) The same as {#aBimAna#} 1. q. v.
-and therefore used in the {%Chhāndogya Upanishad%} as an epi-
+and therefore used in the {%Chāndogya Upanishad%} as an epi-
 thet of {%Vaiśvānara%} or the worldly form of the Supreme
 Soul, since he conceives the whole of mankind as referring
-to him exclusively (viz. ‘I am Brahman’); {%Chh. Up.:%} {#yastve-#}
+to him exclusively (viz. ‘I am Brahman’); {%Ch. Up.:%} {#yastve-#}
 {#tamevaM prAdeSamAtramaBivimAnamAtmAnaM vESvAnaramupAste sa sarvezu#}
 {#lokezu sarvezu BUtezu sarvezvAtmasvannamatti#} ({%Śaṅkara:%} {#pratyagAtmata-#}
 {#yABivimIyate'hamiti jYAyata ityaBivimAnaH#} ‘because it is
@@ -49783,7 +49783,7 @@ where Vaiśvānara is defined as the Supreme Soul conceived
 as wordly Totatily: {#etatsamazwyupahitaM cEtanyaM vESvAnaro virA-#}
 {#qiti cocyate sarvanarABimAnitvAt#}, this passage and esp.
 the latter word being founded on the quoted words of the
-{%Chh. Upan.;%} as Vaiśvānara is the Supreme Soul in its re-
+{%Ch. Upan.;%} as Vaiśvānara is the Supreme Soul in its re-
 ference to the world there is a tendency to equivocation in
 the Upan., for {#prAdeSa#} which means there ‘space’ in general,
 might convey the notion of limitedness--in its sense ‘span’
@@ -50003,7 +50003,7 @@ the preceding. E. {#Ap#} with {#vi#} and {#aBi#}, kṛt aff. {#Rini#}.
 {#aBivyApta#}¦ Tatpur. m. f. n. ({#-ptaH-ptA-ptam#}) <sup>1</sup> Comprehended,
 included, absorbed; e. g. {%Suśr.:%} {#durvirecyA hi maDumehino#}
 {#Bavanti medo'BivyAptaSarIratvAt#}. <sup>2</sup> Comprehending, includ-
-ing, absorbing; e. g. {%Śaṅkara%} (on the {%Chhānd. Up.%} {#sarva-#}
+ing, absorbing; e. g. {%Śaṅkara%} (on the {%Chānd. Up.%} {#sarva-#}
 [Page270-a+ 56]
 {#midamaByAttaH#}): {#sarvamidaM jagadaByAtto'BivyAptaH . atatervyA-#}
 {#ptyarTasya kartari nizWA#}. E. {#Ap#} with {#vi#} and {#aBi#}, kṛt aff. {#kta#}.
@@ -50035,7 +50035,7 @@ E. {#hf#} with {#A, vi#} and {#aBi#}, kṛt aff. {#lyuw#}.
 
 <L>6378<pc>270-a<k1>aBivyAhAra<k2>aBivyAhAra
 {#aBivyAhAra#}¦ Tatpur. m. ({#-raH#}) <sup>1</sup> Enouncing, pronouncing,
-uttering, speaking; e. g. {%Chhānd. Up.:%} {#yo vededamaBivyAha-#}
+uttering, speaking; e. g. {%Chānd. Up.:%} {#yo vededamaBivyAha-#}
 {#rARIti sa AtmABivyAhArAya vAk#} ({%Śaṅkara:%} {#yo vededaM#}
 {#vacanamaBivyAharARIti vadizyAmIti sa AtmABivyaharaRakri-#}
 {#yAsidDaye karaRaM vAgindriyam#}); or {%Nirukta:%} {#nizpanne'BivyA-#}
@@ -50156,7 +50156,7 @@ or {%Kātyāy.:%} {#indrasTAne'BiSastAnAM mahApAtakinAM nfRAm .#}
 {#Sasto mfzA kfcCraM caredAgneyameva vA#} &c.; compare also the
 quotation s. v. {#aBiSapta#}.--According to {%Yājnavalkya%}
 3. 285 ff. a man exonerates himself from a false accusation
-by undergoing the penance Kṛchchhra, or by sacrificing
+by undergoing the penance Kṛcchra, or by sacrificing
 to Agni the Puroḍāśa, or to Vāyu a sacrificial animal
 (compare the legend in {%Manu%} 8. 116. and in the {%Hariv.%}
 6428 &c.; {%Vijnāneśvara%} holds that the term {#apANktya#}, when
@@ -51836,7 +51836,7 @@ ryāśrama), Dvārakā, Śrīgiri, Purushottama, Śāligrāma
 ({%v. l.%} Śalagr.), Vārāha, the mouth of the Indus ({#sinDusA-#}
 {#garasaMgamaH#}), Phalgutīrtha, the lake Vindu, the hermitage
 of Karavīra; the rivers Gaṅgā, Saraswati, Śatadru, Gaṇḍa-
-kī, Achchhodā, Vipāsā, Vitastā, Devikā, Kāverī, Va-
+kī, Acchodā, Vipāsā, Vitastā, Devikā, Kāverī, Va-
 radā, Niśchīrā, Gomatī, Pārā, Charmanvatī, Rūpā, Mandā-
 kinī, Tāpī ({%v. l.%} Nīpā), Payoṣṇi, Veṇā, Gaurī, Vaitaraṇī,
 Godāvarī, Bhīmarathī, Tuṅgabhadrā, Raṇī (? {%v. l.%} Praṇī),
@@ -51848,7 +51848,7 @@ Vedas, the six Angas, Itihāsas and Purāṇas, the Upa-
 vedas, viz. Āyurveda, Gandharvaveda, and Dhanurveda,
 the Angas, viz. Śikṣā, Kalpa, Vyākaraṇa, Nirukta, the
 science of the luminous bodies ({#jyotizAM gatiH#}) and
-Chhandas [see s. v. {#aNga#}], the Vedas [here mentioned again,
+Chandas [see s. v. {#aNga#}], the Vedas [here mentioned again,
 like the Angas], the Mīmānsā-and Nyāya-systems ({#mI-#}
 {#mAMsAnyAyavistaraH#}), and the old Dharmaśāstra ({#DarmaSAstraM#}
 {#purARaM ca#}); for these are the fourteen sciences [i. e. the four
@@ -52855,7 +52855,7 @@ taddh. aff. {#ka#}.
 
 <L>6496<pc>291-b<k1>aBisanDA<k2>aBisanDA
 {#aBisanDA#}¦ Tatpur. f. ({#-nDA#}) <sup>1</sup> Speech, word, declaration
-(with the implied sense of {%deliberateness%}); e. g. {%Chhānd. Up.:%}
+(with the implied sense of {%deliberateness%}); e. g. {%Chānd. Up.:%}
 {#sa yadi tasya kartA Bavati#} (i. e. if a man has committed a
 theft) {#tata evAnftamAtmAnaM kurute#} (and by denying it makes
 himself untrue) {#so'nftABisaMDo'nftenAtmAnamantarDAya paraSuM#}
@@ -52890,7 +52890,7 @@ posing, cheating, deceiving; e. g. {%Raghuv.:%} {#parABisaMDAnaparaM#}
 <L>6498<pc>292-a<k1>aBisanDi<k2>aBisanDi
 {#aBisanDi#}¦ Tatpur. f. ({#-nDiH#}) <sup>1</sup> Speaking, saying, declaring
 (with the implied sense of {%deliberateness%}); e. g. {%Śaṅkara%} (on
-the passage of the {%Chh. Up.%} quoted s. v. {#aBisanDA#}) {#…sa#}
+the passage of the {%Ch. Up.%} quoted s. v. {#aBisanDA#}) {#…sa#}
 {#dahyate'Ta hanyate rAjapuruzEH svakftenAnftABisaMDidozeRa….#}
 {#yadAtmABisanDyanaBisaMDikfte mokzabanDane#} (liberation or bondage
 caused by a--righteous--or by a false declaration)
@@ -53077,7 +53077,7 @@ tionate manner; e. g. {%Rāmāy.:%} {#…sa uvAca mahAgiriH .#}
 <LEND>
 
 <L>6517<pc>293-a<k1>aBisAyam<k2>aBisAyam
-{#aBisAyam#}¦ Avyayībh. Late, in the evening; e. g. {%Chhānd.%}
+{#aBisAyam#}¦ Avyayībh. Late, in the evening; e. g. {%Chānd.%}
 {%Up.:%} {#tA#} (scil. {#gAvaH#}) {#yatrABisAyaM baBUvustatrAgnimupasamADAya#}
 {#gA uparuDya#} &c. ({%Śaṅkara:%} {#aBisAyaM niSAyAmaBi#}; {%Ānandajn.:%}
 = {#sAyaMkAlaM prAptAH#}). E. {#aBi#} and {#sAyam#}.
@@ -54047,7 +54047,7 @@ with the {%Śūdras,%} as if conterminous’ ({%Wilson'%}s {%Viṣṇu-P.%}
 p. 195 n. 154).--The {%Sāhityadarpaṇa%} mentions the {%Abhīras%}
 as assistants appointed in, or belonging to, the harem
 (together with dwarfs, eunuchs, Kirātas or mountaineers,
-Mlechchhas or barbarians, the mock-brother-in-law of a
+Mlecchas or barbarians, the mock-brother-in-law of a
 king, i. e. the brother of his concubine, hump-backs, mutes
 &c.: {#vAmanazaRqakirAtamlecCABIrAH SakArakubjAdyAH#}). The
 same work, in defining the purposes for which Sanskṛt
@@ -54872,7 +54872,7 @@ smith, a physician, a libidinous woman, a usurer &c.; see
 {%Manu%} 4. 205-221.; {%Yājnav.%} 1. 160-168.--One who has un-
 knowingly eaten the food of such persons must fast during
 three days; but, having eaten it knowingly he must per-
-form the penance called {%Kṛṣchhra,%} as if he had tasted
+form the penance called {%Kṛṣchra,%} as if he had tasted
 seminal impurity, ordure or urine; according to {%Manu%} 4. 222.
 In another verse, however, {%Manu%} (11. 152.) is satisfied, if
 such a sinner drinks barley gruel for seven days and nights
@@ -55187,7 +55187,7 @@ e. g. the following verse of the {%Mahābh. Śāntip.%} 4787: {#A-#}
 fig.; e. g. {%Suśruta:%} {#yaH SyAvadantOzWanaKo'lpasaMjYaSCardyardito#}
 {#'ByantarayAtanetraH#} &c.; or {#sirABiraBisaMprApya viguRo'Byantare#}
 {#BfSam#} &c.; or {%Yājnav.:%} {#kfcCrAtikfcCro'sfkpAte kfcCro#}
-{#'ByantaraSoRite#} ‘…the penance Kṛchchhrātikṛchchhra
+{#'ByantaraSoRite#} ‘…the penance Kṛcchrātikṛcchra
 (is the penalty) when the blood (of a Brahman) is {%shed,%} the
 penance Kṛ. when his blood still remains in his body (i. e.
 when he is beaten black and blue)’; or {%Ratnāvalī:%} {#devi#}
@@ -55561,7 +55561,7 @@ honoured; used especially in the sense of the comparative:
 {#vaktavyam#}; comp. the following; or {%Sāyaṇa%} on the {%Ṛgv.%}
 (introd.): {#atra kecidAhuH . fgvedasya prATamyena sarvatrAmnAta-#}
 {#tvAdaByarhitaM pUrvamiti nyAyenAByarhitatvAttadvyAKyAnamAdO yu-#}
-{#ktam#}; or {%Śaṅk.%} (on the {%Chhānd. Up.%} {#sa eza koSo vasuDAnaH#}
+{#ktam#}; or {%Śaṅk.%} (on the {%Chānd. Up.%} {#sa eza koSo vasuDAnaH#}
 &c.): {#aByarhitavijYAnavyAsaNgAdanantarameva noktaM tadidAnIme-#}
 {#vAraByate#}. <sup>2</sup> Fit, proper, suitable; e. g. {%Kirātārj.:%} {#aByarhitA#}
 {#banDuzu tulyarUpA vfttirviSezeRa tapoDanAnAm#} ({%Mallin.:%} {#aByarhi-#}
@@ -55869,7 +55869,7 @@ repeated practice; e. g. {%Suśr.%} (of {%food%}): {#viSuzkamannamaByastaM#}
 repeated, frequently practised; e. g. {%Mitākṣ.:%} {#yadA tvetadeva#}
 {#vimiSritaM paYcagavyaM trirAtramaByasyate tadA yatisAntapanasaMjYA#}
 {#laBate . etadeva tryahAByastaM yatisAntapanaM smftam#}; or {%Amaruśat.:%}
-{#BrUBedo racitaSciraM nayanayoraByastamAmIlanam#} &c.; or {%Mṛchchh.:%}
+{#BrUBedo racitaSciraM nayanayoraByastamAmIlanam#} &c.; or {%Mṛcch.:%}
 {#kAlasyAlpatayA ca cIvarakftaH skanDe na jAtaH kiRaH . nAByastA ca#}
 {#kazAyavastraracanA#} &c. Comp. also s. v. {#AkUpAra#}. <sup>3</sup> Mentally re-
 peated, learnt by heart, studied; e. g. {%Bhartṛh.:%} {#nAByastA Buvi#}
@@ -56026,7 +56026,7 @@ a {%Vārtt.%} to {%Pāṇ.%} VI. 1. 188.: {#svapAdInAM vA vacanAdastasvaro#}
 {#aByasyat#}¦ Tatpur. m. f. n. ({#-n-ntI-t#}) See the meanings of
 {#as#} cl. 4, with {#aBi#}; e. g. {%(shooting) Mahābh. Ādip.:%} {#SI-#}
 {#GramaByasyato vARAnsaMdaDAnasya cAniSam . nAntaraM dadfSe kiM-#}
-{#citkOnteyasya yaSasvinaH#}; or {%(doing frequently) Mṛchchh.:%}
+{#citkOnteyasya yaSasvinaH#}; or {%(doing frequently) Mṛcch.:%}
 {#vEdeSyena kfto Bavenmama gfhe vyApAramaByasyatA#} &c. Comp. {#aBya-#}
 {#sat#}. E. {#as#} (cl. 4) with {#aBi#}, kṛt aff. {#Satf#}.
 <LEND>
@@ -56203,7 +56203,7 @@ stitute a sacrifice; see {#AtAna#}).
 
 <L>6742<pc>314-b<k1>aByAtta<k2>aByAtta
 {#aByAtta#}¦ Tatpur. m. f. n. ({#-ttaH-ttA-ttam#}) Obtained, acquired;
-{%Chhānd. Up.%} (in an active sense): {#sarvamidamaByAtto'vAkya-#}
+{%Chānd. Up.%} (in an active sense): {#sarvamidamaByAtto'vAkya-#}
 {#nAdaraH#} ({%Śaṅk.:%} {#sarvamidaM jagadaByAtto'BivyAptaH#}). E. {#dA#}
 with {#A#} and {#aBi#}, kṛt aff. {#kta#}; acc. to {%Śaṅkara:%} {#at#} with
 {#A#} and {#aBi#}, kṛt aff. {#kta (atatervyAptyarTasya kartari nizWA)#},
@@ -56670,13 +56670,13 @@ in the sense of {%vicinity;%} on the latter form see the remark
 at the end. A masc. nom. {#aByASaH#} in the sense ‘neigh-
 bourhood’, has not come under my observation; the cases
 {#˚Sasya, ˚Sam#} &c. are better referred to a neuter.]
-<div n="P">3. m. ({#-SaH#}) Result, consequence; e. g. {%Chhānd. Up.:%}
+<div n="P">3. m. ({#-SaH#}) Result, consequence; e. g. {%Chānd. Up.:%}
 {#sa ya etadevaM vidvAnsADu sAmetyupAste'ByASo ha yadenaM sADavo#}
 {#DarmA A ca gacCeyurupa ca nameyuH#} ({%Śaṅk.:%} {#sADuguRavadvidvAMsta-#}
 {#syEtatPalamaByASaH#} &c.); or {#tadya iha ramaRIyacaraRA aByASo#}
 {#ha yatte ramaRIyAM yonimApadyeran#} ({%Śaṅk.:%} {#tenAnuSayena puRyena#}
 {#karmaRA candramaRqale BuktaSezeRAByASo ha#} &c. (In other pas-
-sages of {%Dr. Röer'%}s ed. of the {%Chh. Up.%} the word is written,
+sages of {%Dr. Röer'%}s ed. of the {%Ch. Up.%} the word is written,
 when implying the same sense, {#aByAsa#}, e. g. {#kAmaM DyAya-#}
 {#nnapramatto'ByAso ha yadasmE sa kAmaH samfDyeta#}; or {#sa ya etamevaM#}
 {#vidvAnAdityaM brahmetyupAste'ByAso ha yadenaM sADavo GozA A#}
@@ -56808,7 +56808,7 @@ port of the Vedānta (see the enumeration of the other terms
 s. v. {#apUrvatA#}): {%Ved. Sāra:%} {#prakaraRapratipAdyasya vastunastanmaDye#}
 {#pOnaHpunyena pratipAdanamaByAsaH#}; by such repetitions are meant,
 according to the {%Ved. Sāra,%} e. g. that of the words {#tattvamasi#}
-which occur nine times in the sixth Prapāth. of the {%Chhānd.%}
+which occur nine times in the sixth Prapāth. of the {%Chānd.%}
 {%Upan.;%} or, acc. to {%Rāmakṛṣṇat.%} that of {#sa eza neti neti#}
 of the {%Bṛhadār.,%} or of the passage {#sa yaScAyam#} in the
 {%Taitt. Up.,%} or of the passages {#yenAkzaraM puruzaM veda satyam#},
@@ -56912,7 +56912,7 @@ supplied, in the) {%Dhanurveda:%} {#…kumBakena sTiraM kftvA huMkA-#}
 {#reRa visarjayet . ityaByAsakriyA kAryA DanvinA sidDimicCatA#}.
 <div n="P">[II. Tatpur. 1. m. f. n. ({#-saH-sA-sam#}) The same as
 {#aByASa#} which is the more correct form.
-<div n="P">2. m. ({#-saH#}) <sup>1</sup> Result, consequence; e. g. {%Chhānd. Up.:%}
+<div n="P">2. m. ({#-saH#}) <sup>1</sup> Result, consequence; e. g. {%Chānd. Up.:%}
 {#sa ya etamevaM vidvAnAdityaM brahmetyupAste'ByAso ha yadenaM sADa-#}
 {#vo GozA A ca gacCeyurupa ca nimreqerannimreqeran#} (ed. {%Röer%}
 p. 232); or {#AtmAnamantata upasftya stuvIta kAmaM DyAyannapramatto#}
