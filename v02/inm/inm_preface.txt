@@ -192,7 +192,7 @@ reserved for the corresponding aspirate; {%j%} is the palatal media, and {%y%} t
 vowel. The palatal and cerebral {%s%}-sounds have been transliterated {%ś%} and {%ṣ%} respectively.
 <P>The only exception from the strict adherence to the arrangement in accordance with the
 Latin alphabet is that the letters {%ś%} and {%ṛ%} have been treated as separate letters and placed after
-{%c%} and {%r%} respectively. This has been done because these sounds are often transliterated as {%ś%} and {%ṛi%}
+{%c%} and {%r%} respectively. This has been done because these sounds are often transliterated as {%ś%} and {%ṛ%}
 respectively.
 <P>IN THE CONCORDANCE it will be noticed that the mutual relationship between the two
 divisions in paragraphs and chapters has been indicated in various ways. My principal aim has

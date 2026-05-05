@@ -23232,7 +23232,7 @@ Sanskrit {%Sādhanika;%} cf. {%Kari-turaga-paṭṭasāhaṇi%} (EI 5).
 <L>4291<pc>246<k1>pawwAvalI<k2>paww-AvalI
 {%paṭṭ-āvalī%}¦ (IA 19; SITI; BL), a list of Jain pontiffs; suc-
 cession list of spiritual heads among the Jains; cf. ‘{%paṭṭ-āvalī%}
-of the Bṛihat-Kharatara {%gaccha%} [of the Jains].’
+of the Bṛhat-Kharatara {%gaccha%} [of the Jains].’
 <LEND>
 
 <L>4292<pc>246<k1>pawwavArika<k2>pawwavArika
@@ -29790,7 +29790,7 @@ been (1/16) of the standard coin in weight or value; cf. {%paṇa.%}
 <LEND>
 
 <L>5545<pc>315<k1>sodraNgIkftya<k2>sodraNgIkftya
-{%sodraṅgīkṛtya%}¦ (IE 8-3), same as {%udraṅgīkṛitya;%} used in res-
+{%sodraṅgīkṛtya%}¦ (IE 8-3), same as {%udraṅgīkṛtya;%} used in res-
 pect of a gift land.
 <LEND>
 
@@ -42708,7 +42708,7 @@ na karaṇīyau 255
 <HI>anudhyāya 24
 <HI>anudhyeya 24
 <HI>anudivasam 24
-<HI>anudṛiś 24
+<HI>anudṛś 24
 <HI>anuga-jīvita 24, 169
 <HI>aṇuga-jīvita 24, 59
 <HI>anugāminī 397
@@ -46454,7 +46454,7 @@ hikṛta 158
 <HI>kṛt-opasanna 163, 352
 <HI>kṛttidāra 163
 <HI>Kṛtyakalpataru 97, 162
-<HI>krūra-dṛiś 163
+<HI>krūra-dṛś 163
 [Page488-b+ 47]
 <HI>kṣaṇa 164
 <HI>kṣānti 163
@@ -48407,7 +48407,7 @@ daṇḍa-khaṇḍane 232
 <HI>paraganā 235
 <HI>Paragaṇḍabhairava 110
 <HI>pāṟai-kkāṇam 420
-<HI>paṟai-ttaṛi 420
+<HI>paṟai-ttaṛ 420
 <HI>pāṟaiy-iṟai 420
 <HI>Parakesari-kāl 235
 <HI>Parakesari-kkal 235
@@ -49825,7 +49825,7 @@ kara-sarvādāya-sameta 399
 <HI>sakala-deś-āvṛtika 41
 <HI>śākambharī-vidyā 286
 <HI>Śakānikā 286
-<HI>Śaka-nṛipa-kālātīta-saṃvat-
+<HI>Śaka-nṛpa-kālātīta-saṃvat-
 sara 36
 <HI>śāka-paṇikā 286
 <HI>śāka-paṇikā-nyāya 286
