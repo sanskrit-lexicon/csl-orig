@@ -20122,8 +20122,8 @@ nabhastala n.
 <div n="1"/>2 <lang n="russian">изгибаться, склоняться перед кем, отдавать честь</lang>
 <div n="1"/>3 <lang n="english">to bend, bend down before, make obeisance to</lang>
 <LEND>
-<L>3468<pc>147<k1>samnam<k2>samnam
- +sam (samnam) 
+<L>3468<pc>147<k1>saMnam<k2>saMnam
+ +sam (saṃnam) 
 <div n="1"/>1 <lang n="czech">kloniti (se), podrobiti (se), upravovati, zařizovati</lang>
 <div n="1"/>2 <lang n="russian">склонять (ся), подчинять (ся), приводить в порядок, устраивать</lang>
 <div n="1"/>3 <lang n="english">to bend down, submit to, make ready, arrange</lang>
