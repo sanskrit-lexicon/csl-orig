@@ -5524,8 +5524,8 @@ possessor.
 {%bhojana-catuḥśāla%}¦ (LL), Buddhist; a dining hall.
 <LEND>
 
-<L>983<pc>056<k1>BojanaAkzayaRI<k2>Bojana-AkzayaRI, Bojan-AkzayaRI
-{%bhojana-ākṣayaṇī, bhojan-ākṣayaṇī%}¦ (EI 32), a permanent
+<L>983<pc>056<k1>BojanaAkzayiRI<k2>Bojana-AkzayiRI, Bojan-AkzayiRI
+{%bhojana-ākṣayiṇī, bhojan-ākṣayiṇī%}¦ (EI 32), a permanent
 endowment created for the maintenance of the donee; cf.
 {%akṣayanīvī, grāmagrāsa,%} etc.
 <LEND>
@@ -17843,7 +17843,7 @@ trator. Cf. {%Sarvādhikṛta%} and {%Sarvādhikārin.%}
 
 <L>3282<pc>189<k1>mahAsatI<k2>mahA-satI
 {%mahā-satī%}¦ (EI 31), spelt {%mā-sati%} in Tamil, etc.; a lady who
-has committeed {%satī;%} cf. {%satī.%}
+has committed {%satī;%} cf. {%satī.%}
 <div n="P">{%Cf. mā-sati-kal,%} a stone raised in memory of a {%satī%} ({%Journ.%}
 {%Mad. Univ.,%} Vol. XXXII, p. 136).
 <LEND>

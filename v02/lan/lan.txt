@@ -1671,7 +1671,7 @@ solstice to the other), {%<ab>i. e.</ab>%} half-year. [{@√i,@}
 {@áyas,@}¦ {%<ab>n.</ab>%} metal; iron. [<ab>cf.</ab> Old <ab>Lat.</ab> {%ais,%}
 <ab>gen.</ab> {%ais-is,%} <ab>Lat.</ab> {%aes,%} ‘metal, bronze’; <ab>AS.</ab>
 {%ār,%} ‘bronze,’ <ab>Eng.</ab> {%ore;%} perhaps <ab>AS.</ab> {%īsern,%}
-{%īren,%} <ab>Eng.</ab> {%iron,%} ‘ferrum, ferreus.’]
+{%īren,%} <ab>Eng.</ab> {%iron,%} ‘ferrum, ferreous.’]
 <LEND>
 <L>375<pc>120-a<k1>ayasmaya<k2>ayasma/ya
 {@ayasmáya,@}¦ {%<ab>a.</ab>%} iron. [see {@maya.@}]
@@ -6342,7 +6342,7 @@ his harsh bray), <ls n="lan,67,19">67<sup>19</sup></ls>.
 {@khála,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} threshing-floor; <div n="2"/>{@—2.@} a
 mean, low-lived fellow. [the tertium
 [Page148-a+ 50]
-comparationis for 1 and 2 is perhaps
+comparations for 1 and 2 is perhaps
 ‘dirt.’]
 <LEND>
 <L>1309<pc>148-a<k1>Kalu<k2>Ka/lu
