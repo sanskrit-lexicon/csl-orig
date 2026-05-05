@@ -1,8 +1,56 @@
 # CSL-Orig
 
-Source data repository for the [Cologne Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) project. Contains digitized entries for 40+ Sanskrit dictionaries, including Monier-Williams (MW), Apte (AP), Böhtlingk (PW/PWG), Grassmann (GRA), and many others.
+Source data repository for the [Cologne Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) project. Contains digitized entries for 43 Sanskrit dictionaries (see list below).
 
 This repository holds the **raw source data only**. Downstream repositories use it to generate SQLite databases, web interfaces, and StarDict/Babylon files for end users.
+
+## Dictionaries
+
+| Code | Title |
+|------|-------|
+| ABCH | Abhidhānacintāmaṇi |
+| ACC | Aufrecht's Catalogus Catalogorum |
+| ACPH | Abhidhānacintāmaṇipariśiṣṭa |
+| ACSJ | Abhidhānacintāmaṇiśiloñcha |
+| AE | Apte's Student's English-Sanskrit Dictionary |
+| AP | Apte's Practical Sanskrit-English Dictionary (1957, revised) |
+| AP90 | Apte's Practical Sanskrit-English Dictionary (1890) |
+| ARMH | Abhidhānaratnamālā (Halāyudha) |
+| BEN | Benfey's Sanskrit-English Dictionary |
+| BHS | Edgerton's Buddhist Hybrid Sanskrit Dictionary |
+| BOP | Bopp's Glossarium Sanscritum |
+| BOR | Borooah's English-Sanskrit Dictionary |
+| BUR | Burnouf's Dictionnaire Classique Sanskrit-Français |
+| CAE | Cappeller's Sanskrit-English Dictionary |
+| CCS | Cappeller's Sanskrit-Wörterbuch |
+| FRI | Multilingual Sanskrit dictionary (Czech, Russian, English) |
+| GRA | Grassmann's Wörterbuch zum Rig-Veda |
+| GST | Goldstücker's Dictionary, Sanskrit and English |
+| IEG | Sircar's Indian Epigraphical Glossary |
+| INM | Sörensen's Index to the Names in the Mahābhārata |
+| KRM | Ramasubba Sastri's Kṛdantarūpamālā |
+| LAN | Lanman's Sanskrit Reader |
+| LRV | Vaidya Standard Sanskrit-English Dictionary |
+| MCI | Mehendale's Mahabharata Cultural Index |
+| MD | Macdonell's Sanskrit-English Dictionary |
+| MW | Monier-Williams' Sanskrit-English Dictionary (1899) |
+| MW72 | Monier-Williams' Sanskrit-English Dictionary (1872) |
+| MWE | Monier-Williams' English-Sanskrit Dictionary |
+| PE | Vettam Mani's Purāṇic Encyclopedia |
+| PGN | Sharma's Personal and Geographical Names in the Gupta Inscriptions |
+| PUI | Dikshitar's Purāṇa Index |
+| PW | Böhtlingk's Sanskrit-Wörterbuch in kürzerer Fassung |
+| PWG | Böhtlingk and Roth's Sanskrit Wörterbuch |
+| PWKVN | Böhtlingk's Sanskrit-Wörterbuch, Nachträge und Verbesserungen |
+| SCH | Schmidt's Nachträge zum Sanskrit-Wörterbuch |
+| SHS | Vidyāsāgara's Śabda-sāgara |
+| SKD | Rādhākāntadeva's Śabdakalpadruma |
+| SNP | Meulenbeld's Sanskrit Names of Plants |
+| STC | Stchoupak's Dictionnaire Sanskrit-Français |
+| VCP | Tāranātha Tarkavācaspati's Vācaspatya |
+| VEI | Macdonell and Keith's Vedic Index of Names and Subjects |
+| WIL | Wilson's Dictionary in Sanscrit and English |
+| YAT | Yates's Dictionary in Sanscrit and English |
 
 ## Repository Layout
 
