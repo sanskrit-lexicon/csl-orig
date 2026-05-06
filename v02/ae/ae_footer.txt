@@ -1,0 +1,226 @@
+[Page502]
+
+;
+; ABBREVIATIONS
+;
+<H>{@ABBREVIATIONS.@}
+
+<H1>{@A.@}
+
+<H2>{@Of Grammatical Terms &c.@}
+
+<C1>A <C2>Atmanepada.
+
+<C1>{%a.%} <C2>Adjective.
+
+<C1>abl. <C2>Ablative.
+
+<C1>acc <C2>Accusative.
+
+<C1>{%adv.%} <C2>Adverb.
+
+<C1>Arith. <C2>Arithmetic.
+
+<C1>Bah. <C2>Bahuvrihi.
+
+<C1>c. <C2>Causal.
+
+<C1>circum. <C2>Circumlocution.
+
+<C1>comp. <C2>Compound.
+
+<C1>{%conj.%} <C2>Conjunction.
+
+<C1>D. <C2>Denominative.
+
+<C1>dat. <C2>Dative.
+
+<C1>deriv. <C2>Derivative.
+
+<C1>desid. <C2>Desiderative.
+
+<C1>ex. <C2>Expressed.
+
+<C1>{%f.%} <C2>Feminine.
+
+<C1>fig. <C2>Figurative.
+
+<C1>freq. <C2>Erequentative.
+
+<C1>gen. <C2>Genitive, Gener-
+-ally (when fol-
+-lowed by ex.)
+
+<C1>gen. abs. <C2>Genitive abso-
+-lute.
+
+<C1>{%ind.%} <C2>Indeclinable.
+
+<C1>inf. <C2>Infinitive.
+
+<C1>instr. <C2>Instrumental.
+
+<C1>{%interj.%} <C2>Interjection.
+
+<C1>lit. <C2>Literal, literally
+
+<C1>loc. <C2>Locative.
+
+<C1>loc. abs. <C2>Locative’ abso-
+-lute.
+
+<C1>{%m.%} <C2>Masculine.
+
+<C1>Math. <C2>Mathematics.
+
+<C1>{%n.%} <C2>Neuter.
+
+<C1>nom. <C2>Nominative.
+
+<C1>P. <C2>Parasmaipada.
+
+<C1>Part. <C2>Participle.
+
+<C1>pass. <C2>Passive.
+
+<C1>pot. <C2>Potential.
+
+<C1>pot. pass. <C2>Potential pas-
+-part. sive participle.
+
+<C1>pl. <C2>Plural.
+
+<C1>pr. <C2>Prefixed
+
+<C1>{%prep.%} <C2>Preposition.
+
+<C1>{%pron.%} <C2>Pronoun.
+
+<C1>{%pron. a.%} <C2>Pronominal ad-
+-jective.
+
+<C1>q. v. <C2>Quod vide,
+which see.
+
+<C1>{%s.%} <C2>Substantive.
+
+<C1>sim. comp. <C2>Similar com-
+-pound.
+
+<C1>Tat. <C2>Tatpurusha.
+
+<C1>U. <C2>Ubhayapada
+(Parasmai-
+-pada and At-
+-manepada).
+
+<C1>{%v.%} <C2>Verb (transi-
+-tive and in-
+-transitive).
+
+<C1>{%v. i.%} <C2>Verb intrausi-
+-tive.
+
+<C1>voc. <C2>Vocative.
+
+<C1>{%v. t.%} <C2>Verb transitive.
+
+<H>{@B.@}
+
+<H1>{@Of the Names of Works.@}
+
+<P>{%N. B%} --where a Roman figure is followed by an Arabic figure, the former
+refers to the canto or chapter, and the latter, to the number of the verse;
+Arabic figures in the case of dramas &c. refer to the act or page.
+
+<C1>Bh. <C2>Bhartrihari, II de-
+-nothing Nitisha-
+-taka and III Vai-
+-ragyashataka.
+(Bombay Edi-
+-tion.)
+
+<C1>{@D. K.@} <C2>Dashakumarachari-
+-ta, I denothing the
+Purvapithika,
+and II the Ut-
+-tarapithika, and
+the Arabic figure,
+the number of the
+story.
+
+<C1>{@H.@} <C2>Hitopadesha, the
+Arabic figures de-
+-noting the four
+parts in their
+order.
+
+<C1>{@K@} <C2>Kumarasambhava.
+
+<C1>Ka. <C2>Kadambari (Bom-
+-bay Edition)
+
+<C1>Kav. <C2>Kavyadarsha.
+
+<C1>Ki. <C2>Kiratarjuniyam.
+
+<C1>Li. <C2>Lilavati.
+
+<C1>M. <C2>Malavikagnimitra
+(Bombay Edi-
+-tion.)
+
+<C1>Mal. <C2>Malatimadhava
+(Bombay edition)
+
+<C1>Man. <C2>Mahabharata.
+
+<C1>Me. <C2>Meghaduta (Cal-
+-cutta Edition.)
+
+<C1>Mn. <C2>Mallinath.
+
+<C1>Mr. <C2>Mricchakatika.
+
+<C1>Mu. <C2>Mudrarakshasa.
+
+<C1>N. <C2>Naishadha.
+
+<C1>P. <C2>Panchatantra, the
+Roman figure de-
+-noting the num-
+ber of the Tantra
+and the Arabic,
+the number of the
+story (Bombay
+Edition.)
+
+<C1>R. <C2>Raghuvamsha.
+
+<C1>Rat. <C2>Ratnavali.
+
+<C1>S. <C2>Shakuntala.
+
+<C1>S. B. <C2>Shankar Bhashya.
+
+<C1>Si. <C2>Sisupalavadha.
+
+<C1>S. K. <C2>Siddhanta Kau-
+-mudi.
+
+<C1>S. R. <C2>Subhashitaratna-
+-bhandagaram.
+
+<C1>U. <C2>Uttararamacharita
+
+<C1>V. <C2>Vikramorvashiyam
+
+<C1>V. M. <C2>Vyavabara Mayu-
+-kha (Mr. Mand-
+-lik's edition.)
+
+<C1>Ve. <C2>Venisamhara.
+
+<C1>Vi. <C2>Viracharita.
+
+<C1>Y. <C2>Yajnavalkya.
