@@ -449,7 +449,7 @@ from one's coronation’. See {%Ep. Ind.,%} Vol. XXXIII, pp. 333 ff.
 
 <L>29<pc>002<k1>aBIzwadevatA<k2>aBIzwa-devatA
 {%abhīṣṭa-devatā%}¦ (IA 18), same as {%iṣṭa-devatā;%} the favourite
-deity; the tutelary deity.
+deity; the {{tulelary->tutelary||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} deity.
 <LEND>
 
 <L>30<pc>002<k1>aBisTAna<k2>aBisTAna
@@ -893,7 +893,7 @@ ing royal orders.
 <LEND>
 
 <L>108<pc>007<k1>ADipatra<k2>ADi-patra
-{%ādhi-patra%}¦ (LP), a mortgage bond.
+{%ādhi-patra%}¦ (LP), {{amortgage->a mortgage||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} bond.
 <LEND>
 
 <L>109<pc>007<k1>aDirAja<k2>aDirAja
@@ -1746,7 +1746,7 @@ Cf. {%āyatana, bhavana, pura,%} etc.
 {%alīpaka,%}¦ also read as {%alīyaka%} (EI 32), a fiscal expression of
 uncertain import; see {%nidhān-ālīpaka.%} The word {%alipaka%} means
 ‘a bee’. Thus {%ālipaka%} may refer to the right over wax, bee-hives,
-and honey. {%Alīyaka,%} from {%ali,%} ‘a bee’, would mean the same thing.
+and honey. {%Alīyaka,%} from {%ali,%} ‘a bee’, would mean the {{samething->same thing||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <LEND>
 
 <L>271<pc>016<k1>aliya<k2>aliya
@@ -2228,7 +2228,7 @@ sometimes regarded as a form of Persian {%anjuman.%}
 <LEND>
 
 <L>361<pc>021<k1>aNka<k2>aNka
-{%aṅka%}¦ (IA 19), a name, appellation or {%biruda.%}
+{%aṅka%}¦ (IA 19), a name, {{appelation->appellation||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} or {%biruda.%}
 <div n="P">({%IE%} 7-1-12; CII 4), ‘nine’.
 <div n="P">{%Cf. aṅke, aṅkena, aṅkataḥ%} (IA 15), ‘in figures’.
 <div n="P">{%Cf. aṅka,%} abbreviation of Telugu-Kannaḍa {%aṅkakā%}ṟ{%a;%} same
@@ -3267,7 +3267,7 @@ XXX, p. 115.
 
 <L>564<pc>032<k1>azwAdaSaprakfti<k2>azwAdaSa-prakfti
 {%aṣṭādaśa-prakṛti,%}¦ cf. {%s-āṣtādaśa-prakṛty = opeta%} (EI 2);
-all classes of tenants; tenants belonging to all communities.
+all classes of tenants; tenants belonging to all {{cummunities->communities||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <div n="P">({%IA%} 17), ‘the eighteen (i. e. all) officials (i. e. classes of
 officials)’.
 <LEND>
@@ -4769,7 +4769,7 @@ king's grain share. Cf. {%Bhāgahāra.%}
 
 <L>843<pc>048<k1>BAgahAra<k2>BAgahAra
 {%Bhāgahāra%}¦ (HD), ‘he who recovers the [king's] share
-[of the produce of land]’; one of the six officers of each
+[of the {{procuce->produce||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of land]’; one of the six officers of each
 village, according to Śukra, II. 120. Cf. {%Bhāgahara.%}
 <LEND>
 
@@ -4929,7 +4929,7 @@ medieval Jain inscriptions). See {%Bhīṇḍārin,%} etc.
 [Page-050+ 40]
 
 <L>875<pc>050<k1>BARqaBftavahitra<k2>BARqa-Bfta-vahitra
-{%bhāṇḍa-bhṛta-vahitra%}¦ (IE 8-8), ‘a wagon full of pots or jars’.
+{%bhāṇḍa-bhṛta-vahitra%}¦ (IE 8-8), ‘a {{wagonfull->wagonful||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}l of pots or jars’.
 <LEND>
 
 <L>876<pc>050<k1>BARqADyakza<k2>BARq-ADyakza
@@ -5455,7 +5455,7 @@ their services.
 
 <L>970<pc>055<k1>BogikapAla<k2>BogikapAla, BogikapAlaka
 {%Bhogikapāla, Bhogikapālaka%}¦ (EI 5; CII 4; BL), superin-
-tendent of the {%jāgīrs%} and cess collector; cf. {%Bhogapati.%}
+tendent of the {%jāgīrs%} and {{cesscollector->cess collector||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}; cf. {%Bhogapati.%}
 <LEND>
 
 <L>971<pc>055<k1>Bogin<k2>Bogin
@@ -5525,7 +5525,7 @@ possessor.
 <LEND>
 
 <L>983<pc>056<k1>BojanaAkzayiRI<k2>Bojana-AkzayiRI, Bojan-AkzayiRI
-{%bhojana-ākṣayiṇī, bhojan-ākṣayiṇī%}¦ (EI 32), a permanent
+{%{{bhojana-ākṣayanī, bhojan-ākṣayaṇī->bhojana-ākṣayiṇī, bhojan-ākṣayiṇī||20160315|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252|? Bojana+akzayiRI.  Note change 'ya' to 'yi'}}%}¦ (EI 32), a permanent
 endowment created for the maintenance of the donee; cf.
 {%akṣayanīvī, grāmagrāsa,%} etc.
 <LEND>
@@ -5671,7 +5671,7 @@ probably, ‘an ornament of the world’.
 {%bhūmi, bhūmī%}¦ (EI 3; CII 3), a particular land measure;
 sometimes also called {%bhū%} and regarded as equal to four {%bhū-%}
 {%māṣakas%} (cf. {%bhū%}).
-<div n="P">({%CII%} 4), a territorial division.
+<div n="P">({%CII%} 4), a territorial {{divison->division||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <div n="P">({%EI%} 7-1-2), ‘one’.
 <LEND>
 
@@ -5863,7 +5863,7 @@ repaired it.’
 <LEND>
 
 <L>1044<pc>060<k1>boDi<k2>boDi
-{%bodhi%}¦ (LL), Buddhist; supreme knowledge attained by
+{%bodhi%}¦ (LL), Buddhist; supreme {{knowledege->knowledge||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} attained by
 the Buddha; the tree of enlightenment; cf. {%mahābodhi, saṃbodhi.%}
 <LEND>
 
@@ -5911,7 +5911,7 @@ names; meaning uncertain.
 <L>1054<pc>060<k1>brahmacArin<k2>brahmacArin
 {%brahmacārin%}¦ (SII 2; LL), a Brāhmaṇa student; an
 unmarried student of the Vedas.
-<div n="P">({%BL%}), epithet of one who takes a vow of celibacy.
+<div n="P">({%BL%}), epithet of one who takes a vow of {{celebacy->celibacy||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <div n="P">({%SII%} 2), a temple servant.
 <LEND>
 
@@ -5963,7 +5963,7 @@ mixed. See {%Vishveshvaranand Ind. Journ.,%} Vol. I, pp. 87 ff., etc.
 In one record ({%Journ. Karnatak Univ.,%} Vol. II, No 2, January
 1959, p. 47), the Nāgavaṃśa, to which a Kadamba king's
 minister Māyideva belonged, is called {%Brahma-kṣatra%} because it
-originated from the intercourse of its progenitor Nāgarāja with
+originated from the {{intercouse->intercourse||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of its progenitor Nāgarāja with
 a Brāhmaṇa girl. {%Brahma-vaiśya%} should be likewise explained.
 <LEND>
 
@@ -6374,7 +6374,7 @@ p. 307 and note 1.
 {%Calamartigaṇḍa%}¦ (CITD), Telugu-Kannaḍa; a title of the
 Kākatīya kings; from Kannaḍa {%gaṇḍa%} meaning ‘the husband,
 lord, master,’ i. e. ‘one who can control or punish’, and Telugu
-{%calam%} meaning ‘obstinacy, rudeness, overbearing’; translated
+{%calam%} meaning ‘obstinacy, rudeness, overbearing’; {{transalated->translated||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 as ‘one who is the controller or punisher of spiteful men or
 men of overbearing conduct’.
 <LEND>
@@ -6386,7 +6386,7 @@ men of overbearing conduct’.
 <L>1143<pc>065<k1>calivaMdIli<k2>calivaMdIli, caliveMdala, caliveMdra, calipaMdili
 {%calivaṃdīli, caliveṃdala, caliveṃdra, calipaṃdili%}¦ (CITD),
 Telugu-Kannaḍa; halting place for travellers, where they are
-supplied gratis with milk and whey or with water.
+supplied gratis with milk and {{whoey->whey||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} or with water.
 <LEND>
 [Page-066+ 40]
 
@@ -6775,7 +6775,7 @@ images on all the sides.
 
 <L>1211<pc>070<k1>caturTa<k2>caturTa
 {%caturtha%}¦ (IE 8-8), one-fourth of the standard measure [of
-liquids like liquor].
+liquids like {{liqour->liquor||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}].
 <LEND>
 
 <L>1212<pc>070<k1>caturTakula<k2>caturTa-kula
@@ -6874,7 +6874,7 @@ or in the centre of representations of the {%samavasaraṇa%} (q. v.).
 <L>1230<pc>071<k1>cOrAsI<k2>cOrAsI
 {%caurāsī%}¦ (IE 8-4; EI 3, 4), literally, ‘eightyfour’; same as
 {%caturaśīti%} (q. v.); a group of eightyfour villages; a Parganā
-consisting of eightyfour villages; sometimes the name of a
+consisting of eightyfour villages; {{simetimes->sometimes||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} the name of a
 Parganā and often suffixed to its name.
 <LEND>
 
@@ -7034,7 +7034,7 @@ or the leader of a group of {%Bhaṭas%} ({%Pāiks%} or {%Piādas%}) as in {%a-c
 <div n="P">({%CII%} 3), used in composition with {%bhaṭa%} and also singly;
 literally, ‘an umbrella-bearer’; but actually, a constable like
 a {%Pāik%} or {%Piāda.%}
-<div n="P">({%SITI%}), celibate ({%Brahmacārin%}) in charge of a temple
+<div n="P">({%SITI%}), {{celebate->celibate||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} ({%Brahmacārin%}) in charge of a temple
 and the {%śālai%} attached to it; also called {%Śaṭṭar, Śāttirar.%}
 <LEND>
 
@@ -7281,7 +7281,7 @@ cf. {%cora-varja;%} also {%Cāṭa.%}
 {%cora-daṇḍa-varjya%}¦ (CII 3), a fiscal term which means either
 that no fines for theft should be collected from the gift village
 or, more probably, that the donee was not entitled to fines
-realisable on thieves in the gift villages. But see also {%caura-varjam.%}
+realisable on {{theives->thieves||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} in the gift villages. But see also {%caura-varjam.%}
 <LEND>
 
 <L>1308<pc>075<k1>coradrohakavarja<k2>cora-drohaka-varja
@@ -8230,7 +8230,7 @@ of the Roman gold coin usually called {%aureus;%} cf. {%dīnāra.%}
 {%deśa%}¦ (IE 8-4; CII 3, 4), a territorial term meaning a
 small area or a group of villages in some cases but a kingdom,
 district, tract or country in others.
-<div n="P">({%IE%} 8-4), a country of which there were seventy two in
+<div n="P">({%IE%} 8-4), a country of which there were {{seventytwo->seventy two||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} in
 Bhārata or Bhāratavarṣa.
 <div n="P">({%CII%} 1), a part of anything.
 <div n="P">({%EI%} 24), a synonym of {%āspada.%}
@@ -8679,7 +8679,7 @@ as {%dhānya-hiraṇy-ādeya.%}
 <LEND>
 
 <L>1562<pc>091<k1>DAnyamAza<k2>DAnya-mAza
-{%dhānya-māṣa,%}¦ weight equal to 1 {%yava%} or 2 {%taṇdulas%} ({%JNSI,%}
+{%dhānya-māṣa,%}¦ weight {{eaual->equal||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} to 1 {%yava%} or 2 {%taṇdulas%} ({%JNSI,%}
 Vol. XVI, p. 48).
 <LEND>
 
@@ -9314,7 +9314,7 @@ lights; cf. {%dīp-otsava.%}
 <LEND>
 
 <L>1678<pc>098<k1>dIpotsava<k2>dIp-otsava
-{%dīp-otsava%}¦ (EI 11, 32), same as {%dīpāvalī,%} the festival of
+{%dīp-otsava%}¦ (EI 11, 32), same as {%dīpāvalī,%} the {{fesival->festival||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of
 lights.
 <LEND>
 
@@ -9696,7 +9696,7 @@ to the king or landlord on occasions and to the touring officers.
 
 <L>1745<pc>102<k1>duHsADasADanika<k2>duHsADa-sADanika
 {%Duḥsādha-sādhanika%}¦ (IE 8-3; HD), the leader of police-
-men engaged in apprehending robbers, etc., or of expeditionary
+men engaged in apprehending robbers, etc., or of {{expeditionery->expeditionary||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 forces requisitioned on occasions of emergency; cf. {%Sādhanika,%}
 {%Duṣṭa-sādhaka, Dauḥsādhanika, Dussādhya-sādhaka,%} etc.
 <LEND>
@@ -10063,7 +10063,7 @@ land granted for such an arrangement.
 <LEND>
 
 <L>1813<pc>106<k1>ekAdaSaSata<k2>ekAdaSa-Sata
-{%ekādaśa-śata%}¦ (ML), same as {%ekādaś-ottara-śata,%} one hundred
+{%ekādaśa-śata%}¦ (ML), same as {%ekādaś-ottara-śata,%} one {{hudred->hundred||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 and eleven.
 <LEND>
 
@@ -10097,7 +10097,7 @@ especially the Vaiṣṇava devotee in charge of temples.
 
 <L>1820<pc>106<k1>ekapAtra<k2>ekapAtra
 {%Ekapātra%}¦ (EI 27), probably, {%Yāvadeka-pātra%} (q. v.); official
-designation; cf. {%Pātra%} and {%Mahāpātra.%}
+{{designion->designation||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}; cf. {%Pātra%} and {%Mahāpātra.%}
 <LEND>
 [Page-107+ 38]
 
@@ -10582,7 +10582,7 @@ ment department.’
 {%Gaṇin%}¦ (SII 2), an astrologer.
 [Page-112+ 40]
 <div n="P">({%EI%} 3), head of a school.
-<div n="P">({%IA%} 19; LL), Jain; a Jain ecclesiastic; an {%ācārya%} who has
+<div n="P">({%IA%} 19; LL), Jain; a Jain {{eclesiastic->ecclesiastic||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}; an {%ācārya%} who has
 disciples but has not risen to be the head of his {%gaccha%} or {%śākhā.%}
 <LEND>
 
@@ -10734,7 +10734,7 @@ of her bridegroom’. See {%JNSI,%} Vol. XVI, pp. 264 ff.
 <LEND>
 
 <L>1942<pc>113<k1>gOtamIputra<k2>gOtamI-putra
-{%Gautamī-putra%}¦ (IE 2-8), metronymic meaning ‘the son of
+{%Gautamī-putra%}¦ (IE 2-8), {{metronynic meaning->metronymic meaning||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} ‘the son of
 a lady born in a family belonging to the Gautama {%gotra%}’. Such
 metronymics refer to the absence of {%gotr-āntara%} (i. e. the change
 of the bride's paternal {%gotra%} to that of her husband at the time
@@ -10901,7 +10901,7 @@ Prakrit {%ghaḍia-ghaḍā%} (EI 8), same as {%goṣṭhī.%}
 <LEND>
 
 <L>1975<pc>115<k1>GawikAgfhakaraRa<k2>GawikAgfha-karaRa
-{%ghaṭikāgṛha-karaṇa,%}¦ cf. {%karaṇa%} (LP); the department of
+{%ghaṭikāgṛha-karaṇa,%}¦ cf. {%karaṇa%} (LP); the {{deparment->department||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of
 time-keeping. Cf. {%ghaḍiyāramu.%}
 <LEND>
 
@@ -11736,7 +11736,7 @@ prietors to cultivators; see {%guṇa-patra.%}
 <LEND>
 
 <L>2133<pc>124<k1>guRapatra<k2>guRa-patra
-{%guṇa-patra%}¦ (LP), a lease of land granted by proprietors
+{%guṇa-patra%}¦ (LP), a lease of land granted by {{propriteors->proprietors||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 to tenants or cultivators for the purpose of cultivating or im-
 proving it; cf. {%Pañcāladeśīya-kulānāṃ guṇa-patra-vidhiḥ,%} ‘an order
 of royal favour concerning the farmers of the Pañcāla country’;
@@ -12844,7 +12844,7 @@ the night, distribution of images, etc.) take place.
 <L>2356<pc>134<k1>jayapatra<k2>jaya-patra, jayareKa-patra
 {%jaya-patra, jayarekha-patra%}¦ (SITI), a certificate of victory
 in a dispute; a copy of the judgement. See {%jayarekha-patrikā.%}
-<div n="P">({%EI%} 5), a certificate of success.
+<div n="P">({%EI%} 5), a {{cetificate of success->certificate of success||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <LEND>
 
 <L>2357<pc>134<k1>jayareKapatrikA<k2>jayareKa-patrikA
@@ -13733,7 +13733,7 @@ also (1/8) or (1/34) part; a visit; a present or gift. See
 <LEND>
 
 <L>2532<pc>143<k1>kaRikkA<k2>kaRikkA
-{%kaṇikkā%}¦ (IE 8-8), same as Sanskrit {%kaṇikā,%} common
+{%kaṇikkā%}¦ (IE 8-8), same as Sanskrit {%kaṇikā,%} {{commin->common||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 seed.
 <LEND>
 
@@ -13873,7 +13873,7 @@ general.
 side by side with {%hiraṇya.%}
 <div n="P">({%HRS%}), tax in general, according to the lexicons; accord-
 ing to the {%Arthaśāstra,%} (1) periodical tax over and above the
-king's customary grain-share; (2) emergency tax levied upon
+king's customary grain-share; (2) {{emergecy->emergency||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} tax levied upon
 the villagers over and above the normal grain-share; (3)
 tax upon merchants' profits.
 <div n="P">({%EI%} 29; Chamba; CITD), a tax or impost; royal revenue;
@@ -14279,7 +14279,7 @@ as {%kāru-deya.%}
 
 <L>2628<pc>149<k1>kArukara<k2>kArukara
 {%kārukara%}¦ (HRS), traced by some in the Prakrit passage
-{%sa-karukara%} in a Śātavāhana record and identified with
+{%sa-karukara%} in a Śātavāhana record and {{indentified->identified||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} with
 [Page-150+ 40]
 {%udraṅga%} and {%uparikara;%} but may be Sanskrit {%kar-otkara,%} i. e.
 {%kara%} and {%utkara%} (probably the same as {%upakara%} or {%uparikara%}),
@@ -14646,7 +14646,7 @@ spelt {%Khaḍgarakṣa.%}
 <LEND>
 
 <L>2697<pc>153<k1>KAdyawapAkika<k2>KAdyawapAkika
-{%Khādyaṭapākika%}¦ (IE 8-3), probably a mistake for
+{%Khādyaṭapākika%}¦ (IE 8-3), {{propbably->probably||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} a mistake for
 {%Khādyakūṭa-pākika%} (cf. {%anna-kūṭa,%} ‘a heap of food’); same
 as {%Mahānas-ādhyakṣa;%} called {%Sandhivigrahika, Kumārāmātya, Mahā-%}
 {%daṇḍanāyaka,%} etc., additionally. See {%Bhānasa-vĕrgaḍĕ, Mahānas-%}
@@ -14953,7 +14953,7 @@ top; a Śaiva emblem.
 <LEND>
 
 <L>2752<pc>157<k1>Kila<k2>Kila
-{%khila%}¦ (EI 15; Chamba), uncultivated land; fallow land;
+{%khila%}¦ (EI 15; Chamba), {{unclutivated->uncultivated||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} land; fallow land;
 cf. {%sa-khila-nāla%} (IE 8-5).
 <LEND>
 
@@ -15575,7 +15575,7 @@ was called {%Kṣattṛ.%} This apparently refers to a tribe or community.
 <LEND>
 
 <L>2874<pc>163<k1>kzetrapa<k2>kzetrapa
-{%Kṣetrapa%}¦ (IE 8-3; HD), same as {%Kṣetrapāla;%} superintendent
+{%Kṣetrapa%}¦ (IE 8-3; HD), same as {%Kṣetrapāla;%} {{supreintendent->superintendent||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 of the king's {%Khās Mahāl.%} See {%Ind. Ant.,%} Vol. XV, p. 306.
 <LEND>
 
@@ -15871,7 +15871,7 @@ family.
 
 <L>2927<pc>166<k1>kumAravftti<k2>kumAra-vftti
 {%kumāra-vṛtti,%}¦ cf. Tamil {%piḻḻai-vari%} (SITI), tax for the upkeep
-of the order of {%Piḻḻais%} or {%Kumāras%} (princes). {%Kumāra-vṛtti%} occurs
+of the order of {%Piḻḻais%} or {%Kumāras%} (princes). {%Kumāra-vṛtti%} {{occury->occurs||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 in the inscriptions of the Western Cālukyas of Kalyāṇa.
 <LEND>
 [Page-167+ 40]
@@ -16355,7 +16355,7 @@ to the composition and engraving of it; see also {%lekhaka.%}
 
 <L>3023<pc>171<k1>liNga<k2>liNga
 {%liṅga%}¦ (BL; SII 1; CII 3, etc.), same as {%śiva-liṅga;%} the
-phallic emblem of Śiva; the emblem connected with the worship
+{{phallic emlem->phallic emblem||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of Śiva; the emblem connected with the worship
 of Śiva; generally named after the founder with the suffix
 {%īśvara.%}
 <LEND>
@@ -16713,7 +16713,7 @@ sena are {%Mahādaṇḍanāyaka, Mahāsāmanta, Mahāpratīhāra, Mahā-%}
 
 <L>3087<pc>175<k1>mahAdAnika<k2>mahAdAnika
 {%Mahādānika%}¦ (CII 4), head of the department of charity;
-officer in charge of donations; sometimes explained as ‘the officer
+officer in charge of donations; {{somtimes->sometimes||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} explained as ‘the officer
 superintending the performance of the {%mahādāna%} ceremonies’
 (HD). See {%Ep. Ind.,%} Vol. VII, p. 91. Cf. {%Dharmādhyakṣa.%}
 <LEND>
@@ -16907,7 +16907,7 @@ threshing floors.
 <LEND>
 
 <L>3123<pc>177<k1>mahAkowwapAla<k2>mahAkowwapAla
-{%Mahākoṭṭapāla%}¦ (CII 4), chief guardian of a fort or the
+{%Mahākoṭṭapāla%}¦ (CII 4), chief guardian of a {{frot or->fort or||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} the
 forts; cf. {%Koṭṭapāla.%}
 <LEND>
 [Page-178+ 40]
@@ -16920,7 +16920,7 @@ forts; cf. {%Koṭṭapāla.%}
 {%mahākṣa-ni%}¦ (IE 8-1), abbreviation of {%mahākṣapaṭalika-%}
 {%nirīkṣita,%} ‘examined by the {%Mahākṣapaṭalika%}’; {%ni%} may not be
 an abbreviation of {%nibaddha%} (registered) in this case since
-{%mahākṣa-ni%} is often used along with several other expressions
+{%mahākṣa-ni%} is often used along with {{serveral->several||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} other expressions
 of the kind. See {%ni.%}
 <LEND>
 
@@ -17089,7 +17089,7 @@ of Orissa.
 SITI; CITD), according to the lexicons, a sovereign ruler
 [Page-180+ 40]
 who is the lord of 40 {%yojanas%} of land and a lakh of villages; but,
-in inscriptions, generally, the governor of a district or pro-
+in {{insciriptions->inscriptions||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}, generally, the governor of a district or pro-
 vince; title of a feudatory ruler or governor (see {%Bomb. Gaz.,%}
 Vol. XXI, p. 354); see {%Maṇḍaleśvara%} essentially meaning ‘the
 ruler of a {%maṇḍala%} or district’; also called {%Mahāmaṇḍalika,%} etc.,
@@ -17532,7 +17532,7 @@ ruling queens of Orissa.
 <LEND>
 
 <L>3228<pc>185<k1>mahArAjakula<k2>mahArAjakula
-{%Mahārājakula%}¦ (IE 4; BL), official designation of a feuda-
+{%Mahārājakula%}¦ (IE 4; BL), {{officiald->official||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} {{esignation->designation||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of a feuda-
 tory; same as {%Mahārāval%} of the Rajasthan region; cf. {%Rājakula.%}
 <LEND>
 
@@ -17843,7 +17843,7 @@ trator. Cf. {%Sarvādhikṛta%} and {%Sarvādhikārin.%}
 
 <L>3282<pc>189<k1>mahAsatI<k2>mahA-satI
 {%mahā-satī%}¦ (EI 31), spelt {%mā-sati%} in Tamil, etc.; a lady who
-has committed {%satī;%} cf. {%satī.%}
+has {{committeed->committed||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} {%satī;%} cf. {%satī.%}
 <div n="P">{%Cf. mā-sati-kal,%} a stone raised in memory of a {%satī%} ({%Journ.%}
 {%Mad. Univ.,%} Vol. XXXII, p. 136).
 <LEND>
@@ -18827,7 +18827,7 @@ village road; tolls; tolls on the articles on transit. See {%mārgaka.%}
 <LEND>
 
 <L>3465<pc>199<k1>mArgaRa<k2>mArgaRa
-{%mārgaṇa%}¦ (EI 24), a beggar.
+{%mārgaṇa%}¦ (EI 24), a {{begger->beggar||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <LEND>
 
 <L>3466<pc>199<k1>mArgaRaka<k2>mArgaRaka
@@ -18882,7 +18882,7 @@ XVI, p. 48).
 <L>3476<pc>200<k1>ma<k2>ma
 {%ma%}¦ṟ{%uturu%} (IE 8-6; CITD); also called {%ma%}ṟ{%utu, mattaru,%}
 etc.; Telugu; Kannaḍa {%mattar%} or {%mattaru;%} a certain land measure
-of uncertain area generally used as an equivalent of {%nivartana,%}
+of uncertain area generally used as an {{equvalent->equivalent||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of {%nivartana,%}
 different kinds being mentioned as {%kāl-ma%}ṟ{%uturu, ghaḍa-ma%}ṟ{%uturu,%}
 {%kommu-ma%}ṟ{%utu,%} etc.
 <LEND>
@@ -19999,7 +19999,7 @@ merchant's son described as {%naṅge gṛhīta.%}
 <LEND>
 
 <L>3691<pc>211<k1>nARI<k2>nARI
-{%Nāṇī%}¦ (CII 4), an engraver; probably a corruption of
+{%Nāṇī%}¦ (CII 4), an engraver; probably a {{corrution->corruption||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of
 {%Vijñānin.%}
 <LEND>
 
@@ -20417,7 +20417,7 @@ right on beehives and honey (see {%alīpaka%}).
 a treasure-hoard; hidden treasure under the ground; one of the
 eight kinds of enjoyments allowed to the donees of rent-free land.
 Cf. {%nidhāna.%}
-<div n="P">({%CITD%}), a treasure; a repository; store; a place where
+<div n="P">({%CITD%}), a treasure; a {{reposistory->repository||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}; store; a place where
 anything is placed.
 <div n="P">{%Cf. nidhi-nikṣepa-jala-pāṣāṇ-ārām-ādi-catuṣ-prakāra-bīravaṇa-%}
 {%pārikh-āya-sahita%} ({%Ind. Ant.,%} Vol. XIX, p. 247; text lines 101-02),
@@ -20683,7 +20683,7 @@ division.
 <LEND>
 
 <L>3818<pc>219<k1>niryAmaka<k2>niryAmaka
-{%Niryāmaka%}¦ (LP), probably, an officer who allowed licensed
+{%Niryāmaka%}¦ (LP), probably, an officer who allowed {{licenced->licensed||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 articles to pass.
 <LEND>
 
@@ -20800,7 +20800,7 @@ cf. Gujarātī {%nev%} or {%nevāṃ.%}
 
 <L>3841<pc>220<k1>nivartana<k2>nivartana
 {%nivartana%}¦ (IE 8-6; EI 21, 26, 28; CII 4), an area of land,
-which was not the same in different ages and localities. See
+which was not the same in different ages and {{localties->localities||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}. See
 {%Ind. Ep.,%} pp. 409-10; also {%Matsya Purāṇa,%} 283. 14-15, represent-
 ing a {%gocarman%} as (2/3) of a {%nivartana%} (210×210 sq. cubits).
 <div n="P">({%CITD%}), same as {%ma%}ṟ{%uturu,%} the identification of the two
@@ -21277,7 +21277,7 @@ times leased to people.
 <LEND>
 
 <L>3931<pc>225<k1>pAdiSAh<k2>pAdiSAh
-{%Pādiśāh%}¦ (IA 20), Persian; spelt {%Pādisāha, Pātisāha,%} etc.,
+{%{{Pādishāh->Pādiśāh||20160121|Dhaval Patel|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/243|sh}}%}¦ (IA 20), Persian; spelt {%Pādisāha, Pātisāha,%} etc.,
 in Indian records; a [Muhammadan] emperor.
 <LEND>
 
@@ -22888,7 +22888,7 @@ modern {%Paṭel%} or {%Pāṭīl;%} cf. {%Veṭakila.%}
 <LEND>
 
 <L>4229<pc>242<k1>pAtAla<k2>pAtAla
-{%pātāla%}¦ (IE 7-1-2), sometimes used to indicate ‘seven’.
+{%pātāla%}¦ (IE 7-1-2), sometimes used to {{indicare->indicate||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} ‘seven’.
 <LEND>
 [Page-243+ 40]
 
@@ -23385,7 +23385,7 @@ Vol. III, pp. 112, 147.
 for 12 or 24 hours; the observance of fast on the eighth and
 fourteenth of the fortnight, the full-moon day and the day
 before the new moon and abstention from wicked acts, chastity,
-abandonment of bathing, etc., i. e. living temporarily like a monk.
+{{abandoment->abandonment||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of bathing, etc., i. e. living temporarily like a monk.
 See {%poṣadha.%}
 <LEND>
 
@@ -23866,7 +23866,7 @@ Jain inscriptions).
 <LEND>
 
 <L>4417<pc>253<k1>prabanDa<k2>prabanDa
-{%prabandha,%}¦ name of hymnal compositions in Tamil by
+{%prabandha,%}¦ name of {{hymnical->hymnal||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} compositions in Tamil by
 ancient Vaiṣṇava devotees. The contributions of hymns and
 prayers by the twelve {%ā%}l13{%vārs%} in praise of Viṣṇu make up the
 {%Nālāyiradivyaprabandham. Nālāyira%} (four thousand) indicates the
@@ -24643,7 +24643,7 @@ wrestling; cf. {%Pratiśūrika.%}
 
 <L>4565<pc>261<k1>pratiSUrika<k2>pratiSUrika
 {%Pratiśūrika%}¦ (IE 8-3), probably, the superintendent of
-gladiatorial combats; cf. {%Pratiśūraka.%}
+{{gladitorial->gladiatorial||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} combats; cf. {%Pratiśūraka.%}
 <LEND>
 
 <L>4566<pc>261<k1>pratiwippanaka<k2>pratiwippanaka
@@ -24864,7 +24864,7 @@ VIII, 278).
 <L>4608<pc>263<k1>prAveSya<k2>prAveSya
 {%prāveśya%}¦ (EI 31), also spelt {%praveśya;%} explained by some
 as a small territorial unit; sometimes translated as ‘situated in’
-(CII 4); but may refer to the revenue assessment of a village
+(CII 4); but may refer to the {{revenure->revenue||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} assessment of a village
 along with another; cf. {%Ardhaṭi-prāveśya-Lavaṅgasikāyām%} ({%Ep.%}
 {%Ind.,%} Vol. XV, p. 143); same as {%praveśa.%} Cf. {%Hastiśīrṣa-prāveśya-%}
 {%Tāpasapottake%} with {%Siviḍi-praveśa-Kandalivāḍa-grāma%} interpreted
@@ -28166,7 +28166,7 @@ ment’.
 <LEND>
 
 <L>5237<pc>298<k1>SaNKa<k2>SaNKa
-{%śaṅkha%}¦ (CII 3, etc.), conch-shell as an emblem on seals;
+{%śaṅkha%}¦ (CII 3, etc.), conch-shell as an {{mblem->emblem||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} on seals;
 cf. {%śaṅghu%} (ASLV), the use of which was sometimes granted
 by kings to their favourites as a privilege.
 <LEND>
@@ -28194,7 +28194,7 @@ worker on conch-shells.
 <L>5242<pc>298<k1>saNkramaRa<k2>saNkramaRa
 {%saṅkramaṇa%}¦ (CII 3; IA 17), also called {%saṅkrānti;%} the
 entrance of the sun into a sign of the zodiac; regarded as an
-auspicious time for performing religious duties.
+auspicious time for performing {{religiousduties->religious duties||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <LEND>
 
 <L>5243<pc>298<k1>saNkrAnti<k2>saNkrAnti
@@ -28369,7 +28369,7 @@ ments. Cf. {%Pañca-karaṇ-ādhikṛta,%} etc.
 <LEND>
 
 <L>5276<pc>300<k1>saptANga<k2>sapt-ANga
-{%sapt-āṅga%}¦ (CII CITD), the seven constituent parts of
+{%sapt-āṅga%}¦ (CII CITD), the seven {{constitutent->constituent||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} parts of
 a kingdom, viz., king, ministers, allies, treasury, territory, forts
 and forces.
 <LEND>
@@ -28979,7 +28979,7 @@ scents or superintendent of the perfumery.
 <LEND>
 
 <L>5384<pc>307<k1>sOgataparivrAjaka<k2>sOgata-parivrAjaka
-{%Saugata-parivrājaka%}¦ (BL), a Buddhist mendicant.
+{%Saugata-parivrājaka%}¦ (BL), a Buddhist {{medicant->mendicant||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <LEND>
 
 <L>5385<pc>307<k1>SOlkika<k2>SOlkika
@@ -29048,7 +29048,7 @@ facture of gold and silver articles, as indicated by the {%Arthaśāstra.%}
 <LEND>
 
 <L>5399<pc>307<k1>sAyana<k2>sAyana
-{%sāyana%}¦ (CII 3), ‘inclusive of precession of the equinoxes’.
+{%sāyana%}¦ (CII 3), ‘inclusive of {{precission->precession||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of the equinoxes’.
 <LEND>
 
 <L>5400<pc>307<k1>SayanapUjA<k2>Sayana-pUjA
@@ -29280,7 +29280,7 @@ chiefs and officers during their visit to a place.
 <LEND>
 
 <L>5442<pc>310<k1>SAh<k2>SAh
-{%Śāh%}¦ (IE 8-2; EI 30), Persian; royal title; same as Old
+{%{{Shāh->Śāh||20160121|Dhaval Patel|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/243|sh-Persian}}%}¦ (IE 8-2; EI 30), Persian; royal title; same as Old
 Persian {%Khshāyathiya.%} See {%Sāhī.%}
 <LEND>
 
@@ -30261,7 +30261,7 @@ nagara who often wrote {%Śrī-Virūpākṣa%} for the purpose.
 <LEND>
 
 <L>5632<pc>320<k1>SrIrudra<k2>SrI-rudra
-{%Śrī-rudra%}¦ (SITI; ASLV), also called {%Śrī-rudra-māheśvara;%}
+{%Śrī-rudra%}¦ (SITI; ASLV), also {{caled->called||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} {%Śrī-rudra-māheśvara;%}
 a Śaiva devotee; same as {%Śrī-māheśvara.%}
 <LEND>
 
@@ -30976,7 +30976,7 @@ Rāmeśvara temple.
 representation of a cow with her calf and the sun and the moon
 in the upper part, the inscriptions usually recording gifts or
 donations or exemptions from obligations or taxes declared
-by kings. This indicated permanence and inviolability.
+by kings. This indicated permanence and {{inviobability->inviolability||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <LEND>
 
 <L>5761<pc>328<k1>surAkaraRa<k2>surA-karaRa
@@ -33534,7 +33534,7 @@ lands.
 <LEND>
 
 <L>6247<pc>355<k1>utpanna<k2>utpanna
-{%utpanna,%}¦ decided or ascertained ({%Select Inscriptions,%} pp.
+{%utpanna,%}¦ decided or {{acertained->ascertained||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} ({%Select Inscriptions,%} pp.
 284, 286); same as {%pratipanna;%} cf. {%pratipad.%}
 <LEND>
 
@@ -33550,7 +33550,7 @@ i. e. swears.
 
 <L>6250<pc>355<k1>utpawwa<k2>utpawwa
 {%utpaṭṭa,%}¦ cf. {%upaṭṭa%} (EI 13), abundance; exuberance or
-overflowing [especially of rich dishes at a feast].
+overflowing [{{expecially->especially||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} of rich dishes at a feast].
 <LEND>
 
 <L>6251<pc>355<k1>utpatti<k2>utpatti
@@ -34494,7 +34494,7 @@ Tamil {%Vāriyan%} (SITI), a supervisor.
 great {%gandhakūṭī%} (q. v.).’ The official designation {%Pāṭvāri%} seems
 to be derived from {%Paṭṭavārika.%}
 <div n="P">{%Cf.%} Tamil {%vāriyaṃ%} (SITI), an executive committee;
-appointment as a member of that body; an office of supervision;
+appointment as a member of that body; an office of {{superivision->supervision||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}};
 cf. {%śrībhaṇḍāra-vāriyam%} (EI 33). See {%SII,%} Vol. III, p. 151, note.
 <div n="P">{%Cf. bārika%} (EI 5, 19), a village official; one entrusted
 with putting an official seal or stamp to a document; cf.
@@ -34622,7 +34622,7 @@ merchant’.
 {%vasad-bhoga-maryādā%}¦ (IA 5), explained as ‘the condition
 that the gift villages should be enjoyed only by those residing
 therein’; the custom relating to the enjoyment of the gift land
-by the donee by residing therein; but see {%vasad-bhogya-maryādā.%}
+{{yb the donee->by the donee||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} by residing therein; but see {%vasad-bhogya-maryādā.%}
 <LEND>
 
 <L>6461<pc>366<k1>vasadBogyamaryAdA<k2>vasad-Bogya-maryAdA
@@ -35891,7 +35891,7 @@ also called {%viṣuvat%} (q. v.).
 <LEND>
 
 <L>6705<pc>379<k1>vizvagdevA<k2>vizvag-devA
-{%viṣvag-devā%}¦ (LL), Jain; a quadruple image.
+{%viṣvag-devā%}¦ (LL), Jain; a {{quardruple->quadruple||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} image.
 <LEND>
 
 <L>6706<pc>379<k1>viSvakarman<k2>viSvakarman
@@ -35969,7 +35969,7 @@ division called {%vīthī.%}
 <LEND>
 
 <L>6720<pc>380<k1>vittabanDa<k2>vitta-banDa
-{%vitta-bandha%}¦ (CII 4), mortgage.
+{%vitta-bandha%}¦ (CII 4), {{mortage->mortgage||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <LEND>
 
 <L>6721<pc>380<k1>viwwollakara<k2>viwwolla-kara
@@ -36240,7 +36240,7 @@ who recites or expounds the epics and Purāṇas in public. Cf.
 
 <L>6771<pc>383<k1>vyAzeDa<k2>vyAzeDa
 {%vyāṣedha%}¦ (LP), {%vyāṣedhaḥ kāritaḥ%} or {%niṣedhaḥ kāritaḥ,%} ‘prov-
-ed the contrary [in the court that it was his own land and not
+ed the {{countrary->contrary||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} [in the court that it was his own land and not
 {%ḍohalikā%} land’]; {%vahamāna-bhūmi-vyāṣedha,%} ‘no one should stop him
 when he is ploughing his own piece of land’.
 <div n="P">({%LP%}), seizure; confiscation as government property.
@@ -37330,7 +37330,7 @@ village. Cf. {%Ind. Ep.,%} p. 402.
 
 <L>6954<pc>396<k1>parihftapaNgotkowa<k2>parihfta-paNg-otkowa
 {%parihṛta-paṅg-otkoṭa%}¦ (EI 33), ‘exempted from the levies
-called {%paṅga%} and {%utkoṭa%}’. See the words as separately noticed.
+called {%paṅga%} and {%utkoṭa%}’. See the words as {{saparately->separately||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} noticed.
 <LEND>
 
 <L>6955<pc>396<k1>parihftasarvapIqa<k2>parihfta-sarva-pIqa
@@ -37678,7 +37678,7 @@ tenants or the fixed revenue’; same as {%s-odraṅga.%}
 <L>7017<pc>400<k1>sakxptopakxptaka<k2>sa-kxpt-opakxptaka
 {%sa-kḷpt-opakḷptaka%}¦ (EI 24, 27), refers to the freedom of the
 gift land from the payment of fixed taxes on permanent
-tenants as well as occasional taxes or taxes on temporary tenants;
+tenants as well as {{occassional->occasional||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} taxes or taxes on temporary tenants;
 same as {%s-odraṅga-s-oparikara.%}
 <LEND>
 
@@ -38489,7 +38489,7 @@ in markets.
 <LEND>
 
 <L>7157<pc>409<k1>AqippaccE<k2>Aqi-ppaccE
-{%āḍi-ppaccai%}¦ (SITI), Tamil; probably, prerequisites payable
+{%āḍi-ppaccai%}¦ (SITI), Tamil; probably, {{perquisities->prerequisites||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} payable
 in grain in the month of {%Āḍi%} after the harvest.
 <LEND>
 
@@ -38499,7 +38499,7 @@ in grain in the month of {%Āḍi%} after the harvest.
 <LEND>
 
 <L>7159<pc>409<k1>AqukkalEppuram<k2>AqukkalE-ppuram
-{%āḍukkalai-ppuṟam%}¦ (SITI), Tamil; an endowment for the
+{%āḍukkalai-ppuṟam%}¦ (SITI), Tamil; an {{enowment->endowment||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} for the
 kitchen expenses of a temple.
 <LEND>
 
@@ -38656,7 +38656,7 @@ according to the number of eating plates in feeding houses.
 
 <L>7190<pc>411<k1>ASuvikalkAsu<k2>ASuvikal-kAsu, ASuva-kkASu, ASuva-kkaqamE
 {%āśuvikaḻ-kāsu, āśuva-kkāśu, āśuva-kkaḍamai%}¦ (SITI), Tamil;
-tax payable by the Ājīvakas or for maintaining Ājīvaka monks.
+tax payable by the Ājīvakas or for {{maintaing->maintaining||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} Ājīvaka monks.
 <LEND>
 
 <L>7191<pc>411<k1>AwcippAwwam<k2>Awci-ppAwwam
@@ -38800,7 +38800,7 @@ the sources of water supply, like the tank, etc., in good repair.
 
 <L>7221<pc>412<k1>elavE<k2>elavE
 {%elavai%}¦ (SITI), also spelt {%ĕlavai;%} Tamil; death-duty; fee for
-crematorium.
+{{creamatorium->crematorium||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}.
 <LEND>
 
 <L>7222<pc>412<k1>e<k2>e
@@ -39280,7 +39280,7 @@ also called {%mādārikka, mādan%} and {%mādārikkai.%}
 
 <L>7318<pc>416<k1>mAqukARikkE<k2>mAqu-kARikkE
 {%māḍu-kāṇikkai%}¦ (SITI), Tamil; obligation of supplying
-draught cattle to the visiting nobles by the tenants.
+draught cattle to the {{visting->visiting||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} nobles by the tenants.
 <LEND>
 [Page-417+ 40]
 
@@ -39943,7 +39943,7 @@ for the unkeep probably of a Śiva temple.
 
 <L>7453<pc>423<k1>svarRAdAyam<k2>svarR-AdAyam
 {%svarṇ-ādāyam%}¦ (SITI), Sanskrit; revenue in gold; taxes
-payable in coin; or, profession tax payable by the goldsmiths.
+payable in coin; or, {{prefession->profession||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}} tax payable by the goldsmiths.
 <LEND>
 
 <L>7454<pc>423<k1>SaqakkaqamE<k2>Saqa-kkaqamE
@@ -40130,7 +40130,7 @@ people or subordinates to officials on tour.
 <LEND>
 
 <L>7492<pc>424<k1>ulvari<k2>ul-vari
-{%uḻ-vari%}¦ (SITI), Tamil; internal revenue; taxes levied
+{%uḻ-vari%}¦ (SITI), Tamil; internal {{revenued->revenue||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}; taxes {{levie->levied||20210207|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/51|}}
 [Page-425+ 40]
 by the local body; same as {%antar-āyam;%} orders issued by the
 government fixing the amount of such taxes.
@@ -40901,7 +40901,7 @@ also called {%kārṣāpaṇa, niṣka%} and {%gaṇḍa-niṣka;%} see {%māḍ
 <LEND>
 
 <L>7653<pc>432<k1>ganDahastimAqa<k2>ganDahasti-mAqa
-{%gandhahasti-māḍa,%}¦ same as {%gandhavāraṇa-māḍa;%} probably,
+{%{{gandhashasti-māḍa->gandhahasti-māḍa||20160121|Dhaval Patel|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/243|sh}},%}¦ same as {%gandhavāraṇa-māḍa;%} probably,
 ‘{%māḍa%} bearing the figure of an elephant in rut’; see {%māḍa.%}
 <LEND>
 
@@ -41668,7 +41668,7 @@ measurement.
 <LEND>
 
 <L>7814<pc>439<k1>SASukAniwaNka<k2>SASukAni-waNka
-{%śāśukāni-ṭaṅka,%}¦ same as {%śāśukāni%} or Ş{%a%}Ş{%ghāṇī.%}
+{%{{śāśukāni-ṭanka->śāśukāni-ṭaṅka||20160315|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252|waNka is Sanskrit word (hatchet).  See SASukAni  in IEG for waNka spelling.}},%}¦ same as {%śāśukāni%} or Ş{%a%}Ş{%ghāṇī.%}
 <div n="P">Ş{%a%}Ş{%ghānī,%} Tughluk coin, 4 {%jītals%} in weight and value.
 <LEND>
 
