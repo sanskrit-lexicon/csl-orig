@@ -774,7 +774,7 @@ das Beste.
 [Page003-2]
 
 <L>185<pc>003-2<k1>aGamarzaRa<k2>aGamarzaRa
-{#aGamarzaRa#}¦ Sünden tilgend.
+{#{{aGamazarRa->aGamarzaRa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ Sünden tilgend.
 <LEND>
 
 <L>186<pc>003-2<k1>aGaviGAtakartar<k2>aGaviGAtakartar
@@ -865,7 +865,7 @@ anhang; Thema, Stamm {%(g.)%}
 <LEND>
 
 <L>206<pc>003-2<k1>aNgana<k2>aNgana
-{#aNgana#}¦ ={#aNgaRa#}.
+{#{{aqgana->aNgana||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ ={#aNgaRa#}.
 <LEND>
 
 <L>207<pc>003-2<k1>aNganA<k2>aNganA
@@ -1522,7 +1522,7 @@ oder kräftig.
 <LEND>
 
 <L>354<pc>006-1<k1>atiTi<k2>a/tiTi
-{#a/tiTi#}¦ {%m.%} Gast. {%Abstr.%} {#atiTitA#} {%f.%}, {#˚tva#} {%n.%}
+{#{{a/taTi->a/tiTi||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%m.%} Gast. {%Abstr.%} {#atiTitA#} {%f.%}, {#˚tva#} {%n.%}
 <LEND>
 
 <L>355<pc>006-1<k1>atidAha<k2>atidAha/
@@ -4303,7 +4303,7 @@ mit {#(saha)#} stehend.
 <LEND>
 
 <L>997<pc>015-2<k1>anurAgin<k2>anurAgin
-{#anurAgin#}¦ zugeneigt, verliebt.
+{#{{anUrAgin->anurAgin||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ zugeneigt, verliebt.
 <LEND>
 
 <L>998<pc>015-2<k1>anurUpa<k2>a/nurUpa
@@ -11390,7 +11390,7 @@ Selbst (ipse); {%häufig%} ˚— eigen;
 <LEND>
 
 <L>2601<pc>040-2<k1>AtmaboDa<k2>AtmaboDa
-{#AtmaboDa#}¦ die Allseele kennend; {%m.%} Kenntnis <lbinfo n="3"/>
+{#{{Atmaboda->AtmaboDa||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|cf mw, etc.}}#}¦ die Allseele kennend; {%m.%} Kenntnis <lbinfo n="3"/>
 der Allseele; {%Titel eines philosophischen%} <lbinfo n="8"/>
 {%Werks.%}
 <LEND>
@@ -14135,7 +14135,7 @@ das Auge.
 <LEND>
 
 <L>3180<pc>052-1<k1>INK<k2>INK
-{#INK#}¦ {#INKati#}; {%Caus.%} {#INKa/yati#} schaukeln,
+{{{#INKa#}->{#INK#}||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|DAtu, missing virAma.}}¦ {#INKati#}; {%Caus.%} {#INKa/yati#} schaukeln,
 schütteln. {#pra#} {%Caus. Med.%} sich schaukeln.
 <LEND>
 
@@ -14523,7 +14523,7 @@ schimmernd {%(Stern.)%}
 <LEND>
 
 <L>3258<pc>053-2a<k1>uccAvaca<k2>uccAvaca/
-{#uccAvaca/#}¦ hoch und niedrig, verschiedenartig. <lbinfo n="6"/>
+{#{{uYcAvaca->uccAvaca||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}/#}¦ hoch und niedrig, verschiedenartig. <lbinfo n="6"/>
 <LEND>
 
 <L>3259<pc>053-2a<k1>uccEHkula<k2>uccEHkula
@@ -15847,7 +15847,7 @@ Vorschrift; grammatische Bezeichnung <lbinfo n="4"/>
 <LEND>
 
 <L>3554<pc>058-2<k1>upadrava<k2>upadrava
-{#upadrava#}¦ {%m.%} Unfall, Leid.
+{#{{upradrava->upadrava||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%m.%} Unfall, Leid.
 <LEND>
 
 <L>3555<pc>058-2<k1>upaDA<k2>upaDA
@@ -16236,7 +16236,7 @@ Ausspülung des Mundes.
 <LEND>
 
 <L>3641<pc>060-1<k1>upahartar<k2>upahartar
-{#upahartar#}¦ {%m.%} Darbringer.
+{#{{uparartar->upahartar||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%m.%} Darbringer.
 <LEND>
 
 <L>3642<pc>060-1<k1>upahAra<k2>upahAra
@@ -18256,7 +18256,7 @@ des Aitareya.
 <LEND>
 
 <L>4094<pc>068-1<k1>Etareyin<k2>Etareyin
-{#Etareyin#}¦ {%m. Pl.%} die Schule des Aitareya.
+{#{{Evareyin->Etareyin||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%m. Pl.%} die Schule des Aitareya.
 <LEND>
 
 <L>4095<pc>068-1<k1>EtihAsika<k2>EtihAsika
@@ -20762,7 +20762,7 @@ erschließen.
 <LEND>
 
 <L>4609<pc>078-2<k1>kasmAt<k2>ka/smAt
-{#ka/smAt#}¦ {%(Abl. adv.)%} woher? weshalb? warum?
+{#{{ka/smAd->ka/smAt||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%(Abl. adv.)%} woher? weshalb? warum?
 <LEND>
 
 <L>4610<pc>078-2<k1>kahoqa<k2>kaho/qa
@@ -22631,7 +22631,7 @@ Schlange.
 <LEND>
 
 <L>5014<pc>086-1<k1>kutapa<k2>kutapa
-{#kutapa#}¦ {%m. n.%} Decke von Ziegenhaar.
+{#{{kulapa->kutapa||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|alph. order, cf mw,pw}}#}¦ {%m. n.%} Decke von Ziegenhaar.
 <LEND>
 
 <L>5015<pc>086-1<k1>kutas<k2>ku/tas
@@ -23171,7 +23171,7 @@ des — fortsetzend.
 <LEND>
 
 <L>5135<pc>088-1<k1>kulmala<k2>kulmala
-{#kulmala#}¦ {%n.%} Hals {%(des Pfeiles o. Speers.)%}
+{#{{kalmala->kulmala||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%n.%} Hals {%(des Pfeiles o. Speers.)%}
 <LEND>
 
 <L>5136<pc>088-1<k1>kulmAza<k2>kulmAza
@@ -24272,7 +24272,7 @@ einem R.; Rieselloch.
 <LEND>
 
 <L>5379<pc>092-1<k1>kenezitopanizad<k2>kenezitopanizad
-{#kenezitopanizad#}¦ {%u.%} {#kenopanizad#} {%Titel einer%}
+{#{{kenezitopanizada->kenezitopanizad||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|print missing virAma}}#}¦ {%u.%} {#kenopanizad#} {%Titel einer%}
 {%Upanishad.%}
 <LEND>
 
@@ -24656,7 +24656,7 @@ etwas Besonderes, ein Wunder; Fest,
 <LEND>
 
 <L>5464<pc>093-2<k1>kOtukagfha<k2>kOtukagfha
-{#kOtukagfha#}¦ {%n.%} Hochzeitshaus.
+{#{{kotukaguha->kOtukagfha||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%n.%} Hochzeitshaus.
 <LEND>
 
 <L>5465<pc>093-2<k1>kOtukaratnAkara<k2>kOtukaratnAkara
@@ -27058,7 +27058,7 @@ Seite des Gesichts, Seite.
 <LEND>
 
 <L>5975<pc>103-1<k1>gaRqasTala<k2>gaRqasTala
-{#gaRqasTala#}¦ {%n.%}, {#˚lI#} {%f. (adj. — ˚ f.%} {#A#} {%u.%} {#I)#}
+{#{{gaRyasTala->gaRqasTala||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|cf. CAE}}#}¦ {%n.%}, {#˚lI#} {%f. (adj. — ˚ f.%} {#A#} {%u.%} {#I)#}
 Wange.
 <LEND>
 
@@ -27233,7 +27233,7 @@ umklammert.
 <LEND>
 
 <L>6012<pc>103-2<k1>gantu<k2>ga/ntu
-{#ga/ntu#}¦ {%m.%} Weg, Lauf.
+{#{{ga/nta->ga/ntu||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%m.%} Weg, Lauf.
 <LEND>
 
 <L>6013<pc>103-2<k1>gantukAma<k2>gantukAma
@@ -27622,7 +27622,7 @@ Wagenkämpfer.
 <LEND>
 
 <L>6073<pc>106-1<k1>gardaBa<k2>gardaBa/
-{#gardaBa/#}¦ {%m.%} {#I#} {%f.%} Esel, -in.
+{#{{gadaBa->gardaBa/||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%m.%} {#I#} {%f.%} Esel, -in.
 <LEND>
 
 <L>6074<pc>106-1<k1>garD<k2>garD
@@ -30178,7 +30178,7 @@ Regenzeit.
 <LEND>
 
 <L>6610<pc>116-2<k1>GarmAmbu<k2>GarmAmbu
-{#GarmAmbu#}¦ {%u.%} gharmAmbhas {%n.%} Schweiß.
+{#{{GArmAmbu->GarmAmbu||20160412|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275|cf. PW, MW. Both cae and ccs have same mis-spelling}}#}¦ {%u.%} gharmAmbhas {%n.%} Schweiß.
 <LEND>
 
 <L>6611<pc>116-2<k1>Garmita<k2>Garmita
@@ -31827,7 +31827,7 @@ mondähnlich.
 <LEND>
 
 <L>6956<pc>123-1<k1>cAndrAyaRa<k2>cAndrAyaRa
-{#cAndrAyaRa#}¦ {%m.%} Mondbeobachter; die Mondkasteiung <lbinfo n="9"/>
+{#{{cAndAyaRa->cAndrAyaRa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%m.%} Mondbeobachter; die Mondkasteiung <lbinfo n="9"/>
 {%(r.).%}
 <LEND>
 
@@ -32625,7 +32625,7 @@ fördern, schnell herbeischaffen. {#aBi#},
 [Page126-2]
 
 <L>7122<pc>126-2<k1>cumb<k2>cumb
-{#cumb#}¦ {#cumbati, ˚te#} küssen, unmittelbar berühren. <lbinfo n="7"/>
+{{{#cumbu#}->{#cumb#}||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cae has 'cumb'. ? Not sure if final 'u' could be a verb anubanDa. ejf Corrected 04/05/2016}}¦ {#cumbati, ˚te#} küssen, unmittelbar berühren. <lbinfo n="7"/>
 {#pari#} {%dass.%}
 <LEND>
 
@@ -34293,7 +34293,7 @@ Niederlage.
 <LEND>
 
 <L>7477<pc>133-1<k1>jayAditya<k2>jayAditya
-{#jayAditya#}¦ {%m. Mannsname.%}
+{#{{jayADitya->jayAditya||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|cf. CAE, MW}}#}¦ {%m. Mannsname.%}
 <LEND>
 
 <L>7478<pc>133-1<k1>jayAGoza<k2>jayAGoza
@@ -38705,7 +38705,7 @@ Schlagen, der Schlag.
 <LEND>
 
 <L>8408<pc>150-2<k1>tAtfzARa<k2>tAtfzARa
-{#tAtfzARa#}¦ {%s.%} {#tarp#}.
+{#{{tAtfpARa->tAtfzARa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. mw. Participle of tfp (= tarp in ccs)  ejf Corrected 04/05/2016}}#}¦ {%s.%} {#tarp#}.
 <LEND>
 
 <L>8409<pc>150-2<k1>tAtfpi<k2>tA/tfpi
@@ -40134,7 +40134,7 @@ verwandt.
 <LEND>
 
 <L>8725<pc>156-1<k1>tuvizwama<k2>tuvi/zwama
-{#tuvi/zwama#}¦ {%(Superl.)%} der stärkste, mächtigste.
+{#{{tuvi/zWama->tuvi/zwama||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|presume 'zw' is correct, acc. to MW, PW}}#}¦ {%(Superl.)%} der stärkste, mächtigste.
 <LEND>
 
 <L>8726<pc>156-1<k1>tuvizmant<k2>tuvizmant
@@ -40264,7 +40264,7 @@ o. mit {%(Instr.)%}
 <LEND>
 
 <L>8755<pc>156-1<k1>tURIra<k2>tURIra
-{#tURIra#}¦ {%m. - vor. m.%}
+{#{{tuRIra->tURIra||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. MW. ejf Corrected 04/05/2016}}#}¦ {%m. - vor. m.%}
 <LEND>
 [Page156-2]
 
@@ -43315,7 +43315,7 @@ auf {%(Instr. o. —˚).%}
 <LEND>
 
 <L>9438<pc>167-2<k1>darpaja<k2>darpaja
-{#darpaja#}¦ von Stolz erzeugt.
+{#{{daparja->darpaja||20160412|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275|Also in cae}}#}¦ von Stolz erzeugt.
 <LEND>
 
 <L>9439<pc>167-2<k1>darpaRa<k2>darpaRa
@@ -44552,11 +44552,11 @@ Luft zum Kleide habend, nackt; {%m.%} ein
 <LEND>
 
 <L>9695<pc>172-2<k1>diNnAga<k2>diNnAga
-{#diNnAga#}¦ {%m.%} = {#dikkarin#}.
+{#{{diNganAga->diNnAga||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. mw. ejf Corrected 04/05/2016}}#}¦ {%m.%} = {#dikkarin#}.
 <LEND>
 
 <L>9696<pc>172-2<k1>diNnATa<k2>diNnATa
-{#diNnATa#}¦ {%m.%} = {#dikpati#}.
+{#{{diNganATa->diNnATa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. mw. ejf Corrected 04/05/2016}}#}¦ {%m.%} = {#dikpati#}.
 <LEND>
 
 <L>9697<pc>172-2<k1>diNmaRqala<k2>diNmaRqala
@@ -46727,7 +46727,7 @@ nicht da, {%mit%} {#BU#} fern bleiben.
 <LEND>
 
 <L>10173<pc>180-2<k1>dUradarSana<k2>dUradarSana
-{#dUradarSana#}¦ (nur) in der Ferne zu sehen.
+{#{{dUradaSarna->dUradarSana||20160412|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275|Also in cae}}#}¦ (nur) in der Ferne zu sehen.
 <LEND>
 
 <L>10174<pc>180-2<k1>dUradarSin<k2>dUradarSin
@@ -50946,7 +50946,7 @@ Festhalten, Zurückhalten.
 <LEND>
 
 <L>11082<pc>197-1<k1>DArADirUQa<k2>DArADirUQa
-{#DArADirUQa#}¦ auf dem Höhepunkt {%(eig.%} der
+{#{{DArADiruWa->DArADirUQa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|text has rUWa, but CAE, MW, etc have rUQa. ejf Corrected 04/05/2016}}#}¦ auf dem Höhepunkt {%(eig.%} der
 Schneide) stehend.
 <LEND>
 
@@ -51993,7 +51993,7 @@ einandergefallen, vernichtet.
 <LEND>
 
 <L>11306<pc>201-1<k1>DvaMsakArin<k2>DvaMsakArin
-{#DvaMsakArin#}¦ (—˚) {%dass.%}
+{#{{DvasakArin->DvaMsakArin||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|Anusvara missing in print}}#}¦ (—˚) {%dass.%}
 <LEND>
 
 <L>11307<pc>201-1<k1>DvaMsana<k2>DvaMsana
@@ -52593,7 +52593,7 @@ weibl. Thema auf {#I#} {%oder%} {#U#} {%(g.).%}
 <LEND>
 
 <L>11440<pc>203-1<k1>nadInATa<k2>nadInATa
-{#nadInATa#}¦ {%u.%} {#nadIpati/#} {%m.%} = {#nadarAja#}.
+{#{{cadInATa->nadInATa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%u.%} {#nadIpati/#} {%m.%} = {#nadarAja#}.
 <LEND>
 
 <L>11441<pc>203-1<k1>nadIpUra<k2>nadIpUra
@@ -53622,7 +53622,7 @@ treffen. {#aBi#} {%u.%} {#pra#} {%dass.%}
 <LEND>
 
 <L>11660<pc>207-1<k1>nazwacezwa<k2>nazwacezwa
-{#nazwacezwa#}¦ regungslos, starr geworden.
+{#{{nazwacezWa->nazwacezwa||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|'cezwa' is word in cae and many others. Presume 'zW' is misprint}}#}¦ regungslos, starr geworden.
 <LEND>
 
 <L>11661<pc>207-1<k1>nazwarUpa<k2>nazwarUpa
@@ -55050,7 +55050,7 @@ heftig, sehr, vollkommen.
 <LEND>
 
 <L>11975<pc>212-2<k1>nitodin<k2>nitodi/n
-{#nitodi/n#}¦ stechend, bohrend.
+{#{{nitedi/n->nitodi/n||20160412|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275|}}#}¦ stechend, bohrend.
 <LEND>
 
 <L>11976<pc>212-2<k1>nitoSana<k2>nito/Sana
@@ -55747,7 +55747,7 @@ beständig; sofort, alsbald.
 <LEND>
 
 <L>12127<pc>215-1<k1>nirantarotkaRWA<k2>nirantarotkaRWA
-{#nirantarotkaRWA#}¦ {%f.%} unauf hörliche Sehnsucht.*
+{#{{nirantarokaRWA->nirantarotkaRWA||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. cae, mw. ejf Corrected 04/05/2016}}#}¦ {%f.%} unauf hörliche Sehnsucht.*
 <LEND>
 
 <L>12128<pc>215-1<k1>nirantarodBinna<k2>nirantarodBinna
@@ -55852,7 +55852,7 @@ von (—˚) {%Abstr.%} {#˚tA#} {%f.%}, {#˚tva#} {%n.%},
 <LEND>
 
 <L>12152<pc>215-1<k1>niravaDi<k2>niravaDi
-{#niravaDi#}¦ grenzenlos, unendlich.
+{#{{nidavaDi->niravaDi||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ grenzenlos, unendlich.
 <LEND>
 [Page215-2]
 
@@ -57237,7 +57237,7 @@ Nachricht.
 <LEND>
 
 <L>12469<pc>220-1<k1>nivedayizukAma<k2>nivedayizukAma
-{#nivedayizukAma#}¦ mitzuteilen begierig.*
+{#{{nivedayitukAma->nivedayizukAma||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|nivedayizu-kAma. nivedayizu is spelling in mw, pw and some other dictionaries. Presume 'itu' is misprint}}#}¦ mitzuteilen begierig.*
 <LEND>
 
 <L>12470<pc>220-1<k1>nivedin<k2>nivedin
@@ -57281,7 +57281,7 @@ heiraten {%(Mann).%}
 <LEND>
 
 <L>12478<pc>220-2<k1>nivezwakAma<k2>nivezwakAma
-{#nivezwakAma#}¦ heiraten wollend.
+{#{{nivezwukAma->nivezwakAma||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|nivezwa from niviz; presume the 'wu' is misprint}}#}¦ heiraten wollend.
 <LEND>
 
 <L>12479<pc>220-2<k1>nivezya<k2>nivezya/<h>1
@@ -57672,7 +57672,7 @@ Veranlassung.
 <LEND>
 
 <L>12567<pc>221-2<k1>nizkiMcana<k2>nizkiMcana
-{#nizkiMcana#}¦ ohne etwas, arm. {%Abstr.%} {#˚tva#} {%n.%}
+{#{{nizkicana->nizkiMcana||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|avagraha missing}}#}¦ ohne etwas, arm. {%Abstr.%} {#˚tva#} {%n.%}
 <LEND>
 
 <L>12568<pc>221-2<k1>nizkin<k2>nizki/n
@@ -58349,7 +58349,7 @@ schwarz. {%m.%} Sapphir; {%männl. Name.%}
 <LEND>
 
 <L>12707<pc>224-2<k1>nIlapfzWa<k2>nI/lapfzWa
-{#nI/lapfzWa#}¦ einen schwarzen Rücken habend.
+{#{{nI/lapfzwa->nI/lapfzWa||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|cf. CAE, MW}}#}¦ einen schwarzen Rücken habend.
 <LEND>
 
 <L>12708<pc>224-2<k1>nIlamaRi<k2>nIlamaRi
@@ -58504,7 +58504,7 @@ zerstreuen, erheitern.
 <LEND>
 
 <L>12739<pc>225-1<k1>nUnam<k2>nUnam
-{#nUnam#}¦ {%Adv.%} jetzt, eben; fernerhin, künftig;
+{#{{nUnaB->nUnam||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|B->m. ejf Corrected 04/05/2016}}#}¦ {%Adv.%} jetzt, eben; fernerhin, künftig;
 also, darum, gewiss, sicherlich.
 <LEND>
 
@@ -58913,7 +58913,7 @@ verschiedene.
 <LEND>
 
 <L>12835<pc>226-2<k1>nEkatya<k2>nEkatya
-{#nEkatya#}¦ {%n.%} Nähe, Nachbarschaft.
+{#{{nEkavya->nEkatya||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|}}#}¦ {%n.%} Nähe, Nachbarschaft.
 <LEND>
 
 <L>12836<pc>226-2<k1>nEkaDA<k2>nEkaDA
@@ -59785,7 +59785,7 @@ Halbmonat.
 <LEND>
 
 <L>13017<pc>229-2<k1>paYcadaSan<k2>pa/YcadaSan
-{#pa/YcadaSan#}¦ fünfzehn.
+{#{{pa/YcadaSat->pa/YcadaSan||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|}}#}¦ fünfzehn.
 <LEND>
 
 <L>13018<pc>229-2<k1>paYcadaSarca<k2>paYcadaSarca
@@ -60421,7 +60421,7 @@ in {%(Loc.).%}
 [Page232-2]
 
 <L>13145<pc>232-2<k1>patanIya<k2>patanIya
-{#patanIya#}¦ zum Fall {%(Verlust der Kaste)%}
+{#{{patanIta->patanIya||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|Based on sense, and that oatanIta not in other dictionaries.}}#}¦ zum Fall {%(Verlust der Kaste)%}
 führend; {%n.%} ein solches Verbrechen.
 <LEND>
 
@@ -60617,7 +60617,7 @@ Wagen hat).
 <LEND>
 
 <L>13190<pc>233-1<k1>pattrorRa<k2>pattrorRa
-{#pattrorRa#}¦ {%m. Volksname (Pl.); n.%} gebleichte
+{#{{paktorRa->pattrorRa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|text missing 'r'. pakt is typo. ejf Corrected 04/05/2016}}#}¦ {%m. Volksname (Pl.); n.%} gebleichte
 Seide {%o.%} ein Gewand daraus.
 <LEND>
 
@@ -64309,7 +64309,7 @@ und Erde.
 <LEND>
 
 <L>13974<pc>247-2<k1>pAYcaBOtika<k2>pAYcaBOtika
-{#pAYcaBOtika#}¦ aus den fünf Elementen bestehnd. <lbinfo n="7"/>
+{#{{pAYcaBOmika->pAYcaBOtika||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|cf. CAE}}#}¦ aus den fünf Elementen bestehnd. <lbinfo n="7"/>
 <LEND>
 
 <L>13975<pc>247-2<k1>pAYcayajYika<k2>pAYcayajYika
@@ -69921,7 +69921,7 @@ Einsicht, Verstand, Vorsatz, Entschluss.
 <LEND>
 
 <L>15221.1<pc>268-1<k1>prajYatA<k2>prajYatA
-{#prajYatA#}¦ {%f.%} Kenntnis, Wissen.
+{#{{jyatA->prajYatA|||Frank Ziesing|https://github.com/sanskrit-lexicon/csl-orig/issues/286|new headword}}#}¦ {%f.%} Kenntnis, Wissen.
 <LEND>
 
 <L>15222<pc>268-1<k1>prajYapti<k2>prajYapti
@@ -70215,7 +70215,7 @@ Bild.
 <LEND>
 
 <L>15284<pc>269-1<k1>pratikramaRa<k2>pratikra/maRa
-{#pratikra/maRa#}¦ {%n.%} das Hinschreiten.
+{#{{pratvikra/maRa->pratikra/maRa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|scan has pratvikramaRa. ejf Corrected 04/05/2016}}#}¦ {%n.%} das Hinschreiten.
 <LEND>
 
 <L>15285<pc>269-1<k1>pratikriyA<k2>pratikriyA
@@ -71375,7 +71375,7 @@ Gruppenwort {%(g.).%}
 <LEND>
 
 <L>15542<pc>273-2<k1>pratyutTAna<k2>pratyutTAna
-{#pratyutTAna#}¦ {%n.%} (ehrerbietiges) Außtehen.
+{#{{patyutTAna->pratyutTAna||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|print missing 'r'. ejf Corrected 04/05/2016}}#}¦ {%n.%} (ehrerbietiges) Außtehen.
 <LEND>
 
 <L>15543<pc>273-2<k1>pratyutpannamati<k2>pratyutpannamati
@@ -71406,7 +71406,7 @@ G. erweisend.
 <LEND>
 
 <L>15549<pc>273-2<k1>pratyupahAra<k2>pratyupahAra
-{#pratyupahAra#}¦ {%m.%} Wiedererstattung.
+{#{{patyupahAra->pratyupahAra||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|print missing 'r'. ejf Corrected 04/05/2016}}#}¦ {%m.%} Wiedererstattung.
 <LEND>
 
 <L>15550<pc>273-2<k1>pratyUza<k2>pratyUza
@@ -73508,15 +73508,15 @@ zum Sträuben bringend), erfreuend;
 <LEND>
 
 <L>16020<pc>281-1<k1>prahlAda<k2>prahlAda
-{#prahlAda#}¦ {%m.%} Erquickung, Freude.
+{#{{pralhAda->prahlAda|||Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410|}}#}¦ {%m.%} Erquickung, Freude.
 <LEND>
 
 <L>16021<pc>281-1<k1>prahlAdana<k2>prahlAdana
-{#prahlAdana#},¦ {%f.%} {#I#} erquickend, erfreuend; {%n. = vor.%}
+{#{{pralhAdana->prahlAdana|||Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410|}}#},¦ {%f.%} {#I#} erquickend, erfreuend; {%n. = vor.%}
 <LEND>
 
 <L>16022<pc>281-1<k1>prahlAdin<k2>prahlAdin
-{#prahlAdin#}¦ = {%vor. Adj.%}
+{#{{pralhAdin->prahlAdin|||Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410|}}#}¦ = {%vor. Adj.%}
 <LEND>
 
 <L>16023<pc>281-1<k1>prahva<k2>prahva
@@ -76573,7 +76573,7 @@ Mond.
 <LEND>
 
 <L>16682<pc>293-1<k1>bAlarAmAyaRa<k2>bAlarAmAyaRa
-{#bAlarAmAyaRa#}¦ {%m. To. eines Dramas.%}
+{#{{bAlarAmAyARa->bAlarAmAyaRa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf acc, mw, pw,pwg. ejf Corrected 04/05/2016}}#}¦ {%m. To. eines Dramas.%}
 <LEND>
 
 <L>16683<pc>293-1<k1>bAlalIlA<k2>bAlalIlA
@@ -76782,7 +76782,7 @@ gewöhnlich.
 <LEND>
 
 <L>16731<pc>293-2<k1>bAhUbAhavi<k2>bAhUbAhavi
-{#bAhUbAhavi#}¦ {%Adv.%} Arm gegen Arm, im
+{#{{bAhUbAhAvi->bAhUbAhavi||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf cae, mw, etc.. ejf Corrected 04/05/2016}}#}¦ {%Adv.%} Arm gegen Arm, im
 Handgemenge.
 <LEND>
 
@@ -78090,7 +78090,7 @@ sich auf dens. beziehend.
 <LEND>
 
 <L>17020<pc>298-2<k1>brahmopanizad<k2>brahmopanizad
-{#brahmopanizad#}¦ {%f. T. zweier Upanishad.%}
+{#{{brahmopanizada->brahmopanizad||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf acc, mw, etc.. ejf Corrected 04/05/2016}}#}¦ {%f. T. zweier Upanishad.%}
 <LEND>
 
 <L>17021<pc>298-2<k1>brahmOdana<k2>brahmOdana/
@@ -82194,7 +82194,7 @@ Fürsten, Abteilung des Rigveda {%(nurn.).%}
 <LEND>
 
 <L>17865<pc>315-2<k1>maRqUkapluti<k2>maRqUkapluti
-{#maRqUkapluti#}¦ {%f.%} Froschsprung {%(g.).%}
+{#{{taRqUkapluti->maRqUkapluti||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%f.%} Froschsprung {%(g.).%}
 <LEND>
 
 <L>17866<pc>315-2<k1>maRqUkikA<k2>maRqUki/kA
@@ -83423,7 +83423,7 @@ feierlich; {%n. adv.%}
 <LEND>
 
 <L>18124<pc>320-2<k1>mantrArADana<k2>mantrArADana
-{#mantrArADana#}¦ {%n.%} Beschwörung (Gewinnung
+{#{{mantArADana->mantrArADana||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|}}#}¦ {%n.%} Beschwörung (Gewinnung
 durch Zauber).
 <LEND>
 
@@ -83653,7 +83653,7 @@ l. klingend, wohllautend, tief, voll
 <LEND>
 
 <L>18176<pc>321-2<k1>mandrajihva<k2>mandra/jihva
-{#mandra/jihva#}¦ schönzungig {%o.%} stimmig.
+{#{{madra/jihva->mandra/jihva||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|}}#}¦ schönzungig {%o.%} stimmig.
 <LEND>
 
 <L>18177<pc>321-2<k1>mandrayu<k2>mandrayu/
@@ -85611,7 +85611,7 @@ lange {%(gemacht)!%}
 <LEND>
 
 <L>18602<pc>329-1<k1>mARavaka<k2>mARavaka
-{#mARavaka#}¦ {%m. dass.; f.%} {#˚vikA#} Mädchen,
+{#{{mARavakra->mARavaka||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|'r' is maybe print smudge}}#}¦ {%m. dass.; f.%} {#˚vikA#} Mädchen,
 Dirne.
 <LEND>
 
@@ -85952,7 +85952,7 @@ Schm. Greifen)*.
 <LEND>
 
 <L>18675<pc>330-1<k1>mAnayitavya<k2>mAnayitavya
-{#mAnayitavya#}¦ zu ehren, zu berücksichtigen.
+{#{{manayitavya->mAnayitavya||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. cae, mw, etc.. ejf Corrected 04/05/2016}}#}¦ zu ehren, zu berücksichtigen.
 <LEND>
 [Page330-2]
 
@@ -89822,7 +89822,7 @@ bleibend.
 <LEND>
 
 <L>19515<pc>345-1<k1>yatrodBUta<k2>yatrodBUta
-{#yatrodBUta#}¦ wo enstanden.
+{#{{yatrodBata->yatrodBUta||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. cae, mw. ejf Corrected 04/05/2016}}#}¦ wo enstanden.
 <LEND>
 
 <L>19516<pc>345-1<k1>yaTA<k2>ya/TA
@@ -90662,7 +90662,7 @@ Bruder; {%f.%} {#˚yasI#} jüngere Schwester.
 <LEND>
 
 <L>19689<pc>348-2<k1>yaSasvin<k2>yaSasvi/n
-{#yaSasvi/n#}¦ {%dass., Sperl.%} {#˚svi/tama#}.
+{#{{yavasvi/n->yaSasvi/n||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|}}#}¦ {%dass., Sperl.%} {#˚svi/tama#}.
 <LEND>
 
 <L>19690<pc>348-2<k1>yaSoGna<k2>yaSoGna
@@ -95468,7 +95468,7 @@ Pflanze, Heilen, Heilmittel.
 <LEND>
 
 <L>20672<pc>369-1<k1>romaharza<k2>romaharza
-{#romaharza#}¦ {%m.%} das Sträuben der Körperhärschen <lbinfo n="8"/>
+{#{{romararza->romaharza||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%m.%} das Sträuben der Körperhärschen <lbinfo n="8"/>
 {%(im Affect)%}, Aufregung.
 <LEND>
 [Page369-2]
@@ -97350,7 +97350,7 @@ Himmel.
 <LEND>
 
 <L>21035<pc>378-1<k1>lokokti<k2>lokokti
-{#lokokti#}¦ {%f.%} das Gerede der Leute. Sprich-
+{#{{lolokti->lokokti||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|}}#}¦ {%f.%} das Gerede der Leute. Sprich-
 wort.
 <LEND>
 
@@ -98489,7 +98489,7 @@ Jäger.
 <LEND>
 
 <L>21274<pc>382-2<k1>vanajyotsnI<k2>vanajyotsnI
-{#vanajyotsnI#}¦ {%f. N. einer Pflanze%} (Waldmondschein).* <lbinfo n="13"/>
+{#{{vanajyosnI->vanajyotsnI||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|vana-jyotsnI ; missing 't' presumed misprint}}#}¦ {%f. N. einer Pflanze%} (Waldmondschein).* <lbinfo n="13"/>
 <LEND>
 
 <L>21275<pc>382-2<k1>vanadAha<k2>vanadAha
@@ -101536,7 +101536,7 @@ Söller.
 <LEND>
 
 <L>21860<pc>396-2<k1>vAtopaspfzwa<k2>vAtopaspfzwa
-{#vAtopaspfzwa#}¦ mit Winden behaftet.
+{#{{vAtopaSfzwa->vAtopaspfzwa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. cae, and mw/pw vAtopasfzwa ?. ejf Corrected 04/05/2016}}#}¦ mit Winden behaftet.
 <LEND>
 
 <L>21861<pc>396-2<k1>vAtormI<k2>vAtormI
@@ -103458,7 +103458,7 @@ Beute. {%m. Mannsn., f.%} {#A#} {%Frauenn.%}
 <LEND>
 
 <L>22291<pc>403-2<k1>vijigIzA<k2>vijigIzA
-{#vijigIzA#}¦ {%f.%} die Lust zu siegen {%o.%} zu erobern. <lbinfo n="6"/>
+{#{{vivigIzA->vijigIzA||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%f.%} die Lust zu siegen {%o.%} zu erobern. <lbinfo n="6"/>
 <LEND>
 
 <L>22292<pc>403-2<k1>vijigIzu<k2>vijigIzu
@@ -104069,7 +104069,7 @@ Verwunden, Verwüsten.
 <LEND>
 
 <L>22421<pc>406-1<k1>vidyADaramahAcakravartin<k2>vidyADaramahAcakravartin
-{#vidyADaramahAcakravartin#}¦ Oberherr der Vidyādhara. <lbinfo n="11"/>
+{#{{vidyADaramahAcakravarnin->vidyADaramahAcakravartin||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|cf MW, PW.}}#}¦ Oberherr der Vidyādhara. <lbinfo n="11"/>
 {%Abstr.%} {#˚titA#} {%f.%}
 <LEND>
 
@@ -104407,7 +104407,7 @@ Unglück, Gefahr.
 <LEND>
 
 <L>22495<pc>407-1<k1>viDuray<k2>viDuray
-{#viDuray#},¦ {#˚yati#} niederdrücken; {%p. p.%} {#viDarita#}.
+{#{{viDaray->viDuray||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|the 'u' diacritic missing on this bottom line}}#},¦ {#˚yati#} niederdrücken; {%p. p.%} {#viDarita#}.
 <LEND>
 [Page407-2]
 
@@ -108494,7 +108494,7 @@ größter, bester unter {%(Gen. o.%} —˚).
 <LEND>
 
 <L>23383<pc>423-1<k1>vfzamaRas<k2>vf/zamaRas
-{#vf/zamaRas#}¦ {%u.%} {#˚manyu#} männlich gesinnt, mutig.
+{#{{vf/zamanas->vf/zamaRas||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|cf. cae, mw for retroflex nasal}}#}¦ {%u.%} {#˚manyu#} männlich gesinnt, mutig.
 <LEND>
 
 <L>23384<pc>423-1<k1>vfzayu<k2>vfzayu/
@@ -109617,7 +109617,7 @@ auf (Yama {%o.%} Manu) Vaivasvata bezüglich. <lbinfo n="8"/>
 <LEND>
 
 <L>23640<pc>427-1<k1>vESantA<k2>vESantA/
-{#vESantA/#},¦ {%f.%} teichartig. Teich-.
+{#{{vESanta->vESantA||20151125|Marcis Gasuns|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160|}}/#},¦ {%f.%} teichartig. Teich-.
 <LEND>
 
 <L>23641<pc>427-1<k1>vESaMpAyana<k2>vESaMpAyana
@@ -109769,7 +109769,7 @@ sich bewegend. {%m.%} Luft-, Himmelsbewonhner. <lbinfo n="10"/>
 <LEND>
 
 <L>23672<pc>427-2<k1>voqra<k2>voqra
-{#voqra#}¦ {%m.%} ein Schlangenart.
+{#{{vOqra->voqra||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|cf. cae.. ejf Corrected 04/05/2016}}#}¦ {%m.%} ein Schlangenart.
 <LEND>
 
 <L>23673<pc>427-2<k1>voQar<k2>voQa/r
@@ -111765,7 +111765,7 @@ gewährend.
 <LEND>
 
 <L>24101<pc>435-2<k1>SatrUzah<k2>SatrUza/h
-{#SatrUza/h#}¦ {#(˚zA/h)#} Feinde bewältigend.
+{#{{Satruza/h->SatrUza/h||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|cf. cae, mw. Restores alphabetical order}}#}¦ {#(˚zA/h)#} Feinde bewältigend.
 <LEND>
 
 <L>24102<pc>435-2<k1>Sad<k2>Sad<h>1
@@ -117178,7 +117178,7 @@ gehörig, darauf beruhend, vedisch.
 <LEND>
 
 <L>25276<pc>456-2<k1>SrOtasUtra<k2>SrOtasUtra
-{#SrOtasUtra#}¦ {%n.%} ein auf der Śruti beruhendes
+{#{{SrOtrasUtra->SrOtasUtra||20160412|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275|also error in cae}}#}¦ {%n.%} ein auf der Śruti beruhendes
 Sūtra.
 <LEND>
 
@@ -119300,7 +119300,7 @@ gleich, ähnlich.
 <LEND>
 
 <L>25744<pc>464-2<k1>saMkIrtana<k2>saMkIrtana
-{#saMkIrtana#}¦ {%n.%} Erwähnung, Lobpreisung.
+{#{{sakIrtana->saMkIrtana||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|}}#}¦ {%n.%} Erwähnung, Lobpreisung.
 <LEND>
 
 <L>25745<pc>464-2<k1>saMkula<k2>saMkula
@@ -120097,7 +120097,7 @@ immer; {%mit Neg.%} niemals.
 <LEND>
 
 <L>25905<pc>468-1<k1>satomahant<k2>sato/mahant
-{#sato/mahant#}¦ gleich groß.
+{#{{saho/mahant->sato/mahant||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|Also mis-spelled in CAE}}#}¦ gleich groß.
 <LEND>
 
 <L>25906<pc>468-1<k1>satkaraRa<k2>satkaraRa
@@ -121114,7 +121114,7 @@ Nachkommenschaft.
 <LEND>
 
 <L>26118<pc>472-1<k1>santya<k2>santya
-{#santya#}¦ {%Bein. Agni's.%}
+{#{{saMntya->santya||20160128|Dhaval Patel, Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/201|Print has M and n. Since CAE shows 'santya', use 'n'}}#}¦ {%Bein. Agni's.%}
 <LEND>
 
 <L>26119<pc>472-1<k1>saMtyAga<k2>saMtyAga
@@ -123707,7 +123707,7 @@ Grasbüschel.
 <LEND>
 
 <L>26693<pc>481-2<k1>saMmIlita<k2>saMmIlita
-{#saMmIlita#}¦ {%n.%} das Schließen (der Augen).
+{#{{sammIlata->saMmIlita||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ {%n.%} das Schließen (der Augen).
 <LEND>
 
 <L>26694<pc>481-2<k1>saMmuKa<k2>saMmuKa/
@@ -126500,7 +126500,7 @@ einen g. W. führend, redlich.
 [Page493-1]
 
 <L>27288<pc>493-1<k1>sAntapana<k2>sAntapana/
-{#sAntapana/#}¦ wärmend, warm {%(die Marut).%}
+{#{{sAtapana->sAntapana||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|cae, mw have sAMtapana.}}/#}¦ wärmend, warm {%(die Marut).%}
 <LEND>
 
 <L>27289<pc>493-1<k1>sAntardIpa<k2>sAntardIpa
@@ -129217,7 +129217,7 @@ leicht hinüberbringen, helfend, fördernd.
 <LEND>
 
 <L>27907<pc>502-1<k1>supratizWita<k2>su/pratizWita
-{#su/pratizWita#}¦ = {%vor. Adj.%}; {#(˚yaSas#} wohlbegründeten <lbinfo n="9"/>
+{#{{su/pratizwita->su/pratizWita||20160412|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275|also error in cae}}#}¦ = {%vor. Adj.%}; {#(˚yaSas#} wohlbegründeten <lbinfo n="9"/>
 Ruhm habend*).
 <LEND>
 
@@ -129722,7 +129722,7 @@ Gang {%(vgl.%} {#suruNgA)#}.
 <LEND>
 
 <L>28027<pc>504-1<k1>suraBizwama<k2>suraBi/zwama
-{#suraBi/zwama#}¦ {%(Superl.)%} duftigst, lieblichst.
+{#{{suraBi/zWama->suraBi/zwama||20160419|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/290|cf mw, pw.  presume 'zW' is misprint}}#}¦ {%(Superl.)%} duftigst, lieblichst.
 <LEND>
 
 <L>28028<pc>504-1<k1>suraBisamaya<k2>suraBisamaya
@@ -132309,7 +132309,7 @@ das weibliche Geschlecht {%o.%} ein Femininum <lbinfo n="5"/>
 <LEND>
 
 <L>28583<pc>513-1<k1>strItva<k2>strItva
-{#strItva#}¦ {%n.%} Weiblichkeit.
+{#{{strItva->strItva||20151125|Marcis Gasuns|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160|f. -> n.  (headword ok)}}#}¦ {%n.%} Weiblichkeit.
 <LEND>
 
 <L>28584<pc>513-1<k1>strIDana<k2>strIDana
@@ -132816,7 +132816,7 @@ Topf, Kessel.
 <LEND>
 
 <L>28648<pc>516-1<k1>sTAvaratva<k2>sTAvaratva
-{#sTAvaratva#}¦ {%n.%} Unbeweglichkeit.
+{#{{sTAvaratva->sTAvaratva||20151125|Marcis Gasuns|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160|f. -> n.  (headword ok)}}#}¦ {%n.%} Unbeweglichkeit.
 <LEND>
 
 <L>28649<pc>516-1<k1>sTAvira<k2>sTAvira
@@ -133108,7 +133108,7 @@ triefend. {#pra#} {%dass.%}
 <LEND>
 
 <L>28710<pc>517-2<k1>snuzA<k2>snuzA/
-{#snuzA/#}¦ {%f.%} Schwiegertochter.
+{#{{snuzo->snuzA||20160412|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/275|also error in cae}}/#}¦ {%f.%} Schwiegertochter.
 <LEND>
 
 <L>28711<pc>517-2<k1>snuhI<k2>snuhI
@@ -134510,7 +134510,7 @@ Gaṅgā.
 <LEND>
 
 <L>29002<pc>523-1<k1>svargaloka<k2>svarga/loka<h>2
-2. {#svarga/loka#}¦ zur Himmelswelt gehörig.
+2. {#{{srarga/loka->svarga/loka||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}#}¦ zur Himmelswelt gehörig.
 <LEND>
 
 <L>29003<pc>523-1<k1>svargastrI<k2>svargastrI
@@ -134850,7 +134850,7 @@ Schmecken, Goutieren.
 <LEND>
 
 <L>29078<pc>524-2<k1>svAdizWa<k2>svA/dizWa
-{#svA/dizWa#}¦ {%u.%} {#˚dIyaMs#} {%Superl. u. Compar. z.%}
+{#{{svA/dizwa->svA/dizWa||20160407|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/264|mw, ap, etc. have 'W' as superl. of svAdu}}#}¦ {%u.%} {#˚dIyaMs#} {%Superl. u. Compar. z.%}
 {%folg.%}
 <LEND>
 
@@ -135967,7 +135967,7 @@ der Gott des Feuers.
 <LEND>
 
 <L>29285<pc>529-2<k1>haviryajYa<k2>haviryajYa/
-{#haviryajYa/#}¦ {%m.%} einfaches {%o.%} Kleinopfer {%(r.).%}
+{#{{harviryajYa->haviryajYa||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|}}/#}¦ {%m.%} einfaches {%o.%} Kleinopfer {%(r.).%}
 <LEND>
 
 <L>29286<pc>529-2<k1>havirvah<k2>havirva/h
@@ -136660,7 +136660,7 @@ Schaden, Wohl und Wehe.
 <LEND>
 
 <L>29426<pc>532-2<k1>hitopadeSa<k2>hitopadeSa
-{#hitopadeSa#}¦ {%m.%} gute Unterweisung {%T. eines%}
+{#{{hitopadeSa->hitopadeSa||20151125|Marcis Gasuns|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/160|f. -> m.  (headword ok)}}#}¦ {%m.%} gute Unterweisung {%T. eines%}
 {%Fabelbuchs.%}
 <LEND>
 
@@ -137703,7 +137703,7 @@ verheimlicht, verstellt, fälschlich dargestellt. <lbinfo n="9"/>
 <LEND>
 
 <L>29664<pc>536-2<k1>hyas<k2>hya/s
-{#hya/s#}¦ {%Adv.%} gestern.
+{#{{hma/s->hya/s||20160511|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/259|hm/hy (gestern, cf. pw.)}}#}¦ {%Adv.%} gestern.
 <LEND>
 
 <L>29665<pc>536-2<k1>hyastana<k2>hyastana
@@ -138548,7 +138548,7 @@ an drei Stellen befindlich.
 <LEND>
 
 <L>29856<pc>540-1<k1>draQIyaMs<k2>*draQIyaMs
-{#*draQIyaMs#}¦ {%(unter%} {#draDizWa)#}.
+{#*{{draDIyaMs->draQIyaMs||20160404|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/261|supplement. Also draDizWa -> draQizWa in entry.  ejf Corrected 04/05/2016}}#}¦ {%(unter%} {#draDizWa)#}.
 <LEND>
 
 <L>29857<pc>540-1<k1>draviRasyu<k2>draviRasyu/
