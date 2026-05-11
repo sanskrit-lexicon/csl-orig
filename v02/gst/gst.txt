@@ -1918,7 +1918,7 @@ and {#naga#}.
 
 <L>302<pc>008-b<k1>agaja<k2>agaja
 {#agaja#}¦ Tatpur. I. m. f. n. ({#-jaH-jA-jam#}) <sup>1</sup> Produced on a
-mountain, mountainous. <sup>2</sup> Produced from a tree, vegetable.
+mountain, {{mountaineous->mountainous|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}. <sup>2</sup> Produced from a tree, vegetable.
 <div n="P">II. n. ({#-jam#}) Bitumen. See {#SilAjatu#}. E. {#aga#} and {#ja#}.
 <LEND>
 
@@ -5929,7 +5929,7 @@ neg. and {#jIvita#}.
 
 <L>940<pc>027-a<k1>ajuzwa<k2>ajuzwa
 {#ajuzwa#}¦ Tatpur. m. f. n. ({#-zwaH-zwA-zwam#}) (ved.) Not pleasant, not
-agreeable. E. {#a#} neg. and {#juzwa#}.
+{{agreable->agreeable|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}. E. {#a#} neg. and {#juzwa#}.
 <LEND>
 
 <L>941<pc>027-a<k1>ajuzwi<k2>ajuzwi
@@ -11170,7 +11170,7 @@ taphorically. E. {#aDas#} and {#pAta#}.
 <LEND>
 
 <L>1765<pc>051-b<k1>aDaHpuzpI<k2>aDaHpuzpI
-{#aDaHpuzpI#}¦ Bahuvr. f. ({#-zpI#}) <sup>1</sup> A plant (Pimpinella anisum).
+{#aDaHpuzpI#}¦ Bahuvr. f. ({#-zpI#}) <sup>1</sup> A plant (Pimpinella {{anisun->anisum|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}).
 See {#avAkpuzpI#}. <sup>2</sup> Another plant (Elephantopus scaber)
 or perhaps Hieracium. See {#gojihvA#}. E. {#aDas#} and {#puzpa#},
 fem. aff. {#NIz#}, lit. having its flowers hanging downwards.
@@ -11635,7 +11635,7 @@ the last meaning, the object compared with stands in the abla-
 tive. Cf. {#aDyArUQa#}. With numerals {#aDika#} may form Bahuvr.
 compounds, usually in the plural, if it is the former part of
 the compound; for instance {#aDikacatvAriMSAH#} (sc. {#saMKyAH#}) i. e.
-more than forty. It is considered as dropped in Dwandwa
+more than {{fourty->forty|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}. It is considered as dropped in Dwandwa
 compounds of numerals f. i. in {#paYcaviMSati#}, equal to {#paYcADi-#}
 {#kaviMSati#}.) <sup>5</sup> Embolismic, intercalary (only in composition
 with and prefixed to the name or numeral of a luni-solar
@@ -11773,7 +11773,7 @@ E. {#aDikarman#}, taddh. aff. {#Wan#}.
 <LEND>
 
 <L>1849<pc>054-b<k1>aDikalpin<k2>aDikalpin
-{#aDikalpin#}¦ Tatpur. m. ({#-lpI#}) (ved.) An exceedingly shrewd
+{#aDikalpin#}¦ Tatpur. m. ({#-lpI#}) (ved.) An exceedingly {{shrewed->shrewd|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}
 gambler, one skilled in superior tricks or combinations(?).
 E. {#aDi#} and {#kalpin#}.
 <LEND>
@@ -12135,7 +12135,7 @@ bile, phlegm or blood. Also {#aDImanTa#}. E. {#aDi#} and {#manTa#}.
 {#aDimanTana#}¦ Tatpur. m. n. ({#-naH-nam#}) (ved.) A piece of wood from
 the paring of the sacrificial post, placed over the araṇi
 (q. v.) to kindle a fire by attrition. E. {#manT#} with {#aDi#},
-kṛt aff. {#lyuw#}; scil. {#Sakala#}.
+kṛt aff. {#lyuw#}; {{seil->scil|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}. {#Sakala#}.
 <LEND>
 
 <L>1906<pc>056-a<k1>aDimanTita<k2>aDimanTita
@@ -13909,7 +13909,7 @@ aff. {#ac#}.
 <L>2169<pc>064-b<k1>anaMSa<k2>anaMSa
 {#anaMSa#}¦ Bahuvr. m. f. n. ({#-SaH-SA-Sam#}) <sup>1</sup> Portionless, not en-
 titled to a share or portion. <sup>2</sup> (In law.) One excluded from
-participation in an inheritance viz. a eunuch, a degraded
+participation in an inheritance viz. a {{eunuque->eunuch|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}, a degraded
 man, a blind or deaf person, a fool, an idiot, a dumb
 [Page065-a+ 56]
 person or one deprived of one of his limbs or senses, a
@@ -19822,7 +19822,7 @@ having means of subsistence(?). E. {#a#} neg. and {#upapanna#}.
 of Nepal) a class of Buddhas which is of non-material ori-
 gin, also called {#DyAnibudDAH#} ‘the Buddhas of contemplation’;
 in contradistinction from the {#mAnuzibudDAH#} or the seven Bud-
-dhas of human origin, the last of which is Śākyamuni.
+dhas of human {{origine->origin|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}, the last of which is Śākyamuni.
 E. {#a#} priv. and {#upapAdaka#} lit. ‘without a parent’.
 <LEND>
 
@@ -21756,7 +21756,7 @@ or an expression used which would seem superfluous, be-
 cause not conveying a new notion, such repeated word or
 [Page103-a+ 56]
 such expression is {#anuvAda#}, provided a certain purpose be
-connected with it, otherwise it would be simply {#punarukta#} or
+connected with it, otherwise it would be {{sipely->simply|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} {#punarukta#} or
 a meaningless tautology, e. g. {#Gawo GawaH#} or {#GawaH kalasaH#} ‘a
 jar is a jar’ would be a {#punarukta#}; but the repetition of {#paSyet#}
 in Yājnav. 2. 1. from 1. 359. is an {#anuvAdaH#} because it points
@@ -22454,7 +22454,7 @@ variable as that of the named varieties viz. the {#Sloka#}. In a
 vaidik hymn the Anuṣṭubh is represented as one of the
 primitive creations, that originated together with the moon;
 according to some Purāṇas it was created from the northern
-mouth of the four-headed Brahman (m.) together with the
+mouth of the {{fourheaded->four-headed|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} Brahman (m.) together with the
 Atharvaveda, a portion of the Sāmaveda and some hymns
 as well as the Āptoryāma portion of the Jyotiṣṭoma sacri-
 fice; accord. to another Purāṇa from the tendons of Brahman.
@@ -26432,7 +26432,7 @@ with {#anta#}; see the Preface.
 <div n="P">II. denom. parasm. ({#-ntayati#}) To make an end of, to
 destroy. E. {#anta#}, denom. aff. {#Ric#}.
 <div n="P">III. f. ({#-ntiH#}) (In theatrical language.) An elder sister.
-E. An abbreviation of {#antikA#}.
+E. An {{abbrevation of {#antikA#}->abbreviation of {#antikA#}|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}.
 <LEND>
 
 <L>3953<pc>127-b<k1>antika<k2>antika
@@ -29597,7 +29597,7 @@ E. {#anya#} and {#vrata#}.
 
 <L>4307<pc>146-a<k1>anyaSAKaka<k2>anyaSAKaka
 {#anyaSAKaka#}¦ Bahuvr. m. ({#-kaH#}) <sup>1</sup> A Brāhmaṇa who has been
-abandoned by his school (comm. = {#svakIyaSAKArahitaH#}).
+{{abandonned->abandoned|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} by his school (comm. = {#svakIyaSAKArahitaH#}).
 <sup>2</sup> One who has been given up by his own family (comm.
 {#atra SAKASabdaH pakzAntare saMtativiSezArTaH#}); comp. the follow-
 ing. E. {#anya#} and {#SAKA#}, samās. aff. {#kap#}.
@@ -30264,7 +30264,7 @@ idol): {#pASANkuSAhiqamarUkakapAlaSUlEH . KawvANgaSaktiSaracA-#}
 p. 124 note): ‘the 24 different representations of Viṣṇu,
 arising from his diversity in the manner of placing the
 weapons or attributes in his four hands, are distinguished
-by as many discriminative titles of the god allotted to those
+by as many discriminative titles of the god {{alloted->allotted|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} to those
 figures in the theogonies of the Purāṇas. It does not ap-
 pear that distinct titles have been in like manner assigned
 to any part of the more than three millions of varied re-
@@ -31768,7 +31768,7 @@ with {#apa#}, kṛt aff. {#GaY#}.
 <L>4532<pc>159-a<k1>apaGana<k2>apaGana
 {#apaGana#}¦ Tatpur. m. ({#-naH#}) Any limb or member of the body,
 as hands, feet &c. (but not the whole body, as the {%Kāśikā%}
-explicitly observes on Pāṇ. III. 3. 81.: {#apaGano'NgAvayavE-#}
+{{explicitely->explicitly|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} observes on Pāṇ. III. 3. 81.: {#apaGano'NgAvayavE-#}
 {#kadeSo na sarvaH . kiM tarhi pARiH pAdaScABiDIyate#}; hence also
 the commentators on the {%Amarak.%} explain the word either
 {#hastAdyavayava#} or {#hastapAdAdyavayava#} or {#hastapAdAdyaNga#} &c. Yet
@@ -31863,7 +31863,7 @@ with {#apa#}, kṛt aff. {#kta#}, āgama {#iw#}.
 {#apacAra#}¦ Tatpur. m. ({#-raH#}) 1. <sup>1</sup> Departure, death; e. g. {#siMhaGozaSca#}
 {#kAntakApacAraM nirBidya#} &c. <sup>2</sup> Absence, want; e. g. {#antarA-#}
 {#Sabdo'dfzwApacAraH#}; or {#SrutavrIhyapacAre nivArapriyaMgvAdikaM#}
-{#kiMciddravyaM pratiniDAtavyam#}. <sup>3</sup> A failure, a deficiency; e. g.
+{#kiMciddravyaM pratiniDAtavyam#}. <sup>3</sup> A failure, a {{deficience->deficiency|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}; e. g.
 {#nApacAramagamankvacitkriyAH sarvamatra samapAdi sADanam .#}
 (comm. {#apacAraM lopaviparyAsAdidozam#}). E. {#car#} with {#apa#},
 kṛt aff. {#GaY#}.
@@ -35098,7 +35098,7 @@ to Viṣṇu in the {%Bhāgav. Pur.%}) {#yadi racitaDiyaM mAvidyaloko#}
 {#cAraBrazwam#}), ‘if the ignorant world declares me whose mind
 is properly framed, to be abject, I do not mind it on ac-
 count of thy paramount grace’; {%Burnouf%} renders this pas-
-sage: ‘si pendant ce temps le monde ignorant m'appelle
+sage: ‘si pendant ce temps le monde ignorant {{mappelle->m'appelle|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}
 avec mépris contempteur des lois &c.’. <sup>3</sup> Disabled, broken
 (lit. or fig.), e. g. {#gargARAM vAhanamapavidDam#}; ({%Kaiyyaṭa:%} {#apa-#}
 {#vidDamiti vahanaSaktivikalaM pranazwamityarTaH#}); or in the {%Mālatīm.%}
@@ -36009,7 +36009,7 @@ with; e. g. in the {%Mālatīm.%} {#apahastitabAnDave tvayA vihitaM sA-#}
 [Page183-a+ 56]
 
 <L>5024<pc>183-a<k1>apahAna<k2>apahAna
-{#apahAna#}¦ Tatpur. m. f. n. ({#-naH-nA-nam#}) Leaving, abandoning.
+{#apahAna#}¦ Tatpur. m. f. n. ({#-naH-nA-nam#}) Leaving, {{abandonning->abandoning|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}.
 For the irregular femin. in {#A#}, instead of in {#I#}, compare
 {#pUrvApahARA, parApahARA#} and {#aparApahARA#}; the word itself
 occurring probably only in these compounds. Comp. {#apa-#}
@@ -36803,7 +36803,7 @@ supposed to have the power of removing sins, and also as
 a medicament; it has three varieties: the white, the red and
 the water-Apāmārga. The white variety is described as ‘a
 little pungent, hot, bitterish, astringent or constipating,
-emetic, pungent (sic), increasing the digestion, or stomachic,
+{{emetic, purgent->emetic, pungent|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} (sic), increasing the digestion, or stomachic,
 and applied against diseases from phlegm, the itch, piles,
 diseases of the stomach, of the blood, of serous secretions,
 of the vital airs, against cutaneous eruptions, leprosy, in-
@@ -36904,7 +36904,7 @@ ten thus in the Calc. ed. of the comm. of the {%Sāṅkhya-%}
 {%pravachana%} and in the E. I. H. Ms. 2668; in {%Wilson'%}s ed.
 of the {%Sāṅkhya-Kārikā%} {#pArApAra#}); it is among the nine
 kinds of acquiescence or {#tuzwi#} (q. v.) one of the five called
-{#vAhya#} or acquiescences relating to exterior objects. [{%Wilson%}
+{#vAhya#} or {{acquiences relating to->acquiescences relating to|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} exterior objects. [{%Wilson%}
 in his comment on the Kārikā (page 155) renders the literal
 meaning of this word ‘shoreless’, taking it therefore as a
 Bahuvr.; but it seems to me that the compound terms of
@@ -37049,7 +37049,7 @@ synonymes and the form {#pAlaNka#} which seems kindred to it.)
 
 <L>5135<pc>189-a<k1>apAlana<k2>apAlana
 {#apAlana#}¦ Bahuvr. m. f. n. ({#-naH-nA-nam#}) Unprotected; as an
-animal not protected against casualties from weather &c.
+animal not protected against {{casualities->casualties|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} from weather &c.
 E. {#a#} priv. and {#pAlana#}.
 <LEND>
 
@@ -37303,7 +37303,7 @@ kṛt aff. {#Satf#}.
 ticle originally implying {%location%} and hence {%proximity,%}
 which, like other particles of location, then has become
 one implying {%emphasis.%} It is used, in some instances, as
-a prefix to verbs, is considered in one instance as a se-
+a {{prefex to verbs, is considered->prefix to verbs, is considered|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} in one instance as a se-
 parable preposition governing a noun, but occurs more
 commonly as an adverb or conjunction. It forms with a
 following noun in a few instances Tatpur. and Bahuvr.
@@ -37323,10 +37323,10 @@ the Vedas(?). As this radical is combined then with the
 locative, its sense remaining the same as if it were not con-
 nected with {#api#}, it is possible to refer {#api#} to another
 word of the sentence, instead of considering it as a prefix
-to {#as#}, in all instances in which the radical {#s#} of {#as#} under-
+to {#as#}, in all instances in {{wich the radical->which the radical|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} {#s#} of {#as#} under-
 goes no change; but in combinations like {#api zyAt#}, it
 would seem necessary to look upon {#api#} as upon a prefix
-({#upasarga#}) if we follow {%Pāṇ.%} VIII. 3. 87. and implicitly I. 4.
+({#upasarga#}) if we follow {%Pāṇ.%} VIII. 3. 87. and {{implicitely->implicitly|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} I. 4.
 96.--since {#api#} is called there {#karmapravacanIya#} in other mean-
 ings than in that of location--; comp. also {%Kaiyyaṭa%} as
 quoted in the following {#yaTApiSabdasya#} &c. On the other
@@ -37444,7 +37444,7 @@ a stronger junction or a stronger antithesis between {%several%}
 words or sentences; I. {%by imparting greater power%} <sup>A.</sup> to {%one%}
 word in general, esp. to {%a noun;%} it is synonymous then
 with {#eva#} and placed in most instances after the word to
-which it refers, but sometimes also after a word depending
+which it refers, but {{sometimas also->sometimes also|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} after a word depending
 on, or relating to, that to which it properly belongs, to
 effectuate, as it were, at the same time a stronger relation
 between both; e. g. {#nizWurASlIlatIvratvAttadapi#} (i. e. {#vAkpA-#}
@@ -39025,7 +39025,7 @@ determined by the quality ‘duality’ commences’. [{%Śan-%}
 {#nyajYAnasya ca dvitvaguRabudDito vinASaH . dvitvaguRabudDeSca dvitva-#}
 {#viSizwadravyajYAnAt#}; (the terms {#budDi#} and {#jYAna#} have both
 here been rendered ‘comprehension’, to indicate that no
-distinction is intended by the author in choosing two dif-
+distinction is intended by the author in {{chosing->choosing|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} two dif-
 ferent words; comp. {%Praśastapāda:%} {#budDirupalabDirjYAnaM pratyaya#}
 {#iti paryAyAH#}).]--According to the foregoing definition
 the mental process {#apekzAbudDi#} and, consequently, the notion
@@ -39706,7 +39706,7 @@ of Śiva on account of his devotion for this god and his
 great learning, for ‘at the age of twelve years he perfectly
 studied the Vedas and was besides master of several ab-
 struse sciences’. In his crusade for establishing the supe-
-riority of Śivaism he was once waylaid in a forest by
+riority of Śivaism he was once {{waylayed->waylaid|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} in a forest by
 ruffians, hired by one of his unvictorious opponents at the
 court of Vankatapati, but rescued by timely aid. He
 died at Chillumbrum, as it appears, at the age of ninety.
@@ -40022,7 +40022,7 @@ latter assumes {%‘always’%} the form {#aprajas#}, and his rule is
 neither contradicted nor restricted by any of his commen-
 tators; the meanings of {#apraja#} and {#aprajas#} will often coin-
 cide in bearing--comp. also {#aprajAtA, apaprajAtA, apra-#}
-{#sUtA--#}, but their difference will be perceived in such in-
+{#sUtA--#}, but their difference will be {{porceived->perceived|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} in such in-
 stances as given above, e. g. in {#aSvataryo'prajAH#} when the
 Bahuvr. epithet ‘without progeny’ would alter the sense,
 or in {%Chāṇakya'%}s {#mETunamaprajam#}, since it would be absurd to
@@ -42556,7 +42556,7 @@ idea becomes then more systematized in the {%Purāṇas,%} when
 a description is given of the Genii that attend the chariot
 of the Sun in its yearly course; thus the {%Bhāgavata P.%}
 mentions that besides the Ṛṣis, Gandharvas &c. also one
-Gaṇa or troupe of Apsarasas pays adoration to the Sun every
+Gaṇa or {{troup->troupe|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} of Apsarasas pays adoration to the Sun every
 month; and the {%Viṣṇu P.,%} that among the Genii who pre-
 side each in every month over the chariot of the Sun, Kra-
 tusthalā performs this function in the month Madhu, Punji-
@@ -44003,7 +44003,7 @@ to {%Rāyamuk.%} and {%Ramānātha%}). E. {#a#} neg. and {#brAhmaRya#}.
 <L>5830<pc>231-b<k1>abliNga<k2>abliNga
 {#abliNga#}¦ Bahuvr. n. ({#-Ngam#}) A verse (of the three verses) of
 the Ṛgveda hymn X. 9. 1-3. (or Sāmav. 2. 1187-1189. = II. 9.
-2. 10.) which is addressed to the divinity Water; {%Yājnav.:%}
+2. 10.) which is {{adressed->addressed|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} to the divinity Water; {%Yājnav.:%}
 {#udakyASuciBiH snAyAtsaMspfzwastErupaspfSet . abliNgAni ja-#}
 {#peccEva gAyatrIM manasA sakft#} ({%Mit.:%} {#abliNgAni . Apo hi#}
 {#zWetyevamAdIni trIRi mantravAkyAni#}). Comp. {#abdEvata#}. E.
@@ -49562,7 +49562,7 @@ observe and as may be inferred from instances in the epic
 and dramatic literature; thus in the {%Sabhāparvan%} of the {%Ma-%}
 {%hābhārata, Nārada%} after having returned the salute of {%Yu-%}
 {%dhishthira%} does not content himself with the question whether
-the king is quite well, but overwhelms him with an inter-
+the king is quite well, but {{overwhelmes->overwhelms|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} him with an inter-
 rogatory of 110 Slokas (v. 151-260) which is perhaps the
 completest of its kind, though probably an overdone illus-
 tration of this part of a Hindu greeting.
@@ -49575,7 +49575,7 @@ of all the sins of the person he ought to have greeted
 {#tasmAdBAgaM prapadyate#}), by {%Angiras%} to fall into hell and by
 the {%Bhavishya-Purāṇa%} moreover, if the person thus slighted
 is a Brāhmaṇa, to be reborn in a future life as a tree on a
-cemetery which will be inhabited by vultures and crows;
+cemetery which will be {{inhabitated->inhabited|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} by vultures and crows;
 ({%Bhav.-Pur.:%} {#aBivAde kfte yastu na karotyaBivAdanam . ASizaM#}
 {#vA na kurvIta sa yAti narakaM Druvam . aBivAde kfte yastu taM vipraM#}
 {#nABivAdayet . SmaSAne jAyate vfkzo gfDrakAkanizevitaH#}).--
@@ -51203,7 +51203,7 @@ causes the king to take the following oath: ‘if I (the king)
 do ever harm to thee, thou (the priest) mayst deprive me
 of all pious acts ({#izwApUrtam#}; {%Sāy.:%} {#SrOtasmArtadvayam#}) which
 I have done from the time of my birth up to that of my
-death, of heaven and whatever else good has been accom-
+death, of heaven and {{whaterer->whatever|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} else good has been accom-
 plished by me, of long life and offspring’. He then orders
 his attendants to bring four kinds of fruits: the fruit of
 the {%Nyagrodha%} (ficus Indica), of the {%Udumbara%} (ficus glo-
@@ -51224,7 +51224,7 @@ proceeding from rain during sunshine, before it has fallen
 down; afterwards, having placed the ladle or vessel on the
 ground, they address the throne-seat with a Mantra which
 recalls the component parts of Indra's throne and thus
-tends to identify both: ‘may thy front legs be Bṛhat and
+tends to {{identifiy->identify|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} both: ‘may thy front legs be Bṛhat and
 Rathantara &c. &c.; may Savitṛ and Bṛhaspati support
 thy fore-legs &c. &c. (see above page 277{%b,%} line 1 ff.)’. Then
 the priest asks the king to ascend the throne-seat, inviting
@@ -52112,7 +52112,7 @@ from the door of a temple and from the Ganges; and accord-
 ing to some, earth stirred up by the teeth of an elephant,
 earth from a river, from its two banks, from a town-gate
 ({#nAgaramfttikA#}), from a cowpen and a trivium; others
-name infusions of the five articles of Pañchāmṛta severally,
+name {{infusions of the five acticles->infusions of the five articles|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} of Pañchāmṛta severally,
 of the small and the large annuals severally ({#savOzaDi-#}
 {#mahOzaDI pfTak#}), of the five kinds of extracts severally, or
 infusions only of two articles of the Pañchāmṛta (viz.
@@ -53250,7 +53250,7 @@ e. g. act 2, scene 9: {#…nIlendIvaradAmadIrGatarayA dfzwyA#}
 {#DayantI mano dolAndolanalolakaNkaRaraRatkArottaraM sarpati#});
 or {%Amaruśat.%} v. 28 and 69. A servant girl who makes love in
 the manner described, is exhibited in the {%Sāhityadarpaṇa:%} her
-betel-stained teeth she always displays; with horse laughter
+betel-stained teeth she always displays; with {{horselaughter->horse laughter|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}
 she laughs, but no one knows why; from place to place
 she sets, to please, her staggering steps, and dancing high
 her hips, she slily stops before young men’.] The best
@@ -54352,7 +54352,7 @@ negative surd-root in the square, treating that irrational
 quantity as an affirmative one, let the two surds in the
 root be found, and one of them, as selected by the intel-
 ligent calculator, must be deemed negative).
-<div n="P">2. m. ({#-zwaH#}) A beloved person, a sweetheart; said
+<div n="P">2. m. ({#-zwaH#}) A beloved person, a {{sweatheart->sweetheart|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}}; said
 esp. of a man; e. g. {%Śiśupālab.:%} {#aBIzwamAsAdya cirAya kAle#}
 [Page302-a+ 56]
 {#samudDftASaM kamanI cakASe . yozinmanojanmasuKodayezu samudDftA-#}
@@ -54372,7 +54372,7 @@ The latter vocabulary has been composed by {%Chakrapāṇi-%}
 it does not contain as much matter as this vocabulary nor
 does it follow {%throughout%} its order; but in certain portions it
 {%has%} the same order and it gives always literally the text of
-the {%Amarak.,%} wherever additional synonymes have been
+the {%Amarak.,%} {{whereever->wherever|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} additional synonymes have been
 intended by the author, these synonymes being either im-
 mediately annexed by him to the words of the {%Amarak.%}
 in a subsequent verse or pointed out through the repetition
@@ -54391,7 +54391,7 @@ runs thus in the {%Bodleian%} copy of the {%Śabdach.,%} of Professor
 {#pucCArSoGnI SyAmA varatkarI#} (and these eight words the per-
 fume {%Reṇukā%}) {#.. reRukAKye ganDadravye ..#}. The mentioned Ms.
 omits, as may be observed, (contrary to its practice, and
-merely from carelessness of the copyist,) the ending word,
+merely from {{carelesness->carelessness|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} of the copyist,) the ending word,
 {#.. tAmbUlI ..#}, before {#reRukAyAM#}, and as it has served both,
 Professor {%Wilson%} and {%Rādhākaṇtadeva,%} the oversight be-
 comes thus explainable.]
@@ -54568,7 +54568,7 @@ a solid ground; e. g. {%Kātyāy. Śrautas.:%} {#SUlaM cABUmO#} ({%Yā-%}
 not to put it down anywhere, i. e. he is to hold it up).
 <sup>2</sup> No object for; e. g. {%Śākunt.:%} {#sa Kalu manoraTAnAmaBUmirvi-#}
 {#sarjanAvasarasatkAraH#} (comm. {#aBUmiH = avizayaH#}) ‘the honour
-(Indra conferred on me) at the occasion of dismissing me,
+(Indra conferred on me) at the occasion of {{dimissing->dismissing|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} me,
 was indeed no object for (i. e. beyond) my wishes’; or
 {%Śiśupālabadha:%} {#aBUdaBUmiH pratipakzajanmanAM BiyAm#} (comm.
 {#aBUmiravizayaH#}) ‘he was no object for fear from enemies’,
@@ -54974,14 +54974,14 @@ practice is thus briefly described in the {%Rājanigh.:%} {#aByaNgo#}
 {#valapradaH . pAdAByaNgo'Ta nidrAkfccakzuzaH pAdarogahA . cakzuzi#}
 {#pratibadDe dve Sire pAdagate nfRAm . ataScakzuHprasAdArTaM pAdA-#}
 {#ByaNgaM samAcaret#} (comp. also {%Wise, Hindu syst. of Med.%} p. 93).
-A religious student, an anchorite and a widow are for-
+A religious student, an {{anchorete->anchorite|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} and a widow are for-
 bidden to anoint themselves; {%Manu:%} {#(brahmacArI varjayet)#}
 {#aByaNgamaYjanaM cAkzRorupAnacCatraDAraRam#}); {%Prachetas%} (as quoted
 by {%Raghunand.%}): {#tAmbUlAByaYjanaM cEva kAMsyapAtre ca Bojanam .#}
 {#yatiSca brahmacArI ca viDavA ca vivarjayet#}). <sup>3</sup> Unguent, lini-
 ment; e. g. {%Suśr.:%} {#sPowajanmarujAsrAvatvakpAkaH svedanaM jvaraH .#}
 {#daraRaM cApi mAMsAnAmaByaNge vizasaMyute#}. [<sup>4</sup> Applying colly-
-rium to the eyes. <sup>5</sup> Sediment of oil, oil cake ({%Wilson%})].
+rium to the eyes. <sup>5</sup> Sediment of oil, {{oilcake->oil cake|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} ({%Wilson%})].
 See the following. E. {#aYj#} with {#aBi#}, kṛt aff. {#GaY#}.
 <LEND>
 
@@ -56612,7 +56612,7 @@ of {%Harisvāmin%}--Ms. E. I. H.--: {#‘paYcaBiretABiH kalpAntaraM#}
 {%‘sense’%} but not the grammatical quality of {#aByAvartam#}. It
 should be observed that in this and similar passages {#trivft#},
 {#ekaviMSa, trayastriMSa, ekaviMSa#} &c. are names of {%Stomas%} which
-qualify the {%Stotra:%} the former expressing how often the
+{{qualifiy->qualify|||Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/50|}} the {%Stotra:%} the former expressing how often the
 verses of a Stotra are to be repeated, while the {%Viṣṭuti%}
 explains the {%order%} in which such a repetition takes place;
 comp. e. g. {%Mādh. Jaiminīyany.:%} {#tezu trizu tfcezUrDvagAnena tri-#}
