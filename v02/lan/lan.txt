@@ -605,7 +605,7 @@ quite different <ab>mg</ab> and origin.]
 <LEND>
 <L>129<pc>114-b<k1>adurmaNgala<k2>a/-durmaNgala
 {@á-durmaṅgala,@}¦ {%<ab>f.</ab>%} {@-ī,@} {%<ab>a.</ab>%} bringing no bad
-luck. [for declension, <ab>cf.</ab> {@sumaṅgála,@}
+luck. [for {{deelension->declension||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}}, <ab>cf.</ab> {@sumaṅgála,@}
 {@-galī́,@} and <ls n="wg,355">355b</ls>.]
 <LEND>
 <L>130<pc>114-b<k1>adfzwa<k2>a-df/zwa
@@ -1671,7 +1671,7 @@ solstice to the other), {%<ab>i. e.</ab>%} half-year. [{@√i,@}
 {@áyas,@}¦ {%<ab>n.</ab>%} metal; iron. [<ab>cf.</ab> Old <ab>Lat.</ab> {%ais,%}
 <ab>gen.</ab> {%ais-is,%} <ab>Lat.</ab> {%aes,%} ‘metal, bronze’; <ab>AS.</ab>
 {%ār,%} ‘bronze,’ <ab>Eng.</ab> {%ore;%} perhaps <ab>AS.</ab> {%īsern,%}
-{%īren,%} <ab>Eng.</ab> {%iron,%} ‘ferrum, ferreous.’]
+{%īren,%} <ab>Eng.</ab> {%iron,%} ‘ferrum, {{ferreus->ferreous||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}}.’]
 <LEND>
 <L>375<pc>120-a<k1>ayasmaya<k2>ayasma/ya
 {@ayasmáya,@}¦ {%<ab>a.</ab>%} iron. [see {@maya.@}]
@@ -4684,7 +4684,7 @@ Indra and Brihaspati. [{@índrābṛ́haspáti,@}
 {@ókas,@}¦ {%<ab>n.</ab>%} wonted place; home. [{@√uc.@}]
 <LEND>
 <L>983<pc>138-a<k1>oMkfta<k2>oM-kfta
-{@oṃ-kṛta,@}¦ {%<ab>a.</ab>%} having an uttered om, accompanied  <lbinfo n="accom-panled"/>
+{@oṃ-kṛta,@}¦ {%<ab>a.</ab>%} having an uttered om, {{accompanled->accompanied||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}}  <lbinfo n="accom-panled"/>
 by om. [the natural order would
 require {@kṛtaum:@} order inverted to avoid
 such an undeclinable stem.]
@@ -5113,7 +5113,7 @@ of a place.
 <L>1073<pc>140-b<k1>kavi<k2>kavi/
 {@kaví,@}¦ {%<ab>a.</ab>%} wise, possessed of insight (of gods,
 {%<ab>esp.</ab>%} Agni); {%as <ab>m.</ab>%} wise man, seer, sage;
-poet; {%<ab>pl.</ab>%} wise men of old (whose spirits
+poet; {%<ab>pl.</ab>%} wise men of {{eld->old||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}} (whose spirits
 hover about the sun), <ls n="lan,91,12">91<sup>12</sup></ls>. [<ab>prop.</ab> ‘seer,’
 {@√kū,@} ‘see,’ for {@*skū:@} <ab>cf.</ab> <lang n="greek">θυοσκόυς, *-σκοϝο-ς</lang>,
 ‘inspecting the sacrifice’; <ab>Lat.</ab> {%cav-ēre,%}
@@ -6342,7 +6342,7 @@ his harsh bray), <ls n="lan,67,19">67<sup>19</sup></ls>.
 {@khála,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} threshing-floor; <div n="2"/>{@—2.@} a
 mean, low-lived fellow. [the tertium
 [Page148-a+ 50]
-comparations for 1 and 2 is perhaps
+{{comparationis->comparations||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}} for 1 and 2 is perhaps
 ‘dirt.’]
 <LEND>
 <L>1309<pc>148-a<k1>Kalu<k2>Ka/lu
@@ -12678,7 +12678,7 @@ the logical relation of the two parts--so,
 {%<ab>e. g.</ab>,%} in {@parasparaṃ nindanti,@} ‘they scold,
 the one the other’--but have come to
 be stereotyped and used often where the
-logical relation would require other case forms:  <lbinfo n="case-forms:"/>
+logical relation would require other {{caseforms->case forms||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}}:  <lbinfo n="case-forms:"/>
 <ab>cf.</ab> {@anyonya.@}]
 <LEND>
 <L>2472<pc>187-b<k1>parasparAdin<k2>parasparAdin
@@ -15836,7 +15836,7 @@ be’; <ab>AS.</ab> {%beōm,%} ‘am’; <ab>Eng.</ab> {%be.%}]
 come to understand; perceive; hear, <ls n="lan,4,21">4<sup>21</sup></ls>.
 <div n="p"/>{@+ abhi,@} be against [<ls n="wg,1077">1077<sup>8</sup></ls>], oppress,
 {%and so%} overpower.
-<div n="p"/>{@+ ud,@} arise up, make itself perceptible.
+<div n="p"/>{@+ ud,@} arise up, make itself {{pereeptible->perceptible||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}}.
 <div n="p"/>{@+ pari,@} <div n="2"/>{@—1.@} be around, surround, encompass; <lbinfo n="en-compass;"/>
  <div n="2"/>{@—2.@} ({%like the <ab>Eng.</ab> <ab>colloq.</ab>%} get
 around, {%<ab>i. e.</ab>%}) get the better of, prove
@@ -22132,7 +22132,7 @@ at the head, be chief in importance, <ls n="lan,22,21">22<sup>21</sup></ls>;
 <ls n="lan,104,2">104<sup>2</sup></ls>; <div n="2"/>{@—6.@} proceed, behave; <div n="2"/>{@—7.@} {%attenuated %} <lbinfo n="atten-uated"/>
 {%in <ab>mg</ab> from sense%} 3 {%to that of a simple%}
 {%copula,%} be, <ls n="lan,51,4">51<sup>4</sup></ls>; {@--vṛttá,@} {%see <ab>s. v.</ab>%}
-<div n="1"/>[<ab>cf.</ab> <ab>Lat.</ab> {%vert-ere,%} ‘turn’; <ab>AS.</ab> {%weorðan,%}
+<div n="1"/>[<ab>cf.</ab> <ab>Lat.</ab> {%vert-ere,%} ‘turn’; <ab>AS.</ab> {%{{weoran->weorðan||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}},%}
 ‘become,’ <ab>Eng.</ab> {%worth,%} ‘become, be to’ (in
 [Page250-b+ 50]
 {%wo worth the day%}), <ab>Ger.</ab> {%werden,%} ‘become’;
@@ -25915,7 +25915,7 @@ important. [<ls n="wg,1288">1288b</ls>.]
 <LEND>
 <L>4650<pc>274-b<k1>sumeka<k2>su-me/ka
 {@su-méka,@}¦ {%<ab>a.</ab>%} (having a good setting-up,
-{%<ab>i. e.</ab>%}) firmly established.
+{%<ab>i. e.</ab>%}) firmly {{stablished->established||20210219|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/52|}}.
 <LEND>
 <L>4651<pc>274-b<k1>sumeDas<k2>su-meDa/s
 {@su-medhás,@}¦ {%<ab>a.</ab>%} having good insight {%or%}
