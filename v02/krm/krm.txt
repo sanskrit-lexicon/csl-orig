@@ -28389,7 +28389,7 @@
 <LEND>
 
 <L>890<pc>0786<k1>dvf<k2>dvf
-(890) {@<s>“dvf saMvaraRe”</s>@}¦ (I<s>-BvAdiH</s>-934. <s>saka</s>. <s>ani</s>. <s>para</s>.)
+(890) {@<s>“{{dva saMvaraRe->dvf saMvaraRe||20200328||https://github.com/sanskrit-lexicon/csl-orig/issues/205|vowel sign 'f' missing}}”</s>@}¦ (I<s>-BvAdiH</s>-934. <s>saka</s>. <s>ani</s>. <s>para</s>.)
 <s>‘vf varaRe’ ityeke .</s> 
 [Page0787+ 26]
 <s>dvArakaH-rikA, dvArakaH-rikA</s>,
@@ -45920,7 +45920,7 @@
 <LEND>
 
 <L>1594<pc>1226<k1>vicCa<k2>vicCa
-(1595) {@<s>“vicCa gatO”</s>@}¦ (VI<s>-tudAdiH</s>-1423. <s>saka</s>. <s>sew</s>. <s>para</s>.)
+(1595) {@<s>“{{viCa gatO->vicCa gatO||20200330|Jim Funderburk|https://github.com/sanskrit-lexicon/csl-orig/issues/205#issuecomment-606330923|See comment below above reference for reason}}”</s>@}¦ (VI<s>-tudAdiH</s>-1423. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <s>‘RO vicCayati BAzArTe, gatO vicCAyatIti Se ..</s>
 <s>vicCerAye SaturvA nuM Se syAditi tudAditA .’</s>
 (<s>Slo</s>. 56-57) <s>iti devaH .</s> 
