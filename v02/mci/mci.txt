@@ -3019,7 +3019,7 @@ asked Mandapāla what business he had with
 the young birds and told him to return to the
 young and sweet smiling Lapitā 1. 224. 21-
 25; Mandapāla blamed Jaritā for her distrust
-1. 224. 26-31, but also acknowledged her being
+1. 224. 26-31, but also {{acknowleged->acknowledged||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} her being
 conversant with {%dharma (dharmajñatā)%}
 1. 225. 2; when all were reconciled Manda-
 pāla took his wife ({%bhāryā%}) Jaritā and the
@@ -3191,7 +3191,7 @@ wife ({%kṣatriyā%}) while handing over her ear-
 rings to him that Takṣaka coveted them;
 Uttaṅka assured her that Takṣaka would not
 be able to attack him 1. 3. 119-120; Tak-
-ṣaka assumed the form of a naked mendi-
+ṣaka assumed the form of a {{nacked->naked||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} mendi-
 cant ({%nagna śramaṇa%}) and followed Uttaṅka
 on way; he took the {%kuṇḍalas,%} placed by
 Uttaṅka on the ground, and ran away; when
@@ -4380,7 +4380,7 @@ stronger than himself to face a common enemy
 he should not repose trust in his partner after
 the purpose was served and that in all condi-
 tions one should protect one's life since wealth
-and children could be acquired if one remained
+and children could be {{aquired->acquired||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} if one remained
 alive; Palita concluded that the sum and
 substance of the {%nītiśāstras%} was that distrust
 was the best policy ({%saṅkṣepo nītiśāstrāṇām%}
@@ -6217,7 +6217,7 @@ also called {%vainateyāḥ%} 1. 59. 39; 1. 114. 62
 (with slight difference, Asitadhvaja in place
 of Vāruṇi); the line of Suparṇas descending
 from her ({%vinatākula%}), of noble family,
-propagated by Garuḍa through his six sons
+{{propogated->propagated||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} by Garuḍa through his six sons
 5. 99. 1-4; [See Vainateya<sup>1</sup>]. {@D.@} Slave
 of Kadrū: Once the two sisters Kadrū and
 Vinatā happened to see the horse Uccaiḥ-
@@ -6603,7 +6603,7 @@ fice of Janamejaya 1. 52. 9, 7.
 
 <L>344<pc>061-a<k1>SArdUlI<k2>SArdUlI
 {@Śārdūlī@}¦ f.: A mythical female being.
-<div n="P">One of the nine self-born women ({%nārīḥ%}
+<div n="P">One of the nine {{selfborn->self-born||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} women ({%nārīḥ%}
 {% … ātmasaṃbhavāḥ%}), daughters of Krodha-
 vaśā (or of Tāmrā (?) 1. 60. 54; in that case
 {%krodhavaśā%} ‘given to anger, irascible’); she
@@ -6612,7 +6612,7 @@ gave birth to lions, tigers and leopards 1. 60.
 <LEND>
 
 <L>345<pc>061-a<k1>SAlipiRqa<k2>SAlipiRqa
-{@Śālipiṇḍa@}¦ m.: A mythical serpent.
+{@{{Śālipīṇḍa->Śālipiṇḍa||20170912|Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/410|}}@}¦ m.: A mythical serpent.
 <div n="P">Strong ({%vīryavān%}) son of Kadrū, listed
 among her sons by Sūta at the request of
 Śaunaka 1. 31. 14, 2.
@@ -7032,7 +7032,7 @@ these four cows and of Surabhi 5. 100. 7,
 <LEND>
 
 <L>373<pc>065-b<k1>sarvasAraNga<k2>sarvasAraNga
-{@Sarvasāraṅga@}¦ m.: A mythical serpent.
+{@{{Sarvasāranga->Sarvasāraṅga||20160315|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/252|Confirmed as print error. sarvasAraNga Confirmed by inm,mw,pe,pw,pwg}}@}¦ m.: A mythical serpent.
 <div n="P">Born in the {%kula%} of Dhṛtarāṣṭra,
 mentioned by Sūta among those serpents who
 were offered in the snake sacrifice of
@@ -8065,7 +8065,7 @@ asked by the king to descend into the well-
 water, Suśobhanā entered it and disappeared;
 when the king did not see her, he got the well
 emptied and saw a frog at the mouth of a
-hole; the angered king ordered the killing of
+hole; the {{angred->angered||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} king ordered the killing of
 all the frogs; when the frog king Āyu, in the
 form of a hermit, requested Parikṣit not to
 kill the innocent frogs he said that they had
@@ -8341,7 +8341,7 @@ safety of Stambamitra and the rest and he
 returned to them; he was not greeted by the
 children and they did not speak to him; he
 enquired who was the eldest, who the next,
-who the middle one and who the youngest;
+who the {{midle->middle||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} one and who the youngest;
 when be assured them that he had already
 secured their safety from god Fire they were
 reconciled to him; Mandapāla left the region
@@ -8601,7 +8601,7 @@ when Hanūmant and the other monkey-chiefs
 were returning to the Ṛśyamūka mountain, on
 way they rested in the {%madhuvana;%} Sugrīva
 interpreted this behaviour ({%praṇaya%} 3. 266.
-28) as indicating that Hanūmant and others
+28) as {{indicatig->indicating||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} that Hanūmant and others
 were successful in their mission; the monkey-
 chiefs who had gone for the search then
 approached Rāma, Lakṣmaṇa and Sugrīva
@@ -10183,7 +10183,7 @@ lightning 4. 58. 11; Arjuna recited {%mantras%}
 on Gāṇḍīva, (the bow-string, and the arrows)
 on special occasions: (1) while releasing the
 {%vajra%}-like arrows by employing the {%vajra%}
-missile of Indra against the Nivātakavacas
+{{missible of Indra->missile of Indra||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} against the Nivātakavacas
 ({%anumantrya ca gāṇḍīvam%}) 3. 169. 13-
 14; (2) while shooting three arrows to
 produce a pillow for Bhīṣma ({%āmantrya%}
@@ -10236,7 +10236,7 @@ duced fire 5. 56. 27; 5. 141. 42; 8. 52. 32;
 4. 45. 23; 8. 46. 42; [also see the following
 section]; {@3.@} Specific mention of the bow:
 Arjuna must have used Gāṇḍīva on all
-occasions (5. 53. 1) starting from its use
+{{occassions (5. 53. 1)->occasions (5. 53. 1)||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} starting from its use
 when Arjuna helped god Fire to burn the
 Khāṇḍava forest (1. 217-219); the bow is
 specifically mentioned by name when Arjuna
@@ -10304,7 +10304,7 @@ his charioteer, and hence Yudhiṣṭhira's life
 was in danger 8. 48. 14; 8. 49. 1. {@I.@} Com-
 parisons: 1 (i) Arjuna with the stretched
 Gāṇḍīva forming a full circle appeared like the
-sun with a halo around it ({%yathaiva sūryaḥ%}
+sun with a halo {{arround->around||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} it ({%yathaiva sūryaḥ%}
 {%pariveṣagas tathā%}) 8. 57. 57; (ii) when
 Arjuna released arrows using both hands,
 Gāṇḍīva looked like a swinging wheel of
@@ -10648,7 +10648,7 @@ rites ({%vidhivat%}), together with the {%mantras%}
 {%(samantram),%} and instruction regarding its
 full operation ({%sopacāram = setikartavyatā-%}
 {%kam%} according to Nī. on Bom. Ed. 3. 41.
-26), its release ({%samokṣam%}), and withdrawal
+26), its release ({%samokṣam%}), and {{withdrawl->withdrawal||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 ({%sanivartanam%}); Arjuna was supposed to
 perform great deeds with it 3. 42. 23-24; 3.
 89. 12; 4. 56. 14; 7. 53. 43; 12. 5. 13; Yama
@@ -10841,7 +10841,7 @@ he must have blown it on all important
 occasions; specific mention of the blowing is
 found: (1) when Arjuna attacked the city
 of the Nivātakavacas 3. 166. 11; when he
-got ready to demonstrate his acquisition of the
+got ready to demonstrate his {{acquision->acquisition||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of the
 divine weapons to his brothers 3. 172. 5;
 when Arjuna defeated the Kaurava heroes at
 the time of the cattle-raid 4. 61. 28; when the
@@ -11071,7 +11071,7 @@ arrangement of the army ({%vyūha%}).
 <div n="P">It was arranged by Droṇa in the in-
 terior of, and in the rear portion of, the
 principal {%vyūha%} called Cakraśakaṭa; Padma
-was considered extremely impenetrable ({%paśc-%}
+was considered {{extremly->extremely||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} impenetrable ({%paśc-%}
 {%ārdhe tasya padmas tu garbhavyūhaḥ%}
 {%sudurbhidaḥ%}) 7. 63. 23; in addition, inside
 the Padma was arranged a concealed
@@ -11723,7 +11723,7 @@ next day when Bhīṣma thought of the missile
 for employing it, it flashed in his mind
 ({%cintitaṃ ca tad astraṃ me manasi pratya-%}
 {%bhāt tadā%}) 5. 185. 22-23; the gods, appear-
-ing in the heaven, however, forbade Bhīṣma
+ing in the heaven, however, {{forbad->forbade||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Bhīṣma
 [Page118-b+ 39]
 from using Prasvāpa against Rāma; as
 Bhīṣma put the arrow on his bow, Nārada
@@ -11763,7 +11763,7 @@ vāpa belonging to Prajāpati 5. 184. 12.
 <LEND>
 
 <L>529<pc>118-b<k1>bArhaspatya<k2>bArhaspatya
-{@Bārhaspatya@}¦ m.: A particular arrange-
+{@Bārhaspatya@}¦ m.: A {{particuiar->particular||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} arrange-
 ment of the army ({%vyūha%}) originating with
 Bṛhaspati.
 <div n="P">Described as chief of the {%vyūhas%}
@@ -12331,7 +12331,7 @@ a {%satyakriyā%}) to revive the still-born child
 14. 68. 16, (19-23); 14. 69. 1; when Kṛṣṇa
 withdrew the Brahmāstra, brilliant light
 emanated from the body of Parikṣit to fill
-the room; the evil spirits ({%rakṣāṃsi%}) then left
+the room; the evil {{spirlts->spirits||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} ({%rakṣāṃsi%}) then left
 the house and disappeared, and the mid-region
 was filled with the words ‘well-done’ ({%sādhu%}
 {%keśava sādhv iti%}) 14. 69. 1-2. {@I.@} Com-
@@ -13230,7 +13230,7 @@ they all fell down on the ground when struck
 by the impact ({%vega%}) of Vajra; the arrows
 killed also those demons who had entered the
 ground 3. 169. 12-17; (ii) Arjuna used the
-Vajra missile to kill the Saṃśaptaka warriors
+Vajra {{missle to kill->missile to kill||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the Saṃśaptaka warriors
 who showered arrows at Kṛṣṇa and Arjuna
 to completely cover them 7. 26. 19-20.
 {@F.@} As standard of comparison; Various things
@@ -13722,7 +13722,7 @@ the prowess of Kṛṣṇa and Arjuna) 7. 171.
 use of missiles, Arjuna produced water by
 using Vāruṇa astra ({%vāruṇenāsṛjad payaḥ%})
 1. 125. 19; for its use to combat the missiles
-of others see the section {@C. E.@} Status:
+of others {{see the seciton->see the section||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} {@C. E.@} Status:
 Inferior to the Pāśupata astra 13. 14. 127.
 <LEND>
 
@@ -14969,7 +14969,7 @@ to fight with equipped with Sudarśana; Aśva-
 tthāman admitted that he wanted to fight
 with Kṛṣṇa himself and become invincible;
 Aśvatthāman realised that the Cakra would
-not leave Kṛṣṇa and hence he left Dvārakā
+not leave Kṛṣṇa and {{bence he left->hence he left||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Dvārakā
 [Page155-a+ 40]
 without it 10. 12. 14-38. {@F.@} Its use:
 (1) In wars or events not related to the
@@ -14989,7 +14989,7 @@ as thought of, it arrived from the sky ({%tato%}
 armed with it, Viṣṇu used it against the
 demons; it struck them again and again and
 cut off the Daityas to pieces in thousands;
-sometimes it licked the Dānavas and, over-
+sometimes it {{lieked->licked||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the Dānavas and, over-
 powering them, cut them off; sometimes it
 burnt them like fire; hurled now in the sky
 and then on the ground it drunk their blood
@@ -16131,7 +16131,7 @@ Itihāsa 12. 28. 2.
 <div n="P">In this Itihāsa, the Brāhmaṇa Aśman,
 when questioned by king Janaka of Videha
 who was overcome by grief how one should
-face the acquisition and loss of relatives and
+face the {{acquistition->acquisition||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} and loss of relatives and
 wealth, instructed him 12. 28. 2-57.
 <LEND>
 
@@ -16871,11 +16871,11 @@ in the west; Atri, Vasiṣṭha, Śakti and some
 others in the north 13. 151. 31-40; the
 recitation of the Ṛṣivaṃśa, along with that
 of the Daivatavaṃśa, at two twilights is
-very effective in removing sins ({%dvisaṃ-%}
+very {{eflective->effective||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} in removing sins ({%dvisaṃ-%}
 {%dhyaṃ paṭhitaḥ putra kalmaṣāpaharaḥ%}
 {%paraḥ%}) 13. 151. 2; ({%kīrtitān … sarvapāpapra-%}
 {%mocanān%}) 13. 151. 30; then follow names of
-kings beginning with Nṛga and ending with
+kings beginning with Nṛga and {{endling->ending||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} with
 Kakṣasena 13. 151. 41-50; some of these
 kings are royal sages, viz. Mucakunda
 ({%rājarṣiḥ%}) 13. 151. 46; Śveta ({%rājarṣisat-%}
@@ -17339,7 +17339,7 @@ in the {%adhyāya%} 1. 158.
 <L>699<pc>181-b<k1>jawAsuravaDa<k2>jawAsuravaDa
 {@Jaṭāsuravadha@}¦ m.: Name of the 34th
 {%parvan%} in the list of a hundred sub-{%parvans%}
-of the Bhārata supposed to have been made
+of the Bhārata {{suppossd->supposed||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} to have been made
 by Vyāsa in the Parvasaṃgraha 1. 2. 44,
 33, 70.
 [Page182-a+ 38]
@@ -18215,7 +18215,7 @@ Vaiśālākṣa 12. 59. 86-88. [See {@Barhas-@}
 
 <L>740<pc>191-a<k1>pOloma<k2>pOloma
 {@Pauloma@}¦ nt.: Name of the 4th {%parvan%}
-in the list of a hundred sub-{%parvans%} of the
+in the list of a {{hunded->hundred||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} sub-{%parvans%} of the
 Bhārata supposed to have been made by
 Vyāsa in the Parvasaṃgraha 1. 2. 34, 33, 70.
 <div n="P">In the Pauloma parvan is narrated the
@@ -18572,7 +18572,7 @@ the {%ākhyāna (himavatpāda āsataḥ // kṛtvā%}
 {%mataḥ)%} 12. 337. 9-10; 18. 5. 31 ({%kṛṣṇena%}
 {%muninā%}); 18. 5. 46 ({%maharṣir bhagavān%}
 {%vyāsaḥ kṛtvemāṃ saṃhitāṃ purā%}); the sage
-Kṛṣṇa (Vyāsa) who is described as gifted
+Kṛṣṇa (Vyāsa) who is described as {{gitfed->gifted||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 with divine sight ({%divyacakṣuḥ%} 18. 5. 7) and
 supersensory power ({%kṛṣṇena … atīndriyeṇa%}
 18. 5. 31-32) composed it having seen it with
@@ -18641,7 +18641,7 @@ war leaving only ten heroes alive is made by
 Sūta Ugraśravas for the sages assembled in
 the Naimiṣa forest 1. 1. 67-158. {@G.@} Three
 beginnings: According to Sūta Ugraśravas
-there were three different views regarding the
+there were three different views {{regrding->regarding||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the
 beginning of the Bhārata: (1) according
 to one view it began with Manu Vaivasvata
 ({%manvādi bhārataṃ kecit%}) 1. 1. 50 (i. e.
@@ -19211,7 +19211,7 @@ twenty ({%sāṃkhyātās tattvadarśinā%}) 1. 2.
 text 6. 114. 12.
 <div n="P">(1) Bhīṣma, when he fell down from
 his chariot, resorted to Yoga and started
-reciting Mahopaniṣad; in that condition he
+{{recting->reciting||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Mahopaniṣad; in that condition he
 waited for the arrival of proper time for giv-
 ing up his life ({%mahopaniṣadaṃ caiva yogam%}
 {%āsthāya vīryavān / japañ śāntanavo dhīmān%}
@@ -20083,7 +20083,7 @@ the death of the excellent hero (Karṇa),
 the king of the Madras (Śalya) became the
 leader; there occurred many chariot battles
 (during his leadership) which are described at
-various places ({%vṛttāni rathayuddhāni kīrt-%}
+{{varions->various||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} places ({%vṛttāni rathayuddhāni kīrt-%}
 {%yante yatra bhāgaśaḥ%}); many principal Kuru
 warriors met with death; Śalya was killed
 by Dharmarāja; the fierce duel with maces
@@ -20299,7 +20299,7 @@ tion to remain celibate; Bhīṣma's fulfilling
 his vow and his guardianship of Citrāṅgada;
 at the death of Citrāṅgada, Bhīṣma's giving
 protection to the younger brother (Vicitra-
-vīrya) and putting him on to the throne;
+vīrya) and {{puting->putting||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} him on to the throne;
 birth of Dharma among men as a result of
 the curse of sage Aṇīmāṇḍavya and birth of
 Dhṛtarāṣṭra and Pāṇḍu from Kṛṣṇa-dvaipā-
@@ -21168,7 +21168,7 @@ identical]
 where it occurs as a part of the harsh
 dialogue which took place between Karṇa
 and Śalya when they started out for war;
-the dialogue was full of abuse ({%prayāṇe%}
+the {{diologue was full->dialogue was full||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of abuse ({%prayāṇe%}
 {%paruṣaś cātra saṃvādaḥ karṇaśalyayoḥ /%}
 {%haṃsakākīyam ākhyānam atraivākṣe-%}
 {%pasaṃhitam%}) 1. 2. 170; related to the
@@ -22243,7 +22243,7 @@ they are born ({%na pramāṇasthitir hy asti%}
 {%puṣye 'smin bharatarṣabha garbhasthāś ca%}
 {%mriyante 'tra tathā jātā mriyanti ca //%})
 6. 11. 7; the life-span, as also other faculties,
-of human beings decrease successively in
+of human beings decrease {{surcessively->successively||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} in
 each following Yuga ({%āyur vīryam … /%}
 {%manusyāṇām anuyugaṃ hrasatīti nibodha%}
 {%me //%}) 3. 188. 13; however, life is expected
@@ -22281,7 +22281,7 @@ urine ({%gā vai dattvā govratī syāt trirātraṃ%}
 {@A.@} Epic event related with this month:
 The wrestling match between Bhīma and
 Jarāsandha began on the first day of Kārttika
-2. 21. 17. {@B.@} Religious rite performed in
+2. 21. 17. {@B.@} Religious rite {{perfotmed->performed||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} in
 this month: Aṅgiras told Bhīṣma that if one
 took food only once a day in Kārttika he
 became brave, got many wives, and became
@@ -23399,7 +23399,7 @@ for three thousand years in the Tretā ({%āyuḥ-%}
 {%saṃkhyā … saṃkhyātā rājasattama / tathā%}
 {%trīṇi sahasrāṇi tretāyāṃ manujādhipa //%})
 6. 11. 5-6 (apparently, in Saṃjaya's narra-
-tion, there is confusion between the dura-
+tion, there is {{cunfusion->confusion||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} between the dura-
 tion of the Tretāyuga (cf. section {@B.@} above)
 and the life expectancy of the people in this
 Yuga). {@J.@} Simile: The region where
@@ -23670,7 +23670,7 @@ they fall into ruin ({%dvāpare viplavaṃ yānti%}
 to be the best {%dharma%} for the Dvāpara
 ({%dvāpare yajñam evāhuḥ (uttamam)%} 12.
 224. 27; Hanūmant told Bhīma that in the
-Dvāpara the Veda is foretold; hence some
+Dvāpara the Veda is {{fourtold->foretold||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}; hence some
 study all the four Vedas, others three, two,
 or one; but some do not study a single {%ṛc;%} as
 men did not realize the sacred text to be one
@@ -24251,7 +24251,7 @@ of Brahmadeva 2. 11. 20; Bṛhaspati, with
 other planets, finds place in the Daivata-
 vaṃśa 13. 151. 12. {@C.@} Name of Sūrya:
 Bṛhaspati appears as the 22nd name among
-the 108 names of Sūrya taught by Dhaumya
+the 108 names of Sūrya taught {{oy Dhaumya->by Dhaumya||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 to Yudhiṣṭhira 3. 3. 19. {@D.@} Bad omen: ({@1@})
 Among the bad omens pointed out by Vyāsa
 to Dhṛtarāṣṭra one was related to Bṛhaspati
@@ -24389,7 +24389,7 @@ before sunrise, early morning).
 {@A.@} Epic event: when Arjuna sat on
 the ground and mentally thought of Bhava,
 he, at the auspicious {%brāhma muhūrta,%} with
-his (mind) concentrated, saw himself in
+his (mind) {{consentrated->concentrated||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}, saw himself in
 the sky in the company of Keśava ({%bhūmāv%}
 {%āsīna ekāgro jagāma manasā bhavam //%}
 {%tataḥ praṇihite brāhme muhūrte śubhalak-%}
@@ -26002,7 +26002,7 @@ the same colour ({%alakṣyaḥ prabhayā hīnaḥ%}
 {%agnivarṇaś ca samavarṇe nabhastale%}) 6.
 2. 23; (3) According to a third omen
 noticed by Vyāsa, whether it was day or
-night, the sun, the moon and the constellations
+night, the sun, the {{moon and the costellations->moon and the constellations||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 appeared blazing; that indicated destruction
 ({%jvalitārkendunakṣatraṃ nirviśeṣadinakṣa-%}
 {%pam / ahorātraṃ mayā dṛṣṭaṃ tat kṣayāya%}
@@ -28738,7 +28738,7 @@ to the Kāmyaka to meet the Pāṇḍavas 3. 13.
 brother of Baka, lived there 3. 12. 22; the
 forest was always avoided from a distance by
 ascetics and other forest-dwellers due to the
-fear of man-eating demons ({%puruṣādabhayāt%}
+fear of {{maneating->man-eating||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} demons ({%puruṣādabhayāt%}
 {%kila%}) 3. 12. 4-5. {@D.@} Similies: (1) When
 Arjuna left, the (Kāmyaka) forest was to
 the Pāṇḍavas like the Caitraratha {%vana%} in
@@ -29527,7 +29527,7 @@ thological: (i) King Sagara, with his two
 wives, resorted to the Kailāsa for practising
 austerities since he desired to have a son 3.
 104. 9; (ii) Bhagīratha went to the Kailāsa
-and propitiated Śiva 3. 107. 24; (iii) Śiva
+and {{proptiated->propitiated||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Śiva 3. 107. 24; (iii) Śiva
 went to the Kailāsa after holding Gaṅgā on
 his head 3. 108. 15; (iv) Vasiṣṭha brought
 Gaṅgā, flowing towards the Kailāsa, to the
@@ -30474,7 +30474,7 @@ performed on their banks ({%gaṅgā ca … /etā%}
 {%rtitāḥ //%}) 3. 212. 24 (for Nī. see {@Kapilā@});
 (iii) Gaṅgā, and all the Gaṅgās, listed by
 Saṃjaya among rivers which are called
-mothers of the universe 6. 10. 13; ({%sarvā%}
+mothers of the {{univere 6. 10. 13;->universe 6. 10. 13;||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} ({%sarvā%}
 {%gaṅgāś ca māriṣa / viśvasya mātaraḥ sar-%}
 {%vāḥ%}) 6. 10. 35; (iv) Finds place twice in
 the Daivata-Ṛṣi-Vaṃśa 13. 151. 7, 15, 2;
@@ -30571,7 +30571,7 @@ her to be his wife she agreed on condition that
 he did not prevent her from doing anything,
 auspicious or otherwise ({%śubhaṃ vā yadi%}
 {%vāśubham%}); should the king question her,
-she would abandon him 1. 92. 31-35; when
+she {{whould abandon->would abandon||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} him 1. 92. 31-35; when
 the king consented, she, full of lustre, attended
 on him as his wife 1. 92. 39-40; Gaṅgā, as
 the wife of Śaṃtanu, gave birth to eight sons
@@ -30933,7 +30933,7 @@ in the evening he and Gāndhārī went to the
 Gaṅgā and performed the prescribed puri-
 ficatory rites ({%cakāra vidhivac chaucam%});
 Vidura and other men performed individually
-all the necessary rites ({%cakruḥ sarvāḥ kriyās%}
+all the {{neccessary->necessary||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} rites ({%cakruḥ sarvāḥ kriyās%}
 {%tatra puruṣā vidurādayaḥ%}) after bathing in
 the various {%tīrthas (tīrtheṣv āplutya);%} when
 [Page333-b+ 40]
@@ -31029,7 +31029,7 @@ of seeking the favour of the Gaṅgā, went
 to the Himavant to practise austerities 3.
 107. 4; after one thousand years the Gaṅgā
 appeared before Bhagīratha in a bodily form
-3. 107. 14; when requested by Bhagīratha to
+3. 107. 14; {{when requsted by->when requested by||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Bhagīratha to
 wash the bones ({%śarīrāṇi%}) of the sons of
 Sagara so that they might go to heaven,
 she agreed, but first asked Bhagīratha to
@@ -31405,7 +31405,7 @@ strong, looked like the Gaṅgā while at some
 distance from the Yamunā ({%gaṅgeva yamu-%}
 {%nāntare%}) 6. 18. 18; (iii) The army of the
 Pāṇḍavas proceeding to the battle-field looked
-full and irresistible like the Gaṅgā ({%gaṅgeva%}
+full and {{irresitible like->irresistible like||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the Gaṅgā ({%gaṅgeva%}
 {%pūrṇā durdharṣā%}) 5. 149. 49; (iv) The
 army, led by Dhṛṣṭadyumna, with its formid-
 able archers looked full, tranquil and flowing
@@ -31431,7 +31431,7 @@ current of the Gaṅgā the trees growing on
 [Page339-b+ 40]
 its banks 5. 50. 35; (viii) The Trigartas
 (five brothers), in the war, would agitate
-the army of the Pāṇḍavas as the crocodiles
+the army of the Pāṇḍavas {{as the crocodlies->as the crocodiles||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 agitate water of the Gaṅgā 5. 163. 10;
 (ix) The army of the Kauravas, attacked
 by Arjuna, was split into two (some going
@@ -34499,7 +34499,7 @@ when they come to live in the Nandana 3.
 (i) Nala, with Damayantī, lived in his town
 like Indra in his Nandana 3. 78. 3; (ii)
 When the war was over Kṛṣṇa and Arjuna
-enjoyed themselves in different places as do
+enjoyed {{themseleves->themselves||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} in different places as do
 the Aśvinau in the Nandana 14. 15. 4.
 <LEND>
 
@@ -35279,7 +35279,7 @@ proceed from there to the mountain Vai-
 {%madāṃ ca … samājagāma%}) 3. 121. 15.
 {@B.@} Description: Very holy ({%mahāpuṇyā%})
 3. 83. 37; having excellent {%tīrthas%} on it
-({%sutīrthā%}) 3. 120. 30; having pleasant {%tīrthas%}
+({%sutīrthā%}) 3. 120. 30; having {{pleasent->pleasant||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} {%tīrthas%}
 on it ({%ramyatīrthā%}), having ample water
 ({%bahujalā%}), and visited by the Brāhmaṇas
 ({%dvijasevitā%}) 3. 86. 4; excellent river ({%sari-%}
@@ -36198,7 +36198,7 @@ best sanctifier ({%pāvanaṃ uttamam%}) 3. 85.
 {%pāpanāśanam%}); famous, famous in the
 worlds ({%vikhyāta%}) 3. 85. 14; ({%lokaviśruta%})
 3. 85. 13; liked by sages ({%ṛṣibhir juṣṭam%})
-3. 85. 13; praised by sages ({%ṛṣisaṃstuta%})
+3. 85. 13; {{pralsed->praised||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} by sages ({%ṛṣisaṃstuta%})
 3. 83. 65; place for sacrifices, honoured even
 by gods ({%yajanabhūmir hi devānām api%}
 {%satkṛtā%}) 3. 83. 77; place where gods offered
@@ -36267,7 +36267,7 @@ the sages worship ({%upāsate%}) Prajāpati;
 there gods and Cakracaras offer sacrifices
 ({%yajante kratubhiḥ%}) 3. 83. 72-73; (3)
 There are three Agnikuṇḍas at Prayāga
-from where the Jāhnavī, followed by all the
+from where the Jāhnavī, {{follwed by all->followed by all||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the
 other {%tīrthas,%} flows 3. 83. 69; (4) At
 Prayāga, the daughter of Tapana (the sun),
 i. e. the Yamunā, meets the Gaṅgā 3. 83.
@@ -37455,7 +37455,7 @@ years ({%atra mūlaṃ himavato mandaraṃ yāti%}
 5. 110. 9: {%mandaraṃ samudre magnaṃ%}
 {%etena himavanmūlasya samudrajalasya%}
 {%cāprameyatvam uktam%}). {@B.@} Descrip-
-tion: (1) Excellent mountain ({%parvata-%}
+tion: (1) {{Excellent mounain->Excellent mountain||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} ({%parvata-%}
 {%vara%}) 1. 16. 1; ({%śailavara%}) 3. 99. 14; (2)
 big mountain ({%mahādri%}) 1. 16. 19; ({%mahā-%}
 {%śaila%}) 3. 43. 24; 13. 20. 29; ({%mahāmandara%})
@@ -38235,7 +38235,7 @@ the Apsarases ({%mahendre … rāmaṃ nityam%}
 {%mahendre śailendre vasaty amitavikramaḥ%}
 {%jāmadagnyaḥ%}) 3. 117. 14, 11; he made it a
 rule to show himself to the Brāhmaṇas on
-this mountain on every fourteenth day of the
+this {{mountnin on->mountain on||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} every fourteenth day of the
 month 3. 117. 16; (2) Mahendra listed by
 Brahman among mountains which are also to
 be looked upon as possessing the {%madhyama%}
@@ -38435,7 +38435,7 @@ towards Kailāsa. to the lake Mānasa; the
 river broke the lake and hence the river came
 to be known as Sarayū ({%saro bhinnaṃ tayā%}
 {%nadyā sarayūḥ sā tato 'bhavat%}) 13. 140.
-23-24; (4) Indra, afraid of the sin of killing
+23-24; (4) Indra, afraid of the sin of {{kiling->killing||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 a Brāhmaṇa, divided it into two ({%tasyāṃ%}
 {%dvaidhībhūtāyāṃ brahmavadhyāyām%}) and
 went to a lotus flower ({%nalinīm%}) in the
@@ -39725,7 +39725,7 @@ holy fragrance, obtain the Goloka ({%? gavāṃ%}
 {%viṃāne%} 13. 105. 44) 13. 105. 47-48 (for
 citation see {@Karatoyinī@}); (3) Lomaśa in-
 vokes Yamunā, besides Varuṇa, Yama and
-Gaṅgā, in the benediction ({%svasti%}) he pro-
+Gaṅgā, in the {{benidiction->benediction||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} ({%svasti%}) he pro-
 nounces on Yudhiṣṭhira 3. 140. 13; (4) There
 are many {%tīrthas%} on Yamunā like Plakṣāva-
 taraṇa and Agniśiras 3. 88. 2-3; Prayāga is
@@ -40344,7 +40344,7 @@ ted to the mountain Raivata is Kaumāra 6.
 {@Rohitakāraṇya@}¦ nt.: Name of a forest.
 <div n="P">Mentioned among the places to which the
 army of the Kauravas spread out as it could
-not to be accommodated in Hāstinapura ({%na%}
+not to be {{accomodated->accommodated||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} in Hāstinapura ({%na%}
 {%hāstinapure rājann avakāśo 'bhavat tadā%}
 {% … eṣa deśaḥ suvīstīrṇaḥ … babhūva kaura-%}
 {%veyāṇāṃ balena susamākulaḥ%} 5. 19. 28, 31)
@@ -40928,7 +40928,7 @@ and very strong 6. 10. 35 (for citation see
 the rivers of tha Bhāratavarṣa; people used
 its water for drinking 6. 10. 15, 13; A Brāh-
 maṇa had told in the assembly of the Kurus
-that the river Vitastā and other four rivers
+that the {{rivsr Vitastā and other four->river Vitastā and other four||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} rivers
 along with Sindhu as the sixth flow outside
 [Page441-a+ 40]
 the country called the Āraṭṭas ({%candra-%}
@@ -42016,7 +42016,7 @@ of blood with mud ({%śoṇitakardamām //śoṇi-%}
 with Vaitaraṇī 8. 55. 38-39, 42; (5) The
 battle-field appeared like Mahāvaitaraṇī
 ({%raṇabhūmir abhūd rājan mahāvaitaraṇī%}
-{%yathā%}) 8. 58. 7; (6) Dvārakā, bereft of
+{%yathā%}) 8. 58. 7; (6) Dvārakā, {{bareft->bereft||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of
 Balarāma, Kṛṣṇa and other Yādava heroes,
 appeared as frightful to Arjuna as Vaitaraṇī
 ({%ghorāṃ nadīṃ vaitaraṇīm iva%}) 16. 6. 10.
@@ -42465,7 +42465,7 @@ drinking 6. 10. 24, 13 (for other details see
 <div n="P">One of the three places—the other two
 being Camasa and Nāgodbheda—where the
 river Sarasvatī reappears after disappearing
-at Vinaśana on a desert place ({%gacchaty%}
+at Vinaśana on a {{deseart->desert||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} place ({%gacchaty%}
 {%antarhitā yatra%} (i. e. {%vinaśane%}) {%marupṛṣṭhe%}
 {%sarasvatī / camase ca śivodbhede nāgodbhede%}
 {%ca dṛśyate //%}) 3. 80. 118; by bathing there
@@ -43747,7 +43747,7 @@ Plakṣaprasravaṇa he heard about the destruc-
 tion in the battle; so he descended from the
 mountain Himavant and went to hte place
 where the duel between Bhīma and Duryo-
-dhana was to take place; he was delighted to
+dhana was to take place; {{he was deligted->he was delighted||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} to
 look at Sarasvatī again and again 9. 53. 33,
 36-37; before leaving the place Balarāma sang
 two stanzas praising the qualities of Sarasvatī
@@ -44067,7 +44067,7 @@ Sarasvatī thus showed her respect for Pitāmaha
 ({%pitāmahaṃ mānayantīm%}) 9. 37. 11-14;
 (ii) When Sarasvatī was thought of by the
 sages performing a {%satra%} at Naimiṣa forest
-she appeared there as Kāñcanākṣī to help the
+{{she appeard there->she appeared there||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} as Kāñcanākṣī to help the
 sages ({%sahāyārthaṃ mahātmanām%}); she was
 honoured by the sages ({%pūjitā%}) 9. 37. 15-18;
 (iii) When she appeared for the sacrifice of
@@ -44342,7 +44342,7 @@ is frequented by the Siddhas and Gandhar-
 vas ({%siddhagandharvasevita%}) 3. 82. 41; all
 the rivers listed by Saṃjaya are described as
 mothers of the universe and very strong 6.
-10. 35 (for citation see {@Atikṛṣṇā@}). {@C.@}
+10. 35 (for {{citalion->citation||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} see {@Atikṛṣṇā@}). {@C.@}
 Holiness: (1) By staying for five nights
 at the source of Sindhu one gets much gold
 ({%sindhoś ca prabhavaṃ gatvā … /tatroṣya%}
@@ -44628,7 +44628,7 @@ was offering a sacrifice on this earth ({%pitā-%}
 {%mahasya mahato vartamāne mahītale /%}
 {%vitate yajñavāṭe%} 9. 37. 5) the sages said
 that the sacrifice will not bear great fruit
-as Sarasvatī was not present; then god Pitā-
+as Sarasvatī was not {{persent->present||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}; then god Pitā-
 maha thought of Sarasvatī and invited her
 to appear at the Puṣkaras; the river appeared
 there under the name Suprabhā ({%suprabhā%}
@@ -44998,7 +44998,7 @@ see {@Atikṛṣṇā@}); Sthūlavālukā is listed among
 the rivers by visiting which the high-souled
 ones who have observed vows ({%mahātmāno%}
 {%dhṛtavratāḥ%}) obtain heavenly form, become
-auspicious, and wearing heavenly garlands and
+{{auspious->auspicious||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}, and wearing heavenly garlands and
 rich in holy fragrance they reach the world
 of cows ({%gavāṃ loke%} 13. 105. 42; {%modanti%}
 {%gavāṃ vimāne%} 13. 105. 44) 13. 105. 46, 48
@@ -45625,7 +45625,7 @@ big desert and the mount Meru ({%taṃ cāpy%}
 (28) Vyāsa lived at the foot of Hima-
 vant ({%guror me … himavatpāda āsataḥ%});
 there he composed the Bhārata and felt
-tired; he was served there by his pupils and
+tired; he was {{served there by his pubils and->served there by his pupils and||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 his son Śuka 12. 337. 9-10, 12. {@G.@} Past
 and mythological events: (1) The fish
 dragged the ship of Manu to the highest
@@ -45778,7 +45778,7 @@ width ({%śṛṅge … himavanmerusaṃbhave / saṃ-%}
 {%rata / udīcīṃ diśam āśritya%}) 12. 320. 8-9;
 undeterred Śuka continued to fly upwards:
 then a wonderful thing happened—the two
-peaks suddenly got separated and Śuka swiftly
+peaks suddenly got {{seperated->separated||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} and Śuka swiftly
 [Page494-b+ 40]
 passed through them; the excellent mountain
 (Himavant ? Meru ?) could not check Śuka's
@@ -45916,7 +45916,7 @@ by Nārada and other sages on Himavant
 {%vati prabho / anubhūtaṃ munigaṇaiḥ%}) 13.
 126. 48-49; the fire burnt the mountain with
 its trees, creepers and bushes, as well as
-all kinds of animals; the summit of the
+all kinds of {{animals; the snmmit of->animals; the summit of||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the
 mountain was afflicted ({%śikharaṃ tasya śai-%}
 {%lasya mathitam%}) 13. 126. 17-18; ({%etad%}
 {%tad vaiṣṇavaṃ tejo mama vaktrād viniḥ-%}
@@ -46174,7 +46174,7 @@ ed by Bhīma ({%himavāṃś ca samudraś ca%}
 {%vajrī ca … /mayābhipannaṃ trāyeran balam%}
 {%āsthāya na trayaḥ%}) 5. 74. 10; (g) Impass-
 ableness: One cannot say that the back side of
-Himavant does not exist simply because men
+Himavant does not {{exsit->exist||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} simply because men
 have not seen it ({%yathā himavataḥ pṛṣṭhaṃ%}
 {% … na dṛṣṭapūrvaṃ manujair na ca tan nāsti%}
 {%tāvatā%}) 12. 196. 6; (h) Mighty elephants
@@ -47495,7 +47495,7 @@ derision in which battle did he (Karṇa)
 [Page515-b+ 40]
 win Indraprastha from the Pāṇḍavas; now
 Karṇa should fight with Arjuna (at the time
-of the cow raid at Virāṭanagara) since he
+of the {{cowraid->cow raid||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} at Virāṭanagara) since he
 was responsible for the game of dice and for
 winning Indraprastha 4. 45. 10, 21; (23)
 Yudhiṣṭhira told Saṃjaya “Let Suyodhana
@@ -47509,7 +47509,7 @@ again asked Saṃjaya to tell Duryodhana:
 ready for battle” ({%dadasva vā śakrapuraṃ%}
 {%mamaiva yudhyasva vā bhāratamukhya%}
 {%vīra //%}) 5. 30. 47; Bhīṣma, after he fell on
-the battlefield, also advised to hand over
+the {{battefield->battlefield||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}, also advised to hand over
 half of the kingdom to the Pāṇḍavas and
 let Yudhiṣṭhira rule at Indraprastha ({%rā-%}
 {%jyasyārdhaṃ dīyatāṃ pāṇḍavānām indra-%}
@@ -47663,7 +47663,7 @@ in different towns to see him 5. 82. 18;
 Kṛṣṇa, without achieving his purpose,
 returned to Upaplavya when the sun
 arose ({%uccaiḥsūryam%}) and reported to the
-Pāṇḍavas what happened at Hāstinapura
+Pāṇḍavas what {{happned at Hāstinapura->happened at Hāstinapura||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 5. 135. 30; 5. 145. 1; ({%yadaivākṛtakāryas%}
 {%tvam upaplavyaṃ gataḥ punaḥ%}) 11. 25. 31;
 ({%sa gatvā hāstinapuraṃ dhṛtarāṣṭram sam-%}
@@ -48646,7 +48646,7 @@ called Mālinī) ({%prītyā dadau sa karṇāya%}
 the rows of Campaka trees as garland
 ({%campakamālinī%}) 13. 42. 16. {@C.@} Charac-
 teristic: Characterized as a town ({%purī%})
-having the settlement of Sūtas ({%sūtaviṣayaṃ%}
+having the {{sattlement->settlement||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of Sūtas ({%sūtaviṣayaṃ%}
 {%campām abhyāyayau purīm / sa mañjūṣāgato%}
 {%garbhaḥ%}) 3. 292. 26; also called {%nagarī%}
 (12. 5. 6). {@D.@} Epic events: (1) The
@@ -49410,7 +49410,7 @@ arrival of Arjuna in Dvāravatī 16. 5. 7;
 with Dāruka the city appeared to him like
 a woman who had lost her husband ({%mṛta-%}
 {%nāthām iva striyam%}) 16. 6. 4; Arjuna, after
-he witnessed the plight of Dvārakā and
+he {{witenessed the plight->witnessed the plight||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of Dvārakā and
 the women of Kṛṣṇa he wept loudly and
 fell down on the ground 16. 6. 12. {@E.@} Past
 events or events not related to the epic
@@ -50082,7 +50082,7 @@ other warrior tribes living near the sea coast
 {%rānūpavāsibhiḥ //%}) 2. 23. 19 (Nī. on Bom.
 Ed. 2. 22. 9; {%prāgjyotiṣaṃ pūrvasamudra-%}
 {%tīrasthaṃ nagaraviśeṣam%}); from there
-Arjuna proceeded to the north ({%prayāsyāmi%}
+Arjuna {{procecded to the north ({%prayāsyāmi%}->proceeded to the north ({%prayāsyāmi%}||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 {%diśaṃ dhanadarakṣitām%}) 2. 23. 4; 2. 24. 1.
 {@B.@} Description: Beautiful ({%ramya%}) 12. 326.
 85; difficult of access ({%durga%}) 5. 47. 74;
@@ -50213,7 +50213,7 @@ ing the lotus lake of Kubera, that he with
 his brothers had reached Badarī from
 where he went out in search of the lotus
 having heavenly fragrance 3. 152. 1; (3)
-On their return journey from Gandha-
+On their return {{journy->journey||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} from Gandha-
 mādana, the Pāṇḍavas reached Badari and
 lived there for a month 3. 174. 8, 11; (4)
 Dhṛtarāṣṭra while praising Kṛṣṇa said that
@@ -50336,7 +50336,7 @@ for gods ({%gatvāśramapadād dūram uṭajaṃ%}
 a certain ascetic ({%muni, ṛṣi, tāpasa%}) who
 acted as a priest for the rites of manes
 ({%pitṛkārya%}) of this Śūdra became in his
-next birth the Purohita of the king (viz.
+next {{bitrh->birth||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the Purohita of the king (viz.
 the Śūdra who was born as a king); when
 the Purohita was told by the king about his
 past life he went to the same Brahmāśrama
@@ -50499,7 +50499,7 @@ and consecrated with austerities ({%saṃbhṛto%}
 (the waters were meant for the queen and
 were to cause birth of a son) 3. 126. 8,
 12, 14; (2) When Bhṛgu had gone to
-bathe, a certain Rakṣas approached his
+bathe, a certain Rakṣas {{approched->approached||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} his
 {%āśrama;%} entering it, he saw there Pulomā,
 the wife of Bhṛgu; the Rakṣas was re-
 ceived by Pulomā (in the {%āśrama%}) with
@@ -51105,7 +51105,7 @@ it even there, he sought it in his subjects
 {%vicinvan anveṣamāṇo 'pi%}); concerning his
 own indifference to the opposīte pairs of
 feelings, his disattached condition, and while
-visualizing his liberation, Janaka is reported
+{{visulizing->visualizing||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} his liberation, Janaka is reported
 to have sung a {%gāthā%} in which he said that
 even if the whole Mithilā was ablaze, nothing
 belonging to Janaka was burnt ({%api gāthām%}
@@ -51267,7 +51267,7 @@ its own will ({%yadṛcchayā samāpede puraṃ%}
 marched out of the town (Rājagṛha) in
 a chariot, equipped with bows, arrows,
 [Page557-b+ 37]
-and arm guards, to attack Arjuna ({%tataḥ%}
+and {{armguards->arm guards||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}, to attack Arjuna ({%tataḥ%}
 {%purāt sa niṣkramya rathī dhanvī śarī talī%})
 14. 83. 2, 4. {@C.@} Past event: Formerly
 Ambuvīca was the king of the Magadha
@@ -51420,7 +51420,7 @@ prastha ({%prayayau dakṣiṇāṃ diśam%} 2. 28. 1;
 Rājasūya subjugated it just by sending
 messengers and made the people pay tribute
 ({%dūtair eva vaśe cakre karaṃ cainān adā-%}
-{%payat%}) 2. 28. 49 (identified with Rome; cf.
+{%payat%}) 2. 28. 49 ({{identifled->identified||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} with Rome; cf.
 Edgerton JAOS 58. 262 ff. and his note on
 2. 28. 49, Vol. 2, p. 502).
 <LEND>
@@ -51452,7 +51452,7 @@ ocean ({%pāre mahodadheḥ%}) 3. 262. 33; in the
 valley of the Trikūṭa mountain on the
 other side of the ocean ({%pāre samudrasya%}
 {%trikūṭagirikandare%}) 3. 266. 55. {@B.@} History:
-Pitāmaha assigned Laṅkā, together with
+Pitāmaha {{assinged->assigned||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Laṅkā, together with
 the Rākṣasas, to Vaiśravaṇa (Kubera) as
 the seat of his capital ({%pitāmahas tu … %}
 {%dadau vaiśravaṇasya ha / … rājadhānīnive-%}
@@ -51777,7 +51777,7 @@ by wind’: {%yad varṣasya dvāraṃ eṣo 'nubhū-%}
 {%yamāno vātikaṣaṇḍo vātānītaḥ padmādisa-%}
 {%mūho nātyavartata … /anena vāyor apy%}
 {%asmin varṣe praveśo nāsti kimutetarasyeti /%}
-Nī. construes the stanza quite differently.
+Nī. {{coustrues->construes||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the stanza quite differently.
 He connects it with the {%varṣam%} of the
 preceding stanza (12) and according to
 him the stanza is intended to reveal the
@@ -51903,7 +51903,7 @@ to the south 1. 136. 15. ({%prayayuḥ … dakṣī-%}
 {%ṇāṃ diśam āśritāḥ%}) 1. 137. 17; ({%dakṣiṇā-%}
 {%mukhāḥ%}) 1. 137. 18; (5) Dhṛtarāṣṭra sent
 [Page564-b+ 41]
-his men to Vāraṇāvata to perform the fune-
+his men to Vāraṇāvata to perform the {{fune->fune-||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 ral rites of the Pāṇḍavas and Kuntī 1. 137.
 12; (6) Bhīma lamented that the Pāṇḍavas
 could not sleep even on the best beds at
@@ -53268,7 +53268,7 @@ not very far from the sea ({%śūrpārakaṃ%}
 
 <L>2061<pc>579-b<k1>sADyagaRasya<k2>sADyagaRasya
 {@Sādhyagaṇasya āyatanam@}¦ nt.: A holy
-resort (temple ?) sacred to the Sādhyas.
+resort ({{temle->temple||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} ?) sacred to the Sādhyas.
 {@A.@} Location: Located in a holy forest,
 famous on the earth, near Śūrpāraka and
 not very far from the sea ({%śūrpārakaṃ%}
@@ -53643,7 +53643,7 @@ instead of Saubhapati in 5. 171. 6; 5. 172.
 2, 10, 14, 18; 5. 174. 3; 5. 175. 22 ({%mayā%}
 {%śālvapatir vīra manasābhivṛtaḥ patiḥ%}
 where {%pati%} is repeated; cf. with this 1. 96.
-48 where {%saubhapatiḥ%} occurs and not {%śālva-%}
+{{48 wrere->48 where||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} {%saubhapatiḥ%} occurs and not {%śālva-%}
 {%patiḥ%}); 5. 176. 34. {@B.@} Epic event:
 When Śālva was defeated by Bhīṣma, he
 returned to his town (Saubha) ({%tataḥ%}
@@ -54047,7 +54047,7 @@ as he was, must have found it difficult to
 enter Hāstinapura ({%nityāhaṃkāravādinaḥ /%}
 {%praveśo hāstinapure duṣkaraḥ pratibhāti%}
 {%me //%}) 3. 236. 3; (36) Duryodhana, humi-
-liated by his adversaries, decided to fast
+liated by his {{adverseries->adversaries||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}, decided to fast
 unto death ({%iha prāyam upāsiṣye%}) and not
 return to the town; he asked his brothers,
 led by Duḥśāsana, to return to the town
@@ -54246,7 +54246,7 @@ to enter it ({%vinā rājñaḥ praveśād vai kim%}
 told Vidura that when Duryodhana went
 away from the place of the camp, all people,
 afraid, ran to the town (Hāstinapura); then
-the superintendents of the women put women
+the {{superitendents->superintendents||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of the women put women
 of the royal family in chariots and ran
 (to the town) due to fear; then he too,
 took leave of the king (Yudhiṣṭhira) and
@@ -54278,7 +54278,7 @@ Hāstinapura to meet the Pāṇḍavas ({%jagāma%}
 {%ha / śibiraṃ hāstinapurād … %}) 9. 62. 72;
 [Page591-b+ 40]
 (58) The whole town including children
-was afflicted with grief ({%ākumāraṃ puraṃ%}
+was {{afflcted->afflicted||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} with grief ({%ākumāraṃ puraṃ%}
 {%sarvam%}) 11. 9. 8; Dhṛtarāṣṭra, with
 Gāndhārī, Kuntī and other grieving Kau-
 rava women, came out of the town (Hāstina-
@@ -54520,7 +54520,7 @@ mejaya took leave of the officiating priests
 and came back from Takṣaśilā to Gajāhvaya
 ({%tataḥ takṣaśilāyāḥ sa punar āyād gajāh-%}
 {%vayam%}) 18. 5. 29. {@E.@} Past event: When
-Kaṇva asked his pupils to take Śakuntalā
+Kaṇva asked his {{puplis->pupils||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} to take Śakuntalā
 and her son to her husband Duḥṣanta,
 [Page594-b+ 40]
 (1. 68. 10), they all left for Gajasāhvaya
@@ -54661,7 +54661,7 @@ while lamenting over the death of Abhi-
 manyu, referred to Arjuna's exploits ({%nivā-%}
 {%takavacāñ jaghne kālakeyāṃś ca … /hiraṇya-%}
 {%puravāsinaḥ%}) 7. 49. 16-17 (Kālakeyas seem
-here to be identified with Kālakhañjas who,
+here to be {{identited->identified||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} with Kālakhañjas who,
 with Nivātakavacas, lived in Hiraṇyapura<sup>1</sup>
 5. 98. 5, 7); (6) By Jayadratha, frightened
 by the vow of Arjuna ({%dānavānāṃ saha-%}
@@ -56875,7 +56875,7 @@ of warriors ({%bhaye tu samupakrānte jarā-%}
 {%sandhe samudyate / mantro 'yaṃ mantrito%}
 {%rājan kulair aṣṭādaśāvaraiḥ //%}) 2. 13. 34;
 (2) The seat of the Yādavas at Kuśasthalī
-(2. 13. 49) was garrisoned by the eighteen
+(2. 13. 49) was {{garissoned->garrisoned||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} by the eighteen
 junior Kṣatriya families of warriors ({%sadma%}
 {% … aṣṭādaśāvaraīr naddhaṃ kṣatriyair yud-%}
 {%dhadurmadaiḥ%}) 2. 13. 54; (3) The group
@@ -57780,7 +57780,7 @@ of their kingdom: Ayodhyā ({%ayodhyāyām%}
 {%rājā … /ikṣvākukulajaḥ … mitraṃ caiva%}
 {%bhaviṣyati%}) 3. 63. 19-20. {@C.@} Past history:
 (1) Kṛṣṇa told Yudhiṣṭhira that the Kṣatri-
-yas of bygone days claimed their lineage
+yas of bygone days {{claimed their lieneage->claimed their lineage||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 either from Aila or from Ikṣvāku; hence
 they were either Ailavaṃśyas or Ikṣvākus;
 together they formed a hundred and one
@@ -60208,7 +60208,7 @@ vows and practised {%dharma (caranti dhar-%}
 (2) Lomaśa introduced to Yudhiṣṭhira
 [Page660-a+ 40]
 Kāśyapas among the ascetics who were
-present on Mahendra mountain; Yudhiṣṭhira
+{{presnt->present||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} on Mahendra mountain; Yudhiṣṭhira
 with his brothers honoured all of them
 ({%tāpasānāṃ paraṃ cakre satkāraṃ bhrā-%}
 {%tṛbhiḥ saha // lomaśaś cāsya tān sarvān%}
@@ -60293,7 +60293,7 @@ them thrice ({%puṇḍrā bhārgāḥ kirātāś ca%})
 6. 10. 49; ({%kirātā barbarāḥ%}) 6. 10. 55;
 ({%uttarāś cāpare … kirātānāṃ ca jātayaḥ%})
 6. 10. 63, 67; listed also by Bhīṣma as
-northerners ({%uttarāpathajanmānaḥ kīrtayi-%}
+{{northernes->northerners||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} ({%uttarāpathajanmānaḥ kīrtayi-%}
 [Page661-a+ 40]
 {%ṣyāmi tān api / … kirātā barbaraiḥ saha%})
 12. 200. 40; (2) The large country of
@@ -61415,7 +61415,7 @@ nothing like permanent for his kinsmen,
 {%śāśvatam / jñātīnāṃ ca kurūṇāṃ ca%}) 6. 4.
 3; for the Kurus as well as for the Pāṇḍavas,
 Vyāsa was their {%dharma,%} purification, glory,
-fame, forbearance, and {%smṛti;%} he was
+fame, {{forebearance->forbearance||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}, and {%smṛti;%} he was
 [Page674-a+ 40]
 their respected grand-sire ({%tvaṃ hi dharmaḥ%}
 {%pavitraṃ ca yaśaḥ kīrtir dhṛtiḥ smṛtiḥ /%}
@@ -62534,7 +62534,7 @@ and Devakī the death of Kuru warriors
 Dhṛtarāṣṭra's fault 15. 5. 1; destruction of
 Kurus as destined by fate 15. 16. 1; Kṛṣṇa
 witnessed the annihilation of Yādavas as
-he did before of kings and of prominent
+he did before of kings {{and of pominent->and of prominent||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 Kurus ({%rājñāṃ ca pūrvaṃ kurupuṃgavā-%}
 {%nām%}) 16. 5. 8; Kṛṣṇa contemplated on the
 destruction of the Vṛṣṇis, Andhakas and
@@ -63271,7 +63271,7 @@ narration of what the Kauravas and the
 Pāṇḍavas did at Kurukṣetra as was done
 earlier by Saṃjaya 6. 1. 2; 6. 23. 1; (14)
 After the death of Śalya, the Kṣatriyas,
-in spite of bad omens, were ready to fight at
+{{inspite->in spite||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of bad omens, were ready to fight at
 Kurukṣetra desirous of reaching the heaven
 (if killed in war) ({%kurukṣetre … svar-%}
 {%gaṃ yiyāṃsavaḥ%}) 9. 22. 23; (15) Bala-
@@ -64028,7 +64028,7 @@ ed against the army of the Kauravas 8. 8.
 19; (44) When Anuvinda was killed, (the
 hearts of) Kekayas (on Kauravas' side)
 were dried up ({%śoṣayan kekayān sarvān%})
-8. 9. 21; Sātyaki dissipated the large
+8. 9. 21; Sātyaki {{dissipitated->dissipated||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the large
 army of Kekayas 8. 9. 34; (45) Kekayas
 mentioned among those who showered
 various weapons on Karṇa ({%nānāśastrair%}
@@ -65946,7 +65946,7 @@ lived according to the ancient {%dharma%}
 [Page727-b+ 40]
 ({%śūrasaṃmata%}) 8. 40. 62; distinguished
 chariot-fighters ({%mahāratha%}) 6. 102. 17; 8.
-40. 2, 51; 8. 56. 23; born in noble families
+40. 2, 51; 8. 56. 23; born in noble {{familes->families||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 ({%kulaputra%}) 6. 102. 17; they were willing
 to die but not turn away from the battle-
 field ({%tanutyajaḥ / aparāvartinaḥ sarve%})
@@ -66885,7 +66885,7 @@ brothers and an {%ayuta%} chariot-fighters took
 an oath in the presence of fire to kill
 Arjuna; the mode of taking oath descri-
 bed 7. 16. 19-36; Arjuna was first surprised
-to see Traigartaka brothers delighted when
+to see Traigartaka {{brothets delighted->brothers delighted||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} when
 they should have wept, but then felt that
 Traigartas were delighted because they
 would attain best worlds (after death);
@@ -66945,7 +66945,7 @@ Sātyaki, alone, defeated fifty (Trigarta)
 princes; Trigartas, afflicted, returned to
 their own people ({%trigartāḥ saṃnyavar-%}
 {%tanta saṃtaptāḥ svajanaṃ prati%}) 7. 116. 2;
-(26) During the night war, Yudhiṣṭhira
+(26) During the {{nightwar->night war||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}, Yudhiṣṭhira
 killed a number of Trigartas 7. 132. 23;
 ({%traigartakān%}) 7. 136. 3; Duryodhana
 asked the surviving great warriors among
@@ -67562,7 +67562,7 @@ is not fighting, violation of wives of others,
 ungratefulness, robbing a Brāhmaṇa of
 his wealth, leaving him without any posse-
 ssions ({%niḥśeṣakaraṇaṃ tathā%}), robbing
-women, coersion ({%paristhānam%} cf. Critical
+women, {{coersion->coercion||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} ({%paristhānam%} cf. Critical
 Notes Vol. 14. p. 932), all this is practised
 by Dasyus and is censurable; and even
 if a Dasyu does not practise such acts,
@@ -67649,7 +67649,7 @@ their attention to the danger posed by
 his enemies who collaborated with Dasyus
 12. 88. 26; a king must protect all the
 {%varṇas%} if the Dasyus tried to plunder
-their wives and possessions 13. 47. 44; a
+their wives and {{possesions->possessions||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} 13. 47. 44; a
 king who saved the beings from Dasyus
 and gave them wealth and happiness
 was a great king ({%dasyubhyaḥ prāṇadānāt%}
@@ -67724,7 +67724,7 @@ one on any account ({%nihanyāt sarvato%}
 {%dasyūn na kāmāt kasyacit kṣamet%}) 12. 76.
 5; Dyumatsena told Satyavant that if
 Dasyus were not awarded capital punish-
-ment, there would be chaos everywhere;
+ment, there would be {{chaos eveywhere->chaos everywhere||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}};
 in the Kali age, one would say: ‘this was
 mine, not his’ and normal life would be
 impossible ({%lokayātrā na caiva syāt%}) 12.
@@ -68132,7 +68132,7 @@ maṇas (?).
 mentioned along with Āraṭṭas and Vrātyas
 8. 30. 36. {@B.@} Character: According to
 a Brāhmaṇa who visited the Kauravas,
-the Dāsamīya people were irreligious and
+the Dāsamīya people were {{irreligeous->irreligious||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} and
 hence one should not visit their country
 ({%āraṭṭā nāma te deśā naṣṭadharmān na tān%}
 {%vrajet / vrātyānāṃ dāsamīyānām%}) 8. 30.
@@ -68324,7 +68324,7 @@ Draviḍas ({%draviḍair%}) when he accompanied
 the Aśvamedha horse 14. 84. 11. {@E.@} A
 Dramiḍa king occurs in a comparison: The
 glorious Aśoka tree, according to Dama-
-yantī, with its chaplets (of blossoms),
+yantī, with its chaplets (of {{blosssoms->blossoms||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}),
 shone like the glorious king of Dramiḍas
 ({%aho batāyam agamaḥ śrīmān … āpīḍair%}
 {%bahubhir bhāti śrīmān dramiḍarāḍ iva%}) 3.
@@ -68437,7 +68437,7 @@ stood on the left side of the Krauñcāruṇa-
 vyūha (6. 46. 39; Krauñca 6. 47. 1) of the
 Pāṇḍavas ({%saha nākulaiḥ … vāmaṃ pār-%}
 {%śvaṃ samāśritāḥ%}) 6. 46. 51; (name of a
-people, or characterization of the warriors
+people, or {{chracterization->characterization||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of the warriors
 led by Nakula ?)
 <LEND>
 
@@ -68606,7 +68606,7 @@ ment {%niṣādālaya%} 1. 24. 2; 12. 315. 14
 {@A.@} Origin: (1) Sages killed Ati-
 bala's son Vena with Kuśa blades and
 produced from his right thigh a dwarfish
-person ({%hrasvāṅgaḥ%}); they asked him to sit
+person ({%hrasvāṅgaḥ%}); they {{asked hlm to->asked him to||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} sit
 down; from him Niṣādas were born ({%niṣīda%}
 {%ity evam ūcus tam ṛṣayo brahmavādinaḥ /%}
 {%tasmān niṣādāḥ saṃbhūtāḥ%}) 12. 59. 102-
@@ -69697,7 +69697,7 @@ Pāñcālas raised a loud roar; led by Yudhi-
 Jayadratha who foiled their attempt to
 follow Abhimanyu 7. 42. 18; Arjuna would
 have himself protected Abhimanyu if he
-had known that Pāñcālas could not do
+{{had konwn that->had known that||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Pāñcālas could not do
 that 7. 50. 74; Subhadrā wondered who
 could kill Abhimanyu as though he was
 helpless when heroic Pāñcālas were there
@@ -69835,7 +69835,7 @@ him, Śikhaṇḍin and Pāñcālas ({%majjantam%}
 he could not take off his armour until he
 had killed Pāñcālas 7. 126. 25, 32; (52)
 In the fierce battle that was fought during
-the night between fourteenth and fifteenth
+the night between fourteenth {{and fiftteenth->and fifteenth||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 day the reporters on the battlefield like
 Saṃjaya could distinguish the Pāñcālas from
 [Page772-a+ 40]
@@ -70022,7 +70022,7 @@ after he had killed Pāñcālas 7. 160. 12;
 towards the end of the night war, Droṇa
 divided his army into two parts and,
 led by Duryodhana, attacked Pāñcālas;
-they were specifically afflicted by the arrows
+they were {{specifically aflicted->specifically afflicted||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} by the arrows
 of Droṇa; yet, although suffering from
 excessive pain, Pāñcālas continued to
 fight ({%pāñcālās tu viśeṣeṇa droṇasāyaka-%}
@@ -70550,7 +70550,7 @@ at night he will have done his duty and
 feel happy 10. 1. 53; 10. 3. 25, 28-32, 34-
 35; earlier when Bhīma had stepped on
 Duryodhana's head, Pāñcālas growled,
-laughed, blew conches and sounded
+{{laughted, blew->laughed, blew||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} conches and sounded
 {%dundubhis%} 10. 1. 58-59; Kṛpa told Aśva-
 tthāman that they should kill Pāñcālas next
 day in battle; Aśvatthāman was quite
@@ -71260,7 +71260,7 @@ known as Paurava ({%pūros tu pauravo%}
 70. 45. {@B.@} Characteristics of their kings:
 of famous conduct and wise ({%prathitavṛtta,%}
 {%vijñānaśālin%}); no one of them ever lacked
-character, heroism or progeny ({%na hy asmiñ%}
+character, {{herosim->heroism||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} or progeny ({%na hy asmiñ%}
 {%śīlahīno vā nirvīryo vā … prajāvirahito vāpi%}
 {%bhūtapūrvaḥ kadācana //%}) 1. 89. 2-3; they
 were heroic, and in lustre they equalled
@@ -71459,7 +71459,7 @@ fically said to be Pāñcālas ({%prabhadrakās%}
 {%tu pāñcālāḥ%}) with ready weapons rode
 chariots that were drawn by excellent horses
 of different colours and were adorned with
-variegated banners having gold shafts; they
+variegated banners having gold {{stafts->shafts||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}; they
 stood with stretched bows and shook their
 enemies by discharging arrows; they were
 always determined to die together ({%udāyu-%}
@@ -72104,7 +72104,7 @@ protected by Bhāratas (Kauravas) ({%bhāra-%}
 {%tair abhirakṣitāḥ%}) 5. 82. 17; (36) Kṛṣṇa
 told Dhṛtarāṣṭra that if the Bharatas
 (Kauravas and Pāṇḍavas) remained united,
-they together would work for him (i. e. for
+they {{togethr would->together would||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} work for him (i. e. for
 Dhṛtarāṣṭra) ({%sahabhūtās tu bharatās%}
 {%tavaiva syur janeśvara%}) 5. 93. 16; he also
 advised Duryodhana to come to terms with
@@ -74450,7 +74450,7 @@ how he could control them ({%kathaṃ dhar-%}
 {%maṃ careyus te … /madvidhaiś ca kathaṃ%}
 {%sthāpyā … %}); thereupon Indra told him the
 duties of Dasyus 12. 65. 13, 15, 17-22.
-{@G.@} Several persons, especially Śalya desi-
+{@G.@} Several persons, {{especialy->especially||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Śalya desi-
 gnated with reference to Madras or Madra-
 kas; {@A.@} One related to Madrakas: (i)
 {%madraka:%} Śalya 8. 27. 85, 100; (ii)
@@ -75406,7 +75406,7 @@ which burnt them; afflicted by arrows,
 they did not attack Arjuna ({%te śarārtā … %}
 {%nābhyavartanta … vānaradhvajam%}); Arjuna
 killed them 6. 112. 109-116; on that day
-also they did not abandon Bhīṣma although
+also they {{did not abondon->did not abandon||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Bhīṣma although
 they were struck with arrows and were
 afficted due to wounds ({%śarārtā vraṇa-%}
 {%pīḍitāḥ / saṃgrāme na jahur bhīṣmam%}
@@ -75862,7 +75862,7 @@ preferred death to defeat ({%yad etat kuñja-%}
 ({%mlecchācāryāś ca rājānaḥ%}) 12. 4. 8 (cf. S.
 {@B.@} Belvalkar's note on this stanza in Vol.
 13, p. 638. 1: “Mleccha kings of the west
-were also the {%ācāryas%} or the spiritual heads
+{{were alo the->were also the||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} {%ācāryas%} or the spiritual heads
 of their domain”). {@E.@} Epic events:
 (1) Duḥṣanta ruled over the entire earth
 including the countries of the Mlecchas
@@ -77427,7 +77427,7 @@ pots of gold they were allowed to enter
 ({%kamaṇḍalūn upādāya jātarūpamayāñ%}
 {%śubhān … praveśaṃ lebhire tataḥ%}) 2. 45.
 24-25; (2) Since there was not enough
-room in Hāstinapura to accommodate the
+room in Hāstinapura to {{accomodate->accommodate||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the
 army of Kauravas, it spread beyond
 Pañcanada and Kurujāṅgala to Vāṭadhāna
 country and Yāmuna mountain 5. 19.
@@ -77921,7 +77921,7 @@ strong, very strong ({%balin%}) 2. 17. 27;
 ({%balavant%}) 12. 82. 8; powerful ({%sāmarthya-%}
 {%vant%}) 2. 13. 53; great archers ({%maheṣvāsa%})
 2. 72. 29; 3. 48. 6; tigers among men
-({%puruṣavyāghra%}) 1. 212. 14; immensely
+({%puruṣavyāghra%}) 1. 212. 14; {{immensly->immensely||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 powerful like tigers ({%vyāghrair iva balo-%}
 {%tkaṭaiḥ%}) 5. 154. 17; proficient in all
 {%śāstras (sarvaśāstraviśārada)%} 3. 119. 2;
@@ -78490,7 +78490,7 @@ the sages (Viśvāmitra, Kaṇva and Nārada)
 pronounced a curse to the effect that Sāmba
 would give birth to an iron pestle for the
 destruction of Vṛṣṇis and Andhakas ({%vṛṣṇy-%}
-{%andhakavināśāya%}); that pestle would wipe
+{%andhakavināśāya%}); that {{pesttle would->pestle would||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} wipe
 out the Vṛṣṇis and Andhakas who were ill-
 behaved, cruel and naughty, and the entire
 race except Balarāma and Kṛṣṇa ({%yena%}
@@ -78972,7 +78972,7 @@ given in 2. 47. 11 for which see {@Pārada@}).
 {@Śaka@}¦ m. (pl.): Name of a Janapada
 and its people.
 {@A.@} Location: Listed by Saṃjaya
-among the northern Janapadas (also called
+among the northern Janapadas (also {{colled->called||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 Deśas 6. 10. 68) of Bhāratavarṣa ({%ata%}
 {%ūrdhvaṃ janapadān nibodha%}) 6. 10 37, 5;
 ({%vakrabhayāḥ śakāḥ%}) 6. 10. 43; listed by
@@ -79654,7 +79654,7 @@ specified 5. 30. 23; {@B.@} King of Śālveyas:
 
 <L>2548<pc>886-a<k1>Sini<k2>Sini
 {@Śini, Śaineya@}¦ m. (pl.): Name of a
-people (descendants of Śini), a section of
+people ({{decendants->descendants||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of Śini), a section of
 the Yādavas.
 {@A.@} Characteristic: Śaineyas, as well as
 Andhakas and others, by following the coun-
@@ -80014,7 +80014,7 @@ return to his town in Magadha ({%jarāsan-%}
 stanza in Vol. II, p. 496: “This latter
 [Page890-b+ 40]
 reading ({%˚senebhyaḥ%}) confirms my inter-
-pretation of {%śūrasenānāṃ%} as ablative
+pretation of {%śūrasenānāṃ%} as {{ablatival->ablative||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 genitive (Speyer, {%V. S. S. § 73%}) in the sense
 of “from the Śūrasena country””); (3)
 Sahadeva in his expedition to the south of
@@ -80720,7 +80720,7 @@ side of the army ({%dakṣiṇena tu senāyāḥ%}
 killing the Saṃśaptakas, Arjuna returned to
 attack Droṇa and the Kaurava army 7. 31.
 41-44; (7) On the thirteenth day, when
-Droṇa reiterated the necessity of removing
+Droṇa {{reitereted->reiterated||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} the necessity of removing
 Arjuna from the main battle, Saṃśapta-
 kas renewed their challenge to Arjuna and
 took him away to the south of the battle-
@@ -80822,7 +80822,7 @@ Arjuna thus won victory over many Saṃ-
 [Page900-a+ 40]
 śaptaka troops ({%saṃśaptakagaṇān bahūn%})
 8. 19. 34-35; (10) On the seventeenth
-day, thirty-four thousand chariot-fighters of
+day, {{thirtyfour thausand chariot-fighters->thirty-four thousand chariot-fighters||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} of
 Śaṃśaptakas determined to fight to the end
 stood on the left side of the Bārhaspatya-
 vyūha of Kauravas ({%catustriṃśatsahasrāṇi%}
@@ -81510,7 +81510,7 @@ of different countries some of them being
 those from the Sindhu country ({%vājinām /%}
 {% … sindhujānāṃ ca sarvaśaḥ%}); the horses
 were swift like wind ({%hayair vātajavair … %})
-6. 86. 3, 5-6; (8) On the thirteenth day,
+6. 86. 3, 5-6; (8) On the {{thirteeenth->thirteenth||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} day,
 Arjuna assured Kṛṣṇa that he would kill
 the next day the Saindhava warriors along
 with their kings ({%mayā sarājakā bāṇair%}
@@ -81576,7 +81576,7 @@ Saindhavas) was thus torn by Arjuna
 once again ready to fight with Arjuna and
 they showered arrows at him; Arjuna told
 them that he would not kill them if they
-surrendered; but Saindhava warriors conti-
+{{surrundered->surrendered||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}; but Saindhava warriors conti-
 nued to shoot arrows; the kings of the
 Sindhu country remembering the death of
 Jayadratha threw {%prāsas%} and {%śaktis%} on
@@ -82166,7 +82166,7 @@ Kurus as far as Kāśis, Suhmas and Puṇḍras
 (2) Arjuna in his expedition to the north
 ({%diśaṃ dhanapater iṣṭām%} 2. 23. 9; {%prayāv%}
 {%uttarām tasmād diśam dhanadapālitām%} 2. 24.
-1) before the Rājasūya harassed Suhmas
+1) before the Rājasūya {{harrassed->harassed||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} Suhmas
 and Colas ({%suhmāṃś ca colāṃś ca … / … %}
 {%prāmathat kurunandanaḥ%}) 2. 24. 20; (3)
 Bhīmasena in his expedition to the east
@@ -83507,7 +83507,7 @@ expedition to the north ({%diśaṃ dhanapater%}
 went from the Hāṭaka Deśa to Harivarṣa;
 he wished to conquer also that Varṣa but
 was told by the gatekeepers, having large
-bodies and great strength, that the city could
+bodies and great {{strengh->strength||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}, that the city could
 not be conquered by him; he should return
 since the city could not be entered by
 men; if men did enter, they would certainly
@@ -83616,7 +83616,7 @@ mentioned by Saṃjaya among the northern
 Mlecchas of Bhāratavarṣa ({%ata ūrdhvaṃ%}
 {%janapadān nibodha%}) 6. 10. 37, 5; ({%uttarā%}
 {%cāpare mlecchā janā … / … hūṇāḥ pāra-%}
-{%takaiḥ saha%}) 6. 10. 63-64; also see {@B.@} Past
+{%takaiḥ saha%}) 6. 10. 63-64; {{aslo->also||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} see {@B.@} Past
 event. {@B.@} Past event: While going to
 Mithilā from mountain Meru ({%meruśṛṅge%}
 12. 310. 11-12; {%merupṛṣṭhe%} 12. 311. 12),
@@ -83653,7 +83653,7 @@ superior to Haimavatavarṣa ({%guṇottaraṃ%}
 {%haimavataṃ harivarṣaṃ tataḥ param%}) 6.
 11. 14; (for the qualities of the people
 see {@Bhāratavarṣa@} in the Addenda to this
-volume). {@C.@} Epic event: Dhṛtarāṣṭra
+{{valume->volume||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}). {@C.@} Epic event: Dhṛtarāṣṭra
 asked Saṃjaya to describe to him the
 longevity of the people of Haimavata, the
 auspicious or bad effects of their action and
@@ -83826,7 +83826,7 @@ seven winds.
 are Aditi's sons ({% … ete 'diteḥ putrā māru-%}
 {%tāḥ … %}) 12. 315. 53. {@B.@} Description: Most
 raining ({%varṣiṣṭha%}) 12. 315. 40; all the seven
-winds are very wonderful, blow incessantly
+winds are very wonderful, blow {{inccesantly->incessantly||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}}
 in all places sustaining all (creatures) ({%para-%}
 {%mādbhutāḥ / anāramantaḥ saṃvānti sarvagāḥ%}
 {%sarvadhāriṇaḥ%}) 12. 315. 53; ({%sadāgati%})
@@ -84002,7 +84002,7 @@ the Brāhmaṇa then roamed through the
 skies due to his austerities to which he was
 led by Kuṇḍadhāra; due to his virtuousness
 he also gained what he wanted and the
-highest bliss ({%vihāyasā ca gamanaṃ tathā%}
+{{highst bliss->highest bliss||20210403|Dr. Sampada Savardekar|https://github.com/sanskrit-lexicon/csl-corrections/issues/57|}} ({%vihāyasā ca gamanaṃ tathā%}
 {%saṃkalpitārthatā / dharmāc chaktyā tathā%}
 {%yogād yā caiva paramā gatiḥ //%}) 12. 263.
 53.
