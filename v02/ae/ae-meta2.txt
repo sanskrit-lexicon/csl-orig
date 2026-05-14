@@ -1,78 +1,102 @@
 ae-meta2.txt
-Mar 13, 2018
+previous update Mar 13, 2018
+May 14, 2027
 
-This supercedes ae-meta.txt as a description of 
- the current digitization ae.txt.
+Features of the current digitization ae.txt,
+ cdsl digitization of Apte's English-Sanskrit dictionary
 
-The digitization is in the utf-8 encoding.
+The digitization is a text file in the utf-8 encoding.
 
-ae.txt contains digitization of the entire text consisting of front matter,
-entries, and appendix.
+The digitizaion has three parts:
+- ae.txt dictionary entries
+- ae_header.txt  front matter (for reference)
+- ae_footer.txt  appendix (for reference)
 
-The {X...X} style of coding serves several purposes:
-{#X#}  : Devanagari text, in SLP1 transliteration
-{%X%}  : italic text 
-{@X@}  : bold text
-{??}   : 3 instances, in preface and appendix.
+ae.txt represents a sequence of ENTRIES.
+Each ENTRY consists of:
+ - a meta-line
+ - 1 or more text lines,
+ - <LEND>   (end-of-entry marker) (text following <LEND> is ignored by displays
 
-The pseudo-xml <> style of coding is used as follows:
-
-<L>,<e>,<h>,<k1>,<k2>,<pc>,<LEND> are used in the 'meta lines' (see below) 
-
-Types of line break divisions appear in the entries:
-<div n="lb"/>  Line break (removed 12-17-2021)
-
-Meta lines: 
-Each entry of the digitization is contained within a beginning and ending
-markup. As example,
-
+For example:
 <L>3<pc>001<k1>abase<k2>abase
-{@Abase,@}¦ {%v. t.%} {#aBiBU#} 1 P, {#svasTAnAt nipat#}
-<div n="lb"/>c., {#apakfz#} 1 P, {#laGUkf#} 8 U. {@-ment,@} {%s.%}
-<div n="lb"/>{#apakarzaH, aBiBavaH, mAnaBaMgaH, avajYAnaM#}.
+{@Abase@}¦,Ⓒ<lex>v. t.</lex>Ⓓ<s>aBiBU</s> 1 <ab>P</ab>, .....
+Ⓝ{@[Abase]ment@},Ⓒ<lex>s.</lex>Ⓓ<s>apakarzaH, ..... </s>
 <LEND>
 
-The ending markup is <LEND>.
-The beginning markup contains various identifying fields, expressed in
-a <fieldname>fieldvalue format. The fields are:
-required fields
-  L Cologne record identifier
-  pc page-col reference to scanned image
-  k1 key1. The headword spelling, in slp1 coding for Sanskrit headwords
-  k2 key2. same as k1 for this dictionary.
-optional field for homonym
-  h The homonym number (not present in ae.txt). 
+There are 0 or more lines between successive entries;
+these lines are ignored by the displays.
 
-Page breaks are coded as [Page...].
-Page breaks are more specifically coded as
-[PageP] where P is 1,2,...502.  (page 502 is Appendix)
-Page breaks of the preface are marked [Pagex1],...,[Pagex12].
+The meta-line structure contains a fixed sequence of fields;
+  each field is of the form <fieldname>fieldvalue.
+<L>L<pc>PC<k1>K1<k2>K2<h>H<e>E
+The fields are:
+   L Cologne numeric identifier for the entry
+     Unique for each entry
+     For successive entries E1 and E2, L1 is numerically less than L2 
+  PC page reference to scanned image
+  K1 the headword spelling - displays search on K1
+  k2 May contain additional information; usu. same as K1. Not used in displays
+   H The homonym identifier - optional. Not used at this time
+   E The entry-type - optional. Not used at this time
 
-The lines of the digitization represent lines of the text.
+The first line of an Entry uses ¦ at the end of citation form of entry
+ X¦text  X usually is {@K1@}, but may have other forms
 
-The headwords for the entries are in English alphabetical order.
+The entry text contains several forms of markup.
+XML TAGS 
+<ab>X</ab>   35746    Abbreviations
+<i>X</i>      3028    X to display with italic text
+<lex>X</lex> 22879    X is a part-of-speech
+<ls>X</ls>    1141    X is a literary source 
+<s>X</s>     72856    X is a Sanskrit word, in slp1 transliteration
 
-Sanskrit words are represented in Devanagari, which is coded as {#X#},
-where X is is SLP1 transliteration.
+{@X@}        33947    X to display as bold text
+{{X->Y}}       162    a cdsl print change
+{{Lbody=N}}      0    alternate headword entry (N is the L of another entry)
+[PageN]       ~200    Indicates entry continues on Page N of scan images.
 
-Sanskrit words within the entries appear in IAST form only a handful of times.
+Several extended Ascii characters appear within the text of entries;
+the table below show them with their frequencies and unicode name.
+Some uses of these characters is varied:
 
-The extended ascii characters appearing in the digitization, along
-with their frequency as of 03-13-2018, are:
+In Sanskrit words within the entries in IAST form, such as Vasiṣṭha
+¦ end of citation text (see above)
+⒈  implicit first homonym; Not currently used in displays
+⒉  implicit second homonynl Not currently used in displays
+Ⓐ  Not currently used in displays
+Ⓑ  with {@n@} New numbered sense. Generates line-break in displays
+Ⓒ  Usually precedes POS. Not currently used in displays
+Ⓓ  usually follows POS. Not currently used in displays
+Ⓔ  precedes new <lex>POS</lex>. Generates line-break in displays
+Ⓝ  with {@X@} potential additional headword X
+
+
+EXTENDED ASCII CHARACTERS with frequencies as of 05-14-2027)
 
 ¦  (\u00a6) 11359 := BROKEN BAR
-°  (\u00b0)   247 := DEGREE SIGN
-º  (\u00ba)     1 := MASCULINE ORDINAL INDICATOR
-ä  (\u00e4)     1 := LATIN SMALL LETTER A WITH DIAERESIS
-æ  (\u00e6)    12 := LATIN SMALL LETTER AE
-ā  (\u0101)    48 := LATIN SMALL LETTER A WITH MACRON
-ī  (\u012b)     8 := LATIN SMALL LETTER I WITH MACRON
-œ  (\u0153)     6 := LATIN SMALL LIGATURE OE
+°  (\u00b0)   245 := DEGREE SIGN
+æ  (\u00e6)    25 := LATIN SMALL LETTER AE
+ā  (\u0101)    49 := LATIN SMALL LETTER A WITH MACRON
+ī  (\u012b)    15 := LATIN SMALL LETTER I WITH MACRON
+Œ  (\u0152)     1 := LATIN CAPITAL LIGATURE OE
+œ  (\u0153)    19 := LATIN SMALL LIGATURE OE
 Ś  (\u015a)     4 := LATIN CAPITAL LETTER S WITH ACUTE
+ś  (\u015b)     4 := LATIN SMALL LETTER S WITH ACUTE
 ū  (\u016b)     2 := LATIN SMALL LETTER U WITH MACRON
-ṇ  (\u1e47)     2 := LATIN SMALL LETTER N WITH DOT BELOW
-‘  (\u2018) 10887 := LEFT SINGLE QUOTATION MARK
-’  (\u2019) 10944 := RIGHT SINGLE QUOTATION MARK
-“  (\u201c)     9 := LEFT DOUBLE QUOTATION MARK
-”  (\u201d)     8 := RIGHT DOUBLE QUOTATION MARK
-„  (\u201e)     1 := DOUBLE LOW-9 QUOTATION MARK
+ʼ  (\u02bc)   275 := MODIFIER LETTER APOSTROPHE
+ṇ  (\u1e47)     3 := LATIN SMALL LETTER N WITH DOT BELOW
+ṛ  (\u1e5b)     2 := LATIN SMALL LETTER R WITH DOT BELOW
+ṣ  (\u1e63)     3 := LATIN SMALL LETTER S WITH DOT BELOW
+ṭ  (\u1e6d)     1 := LATIN SMALL LETTER T WITH DOT BELOW
+‘  (\u2018) 11108 := LEFT SINGLE QUOTATION MARK
+’  (\u2019) 11108 := RIGHT SINGLE QUOTATION MARK
+…  (\u2026)     2 := HORIZONTAL ELLIPSIS
+⒈  (\u2488)    22 := DIGIT ONE FULL STOP
+⒉  (\u2489)    22 := DIGIT TWO FULL STOP
+Ⓐ  (\u24b6)   677 := CIRCLED LATIN CAPITAL LETTER A
+Ⓑ  (\u24b7)  9193 := CIRCLED LATIN CAPITAL LETTER B
+Ⓒ  (\u24b8) 19750 := CIRCLED LATIN CAPITAL LETTER C
+Ⓓ  (\u24b9) 22825 := CIRCLED LATIN CAPITAL LETTER D
+Ⓔ  (\u24ba)  3075 := CIRCLED LATIN CAPITAL LETTER E
+Ⓝ  (\u24c3)  9068 := CIRCLED LATIN CAPITAL LETTER N
