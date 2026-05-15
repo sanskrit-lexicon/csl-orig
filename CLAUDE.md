@@ -59,3 +59,79 @@ Commit messages reference the specific issue comment URL (see git log for exampl
 - Files are **UTF-8** encoded.
 - The `v02/` layout is the canonical structure (replaced legacy `v00/` layout; see `reorg/README.txt` for history).
 - Some dictionaries have a `prep/` subdirectory with Python utilities used during data preparation — these are auxiliary scripts, not part of the main data.
+
+---
+
+## GitHub Issue Conventions
+
+All issues follow the Sanskrit Lexicon taxonomy shared across the org.
+
+### Milestones
+
+| # | Title | Types |
+|---|---|---|
+| 4 | Dictionary to Book | `link-target`, `link-splitting` |
+| 5 | Digitization Quality | `text-correction`, `encoding`, `bug`, `scan-quality` |
+| 6 | Structured Data | `markup`, `question` |
+| 7 | Major Enhancements | `content-enhancement` |
+
+### Type labels — color `#0075ca`
+
+| Label | When to use |
+|---|---|
+| `link-target` | Building click-throughs from `<ls>` abbreviations to scanned PDF pages |
+| `link-splitting` | Splitting combined `SOURCE N,N` refs into individual per-page links |
+| `markup` | Normalising XML tag content (`<ls>`, `<lex>`, `<ab>`, etc.) |
+| `text-correction` | Corrections to dictionary text (definitions, headwords) |
+| `content-enhancement` | New material, display upgrades, structural additions beyond correction |
+| `encoding` | SLP1/IAST transcoding, character rendering, hyphen/dash normalisation |
+| `scan-quality` | Replacing blurry, skewed, or missing scan pages |
+| `bug` | Broken links, XML structure errors, broken download files |
+| `question` | Scholarly or editorial questions requiring research before any code change |
+
+### Severity labels
+
+| Label | Color | When to use |
+|---|---|---|
+| `minor` | `#e4e669` | Targeted, self-contained fix |
+| `medium` | `#fbca04` | Standard unit of work — one index, a batch of corrections |
+| `hard` | `#d93f0b` | Large effort spanning many sources, files, or dictionaries |
+
+---
+
+## Data format
+
+### Markup tags in `v02/<dict>/<dict>.txt`
+
+| Tag | Role | Example |
+|---|---|---|
+| `<L>NNNN` | Entry begin, with line number | `<L>12345` |
+| `<LEND>` | Entry end | |
+| `<pc>page` | Page/column reference in the print source | `<pc>1-001,1` |
+| `<k1>headword` | Primary headword in SLP1 | `<k1>rAma` |
+| `<k2>variant` | Secondary spelling or transliteration | `<k2>rAma` |
+| `<e>N` | Homonym number | `<e>1` |
+| `<lex>code` | Lexical category (gender, part of speech) | `<lex>m.` |
+| `<ls>source` | Literary source citation | `<ls>Rv. 1.22.16` |
+| `<ab>tag` | Italicised abbreviation | `<ab>m.</ab>` |
+| `<HI>text` | Inline headword marker | `<HI>rAma` |
+| `{#text#}` | Sanskrit text in SLP1 | `{#rAmaH#}` |
+| `{%text%}` | Italicised display text | `{%abc%}` |
+
+### Annotated example (AP90, abridged)
+
+```
+<L>8687<pc>2-302,2<k1>uttaraNga<k2>uttaraNga<e>1
+{#uttaraNga#}¦ <lex>a.</lex> Having a high or projecting roof;
+{%uttaraNgaH -raH%} <ab>m.</ab> A kind of pavilion or summer-house.
+<LEND>
+```
+
+- `<L>8687` — line number used for `updateByLine.py` change files
+- `<pc>2-302,2` — page 302, column 2 of the print source
+- `<k1>uttaraNga` — headword in SLP1 (maps to IAST *uttaraṅga*)
+- `<e>1` — homonym index
+- `{#uttaraNga#}` — Sanskrit text in SLP1 for display
+- `<lex>a.</lex>` — adjective marker
+- `<ab>m.</ab>` — gender abbreviation (masculine)
+- `<LEND>` — entry close
