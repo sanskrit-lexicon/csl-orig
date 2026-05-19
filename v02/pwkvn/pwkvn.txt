@@ -21494,7 +21494,7 @@
 {#avizahya#}¦ 3〉 <ab>Nom. abstr.</ab> {#˚tA#} <lex>f.</lex> <ls>BHĀG. P. 4,22,60</ls>.
 <LEND>
 <L>6626<pc>5-247-b<k1>avisaMvAda<k2>avisaMvAda
-{#avisaMvAda#}¦ <lex>m.</lex> {%das Worthalten%} <ls>MBH. 12,159,11</ls>.
+{#avisaMvAda#}¦ <lex>m.</lex> {%das Worthalten%} <ls>{{MBH. 12,159,18->MBH. 12,159,11||20250806|Jim Funderburk, Andhrabharati|https://github.com/sanskrit-lexicon/PWK/issues/84|}}</ls>.
 <LEND>
 <L>6627<pc>5-247-b<k1>avisaMvAdita<k2>avisaMvAdita
 {#avisaMvAdita#}¦ <lex>Adj.</lex> {%keinem Widerspruch unterliegend, allgemein anerkannt%}.
