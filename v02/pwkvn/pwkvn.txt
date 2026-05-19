@@ -6101,7 +6101,7 @@
 {#atikutUhala#}¦ <lex>n.</lex> {%grosse Neugier%} <ls>KATHĀS. 4,80</ls>.
 <LEND>
 <L>1996<pc>2-287-a<k1>atikfcCra<k2>atikfcCra
-{#atikfcCra#}¦ 1〉 <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>MBH. 12,338,3</ls>. — 2〉 {#˚m#} <lex>Adv.</lex> {%mit grosser Mühe%} <ls>BHĀG. P. 5,13,10</ls>.
+{#atikfcCra#}¦ 1〉 <lex>Adj.</lex> als <ab>Beiw.</ab> <is>Viṣṇu</is>ʼs <ls>{{MBH. 12,338,60->MBH. 12,338,3||20250608|Jim Funderburk, Andhrabharati|Ref: https://github.com/sanskrit-lexicon/PWK/issues/84|}}</ls>. — 2〉 {#˚m#} <lex>Adv.</lex> {%mit grosser Mühe%} <ls>BHĀG. P. 5,13,10</ls>.
 <LEND>
 <L>1997<pc>2-287-a<k1>atikrame<k2>atikra/me
 {#atikra/me#}¦ <ab>Dat.</ab> <ab>Inf.</ab> von {#kram#} mit {#ati#} <ls>ṚV.</ls>
@@ -11828,7 +11828,7 @@
 {#aDarmaSAlin#}¦ <lex>Adj.</lex> {%pflichtvergessen%} <ls>KAUTUKAR.</ls>
 <LEND>
 <L>3457<pc>3-249-a<k1>aDarmasaMgara<k2>aDarmasaMgara
-{#aDarmasaMgara#}¦ <lex>Adj.</lex> {%unredlich kämpfend%} <ls>MBH. 12,95,15</ls>.
+{#aDarmasaMgara#}¦ <lex>Adj.</lex> {%unredlich kämpfend%} <ls>{{MBH. 12,94,15->MBH. 12,95,15||20250608|Jim Funderburk, Andhrabharati|Ref: https://github.com/sanskrit-lexicon/PWK/issues/84|}}</ls>.
 <LEND>
 <L>3458<pc>3-249-a<k1>aDarzaRIya<k2>aDarzaRIya
 {#aDarzaRIya#}¦ <lex>Adj.</lex> auch {%unüberwindlich%} <ls>KATHĀS. 101,339</ls>.
@@ -20318,7 +20318,7 @@
 {#anUcyamAnatva#}¦ <lex>n.</lex> {%das Studirtwerden%} <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 3</ls>.
 <LEND>
 <L>6242<pc>5-243-b<k1>anUQa<k2>anUQa
-{#anUQa#}¦ auch {%unverheirathet%} vom Manne <ls>AK. 2,7,55</ls>. <ls>H. 526</ls>.
+{#anUQa#}¦ auch {%unverheirathet%} vom Manne <ls>{{AK. 2,7,35->AK. 2,7,55||20250621|Jim Funderburk|https://github.com/sanskrit-lexicon/pwg/issues/62|}}</ls>. <ls>H. 526</ls>.
 <LEND>
 <L>6243<pc>5-243-b<k1>anfRIkaraRa<k2>anfRIkaraRa
 {#anfRIkaraRa#}¦ <lex>n.</lex> {%das Befreien von einer Schuld%} <ls>HEM. PAR. 1,38</ls>.
@@ -21593,7 +21593,7 @@
 {#aSrAdDa#}¦ <lex>Adj.</lex> {%nicht würdig an einem%} <is>Śrāddha</is> {%theilzunehmen%} <ls>NĀRADA (a.) 2,1,178</ls>.
 <LEND>
 <L>6657<pc>5-248-a<k1>aSruleSa<k2>aSruleSa
-{#aSruleSa#}¦ <lex>m.</lex> {%Thränentropfen%} <ls>MEGH. 105</ls>. <ls>BHĀG. P. 6,16,32</ls>.
+{#aSruleSa#}¦ <lex>m.</lex> {%Thränentropfen%} <ls>{{MEGH. 103->MEGH. 105||20250521|Jim Funderburk|https://github.com/sanskrit-lexicon/csl-orig/issues/2758|}}</ls>. <ls>BHĀG. P. 6,16,32</ls>.
 <LEND>
 <L>6658<pc>5-248-a<k1>aSruvadana<k2>aSruvadana
 {#aSruvadana#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%mit Thränen auf dem Gesicht%} <ls>BHĀG. P. 1,16,19</ls>. <ls n="BHĀG. P. 1,">17,3</ls>.
@@ -25610,7 +25610,7 @@
 {#brahmarasAsava#}¦ <lex>m.</lex> <is>Brahman</is>ʼs {%Nektar%} <ls>BHĀG. P. 4,4,15</ls>.
 <LEND>
 <L>7961<pc>5-262-a<k1>brahmalOkika<k2>brahmalOkika
-{#brahmalOkika#}¦ <lex>Adj.</lex> <is>Brahman</is>ʼs {%Welt bewohnend%} <ls>YĀJÑ. 3,194</ls>. <ls>MBH. 13,151,46</ls> (150).
+{#brahmalOkika#}¦ <lex>Adj.</lex> <is>Brahman</is>ʼs {%Welt bewohnend%} <ls>YĀJÑ. 3,194</ls>. {{MBH. 13,150 (151),46-><ls>MBH. 13,151,46</ls> (150)||20250916|Jim Funderburk|https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue48fix)|ref found @151}}.
 <LEND>
 <L>7962<pc>5-262-a<k1>bruqaqvakrA<k2>bruqaqvakrA
 {#bruqaqvakrA#}¦ <lex>f.</lex> {%ein <ab>best.</ab> Wassergefäss%} <ls>UTTAMAC. 66</ls>. Man könnte {#bfhadvakrA#} oder {#bfhadvaktrA#} vermuthen.
@@ -26375,7 +26375,7 @@
 {#aRika#}¦ (<ls>Nachtr. 1 und 2</ls>) zu streichen, da {#fRika#} zu lesen ist.
 <LEND>
 <L>8210<pc>6-293-a<k1>atikaruRa<k2>atikaruRa
-{#atikaruRa#}¦ <lex>Adj.</lex> {%überaus kläglich%} <ls>MBH. 1,2,317</ls>.
+{#atikaruRa#}¦ <lex>Adj.</lex> {%überaus kläglich%} <ls>{{MBH. 1,3,317->MBH. 1,2,317||20250608|Jim Funderburk, Andhrabharati|Ref: https://github.com/sanskrit-lexicon/PWK/issues/84|}}</ls>.
 <LEND>
 <L>8211<pc>6-293-a<k1>atijitakASin<k2>atijitakASin
 {#atijitakASin#}¦ <lex>Adj.</lex> {%überaus siegesbewusst%}. <ab>Nom. abstr.</ab> {#˚SitA#} <lex>f.</lex> <ls>MUDRĀR. 55,13</ls>.
@@ -27773,7 +27773,7 @@
 {#ugrapUti#}¦ <lex>Adj.</lex> {%sehr stinkend%} <ls>MĀLATĪM. 78,16</ls>.
 <LEND>
 <L>8670<pc>6-298-c<k1>uc<k2>uc
-{#uc#}¦ mit {#sam#}, {#samucita#} 1〉 mit <ab>Gen.</ab> <ls>MEGH. 94</ls>.
+{#uc#}¦ mit {#sam#}, {#samucita#} 1〉 mit <ab>Gen.</ab> <ls>{{MEGH. 93->MEGH. 94||20250521|Jim Funderburk|https://github.com/sanskrit-lexicon/csl-orig/issues/2758|}}</ls>.
 <LEND>
 <L>8671<pc>6-298-c<k1>uccEHsvara<k2>uccEHsvara
 {#uccEHsvara#}¦ <lex>Adj.</lex> (<lex>f.</lex> {#A#}) {%eine laute Stimme habend, laut schreiend%} <ls>VARĀH. BṚH. S. 89,6</ls>.
@@ -29291,7 +29291,7 @@
 {#prahata#}¦ 1〉 <lex>Adj.</lex> <ab>s. u.</ab> <hom>1.</hom> {#han#} mit {#pra#}. — 2〉 *<lex>n.</lex> {%Schlag mit%} (im <ab>Comp.</ab> vorangehend). {#jaNGA˚#} <is>gaṇa</is> {#akzadyUtAdi#}.
 <LEND>
 <L>9163<pc>6-304-a<k1>prARa<k2>prARa<h>1
-<hom>1.</hom> {#prARa#}¦ 14〉 <ab>vgl.</ab> <ls>MBH. 3,313,54</ls>.
+<hom>1.</hom> {#prARa#}¦ 14〉 <ab>vgl.</ab> <ls>{{MBH. 13,313,54->MBH. 3,313,54||20250608|Jim Funderburk, Andhrabharati|Ref: https://github.com/sanskrit-lexicon/PWK/issues/84|}}</ls>.
 <LEND>
 <L>9164<pc>6-304-a<k1>prARin<k2>prARin
 {#prARin#}¦ <lex>n.</lex> {%Thier%} <ls>ĀPAST. ŚR. 9,13,1</ls>. <ls n="ĀPAST. ŚR. 9,">16,8</ls>.
@@ -29963,7 +29963,7 @@
 {#vimAtavya#}¦ <lex>Adj.</lex> {%umzutauschen gegen%} (<ab>Instr.</ab>) <ls>VASIṢṬHA 2,37</ls>.
 <LEND>
 <L>9379<pc>6-306-b<k1>vizkanttar<k2>vizkanttar
-{#vizkanttar#}¦ <ab>Nom. ag.</ab> {%hinundher hüpfend%} <ls>BHAṬṬ. 9,74</ls>.
+{#vizkanttar#}¦ <ab>Nom. ag.</ab> {%hinundher hüpfend%} <ls>{{BHAṬṬ. 9,64->BHAṬṬ. 9,74||20250502|Andhrabharati|https://github.com/sanskrit-lexicon/PWG/issues/143|}}</ls>.
 <LEND>
 <L>9380<pc>6-306-c<k1>vizkaBe<k2>vizka/Be
 {#vizka/Be#}¦ <ab>Dat.</ab> <ab>Infin.</ab> zu {#skaB#} mit {#vi#} <ls>ṚV. 8,89 (100),12</ls>.
@@ -40403,7 +40403,7 @@
 {{Lbody=12300}}
 <LEND>
 <L>12301<pc>7-306-c<k1>aBiziYcana<k2>aBiziYcana
-{#aBiziYcana#}¦ <lex>n.</lex> = {#aBizecana#} (so <ls>SCHL. 2,107,9</ls>) 2〉 <ls>R. ed. Bomb. 2,107,9</ls>.
+{#aBiziYcana#}¦ <lex>n.</lex> = {#aBizecana#} (so <ls>{{SCHL.->SCHL. 2,107,9||20251016|Jim Funderburk|https://github.com/sanskrit-lexicon/PWG/issues/160/ (issue83fixa)|}}</ls>) 2〉 <ls>R. ed. Bomb. 2,107,9</ls>.
 <LEND>
 <L>12302<pc>7-306-c<k1>aBizecanI<k2>*aBizecanI
 {#*aBizecanI#}¦ <lex>f.</lex> {%eine <ab>best.</ab>%} <is>Dhāraṇī</is> <ls>MAHĀVY. 25</ls>.
@@ -44678,7 +44678,7 @@
 {#asakfdAvartin#}¦ 6.
 <LEND>
 <L>13529<pc>7-314-b<k1>asakO<k2>asakO
-{#asaMkO#}¦ I. <ls>ŚIŚ. 7,53</ls> = <ls>SĀH. D. 49,21. fg.</ls>
+{{{#asaMkO#}->{#asakO#}||20251022|Jim Funderburk|https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue101fix)|headword change AND literary source change.}}¦ I. <ls>ŚIŚ. 7,53</ls> = <ls>{{SĀH. D. 49, ult. fg.->SĀH. D. 49,21. fg.||20251022|Jim Funderburk|https://github.com/sanskrit-lexicon/PWG/issues/160/  (issue101fix)|headword change AND literary source change.}}</ls>
 <LEND>
 <L>13530<pc>7-314-b<k1>asakta<k2>asakta
 {#asakta#}¦ I. 1.
@@ -65297,7 +65297,7 @@
 {#pracCeda#}¦ IV. {%musical division, bar%} (?) <ls>DIVYĀVAD. 597,19</ls>.
 <LEND>
 <L>19562<pc>7-360-a<k1>praC<k2>praC
-{#praC#}¦ IV. <ls>MĀLAV. (ed. BOLL.) 40</ls> {#pfcCate va#} fehlerhaft für {#pfcCateva#} (mit {#mADavena#} zu verbinden).
+{#praC#}¦ IV. {{<ls>MĀLAV. 40 (ed. BOLL.) /ls>-><ls>MĀLAV. (ed. BOLL.) 40</ls>||20250516|Jim Funderburk|https://github.com/sanskrit-lexicon/csl-orig/issues/2754|}} {#pfcCate va#} fehlerhaft für {#pfcCateva#} (mit {#mADavena#} zu verbinden).
 <LEND>
 <L>19563<pc>7-360-a<k1>prajaNGA<k2>prajaNGA
 {#prajaNGA#}¦ IV. <ls>JĀTAKAM. 9</ls>.
