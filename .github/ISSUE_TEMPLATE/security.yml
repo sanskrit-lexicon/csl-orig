@@ -1,0 +1,33 @@
+name: Security issue
+description: CVE, auth issue, credential exposure, or other security defect.
+title: "[security] "
+labels: ["security", "major"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **⚠️ Sensitive issues:** if this involves a credential, exploit, or active attack vector,
+        email gasyoun@gmail.com directly instead of filing publicly.
+  - type: textarea
+    id: what
+    attributes:
+      label: What is the vulnerability?
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Who is affected? What's the attack vector?
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - minor — disclosure-level, low impact
+        - major — exploitable, affects multiple users
+        - critical — active exploit, data/auth compromise
+    validations:
+      required: true

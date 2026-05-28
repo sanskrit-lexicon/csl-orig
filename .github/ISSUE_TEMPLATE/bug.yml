@@ -1,0 +1,42 @@
+name: Bug
+description: A defect — wrong output, broken contract, regression.
+title: "[bug] "
+labels: ["bug", "minor"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What is broken?
+      description: Describe the unexpected behaviour or output.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Run command X
+        2. Observe output Y
+        3. Expected Z
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, language version, relevant config.
+      placeholder: |
+        - OS: Windows 11 / Ubuntu 22.04
+        - Python/Node version
+        - Commit SHA
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - trivial — cosmetic, no functional impact
+        - minor — single function or component
+        - major — multiple files / breaks existing workflow
+        - critical — data loss, security, blocks all users
+    validations:
+      required: true

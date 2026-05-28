@@ -1,0 +1,17 @@
+name: Question / discussion
+description: Open question, proposal, or research topic.
+title: "[question] "
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Be specific about what you're asking.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What have you already checked? Any prior issues?
