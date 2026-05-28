@@ -12,3 +12,7 @@ v02/.cologne_last_run
 *.pyc
 __pycache__
 .DS_Store
+
+# audit sidecars
+.contributing_old.md
+.contributing_audit.txt
