@@ -5186,7 +5186,7 @@ II ā pcl., adv.
 ādi, ādika (-˚) a.
 <div n="1"/>1 <lang n="czech">počínající; atd.</lang>
 <div n="1"/>2 <lang n="russian">начинающий; и m. д.</lang>
-<div n="1"/>3 <lang n="english">beginning with; et caetera</lang>
+<div n="1"/>3 <lang n="english">beginning with; {{et caetera->et cætera||20260515|Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/csl-orig/pull/2845}}</lang>
 <LEND>
 <L>883<pc>042<k1>Aditya<k2>Aditya
 I āditya m.
@@ -6431,7 +6431,7 @@ ityartham adv.
 ityādi adv.
 <div n="1"/>1 <lang n="czech">tak počínající, atd., na př.</lang>
 <div n="1"/>2 <lang n="russian">так начинающийся, и т. д., на пр.</lang>
-<div n="1"/>3 <lang n="english">thus beginning, et caetera, e. g.</lang>
+<div n="1"/>3 <lang n="english">thus beginning, {{et caetera->et cætera||20260515|Dr. Dhaval Patel|https://github.com/sanskrit-lexicon/csl-orig/pull/2845}}, e. g.</lang>
 <LEND>
 <L>1097<pc>051<k1>ityASaNkya<k2>ityASaNkya
 ityāśaṅkya absol.
