@@ -1,0 +1,24 @@
+name: Tech debt
+description: Refactoring, cleanup, dependency updates.
+title: "[tech-debt] "
+labels: ["tech-debt"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs cleanup?
+      description: Code area, dependency, or pattern to address.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why now?
+      description: What pain or risk is this causing?
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: Proposed approach
+      description: How would you tackle it? (optional)

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discussion / cross-repo question
+    url: https://github.com/sanskrit-lexicon/COLOGNE/issues
+    about: For project-wide discussions or questions that span multiple repos.
+  - name: Code of Conduct
+    url: https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md
+    about: Standards for interaction in CDSL repositories.

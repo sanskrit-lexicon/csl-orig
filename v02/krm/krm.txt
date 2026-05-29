@@ -199,7 +199,7 @@
 <s>gacCati ityarTe) agniH ..</s> 
 [Page0007+ 27]
 <div n="P"><s>saMjYAyAM GaH = aNgam . praSastAni aNgAni yasyAH sA = aNganA .</s>
-<s>‘aNgAt kalyARe’ (ga</s>. <s>sU, </s>-5-2-100) <s>iti pAmAditvAt naH pratyayaH . ‘vila</s>-
+<s>‘aNgAt kalyARe’ (ga</s>. <s>sU,</s>-5-2-100) <s>iti pAmAditvAt naH pratyayaH . ‘vila</s>-
 <s>NgadeRaM SabarANganAjanapravaNgitaM maNgalaDenutaNgitam’ DA-kA</s>. 1-20.
 <LEND>
 
@@ -14376,7 +14376,7 @@
 <s>pragopAyya-pragupya, pragopAyya-pragopya, prajugopAyizya-prajugopizya-prajugupizya</s>-
 <s>prajugupsya, prajogupya</s>;
 <note n="1"/><s>gopAyam</s> 2 <s>-gopam</s> 2, <s>gopAyitvA</s> 2 <s>-gopitvA-guptvA</s> 2, <s>gopAyam</s> 2 <s>-gopam</s> 2, <s>gopAyayitvA</s> 2 <s>-gopayitvA</s> 2,
-<note n="1"/><s>jugopAyizam</s> 2 <s>-jugopizam</s> 2, <s>-jugupizam</s> 2 <s>-jugupsam </s>-2, <s>jogupam</s> 2;
+<note n="1"/><s>jugopAyizam</s> 2 <s>-jugopizam</s> 2, <s>-jugupizam</s> 2 <s>-jugupsam</s>-2, <s>jogupam</s> 2;
 <note n="1"/><s>jugopAyizitvA</s> 2<s>-jugopizitvA</s> 2, <s>-jugupizitvA</s> 2 <s>-jugupsitvA</s>- 2, <s>jogupitvA</s> 2.
 <F>1. <s>‘gupDUpavicCipaRipaniBya AyaH’</s> (3-1-28) <s>iti vihita AyapratyayaH</s>,
 <s>‘AyAdaya ArDaDAtuke vA’</s> (3-1-31) <s>ityanena, ArDaDAtuke vikalpitaH . ato</s>
@@ -14515,7 +14515,7 @@
 <s>ityAdIni rUpARi BOvAdikakUrdaDAtO</s> (230) <s>RyantarUpavat jYeyAni .</s>
 <s>RyantAt sani tu -</s>-
 <sup>3</sup> <s>jugUrdayizakaH-zikA, jugUrdayizitaH-tavAn</s>;
-<s>jugUrdayizitA-trI, jugUrdayizuH </s>;
+<s>jugUrdayizitA-trI, jugUrdayizuH</s>;
 <s>jugUrdayizan-ntI, jugUrdayizitavyam</s>;
 <s>jugUrdayizizyan-ntI-tI, jugUrdayizaRIyam</s>;
 <s>jugUrdayizamARaH, jugUrdayizyam</s>;
@@ -19588,7 +19588,7 @@
 <sup>A</sup> <s>-tI</s>,
 <sup>5</sup> <s>jakzanti-jakzati[kulAni]</s>,
 <sup>6</sup> <s>jakzayan-ntI, jijakzizan-ntI; -</s>-
-<s>jakzizyan-ntI-tI, jakzayizyan-ntI-tI, jijakzizizyan-ntI-tI; </s>-
+<s>jakzizyan-ntI-tI, jakzayizyan-ntI-tI, jijakzizizyan-ntI-tI;</s>-
 <s>— — — jAjakzyamARaH, jAjakzizyamARaH</s>;
 <sup>7</sup> <s>jaw-jaq-jakzO-jakzaH; — — -</s>-
 <sup>8</sup> <s>jakzitam-taH, jakzitaH, jijakzizitaH, jAjakzitaH-tavAn</s>;
@@ -44648,7 +44648,7 @@
 <s>aci-vanam, vanyA</s>,
 <sup>8</sup> <s>vaniH-vanI, vanyam, lyapi</s>-
 <sup>9</sup> <s>pravatya</s>,
-<sup>10</sup> <s>vantiH, </s>-
+<sup>10</sup> <s>vantiH,</s>-
 <sup>11</sup> <s>vatiH</s>, 
 [Page1195+ 26]
 <sup>1</sup> <s>brahmavanaM tvA kzatravanim</s>,

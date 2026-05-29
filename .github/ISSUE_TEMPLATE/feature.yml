@@ -1,0 +1,30 @@
+name: Feature request
+description: A net-new capability or enhancement.
+title: "[feature] "
+labels: ["feature"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What should the new capability look like?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What other approaches did you evaluate, and why this one?
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - minor — small enhancement
+        - major — significant new capability

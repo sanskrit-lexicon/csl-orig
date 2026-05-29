@@ -1,17 +1,18 @@
-# Contributing
+# Contributing to csl-orig
 
-Thank you for your interest in contributing to a Sanskrit Lexicon tooling repository.
+csl-orig is a tooling repository in the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project.
 
-## Workflow
+> Inherits the [Sanskrit Lexicon org-wide contribution standard](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md). This file documents anything **repo-specific** on top of it.
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes (with tests where appropriate)
-4. Submit a pull request
+## Issue taxonomy
 
-## Issue Labels
+This repo uses the **Cologne tooling-repo taxonomy** (not the dictionary taxonomy). Each issue gets one type, one severity, one milestone — labels are defined in [COLOGNE/CONTRIBUTING.md](https://github.com/sanskrit-lexicon/COLOGNE/blob/master/CONTRIBUTING.md#issue-taxonomy--tooling-repos).
 
-This repository uses the **Cologne tooling-repo taxonomy**:
-- **Type**: bug, feature, enhancement, performance, tech-debt, security, documentation, infrastructure, question
-- **Severity**: trivial, minor, major, critical
-- **Milestone**: API Stability, User Experience, Data Quality, Developer Experience, Community
+## Pull requests
+
+1. Fork, branch, PR (link the issue in title or body).
+2. Match existing code style; see [`CLAUDE.md`](CLAUDE.md) for build commands and conventions.
+3. PR checklist:
+   - [ ] Tested locally
+   - [ ] Documentation updated where behaviour changes
+   - [ ] No breaking changes (or clearly flagged)
