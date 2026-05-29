@@ -101,7 +101,7 @@ jobs:
           sh generate_dict.sh ${{ github.event.inputs.dictionary }} ../../${{ github.event.inputs.dictionary }}
 
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ github.event.inputs.dictionary }}-output
           path: |
