@@ -1781,7 +1781,7 @@ N. 1.18. 17.31.
 <L>334<pc>011-b<k1>antar<k2>antar
 {#antar#}¦ {%Praep. praef. interdum separ.%} (ut mihi videtur, a
 stirpe pronominali {#ana#} abjecto {#a#} s. {#tar#}, sicut {#prAtar#}
-a {#pra#} et zend. <lang n="Avestan"> 𐬀𐬭𐬆𐬥𐬌</lang> extra a <lang n="Avestan"> 𐬥𐬌𐬱</lang> ex, v. gr. comp. 293.
+a {#pra#} et zend. <lang n="Avestan">𐬀𐬭𐬆𐬥𐬌</lang> extra a <lang n="Avestan">𐬥𐬌𐬱</lang> ex, v. gr. comp. 293.
 et Burnoufii «Yaçna» p. XCIX.) 1) inter, intus, in
 medio. SA. 5.106. BH. 5.24. 8.22. N. 24.34. {%c. gen.%} BH. 13.15.
 2) sub, v. {#antarBUmi, antarBUmigata, antarhita#}
@@ -3336,7 +3336,7 @@ parum radicum, fructuum et aquae habens. H. 1.16.
 <L>632<pc>020-b<k1>ava<k2>ava
 {#ava#}¦ {%Praep. praef.%} (ut mihi videtur a stirpe pronominali {#a#}
 s. {#va#}, sicut {#eva, iva#} ab {#e, i#}; v. gr. comp. 380.) de, ab.
-(In lingua zendica <lang n="Avestan"> 𐬀𐬎𐬎𐬀</lang> est pronomen demonstrativum
+(In lingua zendica <lang n="Avestan">𐬀𐬎𐬎𐬀</lang> est pronomen demonstrativum
 cui respondet slav. {%ov%} Th. {%ovo%} hic, ille, fem. {%ova%},
 neut. {%ovo%}. Huc etiam trahimus gr. <lang n="greek">αὐ</lang> in composito
 <lang n="greek">αὐ-τός</lang> et posteriorem partem vocum <lang n="greek">ἐνταῦϑα, ἐντεῦϑεν</lang>;
@@ -3885,7 +3885,7 @@ malum, calamitas. UP. 32.
 
 <L>738<pc>023-b<k1>aSva<k2>aSva
 {#aSva#}¦ {%m.%} equus (lat. {%equus%}, gr. <lang n="greek">ἵππος</lang> ex <lang n="greek">ἵϰϰος</lang>, per assimilationem
-ex <lang n="greek">ἵϰϜος</lang>, zend. <lang n="Avestan"> 𐬀𐬯𐬞𐬀</lang> {%aśpa%} - gr.
+ex <lang n="greek">ἵϰϜος</lang>, zend. <lang n="Avestan">𐬀𐬯𐬞𐬀</lang> {%aśpa%} - gr.
 comp. 50. - lith. {%áʃzwa%} equa, russ. {%kobyla%}, abjecto
 {#a, v#} mutato in {%b%} et inserto {%o%} sicut in {%sobàka%} canis =
 {#Svan#}).
@@ -6216,7 +6216,7 @@ yadA#} etc. - s. {#nIm#}, v. gr. 652. suff. {#dAnIm#}) nunc. HIT. 5.20.;
 
 <L>1129<pc>039-b<k1>iDma<k2>iDma
 {#iDma#}¦ {%n.%} (r. {#inD#} urere ejecto {#n#} s. {#ma#}) lignum. AM. (Hib.
-{%adhmad%} nititur formâ gunatâ, cf. zend. <lang n="Avestan"> 𐬀𐬈𐬯𐬨𐬀</lang> {%aêśma%}
+{%adhmad%} nititur formâ gunatâ, cf. zend. <lang n="Avestan">𐬀𐬈𐬯𐬨𐬀</lang> {%aêśma%}
 et v. Pikt. p. 19.).
 <LEND>
 
@@ -6480,7 +6480,7 @@ N. 5.10. 11. BR. 3.5.: {#iha vA…utavA pretya#} aut hîc
 mundo). — {%Locativi%} {#asmin#} {%loco fungitur%} SA. 2.21.:
 {#yadi santI 'ha kecana#} si sunt in eo quaepiam {%vitia%};
 HIT. 104.15.: {#iha samaye#} hoc tempore. 2) huc. IN. 4.6.
-(Zend. <lang n="Avestan"> 𐬌𐬜𐬀</lang> {%idha%} hîc; gr. <lang n="greek">ἰϑᾱ</lang> vel <lang n="greek">ἰϑαι</lang> in <lang n="greek">ἰϑα-γενής, ἰϑαι-γενής</lang>,
+(Zend. <lang n="Avestan">𐬌𐬜𐬀</lang> {%idha%} hîc; gr. <lang n="greek">ἰϑᾱ</lang> vel <lang n="greek">ἰϑαι</lang> in <lang n="greek">ἰϑα-γενής, ἰϑαι-γενής</lang>,
 cf. Hartung «Casus» p. 117. et M.
 Schmidt «De pron. gr. et lat.» p. 16.; goth. {%ith%} si, nam,
 vero, gr. comp. 420.; fortasse lat. {%igi-tur%} pro {%igi-tus%} ex
@@ -9285,7 +9285,7 @@ formam, solum Accusativum retinuit {#evam#},
 quod sic, hoc modo significat.) 1) sic. N. 11.10. 12.114. 17.43.
 2) solum, tantummodo. HIT. 11.4. 30.15. 35.15.
 N. 19.19.{%a.b.%} 22.16. BR. 2.30. H. 4.7.15. (cf.
-Zend. <lang n="Avestan"> 𐬀𐬈𐬎𐬎𐬀</lang> {%aêva%} unus, gr. <lang n="greek">οἶος</lang> ex <lang n="greek">οἶϜος</lang>, nisi
+Zend. <lang n="Avestan">𐬀𐬈𐬎𐬎𐬀</lang> {%aêva%} unus, gr. <lang n="greek">οἶος</lang> ex <lang n="greek">οἶϜος</lang>, nisi
 ortum est ex <lang n="greek">οἶνος</lang> = {#ena#}, q. v., {%oinos%}). 3) jam. SA. 4.32.:
 {#mftam eva hi tam mene#}; SAK. 27.3.infr.: {#mahaty
 eva pratyUze…praboDye#}. 4) adhuc, {%noch%}. N. 23.21.
@@ -10234,7 +10234,7 @@ nomen Anangi, Dei amoris. N. 1.15.
 
 <L>1861<pc>065-a<k1>kanyA<k2>kanyA
 {#kanyA#}¦ {%f.%} (ut videtur, a r. {#kan#} s. {#ya#} in {%fem.%}) 1) puella. N. 1.25.
-2) filia. BR. 1.31. (Zend. <lang n="Avestan"> 𐬐𐬀𐬌𐬥𐬉</lang> {%kainê%} v. gr.
+2) filia. BR. 1.31. (Zend. <lang n="Avestan">𐬐𐬀𐬌𐬥𐬉</lang> {%kainê%} v. gr.
 comp. 137.; hib. {%cain%} «chaste, undefiled»; fortasse etiam
 huc pertinet {%caile%} «a country woman, a quean, a strumpet,
 a harlot»; mutato {%n%} in {%l%} sicut e. c. in {%eile%} alius =
@@ -11556,8 +11556,8 @@ v. gr. comp. 398.)
 enclitica {#cit#} quac in dialecto Vêdicâ etiam cun Substantivis
 conjungitur - e. c. {#vayaScit#} aves a {#vi#} - est
 neutrum stirpis {#ci#}, quod ortum est e {#ki#}, unde formis
-Vêdicis {#mAkis, nakis#} respondent Zend. <lang n="Avestan"> 𐬨𐬁𐬗𐬌𐬱</lang>
-{%mâ-ćis%}, <lang n="Avestan"> 𐬥𐬀𐬈𐬗𐬌𐬱</lang> {%naê-ćis%}, v. gr. comp. 328.)
+Vêdicis {#mAkis, nakis#} respondent Zend. <lang n="Avestan">𐬨𐬁𐬗𐬌𐬱</lang>
+{%mâ-ćis%}, <lang n="Avestan">𐬥𐬀𐬈𐬗𐬌𐬱</lang> {%naê-ćis%}, v. gr. comp. 328.)
 <LEND>
 
 <L>2119<pc>072-b<k1>kiYcilika<k2>kiYcilika
@@ -11665,7 +11665,7 @@ aliquis, quispiam. HIT. 4.7.; {%cum antecedente relativo et
 sequente%} {#api#} quisque, quicunque. N. 26.9. (Lith. {%kas%}
 accurate convenit cum nomin. masc. {#kas#}; goth. {%hva-s%}
 quis? = {#kas#}, {%hvô%} quae? = {#kA#}, {%hva-ta%} quid? = obsoleto
-{#kat#}, zendico <lang n="Avestan"> 𐬐𐬀𐬝</lang> {%kaṭ%}; lat. {%quis, quid%}, a Th. {#ki#}
+{#kat#}, zendico <lang n="Avestan">𐬐𐬀𐬝</lang> {%kaṭ%}; lat. {%quis, quid%}, a Th. {#ki#}
 {%quo, quod%} (= {#kat#}), {%qui, quorum, quos%}, a Th. {#ka#}; de
 fem. et neut. pl. {%quae%} pro {%quâ%} = goth. {%hvô%} v. gr. comp. 387. 394.;
 ad Th. {#ki#} etiam pertinet lat. {%hi-c, ci-s, ci-tra%},
@@ -14411,7 +14411,7 @@ RAM. III.60.47.: {#kftsne vE kzayite puRye#} ({#kzayita#} pro
 {#kzAyita#}, sicut {#cayita#} pro {#cAyita#}, gr. 521.) 2) regere,
 dominari, {%unde%} {#kzit#}, {%q. v., et in dialecto vêdicâ%} {#kzaya#} dominas,
 {%in composito%} {#urukzaya#} = <lang n="greek">εὐϱυϰϱείων</lang>, {%v. Ros. ad
-Rigv.%} p. 11.; {%simplici%} {#kzaya#} respondet zend. <lang n="Avestan"> 𐬒𐬱𐬀𐬵𐬌𐬌𐬀</lang>
+Rigv.%} p. 11.; {%simplici%} {#kzaya#} respondet zend. <lang n="Avestan">𐬒𐬱𐬀𐬵𐬌𐬌𐬀</lang>
 {%csahya%}, gr. comp. 48. (Ad {#kzyAmi#} rego, dominor Rosenius
 l. c. apte trahit gr. <lang n="greek">ϰϱείων</lang>, ita ut comp. <lang n="greek">εὐϱυϰωίων</lang>
 utraque compositi parte cum {#urukzaya#} conveniat; {#z#}
@@ -15590,7 +15590,7 @@ saNgamayAYcakAra#}.
 
 <L>2757<pc>102-a<k1>gam<k2>gam<h>2
 2. {#gam#}¦ terra, {%in dialecto Vêd.%}, unde genitivus {#gmas#} {%ejecto%} {#a#}.
-Ros. 41.20. (Huc nunc traxerim zend. <lang n="Avestan"> 𐬰𐬆𐬨</lang> {%zĕm%}, contra
+Ros. 41.20. (Huc nunc traxerim zend. <lang n="Avestan">𐬰𐬆𐬨</lang> {%zĕm%}, contra
 eam, quam alibi de hac voce dixi sententiam; lith.
 {%źémiế%}, slav. <lang n="Slavonic">земΛѣ</lang> {%ζemlje%} <sup>(*)</sup>, russ. <lang n="Russian">землà</lang> {%ζemlà%}
 cum {%l%} epenthetico, radice ad eandem vocem pertinent,
@@ -15978,8 +15978,8 @@ paSya SarvarIm#}; 5.73.: {#vigAQA SarvarI#}; IN. 5.5.:
 {#giri#}¦ {%m.%} mons. H. 2.30. ({#giri#} ortum est e {#gari#}, mutato {#a#}
 in {#i#}, per vim assimilationis {#i#} finalis, sicut {#guru#}, q. v., e
 [Page105-a+ 36]
-{#garu#}; cf. zend. <lang n="Avestan"> 𐬔𐬀𐬌𐬭𐬌</lang> {%gairi%}, quod ex <lang n="Avestan"> 𐬔𐬀𐬭𐬌</lang> {%gari%},
-unde gen. <lang n="Avestan"> 𐬔𐬀𐬭𐬋𐬌𐬱</lang> {%garôis%}, abl. <lang n="Avestan"> 𐬔𐬀𐬭𐬋𐬌𐬝</lang> {%garôiṭ%},
+{#garu#}; cf. zend. <lang n="Avestan">𐬔𐬀𐬌𐬭𐬌</lang> {%gairi%}, quod ex <lang n="Avestan">𐬔𐬀𐬭𐬌</lang> {%gari%},
+unde gen. <lang n="Avestan">𐬔𐬀𐬭𐬋𐬌𐬱</lang> {%garôis%}, abl. <lang n="Avestan">𐬔𐬀𐬭𐬋𐬌𐬝</lang> {%garôiṭ%},
 v. gr. comp. 41. 180.; slav. {%gora%}; fortasse etiam gr.
 <lang n="greek">ὄϱος</lang> e <lang n="greek">γόϱος</lang>.)
 <LEND>
@@ -16769,8 +16769,8 @@ Sakyante#}. (Primitiva huius radicis forma est {#graB#},
 unde {#grah#}, relictâ solâ aspiratione litterae {#B#}; v. gr. comp. 23.;
 forma {#graB#} servata est in dialecto vêd., quae item
 syllabam {#ra#}, ubi grammaticae leges {%Gunam%} non postulant,
-in {#f#} corripit; in lingua zend. haec radix sonat <lang n="Avestan"> 𐬔𐬆𐬭𐬆𐬞</lang>
-{%gĕrĕp%} ante {%t%}, et <lang n="Avestan"> 𐬔𐬇𐬎𐬭𐬎𐬎</lang> {%geurv%} ante vocales, v. gram.
+in {#f#} corripit; in lingua zend. haec radix sonat <lang n="Avestan">𐬔𐬆𐬭𐬆𐬞</lang>
+{%gĕrĕp%} ante {%t%}, et <lang n="Avestan">𐬔𐬇𐬎𐬭𐬎𐬎</lang> {%geurv%} ante vocales, v. gram.
 comp. 109^{%b%}).2. Cf. goth. {%greipa%}, nostrum {%greife%}, lith.
 {%grếbju%} prehendo, {%pagrếbju%} abripio, slav. {%grabljû%} rapio,
 cum {%l%} euphonico; hib. {%grabaim%} «I devour; I stop, interrupt,
@@ -17677,7 +17677,7 @@ quâ in re cum goth. {%fidvôr%} et cambro-brit. {%pedwar%} masc.,
 
 <L>3067<pc>118-a<k1>catur<k2>catur<h>2
 2. {#catur#}¦ {%Adv.%} (pro {#caturs#}, unde per metathesin zend.
-<lang n="Avestan"> 𐬗𐬀𐬚𐬭𐬎𐬱</lang> {%ćathrus%}) quater. (Lat. {%quater%}.)
+<lang n="Avestan">𐬗𐬀𐬚𐬭𐬎𐬱</lang> {%ćathrus%}) quater. (Lat. {%quater%}.)
 <LEND>
 
 <L>3068<pc>118-a<k1>catura<k2>catura
@@ -20480,7 +20480,7 @@ sec. Wils. a r. {#lih#} lingere, mutato {#l#} in {#j#}, s.
 trahenda sint lith. {%lieźuwis%}, cf. {%laiźu%} lingo, lat. {%lingua%},
 Goth. {%tuggô%}, nostrum {%Zunge%} et hib. {%teanga%}, si huc pertinent,
 ita e {#jihvA#} explicari possunt, ut soni {#j#} = {%dsch%}
-solum prius elementum relictum sit; zend. <lang n="Avestan"> 𐬵𐬌𐬰𐬎𐬎𐬀</lang>
+solum prius elementum relictum sit; zend. <lang n="Avestan">𐬵𐬌𐬰𐬎𐬎𐬀</lang>
 {%hizva%} autem sibilantem solam, mutato {%s%} in {%h%}, servavit;
 v. gr. comp. 53.)
 <LEND>
@@ -20623,7 +20623,7 @@ nAnAmfgagaRajuzwam#}; MAH. 1.3569.:
 {%In dial. Vêd.%} benevole accipere. Ros. RIGV. Sp. 12.2.:
 {#juzasva girim mama#}; 13. not.: {#juzasva naH samiDam#}.
 {%Caus.%} {#jozayAmi#} facere ut alqs colat, peragat.
-BH. 3.26.: {#jozayet sarvakarmARi#}. (Cf. zend. <lang n="Avestan"> 𐬰𐬀𐬊𐬴𐬀</lang>
+BH. 3.26.: {#jozayet sarvakarmARi#}. (Cf. zend. <lang n="Avestan">𐬰𐬀𐬊𐬴𐬀</lang>
 {%zaôṣa%} voluntas gr. comp. 58.; hib. {%gus%} «a desire, inclination»;
 goth. {%KUS%} eligere, {%kiusu, kaus, kusum%}, nostrum
 {%kiese%}, lat. {%gus-tus%}, nisi hoc pertinet ad {#Gas#}; gr. <lang n="greek">γεύω, γεύομαι</lang>,
@@ -22077,8 +22077,8 @@ aliud quam {%Pass.%} radicis {#tan#}).
 
 <L>3712<pc>152-a<k1>tArA<k2>tArA
 {#tArA#}¦ {%f.%} (ut mihi videtur, e {#stArA#} q. v. abjecto {#s#}) stella
-SU. 2.25. IN. 33. (V. {#stf#} stella et cf. zend <lang n="Avestan"> 𐬯𐬙𐬁𐬭𐬆</lang>
-{%śtârĕ%} pro <lang n="Avestan"> 𐬯𐬙𐬁𐬭</lang> {%śtâr%}, v. gr. comp. 30.; gr. <lang n="greek">ἀστήϱ, ἄστϱον</lang>,
+SU. 2.25. IN. 33. (V. {#stf#} stella et cf. zend <lang n="Avestan">𐬯𐬙𐬁𐬭𐬆</lang>
+{%śtârĕ%} pro <lang n="Avestan">𐬯𐬙𐬁𐬭</lang> {%śtâr%}, v. gr. comp. 30.; gr. <lang n="greek">ἀστήϱ, ἄστϱον</lang>,
 praefixo <lang n="greek">α</lang>; goth. {%stairnô fem.%}; lat. {%aster, astrum%},
 [Page152-b+ 37]
 {%stella%}, quod e sterna ortum esse videtur, mutato {%r%} in {%l%},
@@ -25746,7 +25746,7 @@ valvatae, {%wartai m. pl.%} porta cohortalis; hib. {%dor, doras%}
 «a door, gate, boundary»; gr. <lang n="greek">ϑύϱα</lang>; lat. {%foris%}, cujus {%f%}
 respondet gr. <lang n="greek">ϑ</lang> fortasse etiam <lang n="greek">πύλη</lang> et {%porta%} huc pertinent,
 abjecto {%d%}, mutato <lang n="greek">υ</lang> in {%p%} sicut e. c. in zend.
-<lang n="Avestan"> 𐬀𐬯𐬞𐬀</lang> {%aśpa%} equus = {#aSva#}, gr. <lang n="greek">ἵππος</lang>.)
+<lang n="Avestan">𐬀𐬯𐬞𐬀</lang> {%aśpa%} equus = {#aSva#}, gr. <lang n="greek">ἵππος</lang>.)
 <LEND>
 
 <L>4292<pc>179-a<k1>dvArasTa<k2>dvArasTa
@@ -31800,7 +31800,7 @@ SaktAH#}.
 <L>5257<pc>222-b<k1>pUrva<k2>pUrva
 {#pUrva#}¦ (de declin. v. gr. 279.) 1) prior. BR. 2.34. H. 3.18.
 BH. 4.15. 2) orientalis. SU. 2.12. {%De%} {#pUrva#} {%in fine compp.
-v. gr.%} 680. (Cf. {#para, puras, purA, praTama#}; zend. <lang n="Avestan"> 𐬞𐬀𐬋𐬌𐬭𐬌𐬌𐬀</lang>
+v. gr.%} 680. (Cf. {#para, puras, purA, praTama#}; zend. <lang n="Avestan">𐬞𐬀𐬋𐬌𐬭𐬌𐬌𐬀</lang>
 {%paôirya%} primus; russ. {%pervyĭ%} id.; hib. {%foirfe%} «old, ancient,
 perfect, worthy».)
 <LEND>
@@ -34395,7 +34395,7 @@ insania, stultitia. DR. 5.6.
 <L>5721<pc>239-a<k1>bAhu<k2>bAhu
 {#bAhu#}¦ vel {#vAhu#} {%m.%} (si {#vAhu#} primitiva esset forma, deducendum
 esset a r. {#vah#} vehere, ferre; forma {#bAhu#} autem
-sustentatur zendico <lang n="Avestan"> 𐬠𐬁𐬰𐬎</lang> {%bâzu%}, gr. <lang n="greek">βϱαχίων</lang>, lat. {%brachium%})
+sustentatur zendico <lang n="Avestan">𐬠𐬁𐬰𐬎</lang> {%bâzu%}, gr. <lang n="greek">βϱαχίων</lang>, lat. {%brachium%})
 brachium. IN. 2.24. (Gr. <lang n="greek">πῆχυς</lang>, mutatâ mediâ
 in tenuem, <lang n="greek">βϱαχίων</lang>, lat. {%brachium%} insertâ liquidâ sicut
 in {%frango%}, <lang n="greek">ϱ̔ήγνυμι</lang>, goth. {%BRAK%} = {#BaYj#}, nisi formae
@@ -34483,8 +34483,8 @@ bubuDe#}. — {%Caus.%} 1) certiorem facere, docere, nuntiare.
 M. 28.: {#boDayAmy adya yat te hitam anuttamam#}; BH. 10.9.:
 {#boDayantaH parasparam#}. 2) expergefacere. H. 2.35.:
 {#suKasuptAn…na BayAd boDayizyAmi#}. (Cf. {#bud,
-bund, bunD#} audire; zend. <lang n="Avestan"> 𐬠𐬎𐬜</lang> {%budh%} videre, <lang n="Avestan"> 𐬠𐬏𐬌𐬜𐬌𐬌𐬉</lang>
-{%bûidhyê%} video, <lang n="Avestan"> 𐬠𐬏𐬌𐬛𐬌𐬌𐬋𐬌𐬨𐬀𐬌𐬜𐬉</lang> {%bûidyôimaidhê%} videamus
+bund, bunD#} audire; zend. <lang n="Avestan">𐬠𐬎𐬜</lang> {%budh%} videre, <lang n="Avestan">𐬠𐬏𐬌𐬜𐬌𐬌𐬉</lang>
+{%bûidhyê%} video, <lang n="Avestan">𐬠𐬏𐬌𐬛𐬌𐬌𐬋𐬌𐬨𐬀𐬌𐬜𐬉</lang> {%bûidyôimaidhê%} videamus
 (gr. comp. 41. 472.); lith. {%bundu%} vigilo, {%budrùs%}
 vigil, vigilans, {%nu-bundù%} expergiscor, praet. {%nu-buddau; pa-budinu%}
 expergefacio; russ. {%bdju%} vigilo, {%bodryĭ%} vigil;
@@ -36852,7 +36852,7 @@ sammantrya droRam abravIt#}.
 <L>6064<pc>258-b<k1>mantra<k2>mantra
 {#mantra#}¦ {%m.%} (r. {#man#} s. {#tra#}) 1) consilium. BR. 1.26. 2) hymnus,
 carmen sacrum, {%vel%} precum formula. BH. 9.16. (V.
-{#mantr#} et cf. zend. <lang n="Avestan"> 𐬨𐬄𐬚𐬭𐬀</lang> {%maṅthra%} sermo, goth. {%mathlei%}
+{#mantr#} et cf. zend. <lang n="Avestan">𐬨𐬄𐬚𐬭𐬀</lang> {%maṅthra%} sermo, goth. {%mathlei%}
 id.; {%munths%}, them. {%muntha%}, os.)
 <LEND>
 
@@ -39433,7 +39433,7 @@ junior.)
 
 <L>6472<pc>277-a<k1>yaSas<k2>yaSas
 {#yaSas#}¦ {%n.%} (a perditâ r. {#yaS#} s. {#as#}) 1) gloria. 2) splendor.
-Zend. <lang n="Avestan"> 𐬁𐬌𐬌𐬱𐬯𐬉</lang> {%âyêśê%} celebro, per vim assimil. pro
+Zend. <lang n="Avestan">𐬁𐬌𐬌𐬱𐬯𐬉</lang> {%âyêśê%} celebro, per vim assimil. pro
 {%â-yaśê%}; cambro-brit. {%iesin%} «radiant, glorious, fair,
 beautiful, gairish».)
 <LEND>
@@ -42835,7 +42835,7 @@ na ukzitam…baDIH#} ne nobis adolescentem, ne nobis
 adultum occidas. — {%In praet. redupl.%} magnum, validum
 esse. RIGV. 81.5.: {#ati viSvaM vavakziTa#}. — {#ukzita#}
 qui erevit, magnus. RIGV. 85.2. (V. Westerg. et cf.
-goth. {%VAHS%}, zend. <lang n="Avestan"> 𐬎𐬎𐬒𐬱</lang> {%ucs%} crescere; gr. <lang n="greek">αὔξω, αὐξάνω</lang>;
+goth. {%VAHS%}, zend. <lang n="Avestan">𐬎𐬎𐬒𐬱</lang> {%ucs%} crescere; gr. <lang n="greek">αὔξω, αὐξάνω</lang>;
 hib. {%fasaim%} «I grow, increase», {%fasamhuil%}
 adj. «growing, increasing»; lat. {%vas-tus%} - de {%augeo%} v.
 {#Uha#} - lith. {%augu%} cresco, {%auksz-tas%} altus; fortasse {%ůsis%}
@@ -46336,7 +46336,7 @@ gr. 110^{%a%}).) loqui, lucere.
 debilitato {%a%} in {%i%}, mutato {%r%} in {%l%}, russ. {%volk%}, goth. {%vulf-s%},
 Them. {%vulfa%}, mutatâ gutt. in lab.; gr. <lang n="greek">λύϰος</lang> per metath.
 ex <lang n="greek">ὔλϰος</lang> pro <lang n="greek">Ϝαλϰος</lang>, correptâ syllabâ <lang n="greek">Ϝα</lang> in <lang n="greek">υ</lang>, lat. {%lupus%}
-ex {%ulpus%} pro {%ulcus%}; hib. {%breach, brech%}; pers. <lang n="Arabic">ڭرك </lang> {%gurk%},
+ex {%ulpus%} pro {%ulcus%}; hib. {%breach, brech%}; pers. <lang n="Arabic">ڭرك</lang> {%gurk%},
 mutato {%v%} in {%g%}.)
 <LEND>
 
@@ -46489,8 +46489,8 @@ Caus. {#vartayAmi#}; {%wirs-tu%} (e {%wirt-tu%}, v. gr. comp. 457.)
 evertor, collabor cum curru; boruss. vet. {%wartinna%} vertit,
 slav. {%vrjt-je-ti%} vertere; goth. {%VARTH%} fieri ({%vairtha,
 varth%}); nostrum {%werde, ward%}; goth. {%vaurs-tv%}, Them.
-{%vaurs-tva%} opus, v. gr. comp. 102.; pers. <lang n="Arabic"> ڭردم</lang> {%gerdem%}
-vertor, fio, mutâto {%v%} in {%g%}, <lang n="Arabic"> ڭـرد</lang> {%gird%} rotundus, subst. circulus,
+{%vaurs-tva%} opus, v. gr. comp. 102.; pers. <lang n="Arabic">ڭردم</lang> {%gerdem%}
+vertor, fio, mutâto {%v%} in {%g%}, <lang n="Arabic">ڭـرد</lang> {%gird%} rotundus, subst. circulus,
 cf. {#vftta#}.)
 <div n="pfx">c. {#ati#} 1) transire, transgredi. R. Schl. II.50.10.: {#raTena
 …koSalAn atyavartata#}. {%TROP.%} R. Schl. II.21.42.: {#na
@@ -49194,7 +49194,7 @@ purificare, lustrare. N. 17.10.: {#sunandA SoDayAmAsa piplapracCAdanam
 malam#}. (Fortasse {#SuD#} e {#SaD#}, debilitato
 {#a#} in {#u#}, cf. {#SunD, cand, SuB#}, hib. {%cuidh%} «clean, pure»,
 gr. <lang n="greek">ϰαϑαίϱω, ϰαϑαϱός</lang>, lith. {%cźys-ta-s%} purus =
-{#SudDas#} sicut zend. <lang n="Avestan"> 𐬠𐬀𐬯𐬙𐬀</lang> {%baśta%} ligatus = {#badDa#}, v. gr.
+{#SudDas#} sicut zend. <lang n="Avestan">𐬠𐬀𐬯𐬙𐬀</lang> {%baśta%} ligatus = {#badDa#}, v. gr.
 comp. 102.; {%cźystybe%} puritas, castitas, {%cźystiju%} purifico;
 boruss. vet. {%skys-tan%} (acc.) purum, castum = {#SudDam#};
 slav. <lang n="Slavonic">чистъ</lang> {%ćis-t%}, lat. {%cas-tus%}. Vid. Pott. I.252.)
@@ -49294,7 +49294,7 @@ prAhiRavaN Goram aSuzyat tena vE jalam#}; DR. 6.11.:
 siccare. BH. 2.23.: {#nacE 'naN kledayanty Apo
 na Sozayati mArutaH#}; A. 8.9. ({#Suz#} non e {#kuz#} - v. p. 340.
 - sed e {#suz#} ortum esse videtur, quâ formâ nituntur
-zend. <lang n="Avestan"> 𐬵𐬎𐬴𐬐𐬀</lang> {%huṣka%} siccus, v. {#Suzka#}, slav. {%sûch%} siccus,
+zend. <lang n="Avestan">𐬵𐬎𐬴𐬐𐬀</lang> {%huṣka%} siccus, v. {#Suzka#}, slav. {%sûch%} siccus,
 v. gr. comp. 255.{%m%}., lith. {%sáusa-s%} id., gr. <lang n="greek">σαυσαϱός, σαυσαϱισμός</lang>,
 lat. {%siccus%} per assim. e. {%sis-cus%} =
 {#Suzka#} q. v.; hib. {%seacadh%} «parched, dried, frozen, hard»,
@@ -50186,7 +50186,7 @@ gen. {%szun-s%} = {#Sunas#}, v. gr. comp. 139.; hib. nom. {%cu%},
 gen. et pl. {%coin%}; goth. {%hund-s%}, Them. {%hunda%}, adjecto {%da%};
 russ. {%sobaka%} pro {%sbaka%}, cf. med. <lang n="greek">σπαϰα</lang> apud Herod.
 <lang n="greek">«τὴν γάϱ ϰύνα ϰαλέουσι σπάϰα Μῆδοι»</lang>, pers. <lang n="Arabic">سك</lang>
-{%seg%}, zend. nom. <lang n="Avestan"> 𐬯𐬞𐬀</lang> {%śpâ%}, acc. <lang n="Avestan"> 𐬯𐬞𐬁𐬥𐬆𐬨</lang> {%śpânĕm%},
+{%seg%}, zend. nom. <lang n="Avestan">𐬯𐬞𐬀</lang> {%śpâ%}, acc. <lang n="Avestan">𐬯𐬞𐬁𐬥𐬆𐬨</lang> {%śpânĕm%},
 (v. gr. comp. 50.).)
 <LEND>
 
@@ -50373,7 +50373,7 @@ apis. SAK. 15.2. {%Vid. sq.%}
 {#zaz#}¦ (in initio comp. et nom. acc. {#zaw#}, v. gr. 74. et 256.)
 [Page361-a+ 19]
 sex. ({#zaz#} e {#kzaz#} mutilatum esse videtur, cf. zend.
-<lang n="Avestan"> 𐬒𐬱𐬎𐬎𐬀𐬱</lang> {%csvas%}, lat. {%sex%}, gr. <lang n="greek">ἕξ</lang>, anglo-sax. {%sex%},
+<lang n="Avestan">𐬒𐬱𐬎𐬎𐬀𐬱</lang> {%csvas%}, lat. {%sex%}, gr. <lang n="greek">ἕξ</lang>, anglo-sax. {%sex%},
 germ. vet. {%sehs%} e {%sihs%}, goth. {%saihs%} pro {%sihs%}, lith. {%szeszi%}
 (n. m. pl., fem. {%szezios%}), slav. {%sʽes-tj%} (subst. fem.), cambro-brit.
 {%chwech%}, armor. {%chuech%}, hib. {%se%} 6, {%seas-gat%}
@@ -51457,7 +51457,7 @@ Wils. «Echites scholaris». AM.
 <L>8267<pc>368-b<k1>saptama<k2>saptama
 {#saptama#}¦ ({%f.%} {#I#}, a {#saptan#} s. {#ma#}) septimus. (Lat. {%septimus%}, lith.
 {%sekma-s%} pro {%sepma-s%}, slav. {%sedmyĭ%}, germ. vet. {%sibunto(n)%},
-hib. {%seachtmad%}, zend. <lang n="Avestan"> 𐬵𐬀𐬞𐬙𐬀𐬚𐬀</lang> {%haptatha%}, gr.
+hib. {%seachtmad%}, zend. <lang n="Avestan">𐬵𐬀𐬞𐬙𐬀𐬚𐬀</lang> {%haptatha%}, gr.
 <lang n="greek">ἕβδομος</lang>.)
 <LEND>
 
@@ -54743,7 +54743,7 @@ BH. 10.31.
 sui, sibi {%cet. Vid.%} {#svagatam, svaBU, svasTa#}. {%Etiam ad
 primam et secundam pers. refertur, v.%} {#svADIna#}. (Huc
 pertinet prâcrit. {#se#} sui, ejus, ipsius in anal. cum {#te#} pro
-{#tve#} tui, {#me#} mei; zend. <lang n="Avestan"> 𐬵𐬉</lang> {%hê%}, <lang n="Avestan"> 𐬵𐬋𐬌</lang> {%hôi%}; v. {#svatas#} et gr.
+{#tve#} tui, {#me#} mei; zend. <lang n="Avestan">𐬵𐬉</lang> {%hê%}, <lang n="Avestan">𐬵𐬋𐬌</lang> {%hôi%}; v. {#svatas#} et gr.
 comp. 341. 2) suus. IN. 1.32. 34. 5.29. SU. 1.28. {%Etiam%}
 meus, tuus, noster, vester. UR. 39.13.: {#kaTayAmi svAm
 avasTAm#} conditionem meam; N. 14.15.: {#padAni
@@ -54945,7 +54945,7 @@ existens, cognomen dei {%Brahmae%}.
 
 <L>8785<pc>395-b<k1>svar<k2>svar<h>2
 2. {#svar#}¦ {%Indecl.%} (vid. {#sur#} splendere) coelum. BR. I.22. BH. 9.20.
-(Zend. <lang n="Avestan"> 𐬵𐬎𐬎𐬀𐬭𐬆</lang> {%hvarĕ%} sol, v. gr. comp. 30.; hib.
+(Zend. <lang n="Avestan">𐬵𐬎𐬎𐬀𐬭𐬆</lang> {%hvarĕ%} sol, v. gr. comp. 30.; hib.
 {%speur%} «the sky, firmament», v. Pictet p. 74.; fortasse {%soir%}
 «the east, the morning», a sole oriente dictum; lat. {%sol%};
 gr. <lang n="greek">σέλας, σελήνη</lang>; fortasse lith. {%sáulế%} sol e {%swalế, sualế%};
