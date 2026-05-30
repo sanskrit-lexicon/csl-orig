@@ -3,8 +3,11 @@
 
 Checks each canonical per-dict source `v02/<dict>/<dict>.txt` (the file the
 generation pipeline / hw.py consumes) and fails if it:
-  * begins with a UTF-8 BOM (EF BB BF), or
-  * is not decodable as UTF-8.
+  * begins with a UTF-8 BOM (EF BB BF),
+  * is not decodable as UTF-8, or
+  * uses the `<L>…<LEND>` entry format but `<L>` and `<LEND>` counts do not
+    balance (catches missing/duplicated `<LEND>` and the hidden-first-`<L>`
+    case without needing the full XML build).
 
 Rationale: a stray UTF-8 BOM on line 1 once surfaced only as a cryptic
 `hw.py` `init_entries Error 2` and reached origin before detection
@@ -31,16 +34,26 @@ for d in sorted(os.listdir(ROOT)):
     if os.path.exists(p):
         files.append((d, p))
 
-bad_bom, bad_utf8 = [], []
+bad_bom, bad_utf8, bad_struct = [], [], []
 for name, p in files:
     with open(p, 'rb') as f:
         data = f.read()
     if data[:3] == b'\xef\xbb\xbf':
         bad_bom.append(name)
     try:
-        data.decode('utf-8')
+        text = data.decode('utf-8')
     except UnicodeDecodeError:
         bad_utf8.append(name)
+        continue
+    # Structural balance: in <L>...<LEND> formats, entry-starts must match entry-ends.
+    nL = nLEND = 0
+    for line in text.split('\n'):
+        if line.startswith('<LEND>'):
+            nLEND += 1
+        elif line.startswith('<L>'):
+            nL += 1
+    if nLEND and nL != nLEND:
+        bad_struct.append(f'{name} (<L>={nL}, <LEND>={nLEND})')
 
 print(f'checked {len(files)} canonical dict sources under v02/')
 fail = False
@@ -50,6 +63,9 @@ if bad_bom:
 if bad_utf8:
     fail = True
     print(f'FAIL: invalid UTF-8 in: {", ".join(bad_utf8)}')
+if bad_struct:
+    fail = True
+    print(f'FAIL: <L>/<LEND> imbalance in: {"; ".join(bad_struct)}')
 if fail:
     sys.exit(1)
-print('OK: no BOM, all valid UTF-8')
+print('OK: no BOM, valid UTF-8, balanced <L>/<LEND>')
