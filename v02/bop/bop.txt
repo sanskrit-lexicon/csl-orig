@@ -8645,8 +8645,8 @@ primitiva forma est radicis {#vf#}, in {#Ur#}) tegere, {%cf.%}
 {#UrRA#}.
 <LEND>
 
-<L>1576<pc>054-b<k1>UrdDva<k2>UrdDva
-{#UrdDva#}¦ v. {#UrDva#}.
+<L>1576<pc>054-b<k1>UrdDa<k2>UrdDa
+{#UrdDa#}¦ v. {#UdDva#}.
 <LEND>
 
 <L>1577<pc>054-b<k1>UrdDva<k2>UrdDva
