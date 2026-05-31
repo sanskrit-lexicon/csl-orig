@@ -1,0 +1,26 @@
+name: encoding-guard
+
+# Guards canonical dictionary sources against the BOM / invalid-UTF-8 regression
+# class that once surfaced only as a cryptic hw.py "init_entries Error 2".
+
+on:
+  push:
+    paths:
+      - 'v02/**/*.txt'
+      - 'scripts/check_encoding.py'
+      - '.github/workflows/encoding-guard.yml'
+  pull_request:
+    paths:
+      - 'v02/**/*.txt'
+  workflow_dispatch:
+
+jobs:
+  encoding:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Check canonical dict sources for BOM / invalid UTF-8
+        run: python scripts/check_encoding.py
