@@ -56225,6 +56225,6 @@ Madras
 [Page1489+ 5]
 <s>SAstraratnAkara kulapati vEyAkaraRasArvaBOma</s>
 <s>brahmaSrI paRqita Sa</s>. <s>rAmasubrahmaRyaSAstrivaryAH</s>
-<Picture>
+<pic name='rAmasubba.png'>
 <s>SrIrAmasubbaSAstriprasfzwamAlA kfdantarUpARAm .</s>
 <s>tacCizyErasmABiH pragraTitA sumanasAM prItyE ..</s>
