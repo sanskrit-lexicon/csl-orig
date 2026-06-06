@@ -26,13 +26,29 @@ sys.stdout.reconfigure(encoding='utf-8')
 ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'v02')
 
 files = []
-for d in sorted(os.listdir(ROOT)):
-    dd = os.path.join(ROOT, d)
-    if not os.path.isdir(dd):
-        continue
-    p = os.path.join(dd, d + '.txt')          # canonical source: v02/<dict>/<dict>.txt
-    if os.path.exists(p):
-        files.append((d, p))
+if sys.argv[1:]:
+    # Pre-commit mode: filenames of staged files are passed as arguments.
+    # Derive the unique dict names from paths like v02/<dict>/... and check
+    # only those dicts' canonical <dict>.txt files.
+    dicts_to_check: set[str] = set()
+    for p in sys.argv[1:]:
+        parts = p.replace('\\', '/').split('/')
+        # Expect at least  v02 / <dict> / ...
+        if len(parts) >= 2 and parts[0] == 'v02' and parts[1]:
+            dicts_to_check.add(parts[1])
+    for d in sorted(dicts_to_check):
+        p = os.path.join(ROOT, d, d + '.txt')   # canonical source: v02/<dict>/<dict>.txt
+        if os.path.exists(p):
+            files.append((d, p))
+else:
+    # CI / scan-all mode (GHA workflow, or manual run with no arguments).
+    for d in sorted(os.listdir(ROOT)):
+        dd = os.path.join(ROOT, d)
+        if not os.path.isdir(dd):
+            continue
+        p = os.path.join(dd, d + '.txt')        # canonical source: v02/<dict>/<dict>.txt
+        if os.path.exists(p):
+            files.append((d, p))
 
 bad_bom, bad_utf8, bad_struct = [], [], []
 for name, p in files:

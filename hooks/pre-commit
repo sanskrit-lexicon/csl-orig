@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+# hooks/pre-commit
+# Native git pre-commit hook for csl-orig.
+#
+# Install once per clone:
+#   sh scripts/install-hooks.sh
+#
+# What it checks for staged v02/<dict>/* files:
+#   1. encoding-guard  — BOM, invalid UTF-8, <L>/<LEND> imbalance
+#   2. generate-dict   — runs full generate_dict.sh pipeline; fails on red output
+
+set -uo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+# ── Collect staged v02/ files (Added, Copied, Modified) ─────────────────────
+v02_files=()
+while IFS= read -r f; do
+    v02_files+=("$f")
+done < <(git diff --cached --name-only --diff-filter=ACM | grep '^v02/' || true)
+
+if [ "${#v02_files[@]}" -eq 0 ]; then
+    exit 0   # nothing under v02/ staged — nothing to do
+fi
+
+exit_code=0
+
+# ── 1. Encoding guard ────────────────────────────────────────────────────────
+echo "pre-commit: encoding-guard"
+if ! python3 scripts/check_encoding.py "${v02_files[@]}"; then
+    exit_code=1
+fi
+
+# ── 2. generate_dict.sh smoke-test ──────────────────────────────────────────
+# Only fire when files inside a dict subdirectory (v02/<dict>/…) are staged.
+dict_files=()
+for f in "${v02_files[@]}"; do
+    if [[ "$f" =~ ^v02/[^/]+/.+ ]]; then
+        dict_files+=("$f")
+    fi
+done
+
+if [ "${#dict_files[@]}" -gt 0 ]; then
+    echo "pre-commit: generate-dict-check"
+    if ! bash scripts/check_generate_dict.sh "${dict_files[@]}"; then
+        exit_code=1
+    fi
+fi
+
+exit $exit_code
