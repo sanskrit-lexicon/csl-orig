@@ -14457,7 +14457,7 @@ Palāśinī and the Lotus may be equated with Vilāsinī. The
 river Ojat has some resemblance with the mountain Ūrjayat.
 <P>The rivers due to the flood caused by excessive rains had
 [Page-322+ 1]
-<Picture>
+<pic name='rivers_of_junagarh.png'/>
 [Page-323+ 35]
 combined into one; with the flowers fallen from trees growing
 on the banks of these rivers, it looked as if a hand decorated
