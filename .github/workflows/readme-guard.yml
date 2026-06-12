@@ -1,0 +1,24 @@
+name: README manual overview guard
+
+on:
+  pull_request:
+    paths:
+      - README.md
+  push:
+    branches: [master, main]
+    paths:
+      - README.md
+  workflow_dispatch:
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify manual overview block
+        run: |
+          grep -qF '<!-- BEGIN MANUAL: overview' README.md
+          grep -qF '<!-- END MANUAL: overview -->' README.md
+          for heading in '## Repository topology' '## Editing policy' '## Hybrid issue taxonomy'; do
+            grep -qF "$heading" README.md
+          done
