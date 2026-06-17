@@ -195,7 +195,7 @@ jobs:
           zip keydoc_glob1.sqlite.zip keydoc_glob1.sqlite
 
           # All dictionary codes except 'pd' (excluded due to copyright)
-          DICTCODES="acc ae ap90 ap ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh pwkvn lrv abch acph acsj fri"
+          DICTCODES="acc ae ap90 ap ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh pwkvn lrv abch acph acsj fri nmmb"
 
           for DICTCODE in $DICTCODES; do
             SQLITE_DIR="$GITHUB_WORKSPACE/sanskrit-lexicon/${DICTCODE}/web/sqlite"

@@ -91,7 +91,7 @@ jobs:
           else
             for dict in $CHANGED_DICTS; do
               echo "Processing dictionary: $dict"
-              if [[ " abch acph acsj " =~ " $dict " ]]; then
+              if [[ " abch acph acsj nmmb " =~ " $dict " ]]; then
                 python3 make_babylon_synonymic.py $dict 0
                 python3 make_babylon_synonymic.py $dict 1
               else

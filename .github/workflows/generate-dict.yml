@@ -51,6 +51,7 @@ on:
           - wil
           - yat
           - abch
+          - nmmb
 
 jobs:
   build:
