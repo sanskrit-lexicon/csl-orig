@@ -16,3 +16,6 @@ __pycache__
 # audit sidecars
 .contributing_old.md
 .contributing_audit.txt
+
+# session journal (local-only)
+.ai_state.md
