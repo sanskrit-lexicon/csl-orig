@@ -16,7 +16,7 @@ jobs:
     steps:
       # 1. Checkout the trigger repository (csl-orig)
       - name: Checkout csl-orig
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/csl-orig
           path: sanskrit-lexicon/csl-orig
@@ -34,7 +34,7 @@ jobs:
       # 3. Checkout the scripts repository (cologne-stardict)
       - name: Checkout cologne-stardict
         if: steps.changed-files.outputs.any_changed == 'true'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/cologne-stardict
           path: sanskrit-lexicon/cologne-stardict
@@ -44,7 +44,7 @@ jobs:
       # 4. Checkout the target repository (stardict-sanskrit)
       - name: Checkout stardict-sanskrit
         if: steps.changed-files.outputs.any_changed == 'true'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: indic-dict/stardict-sanskrit
           path: indic-dict/stardict-sanskrit
@@ -54,7 +54,7 @@ jobs:
       # 5. Checkout hwnorm1 repository
       - name: Checkout hwnorm1
         if: steps.changed-files.outputs.any_changed == 'true'
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/hwnorm1
           path: sanskrit-lexicon/hwnorm1

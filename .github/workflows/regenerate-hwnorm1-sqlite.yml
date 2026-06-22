@@ -14,28 +14,28 @@ jobs:
 
     steps:
       - name: Checkout csl-pywork
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/csl-pywork
           path: sanskrit-lexicon/csl-pywork
           fetch-depth: 1
 
       - name: Checkout csl-orig
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/csl-orig
           path: sanskrit-lexicon/csl-orig
           fetch-depth: 1
 
       - name: Checkout csl-websanlexicon
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/csl-websanlexicon
           path: sanskrit-lexicon/csl-websanlexicon
           fetch-depth: 1
 
       - name: Checkout hwnorm1
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/hwnorm1
           path: sanskrit-lexicon/hwnorm1
@@ -43,7 +43,7 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Checkout csl-lslink
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/csl-lslink
           path: sanskrit-lexicon/csl-lslink
@@ -51,7 +51,7 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Checkout hwnorm2
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/hwnorm2
           path: sanskrit-lexicon/hwnorm2
@@ -59,7 +59,7 @@ jobs:
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Checkout csl-apidev
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/csl-apidev
           path: sanskrit-lexicon/csl-apidev
