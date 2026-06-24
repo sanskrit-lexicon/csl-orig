@@ -4880,7 +4880,7 @@ II ā pcl., adv.
 <div n="1"/>3 <lang n="english">implies limit, approximation, diminution</lang>
 <LEND>
 <L>831<pc>040<k1>AMg<k2>AMg
-āṃg-, āṃd- v. āṅg-, āṇḍ- 
+āṃg-, āṃd- v. āṅg-, āṇḍ-
 <LEND>
 <L>832<pc>040<k1>Akampita<k2>Akampita
 ākampitá (pp. ≺ kamp) 
@@ -6323,7 +6323,7 @@ I √i* eti, ite, ayati, ayate, inf. etum, ved. etave, etavai, etos, itye, ityai
 II i- pron., cf. i-tara, i-tas &c. 
 <LEND>
 <L>1077<pc>050<k1>iMg<k2>iMg
-iṃg-, iṃd- v. iṅg-, ind- 
+iṃg-, iṃd- v. iṅg-, ind-
 <LEND>
 <L>1078<pc>050<k1>iMD<k2>iMD
 ✓iṃdh v. idh 
@@ -8651,7 +8651,7 @@ ka pron. interrog. (kas, kā, kim)
 <div n="1"/>3 <lang n="english">the one — the other</lang>
 <LEND>
 <L>1479<pc>066<k1>kaMt<k2>kaMt
-kaṃt-, kaṃṭh-, kaṃd-, kaṃp-, kaṃb- v. kaṇṭ-, kaṇṭh-, kand-, kamp-, kamb- 
+kaṃt-, kaṃṭh-, kaṃd-, kaṃp-, kaṃb- v. kaṇṭ-, kaṇṭh-, kand-, kamp-, kamb-
 <LEND>
 <L>1480<pc>066<k1>kakud<k2>kakud
 kakud f., kakuda m., n.
@@ -11699,7 +11699,7 @@ kha n.
 <div n="1"/>3 <lang n="english">a hollow, aperture, empty space, sky</lang>
 <LEND>
 <L>2006<pc>088<k1>KaMq<k2>KaMq
-khaṃḍ- v. khaṇḍ- 
+khaṃḍ- v. khaṇḍ-
 <LEND>
 <L>2007<pc>088<k1>Kacara<k2>Kacara
 khacara
@@ -11882,7 +11882,7 @@ ga (-˚)
 <div n="1"/>3 <lang n="english">going, moving, relating to</lang>
 <LEND>
 <L>2037<pc>089<k1>gaMq<k2>gaMq
-gaṃḍ-, gaṃt-, gaṃdh-, gaṃbh- v. gaṇḍ-, gant-, gandh-, gambh- 
+gaṃḍ-, gaṃt-, gaṃdh-, gaṃbh- v. gaṇḍ-, gant-, gandh-, gambh-
 <LEND>
 <L>2038<pc>089<k1>gagaRa<k2>gagaRa
 gagaṇa, gagana n.
@@ -12305,7 +12305,7 @@ II √gā gāyati, gāti, pp. gīta
 <div n="1"/>3 <lang n="english">to sing (in order to obtain anything)</lang>
 <LEND>
 <L>2110<pc>092<k1>gAMg<k2>gAMg
-gāṃg-, gāṃdh-, gāṃbh- v. gāṅg-, gāndh-, gāmbh- 
+gāṃg-, gāṃdh-, gāṃbh- v. gāṅg-, gāndh-, gāmbh-
 <LEND>
 <L>2111<pc>092<k1>gANga<k2>gANga
 gāṅga (f. -ī) 
@@ -13229,7 +13229,7 @@ ca encl. conj., pcl.
 <div n="1"/>3 <lang n="english">and, also, as well as; but, on the other hand; even, indeed; if</lang>
 <LEND>
 <L>2274<pc>100<k1>caMc<k2>caMc
-caṃc-, caṃḍ-, caṃd-, caṃp- v. cañc-, caṇḍ-, cand-, camp- 
+caṃc-, caṃḍ-, caṃd-, caṃp- v. cañc-, caṇḍ-, cand-, camp-
 <LEND>
 <L>2275<pc>100<k1>cak<k2>cak
 √cak (cakati), pp. cakita
@@ -13778,7 +13778,7 @@ II √ci ciketi, cinoti, pp. cita
 <div n="1"/>3 <lang n="english">ascertained, decided, one who has come to a conclusion</lang>
 <LEND>
 <L>2369<pc>104<k1>ciMt<k2>ciMt
-ciṃt- v. cint- 
+ciṃt- v. cint-
 <LEND>
 <L>2370<pc>104<k1>cikitvaMs<k2>cikitvaMs
 cikitvaṃs (f. cikituṣī) 
@@ -13985,7 +13985,7 @@ cīra n.
 <div n="1"/>3 <lang n="english">a strip of bark or of cloth, rag, garment</lang>
 <LEND>
 <L>2405<pc>105<k1>cuMc<k2>cuMc
-cuṃc-, cuṃb- v. cuñc-, cumb- 
+cuṃc-, cuṃb- v. cuñc-, cumb-
 <LEND>
 <L>2406<pc>105<k1>cuYcu<k2>cuYcu
 cuñcu
@@ -14327,7 +14327,7 @@ cheda m.
 chedya v. chettavya
 <LEND>
 <L>2467<pc>108<k1>jaMG<k2>jaMG
-jaṃgh-, jaṃt-, jaṃb- v. jaṅgh-, jant-, jamb- 
+jaṃgh-, jaṃt-, jaṃb- v. jaṅgh-, jant-, jamb-
 <LEND>
 <L>2468<pc>108<k1>ja<k2>ja
 ja (-˚) 
@@ -19787,7 +19787,7 @@ II na adv.
 na + u v. no 
 <LEND>
 <L>3410<pc>145<k1>naMd<k2>naMd
-naṃd- v. nand- 
+naṃd- v. nand-
 <LEND>
 <L>3411<pc>145<k1>nakiMcana<k2>nakiMcana
 nakiṃcana
@@ -20579,7 +20579,7 @@ nāstika m.
 niṃd- v. nind-
 <LEND>
 <L>3548<pc>150<k1>niHk<k2>niHk
-niḥk-, niḥp- v. niṣk-, niṣp- 
+niḥk-, niḥp- v. niṣk-, niṣp-
 <LEND>
 <L>3549<pc>150<k1>niHSabda<k2>niHSabda
 niḥśabda v. niśśabda 
@@ -23255,7 +23255,7 @@ II √pā pāti, pp. pāna
 <div n="1"/>3 <lang n="english">to protect (on every side), defend, maintain</lang>
 <LEND>
 <L>4005<pc>169<k1>pAMc<k2>pAMc
-pāṃc-, pāṃḍ- v. pāñc-, pāṇḍ- 
+pāṃc-, pāṃḍ- v. pāñc-, pāṇḍ-
 <LEND>
 <L>4006<pc>169<k1>pAMsu<k2>pAMsu
 pāṃsu m. 
@@ -26648,7 +26648,7 @@ phena m.
 <div n="1"/>3 <lang n="english">foam</lang>
 <LEND>
 <L>4583<pc>194<k1>baMd<k2>baMd
-baṃd-, baṃdh- v. band-, bandh- 
+baṃd-, baṃdh- v. band-, bandh-
 <LEND>
 <L>4584<pc>194<k1>baMh<k2>baMh
 baṃh bāh baṃhate, pp. bādha 
@@ -28862,7 +28862,7 @@ bhrūṇa m.
 <div n="1"/>3 <lang n="english">an embryo</lang>
 <LEND>
 <L>4968<pc>211<k1>maMj<k2>maMj
-maṃj-, maṃd-, mamt-, maṃd- v. mañj-, maṇḍ-, mant-, mand- 
+maṃj-, maṃd-, mamt-, maṃd- v. mañj-, maṇḍ-, mant-, mand-
 <LEND>
 <L>4969<pc>211<k1>maMh<k2>maMh
 maṃh maṃhate, maṃhayati
@@ -38921,7 +38921,7 @@ vrīhi m.
 <div n="1"/>3 <lang n="english">rice, grain of rice</lang>
 <LEND>
 <L>6695<pc>287<k1>SaMk<k2>SaMk
-śaṃk-, śaṃt-, śaṃb-, śaṃbh- v. śaṅk-, śant-, śamb-, śambh- 
+śaṃk-, śaṃt-, śaṃb-, śaṃbh- v. śaṅk-, śant-, śamb-, śambh-
 <LEND>
 <L>6696<pc>287<k1>SaMs<k2>SaMs
 √śaṃs śaṃsati, -te, pp. śasta
@@ -41837,7 +41837,7 @@ sagarbha
 <div n="1"/>3 <lang n="english">pregnant</lang>
 <LEND>
 <L>7188<pc>307<k1>saNk<k2>saNk
-saṅk-, saṅkh- v. saṃk-, saṃkh- 
+saṅk-, saṅkh- v. saṃk-, saṃkh-
 <LEND>
 <L>7189<pc>307<k1>saNga<k2>saNga
 I saṅga m.
@@ -42884,7 +42884,7 @@ sameta (pp. ≺ sama-i)
 <div n="1"/>3 <lang n="english">come together, joined, united, mixed together</lang>
 <LEND>
 <L>7368<pc>315<k1>samp<k2>samp
-samp-, samb-, sambh-, samm- v. saṃp-, saṃb-, saṃbh-, saṃm- 
+samp-, samb-, sambh-, samm- v. saṃp-, saṃb-, saṃbh-, saṃm-
 <LEND>
 <L>7369<pc>315<k1>sayuj<k2>sayuj
 sayuj 
@@ -45185,7 +45185,7 @@ skandha* m.
 <div n="1"/>3 <lang n="english">to hold asunder, separate; impede, obstruct</lang>
 <LEND>
 <L>7763<pc>330<k1>staMb<k2>staMb
-staṃb-, staṃbh- v. stamb-, stambh- 
+staṃb-, staṃbh- v. stamb-, stambh-
 <LEND>
 <L>7764<pc>330<k1>stan<k2>stan
 stan* stanati; caus. stanayati, pp. stanita
