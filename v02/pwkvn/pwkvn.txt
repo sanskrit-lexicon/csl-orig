@@ -45242,7 +45242,7 @@
 {#asOnA/man#}¦ I. 5.
 <LEND>
 <L>13704<pc>7-315-c<k1>asOyaja<k2>asOyaja
-{#asOyaja#}¦ I. Genauer {%die Formel%} „<ab n="???">N. N.</ab> {#yaja#}“.
+{#asOyaja#}¦ I. Genauer {%die Formel%} „<ab n="Nomen Nescio">N. N.</ab> {#yaja#}“.
 <LEND>
 <L>13705<pc>7-315-c<k1>asOzWava<k2>asOzWava
 {#asOzWava#}¦ 5.
