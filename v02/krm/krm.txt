@@ -1376,7 +1376,7 @@
 <s>arbitavyam, arbayitavyam, arbibizitavyam</s>;
 <s>arbaRIyam, arbaRIyam, arbibizaRIyam</s>;
 <s>arbyam, arbyam, arbibizyam</s>;
-<s>IzadarbaH-durarbaH-svarbaH; — -</s>- 
+<s>IzadarbaH-durarbaH-svarbaH; — -</s>-
 [Page0041+ 26]
 <s>arbyamARaH, arbyamARaH, arbibizyamARaH</s>;
 <s>arbaH, arbaH, arbibizaH</s>;
@@ -1475,7 +1475,7 @@
 <s>alitavyam, Alayitavyam, alilizitavyam</s>;
 <s>alanIyam, AlanIyam, alilizaRIyam</s>;
 <s>Alyam, Alyam, alilizyam</s>;
-<s>IzadalaH-duralaH-svalaH; — -</s>- 
+<s>IzadalaH-duralaH-svalaH; — -</s>-
 [Page0044+ 25]
 <s>alyamAnaH, AlyamAnaH, alilizyamARaH</s>;
 <s>AlaH, AlaH, alilizaH</s>,<sup>1</sup> <s>AlI-AliH, a</s><sup>2</sup><s>lakam, a</s><sup>3</sup><s>lakA</s>;
@@ -3090,7 +3090,7 @@
 <s>prokzaRam, ukzaRam, ucikzizaRam</s>;
 <s>ukzitvA, ukzayitvA, ucikzizitvA</s>;
 <s>prokzya, aByukzya, procikzizya</s>;
-<note n="1"/><s>ukzam</s> 2, <s>ukzitvA</s> 2, <s>ukzam</s> 2, <s>ukzayitvA</s> 2, <s>ucikzizam</s> 2<s>; ucikzizitvA</s> 2.<sup>4</sup> <s>ukzA</s>. <s>— -</s>- 
+<note n="1"/><s>ukzam</s> 2, <s>ukzitvA</s> 2, <s>ukzam</s> 2, <s>ukzayitvA</s> 2, <s>ucikzizam</s> 2<s>; ucikzizitvA</s> 2.<sup>4</sup> <s>ukzA</s>. <s>— -</s>-
 [Page0091+ 26]
 <F>A. <s>‘ukzannenaM mandahAsena rakzan viSvan nikzan vallavI strikzitAGAH ..’ DA</s>. <s>kA</s>. 1-83.</F>
 <F>1. <s>‘kartari karmavyatihAre</s> (1-3-14) <s>iti Atmanepadam .</s></F>
@@ -3454,7 +3454,7 @@
 <sup>5</sup> <s>uBan-ntI-tI, oBayan-ntI, obiBizan-ntI</s>;
 <s>oBizyan-ntI-tI, oBayizyan-ntI-tI, obiBizizyan-ntI-tI</s>;
 <s>— oBayamAnaH, oBayizyamARaH</s>;
-<s>up-ub-uBO-uBaH; — -</s>- 
+<s>up-ub-uBO-uBaH; — -</s>-
 [Page0102+ 24]<sup>A</sup> <s>uBitaH, uBitam-tavAn, oBitaH-tam, obiBizitaH-tavAn</s>;
 <sup>1</sup> <s>uBO, oBaH, obiBizuH, obiBayizuH</s>;
 <s>oBitavyam, oBayitavyam, obiBizitavyam</s>;
@@ -3599,7 +3599,7 @@
 <sup>3</sup> <s>ozitvA, ozayitvA, ozizizitvA</s>;
 <s>vyuzya, samozya, samozizizya</s>;
 <note n="1"/><s>ozam</s> 2, <s>ozitvA</s> 2, <s>ozam</s> 2, <s>ozayitvA</s> 2, <s>ozizizam</s> 2<s>; ozizizitvA</s> 2;
-<sup>4</sup> <s>UzmA</s>,<sup>5</sup> <s>uzRaH</s>. <s>— -</s>- 
+<sup>4</sup> <s>UzmA</s>,<sup>5</sup> <s>uzRaH</s>. <s>— -</s>-
 [Page0107+ 23]
 <F>3. <s>oReH fditkaraRAt liNgAt upaDAkAryaM dvitbAt prabalam . tena guRaH .</s></F>
 <F>1. <s>‘udupaDAt—’</s> (1-2-21) <s>iti kittvavikalpaH . tena rUpadvayam . ‘pratyuzwam’</s>
@@ -3904,7 +3904,7 @@
 <sup>5</sup> <s>fcCan-ntI, arpayan-ntI, aririzan-ntI; -</s>-<sup>6</sup> <s>arizyan-ntI-tI, arpayizyan-ntI-tI, aririzizyan-ntI-tI</s>;
 <sup>7</sup> <s>samfcCamAnaH, arpayamARaH</s>,<sup>8</sup> <s>samaririzamARaH, arAryamARaH</s>;
 <s>samarizyamARaH, arpayizyamARaH, samaririzizyamARaH, arArizyamARaH</s>;
-<sup>9</sup> <s>samft-samftO-samftaH; — — -</s>- 
+<sup>9</sup> <s>samft-samftO-samftaH; — — -</s>-
 [Page0117+ 30]
 <s>ftam</s>-<sup>1</sup> <s>ftaH-ftavAn</s>,<sup>2</sup> <s>suKArtaH</s>,<sup>3</sup> <s>fRam</s>,<sup>4</sup> <s>prArRam-vatsatarArRam</s>-
 <s>kambalArRam-vasanArRam-daSArRaH (deSaH)-daSArRA (nadI)-fRArRam</s>,<sup>A</sup> <s>uttamarRaH</s>-<sup>A</sup> <s>aDamarRaH, arpitam-taH, aririzitaM-taH, arAritaH-tavAn</s>;
@@ -5134,7 +5134,7 @@
 <s>katryamARaH, cikatrayizyamARaH, katryamARaH, cikatrizyamARaH</s>;
 <s>katraH, cikatrayizaH, katraH, cikatrizaH; -</s>-
 <s>katrayitum, cikatrayizitum, katritum, cikatrizitum</s>;
-<s>katraRA, cikatrayizA, katrA, cikatrizA; -</s>- 
+<s>katraRA, cikatrayizA, katrA, cikatrizA; -</s>-
 [Page0156+ 27]
 <s>katraRam, cikatrayizaRam, katraRam, cikatrizaRam</s>;
 <s>katrayitvA, cikatrayizitvA, katritvA, cikatrizitvA</s>;
@@ -5295,7 +5295,7 @@
 (166) {@<s>“kapi calane”</s>@}¦ (I<s>-BvAdiH</s>. 375<s>-aka</s>. <s>sew</s>. <s>Atma</s>.)
 <div n="NI"><s>kampakaH-mpikA, kampakaH-mpikA, cikampizakaH-zikA, cAkampakaH-mpikA</s>;
 <s>kampitA-trI, kampayitA-trI, cikampizitA-trI, cAkampitA-trI</s>;
-<s>-</s>-<sup>5</sup> <s>kampayan-ntI, kampayizyan-ntI-tI; -</s>- 
+<s>-</s>-<sup>5</sup> <s>kampayan-ntI, kampayizyan-ntI-tI; -</s>-
 [Page0161+ 28]
 <s>kampamAnaH, — cikampizamARaH, cAkampyamAnaH</s>;
 <s>kampizyamARaH, — cikampizizyamARaH, cAkampizyamARaH</s>;
@@ -5392,7 +5392,7 @@
 <note n="1"/><sup>7</sup> <s>prakAmanIyam, prakamanIyam, kAmanIyam, cikAmayizaRIyam, cikamizaRIyam, caNkAmanIyam; caNkamanIyam</s>;
 <note n="1"/><sup>8</sup> <s>kAmyam</s>-
 <note n="1"/><sup>9</sup> <s>kamyam, kAmyam, cikAmayizyam, cikamizyam, caNkAmyam-caNkamyam</s>;
-<s>IzatkAmaH-duzkAmaH-sukAmaH, IzatkamaH-duzkamaH-sukamaH; -</s>- 
+<s>IzatkAmaH-duzkAmaH-sukAmaH, IzatkamaH-duzkamaH-sukamaH; -</s>-
 [Page0165+ 20]
 <note n="1"/><s>kAmyamAnaH, kAmyamAnaH, kAmyamAnaH, cikAmayizyamARaH, cikamizyamARaH, caNkAmyamAnaH-caNkamyamAnaH</s>;
 <note n="1"/><sup>A</sup> <s>kAmaH-kAmaH, kAmaH, cikAmayizaH, cikamizaH, caNkAmaH-caNkamaH</s>;
@@ -5777,7 +5777,7 @@
 <s>kasan-ntI, kAsayan-ntI, cikasizan-ntI; -</s>-
 <s>kasizyan-ntI-tI, kAsayizyan-ntI-tI, cikasizizyan-ntI-tI</s>;
 <s>kAsayamAnaH, kAsayizyamARaH, canIkasyamAnaH, canIkasizyamARaH</s>;
-<sup>5</sup> <s>kaH-kasO-kasaH; — — -</s>- 
+<sup>5</sup> <s>kaH-kasO-kasaH; — — -</s>-
 [Page0176+ 26]
 <s>kasitam-taH, kAsitaH-tam, cikasizitaH, canIkasitaH-tavAn</s>;
 <s>kasaH</s>,<sup>1</sup> <s>kAsaH</s>,<sup>2</sup> <s>kasvaraH</s>,<sup>A</sup> <s>kaSanIyakAsI, kAsaH, cikasizuH, cikAsayizuH, canIkasaH</s>;
@@ -5950,7 +5950,7 @@
 <s>kASitavyam, kASayitavyam, cikASizitavyam, cAkASitavyam</s>;
 <s>kASanIyam</s>,<sup>7</sup> <s>pranikASanIyam, cikASizaRIyam, cAkASanIyam</s>;
 <s>prakASyam, kASyam, cikASizyam, cAkASyam</s>;
-<s>IzatkASaH-duzkASaH-sukASaH; — -</s>- 
+<s>IzatkASaH-duzkASaH-sukASaH; — -</s>-
 [Page0182+ 25]
 <s>kASyamAnaH, kASyamAnaH, cikASizyamARaH, cAkASyamAnaH</s>;
 <s>prakASaH, kASaH, cikASizaH, cAkASaH</s>;
@@ -6280,7 +6280,7 @@
 <s>kokitavyam, kokayitavyam, cukukizitavyam-cukokizitavyam, cokukitavyam</s>;
 <s>kokanIyam, kokanIyam, cukukizaRIyam-cukokizaRIyam-cokukanIyam</s>;
 <s>kokyam, kokyam, cukukizyam-cukokizyam, cokukyam</s>;
-<s>IzatkokaH-duzkokaH-sukokaH; — -</s>- 
+<s>IzatkokaH-duzkokaH-sukokaH; — -</s>-
 [Page0193+ 23]
 <s>kukyamAnaH, kokyamAnaH, cukukizyamARaH-cukokizyamARaH, cokukyamAnaH</s>;
 <s>kokaH, kokaH, cukukizaH-cukokizaH, cokukaH</s>;
@@ -6343,7 +6343,7 @@
 <s>kOtIti SabdamAtre syAt—’</s> (<s>Slo</s>. 23) <s>iti devaH .</s>
 <div n="NI"><s>kAvakaH-vikA, kAvakaH-vikA, cukUzakaH-zikA, cokUyakaH-yikA</s>;
 <s>ityAdirUpARi AdAdika</s> (196) <s>kuDAtuvat RyantAt sannantAt</s>
-<s>yaNantAcca jYeyAni . SudDAdDAtoH kuwAditvAt rUpARi liKyante-</s>- 
+<s>yaNantAcca jYeyAni . SudDAdDAtoH kuwAditvAt rUpARi liKyante-</s>-
 [Page0195+ 24]<sup>1</sup> <s>kutA-trI</s>,<sup>2</sup> <s>kuvamAnaH</s>,<sup>A</sup> <s>kuzyamARaH, kut-kutO-kutaH, kutam-taH-tavAn</s>,
 <s>kuvaH, kutavyam, kuvanIyam</s>,<sup>3</sup> <s>kuyam</s>,<sup>4</sup> <s>avaSyakAvyam, IzatkuvaH-duzkuvaH</s>-
 <s>sukuvaH, kUyamAnaH, kuvaH, kutum, kutiH, kuvanam, kutvA, avakutya</s>,
@@ -6687,7 +6687,7 @@
 <s>kuRayitavyam, cukuRayizitavyam</s>;
 <sup>3</sup> <s>kuRanIyam, cukuRayizaRIyam</s>;
 <s>kuRyam, cukuRayizyam</s>;
-<s>IzatkuRaH-duzkuRaH-sukuRaH; -</s>- 
+<s>IzatkuRaH-duzkuRaH-sukuRaH; -</s>-
 [Page0206+ 24]
 <s>kuRyamAnaH, cukuRayizyamARaH</s>;
 <s>kuRaH, cukuRayizaH</s>;
@@ -6718,7 +6718,7 @@
 <s>kutsayitavyam, cukutsayizitavyam</s>;
 <s>kutsanIyam, cukutsayizaRIyam</s>;
 <sup>A</sup> <s>kutsyam, cukutsayizyam</s>;
-<s>IzatkutsaH-duzkutsaH-sukutsaH; -</s>- 
+<s>IzatkutsaH-duzkutsaH-sukutsaH; -</s>-
 [Page0207+ 25]
 <s>kutsyamAnaH, cukutsayizyamARaH</s>;
 <s>kutsaH, cukutsayizaH</s>;
@@ -6748,7 +6748,7 @@
 <s>‘kuTnAti kunTet saMkleSe, pUtIBAve tu kuTyati ..’</s> (<s>Slo</s>-38) <s>iti devaH .</s>
 <s>koTakaH-TikA, koTakaH-TikA</s>,<sup>2</sup> <s>cukuTizakaH-cukoTizakaH-zikA, cokuTakaH-TikA</s>;
 <s>koTitA-trI, koTayitA-trI, cukuTizitA-trI, cukoTizitA-trI, cokuTitA-trI</s>;
-<sup>3</sup> <s>kuTyan</s><sup>A</sup> -<sup>4</sup> <s>ntI, koTayan-ntI, cukuTizan-cukoTizan-ntI; -</s>- 
+<sup>3</sup> <s>kuTyan</s><sup>A</sup> -<sup>4</sup> <s>ntI, koTayan-ntI, cukuTizan-cukoTizan-ntI; -</s>-
 [Page0208+ 23]
 <s>koTizyan-ntI-tI, koTayizyan-ntI-tI, cukuTizizyan-cukoTizizyan-ntI-tI</s>;
 <s>— koTayamAnaH, koTayizyamARaH, cokuTyamAnaH, cokuTizyamARaH</s>;
@@ -6845,7 +6845,7 @@
 <s>kuYcan-ntI, kuYcayan-ntI, cukuYcizan-ntI; -</s>-
 <s>kuYcizyan-ntI-tI, kuYcayizyan-ntI-tI, cukuYcizizyan-ntI-tI; -</s>-
 <s>— kuYcayamAnaH, kuYcayizyamARaH, cokucyamAnaH, cokuYcizyamARaH</s>;
-<s>kuk-kuYcO-kuYcaH; — — -</s>- 
+<s>kuk-kuYcO-kuYcaH; — — -</s>-
 [Page0211+ 26]<sup>1</sup> <s>nikucitam-taH</s>,<sup>A</sup> <s>kuYcitaH, cukuYcizitaH, cokuYcitaH-tavAn</s>;
 <s>kuYcaH, kuYcaH, cukuYcizuH, cokuYcaH</s>;
 <s>kuYcitavyam, kuYcayitavyam, cukuYcizitavyam, cokuYcitavyam</s>;
@@ -7049,7 +7049,7 @@
 <s>— kUrdayan-ntI, kUrdayizyan-ntI-tI; -</s>-
 <s>kUrdamAnaH, kUrdayamAnaH, cukUrdizamARaH, cokUrdyamAnaH</s>;
 <s>kUrdizyamARaH, kUrdayizyamARaH, cukUrdizizyamARaH, cokUrdizyamARaH</s>;
-<sup>2</sup> <s>kUrt-kUrd-kUrdO-kUrdaH; — — -</s>- 
+<sup>2</sup> <s>kUrt-kUrd-kUrdO-kUrdaH; — — -</s>-
 [Page0218+ 24]
 <s>kUrditam-taH, kUrditaH, cukUrdizitaH, cokUrditaH-tavAn</s>;
 <s>kUrdaH</s>,<sup>1</sup> <s>kUrdanaH, kUrdaH, cukUrdizuH, cokUrdaH</s>;
@@ -7154,7 +7154,7 @@
 <div n="NI"><s>kozakaH-zikA, kozakaH-zikA</s>,<sup>1</sup> <s>cukuzizakaH-cukozizakaH-zikA</s>,<sup>2</sup> <s>niScukuzizakaH-niScukozizakaH-zikA, niScukukzakaH-kzikA, cokuzakaH-zikA</s>;
 <note n="1"/><s>kozitA, trI</s>,<sup>3</sup> <s>nizkozitA, trI, nizkozwA-zwrI, trI, kozayitA-trI, cukuzizitA-cukozizitA-trI, niScukuzizitA-niScukozizitA-niScukukzitA-trI, cokuzitA-trI</s>;
 <sup>4</sup> <s>kuzRan-tI, kozayan-ntI, cukuzizan-cukozizan-ntI</s>;
-<s>niScukuzizan-niScukozizan-niScukukzan-ntI; -</s>- 
+<s>niScukuzizan-niScukozizan-niScukukzan-ntI; -</s>-
 [Page0222+ 16]
 <note n="1"/><s>kozizyan-ntI-tI, nizkozizyan-ntI-tI, nizkokzyan-ntI-tI, kozayizyan-ntI-tI, cukuzizizyan-cukozizizyan-ntI-tI; niScukuzizizyan-niScukozizizyan-niScukukzizyan-ntI-tI</s>;
 <s>— kozayamARaH, kozayizyamARaH, cokuzyamARaH, cokuzizyamARaH</s>;
@@ -7346,7 +7346,7 @@
 <s>kuvitavyam, kAvayitavyam, cukUzitavyam, cokUyitavyam</s>;
 <s>kuvanIyam, kAvanIyam, cukUzaRIyam, cokUyanIyam</s>;
 <sup>8</sup> <s>kUyam</s>,<sup>9</sup> <s>avaSyakAvyam, kAvyam, cukUzyam, cokUyyam</s>;
-<s>IzatkuvaH duzkuvaH-sukuvaH; — -</s>- 
+<s>IzatkuvaH duzkuvaH-sukuvaH; — -</s>-
 [Page0229+ 23]
 <s>kUyamAnaH, kAvyamAnaH, cukUzyamARaH, cokUyyamAnaH</s>;
 <sup>1</sup> <s>kuvaH, kAvaH, cukUzaH, cukAvayizaH, cokUyaH</s>;
@@ -7389,7 +7389,7 @@
 <s>kUjitavyam, kUjayitavyam, cukUjizitavyam, cokUjitavyam</s>;
 <s>kUjanIyam, kUjanIyam, cukUjizaRIyam, cokUjanIyam</s>;
 <sup>5</sup> <s>kUjyam, kUjyam, cukUjizyam, cokUjyam</s>;
-<s>IzatkUjaH-duzkUjaH-sukUjaH; — -</s>- 
+<s>IzatkUjaH-duzkUjaH-sukUjaH; — -</s>-
 [Page0230+ 27]
 <s>kUjyamAnaH, kUjyamAnaH, cukUjizyamARaH, cokUjyamAnaH</s>;
 <s>kUjaH, kUjaH, cukUjizaH, cokUjaH</s>;
@@ -7558,7 +7558,7 @@
 (<sup>5</sup> <s>svarAn</s>)<sup>B</sup> <s>vikurvARaH</s>,
 (<sup>6</sup> <s>sEnDavaH) vikurvARaH, kArayamARaH, cikIrzamARaH, cekrIyamARaH</s>,<sup>7</sup> <s>saMceskrIyamARaH</s>,<sup>C</sup> <s>karizyamARaH, kArayizyamARaH, cikIrzizyamARaH</s>,
 <s>cekrIyizyamARaH</s>;
-<sup>D</sup> <s>sukft</s>-<sup>8</sup> <s>karmakft</s>-<sup>E</sup> <s>pApakft-mantrakft-puRyakft</s>,<sup>9</sup> <s>SAstrakft-BAzyakft-kftO-kftaH; — -</s>- 
+<sup>D</sup> <s>sukft</s>-<sup>8</sup> <s>karmakft</s>-<sup>E</sup> <s>pApakft-mantrakft-puRyakft</s>,<sup>9</sup> <s>SAstrakft-BAzyakft-kftO-kftaH; — -</s>-
 [Page0236+ 29]
 <s>kftam-kftaH-kftavAn</s>,<sup>1</sup> <s>ojasAkftam-sahasAkftam-amBasAkftam-tamasAkftam</s>,<sup>2</sup> <s>aYjasAkftam</s>,<sup>3</sup> <s>upaskftAH (brAhmaRAH)</s>,<sup>4</sup> <s>parizkftA (kanyA)</s>,<sup>5</sup> <s>upaskftaM</s>
 (<s>BuNkte), upaskftaM (brUte), kAritam</s>,<sup>A</sup> <s>cikIrzitaH, cekrIyitaH-tavAn</s>,<sup>6</sup> <s>karaH</s>,<sup>7</sup> <s>kzemakaraH</s>,<sup>8</sup> <s>kiNkaraH-kiNkarA-kiNkarI-yatkaraH-yatkarA-tatkaraH-tatkarA</s>-<sup>9</sup> <s>taskaraH-taskarA-bahukaraH-bahukarA</s>,<sup>10</sup> <s>kumBakAraH, anDakAraH</s>,<sup>11</sup> <s>satyaNkAraH</s>,<sup>B</sup> <s>agadaNkAraH</s>,<sup>12</sup> <s>astuNkAraH</s>,<sup>13</sup> <s>SaNkaraH</s><sup>C</sup> <s>-SaNkarA-SaNkarI</s>, 
@@ -7568,7 +7568,7 @@
 <s>balikaraH-BaktikaraH-kartfkaraH-citrakaraH-kzetrakaraH</s>-<sup>6</sup> <s>ekakaraH- [dvikaraH-trikaraH-]</s> 
 [Page0238+ 29]<sup>1</sup> <s>jaNGAkaraH</s>-<sup>2</sup> <s>bAhukaraH</s>-<sup>3</sup> <s>ahaskaraH</s>-<sup>4</sup> <s>DanuzkaraH-aruzkaraH</s>,<sup>5</sup> <s>karmakaraH-karmakAraH</s>,<sup>6</sup> <s>SabdakAraH-SlokakAraH-kalahakAraH-gADAkAraH</s>-<sup>A</sup> <s>vErakAraH-cAwukAraH-sUtrakAraH</s>-
 <s>mantrakAraH padakAraH</s>,<sup>7</sup> <s>stambakariH (vrIhiH) SakftkariH (vatsaH), stambakAraH-Sakf</s>-
-<s>tkAraH</s>,<sup>8</sup> <s>meGaNkaraH</s><sup>B</sup> <s>-ftiNkaraH-BayaNkaraH, aBayaNkaraH</s>,<sup>9</sup> <s>SivaNkaraH</s>,<sup>10</sup> <s>kzemaNkaraH</s><sup>C</sup> <s>priya</s>- 
+<s>tkAraH</s>,<sup>8</sup> <s>meGaNkaraH</s><sup>B</sup> <s>-ftiNkaraH-BayaNkaraH, aBayaNkaraH</s>,<sup>9</sup> <s>SivaNkaraH</s>,<sup>10</sup> <s>kzemaNkaraH</s><sup>C</sup> <s>priya</s>-
 [Page0239+ 28]
 <s>NkaraH-madraNkaraH, kzemakAraH-priyakAraH-madrakAraH</s>,<sup>1</sup> <s>kaqaNkaraH</s>,<sup>A</sup><sup>2</sup> <s>maskarI</s>,<sup>3</sup> <s>akArI</s>,<sup>4</sup> <s>apakArI-priyakArI</s>-<sup>B</sup> <s>anapakArI-upakArI</s>,<sup>5</sup> <s>rAjakftvA</s>,<sup>C</sup> <s>rAjakftvarI</s>,<sup>6</sup> <s>sahakftvA, sahakftvarI</s>,<sup>7</sup> <s>viSvakarmA</s>,<sup>8</sup> <s>alaNkarizRuH</s><sup>D</sup> <s>nirAkarizRuH</s>,<sup>9</sup> <s>cakriH</s>,<sup>10</sup> <s>kArakaH</s>-<sup>E</sup> <s>kArikA, kAraH, cikIrzuH, cikArayizuH, cekriyaH</s>;
 <s>kartavyam, kArayitavyam, cikIrzitavyam, cekrIyitavyam</s>;
@@ -7584,7 +7584,7 @@
 <div n="P"><s>karaRam</s>,<sup>3</sup> <s>AQyaNkaraRam-suBagaNkaraRam-sTUlaNkaraRam-palitaNkaraRam</s>-
 <s>nagnaNkaraRam-anDaNkaraRam</s>-<sup>C</sup> <s>anDaNkaraRI, priyaNkaraRam</s>,<sup>4</sup> <s>uzRaNkaraRam-BadraNkaraRam, kAraRam, cikIrzaRam, cekrIyaRam</s>;
 <sup>5</sup> <s>svAQyaNkaraRam</s>,
-<div n="P"><s>kftvA</s>,<sup>6</sup> <s>tiraskftvA-tiraHkftvA</s>,<sup>7</sup> <s>upAjekftvA-anvAjekftvA</s>,<sup>8</sup> <s>sAkzAtkftvA</s>,<sup>9</sup> <s>urasikftvA, manasikftvA</s>,<sup>10</sup> <s>maDyekftvA-padekftvA-nivacane</s>- 
+<div n="P"><s>kftvA</s>,<sup>6</sup> <s>tiraskftvA-tiraHkftvA</s>,<sup>7</sup> <s>upAjekftvA-anvAjekftvA</s>,<sup>8</sup> <s>sAkzAtkftvA</s>,<sup>9</sup> <s>urasikftvA, manasikftvA</s>,<sup>10</sup> <s>maDyekftvA-padekftvA-nivacane</s>-
 [Page0242+ 33]
 <s>kftvA</s><sup>1</sup> <s>nIcEHkftvA-uccEHkftvA</s>,<sup>2</sup> <s>tiryakkftvA</s>,<sup>3</sup> <s>muKataHkftvA</s>,<sup>4</sup> <s>nAnA</s>-
 <s>kftvA-vinAkftvA-dviDAkftvA-dvEDaMkftvA-dveDAkftvA, kArayitvA, cikIrzitvA, cekrIyitvA</s>;
@@ -7596,7 +7596,7 @@
 <s>kftya-anvAjekftya</s>,<sup>A</sup> <s>sAkzAtkftya, urasikftya-manasikftya, maDyekftya-padekftya-vikArya, pracikIrzya, pracekrIyya</s>;
 <s>nivacanekftya</s>,<sup>3</sup> <s>lavaRaNkftya</s>,<sup>4</sup><sup>B</sup> <s>BItaNkAraM</s>-<sup>C</sup> <s>coraNkAraM (AkroSati)</s>,<sup>5</sup> <s>svAduNkAraM</s><sup>D</sup> (<s>BuNkte)</s>,
 <s>sampannaNkAram-lavaRaNkAram</s>,<sup>6</sup> <s>anyaTAkAraM-evaNkAraM</s>-<sup>E</sup> <s>kaTaNkAraM-itTaNkAraM</s>
-(<s>BuNkte)</s>,<sup>7</sup> <s>yaTAkAraM</s><sup>F</sup> (<s>ahaM Bokzye) taTAkAraM (Bokzye, kiM tavAnena?)</s>,<sup>8</sup> <s>akftakAraM (karoti), nIcEHkAraM</s>-<sup>G</sup> <s>uccEHkAraM, tiryakkAram, karataH</s>- 
+(<s>BuNkte)</s>,<sup>7</sup> <s>yaTAkAraM</s><sup>F</sup> (<s>ahaM Bokzye) taTAkAraM (Bokzye, kiM tavAnena?)</s>,<sup>8</sup> <s>akftakAraM (karoti), nIcEHkAraM</s>-<sup>G</sup> <s>uccEHkAraM, tiryakkAram, karataH</s>-
 [Page0244+ 27]
 <s>kAram, muKataHkAram, nAnAkAraM-vinAkAraM-dviDAkAraM-dvEDaMkAraM-dveDAkAram</s>;
 <note n="1"/><s>kAram</s> 2, <s>kftvA</s> 2, <s>kAram</s> 2, <s>kArayitvA</s> 2, <s>cikIrzam</s> 2, <s>cikIrzitvA</s> 2, <s>cekrIyam</s> 2<s>; cekrIyitvA</s> 2;
@@ -8017,7 +8017,7 @@
 <s>— kalpayan-ntI</s>,<sup>5</sup> <s>cikxpsan-ntI; -</s>-<sup>6</sup> <s>kalpsyan-ntI-tI, kalpayizyan-ntI-tI, cikxpsizyan-ntI-tI; -</s>-
 <s>kalpamAnaH, kalpayamAnaH</s>,<sup>7</sup> <s>cikalpizamARaH-cikxpsamAnaH, calIkxpyamAnaH</s>;
 <note n="1"/><s>kalpizyamARaH kalpsyamAnaH kalpayizyamARaH, cikalpizizyamARaH cikxpsizyamARaH calIkxpizyamARaH</s>;
-<s>sukxp-sukxpO-sukxpaH; — — -</s>- 
+<s>sukxp-sukxpO-sukxpaH; — — -</s>-
 [Page0251+ 20]<sup>1</sup> <s>kxptam</s><sup>A</sup> <s>-kxptaH-kxptavAn, kalpitaH, cikxpsitaH, calIkxpitaH-tavAn</s>;
 <sup>2</sup> <s>kxpaH</s>,<sup>3</sup> <s>kalpanaH, kalpaH, cikxpsuH, calIkxpaH</s>;
 <s>kalpitavyam-klptavyam, kalpayitavyam, cikxpsitavyam, calIkxpitavyam</s>;
@@ -8441,7 +8441,7 @@
 <s>cakArAt gatO ca .</s>
 <div n="NI"><s>kepakaH-pikA, kepakaH-pikA</s>,<sup>4</sup> <s>cikepizakaH-zikA</s>,<sup>5</sup> <s>cekepakaH-pikA</s>;
 <s>kepitA-trI, kepayitA-trI, cikepizitA-trI, cekepitA-trI</s>;
-<s>-</s>-<sup>6</sup> <s>kepayan-ntI, kepayizyan-ntI-tI; -</s>- 
+<s>-</s>-<sup>6</sup> <s>kepayan-ntI, kepayizyan-ntI-tI; -</s>-
 [Page0265+ 23]
 <s>kepamAnaH, -</s>-<sup>1</sup> <s>cikepizamARaH, cekepyamAnaH</s>;
 <s>kepizyamARaH, — cikepizizyamARaH, cekepizyamARaH</s>;
@@ -8565,7 +8565,7 @@
 <div n="NI"><s>knATakaH-TikA</s>,<sup>7</sup> <s>knaTakaH-TikA, ciknaTizakaH-zikA</s>,<sup>8</sup> <s>cAknaTakaH-TikA</s>;
 <s>knaTitA-trI, knaTayitA-trI, ciknaTizitA-trI, cAknaTitA-trI</s>;
 <sup>9</sup> <s>vyatiknaTan-ntI, knaTayan-ntI, ciknaTizan-ntI; -</s>-
-<s>knaTizyan-ntI-tI, knaTayizyan-ntI-tI, ciknaTizizyan-ntI-tI; -</s>- 
+<s>knaTizyan-ntI-tI, knaTayizyan-ntI-tI, ciknaTizizyan-ntI-tI; -</s>-
 [Page0269+ 26]
 <s>— knaTayamAnaH, knaTayizyamARaH, cAknaTyamAnaH, cAknaTizyamARaH</s>;
 <s>knaT-knat-knaTO-knaTaH; — — -</s>-
@@ -8598,7 +8598,7 @@
 <s>hvaraRam = kOwilyam .</s>
 <div n="NI"><s>knAsakaH-sikA</s>,<sup>5</sup> <s>knasakaH-sikA, ciknasizakaH-zikA, cAknasakaH-sikA</s>;
 <s>knasitA-trI, knasayitA-trI, ciknasizitA-trI, cAknasitA-trI</s>;
-<sup>6</sup> <s>knasyan-ntI, knasayan-ntI, ciknasizan-ntI; -</s>- 
+<sup>6</sup> <s>knasyan-ntI, knasayan-ntI, ciknasizan-ntI; -</s>-
 [Page0270+ 24]
 <s>knasizyan-ntI-tI, knasayizyan-ntI-tI, ciknasizizyan-ntI-tI; -</s>-<sup>1</sup> <s>vyatiknasyamAnaH, knasayamAnaH, — cAknasyamAnaH</s>;
 <s>vyatiknasizyamARaH, knasayizyamARaH, — cAknasizyamARaH</s>;
@@ -8807,7 +8807,7 @@
 <s>kranditavyam, krandayitavyam, cikrandizitavyam, cAkranditavyam</s>;
 <s>krandanIyam, krandanIyam, cikrandizaRIyam, cAkrandanIyam</s>;
 <s>krandyam, krandyam, cikrandizyam, cAkrandyam</s>;
-<s>IzatkrandaH-duzkrandaH-sukandaH; — -</s>- 
+<s>IzatkrandaH-duzkrandaH-sukandaH; — -</s>-
 [Page0277+ 23]
 <s>krandyamAnaH, krandyamAnaH, cikrandizyamARaH, cAkrandyamAnaH</s>;
 <s>krandaH</s>,<sup>1</sup> <s>AkrandaH, krandaH, cikrandizaH, cAkrandaH</s>;
@@ -8874,7 +8874,7 @@
 <s>— krapayan-ntI, krapayizyan-ntI-tI; -</s>-
 <s>krapamARaH, krapayamARaH, cikrapizamARaH, cAkrapyamARaH</s>;
 <s>krapizyamARaH, krapayizyamARaH, cikrapizizyamARaH, cAkrapizyamARaH</s>;
-<s>kap-krapO-krapaH; — — -</s>- 
+<s>kap-krapO-krapaH; — — -</s>-
 [Page0279+ 22]
 <s>krapitam-taH, kapitaH, cikrapizitaH, cAkrapitaH-tavAn</s>;
 <s>kapaH</s>,<sup>1</sup> <s>krapaRaH, krapaH, cikrapizuH, cAkrapaH</s>;
@@ -8913,7 +8913,7 @@
 [Page0281+ 29]<sup>1</sup> <s>upakramamARaH-parAkramamARaH</s>,<sup>2</sup> <s>[sUryaH]</s><sup>A</sup> <s>AkramamARaH</s>,<sup>3</sup> <s>[vAjI sADu]</s><sup>B</sup> <s>vikramamARaH</s>,<sup>4</sup> <s>prakramamARaH</s><sup>C</sup> <s>-upakramamARaH [vA Boktum]</s>,<sup>5</sup> <s>kramamARaH</s>,<sup>6</sup> <s>kramyamARaH, kramayamARaH</s>,<sup>7</sup> <s>pracikraMsamAnaH-parAcikraMsamAnaH-upacikraMsamAnaH</s>,
 <s>caNkramyamARaH</s>;
 <sup>8</sup> <s>[fci] kraMsyamAnaH, kramayizyamARaH, pracikraMsizyamARaH, caNkramizyamARaH</s>;
-<sup>9</sup> <s>prakrAn-prakAmO-prakAmaH</s>,<sup>10</sup> <s>dUrakrAH-daDikrAH</s>,<sup>11</sup> <s>vanakrAn; -</s>- 
+<sup>9</sup> <s>prakrAn-prakAmO-prakAmaH</s>,<sup>10</sup> <s>dUrakrAH-daDikrAH</s>,<sup>11</sup> <s>vanakrAn; -</s>-
 [Page0282+ 28]<sup>1</sup> <s>krAntam</s><sup>A</sup> <s>-vikrAntaH-krAntavAn, kramitaH, cikramizitaH-cikraMsitaH</s>,
 <s>caNkramitaH-tavAn</s>;
 <s>kramaH</s>,<sup>2</sup> <s>nakraH</s>,<sup>3</sup> <s>trivikramaH, kramaH, cikramizuH-cikraMsuH, cikramayizuH</s>,
@@ -9333,7 +9333,7 @@
 <sup>4</sup> <s>klAmyan-klAman-ntI, klamayan-ntI, ciklamizan-ntI; -</s>-
 <s>klamizyan-ntI-tI, klamayizyan-ntI-tI, ciklamizizyan-ntI-tI; -</s>-<sup>5</sup> <s>vyatiklAmamAnaH-vyatiklAmyamAnaH, klamayamAnaH, — caNklamyamAnaH</s>;
 <s>vyatiklamizyamARaH, klamayizyamARaH, — caNklamizyamARaH</s>;
-<sup>6</sup> <s>viklAn-viklAmO-viklAmaH; — -</s>- 
+<sup>6</sup> <s>viklAn-viklAmO-viklAmaH; — -</s>-
 [Page0294+ 23]<sup>1</sup> <s>klAntam</s><sup>A</sup> <s>-klAntaH, klamitaH, ciklamizitaH, caNklamitaH-tavAn</s>;
 <s>klamaH</s>,<sup>2</sup> <s>klamI</s><sup>B</sup>, <s>klamaH, ciklamizuH, caNklamaH</s>;
 <s>klamitavyam, klamayitavyam, ciklamizitavyam, caNklamitavyam</s>;
@@ -9500,7 +9500,7 @@
 <s>divAderupatApe'rTe taNi syAt kliSyate padam ..’</s> (<s>Slo</s>. 163-164) <s>iti devaH .</s>
 <s>kleSaH-SikA, kleSakaH-SikA</s>,<sup>3</sup> <s>cikliSizakaH-cikleSizakaH-zikA</s>,<sup>4</sup> <s>ciklikzakaH-kzikA, cekliSakaH-SikA</s>;
 <s>kleSitA-trI-klezwA-zwrI, kleSayitA-trI, cikliSizitA-cikleSizitA-trI, ciklikzitA-trI, cekliSitA-trI</s>;
-<sup>5</sup> <s>kliSnan</s><sup>B</sup> <s>-tI, kleSayan-ntI, cikliSizan-cikleSizan-ciklikzan-ntI; -</s>- 
+<sup>5</sup> <s>kliSnan</s><sup>B</sup> <s>-tI, kleSayan-ntI, cikliSizan-cikleSizan-ciklikzan-ntI; -</s>-
 [Page0300+ 19]
 <s>kleSizyan-klekzyan-ntI-tI, kleSayizyan-ntI-tI, cikliSizizyan-cikleSizizyan-ciklikzizyan-ntI-tI; -</s>-
 <s>— kleSayamAnaH, kleSayizyamARaH, cekliSyamAnaH, cekliSizyamARaH</s>;
@@ -9738,7 +9738,7 @@
 <s>kzaYjitavyam, kzaYjayitavyam, cikzaYjizitavyam, cAkzaYjitavyam</s>;
 <s>kzaYjanIyam, kzaYjanIyam, cikzaYjizaRIyam, cAkzaYjanIyam</s>;
 <s>kzaYjyam, kzaYjyam, cikzaYjizyam, cAkzaYjyam</s>;
-<s>IzatkzaYjaH-duHkzaYjaH-sukzaYjaH; — -</s>- 
+<s>IzatkzaYjaH-duHkzaYjaH-sukzaYjaH; — -</s>-
 [Page0308+ 24]
 <s>kzaYjyamAnaH, kzaYjyamAnaH, cikzaYjizyamARaH, cAkzaYjyamAnaH</s>;
 <s>kzaYjitum, kzaYjayitum, cikzaYjizitum, cAkzaYjitum</s>;
@@ -9843,7 +9843,7 @@
 <s>kzamizyan-kzaMsyan-ntI-tI, kzamayizyan-ntI-tI, cikzamizizyan-ntI-tI, cikzaMsizyan-ntI-tI</s>;
 <sup>7</sup> <s>vyatikzAmyamARaH, kzamayamARaH, — caNkzamyamARaH</s>;
 <s>vyatikzamizyamARaH- vyatikzaMsyamAnaH, kzamayizyamARaH, caNkzamizyamARaH</s>;
-<sup>8</sup> <s>vikzAn-vikzAmO-vikzAmaH; — -</s>- 
+<sup>8</sup> <s>vikzAn-vikzAmO-vikzAmaH; — -</s>-
 [Page0312+ 22]<sup>1</sup> <s>kzAntam-ntaH-kzAntavAn, kzamitaH, cikzamizitaH-cikzaMsitaH, caNkzamitaH-tavAn</s>;
 <s>kzamaH</s>,<sup>2</sup> <s>kzamI</s>,<sup>3</sup> <s>dbandvakzamA, kzamaH, cikzamizuH-cikzaMsuH, caNkzamaH</s>;
 <s>kzamitavyam-kzantavyam, kzamayitavyam, cikzamizitavyam-cikzaMsitavyam, caNkzamitavyam</s>;
@@ -10084,7 +10084,7 @@
 <s>kzeRizyan-ntI-tI, kzeRayizyan-ntI-tI, cikzeRizizyan-cikziRizizyan-ntI-tI</s>;
 <s>kzeRvAnaH, kzeRayamAnaH, cikzeRizamARaH-cikziRizamARaH, cekziRyamAnaH</s>;
 <s>kzeRizyamARaH, kzeRayizyamARaH, cikzeRizizyamARaH-cikziRizizyamARaH, cekziRizyamARaH</s>;
-<sup>6</sup> <s>prakzIR-prakzIRO-prakzIRaH; — — -</s>- 
+<sup>6</sup> <s>prakzIR-prakzIRO-prakzIRaH; — — -</s>-
 [Page0320+ 21]<sup>1</sup> <s>kzitam-taH, kzeRitaH, cikzeRizitaH-cikziRizitaH, cekziRitaH-tavAn</s>;
 <sup>2</sup> <s>kziRaH, kzeRaH, cikzeRizuH-cikziRizuH, cekziRaH</s>;
 <s>kzeRitavyam, kzeRayitavyam, cikzeRizitavyam-cikziRizitavyam, cekziRitavyam</s>;
@@ -10314,7 +10314,7 @@
 <sup>7</sup> <s>kzuvan-tI, kzAvayan-ntI, cukzUzan-ntI; -</s>-
 <s>kzavizyan-ntI-tI, kzAvayizyan-ntI-tI, cukzUzizyan-ntI-tI; -</s>-<sup>8</sup> <s>vyatikzuvARaH, kzAvayamARaH, — cokzUyamARaH</s>;
 <s>vyatikzavizyamARaH, kzAvayizyamARaH, — cokzUyizyamARaH</s>;
-<sup>9</sup> <s>kzut-kzutO-kzutaH; — — -</s>- 
+<sup>9</sup> <s>kzut-kzutO-kzutaH; — — -</s>-
 [Page0327+ 24]<sup>1</sup> <s>kzutam-taH, kzAvitaH, cukzUzitaH, cokzUyitaH-tavAn</s>;
 <s>kzavaH</s>,<sup>2</sup> <s>kzavaRaH, kzAvaH, cukzUzuH, cokzuvaH</s>;
 <s>kzavitavyam, kzAvayitavyam, cukzUzitavyam, cokzUyitavyam</s>;
@@ -10442,7 +10442,7 @@
 <s>— kzoBayan-ntI; kzoBayizyan-ntI-tI; -</s>-
 <s>kzoBamARaH, kzoBayamARaH, cukzuBizamARaH-cukzoBizamARaH, cokzuByamARaH</s>;
 <s>kzoBizyamARaH, kzoBayizyamARaH, cukzuBizizyamARaH-cukzoBizizyamARaH, cokzuBizyamARaH</s>;
-<s>prakzup-prakzub-prakzuBO-prakzuBaH; — -</s>- 
+<s>prakzup-prakzub-prakzuBO-prakzuBaH; — -</s>-
 [Page0331+ 25]<sup>1</sup> <s>kzuBitam</s>-<sup>A</sup> <s>kzoBitam</s>,<sup>2</sup> <s>kzubDaH, kzoBitaH, cukzuBizitaH-cukzoBizitaH, cokzu-BitaH-tavAn</s>;
 <s>kzuBaH</s>,<sup>3</sup> <s>kzoBaRaH</s>,<sup>4</sup> <s>prakzoBI, kzoBaH, cukzuBizuH-cukzoBizuH, cokzuBaH</s>;
 <s>kzoBitavyam, kzoBayitavyam, cukzuBizitavyam-cukzoBizitavyam, cokzuBitavyam</s>;
@@ -10556,7 +10556,7 @@
 <s>kzAtavyam, kzapayitavyam, cikzAsitavyam, cAkzAyitavyam</s>;
 <s>kzARIyam, kzapaRIyam, cikzAsanIyam, cAkzAyaRIyam</s>;
 <sup>8</sup> <s>kzeyam, kzapyam, cikzAsyam, cAkzAyyam</s>;
-<sup>9</sup> <s>IzatkzARaH-duHkzARaH-sukzARaH; — -</s>- 
+<sup>9</sup> <s>IzatkzARaH-duHkzARaH-sukzARaH; — -</s>-
 [Page0335+ 25]
 <s>kzAyamARaH, kzapyamARaH, cikzAsyamAnaH, cAkzAyyamARaH</s>;
 <s>kzAyaH, kzapaH, cikzAsaH, cAkzAyaH</s>;
@@ -10622,7 +10622,7 @@
 <sup>3</sup> <s>kzRuvan-tI, kzRAvayan-ntI, cukzRUzan-ntI; -</s>-
 <s>kzRavizyan-ntI-tI, kzRAvayizyan-ntI-tI, cukzRUzizyan-ntI-tI; -</s>-<sup>4</sup> <s>saMkzRuvAnaH</s><sup>A</sup>, <s>kzRAvayamAnaH, saMcukzRUzamARaH, cokzRUyamAnaH</s>;
 <s>saMkzRavizyamARaH, kzRAvayizyamARaH, saMcukzRUzizyamARaH, cokzRUyizyamARaH</s>;
-<sup>5</sup> <s>prakzRut-prakzRutO-prakzRutaH; — — -</s>- 
+<sup>5</sup> <s>prakzRut-prakzRutO-prakzRutaH; — — -</s>-
 [Page0337+ 24]<sup>1</sup> <s>kzRutam-taH</s><sup>A</sup>, <s>kzRAvitaH, cukzRUzitaH, cokzRUyitaH-tavAn</s>;
 <s>kzRavaH, kzRAvaH, cukzRUzuH, cokzRuvaH</s>;
 <s>kzRavitavyam, kzRAvayitavyam, cukzRUzitavyam, cokzRUyitavyam</s>;
@@ -10907,7 +10907,7 @@
 <s>Kanan-ntI, KAnayan-ntI, ciKanizan-ntI, -</s>-
 <s>Kanizyan-ntI-tI, KAnayizyan-ntI-tI, ciKanizizyan-ntI-tI; -</s>-<sup>3</sup> <s>praniKanamAnaH, KAnayamAnaH, ciKanizamARaH, cAKAyamAnaH-caNKanyamAnaH</s>;
 <s>praniKanizyamARaH, KAnayizyamARaH, ciKanizizyamARaH, cAKAyizyamARaH-caNKanizyamARaH</s>;
-<sup>4</sup> <s>suKAH-suKO-suKAH; — — -</s>- 
+<sup>4</sup> <s>suKAH-suKO-suKAH; — — -</s>-
 [Page0346+ 24]<sup>1</sup> <s>KAtam</s>-<sup>A</sup> <s>KAtaH-KAtavAn, KAnitaH, ciKanizitaH, cAKAyitaH-caNKanitaH-tavAn</s>;
 <s>KanaH</s>,<sup>2</sup> <s>Kanitram</s>,<sup>3</sup> <s>pariKA-Kam</s>,<sup>4</sup> <s>kUpaKAnaH</s>,<sup>5</sup> <s>KanakaH-KanikI, KAnaH, ciKanizuH</s>,<sup>6</sup> <s>caNKanaH</s>;
 <s>Kanitavyam, KAnayitavyam, ciKanizitavyam, cAKAyitavyam-caNKanitavyam</s>;
@@ -11051,7 +11051,7 @@
 <s>BUtaprAdurBAvaH = atikrAntotpattiH .</s><sup><s>[a]</s></sup>
 <div n="NI"><s>KAvakaH-vikA, KAvakaH-vikA, ciKavizakaH-zikA, cAKavakaH-vikA</s>;
 <s>KavitA-trI, KAvayitA-trI, ciKavizitA-trI, cAKavitA-trI</s>;
-<sup>4</sup> <s>KOnan</s>-<sup>A</sup> <s>tI, KAvayan-ntI, ciKavizan-ntI; -</s>- 
+<sup>4</sup> <s>KOnan</s>-<sup>A</sup> <s>tI, KAvayan-ntI, ciKavizan-ntI; -</s>-
 [Page0350+ 23]
 <s>Kavizyan-ntI-tI, KAvayizyan-ntI-tI, ciKavizizyan-ntI-tI; -</s>-
 <s>KAvayamAnaH, KAvayizyamARaH, cAKavyamAnaH, cAKavizyamARaH</s>;
@@ -11115,7 +11115,7 @@
 (347) {@<s>“KAdf BakzaRe”</s>@}¦ (I<s>-BvAdiH</s>-49. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>KAdakaH-dikA, KAdakaH-dikA, ciKAdizakaH-zikA, cAKAdakaH-dikA</s>;
 <s>KAditA-trI, KAdayitA-trI, ciKAdizitA-trI, cAKAditA-trI</s>;
-<s>KAdan-ntI</s>,<sup>3</sup> <s>KAdayan [annnaM vawunA]-ntI, ciKAdizan-ntI; -</s>- 
+<s>KAdan-ntI</s>,<sup>3</sup> <s>KAdayan [annnaM vawunA]-ntI, ciKAdizan-ntI; -</s>-
 [Page0352+ 23]
 <s>KAdizyan-ntI-tI, KAdayizyan-ntI-tI, ciKAdizizyan-ntI-tI; -</s>-
 <s>— — cAKAdyamAnaH, cAKAdizyamARaH</s>;
@@ -11169,7 +11169,7 @@
 <s>Kettavyam, Kedayitavyam, ciKitsitavyam, ceKiditavyam</s>;
 <s>KedanIyam, KedanIyam, ciKitsanIyam, ceKidanIyam</s>;
 <s>Kedyam, Kedyam, ciKitsyam, ceKidyam</s>;
-<s>IzatKedaH-duzKedaH-suKedaH; — -</s>- 
+<s>IzatKedaH-duzKedaH-suKedaH; — -</s>-
 [Page0354+ 24]
 <s>KidyamAnaH, KedyamAnaH, ciKitsyamAnaH, ceKidyamAnaH</s>;
 <sup>A</sup> <s>KedaH, KedaH, ciKitsaH, ceKidaH</s>;
@@ -11514,7 +11514,7 @@
 <div n="NI"><s>gAqakaH-qikA</s>,<sup>2</sup> <s>gaqakaH-qikA, jigaqizakaH-zikA</s>,<sup>3</sup> <s>jAgaqakaH-qikA</s>;
 <s>gaqitA-trI, gaqayitA-trI, jigaqizitA-trI, jAgaqitA-trI</s>;
 <sup>D</sup> <s>gaqan-ntI, gaqayan-ntI, jigaqizan-ntI; -</s>-
-<s>gaqizyan-ntI-tI, gaqayizyan-ntI-tI, jigaqizizyan-ntI-tI; -</s>- 
+<s>gaqizyan-ntI-tI, gaqayizyan-ntI-tI, jigaqizizyan-ntI-tI; -</s>-
 [Page0364+ 27]
 <s>gaqayamAnaH, gaqayizyamARaH, — jAgaqyamAnaH, jAgaqizyamARaH</s>;
 <s>gaw-gaq-gaqO-gaqaH; — — -</s>-
@@ -12019,7 +12019,7 @@
 <s>vEkalpikatvam . Ricpakze, RijaBAvapakze ca kutsArTakaBOvAdikagarhativat</s>
 (385) <s>sarvARi rUpARi jYeyAni . RijaBAvapakze SudDAt sani, yaNi ca tatra</s>
 <s>liKitAnyeva rUpARyasyApi . SudDAdDAtoH ‘SezAt kartari—’</s> (1-3-78)
-<s>iti SatEva .</s><sup>B</sup> <s>garhan-ntI, iti rUpam . RyantAt sani tu-</s>- 
+<s>iti SatEva .</s><sup>B</sup> <s>garhan-ntI, iti rUpam . RyantAt sani tu-</s>-
 [Page0379+ 24]
 <s>jigarhayizakaH-zikA, jigarhayizitam-taH-tavAn</s>,
 <s>jigarhayizitA-trI, jigarhayizuH</s>,
@@ -12322,7 +12322,7 @@
 (396) {@<s>“gu purIzotsarge”</s>@}¦ (VI<s>-tudAdiH</s>-1399. <s>aka</s>. <s>ani</s>. <s>para</s>.)
 <s>kuwAdiH .</s><sup>4</sup> <s>gAvakaH-vikA, gAvakaH-vikA</s>,<sup>5</sup> <s>jugUzakaH-zikA</s>,<sup>6</sup> <s>jogUyakaH-yikA</s>;
 <sup>7</sup> <s>gutA-trI, gAvayitA-trI, jugUzitA-trI, jogUyitA-trI</s>;
-<sup>8</sup> <s>guvan</s><sup>A</sup> <s>-ntI, gAvayan-ntI, jugUzan-ntI; -</s>- 
+<sup>8</sup> <s>guvan</s><sup>A</sup> <s>-ntI, gAvayan-ntI, jugUzan-ntI; -</s>-
 [Page0389+ 25]
 <s>guzyan-ntI-tI, gAvayizyan-ntI-tI, jugUzizyan-ntI-tI; -</s>-
 <s>— gAvayamAnaH; gAvayizyamARaH, — jogUyamAnaH-jogUyizyamARaH</s>;
@@ -12462,7 +12462,7 @@
 <sup>2</sup> <s>guDyan-ntI, goDayan-ntI, juguDizan-jugoDizan-ntI; -</s>-
 <s>goDizyan-ntI-tI, goDayizyan-ntI-tI, juguDizizyan-jugoDizizyan-ntI-tI</s>,
 <s>— goDayamAnaH, goDayizyamARaH, joguDyamAnaH-joguDizyamARaH</s>;
-<sup>3</sup> <s>suGut-suGud-suguDO-suguDaH; — — -</s>- 
+<sup>3</sup> <s>suGut-suGud-suguDO-suguDaH; — — -</s>-
 [Page0393+ 22]<sup>1</sup> <s>viguDitam-taH</s>,<sup>A</sup> <s>goDitaH, juguDizitaH-jugoDizitaH, joguDitaH-tavAn</s>;
 <sup>2</sup> <s>guDaH</s>,<sup>3</sup> <s>sugoDI, goDaH, juguDizuH-jugoDizuH, joguDaH</s>;
 <s>goDitavyam, goDayitavyam, juguDizitavyam-jugoDizitavyam, joguDitavyam</s>;
@@ -12664,7 +12664,7 @@
 <s>jugopAyizizyan-jugopizizyan-jugupizizyan-jugupsizyan-ntI-tI; -</s>-
 <s>— gopAyayamAnaH-gopayamAnaH, — jogupyamAnaH</s>;
 <s>— gopAyayizyamARaH, gopayizyamARaH, jogupizyamARaH</s>;
-<sup>7</sup> <s>gopAH-gopO-gOpAH, — gup-gub-gupO-gupaH; -</s>- 
+<sup>7</sup> <s>gopAH-gopO-gOpAH, — gup-gub-gupO-gupaH; -</s>-
 [Page0400+ 26]
 <s>gopAyitam-taH</s><sup>1</sup> <s>guptam-guptaH-guptavAn</s>,<sup>2</sup> <s>manasAguptA, gopAyitaH-gopitaH</s>,
 <s>jugopAyizitaH-jugopizitaH-jugupizitaH-jugupsitaH, jogupitaH-tavAn</s>;
@@ -12733,7 +12733,7 @@
 (412) {@<s>“guPa granTe”</s>@}¦ (VI<s>-tudAdiH</s>-1317. <s>aka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>goPakaH-PikA, goPakaH-PikA</s>,<sup>4</sup> <s>jugoPizakaH-juguPizakaH-zikA, joguPakaH-PikA</s>;
 <s>goPitA-trI, goPayitA-trI, jugoPizitA-juguPizitA-trI, joguPitA-trI</s>;
-<sup>5</sup> <s>guPan-ntI-tI, goPayan-ntI, jugoPizan-juguPizan-ntI; -</s>- 
+<sup>5</sup> <s>guPan-ntI-tI, goPayan-ntI, jugoPizan-juguPizan-ntI; -</s>-
 [Page0402+ 22]
 <s>goPizyan-ntI-tI, goPayizyan-ntI-tI, jugoPizizyan-juguPizizyan-ntI-tI</s>;
 <s>— goPayamAnaH, goPayizyamARaH, — joguPayamAnaH-joguPizyamARaH</s>;
@@ -12821,7 +12821,7 @@
 <s>jugUrdayizan-ntI, jugUrdayizitavyam</s>;
 <s>jugUrdayizizyan-ntI-tI, jugUrdayizaRIyam</s>;
 <s>jugUrdayizamARaH, jugUrdayizyam</s>;
-<s>jugUrdayiw-jugUrdayizO-jugUrdayizaH, IzajjugUrdayizaH</s>- 
+<s>jugUrdayiw-jugUrdayizO-jugUrdayizaH, IzajjugUrdayizaH</s>-
 [Page0405+ 25]
 <s>durjugUrdayizaH-sujugUrdayizaH, jugUrdayizaRam</s>;
 <s>jugUrdayizyamARaH, jugUrdayizitvA</s>;
@@ -12874,7 +12874,7 @@
 <s>gUhan-ntI, gUhayan-ntI, juGukzan-ntI, -</s>-
 <s>gUhizyan</s>-<sup>6</sup> <s>Gokzyan-ntI-tI, gUhayizyan-ntI-tI, juGukzizyan-ntI-tI; -</s>-<sup>B</sup> <s>gUhamAnaH, gUhayamAnaH, juGukzamARaH, joguhyamAnaH</s>;
 <s>gUhizyamARaH-GokzyamARaH, gUhayizyamARaH, juGukzizyamARaH, joguhizyamARaH</s>;
-<sup>7</sup> <s>saNGuw-saMNGuq-saMguhO-saMguhaH; — — -</s>- 
+<sup>7</sup> <s>saNGuw-saMNGuq-saMguhO-saMguhaH; — — -</s>-
 [Page0407+ 25]<sup>1</sup> <s>gUQam-gUQaH-gUQavAn, gUhitaH, juGukzitaH, joguhitaH-tavAn</s>;
 <s>guhaH</s>,<sup>2</sup> <s>kAkaguhAH [tilAH], nigUhI</s>,<sup>3</sup> <s>gUhaH</s>,<sup>A</sup> <s>saMjuGukzaH, joguhaH</s>;
 <s>gUhitavyam-goQavyam, gUhayitavyam, juGukzitavyam, joguhitavyam</s>;
@@ -13965,7 +13965,7 @@
 <s>— glAhayan-ntI, glAhayizyan-ntI-tI; -</s>-
 <s>glahamAnaH, glAhayamAnaH, jiglahizamARaH, jAglahyamAnaH</s>;
 <s>glahizyamARaH, glAhayizyamARaH, jiglahizizyamARaH, jAglahizyamARaH</s>;
-<sup>3</sup> <s>viDlaw-viDlaq-viglahO-viglahaH; — -</s>- 
+<sup>3</sup> <s>viDlaw-viDlaq-viglahO-viglahaH; — -</s>-
 [Page0443+ 26]
 <s>glahitam-taH, glAhitaH, jiglahizitaH, jAglahitaH-tavAn</s>;
 <s>glahaH</s>,<sup>1</sup> <s>glahanaH, glAhaH, jiglahizuH, jAglahaH</s>;
@@ -14450,7 +14450,7 @@
 <s>GozakaH-zikA, GozakaH-zikA</s>,<sup>3</sup> <s>juGuzizakaH-juGozizakaH-zikA, joGuzakaH-zikA</s>;
 <s>GozitA-trI, GozayitA-trI, juGuzizitA-juGozizitA-trI, joGuzitA-trI</s>;
 <sup>A</sup> <s>Gozan-ntI, Gozayan-ntI, juGuzizan-juGozizan-ntI; -</s>-
-<s>Gozizyan-ntI-tI, Gozayizyan-ntI-tI, juGuzizizyan-juGozizizyan-ntI-tI; -</s>- 
+<s>Gozizyan-ntI-tI, Gozayizyan-ntI-tI, juGuzizizyan-juGozizizyan-ntI-tI; -</s>-
 [Page0458+ 22]
 <s>— GozayamARaH, GozayizyamARaH — joGuzyamARaH, joGuzizyamARaH</s>;
 <sup>1</sup> <s>saNGuw-saNGuq-saNGuzO-saNGuzaH; — -</s>-<sup>2</sup> <s>Guzwam-GuzwaH</s>-<sup>A</sup> <s>saNGuzwam-GuzwA</s>,<sup>B</sup> <s>saNGuzitam (vAkyam), GozitaH, juGuzizitaH-juGozizitaH, joGuzitaH-tavAn</s>;
@@ -14744,7 +14744,7 @@
 <s>tfptimAtre cakerasya mittvAt cakayatIti RO ..”</s> (<s>Slo</s>. 40) <s>iti devaH .</s>
 <s>cAkakaH-kikA, cAkakaH-kikA, cicakizakaH-zikA, cAcakakaH-kikA</s>;
 <s>cakitA-trI, cakayitA-trI, cicakizitA-trI, cAcakitA-trI</s>;
-<s>— cAkayan-ntI, cAkayizyan-ntI-tI; — -</s>- 
+<s>— cAkayan-ntI, cAkayizyan-ntI-tI; — -</s>-
 [Page0467+ 27]
 <s>cakamAnaH, cAkayamAnaH, cicakizamARaH, cAcakyamAnaH</s>;
 <s>cakizyamARaH, cAkayizyamARaH, cicakizizyamARaH, cAcakizyamARaH</s>;
@@ -14823,7 +14823,7 @@
 <sup>5</sup> <s>AcakzARaH, KyApayamAnaH-kSApayamAnaH, ciKyAsamAnaH-cikSAsamAnaH, cAKyAyamAnaH-cAkSAyamAnaH</s>;
 <s>KyAsyamAnaH-kSAsyamAnaH, KyApayizyamARaH-kSApayizyamARaH, ciKyAsizya</s>-
 <s>mARaH-cikSAsizyamARaH, cAKyAyizyamARaH-cAkSAsizyamARaH</s>;
-<s>AKyAH-AKyO-AKyAH; — -</s>- 
+<s>AKyAH-AKyO-AKyAH; — -</s>-
 [Page0470+ 28]<sup>1</sup> <s>KyAtam-kSAtam-taH-tavAn, KyApitaH-kSApitaH, ciKyAsitaH-cikSA-sitaH, cAKyAyitaH-cAkSAyitaH-tavAn</s>;
 <sup>2</sup> <s>gopraKyAyaH-goprakSAyaH</s>,<sup>3</sup> <s>gosaNKyaH</s>,<sup>4</sup> <s>goKyaH</s>,<sup>5</sup> <s>KyAyaH</s>,<sup>6</sup> <s>goKyAyaH</s>,<sup>7</sup> <s>AKyAyako</s><sup>A</sup> <s>[vA vrajati]</s>,<sup>8</sup> <s>supraKyaH</s><sup>B</sup> <s>praKyaH</s>,<sup>9</sup> <s>stryAKyaH</s>,<sup>10</sup> <s>vicakzaRaH, KyApaH-kSApaH, ciKyAsuH-cikSAsuH, cAKyAH-cAkSAH</s>;
 <s>KyAtavyam-kSAtavyam, KyApayitavyam-kSApayitavyam, ciKyAsitavyam</s>-
@@ -15124,7 +15124,7 @@
 <s>capan-ntI, cApayan-ntI, cicapizan-ntI; -</s>-
 <s>capizyan-ntI-tI, cApayizyan-ntI-tI, cicapizizyan-ntI-tI; -</s>-
 <s>— cApayamAnaH, cApayizyamARaH, — cAcapyamAnaH, cAcapizyamARaH</s>;
-<s>sucap-sucapO-sucapaH; — — -</s>- 
+<s>sucap-sucapO-sucapaH; — — -</s>-
 [Page0479+ 25]
 <s>capitam-taH, cApitaH, cicapizitaH, cAcapitaH-tavAn</s>;
 <sup>1</sup> <s>capaH, cApaH, cicapizuH, cAcapaH</s>;
@@ -15333,7 +15333,7 @@
 <s>caraRIyam, cAraRIyam, cicarizaRIyam, caYcuraRIyam</s>;
 <sup>9</sup> <s>caryam, uparcAryam</s><sup>10</sup> <s>AcaryaH [deSaH], AcAryaH [guruH]</s>,<sup>11</sup> <s>AcAryAnI</s>,
 <div n="P"><s>AcAryA</s>,<sup>12</sup> <s>AScaryam [anityam], cAryam, cicarizyam, caYcUryam</s>;
-<s>IzaccaraH-duScaraH-sucaraH; — — -</s>- 
+<s>IzaccaraH-duScaraH-sucaraH; — — -</s>-
 [Page0488+ 30]
 <s>caryamARaH, cAryamARaH, cicarizyamARaH, caYcUryamARaH</s>;
 <s>AcAraH</s>,<sup>A</sup> <s>saYcAraH, pracAraH</s>,<sup>1</sup> <s>gocaraH</s>-<sup>B</sup> <s>saYcaraH, cicarizaH, saYcuraH</s>;
@@ -15469,7 +15469,7 @@
 <s>carcitavyam, carcayitavyam, cicarcizitavyam, cAcarcitavyam</s>;
 <s>carcanIyam, carcanIyam, cicarcizaRIyam, cAcarcanIyam</s>;
 <s>carcyam, carcyam, cicarcizyam, cAcarcyam</s>;
-<s>IzaccarcaH-duScarcaH-sucarcaH; — -</s>- 
+<s>IzaccarcaH-duScarcaH-sucarcaH; — -</s>-
 [Page0490+ 26]
 <s>carcyamAnaH, carcyamAnaH, cicarcizyamARaH, cAcarcyamAnaH</s>;
 <s>carcaH, carcaH, cicarcizaH, cAcarcaH</s>;
@@ -15724,7 +15724,7 @@
 <s>cAyizyan-ntI-tI, cAyayizyan-ntI-tI, cicAyizizyan-ntI-tI; -</s>-
 <s>cAyamAnaH, cAyayamAnaH, cicAyizamARaH, cekIyamAnaH</s>;
 <s>cAyizyamARaH, cAyayizyamARaH, cicAyizizyamARaH; cekIyizyamARaH</s>;
-<sup>2</sup> <s>pracAH-pracO-pracAH; — — -</s>- 
+<sup>2</sup> <s>pracAH-pracO-pracAH; — — -</s>-
 [Page0498+ 21]<sup>1</sup> <s>apacitaH</s>-<sup>A</sup> <s>apacAyitaH-tam, cAyitaH, cicAyizitaH, cekIyitaH-tavAn</s>;
 <s>cAyaH, cAyaH, cicAyizuH</s>,<sup>2</sup> <s>cekyaH</s>;
 <s>cAyitavyam, cAyayitavyam, cicAyizitavyam, cekIyitavyam</s>;
@@ -16263,7 +16263,7 @@
 <s>— cIBayan-ntI, cIBayizyan-ntI-tI; -</s>-
 <s>cIBamAnaH</s>,<sup>1</sup> <s>cIBayamAnaH, cicIBizamARaH, cecIByamAnaH</s>;
 <s>cIBizyamARaH, cIBayizyamARaH, cicIBizizyamARaH, cecIBizyamARaH</s>;
-<s>cIp-cIb-cIBO-cIBaH; — — -</s>- 
+<s>cIp-cIb-cIBO-cIBaH; — — -</s>-
 [Page0516+ 25]
 <s>cIBitam-taH, cIBitaH, cicIBizitaH, cecIBitaH-tavAn</s>;
 <s>cIBaH</s>,<sup>1</sup> <s>cIBanaH, cIBaH, cicIBizuH, cecIBaH</s>;
@@ -16464,7 +16464,7 @@
 (543) {@<s>“cupa mandAyAM gatO”</s>@}¦ (I<s>-BvAdiH</s>-403. <s>aka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>‘sparSe cupati, mandAyAM gatO tu Sapi copati .’</s> (<s>Slo</s>. 138) <s>iti devaH .</s>
 <s>copakaH-pikA, copakaH-pikA, cucopizakaH-cucupizakaH-zikA, cocupakaH-pikA</s>;
-<s>ityAdIni sarvARyapi rUpARi BOvAdikakucativat</s> (200) <s>jYeyAni .</s><sup>4</sup> <s>gale</s>- 
+<s>ityAdIni sarvARyapi rUpARi BOvAdikakucativat</s> (200) <s>jYeyAni .</s><sup>4</sup> <s>gale</s>-
 [Page0522+ 22]
 <s>copakaH</s>,<sup>1</sup> <s>copanaH</s>,<sup>2</sup> <s>copayan-ntI, copayizyan-ntI-tI</s>,<sup>A</sup> <s>cupitvA-copitvA</s>,
 <s>iti rUpARyasyeti viSezaH .</s>
@@ -16596,7 +16596,7 @@
 <s>cUzan-ntI, cUzayan-ntI, cucUzizan-ntI; -</s>-
 <s>cUzizyan-ntI-tI, cUzayizyan-ntI-tI, cucUzizizyan-ntI-tI</s>;
 <s>— cUzayamARaH, cUzayizyamARaH, — cocUzyamARaH, cocUzizyamARaH</s>;
-<sup>1</sup> <s>cUw-cUq-cUzO-cUzaH; — — -</s>- 
+<sup>1</sup> <s>cUw-cUq-cUzO-cUzaH; — — -</s>-
 [Page0526+ 26]<sup>A</sup> <s>cUzitam-taH, cUzitaH, cucUzizitaH, cocUzitaH-tavAn</s>;
 <s>cUzaH, cUzaH cucUzizuH, cocUzaH</s>;
 <s>cUzitavyam, cUzayitavyam, cucUzizitavyam, cocUzitavyam</s>;
@@ -16629,7 +16629,7 @@
 <s>cartitavyam, cartayitavyam, cicartizitavyam-cicftsitavyam, carIcftitavyam</s>;
 <s>cartanIyam, cartanIyam, cicartizaRIyam-cicftsanIyam, carIcftanIyam</s>;
 <sup>5</sup> <s>cartyam, cartyam, cicartizyam-cicftsyam, carIcftyam</s>;
-<s>IzaccartaH-duScartaH-sucartaH; — -</s>- 
+<s>IzaccartaH-duScartaH-sucartaH; — -</s>-
 [Page0528+ 21]
 <s>cftyamAnaH, cartyamAnaH, cicartizyamARaH-cicftsyamAnaH, carIcftyamAnaH</s>;
 <s>cartaH, cartaH, cicartizaH-cicftsaH, carIcftaH</s>;
@@ -17112,7 +17112,7 @@
 <sup>4</sup> <s>Cfndan-tI, Cardayan-ntI, cicCardizan-cicCftsan-ntI; -</s>-<sup>5</sup> <s>Cardizyan-Cartsyan-ntI-tI, Cardayizyan-ntI-tI, cicCardizizyan-cicCftsizyan-ntI-tI</s>;
 <s>CfndAnaH, CardayamAnaH, cicCardizamARaH-cicCftsamAnaH, carIcCfdyamAnaH</s>;
 <s>CardizyamARaH-CartsyamAnaH, CardayizyamARaH, cicCardizizyamARaH-cicCftsizyamARaH, carIcCfdizyamARaH</s>;
-<s>sucCft-sucCfd-sucCfdO-sucCfdaH; — -</s>- 
+<s>sucCft-sucCfd-sucCfdO-sucCfdaH; — -</s>-
 [Page0544+ 24]<sup>1</sup> <s>CfRRam</s><sup>A</sup> <s>-CfRRaH-CfRRavAn, CarditaH, cicCardizitaH-cicCftsitaH, carIcCfditaH-tavAn</s>;
 <s>CfdaH, CardaH, cicCardizuH-cicCftsuH, carIcCfdaH</s>;
 <s>Carditavyam, Cardayitavyam, cicCardizitavyam-cicCftsitavyam, carIcCfditavyam</s>;
@@ -17208,7 +17208,7 @@
 <sup>5</sup> <s>Cyan-ntI, CAyayan-ntI, cicCAsan-ntI; -</s>-
 <s>CAsyan-ntI-tI, CAyayizyan-ntI-tI, cicCAsizyan-ntI-tI; -</s>-
 <s>— CAyayamAnaH, CAyayizyamARaH, —cAcCAyamAnaH, cAcCAyizyamARaH</s>;
-<sup>6</sup> <s>kAzWacCAH-kAzWacCO-kAzWacCAH; — -</s>- 
+<sup>6</sup> <s>kAzWacCAH-kAzWacCO-kAzWacCAH; — -</s>-
 [Page0547+ 27]
 <note n="1"/><sup>1</sup> <s>Citam-CitaH-CitavAn CAyitaH, cicCAsitaH, cAcCAyitaH-tavAn</s>;
 <note n="1"/><s>CAtam-CAtaH-CAtavAn CAyitaH, cicCAsitaH, cAcCAyitaH-tavAn</s>;
@@ -17321,7 +17321,7 @@
 <L>581<pc>0549<k1>jawa<k2>jawa
 (581) {@<s>“jawa saNGAte”</s>@}¦ (I<s>-BvAdiH</s>-305. <s>aka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>jAwakaH-wikA, jAwakaH-wikA, jijawizakaH-zikA, jAjawakaH-wikA</s>;
-<s>ityAdIni sarvARyapi rUpARi BOvAdikakaWativat</s> (148) <s>jYeyAni .</s><sup>2</sup> <s>jawaH</s>- 
+<s>ityAdIni sarvARyapi rUpARi BOvAdikakaWativat</s> (148) <s>jYeyAni .</s><sup>2</sup> <s>jawaH</s>-
 [Page0550+ 28]<sup>A</sup> <s>jawA .</s><sup>1</sup> <s>jawI .</s><sup>2</sup> <s>jawilaH</s>-<sup>3</sup> <s>jawAlaH .</s>
 <F>2. <s>pacAdyaci</s> (3-1-134) <s>striyAM wAp . jawA = keSapASasya saMhananaviSezaH .</s></F>
 <F>A. <s>‘aSewanIyEH suDiyAmasewakEryutAn jawAJawaDarESca kEScana ..’ DA</s>. <s>kA</s>. 1. 40.</F>
@@ -17340,7 +17340,7 @@
 <sup>7</sup> <s>jajYat-tI</s>,<sup>8</sup> <s>janayan-ntI, jijanizan-ntI; -</s>-
 <s>janizyan-ntI-tI, janayizyan-ntI-tI, jijanizizyan-ntI-tI; -</s>-
 <s>— jaYjanyamAnaH-jaYjanizyamARaH, jAjAyamAnaH, jAjAyizyamARaH</s>;
-<sup>9</sup> <s>gojAH-gojO-gojAH; — — -</s>- 
+<sup>9</sup> <s>gojAH-gojO-gojAH; — — -</s>-
 [Page0551+ 22]
 <s>janitam-taH, janitaH, jijanizitaH, jaYjanitaH-jAjAyitaH-tavAn</s>;
 <s>janaH</s>,<sup>1</sup> <s>janyaH, janaH, jijanizuH, jaYjanaH</s>-<sup>2</sup> <s>jAjaH</s>;
@@ -17393,7 +17393,7 @@
 [Page0553+ 32]<sup>A</sup> <s>janaH</s>,<sup>1</sup> <s>prajanizRuH</s>,<sup>B</sup><sup>2</sup> <s>jajYiH</s>,<sup>3</sup> <s>vijAvA-vijAvAnO-vijAvAnaH</s>,
 <s>vijAvarI</s>,<sup>4</sup> <s>janyaH</s>,<sup>5</sup> <s>mandurajaH</s>,<sup>6</sup> <s>prAvfzijaH-SaradijaH-kAlejaH</s>-<sup>C</sup>
 <s>divijaH</s>,<sup>7</sup> <s>sarasijam-sarojam</s>,<sup>8</sup> <s>varzejaH-varzajaH-kzarejaH-kzarajaH-SarejaH</s>-
-<s>SarajaH-varejaH-varajaH</s>,<sup>9</sup> <s>saMskArajaH-adfzwajaH</s>,<sup>10</sup> <s>prajA-anujaH</s>,<sup>D</sup><sup>11</sup> <s>bIjam</s>- 
+<s>SarajaH-varejaH-varajaH</s>,<sup>9</sup> <s>saMskArajaH-adfzwajaH</s>,<sup>10</sup> <s>prajA-anujaH</s>,<sup>D</sup><sup>11</sup> <s>bIjam</s>-
 [Page0554+ 27]<sup>1</sup> <s>pumanujA-rAmAnujaH</s>,<sup>2</sup> <s>puMsA'nujaH</s>,<sup>3</sup> <s>ajaH-dvijaH</s>,<sup>A</sup> <s>brAhmaRajaH</s>,
 <s>kzatriyajaH-nagajaH</s><sup>B</sup> -<sup>C</sup> <s>vanajaH, kOsalyAjaH</s>,<sup>D</sup> <s>aBijaH-parijaH [keSaH]</s>,
 <s>janaH, jijanizuH, jaYjanaH</s>-<sup>4</sup> <s>jAjaH</s>;
@@ -17670,7 +17670,7 @@
 <div n="NI"><s>jalpakaH-lpikA, jalpakaH-lpikA, jijalpizakaH-zikA, jAjalpakaH-lpikA</s>;
 <s>jalpitA-trI, jalpayitA-trI, jijalpizitA-trI, jAjalpitA-trI</s>;
 <s>jalpan</s>-<sup>1</sup> <s>vyatijalpan-ntI, jalpayan-ntI, jijalpizan-ntI; -</s>-
-<s>jalpizyan-vyatijalpizyan-ntI-tI, jalpayizyan-ntI-tI, jijalpizizyan-ntI-tI; -</s>- 
+<s>jalpizyan-vyatijalpizyan-ntI-tI, jalpayizyan-ntI-tI, jijalpizizyan-ntI-tI; -</s>-
 [Page0561+ 26]
 <s>— jalpayamAnaH, jalpayizyamARaH, — jAjalpyamAnaH, jAjalpizyamARaH</s>;
 <sup>1</sup> <s>prajal-prajalpO-prajalpaH; — — -</s>-
@@ -17739,7 +17739,7 @@
 <div n="P"><s>hiMsAtAqanayorDAtvoH uditorjAsayediti .’</s> (<s>Slo</s>. 188-9) <s>iti devaH .</s>
 <s>AsakaH-sikA, jijAsayizakaH-zikA, jAsakaH-sikA, jijasizakaH-zikA, jAjasakaH-sikA</s>;
 <s>AsayitA-trI, jijAsayizitA-trI, jasitA-trI, jijasizitA-trI, jAjasitA-trI</s>;
-<s>jAsayan-ntI, jijAsayizan-ntI, jasan-ntI, jijasizan-ntI; -</s>- 
+<s>jAsayan-ntI, jijAsayizan-ntI, jasan-ntI, jijasizan-ntI; -</s>-
 [Page0563+ 24]
 <s>jAsayizyan-ntI-tI, jijAsayizizyan-ntI-tI jasizyan-ntI-tI, jija-sizizyan-ntI-tI; -</s>-
 <s>jAsayamAnaH, jijAsayizamARaH; — jAjasyamAnaH</s>;
@@ -17869,7 +17869,7 @@
 <s>jetavyam, jApayitavyam, jigIzitavyam, jejIyitavyam</s>;
 <s>jayanIyam, jApanIyam, jigIzaRIyam, jejIyanIyam</s>;
 <sup>6</sup> <s>jayyam-jeyam</s><sup>D</sup>, <s>jityaH</s><sup>7</sup> <s>[haliH], jApyam, jigIzyam, jejIyyam</s>;
-<sup>E</sup> <s>IzajjayaH-durjayaH-sujayaH; — — -</s>- 
+<sup>E</sup> <s>IzajjayaH-durjayaH-sujayaH; — — -</s>-
 [Page0569+ 23]
 <s>jIyamAnaH, jApyamAnaH, jigIzyamARaH, jejIyyamAnaH</s>;
 <sup>1</sup> <s>jayaH, jApaH, jigIzaH, jejIyaH</s>;
@@ -18237,7 +18237,7 @@
 <s>jozayitavyam, jujozayizitavyam, jozitavyam, jujozizitavyam-jujuzizitavyam, jojuzitavyam</s>;
 <s>jozaRIyam, jujozayizaRIyam, jozaRIyam, jujozizaRIyam-jujuzizaRIyam, jojuzaRIyam</s>;
 <s>jozyam, jujozayizyam, jozyam, jujozizyam-jujuzizyam, jojuzyam</s>;
-<s>IzajjozaH-durjozaH-sujozaH; — -</s>- 
+<s>IzajjozaH-durjozaH-sujozaH; — -</s>-
 [Page0580+ 18]
 <s>jozyamARaH, jujozayizyamARaH, juzyamARaH, jujozizyamARaH-jujuzizya-mARaH, jojuzyamARaH</s>;
 <s>jozaH, jujozayizaH, jozaH, jujozizaH-jujuzizaH, jojuzaH</s>;
@@ -18536,7 +18536,7 @@
 <s>rUpadvayasyApi sADutvaM boDyam . ‘tajjYApayatyAcAryaH’ (mahABAzyam)</s>,
 <s>‘vijYApanA Bartfzu sidDimeti .’ ityAdiprayogezu na kA'pyanupapattiH . ata eva</s>
 <s>puruzakAre</s> (<s>Slo</s>. 8) <s>‘evaYca, ‘jYapa micca’ ityeva pAWo yuktatamaH .’ ityuktaM</s>
-<s>saNgacCate ..</s><sup>1</sup> <s>jYapakaH-pikA, jijYapayizakaH-zikA, -</s>- 
+<s>saNgacCate ..</s><sup>1</sup> <s>jYapakaH-pikA, jijYapayizakaH-zikA, -</s>-
 [Page0590+ 22]<sup>1</sup> <s>jYIpsakaH-psikA; jYapayitA-trI, jijYapayizitA-trI, jYIpsitA-trI</s>;
 <s>jYapayan-ntI</s>,<sup>A</sup> <s>vijYapayan, jijYapayizan-ntI, jYIpsan-ntI</s>;
 <s>jYapayizyan-ntI-tI, jijYapayizizyan-ntI-tI, jYIpsizyan-ntI-tI</s>;
@@ -18705,7 +18705,7 @@
 <s>RyantAta sani tu imAni rUpARIti viSezaH . AjijYApayizakaH-zikA</s>,
 <s>AjijYApayizitA-trI, AjijYApayizan-ntI, AjijYApayizizyan-ntI-tI</s>;
 <s>AjijYApayizamARaH, ajijYApayizizyamARaH; AjijYApayiw-yizO-yizaH</s>;
-<s>AjijYApayizitaH-tavAn, AjijYApayizuH, AjijYApayizitavyam, Aji</s>- 
+<s>AjijYApayizitaH-tavAn, AjijYApayizuH, AjijYApayizitavyam, Aji</s>-
 [Page0596+ 27]
 <s>jYApayizaRIyam, AjijYApayizyam, IzadAjijYApayizaH-durAjijYApayizaH</s>-
 <s>svAjijYApayizaH, AjijYApayizyamARaH, AjijYApayizaH, AjijYApayizitum</s>,
@@ -19086,7 +19086,7 @@
 (651) {@<s>“qIN vihAyasA gatO”</s>@}¦ (I<s>-BvAdiH</s>-968<s>-aka</s>. <s>sew</s>. <s>Atma</s>.)<sup><s>[a]</s></sup>
 <s>‘vihAyasAM gatO qINo qayate qIyate pade ..’</s> (<s>Slo</s>. 20) <s>iti devaH .</s><sup>1</sup> <s>qAyakaH-yikA, qAyakaH-yikA</s>,<sup>2</sup> <s>qiqayizakaH-zikA, qeqIyakaH-yikA</s>;
 <s>qayitA-trI, qAyayitA-trI, qiqayizitA-trI, qeqIyitA-trI</s>;
-<s>— qAyayan-ntI, qAyayizyan-ntI-tI; — -</s>- 
+<s>— qAyayan-ntI, qAyayizyan-ntI-tI; — -</s>-
 [Page0607+ 24]
 <s>qayamAnaH, qAyayamAnaH, qiqayizamARaH, qeqIyamAnaH</s>;
 <s>qayizyamARaH, qAyayizyamARaH, qiqayizizyamARaH, qeqIyizyamARaH</s>;
@@ -19333,7 +19333,7 @@
 <s>naBitavyam, nABayitavyam, ninaBizitavyam, nAnaBitavyam</s>;
 <s>naBanIyam, nABanIyam, ninaBizaRIyam, nAnaBanIyam</s>;
 <sup>3</sup> <s>naByam</s><sup>B</sup>, <s>nAByam, ninaBizyam, nAnaByam</s>;
-<s>IzannaBaH-durnaBaH-sunaBaH; — -</s>- 
+<s>IzannaBaH-durnaBaH-sunaBaH; — -</s>-
 [Page0615+ 22]
 <s>naByamAnaH, nAByamAnaH, ninaBizyamARaH, nAnaByamAnaH</s>;
 <s>nABaH, nABaH, ninaBizaH, nAnaBaH</s>;
@@ -19455,7 +19455,7 @@
 (666) {@<s>“Rala ganDe”</s>@}¦ (I<s>-BvAdiH</s>-838. <s>aka</s>. <s>sew</s>. <s>para</s>.) <s>jvalAdiH .</s>
 <s>‘—banDane’ iti kASyapaH . ganDaH = hiMsanaM vAsanA va .</s>
 <div n="NI"><s>nAlakaH-likA, praRAlakaH-likA, ninalizakaH-zikA, nAnalakaH-likA</s>;
-<s>ityAdIni sarvARyapi rUpARi BOvAdikacalativat</s> (510) <s>jYeyAni . GawAdi</s>- 
+<s>ityAdIni sarvARyapi rUpARi BOvAdikacalativat</s> (510) <s>jYeyAni . GawAdi</s>-
 [Page0619+ 26]
 <s>kAryaM tu nAsya BavatIti viSezaH .</s><sup>1</sup> <s>nalaH</s>,<sup>2</sup> <s>nAlaH</s>,<sup>3</sup> <s>nalaH .</s>
 <F>1. <s>SatrUn nalati = baDnAtIti nalaH = nfpativiSezaH . kartari pacAdyac .</s></F>
@@ -19471,7 +19471,7 @@
 <s>naSyan</s>-<sup>A</sup> <s>praRaSyan-ntI, nASayan</s><sup>7</sup> <s>-ntI, ninaSizan-ninaNkzan-ntI; -</s>-
 <s>naSizyan</s>-<sup>8</sup> <s>pranaNkzyan-ntI-tI, nASayizyan-ntI-tI, ninaSizizyan, ninaNkzizyan-ntI-tI; -</s>-
 <s>— — — nAnaSyamAnaH, nAnaSizyamARaH</s>;
-<sup>9</sup> <s>pranaw-pranak-praRaSO-praRaSaH; — — -</s>- 
+<sup>9</sup> <s>pranaw-pranak-praRaSO-praRaSaH; — — -</s>-
 [Page0620+ 27]<sup>1</sup> <s>pranazwam</s>-<sup>A</sup> <s>pranazwaH-nazwavAn, praRASitaH, ninaSizitaH, ninaNkzitaH-nAnaSitaH, tavAn</s>;
 <s>naSaH</s>,<sup>2</sup> <s>vinASI</s>,<sup>B</sup> <s>kftanASI</s>,<sup>3</sup> <s>vinASakaH</s>,<sup>4</sup> <s>naSvaraH</s><sup>C</sup> <s>-naSvarI, nASaH</s>,<sup>5</sup> <s>citavinASanaH-vittanASanaH-ninaNkzuH, nAnaSaH</s>;
 <s>naSitavyam-naMzwavyam, nASayitavyam, ninaSizitavyam-ninaNkzitavyam, nAnaSitavyam</s>;
@@ -20064,7 +20064,7 @@
 <s>takzan-ntI, takzayan-ntI, titakzizan-ntI; -</s>-
 <s>takzizyan-ntI-tI, takzayizyan-ntI-tI, titakzizizyan-ntI-tI; -</s>-
 <s>— takzayamARaH, takzayizyamARaH, — tAtakzyamARaH, tAtakzizyamARaH</s>;
-<sup>1</sup> <s>taw-taq-takzO-takzaH; — — -</s>- 
+<sup>1</sup> <s>taw-taq-takzO-takzaH; — — -</s>-
 [Page0638+ 26]
 <s>takzitaH-tam, takzitaH, titakzizitaH, tAtakzitaH-tavAn</s>;
 <s>takzaH, takzaH, titakzizuH, tAtakzaH</s>;
@@ -20225,7 +20225,7 @@
 <div n="NI"><s>dErGyArTasyopasargAt tu, vistAre tanute'tanot .’</s> (<s>Slo</s>. 127-128) <s>iti devaH .</s>
 <s>tAnakaH-nikA, tAnakaH-nikA</s>,<sup>2</sup> <s>titanizakaH-zikA, titAMsakaH-titaMsakaH-sikA</s>,<sup>3</sup> <s>tantanakaH-taMtanakaH-nikA</s>;
 <s>tanitA-trI, tAnayitA-trI, titanizitA-titAMsitA-titaMsitA-trI, tantanitA-trI</s>;
-<sup>4</sup> <s>tanvan</s>-<sup>B</sup> <s>tI, tAnayan-ntI, titanizan-titAMsan-titaMsan-ntI; -</s>- 
+<sup>4</sup> <s>tanvan</s>-<sup>B</sup> <s>tI, tAnayan-ntI, titanizan-titAMsan-titaMsan-ntI; -</s>-
 [Page0643+ 22]
 <s>tanizyan-ntI-tI, tAnayizyan-ntI-tI, titanizizyan-titAMsizyan-titaMsizyan-ntI-tI; -</s>-
 <s>tanvAnaH, tAnayamAnaH, titanizamARaH-titAMsamAnaH-titaMsamAnaH, tantanyamAnaH</s>;
@@ -20235,7 +20235,7 @@
 <s>tanitavyam, tAnayitavyam, titanizitavyam-titAMsitavyam-titaMsitavyam, tantanitavyam</s>;
 <s>tananIyam, tAnanIyam, titanizaRIyam-titAMsanIyam-titaMsanIyam, tantananIyam</s>;
 <s>tAnyam, tAnyam, titanizyam-titAMsyam-titaMsyam, tantanyam</s>;
-<s>IzattanaH-dustanaH-sutanaH, — — -</s>- 
+<s>IzattanaH-dustanaH-sutanaH, — — -</s>-
 [Page0644+ 19]<sup>1</sup> <s>tanyamAnaH-tAyamAnaH, tAnyamAnaH, titanizyamARaH-titAMsyamAnaH-titaMsyamAnaH, tantanyamAnaH</s>;
 <s>tAnaH-vitAnaH-santAnaH, tAnaH, titanizaH-titAMsaH-titaMsaH-tantanaH</s>;
 <s>tanitum, tAnayitum, titanizitum-titAMsitum-titaMsitum, tantanitum</s>;
@@ -20498,7 +20498,7 @@
 <s>SamAdiH . GawAdiH .</s><sup><s>[a]</s></sup>
 <div n="NI"><sup>1</sup> <s>tamakaH-mikA</s>,<sup>2</sup> <s>tamakaH-mikA, titamizakaH-zikA</s>,<sup>3</sup> <s>tantamakaH-taMtamakaH-mikA</s>;
 <s>tamitA-trI, tamayitA-trI, titamizitA-trI, tantamitA-trI</s>;
-<sup>4</sup> <s>tAmyan-ntI, tamayan-ntI, titamizan-ntI; -</s>- 
+<sup>4</sup> <s>tAmyan-ntI, tamayan-ntI, titamizan-ntI; -</s>-
 [Page0652+ 25]
 <s>tamizyan-ntI-tI, tamayizyan-ntI-tI, titamizizyan-ntI-tI</s>;
 <s>— tamayamAnaH, tamayizyamARaH, tantamyamAnaH, tantamizyamARaH</s>;
@@ -21236,7 +21236,7 @@
 <L>754<pc>0672<k1>tuBa<k2>tuBa
 (754) {@<s>“tuBa hiMsAyAm”</s>@}¦ (IX<s>-kryAdiH</s>-1521. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>toBakaH-BikA, toBakaH-BikA, tutuBizakaH-tutoBizakaH-zikA, totuBakaH</s>-
-<s>BikA; toBitA-trI, toBayitA-trI, tutuBizitA-tutoBizitA-trI, totu</s>- 
+<s>BikA; toBitA-trI, toBayitA-trI, tutuBizitA-tutoBizitA-trI, totu</s>-
 [Page0673+ 26]
 <s>BitA-trI; ityAdIni sarvARyapi rUpARi kuzaDAtuvat</s> (233) <s>boDyAni .</s>
 <s>Satari-</s>-<sup>A</sup> <s>tuBnan-tI .</s>
@@ -21270,7 +21270,7 @@
 <s>tUrvan-ntI, tUrvayan-ntI, tutUrvizan-ntI; -</s>-
 <s>tUrvizyan-ntI-tI, tUrvayizyan-ntI-tI, tutUrvizizyan-ntI tI; -</s>-
 <s>— tUrvayamARaH, tUrvayizyamARaH, — totUrvyamARaH, totUrvizyamARaH</s>;
-<sup>6</sup> <s>pratUH-praturO-praturaH; — — -</s>- 
+<sup>6</sup> <s>pratUH-praturO-praturaH; — — -</s>-
 [Page0674+ 26]<sup>1</sup> <s>tUrRam</s>-<sup>A</sup> <s>tUrRaH-tUrRavAn, tUrvitaH, tutUrvizitaH, totUrvitaH-tavAn</s>;
 <s>tUrvaH, tUrvaH, tutUrvizuH, totUrvaH</s>;
 <s>tUrvitavyam, tUrvayitavyam, tutUrvizitavyam, totUrvitavyam</s>;
@@ -21466,7 +21466,7 @@
 <div n="NI"><s>tfkzakaH-kzikA, tfkzakaH-kzikA, titfkzizakaH-kzikA</s>,<sup>2</sup> <s>tarItfkzakaH-kzikA</s>;
 <s>tfkzitA-trI, tfkzayitA-trI, titfkzizitA-trI, tarItfkzitA-trI</s>;
 <s>tfkzan-ntI, tfkzayan-ntI, titfkzizan-ntI; -</s>-
-<s>tfkzizyan-ntI-tI, tfkzayizyan-ntI-tI, titfkzizizyan-ntI-tI; -</s>- 
+<s>tfkzizyan-ntI-tI, tfkzayizyan-ntI-tI, titfkzizizyan-ntI-tI; -</s>-
 [Page0680+ 27]
 <s>— tfkzayamARaH, — tarItfkzyamARaH</s>;
 <s>— tfkzayizyamARaH, — tarItfkzizyamARaH</s>;
@@ -21567,7 +21567,7 @@
 <s>tarditavyam, tardayitavyam, titardizitavyam-titftsitavyam, tarItfditavyam</s>;
 <s>tardanIyam, tardanIyam, titardizaRIyam-titftsanIyam, tarItfdanIyam</s>;
 <sup>7</sup> <s>tfdyam, tardyam, titardizyam-titftsyam, tarItfdyam</s>;
-<s>IzattardaH-dustardaH-sutardaH; — -</s>- 
+<s>IzattardaH-dustardaH-sutardaH; — -</s>-
 [Page0684+ 23]
 <s>tfdyamAnaH, tardyamAnaH, titardizyamARaH-titftsyamAnaH, tarItfdyamAnaH</s>;
 <s>tardaH, tardaH, titardizaH-titftsaH, tarItfdaH</s>;
@@ -21663,7 +21663,7 @@
 <div n="NI"><s>‘Sne tfReQIti hiMsAyAm, tfhatItyUditastfheH ..’</s> (<s>Slo</s>. 195) <s>iti devaH .</s><sup>2</sup> <s>tfMhakaH-hikA, tfMhakaH-hikA</s>,<sup>3</sup> <s>titfMhizakaH-zikA-titfkzakaH-kzikA</s>,<sup>4</sup> <s>tarItfhakaH-hikA</s>;
 <s>tfMhitA-trI</s>-<sup>5</sup> <s>tfRQA-QrI, tfMhayitA-trI, titfMhizitA-titfkzitA-trI, tarItfhitA-trI</s>;
 <sup>6</sup> <s>tfhan-ntI-tI, tfMhayan-ntI, titfMhizan-titfkzan-ntI; -</s>-
-<s>tfMhizyan</s>-<sup>7</sup> <s>tfNkzyan-ntI-tI, tfMhayizyan-ntI-tI, titfMhizizyan-titfkzizyan-ntI-tI; -</s>- 
+<s>tfMhizyan</s>-<sup>7</sup> <s>tfNkzyan-ntI-tI, tfMhayizyan-ntI-tI, titfMhizizyan-titfkzizyan-ntI-tI; -</s>-
 [Page0687+ 20]
 <s>— tfMhayamARaH, — tarItfhyamARaH</s>;
 <s>— tfMhayizyamARaH, — tarItfhizyamARaH</s>;
@@ -21780,7 +21780,7 @@
 <s>tarpitavyam, tarpayitavyam, titarpizitavyam, tarItfpitavyam</s>;
 <s>tarpaRIyam, tarpaRIyam, titarpizaRIyam, tarItfpaRIyam</s>;
 <sup>4</sup> <s>tfpyam, tarpyam, titarpizyam, tarItfpyam</s>;
-<s>IzattarpaH-dustarpaH-sutarpaH; — — -</s>- 
+<s>IzattarpaH-dustarpaH-sutarpaH; — — -</s>-
 [Page0691+ 24]
 <s>tfpyamARaH, tarpyamARaH, titarpizyamARaH, tarItfpyamARaH</s>;
 <s>tarpaH, tarpaH, titarpizaH, tarItfpaH</s>;
@@ -21873,7 +21873,7 @@
 <s>tarzitavyam, tarzayitavyam, titarzizitavyam, tarItfzitavyam</s>;
 <s>tarzaRIyam, tarzaRIyam, titarzizaRIyam, tarItfzaRIyam</s>;
 <sup>7</sup> <s>tfzyam, tarzyam, titarzizyam, tarItfzyam</s>;
-<s>IzattarzaH-dustarzaH-sutarzaH; — — -</s>- 
+<s>IzattarzaH-dustarzaH-sutarzaH; — — -</s>-
 [Page0694+ 26]
 <s>tfzyamARaH, tarzyamARaH, titarzizyamARaH, tarItfzyamARaH</s>;
 <s>tarzaH, tarzaH, titarzizaH, tarItfzaH</s>;
@@ -21992,7 +21992,7 @@
 <s>taritA-tarItA-trI, tArayitA-trI, titarizitA-titarIzitA-titIrzitA-trI, tetiritA-trI</s>;
 <sup>5</sup> <s>taran</s>-<sup>A</sup> <s>samuttaran-ntI, tArayan-ntI, titarizan</s>-<sup>B</sup> <s>titarIzan-titIrzan-ntI</s>;
 <s>tarizyan-tarIzyan-ntI-tI, tArayizyan-ntI-tI, titarizizyan-titarIzizyan-titIrzizyan-ntI-tI; -</s>-<sup>6</sup> <s>vyatitaramARaH, tArayamARaH, tArayizyamARaH, — tetIryamARaH, tetirizyamARaH</s>;
-<sup>7</sup> <s>tIH-tirO-tiraH; — — -</s>- 
+<sup>7</sup> <s>tIH-tirO-tiraH; — — -</s>-
 [Page0698+ 24]<sup>1</sup> <s>uttIrRam-tIrRaH-tIrRavAn, tAritaH, titarizitaH-titarIzitaH-titIrzitaH-tavAn, tetiritaH-tavAn</s>;
 <s>taraH</s>,<sup>2</sup> <s>terivAn</s>,<sup>3</sup> <s>sutarmA</s>,<sup>4</sup> <s>raTantaraM (sAma), tAraH-titarizuH-titarIzuH</s>-<sup>A</sup> <s>titIrzuH-tetiraH</s>;
 <s>taritavyam-tarItavyam, tArayitavyam, titarizitavyam-titarIzitavyam-titIrzitavyam, tetiritavyam</s>;
@@ -22099,7 +22099,7 @@
 <s>tyajan-ntI, tyAjayan-ntI, tityakzan-ntI; -</s>-
 <s>tyakzyan-ntI-tI, tyAjayizyan-ntI-tI, tityakzizyan-ntI-tI; -</s>-<sup>6</sup> <s>vyatityajamAnaH, tyAjayamAnaH, tityakzyamARaH, tAtyajyamAnaH</s>;
 <s>— tyAjayizyamARaH, tityakzizyamARaH, tAtyajizyamARaH</s>;
-<sup>7</sup> <s>tyak-tyag-tyajO-tyajaH; — -</s>- 
+<sup>7</sup> <s>tyak-tyag-tyajO-tyajaH; — -</s>-
 [Page0701+ 29]
 <div n="NI"><s>tyaktam-ktaH-ktavAn</s>,<sup>1</sup> <s>tyAjitaH, tityakzitaH, tAtyajitaH-tavAn</s>;
 <s>tyajaH</s>,<sup>2</sup> <s>tyAgI</s>,<sup>3</sup> <s>saMtyAjI, tyAjaH, tityakzuH, tAtyajaH</s>;
@@ -22449,7 +22449,7 @@
 <s>-</s>-<sup>2</sup> <s>tvarayan-ntI, tvarayizyan-ntI-tI; -</s>-
 <s>tvaramARaH, — titvarizamARaH; tAtvaryamARaH</s>;
 <s>tvarizyamARaH, — titvarizizyamARaH, tAtvarizyamARaH</s>;
-<sup>3</sup> <s>tUH-tUrO-tUraH; — — -</s>- 
+<sup>3</sup> <s>tUH-tUrO-tUraH; — — -</s>-
 [Page0711+ 29]<sup>1</sup> <s>tUrRam</s><sup>A</sup><sup>2</sup> <s>[anena]</s><sup>3</sup> <s>tUrRaH-tUrRavAn-tvaritam [anena]-taH-tavAn, tvaritaH, titvarizitaH, tAtvaritaH-tavAn</s>;
 <s>tvaraH, tvaraH, titvarizuH, tAtvaraH</s>;
 <s>tvaritavyam, tvarayitavyam, titvarizitavyam, tAtvaritavyam</s>;
@@ -22963,7 +22963,7 @@
 <div n="NI"><s>‘vidAraRe Sapi daled dAlayediti RO daleH ..’</s> (<s>Slo</s> 159) <s>iti devaH .</s>
 <s>uddAlakaH-likA</s>,<sup>5</sup> <s>dalakaH-dAlakaH-likA, didalizakaH-zikA, dAdalakaH-likA</s>;
 <s>dalitA-trI, dalayitA-dAlayitA-trI, didalizitA-trI, dAdalitA-trI</s>;
-<s>dalizyan-ntI-tI, dalayizyan-dAlayizyan-ntI-tI, didalizizyan-ntI-tI; -</s>- 
+<s>dalizyan-ntI-tI, dalayizyan-dAlayizyan-ntI-tI, didalizizyan-ntI-tI; -</s>-
 [Page0727+ 25]
 <s>— dalayamAnaH-dAlayamAnaH, — dAdalyamAnaH</s>;
 <s>— dalayizyamARaH, dAlayizyamARaH — dAdalizyamARaH</s>;
@@ -23800,7 +23800,7 @@
 <s>— dIpayan-ntI, dIpayizyan-ntI-tI; -</s>-
 <s>dIpamAnaH, dIpayamAnaH, didIpizamARaH, dedIpyamAnaH</s>;
 <s>dIpizyamARaH, dIpayizyamARaH, didIpizizyamARaH dedIpizyamARaH</s>;
-<s>pradIp-pradIpO-pradIpaH; — -</s>- 
+<s>pradIp-pradIpO-pradIpaH; — -</s>-
 [Page0753+ 26]<sup>1</sup> <s>dIptam, dIptaH-tavAn, dIpitaH, didIpizitaH, dedIpitaH-tavAn</s>;
 <sup>2</sup> <s>dIpaH</s>,<sup>3</sup> <s>dIpitA</s>,<sup>A</sup><sup>4</sup> <s>dIpanIyam</s>,<sup>5</sup> <s>dIpraH</s><sup>B</sup>, <s>sandIpI</s>,<sup>6</sup> <s>sandIpanaH, pradIpaH, didIpizuH, dedIpaH</s>;
 <s>dIpitavyam, dIpayitavyam, didIpizitavyam, dedIpitavyam</s>;
@@ -23847,7 +23847,7 @@
 <s>dotavyam, dAvayitavyam, dudUzitavyam, dodUyitavyam</s>;
 <s>davanIyam, dAvanIyam, dudUzaRIyam, dodUyanIyam</s>;
 <sup>9</sup> <s>davyam</s>,<sup>10</sup> <s>avaSyadAvyam, dAvyam, dudUzyam, dodUyyam</s>;
-<s>IzaddavaH-durdavaH-sudavaH; — -</s>- 
+<s>IzaddavaH-durdavaH-sudavaH; — -</s>-
 [Page0755+ 27]<sup>1</sup> <s>dUyamAnaH, dAvyamAnaH, dudUzyamARaH, dodUyyamAnaH</s>;
 <sup>2</sup> <s>davaH</s>,<sup>3</sup> <s>sandAvaH, dAvaH, dudUzaH, dodUyaH</s>;
 <sup>4</sup> <s>praRidotum-pranidotum, dAvayitum, dudUzitum, dodUyitum</s>;
@@ -24035,7 +24035,7 @@
 <L>854<pc>0759<k1>duhir<k2>duhir
 (854) {@<s>“duhir ardane”</s>@}¦ (I<s>-BvAdiH</s>-738. <s>saka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>‘prapUraRe dogDi dugDe, dohatItyardane duheH ..’</s> (<s>Slo</s>. 193) <s>iti devaH .</s>
-<s>dohakaH-hikA, dohakaH-hikA</s>,<sup>9</sup> <s>dudohizakaH-duduhizakaH-zikA, doduhakaH</s>- 
+<s>dohakaH-hikA, dohakaH-hikA</s>,<sup>9</sup> <s>dudohizakaH-duduhizakaH-zikA, doduhakaH</s>-
 [Page0760+ 26]
 <s>hikA; ityAdIni sarvARyapi rUpARi BOvAdikatohativat</s> (760) <s>jYeyAni .</s><sup>1</sup> <s>jagaddohI</s><sup>A</sup> <s>.</s>
 <F>9. <s>‘dihirduhirmehatirohatI—’ (vyAGraBUtikArikA</s> 7-2-10) <s>ityatra nAsya DAtorgrahaRam</s>;
@@ -24345,7 +24345,7 @@
 <s>darizyan-darIzyan-ntI-tI, dArayizyan-darayizyan-ntI-tI, didarizizyan-didarIzizyan-didIrzizyan-ntI-tI; -</s>-<sup>7</sup> <s>vyatidfRAnaH, dArayamARaH-darayamARaH, vyatididarizamARaH-vyatididarIzamARaH-vyatididIrzamARaH, dedIryamARaH</s>;
 <s>vyatidarizyamARaH-vyatidarIzyamARaH, dArayizyamARaH-darayizyamARaH, vyatidi</s>-
 <s>dari[rI]zizyamARaH, vyatididIrzizyamARaH, dedirizyamARaH</s>;
-<sup>8</sup> <s>pradIH-pradirOH-pradiraH</s>,<sup>9</sup> <s>dadft; — -</s>- 
+<sup>8</sup> <s>pradIH-pradirOH-pradiraH</s>,<sup>9</sup> <s>dadft; — -</s>-
 [Page0770+ 24]<sup>1</sup> <s>dIrRam-dIrRaH-dIrRavAn</s>,<sup>A</sup> <s>dAritaH-daritaH, didarizitaH-didarIzitaH-didIrzitaH, dediritaH-tavAn</s>;
 <sup>2</sup> <s>daraH-darI</s>,<sup>3</sup> <s>dArAH</s>,<sup>4</sup> <s>purandaraH</s>,<sup>B</sup><sup>5</sup> <s>BagandaraH, vidArI, dAraH-daraH, didarizuH-didarIzuH-didIrzuH, dediraH</s>;
 <s>daritavyam-darItavyam, dArayitavyam-darayitavyam, didarizitavyam-didarIzitavyam-didIrzitavyam, dediritavyam</s>;
@@ -24620,7 +24620,7 @@
 <s>drAKan-ntI, drAKayan-ntI, didrAKizan-ntI; -</s>-
 <s>drAKizyan-ntI-tI, drAKayizyan-ntI-tI, didrAKizizyan-ntI-tI; -</s>-
 <s>—drAKayamARaH, drAKayizyamARaH, — dAdrAKyamAnaH, dAdrAKizyamARaH</s>;
-<s>vidrAK-vidrAk-vidrAKO-vidrAKaH; -</s>- 
+<s>vidrAK-vidrAk-vidrAKO-vidrAKaH; -</s>-
 [Page0778+ 23]<sup>A</sup> <s>drAKitam-taH, drAKitaH, didrAKizitaH, dAdrAKitaH-tavAn</s>;
 <s>drAKaH, drAKaH, didrAKizuH, dAdrAKaH</s>;
 <s>drAKitavyam, drAKayitavyam, didrAKizitavyam, dAdrAKitavyam</s>;
@@ -24754,7 +24754,7 @@
 <div n="NI"><s>drohakaH-hikA, drohakaH-hikA</s>;
 <sup>1</sup> <s>dudruhizakaH-dudrohizakaH-duDrukzakaH-kzikA, dodruhakaH-hikA</s>;
 <sup>2</sup> <s>drohitA-trI-drogDA-gDrI-droQA-QrI, drohayitA-trI, dudruhizitA-dudrohizitA-duDrukzitA-trI, dodruhitA-trI</s>;
-<s>[devadattAya] druhyan</s><sup>3</sup> <s>-ntI, [devadattaM]</s><sup>4</sup> <s>aBidruhyan-ntI, drohayan-ntI, dudruhizan-dudrohizan-duDrukzan-ntI; -</s>- 
+<s>[devadattAya] druhyan</s><sup>3</sup> <s>-ntI, [devadattaM]</s><sup>4</sup> <s>aBidruhyan-ntI, drohayan-ntI, dudruhizan-dudrohizan-duDrukzan-ntI; -</s>-
 [Page0783+ 23]
 <s>drohizyan</s>-<sup>1</sup> <s>Drokzyan-ntI-tI, drohayizyan-ntI-tI, dudruhizizyan-dudrohizizyan-duDrukzizyan-ntI-tI; -</s>-
 <s>— drohayamARaH, drohayizyamARaH, — dodruhyamARaH, dodruhizyamARaH</s>;
@@ -25106,7 +25106,7 @@
 <s>DAvizyan-ntI-tI, DAvayizyan-ntI-tI, diDAvizizyan-ntI-tI; -</s>-
 <s>DAvamAnaH, DAvayamAnaH, diDAvizamARaH, dADAvyamAnaH</s>;
 <s>DAvizyamARaH, DAvayizyamARaH, diDAvizizyamARaH, dADAvizyamARaH</s>;
-<sup>7</sup> <s>DOH-DAvO-DAvaH; — — -</s>- 
+<sup>7</sup> <s>DOH-DAvO-DAvaH; — — -</s>-
 [Page0794+ 23]<sup>1</sup> <s>DOtam-taH-tavAn</s>,<sup>A</sup> <s>upaDAvitam-taH-tavAn, DAvitaH, diDAvizitaH, dADAvitaH-tavAn</s>;
 <s>DAvaH, praDAvI, DAvaH, diDAvizuH, dADAvaH</s>;
 <s>DAvitavyam, DAvayitavyam, diDAvizitavyam, dADAvitavyam</s>;
@@ -25226,7 +25226,7 @@
 <s>Detavyam, DAyayitavyam, diDIzitavyam, deDIyitavyam</s>;
 <s>DayanIyam, DAyanIyam, diDIzaRIyam, deDIyanIyam</s>;
 <s>Deyam, DAyyam, diDIzyam, deDIyyam</s>;
-<s>IzadDayaH-durDayaH-suDayaH; — -</s>- 
+<s>IzadDayaH-durDayaH-suDayaH; — -</s>-
 [Page0798+ 27]
 <s>DIyamAnaH, DAyyamAnaH, diDIzyamARaH, deDIyyamAnaH</s>;
 <s>DayaH, DAyaH, diDIzaH, deDIyaH</s>;
@@ -25582,7 +25582,7 @@
 (917) {@<s>“DfY DAraRe”</s>@}¦ (I<s>-BvAdiH</s>-900. <s>saka</s>. <s>ani</s>. <s>uBa</s>.)
 <div n="NI"><s>‘Darate DAraRe'rTe tu Darate DaratItyuBe ..’</s> (<s>Slo</s>. 29) <s>iti devaH .</s>
 <s>DArakaH-rikA, DArakaH-rikA, diDIrzakaH-zikA, deDrIyakaH-yikA</s>;
-<s>ityAdIni sarvARyapi rUpARi BOvAdiDaratikavat</s> (913) <s>jYeyAni .</s><sup>5</sup> <s>yuganDAH</s>- 
+<s>ityAdIni sarvARyapi rUpARi BOvAdiDaratikavat</s> (913) <s>jYeyAni .</s><sup>5</sup> <s>yuganDAH</s>-
 [Page0809+ 30]
 <s>jalanDaraH-puranDaraH-SrutanDaraH-vasunDarA</s>,<sup>1</sup> <s>DanurDarA</s>,<sup>2</sup> <s>mahIDraH</s><sup>A</sup>,<sup>3</sup> <s>karRaDAraH</s>,<sup>4</sup> <s>ADAraH</s>,<sup>5</sup> <s>DArA</s>,<sup>6</sup> <s>DArayaH</s><sup>B</sup> ,<sup>7</sup> <s>DArayan</s>,<sup>8</sup> <s>DuranDaraH, DarmaH; imAni rUpARi</s>
 <s>aDikAnyatreti viSezaH . asya DAtoH uBayapaditvAt Satari—Daran-ntI</s>,
@@ -25694,7 +25694,7 @@
 <s>praRiDAsyan-ntI-tI, DApayizyan-ntI-tI, Ditsizyan-ntI-tI; -</s>-
 <s>— DApayamAnaH, DApayizyamARaH, — deDIyamAnaH, deDIyizyamARaH</s>;
 <sup>8</sup> <s>DAH-DO-DAH; — — -</s>-<sup>9</sup> <s>DItam-DItaH-DItavAn, DApitaH, DitsitaH, deDIyitaH-tavAn</s>;
-<sup>10</sup> <s>udDayaH</s><sup>A</sup> <s>-DayaH</s>,<sup>11</sup> <s>nAsikanDayaH</s>-<sup>B</sup> <s>stananDayaH, stananDayI</s>,<sup>12</sup> <s>nAqinDayaH</s>- 
+<sup>10</sup> <s>udDayaH</s><sup>A</sup> <s>-DayaH</s>,<sup>11</sup> <s>nAsikanDayaH</s>-<sup>B</sup> <s>stananDayaH, stananDayI</s>,<sup>12</sup> <s>nAqinDayaH</s>-
 [Page0813+ 28]<sup>A</sup> <s>muzwinDayaH</s>,<sup>1</sup> <s>SuninDayaH</s>,<sup>2</sup> <s>GawinDayaH-KArinDayaH-KarinDayaH</s>-<sup>3</sup> <s>vAtanDayaH</s>,<sup>4</sup> <s>DAruH</s>,<sup>B</sup><sup>5</sup> <s>DAtrI</s>,<sup>6</sup> <s>puzpanDayaH</s>,<sup>C</sup> <s>muYjanDayaH-kUlanDayaH-AsyanDayaH</s>,<sup>7</sup> <s>kzIraDAH, DApaH, DitsuH, deDyaH</s>;
 <s>DAtavyam, DApayitavyam, Ditsitavyam, deDIyitavyam</s>;
 <s>praRiDAnIyam, DApanIyam, DitsanIyam, deDIyanIyam</s>;
@@ -25776,7 +25776,7 @@
 <div n="NI"><s>‘agnisaMyogaSca muKavAyunA . lakzaRayA viDUnane, santApena pUraRe ca .’ iti</s>
 <s>DA</s>. <s>kA</s>. <s>vyAKyAyAm</s> (2-33) <s>.</s><sup>5</sup> <s>DmAyakaH-yikA</s>,<sup>6</sup> <s>DmApakaH-pikA, diDmAsakaH-sikA</s>,<sup>7</sup> <s>deDmIyakaH-yikA</s>;
 <s>DmAtA-trI, DmApayitA-trI, diDmAsitA-trI, deDmIyitA-trI</s>;
-<sup>8</sup> <s>Daman</s><sup>B</sup> <s>-ntI, DmApayan-ntI, diDmAsan-ntI; -</s>- 
+<sup>8</sup> <s>Daman</s><sup>B</sup> <s>-ntI, DmApayan-ntI, diDmAsan-ntI; -</s>-
 [Page0815+ 28]
 <s>DmAsyan-ntI-tI, DmApayizyan-ntI-tI, diDmAsizyan-ntI-tI; -</s>-<sup>1</sup> <s>vyatiDamamAnaH, DmApayamAnaH</s>,<sup>2</sup> <s>vyatidiDmAsamAnaH, deDmIyamAnaH</s>;
 <s>vyatiDmAsyamAnaH, DmApayizyamARaH, vyatidiDmAsizyamARaH, deDmIyizyamARaH</s>;
@@ -25842,7 +25842,7 @@
 <s>DyAyan-ntI, DyApayan-ntI, diDyAsan-ntI; -</s>-
 <s>DyAsyan-ntI-tI, DyApayizyan-ntI-tI, diDyAsizyan-ntI-tI; -</s>-
 <s>DyApayamAnaH, DyApayizyamARaH, — dADyAyamAnaH, dADyAyizyamARaH</s>;
-<sup>4</sup> <s>suDIH</s><sup>A</sup> <s>-suDiyO-suDiyaH; — -</s>- 
+<sup>4</sup> <s>suDIH</s><sup>A</sup> <s>-suDiyO-suDiyaH; — -</s>-
 [Page0817+ 23]<sup>1</sup> <s>DyAtam-taH, DyApitaH, diDyAsitaH, dADyAyitaH-tavAn</s>;
 <sup>2</sup> <s>dUQyaH, maDyaH</s>,<sup>3</sup> <s>DIvA-DIvarI</s>,<sup>4</sup> <s>AQyaH, DyApaH, diDyAsuH, dADyaH</s>;
 <s>DyAtavyam, DyApayitavyam, diDyAsitavyam, dADyAyitavyam</s>;
@@ -26048,7 +26048,7 @@
 <s>Dvanizyan-ntI-tI, Dvanayizyan-DvAnayizyan-ntI-tI, diDvanizizyan-ntI-tI</s>;
 <sup>3</sup> <s>vyatiDvanamAnaH</s>,<sup>4</sup> <s>DvanayamAnaH-DvAnayamAnaH, — danDvanyamAnaH, daMDnvanyamAnaH</s>;
 <s>vyatiDvanizyamARaH, DvAnayizyamARaH, — danDvanizyamARaH-daMDvanizyamARaH</s>;
-<sup>5</sup> <s>suDvAn-suDvAnO-suDvAnaH; — — -</s>- 
+<sup>5</sup> <s>suDvAn-suDvAnO-suDvAnaH; — — -</s>-
 [Page0823+ 25]
 <s>Dvanitam-taH-tavAn</s>,<sup>1</sup> <s>DvAntaH</s>,<sup>A</sup> <s>DvanitaH-DvAnitaH, diDvanizitaH-danDvanitaH-daMDvanitaH-tavAn</s>;
 <s>DvanaH</s>,<sup>2</sup> <s>DvananaH, DvanaH-DvAnaH, diDvanizuH, danDvanaH</s>;
@@ -26150,7 +26150,7 @@
 <s>dfSyate .” iti mA</s>. <s>DA</s>. <s>vfttiH .</s>
 <s>DvArakaH-rikA, DvArakaH-rikA</s>,<sup>3</sup> <s>duDvUrzakaH-rzikA</s>,<sup>4</sup> <s>dADvarakaH-rikA</s>;
 <s>DvartA-DvartrI, DvArayitA-trI, duDvUrzitA-trI, dADvaritA-trI</s>;
-<s>Dvaran-ntI, DvArayan-ntI, duDvUrzan-ntI; -</s>-<sup>5</sup> <s>Dvarizyan-ntI-tI, DvArayizyan-ntI-tI, duDvUrzizyan-ntI-tI; -</s>- 
+<s>Dvaran-ntI, DvArayan-ntI, duDvUrzan-ntI; -</s>-<sup>5</sup> <s>Dvarizyan-ntI-tI, DvArayizyan-ntI-tI, duDvUrzizyan-ntI-tI; -</s>-
 [Page0826+ 26]
 <s>— DvArayamARaH, DvArayizyamARaH, — dADvaryamARaH, dADvarizyamARaH</s>;
 <sup>1</sup> <s>praDvft-praDvfd-praDvftO-praDvftaH; — -</s>-
@@ -26647,7 +26647,7 @@
 <sup>4</sup> <s>praRipatan-ntI, pAtayan-ntI</s>,<sup>5</sup> <s>pipatizan-pitsan-ntI; -</s>-
 <s>utpatizyan-ntI-tI, pAtayizyan, pipatizizyan-pitsizyan-ntI-tI; -</s>-<sup>6</sup> <s>patamAnaH, pAtayamAnaH</s>,<sup>7</sup> <s>pipatizamARaH-prapitsamAnaH, panIpatyamAnaH</s>;
 <s>patizyamARaH, pAtayizyamARaH, pipatizizyamARaH-pitsizyamARaH, panIpatizyamARaH</s>;
-<s>pratipat-supat-supatO-supataH; — — -</s>- 
+<s>pratipat-supat-supatO-supataH; — — -</s>-
 [Page0841+ 31]<sup>1</sup> <s>pattam-pattaH-pattavAn-patitam-taH-tavAn, pAtitaH, pipatizitaH-pitsitaH, panIpatitaH-tavAn</s>;
 <sup>2</sup> <s>pataH</s>-<sup>3</sup> <s>pAtaH</s>-<sup>4</sup> <s>patApataH</s>,<sup>5</sup> <s>ApAtyaH</s>,<sup>A</sup><sup>6</sup> <s>utpatizRuH</s>,<sup>B</sup><sup>7</sup> <s>patayAluH</s>,<sup>8</sup> <s>prapAtukaH</s>,<sup>C</sup><sup>9</sup> <s>patanaH</s>,<sup>D</sup><sup>10</sup> <s>nipetivAn</s>,<sup>E</sup>
 [Page0842+ 30]
@@ -27001,7 +27001,7 @@
 <s>paSitavyam, pASayitavyam, pipaSizitavyam, pampaSitavyam</s>;
 <s>paSanIyam, pASanIyam, pipaSizaRIyam, pampaSanIyam</s>;
 <s>pASyam, pASyam, pipaSizyam, pampaSyam</s>;
-<s>IzatpaSaH-duzpaSaH-supaSaH; — -</s>- 
+<s>IzatpaSaH-duzpaSaH-supaSaH; — -</s>-
 [Page0851+ 26]
 <s>paSyamAnaH, pASyamAnaH, pipaSizyamARaH, pampaSyamAnaH</s>;
 <sup>1</sup> <s>pASaH, pASaH, pipaSizaH, pampaSaH</s>;
@@ -27041,7 +27041,7 @@
 <L>985<pc>0851<k1>paza<k2>paza
 (985) {@<s>“paza gatO”</s>@}¦ (X<s>-curAdiH</s>-1863. <s>saka</s>. <s>sew</s>. <s>uBa</s>. <s>adantaH .</s>)
 <div n="NI"><s>‘pazo'nupasargAt’ (ga</s>. <s>sU</s>. <s>curAdO) ityasya svarUpamarTAdikaM ca pUrvasminneva</s>
-<s>DAtAvuddizwamiti tata eva jYeyam . ‘paSo'nupasargAt’ iti kzIrasvAmi</s>- 
+<s>DAtAvuddizwamiti tata eva jYeyam . ‘paSo'nupasargAt’ iti kzIrasvAmi</s>-
 [Page0852+ 28]
 <s>saMmataH pAWaH . pazakaH-zikA, pipazayizakaH-zikA; ityAdIni sarvARyapi</s>
 <s>rUpARi cOrAdikakalayativat</s> (176) <s>jYeyAni .</s>
@@ -27183,7 +27183,7 @@
 <div n="NI"><s>‘pAne pibati, rakzAyAM pAti, pAyati SozaRe ..’</s> (<s>Slo</s>. 5) <s>iti devaH .</s><sup>6</sup> <s>pAyakaH-yikA</s>,<sup>7</sup> <s>pAlakaH</s>-<sup>8</sup> <s>gopAlakaH-likA, pipAsakaH-sikA</s>,<sup>9</sup> <s>pApAyakaH-yikA</s>;
 <sup>A</sup> <s>pAtA-pAtrI, pAlayitA-trI, pipAsitA-trI, pApAyitA-trI</s>;
 <sup>10</sup> <s>pAn-ntI</s>-<sup>B</sup> <s>tI, pAlayan-ntI, pipAsan-ntI; -</s>-
-<s>pAsyan-ntI-tI, pAlayizyan-ntI-tI, pipAsizyan-ntI-tI; -</s>- 
+<s>pAsyan-ntI-tI, pAlayizyan-ntI-tI, pipAsizyan-ntI-tI; -</s>-
 [Page0857+ 27]<sup>1</sup> <s>vyatipAnaH, pAlayamAnaH</s>,<sup>2</sup> <s>vyatipipAsamAnaH, pApAyamAnaH</s>;
 <s>vyatipAsyamAnaH, pAlayizyamARaH, vyatipipAsizyamARaH, pApAyizyamARaH</s>;
 <sup>3</sup> <s>napAt-napAtO-napAtaH</s>,<sup>A</sup> <s>tanUnapAt, apAnnapAt, aponapAt</s>;
@@ -27552,7 +27552,7 @@
 (1011) {@<s>“puwa BAzArTaH”</s>@}¦ (X<s>-curAdiH</s>-1754. <s>saka</s>. <s>sew</s>. <s>uBa</s>.)
 <s>AsvadIyaH .</s>
 <div n="NI"><s>‘BAzAsaMsargasaMSleze powayet puwayet puwet ..’</s> (<s>Slo</s>. 75) <s>iti devaH .</s>
-<s>powakaH-wikA, pupowayizakaH-zikA, ityAdIni sarvARyapi rUpARi cOrAdika</s>- 
+<s>powakaH-wikA, pupowayizakaH-zikA, ityAdIni sarvARyapi rUpARi cOrAdika</s>-
 [Page0867+ 25]
 <s>kowayativat</s> (205) <s>boDyAni . asya DAtoruBayapaditvAt, Satari powayan</s>-
 <s>ntI, pupowayizan, powayizyan, pupowayizizyan-ntI-tI; iti viSezaH .</s>
@@ -28056,7 +28056,7 @@
 <div n="NI"><s>‘pUrerApyAyane'rTe syAt pUryate pUrayedapi ..’</s> (<s>Slo</s>. 150) <s>iti devaH .</s>
 <s>pUrakaH-rikA, pUrakaH-rikA, pupUrizakaH-zikA, popUrakaH-rikA</s>;
 <s>pUritA-trI, pUrayitA-trI, pupUrizitA-trI, popUritA-trI</s>;
-<s>— pUrayan-ntI, pUrayizyan-ntI-tI; — -</s>- 
+<s>— pUrayan-ntI, pUrayizyan-ntI-tI; — -</s>-
 [Page0882+ 27]
 <s>pUryamARaH</s>,<sup>1</sup> <s>prapUryamARaH, pupUrizamARaH, popUryamARaH</s>;
 <s>pUrizyamARaH, pUrayizyamARaH, pupUrizizyamARaH, popUrizyamARaH</s>;
@@ -28523,7 +28523,7 @@
 <sup>4</sup> <s>pAyan-ntI, pAyayan-ntI, pipAsan-ntI; -</s>-
 <s>pAsyan-ntI-tI, pAyayizyan-ntI-tI, pipAsizyan-ntI-tI; -</s>-<sup>5</sup> <s>vyatipAyamAnaH, pAyayamAnaH, vyatipipAsamAnaH, pApAyamAnaH</s>;
 <s>vyatipAsyamAnaH, pAyayizyamARaH, vyatipipAsizyamARaH, pApAyizyamARaH</s>,
-<s>pAH-pO-paH; — — -</s>- 
+<s>pAH-pO-paH; — — -</s>-
 [Page0896+ 25]<sup>A</sup> <s>pAtam-taH, pAyitaH, pipAsitaH, pApAyitaH-tavAn</s>;
 <sup>1</sup> <s>pAyaH</s>,<sup>2</sup> <s>supaH, pAyaH, pipAsuH, pApaH</s>;
 <s>pAtavyam, pAyayitavyam, pipAsitavyam, pApAyitavyam</s>;
@@ -28629,7 +28629,7 @@
 (1065) {@<s>“pyEN vfdDO”</s>@}¦ (I<s>-BvAdiH</s>-964. <s>aka</s>. <s>ani</s>. <s>Atma</s>.)
 <div n="NI"><s>pyAyakaH-yikA, pyApakaH-pikA, pipyAsakaH-sikA, pApyAyakaH-yikA</s>;
 <s>pyAtA-trI, pyApayitA-trI, pipyAsitA-trI, pApyAyitA-trI</s>;
-<s>— pyApayan-ntI, pyApayizyan-ntI-tI; -</s>- 
+<s>— pyApayan-ntI, pyApayizyan-ntI-tI; -</s>-
 [Page0899+ 25]
 <s>pyAyamAnaH</s>,<sup>1</sup> <s>pyApayamAnaH, pipyAsamAnaH, pApyAyamAnaH</s>;
 <s>pyAsyamAnaH, pyApayizyamARaH, pipyAsizyamARaH, pApyAyizyamARaH</s>;
@@ -28803,7 +28803,7 @@
 <s>ADfzIyaH .</s>
 <div n="NI"><s>‘—yO YittvasAPalyAt prIRayet prayate prayet .’</s> (<s>Slo</s>. 20) <s>iti devaH .</s><sup>3</sup> <s>prIRakaH-RikA</s>,<sup>4</sup> <s>prAyakaH-yikA</s>,<sup>5</sup> <s>piprIRayizakaH-piprAyayizakaH-zikA</s>,<sup>6</sup> <s>prAyakaH-yikA</s>,<sup>7</sup> <s>piprIzakaH-zikA</s>,<sup>8</sup> <s>peprIyakaH-yikA</s>;
 <s>prIRayitA-trI, piprIRayizitA-trI, pretA-trI, piprIzitA-trI, peprIyitA-trI</s>;
-<s>prIRayan-ntI, piprIRayizan-ntI</s>,<sup>9</sup> <s>prayan</s><sup>A</sup> <s>-ntI, piprIzan-ntI; -</s>- 
+<s>prIRayan-ntI, piprIRayizan-ntI</s>,<sup>9</sup> <s>prayan</s><sup>A</sup> <s>-ntI, piprIzan-ntI; -</s>-
 [Page0905+ 25]
 <s>prIRayizyan-piprIRayizizyan-ntI-tI, prezyan-ntI-tI, piprIzizyan-ntI-tI</s>;
 <s>mitraprIH-mitrapriyO-mitrapriyaH; -</s>-
@@ -29111,7 +29111,7 @@
 <s>Palan-ntI, PAlayan-ntI, piPalizan-ntI; -</s>-
 <s>Palizyan-ntI-tI, PAlayizyan-ntI-tI, piPalizizyan-ntI-tI; -</s>-
 <s>— PAlayamAnaH, PAlayizyamARaH, — pamPulyamAnaH, pamPulizyamARaH</s>;
-<sup>4</sup> <s>Pal-PalO-PalaH; — — -</s>-<sup>5</sup> <s>PullaH</s>-<sup>6</sup> <s>PullavAn</s>,<sup>7</sup> <s>praPultam-praPultaH-praPultavAn</s>,<sup>8</sup> <s>Palitam-PalitavAn</s>,<sup>9</sup> <s>utPullaH</s>- 
+<sup>4</sup> <s>Pal-PalO-PalaH; — — -</s>-<sup>5</sup> <s>PullaH</s>-<sup>6</sup> <s>PullavAn</s>,<sup>7</sup> <s>praPultam-praPultaH-praPultavAn</s>,<sup>8</sup> <s>Palitam-PalitavAn</s>,<sup>9</sup> <s>utPullaH</s>-
 [Page0914+ 26]
 <s>utPullavAn, samPullaH-samPullavAn, PAlitaH, piPalizitaH, pamPulitaH-tavAn</s>;
 <s>Palam</s>,<sup>1</sup> <s>PelivAn, PAlaH, piPalizuH, pamPulaH</s>;
@@ -29519,7 +29519,7 @@
 
 <L>1115<pc>0924<k1>bila<k2>bila
 (1115) {@<s>“bila Bedane”</s>@}¦ (VI<s>-tudAdiH</s>-1359. <s>saka</s>. <s>sew</s>. <s>para</s>.)<sup><s>[a]</s></sup>
-<div n="NI"><s>belalaH—likA, belakaH-likA, bibelizakaH-bibilizakaH-zikA, bebilakaH</s>- 
+<div n="NI"><s>belalaH—likA, belakaH-likA, bibelizakaH-bibilizakaH-zikA, bebilakaH</s>-
 [Page0925+ 26]
 <s>likA; ityAdIni sarvARyapi rUpARi tOdAdikakilativat</s> (193) <s>jYeyAni .</s><sup>1</sup> <s>bilam</s>,<sup>2</sup> <s>bilvam</s>,<sup>3</sup> <s>bilmam .</s>
 <F><s>[a] ‘belati iti Sapi, ayaM curAdO ca .’ iti mA</s>. <s>DA</s>. <s>vfttO Atreya</s>-
@@ -30069,7 +30069,7 @@
 
 <L>1143<pc>0940<k1>BaRa<k2>BaRa
 (1143) {@<s>“BaRa Sabde”</s>@}¦ (I<s>-BvAdiH</s>-447. <s>aka</s>. <s>sew</s>. <s>para</s>.)
-<div n="NI"><s>BARakaH-RikA, BARakaH-RikA, biBaRizakaH-zikA, bamBaRakaH-baMBaRakaH</s>- 
+<div n="NI"><s>BARakaH-RikA, BARakaH-RikA, biBaRizakaH-zikA, bamBaRakaH-baMBaRakaH</s>-
 [Page0941+ 30]
 <s>RikA; ityAdIni sarvARyapi rUpARi BOvAdikakaRativat</s> (157) <s>jYeyAni .</s><sup>1</sup> <s>BARaH</s>,<sup>2</sup> <s>BaRitiH</s>,<sup>3</sup> <s>BARqam</s>,<sup>A</sup> <s>BaRan-ntI itImAni rUpARyaDikAnyatreti</s>
 <s>viSezaH .</s>
@@ -30170,7 +30170,7 @@
 <L>1146<pc>0943<k1>Bartsa<k2>Bartsa
 (1146) {@<s>“Bartsa tarjane”</s>@}¦ (X<s>-curAdiH</s>-1683. <s>saka</s>. <s>sew</s>. <s>Atma</s>.)
 <s>AkusmIyaH .</s>
-<div n="NI"><s>BartsakaH-rtsikA, biBartsayizakaH-zikA; ityAdIni sarvARyapi rUpARi cOrAdi</s>- 
+<div n="NI"><s>BartsakaH-rtsikA, biBartsayizakaH-zikA; ityAdIni sarvARyapi rUpARi cOrAdi</s>-
 [Page0944+ 27]
 <s>kakutsayativat</s> (217) <s>jYeyAni . Ryati</s>-<sup>A</sup> <s>praBartsyaH iti .</s><sup>1</sup> <s>BartsayamAnaH .</s>
 <F>A. <s>‘praspASya muzwimaBitarjayate praBartsyo</s>
@@ -30521,7 +30521,7 @@
 (1161) {@<s>“Yi BI Baye”</s>@}¦ (III<s>-juhotyAdiH</s>-1084. <s>aka</s>. <s>ani</s>. <s>para</s>.)
 <div n="NI"><s>BAyakaH-yikA</s>,<sup>6</sup> <s>BApakaH</s>-<sup>7</sup> <s>BIzakaH-zikA</s>,<sup>8</sup> <s>BAyakaH-yikA</s>,<sup>9</sup> <s>biBIzakaH-zikA, beBIyakaH-yikA</s>;
 <s>BetA-BetrI</s>,<sup>A</sup> <s>BApayitA-BIzayitA-BAyayitA-trI, biBIzitA-trI, beBIyitA-trI</s>;
-<sup>10</sup> (<s>corAt) biByat-biByatO-biByataH, [kuYjikayA enaM]</s><sup>11</sup> <s>BAyayan-ntI, biBIzan-ntI; -</s>- 
+<sup>10</sup> (<s>corAt) biByat-biByatO-biByataH, [kuYjikayA enaM]</s><sup>11</sup> <s>BAyayan-ntI, biBIzan-ntI; -</s>-
 [Page0955+ 24]
 <s>Bezyan-ntI-tI, BAyayizyan-ntI-tI, biBIzizyan-ntI-tI; -</s>-
 <s>— (jawilo</s>)<sup>1</sup> <s>BApayamAnaH, (muRqo</s>)<sup>A</sup> <s>BIzayamARaH, — beBIyamAnaH</s>;
@@ -30533,7 +30533,7 @@
 <sup>6</sup> <s>praniBayanIyam-praRiBayanIyam, BApanIyam-BIzaRIyam-BAyanIyam, biBIzaRIyam, beBIyanIyam</s>;
 <s>Beyam, BApyam-BIzyam-BAyyam, biBIzyam, beBIyyam</s>;
 <s>BAyamAnaH, BApyamAnaH-BIzyamARaH-BAyyamAnaH, biBIzyamARaH, beBIyyamAnaH</s>;
-<s>IzadBayaH-durBayaH-suBayaH; — — -</s>- 
+<s>IzadBayaH-durBayaH-suBayaH; — — -</s>-
 [Page0956+ 23]<sup>1</sup> <s>Bayam-vfkaBayam, BApaH-BIzaH-BAyaH, biBIzaH, beBIyaH</s>;
 <s>Betum, BApayitum-BIzayitum-BAyayitum, biBIzitum, beBIyitum</s>;
 <s>BItiH, vfkaBItiH</s>,<sup>2</sup> <s>BIH, BApanA-BIzaRA-BAyanA</s>,<sup>3</sup> <s>BIzA</s>-<sup>A</sup> <s>jAtaBIzA, biBIzA, beBIyA</s>;
@@ -31000,7 +31000,7 @@
 <s>Fdantasya BfRAtIti Bartsane Sni taTA BaraH ..’</s> (<s>Slo</s>. 28) <s>iti devaH .</s>
 <s>BArakaH-rikA, BArakaH-rikA</s>,<sup>5</sup> <s>biBarizakaH-buBUrzakaH-zikA</s>,<sup>6</sup> <s>beBrIyakaH-yikA</s>;
 <s>BartA-rtrI, BArayitA-trI, biBarizitA-buBUrzitA-trI, beBrIyitA-trI</s>;
-<s>Baran-ntI, BArayan-ntI, biBarizan-buBUrzan-ntI; -</s>- 
+<s>Baran-ntI, BArayan-ntI, biBarizan-buBUrzan-ntI; -</s>-
 [Page0970+ 29]<sup>1</sup> <s>Barizyan-ntI-tI, BArayizyan-ntI-tI, biBarizizyan-buBUrzizyan-ntI-tI; -</s>-
 <s>BaramARaH, BArayamARaH, biBarizamARaH-buBUrzamARaH, beBrIyamARaH</s>;
 <s>BarizyamARaH, BArayizyamARaH, biBarizizyamARaH-buBUrzizyamARaH, beBrIyizyamARaH</s>;
@@ -31382,7 +31382,7 @@
 <s>BarkzyamARaH-BrakzyamARaH, BarjayizyamARaH-BrajjayizyamARaH, biBarjizizyamARaH</s>-
 <s>biBarkzizyamARaH-biBrajjizizyamARaH-biBrakzizyamARaH, barIBfjjizyamARaH</s>;
 <s>DAnABfw</s><sup>3</sup> <s>praBfw-praBfq-praBfjjO-praBfjjaH; — -</s>-<sup>4</sup> <s>Bfzwam</s><sup>A</sup> <s>-BfzwavAn, BarjitaH-BrajjitaH, biBarjizitaH-biBarkzitaH-biBrajjizitaH</s>-
-<s>biBrakzitaH, barIBfjjitaH-tavAn; — -</s>- 
+<s>biBrakzitaH, barIBfjjitaH-tavAn; — -</s>-
 [Page0982+ 30]
 <s>BarjaH-BrajjaH, BarjaH-BrajjaH, biBarjizuH-biBarkzuH-biBrajjizuH</s>-<sup>A</sup> <s>biBrakzuH</s>,<sup>1</sup> <s>bABrajjaH</s>;
 <s>Barzwavyam-Brazwavyam, Barjayitavyam-Brajjayitavyam, biBarjizitavyam-biBarkzitavyam</s>-
@@ -32535,7 +32535,7 @@
 <s>mAtavyam, mApayitavyam, mitsitavyam, memIyitavyam</s>;
 <sup>7</sup> <s>pranimAnIyam-praRimAnIyam, mApanIyam, mitsanIyam, memIyanIyam</s>;
 <sup>8</sup> <s>meyam</s>,<sup>9</sup> <s>pAyyam, mApyam, mitsyam, memIyyam</s>;
-<s>IzanmAnaH-durmAnaH-sumAnaH; — -</s>- 
+<s>IzanmAnaH-durmAnaH-sumAnaH; — -</s>-
 [Page1015+ 25]<sup>1</sup> <s>mIyamAnaH, mApyamAnaH, mitsyamAnaH, memIyyamAnaH</s>;
 <s>mAyaH</s>,<sup>2</sup> <s>AmaH, mApaH, mitsaH, memIyaH</s>;
 <s>mAtum, mApayitum, mitsitum, memIyitum</s>;
@@ -32738,7 +32738,7 @@
 (1250) {@<s>“mAhf mAne”</s>@}¦ (I<s>-BvAdiH</s>-895. <s>saka</s>. <s>sew</s>. <s>uBa</s>.)
 <s>‘mAnam = vartanam .’ iti kzIrasvAmI .</s>
 <div n="NI"><s>mAhakaH-hikA, mAhakaH-hikA, mimAhizakaH-zikA, mAmAhakaH-hikA</s>;
-<s>mAhitA-trI, mAhayitA-trI, mimAhizitA-trI, mAmAhitA-trI; ityAdi</s>- 
+<s>mAhitA-trI, mAhayitA-trI, mimAhizitA-trI, mAmAhitA-trI; ityAdi</s>-
 [Page1020+ 24]
 <s>kAni sarvARyapi rUpARi BOvAdikakASativat</s> (186) <s>jYeyAni . kvipi</s>
 <s>pramAw-pramAq-pramAhO-pramAhaH iti rUpamiti viSezaH . asyoBayapaditvAt</s>
@@ -33042,7 +33042,7 @@
 
 <L>1266<pc>1028<k1>miha<k2>miha
 (1266) {@<s>“miha secane”</s>@}¦ (I<s>-BvAdiH</s>-992. <s>saka</s>. <s>ani</s>. <s>para</s>.)
-<div n="NI"><s>mehakaH-hikA, mehakaH-hikA, mimikzakaH-kzikA, memihakaH-hikA; meQA</s>- 
+<div n="NI"><s>mehakaH-hikA, mehakaH-hikA, mimikzakaH-kzikA, memihakaH-hikA; meQA</s>-
 [Page1029+ 28]
 <s>meQrI, mehayitA-trI, mimikzitA-trI, memihitA-trI; ityAdIni sarvARyapi</s>
 <s>rUpARi prAtisvikarUpARi vinA AdAdikadegDivat</s> (842) <s>jYeyAni .</s><sup>1</sup> <s>meGaH</s>,<sup>2</sup> <s>meQram</s>,<sup>3</sup> <s>mIQvAn</s>,<sup>4</sup> <s>mehaH</s>,<sup>5</sup> <s>mihiraH imAni rUpARi asya DAtoH</s>
@@ -33204,7 +33204,7 @@
 <s>pramocane curAderRO mocayatyeza na tvxdit ..’</s> (<s>Slo</s>. 47) <s>iti devaH .</s>
 <s>mocakaH-cikA, mocakaH-cikA</s>,<sup>1</sup> <s>mumukzakaH-mokzakaH-kzikA, momucakaH-cikA</s>;
 <s>moktA-moktrI, mocayitA-trI, mumukzitA-mokzitA-trI, momucitA-trI</s>;
-<sup>2</sup> <s>muYcan-ntI, mocayan-ntI, mumukzan-mokzan-ntI; -</s>- 
+<sup>2</sup> <s>muYcan-ntI, mocayan-ntI, mumukzan-mokzan-ntI; -</s>-
 [Page1034+ 31]
 <s>mokzyan-ntI-tI, mocayizyan-ntI-tI, mumukzizyan-mokzizyan-ntI-tI; -</s>-
 <s>muYcamAnaH, mocayamAnaH, mumukzamARaH-mokzamARaH, momucyamAnaH</s>;
@@ -33217,7 +33217,7 @@
 <s>moktavyam, mocayitavyam, mumukzitavyam-mokzitavyam, momucitavyam</s>;
 <s>mocanIyam, mocanIyam, mumukzaRIyam-mokzaRIyam, momucanIyam</s>;
 <sup>7</sup> <s>mokyam-mocyam, mocyam, mumukzyam-mokzyam, momucyam</s>;
-<s>IzanmocaH-durmocaH-sumocaH; — — -</s>- 
+<s>IzanmocaH-durmocaH-sumocaH; — — -</s>-
 [Page1035+ 29]
 <s>mucyamAnaH, mocyamAnaH, mumukzyamARaH-mokzyamARaH, momucyamAnaH</s>;
 <s>mokaH-nirmokaH, mocaH, mumukzaH-mokzaH, momucaH</s>;
@@ -33628,7 +33628,7 @@
 <s>‘anvezaRe'rTe mfgayeta RO yo mArgerBavenmArgati mArgayecca ..’</s>
 (<s>Slo</s>. 44) <s>iti devaH .</s>
 <div n="NI"><s>mfgakaH-gikA, mimfgayizakaH-zikA; mfgayitA-trI, mimfgayizitA-trI</s>;
-<s>ityAdIni sarvARyapi rUpARi cOrAdikakfpayativat</s> (251) <s>jYeyAni . asyA</s>- 
+<s>ityAdIni sarvARyapi rUpARi cOrAdikakfpayativat</s> (251) <s>jYeyAni . asyA</s>-
 [Page1046+ 32]
 <s>garvIyatvena ‘AgarvAdAtmanepadinaH’ (ga</s>. <s>sU</s>. <s>curAdiH) ityAtmanepadameveti</s>
 <s>viSezaH .</s><sup>1</sup> <s>mfgayA .</s>
@@ -33698,7 +33698,7 @@
 <s>mArjizyan</s>-<sup>4</sup> <s>mArkzyan-ntI-tI, mArjayizyan-ntI-tI, mimArjizizyan-mimfkzizyan-ntI-tI; -</s>-<sup>5</sup> <s>vyatimArjAnaH, vyatimfjAnaH, mArjayamAnaH, vyatimimArjizamARaH-vyatimi</s>-
 <s>mfkzamARaH, marImfjyamAnaH</s>-<sup>6</sup> <s>marmfjyamAnAsaH vyatimArjizyamARaH-vyatimArkzya</s>-
 <s>mARaH, mArjayizyamARaH, vyatimimArjizizyamARaH-vyatimimfkzizyamARaH, marImfjizyamARaH</s>;
-<sup>7</sup> <s>kaMsaparimfw-kaMsaparimfq-kaMsaparimfjO-kaMsaparimfjaH; -</s>- 
+<sup>7</sup> <s>kaMsaparimfw-kaMsaparimfq-kaMsaparimfjO-kaMsaparimfjaH; -</s>-
 [Page1049+ 27]<sup>1</sup> <s>mfzwam-mfzwaH-mfzwavAn, mArjitaH, mimArjizitaH-mimfkzitaH, marImfjitaH-tavAn</s>;
 <s>parimArjaH</s>,<sup>2</sup> <s>tundaparimfjaH</s><sup>A</sup> <s>-tundaparimArjaH</s>,<sup>3</sup> <s>parimArkzRuH</s>,<sup>4</sup> <s>mArjanaH, mArjaH, mimArjizuH-mimfkzuH, marI[mArjaH]mfjaH</s>;
 <s>mArjitavyam-mArzwavyam, mArjayitavyam, mimArjizitavyam-mimfkzitavyam, marImfjitavyam</s>;
@@ -33861,7 +33861,7 @@
 <s>‘kzodanam = saYcUrRanam’ iti DA</s>. <s>kA</s>. (3-10) <s>.</s>
 <div n="NI"><s>mardakaH-rdikA, mardakaH-rdikA, mimardizakaH-zikA, marImfdakaH-dikA</s>;
 <s>marditA-trI, mardayitA-trI, mimardizitA-trI, marImfditA-trI</s>;
-<s>ityAdIni sarvARyapi rUpARi tOdAdikatfpativat</s> (772) <s>jYeyAni . kvipi</s>- 
+<s>ityAdIni sarvARyapi rUpARi tOdAdikatfpativat</s> (772) <s>jYeyAni . kvipi</s>-
 [Page1053+ 29]
 <s>mft-mfd-mfdO-mfdaH</s>,<sup>1</sup> <s>mfttikA, mftsA-mftsnA</s>,<sup>2</sup> <s>muramardanaH, mardanam</s>,<sup>3</sup> <s>mfdyaH</s>,<sup>4</sup> <s>mahizAsuramardanI</s>,<sup>5</sup> <s>mfditvA</s>,<sup>6</sup> <s>mfdaNgaH, ityAdIni rUpARi asya DAtoH viSezeRa</s>
 <s>Bavanti .</s>
@@ -34244,7 +34244,7 @@
 <s>‘harzakzayaH = DAtukzayaH .’ iti mADavaH .</s>
 <div n="NI"><s>mlAyakaH-yikA, mlApakaH-pikA, mimlAsakaH-sikA, mAmlAyakaH-yikA</s>;
 <s>mlAtA-trI, mlApayitA-trI, mimlAsitA-trI, mAmlAyitA-trI; ityAdIni</s>
-<s>sarvARyapi rUpARi BOvAdikaglAyativat</s> (452) <s>jYeyAni . asya mitsaMjYA</s>- 
+<s>sarvARyapi rUpARi BOvAdikaglAyativat</s> (452) <s>jYeyAni . asya mitsaMjYA</s>-
 [Page1064+ 27]
 <s>viDAnABAvAt mitsaMjYAkAryaM neti viSezaH . tena Ryante mlAyakaH-yikA</s>,
 <s>ityAdikAni ekaviDAnyeva rUpARi .</s><sup>1</sup> <s>mlAniH .</s>
@@ -35314,7 +35314,7 @@
 <s>raNkzyan-ntI-tI, raYjayizyan-rajayizyan-ntI-tI, riraNkzizyan-ntI-tI; -</s>-
 <s>rajamAnaH, raYjayamAnaH-rajayamAnaH, riraNkzamARaH, rArajyamAnaH</s>;
 <s>raNkzyamARaH, raYjayizyamARaH-rajayizyamARaH, riraNkzizyamARaH, rArajizyamARaH</s>;
-<sup>6</sup> <s>anurak-anurag-anurajO-anurajaH; — — -</s>- 
+<sup>6</sup> <s>anurak-anurag-anurajO-anurajaH; — — -</s>-
 [Page1097+ 33]
 <s>raktam-raktaH-raktavAn</s>,<sup>1</sup> <s>viraktaH-raktam, raYjitaH-rajitaH</s><sup>A</sup>, <s>riraNkzitaH, rArajitaH-tavAn</s>;
 <s>raYjaH</s>,<sup>2</sup> <s>rAgI</s>,<sup>3</sup> <s>raYjanaH</s>,<sup>4</sup> <s>mano'nuraYjanaH</s>,<sup>5</sup> <s>rajakaH-rajakI</s>,<sup>6</sup> <s>rajyan-ntI-tI</s>, 
@@ -35700,7 +35700,7 @@
 
 <L>1383<pc>1107<k1>raSa<k2>raSa
 (1383) {@<s>“raSa (samUhakiraRaSabdezu?)”</s>@}¦ (I<s>-BvAdiH</s>. <s>aka</s>. <s>sew</s>. <s>para</s>.)
-<div n="NI"><s>“raSirasmA aviSezeRopadizwaH, saH rASiH, raSmiH, raSanA ityevaM</s>- 
+<div n="NI"><s>“raSirasmA aviSezeRopadizwaH, saH rASiH, raSmiH, raSanA ityevaM</s>-
 [Page1108+ 27]
 <s>vizayaH . …” iti ‘tfjvat krozwuH’</s> (7-1-95) <s>ityatra BAzyAt</s>
 <s>“raSiluSI apaWitAvapi BAzyakAravacanAd DAtU bodDavyO .” iti pradIpa</s>-
@@ -37175,7 +37175,7 @@
 <s>— lAjayan-ntI, lAjayizyan-ntI-tI; — -</s>-
 <s>lajamAnaH, lAjayamAnaH, lilajizamARaH, lAlajyamAnaH</s>;
 <s>lajizyamARaH, lAjayizyamARaH, lilajizizyamARaH, lAlajizyamARaH</s>;
-<s>lak-lajO-lajaH; — — -</s>- 
+<s>lak-lajO-lajaH; — — -</s>-
 [Page1150+ 25]<sup>1</sup> <s>lagnam-lagnaH-lagnavAn, lAjitaH, lilajizitaH, lAlajitaH-tavAn</s>;
 <s>lajaH, lAjaH, lilajizuH, lAlajaH</s>;
 <s>lajitavyam, lAjayitavyam, lilajizitavyam, lAlajitavyam</s>;
@@ -37306,7 +37306,7 @@
 <div n="NI"><s>‘preraRe lABayet lABeH, prAptyarTe laBate Sapi .’</s> (<s>Slo</s>. 146) <s>iti devaH .</s><sup>3</sup> <s>lamBakaH-mBikA, lamBakaH-mBikA</s>,<sup>4</sup> <s>lipsakaH-psikA, lAlaBakaH-BikA</s>;
 <s>labDA-bDrI, lamBayitA-trI, lipsitA-trI, lAlaBitA-trI</s>;
 <s>ityAdIni rUpARi sarvARi prAtisvikarUpARi vinA BOvAdikaraBativat</s> (1378)
-<s>boDyAni .</s><sup>5</sup> <s>labDrimam</s><sup>A</sup> <s>.</s><sup>6</sup> <s>AlamByA gOH .</s><sup>7</sup> <s>upalamByA vidyA . upalaBya</s>- 
+<s>boDyAni .</s><sup>5</sup> <s>labDrimam</s><sup>A</sup> <s>.</s><sup>6</sup> <s>AlamByA gOH .</s><sup>7</sup> <s>upalamByA vidyA . upalaBya</s>-
 [Page1154+ 31]
 <s>masmAnnIcAt .</s><sup>1</sup> <s>IzatpralamBaH-duzpralamBaH-supralamBaH . IzallaBaH .</s><sup>2</sup> <s>sulaBam</s>-
 <s>durlaBam . sulABo durlABaH . supralamBaH .</s><sup>3</sup> <s>lABam-lABam-lamBam-lamBam .</s>
@@ -38232,7 +38232,7 @@
 (1525) {@<s>“lola calane”</s>@}¦ (I<s>-BvAdiH- …aka</s>. <s>sew</s>. <s>para</s>.)
 <div n="NI"><s>lolakaH-likA, lolakaH-likA, lulolizakaH-zikA, lololakaH-likA</s>;
 <s>lolitA-trI, lolayitA-trI, lulolizitA-trI, lololitA-trI</s>;
-<s>lolan</s><sup>C</sup> <s>-ntI, lolayan-ntI, lulolizan-ntI; -</s>- 
+<s>lolan</s><sup>C</sup> <s>-ntI, lolayan-ntI, lulolizan-ntI; -</s>-
 [Page1181+ 27]
 <s>lolizyan-ntI-tI, lolayizyan-ntI-tI, lulolizizyan-ntI-tI; -</s>-<sup>1</sup> <s>lolamAnaH</s>,<sup>A</sup> <s>lolayamAnaH, lulolizamARaH; -</s>-
 <s>ityAdIni rUpARi sarvARi BOvAdikaKorativat</s> (363) <s>jYeyAni .</s>
@@ -38540,14 +38540,14 @@
 <s>vAdakaH-dikA, vAdakaH-parivAdakaH-dikA, vivadizakaH-zikA, vAvadakaH-dikA</s>;
 <s>vaditA-trI, vAdayitA-trI, vivadizitA-trI, vAvaditA-trI</s>;
 <s>vadan-ntI</s>,<sup>A</sup><sup>B</sup> <s>vAdayan-ntI, vivadizan-ntI; -</s>-
-<s>vadizyan-ntI-tI, vAdayizyan-ntI-tI, vivadizizyan-ntI-tI; -</s>- 
+<s>vadizyan-ntI-tI, vAdayizyan-ntI-tI, vivadizizyan-ntI-tI; -</s>-
 [Page1190+ 28]
 <s>SAstre</s><sup>1</sup> <s>vadamAnaH</s>,<sup>A</sup> <s>karmakarAn upavadamAnaH</s>,<sup>2</sup> <s>nyAyam apavadamAnaH, kzetre vivada</s>-
 <s>mAnaH</s>,<sup>3</sup> <s>vipravadantaH-vipravadamAnA vA mOhUrtikAH vEdyAH vA, kulaBAryAmupavadamAnaH</s>,<sup>4</sup> <s>anuvadamAnaH kaWaH kAlApasya</s>,<sup>5</sup> <s>sampravadamAnaH, gehe vivadamAnaH, vAdayamAnaH</s>,<sup>6</sup> <s>aBivAdayamAno guruM devadattaM devadattena vA</s>,<sup>7</sup> <s>vAdayamAno vIRAm, vipravivadizamARaH</s>,
 <s>vAvadyamAnaH</s>;
 <s>SAstre vadizyamARaH, vAdayizyamARaH, vivadizizyamARaH, vAvadizyamARaH</s>;
 <sup>8</sup> <s>uditam</s>-<sup>B</sup> <s>taH-tavAn, vAditaH, vivadizitaH, vAvaditaH-tavAn</s>;
-<s>maDurod-maDurodO-maDurodaH; — — -</s>- 
+<s>maDurod-maDurodO-maDurodaH; — — -</s>-
 [Page1191+ 29]
 <s>vadaH</s>,<sup>1</sup> <s>avAdI</s>,<sup>2</sup> <s>vadAvadaH</s>,<sup>3</sup> <s>vAvadUkaH, pravAvadUkaH</s>,<sup>4</sup> <s>kadvadaH</s><sup>A</sup>,<sup>5</sup> <s>sADuvAdI</s>,<sup>6</sup> <s>parivAdinI</s>,<sup>7</sup> <s>priyaMvadaH-priyaMvadA</s><sup>B</sup>, <s>vaSaMvadaH</s><sup>C</sup>,<sup>8</sup> <s>pravAdI</s>,<sup>9</sup> <s>brahmavAdI</s>,<sup>10</sup> <s>pari</s>-
 <s>vAdakaH, vAdaH, vivadizuH, vAvadaH</s>;
@@ -38959,7 +38959,7 @@
 (1559) {@<s>“vaya gatO”</s>@}¦ (I<s>-BvAdiH</s>-475. <s>saka</s>. <s>sew</s>. <s>Atma</s>.)
 <div n="NI"><s>vAyakaH-yikA, vAyakaH-yikA, vivayizakaH-zikA, vAvayakaH-yikA</s>;
 <s>vayitA-trI, vAyayitA-trI, vivayizitA-trI, vAvayitA-trI</s>;
-<s>ityAdIni rUpARi sarvARyapi BOvAdikacayativat</s> (502) <s>boDyAni . SAnaci</s>- 
+<s>ityAdIni rUpARi sarvARyapi BOvAdikacayativat</s> (502) <s>boDyAni . SAnaci</s>-
 [Page1203+ 29]
 <s>vayamAnaH</s>,<sup>1</sup> <s>vayanaH</s>,<sup>2</sup> <s>vayawaH</s>,<sup>3</sup> <s>vAyasaH</s>,<sup>4</sup> <s>vayaH, imAni rUpARyaDikAnyatreti</s>
 <s>viSezaH . vayI = strI, vAyiH = sagotraH, vAyaH = vyarTaH, vAyam = muKam .</s>
@@ -40185,7 +40185,7 @@
 3-2-4) <s>. praveSanam-antargamanam .</s>
 <s>veSakaH-SikA, veSakaH-SikA</s>,<sup>2</sup> <s>vivikzakaH-kzikA, veviSakaH-SikA</s>;
 <sup>3</sup> <s>vezwA-zwrI, veSayitA-trI, vivikzitA-trI, veviSitA-trI</s>;
-<s>praviSan-tI-ntI, veSayan-ntI, vivikzan</s><sup>B</sup> <s>-ntI;-</s>-<sup>C</sup> <s>pravekzyan-ntI-tI, veSayizyan-ntI-tI, vivikzizyan-ntI-tI; -</s>- 
+<s>praviSan-tI-ntI, veSayan-ntI, vivikzan</s><sup>B</sup> <s>-ntI;-</s>-<sup>C</sup> <s>pravekzyan-ntI-tI, veSayizyan-ntI-tI, vivikzizyan-ntI-tI; -</s>-
 [Page1240+ 28]<sup>1</sup> <s>niviSamAnaH-vyativiSamAnaH, veSayamAnaH, vivikzamARaH, veviSamAnaH</s>;
 <s>vyativekzyamARaH, veSayizyamARaH, vivikzizyamARaH, veviSyamAnaH</s>,<sup>2</sup> <s>viw-viq</s>-
 <s>viSO-viSaH</s>;
@@ -40528,7 +40528,7 @@
 <s>‘vfRakti varjane vfNkte yO varjayati varjati .’</s> (<s>Slo</s>. 59) <s>iti devaH .</s>
 <s>varjakaH-rjikA, varjakaH-rjikA, vivarjizakaH-zikA</s>,<sup>5</sup> <s>varIvfjakaH-jikA</s>;
 <s>varjitA-trI, varjayitA-trI, vivarjizitA-trI, varIvfjitA-trI</s>;
-<s>— varjayan-ntI, varjayizyan-ntI-tI; — -</s>- 
+<s>— varjayan-ntI, varjayizyan-ntI-tI; — -</s>-
 [Page1250+ 28]
 <s>varjamAnaH, varjayamAnaH, vivarjizamARaH, varIvfjyamAnaH</s>;
 <s>varjizyamARaH, varjayizyamARaH, vivarjizizyamARaH, varIvfjizyamARaH</s>;
@@ -40707,7 +40707,7 @@
 (1629) {@<s>“vftu vartane”</s>@}¦ (I<s>-BvAdiH</s>-758. <s>aka</s>. <s>sew</s>. <s>Atma</s>.) <s>vftAdiH .</s>
 <s>‘vartayed BAzaRArTe RO vartane Sapi vartate ..’</s> (<s>Slo</s>. 96) <s>iti devaH .</s>
 <s>vartanaM = sTitiH iti kzIrasvAmI .</s>
-<div n="NI"><sup>1</sup> <s>vartakaH-rtikA</s>,<sup>2</sup> <s>vartakaH-rtikA, vivftsakaH</s>-<sup>3</sup> <s>vivartizakaH-zikA</s>,<sup>4</sup> <s>varIvftakaH</s>- 
+<div n="NI"><sup>1</sup> <s>vartakaH-rtikA</s>,<sup>2</sup> <s>vartakaH-rtikA, vivftsakaH</s>-<sup>3</sup> <s>vivartizakaH-zikA</s>,<sup>4</sup> <s>varIvftakaH</s>-
 [Page1256+ 31]
 <s>tikA; vartitA-trI, vartayitA-trI, vivartizitA-trI, vivftsitA-trI, varIvftitA-trI</s>;
 <s>ityAdikAni rUpARi sarvARyapi dEvAdikatfpyativat</s> (770) <s>UhyAni .</s><sup>1</sup> <s>vfttam</s>-<sup>A</sup> <s>ttaH</s>,
@@ -42990,7 +42990,7 @@
 (1760) {@<s>“SyEN gatO”</s>@}¦ (I<s>-BvAdiH</s>-963. <s>saka</s>. <s>ani</s>. <s>Atma</s>.)
 <div n="NI"><s>SyAyakaH-yikA, SyApakaH-pikA, SiSyAsakaH-sikA, SASyAyakaH-yikA</s>;
 <s>SyAtA-trI, SyApayitA-trI, SiSyAsitA-trI, SASyAyitA-trI; ityAdikAni</s>
-<s>rUpARi sarvARi vfdDyarTakaBOvAdika ‘pyEN’ DAtuvat</s> (1065) <s>jYeyAni .</s><sup>1</sup> <s>pratiSyAyaH</s>- 
+<s>rUpARi sarvARi vfdDyarTakaBOvAdika ‘pyEN’ DAtuvat</s> (1065) <s>jYeyAni .</s><sup>1</sup> <s>pratiSyAyaH</s>-
 [Page1320+ 30]
 <s>avaSyAyaH, SIto vAyuH</s>,<sup>1</sup> <s>SInaM Gftam</s>,<sup>2</sup> <s>SyAnam-naH</s>,<sup>3</sup> <s>pratiSInaH</s>,<sup>4</sup> <s>aBiSInaH</s>,
 <s>aBiSyAnaH, avaSInaH, avaSyAnaH, aBisaMSInaH, avasaMSInaH</s>,<sup>5</sup> <s>SyAmaH-SyAmA</s>,
@@ -43460,7 +43460,7 @@
 (I<s>-BvAdiH</s>-1010. <s>saka</s>. <s>aka</s>. <s>sew</s>. <s>para</s>.) <s>yajAdiH .</s>
 <div n="NI"><s>SvAyakaH-yikA, SvAyakaH-yikA, SiSvayizakaH-zikA</s>,<sup>5</sup> <s>SeSvIyakaH-SoSUyakaH-yikA</s>;
 <s>SvayitA-trI, SvAyayitA-trI, SiSvayizitA-trI, SeSvIyitA-SoSUyitA-trI</s>;
-<s>ityAdIni sarvARyapi rUpARi BOvAdikakiDAtuvat</s> (189) <s>boDyAni .</s><sup>6</sup> <s>SUnaH</s>- 
+<s>ityAdIni sarvARyapi rUpARi BOvAdikakiDAtuvat</s> (189) <s>boDyAni .</s><sup>6</sup> <s>SUnaH</s>-
 [Page1332+ 30]
 <s>ucCUnaH-SUnavAn</s>,<sup>1</sup> <s>udaSvit</s>,<sup>2</sup> <s>SvayaTuH</s>,<sup>3</sup> <s>SvA-mAtariSvA</s>,<sup>4</sup> <s>SavaH</s>,<sup>5</sup> <s>SvayIciH</s>,
 <s>ityAdIni viSezarUpARi .</s><sup>A</sup> <s>SeSvIyamAnaH .</s>
@@ -43676,7 +43676,7 @@
 
 <L>1816<pc>1337<k1>zanja<k2>zanja
 (1817) {@<s>“zanja saNge”</s>@}¦ (I<s>-BvAdiH</s>-987. <s>saka</s>. <s>ani</s>. <s>para</s>.)
-<div n="NI"><sup>2</sup> <s>sajan-aBizajan-ntI</s>,<sup>3</sup> <s>aNgulizaNgA yavAgUH</s>,<sup>4</sup> <s>prAsaNgaH-utsaNgaH-nizaNgaH</s>,<sup>5</sup> <s>aBizizaNkzuH</s>,<sup>6</sup> <s>saktaH-saktavAn</s>,<sup>7</sup> <s>saktvA-saNktvA</s>,<sup>8</sup> <s>sakTi, iti viSeza</s>- 
+<div n="NI"><sup>2</sup> <s>sajan-aBizajan-ntI</s>,<sup>3</sup> <s>aNgulizaNgA yavAgUH</s>,<sup>4</sup> <s>prAsaNgaH-utsaNgaH-nizaNgaH</s>,<sup>5</sup> <s>aBizizaNkzuH</s>,<sup>6</sup> <s>saktaH-saktavAn</s>,<sup>7</sup> <s>saktvA-saNktvA</s>,<sup>8</sup> <s>sakTi, iti viSeza</s>-
 [Page1338+ 26]
 <s>rUpARi . itarARi sarvARyapi rUpARi katTativat</s> (160) <s>boDyAni .</s>
 <F>2. <s>Satari, ‘daMSasaYjasvaYjAM Sapi’</s> (6-4-25) <s>iti anunAsikalopaH . DAturayamupa</s>-
@@ -44148,7 +44148,7 @@
 
 <L>1854<pc>1349<k1>zevf<k2>zevf
 (1855) {@<s>“zevf sevane”</s>@}¦ (I<s>-BvAdiH</s>-501. <s>saka</s>. <s>sew</s>. <s>Atma</s>.)
-<div n="NI"><s>‘— secane’ iti kecit . ‘</s><sup>5</sup> <s>sevf—’ iti pare .</s><sup>6</sup> <s>sevA</s>,<sup>7</sup> <s>sayUH</s>,<sup>8</sup> <s>anila</s>- 
+<div n="NI"><s>‘— secane’ iti kecit . ‘</s><sup>5</sup> <s>sevf—’ iti pare .</s><sup>6</sup> <s>sevA</s>,<sup>7</sup> <s>sayUH</s>,<sup>8</sup> <s>anila</s>-
 [Page1350+ 28]
 <s>sevanam</s>,<sup>1</sup> <s>sevizRuH</s>,<sup>2</sup> <s>parizevamARaH-nizevamARaH-vizevamARaH</s>,<sup>3</sup> <s>sevakA iti</s>
 <s>viSezarUpARi . sAmAnyarUpARi gepativat</s> (429) <s>UhyAni .</s>
@@ -44440,7 +44440,7 @@
 <sup>7</sup> <s>saMsTAsyamAnaH-avasTAsyamAnaH</s>-<sup>A</sup> <s>prasTAsyamAnaH-vizWAsyamAnaH, sTApayizyamARaH</s>,
 <s>santizWAsizyamARaH, tezWIyizyamARaH, [ityAdIni]</s>;
 <sup>8</sup> <s>saMsTAH-saMsTO-saMsTAH</s>,<sup>9</sup> <s>savyezWAH; — -</s>-<sup>10</sup> <s>upasTitaH</s>-<sup>B</sup> <s>sTitam-sTitavAn</s>,<sup>C</sup> <s>samutTitavatI, sTApitaH, tizWAsitaH</s>,
-<s>tezWIyitaH-tavAn; — — -</s>- 
+<s>tezWIyitaH-tavAn; — — -</s>-
 [Page1359+ 33]<sup>1</sup> <s>sTAyI</s>,<sup>2</sup> <s>duHsTaH</s>,<sup>A</sup> <s>kakutsTaH</s>,<sup>3</sup> <s>tapassTaH</s><sup>B</sup> , <s>prasTaH</s>-<sup>4</sup> <s>prazWaH</s>,<sup>C</sup><sup>5</sup> <s>samasTaH</s>-
 <s>vizamasTaH</s>,<sup>6</sup> <s>ambazWaH-AmbazWaH</s>-<sup>7</sup> <s>gozWaH</s>-<sup>D</sup> <s>BUmizWaH</s>-<sup>8</sup> <s>savyezWaH</s>-<sup>9</sup> <s>apazWaH-dvizWaH-trizWaH</s>-
 <s>kuSozWaH-kuzWaH-SaNkuzWaH-aNguzWaH-maYjizWaH-puYjizWaH-paramezWaH-barhiHzWaH</s>-<sup>E</sup> <s>divizWaH</s>-
@@ -44719,7 +44719,7 @@
 <s>‘sniha—’ iti kecit . tad BAzyAdiviroDAdupekzyam .</s>
 <s>snehakaH-hikA, snehakaH-hikA</s>,<sup>8</sup> <s>sisnihizakaH-sisnehizakaH-sisnikzakaH-kzikA</s>,<sup>9</sup> <s>sezRihakaH-hikA</s>;
 <sup>10</sup> <s>snehitA-snegDA-sneQA-QrI, snehayitA-trI, sisnihizitA</s>-
-<s>sisnehizitA-sisnikzitA-trI, sezRihitA-trI, ityAdIni rUpARi dEvAdika</s>- 
+<s>sisnehizitA-sisnikzitA-trI, sezRihitA-trI, ityAdIni rUpARi dEvAdika</s>-
 [Page1366+ 28]
 <s>druhyativat</s> (885) <s>boDyAni .</s><sup>1</sup> <s>snihitvA-snehitvA-snigDvA-snIQvA</s>,<sup>2</sup> <s>snigDaH-snIQaH</s>,<sup>3</sup> <s>uzRik-uzRihA</s>,<sup>4</sup> <s>snihitiH</s>,<sup>5</sup> <s>snehuH, iti viSezarUpARi .</s>
 <F>8. <s>‘raDAdiByaSca’</s> (7-2-45) <s>itIqvikalpaH . ‘ralo vyupaDAt—’</s> (1-2-26) <s>iti</s>
@@ -44881,7 +44881,7 @@
 <L>1892<pc>1369<k1>zvazka<k2>zvazka
 (1893) {@<s>“zvazka gatyarTaH”</s>@}¦ (I<s>-BvAdiH</s>-100. <s>saka</s>. <s>sew</s>. <s>Atma</s>.)
 <div n="NI"><s>‘zvakka’ iti dvikakArakaH kvAcitkaH pAWaH . ‘subDAtuzWivuzvazkatInAM—’</s>
-(<s>vA</s>. 6-1-64) <s>iti nizeDAt DAtvAdizakArasya sakAro na . ‘vizvak paritrOki</s>- 
+(<s>vA</s>. 6-1-64) <s>iti nizeDAt DAtvAdizakArasya sakAro na . ‘vizvak paritrOki</s>-
 [Page1370+ 28]
 <s>talocanEH sTitaM vizvazkamARAmbudanAdaSaNkayA ..’ (DA</s>. <s>kA</s>. 1-14) <s>iti</s>
 <s>prayogaH . rUpARi sarvARyapi kaKativat</s> (141) <s>boDyAni .</s>
@@ -45978,7 +45978,7 @@
 <div n="NI"><s>arTaBedena sakarmako'karmako'pi kaviBiH prayujyate . syandakaH-ndikA, syandakaH</s>-
 <s>ndikA, sisyantsakaH-ntsikA, sisyandizakaH-zikA, sAsyandakaH-ndikA</s>;
 <s>ityAdikAni rUpARi sarvARyapi kfpUDAtuvat</s> (252) <s>jYeyAni; prAtisvika</s>-
-<s>rUpARi vinA . UdittvAt ‘svaratisUti—’</s> (7-2-44) <s>ityAdinA valAderArDa</s>- 
+<s>rUpARi vinA . UdittvAt ‘svaratisUti—’</s> (7-2-44) <s>ityAdinA valAderArDa</s>-
 [Page1399+ 30]
 <s>DAtukasya iqvikalpaH . syanditA</s>-<sup>1</sup> <s>syantA iti .</s><sup>2</sup> <s>syanditvA-syantvA</s>,<sup>3</sup> <s>syannaH</s>,<sup>4</sup> <s>syandanaH</s>,<sup>5</sup> <s>anuzyandamAnaH</s>,<sup>A</sup> <s>vizyandamAnaH, parizyandamAnaH, aBizyandamAnaH</s>,
 <s>nizyandamAnaH, anusyandamAnaH, visyandamAnaH, parisyandamAnaH, aBisyandamAnaH</s>,
@@ -46879,7 +46879,7 @@
 <L>2029<pc>1422<k1>hrI<k2>hrI
 (2030) {@<s>“hrI lajjAyAm”</s>@}¦
 (III<s>-juhotyAdiH</s>-1085. <s>aka</s>. <s>aniw</s>. <s>para</s>.)
-<div n="NI"><s>‘hrIz—’ iti kecit .</s><sup>6</sup> <s>hrIH</s>,<sup>7</sup> <s>hrIRaH-hrItaH-hrIRavAn-hrItavAn</s>,<sup>8</sup> <s>hrepakaH</s>- 
+<div n="NI"><s>‘hrIz—’ iti kecit .</s><sup>6</sup> <s>hrIH</s>,<sup>7</sup> <s>hrIRaH-hrItaH-hrIRavAn-hrItavAn</s>,<sup>8</sup> <s>hrepakaH</s>-
 [Page1423+ 26]
 <s>pikA</s>,<sup>1</sup> <s>jihriyat-tI</s><sup>2</sup> <s>hrIkaH-hlIkaH, iti viSezaH . sAmAnyarUpARi ‘qu krIY’</s>
 <s>DAtuvat</s> (274) <s>boDyAni .</s>
@@ -47349,7 +47349,7 @@ increased assistance for its early completion.
 <s>kAryaviSezaM tatratatra pratipAdayati .</s>
 <P><s>DAtorarTanirdeSaH madrapurIsTabAlamanoramAmudrAlayamudritaDAtupAWakoSamava</s>-
 <s>lambya kftaH . tatra prasidDiprAcuryAt DAtvarTa eko nirdizwaH . DAtUnAmane</s>-
-<s>kArTatvAt, prAmARikA anye apyarTAH jYeyAH . ata eva BAzye ‘agnO pari</s>- 
+<s>kArTatvAt, prAmARikA anye apyarTAH jYeyAH . ata eva BAzye ‘agnO pari</s>-
 [Page1438+ 28]
 <s>cAyyopacAyyasamUhyAH’</s> (3-1-131) <s>ityatra ‘Uhirapi vahyarTe vartate . kaTaM</s>
 <s>punaranyo nAmAnyasyArTe vartate? kaTamUhirvahyarTe vartate? bahvarTA api DAtavo</s>
