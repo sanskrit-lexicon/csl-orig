@@ -1,7 +1,7 @@
-dict,derivations,local,headword_root,nearest_root,dhatupatha_join,oracle_join,empty,pct_with_root
-SKD,2214,1960,0,5,23,78,148,93.3
-VCP,3664,2263,0,532,28,359,482,86.8
-Apte,332,277,0,16,1,7,31,90.7
-AP,339,289,0,19,1,15,15,95.6
-SHS,258,40,0,9,2,102,105,59.3
-KRM,305,112,193,0,0,0,0,100.0
+dict,derivations,local,headword_root,nearest_root,dhatupatha_join,oracle_join,llm_pass,empty,pct_with_root
+SKD,2214,1960,0,5,25,76,0,148,93.3
+VCP,3664,2263,0,532,28,363,361,117,96.8
+Apte,332,277,0,16,1,7,0,31,90.7
+AP,339,289,0,19,1,15,0,15,95.6
+SHS,258,40,0,10,2,102,92,12,95.3
+KRM,305,112,193,0,0,0,0,0,100.0
