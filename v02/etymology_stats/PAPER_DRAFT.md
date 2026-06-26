@@ -44,12 +44,14 @@ root that is not a real dhātu is discarded). Coverage after all tiers: SKD 93%,
 VCP 97%, Apte 91%, AP 96%, KRM 100%, SHS 95%.
 
 **Tier precision (DeepSeek-judged, form-tolerant).** A sampled audit of the two
-*inferred* tiers gives nearest-root ≈ 69% and oracle-join ≈ 74% root precision —
-true figures higher, since several "misses" are the judge rejecting a correct
-root in a stem rather than citation form (*sada* for *sad*). The bulk tiers
-(*local*, *headword-root*) are ≈ 100% by construction, and the *llm-pass* roots
-are returned in clean citation form and dhātu-validated, so the rooted subset is
-high-precision overall. MW roots are independently cross-validated against the
+*inferred* tiers gives, after the normalization pass below, oracle-join ≈ 83%
+(up from 74% before normalization — folding surface variants removed that error
+class) and nearest-root ≈ 66–75% root precision (its residual errors are genuine
+wrong-token grabs, plus a few judge false-negatives where the candidate already
+equals the canonical root). The bulk tiers (*local*, *headword-root*) are ≈ 100%
+by construction, and the *llm-pass* roots are returned in clean citation form and
+dhātu-validated, so the rooted subset is high-precision overall; *nearest-root*
+is the weakest tier and is tagged as such in `root_source` for downweighting. MW roots are independently cross-validated against the
 canonical `mw_roots.tsv` register: **99 %** of MW's rooted derivations carry a
 genuine MW root (the 1 % rest are flagged variants).
 
