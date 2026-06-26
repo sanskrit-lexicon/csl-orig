@@ -32,6 +32,7 @@ DICTS = [
     ('AP',   'ap/ap_etymology.tsv',     'sanskrit'),
     ('SHS',  'shs/shs_etymology.tsv',   'sanskrit'),
     ('KRM',  'krm/krm_etymology.tsv',   'sanskrit'),
+    ('MW',   'mw/mw_etymology.tsv',     'mw'),          # root-attribution + parse=
 ]
 KARAKAS = ['BAve', 'karaRe', 'karmaRi', 'kartari', 'aDikaraRe', 'apAdAne', 'sampradAne']
 KSENSE = {'BAve': 'bhāve', 'karaRe': 'karaṇe', 'karmaRi': 'karmaṇi',
@@ -46,7 +47,8 @@ def load():
         if not os.path.exists(p):
             continue
         rows = list(csv.DictReader(open(p, encoding='utf-8'), delimiter='\t'))
-        data[code] = {'style': style, 'rows': [r for r in rows if r.get('affix')]}
+        data[code] = {'style': style, 'rows': rows,
+                      'aff': [r for r in rows if r.get('affix')]}
     return data
 
 
@@ -66,22 +68,24 @@ def main():
     print("Loaded:", ", ".join("{} ({})".format(c, len(data[c]['rows'])) for c in codes))
     sanskrit = [c for c in codes if data[c]['style'] == 'sanskrit']
 
+    affcodes = [c for c in codes if data[c]['aff']]   # dicts that tag affixes
+
     # 1. affix frequency per dict ------------------------------------------------
-    afreq = {c: collections.Counter(r['affix'] for r in data[c]['rows']) for c in codes}
+    afreq = {c: collections.Counter(r['affix'] for r in data[c]['aff']) for c in affcodes}
     all_affixes = collections.Counter()
-    for c in codes:
+    for c in affcodes:
         all_affixes.update(afreq[c])
     top_aff = [a for a, _ in all_affixes.most_common(15)]
-    write_csv('affix_frequency.csv', ['affix'] + codes,
-              [[a] + [afreq[c].get(a, 0) for c in codes] for a in top_aff])
+    write_csv('affix_frequency.csv', ['affix'] + affcodes,
+              [[a] + [afreq[c].get(a, 0) for c in affcodes] for a in top_aff])
 
     # 2. kāraka distribution (sanskrit-side) ------------------------------------
-    kdist = {c: collections.Counter(r['karaka'] for r in data[c]['rows']) for c in sanskrit}
+    kdist = {c: collections.Counter(r['karaka'] for r in data[c]['aff']) for c in sanskrit}
     write_csv('karaka_distribution.csv', ['karaka', 'sense'] + sanskrit,
               [[k, KSENSE[k]] + [kdist[c].get(k, 0) for c in sanskrit] for k in KARAKAS])
 
     # 3. kāraka × affix matrix (all sanskrit dicts pooled) -----------------------
-    pool = [r for c in sanskrit for r in data[c]['rows']]
+    pool = [r for c in sanskrit for r in data[c]['aff']]
     mtot = collections.Counter(r['affix'] for r in pool)
     m_aff = [a for a, _ in mtot.most_common(10)]
     cell = collections.Counter((r['affix'], r['karaka']) for r in pool)
@@ -90,10 +94,10 @@ def main():
               [[a] + row for a, row in zip(m_aff, matrix)])
 
     # 4. teaching-group distribution per dict ------------------------------------
-    groups = sorted({r['group'] for c in codes for r in data[c]['rows'] if r.get('group')})
-    gdist = {c: collections.Counter(r.get('group') for r in data[c]['rows']) for c in codes}
-    write_csv('group_distribution.csv', ['group'] + codes,
-              [[g] + [gdist[c].get(g, 0) for c in codes] for g in groups])
+    groups = sorted({r['group'] for c in affcodes for r in data[c]['aff'] if r.get('group')})
+    gdist = {c: collections.Counter(r.get('group') for r in data[c]['aff']) for c in affcodes}
+    write_csv('group_distribution.csv', ['group'] + affcodes,
+              [[g] + [gdist[c].get(g, 0) for c in affcodes] for g in groups])
 
     # 5. affix kāraka-spread entropy (sanskrit pool) -----------------------------
     byaff = collections.defaultdict(collections.Counter)
@@ -109,25 +113,45 @@ def main():
     ent.sort(key=lambda x: -x[1])
     write_csv('affix_entropy.csv', ['affix', 'entropy_bits', 'n'], ent)
 
-    # 6. cross-dict agreement (headword_slp1 sharing an affix) -------------------
-    idx = {c: collections.defaultdict(set) for c in codes}
-    for c in codes:
-        for r in data[c]['rows']:
+    # 6a. cross-dict AFFIX agreement (headword_slp1 sharing an affix) ------------
+    idx = {c: collections.defaultdict(set) for c in affcodes}
+    for c in affcodes:
+        for r in data[c]['aff']:
             idx[c][r['headword_slp1']].add(r['affix'])
     agree_rows = []
-    for i, a in enumerate(codes):
-        for b in codes[i + 1:]:
+    for i, a in enumerate(affcodes):
+        for b in affcodes[i + 1:]:
             common = set(idx[a]) & set(idx[b])
             if not common:
                 continue
             ag = sum(1 for h in common if idx[a][h] & idx[b][h])
-            agree_rows.append([a, b, len(common), ag,
-                               round(100 * ag / len(common), 1)])
+            agree_rows.append([a, b, len(common), ag, round(100 * ag / len(common), 1)])
     write_csv('cross_dict_agreement.csv',
               ['dict_a', 'dict_b', 'shared_headwords', 'affix_agrees', 'pct'], agree_rows)
 
-    # 7. root productivity (sanskrit pool) ---------------------------------------
-    rootc = collections.Counter(r['root'] for r in pool if r.get('root'))
+    # 6b. cross-dict ROOT agreement (incl. MW, which gives root not affix) -------
+    rootcodes = [c for c in codes if any(r.get('root') for r in data[c]['rows'])]
+    ridx = {c: collections.defaultdict(set) for c in rootcodes}
+    for c in rootcodes:
+        for r in data[c]['rows']:
+            if r.get('root'):
+                ridx[c][r['headword_slp1']].add(r['root'])
+    root_agree = []
+    for i, a in enumerate(rootcodes):
+        for b in rootcodes[i + 1:]:
+            common = set(ridx[a]) & set(ridx[b])
+            if not common:
+                continue
+            ag = sum(1 for h in common if ridx[a][h] & ridx[b][h])
+            root_agree.append([a, b, len(common), ag, round(100 * ag / len(common), 1)])
+    write_csv('cross_dict_root_agreement.csv',
+              ['dict_a', 'dict_b', 'shared_headwords', 'root_agrees', 'pct'], root_agree)
+
+    # 7. root productivity (verbal-root dicts only: sanskrit-side + MW) ----------
+    # WIL is excluded: its "root" is the first etymon (often a prefix), not a dhātu.
+    prodcodes = [c for c in rootcodes if data[c]['style'] != 'english']
+    rootc = collections.Counter(
+        r['root'] for c in prodcodes for r in data[c]['rows'] if r.get('root'))
     write_csv('root_productivity.csv', ['root', 'derivatives'], rootc.most_common(20))
 
     # 8. root-capture breakdown (sanskrit-side; WIL has no root_source) -----------
@@ -150,6 +174,7 @@ def main():
                  'matrix': matrix, 'rowtot': [mtot[a] for a in m_aff]},
         'entropy': ent[:10],
         'agreement': agree_rows,
+        'root_agreement': root_agree,
         'roots': rootc.most_common(15),
         'karaka_dist': [[KSENSE[k]] + [kdist[c].get(k, 0) for c in sanskrit] for k in KARAKAS],
         'capture': cap_rows,
@@ -196,8 +221,12 @@ SKD, VCP, Apte, AP, SHS, KRM use Sanskrit-prose kāraka + pratyaya. Only the San
 <div class="cw"><canvas id="roots" role="img" aria-label="Most productive roots"></canvas></div>
 
 <h2>Cross-dictionary affix agreement</h2>
-<p>For head-words shared by two dictionaries (both giving an affix), how often the affix agrees.</p>
+<p>For head-words shared by two dictionaries (both giving an affix), how often the affix agrees. The Sanskrit-tradition dicts cluster at 90–100%; Wilson 1832 is the outlier.</p>
 <table id="agree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>affix agrees</th><th>%</th></tr></thead><tbody></tbody></table>
+
+<h2>Cross-dictionary root agreement</h2>
+<p>For head-words shared by two dictionaries (both giving a root), how often the root agrees. Includes MW, whose etymology is root-attribution + <code>parse=</code> rather than affixes.</p>
+<table id="ragree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>root agrees</th><th>%</th></tr></thead><tbody></tbody></table>
 
 <h2>Root-capture coverage</h2>
 <table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>dhātupāṭha-join</th><th>gaṇa-backref</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
@@ -230,6 +259,8 @@ new Chart(document.getElementById('roots'),{type:'bar',data:{labels:D.roots.map(
 
 const at=document.querySelector('#agree tbody');
 D.agreement.sort((a,b)=>b[2]-a[2]).forEach(r=>at.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}%</td></tr>`));
+const rat=document.querySelector('#ragree tbody');
+(D.root_agreement||[]).sort((a,b)=>b[2]-a[2]).forEach(r=>rat.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}%</td></tr>`));
 const ct=document.querySelector('#cap tbody');
 D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}%</td></tr>`));
 </script></body></html>

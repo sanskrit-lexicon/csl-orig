@@ -1,20 +1,20 @@
-group,WIL,SKD,VCP,Apte,AP,SHS,KRM
-Abstract quality — “-ness”,329,18,18,0,0,0,0
-Action / result noun,2138,1219,1965,220,224,168,43
-Adverb,85,0,0,0,0,0,0
-Agent — the doer,2484,259,448,41,42,32,12
-Augment (āgama),45,0,0,0,0,0,0
-Bare root / zero affix,221,61,107,6,6,4,12
-Comparison,64,0,0,0,0,0,0
-Compound-final (samāsānta),37,0,0,0,0,0,0
-Derivative noun / adjective,98,0,0,0,0,0,0
-Diminutive / self-sense,927,0,0,0,0,0,0
-Feminine stem,843,0,0,0,0,0,0
-Gerundive — “to-be-Xed”,300,36,79,5,6,2,10
-Material / abundance,72,0,0,0,0,0,0
-Other,6149,123,226,24,26,20,177
-Participle,2638,471,726,28,29,26,48
-Possessive — “having X”,1456,12,39,2,2,3,1
-Relational / patronymic,1482,9,17,1,0,2,2
-Temporal,1,0,0,0,0,0,0
-Uṇādi formation,275,6,35,4,4,1,0
+group,WIL,SKD,VCP,Apte,AP,SHS,KRM,MW
+Abstract quality — “-ness”,329,18,18,0,0,0,0,0
+Action / result noun,2138,1219,1965,220,224,168,43,0
+Adverb,85,0,0,0,0,0,0,0
+Agent — the doer,2484,259,448,41,42,32,12,1
+Augment (āgama),45,0,0,0,0,0,0,0
+Bare root / zero affix,221,61,107,6,6,4,12,0
+Comparison,64,0,0,0,0,0,0,0
+Compound-final (samāsānta),37,0,0,0,0,0,0,0
+Derivative noun / adjective,98,0,0,0,0,0,0,0
+Diminutive / self-sense,927,0,0,0,0,0,0,0
+Feminine stem,843,0,0,0,0,0,0,0
+Gerundive — “to-be-Xed”,300,36,79,5,6,2,10,0
+Material / abundance,72,0,0,0,0,0,0,0
+Other,6149,123,226,24,26,20,177,0
+Participle,2638,471,726,28,29,26,48,0
+Possessive — “having X”,1456,12,39,2,2,3,1,2
+Relational / patronymic,1482,9,17,1,0,2,2,0
+Temporal,1,0,0,0,0,0,0,0
+Uṇādi formation,275,6,35,4,4,1,0,0
