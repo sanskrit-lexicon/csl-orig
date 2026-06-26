@@ -28,8 +28,20 @@ purpose**: their `<ab>E.</ab>` means "Epithet of" / "Epic", not Etymology.
 
 `affix_frequency.csv` · `karaka_distribution.csv` · `karaka_x_affix_matrix.csv` ·
 `group_distribution.csv` · `affix_entropy.csv` · `cross_dict_agreement.csv` ·
-`root_productivity.csv` · `root_capture.csv` · **`dashboard_etymology.html`**
-(open in a browser — Chart.js loaded from CDN; the heatmap is inline).
+`cross_dict_root_agreement.csv` · `root_productivity.csv` · `root_capture.csv` ·
+**`dashboard_etymology.html`**.
+
+**The dashboard is fully interactive and self-contained** (no CDN): every chart
+links to its CSV, the per-dictionary count cards link to that dict's full
+`<dict>_etymology.tsv`, and every **affix and kāraka label deep-links to its
+definition** in the [Dictionary of Sanskrit Grammar](https://samskrtam.ru/sanskrit-lexicon/dsg/)
+(K. V. Abhyankar) with the gloss on hover — reusing the vendored `dsg.json` from
+`SanskritLexicography/RussianTranslation/research/` at build time (graceful if
+absent). Live: **https://sanskrit-lexicon.github.io/csl-orig/**.
+
+Root productivity is pooled across the **verbal-root** dictionaries
+(SKD, VCP, Apte, AP, SHS, KRM, MW, PWG, PW) — *not* only the Sanskrit→Sanskrit
+ones; WIL is excluded (its "root" is the first etymon, often a prefix).
 
 `sample_nearest_root_audit.py` samples rows whose root was inferred by the
 nearest-root fallback and writes `nearest_root_audit_sample.csv` for manual
