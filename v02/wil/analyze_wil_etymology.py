@@ -194,23 +194,85 @@ def generic_it(slp1):
     return "; ".join(dict.fromkeys(notes))  # de-dup, keep order
 
 
+# ---------------------------------------------------------------------------
+# Teaching helpers MIRRORED (not re-derived) from the project's affix teaching
+# tool:  SanskritLexicography/RussianTranslation/research/affix_pedagogy.py
+# Kept here verbatim because that module's import chain (apte_parse ->
+# sanskrit_util in WhitneyRoots) is too heavy to import into a csl-orig script.
+#   * group_of(fn, kind)  -> the teaching GROUP an affix belongs to (what it MAKES)
+#   * ANUBANDHA_STEPS     -> per-pratyaya it-marker stripping steps (P.1.3.2-1.3.9)
+# ---------------------------------------------------------------------------
+def group_of(fn, kind):
+    f = (fn or '').lower()
+    if 'agent' in f:            return 'Agent — the doer'
+    if 'participle' in f:       return 'Participle'
+    if 'gerundive' in f:        return 'Gerundive — “to-be-Xed”'
+    if 'action' in f or 'result' in f: return 'Action / result noun'
+    if 'abstract' in f:         return 'Abstract quality — “-ness”'
+    if kind in ('strī', 'str"i', 'fem'): return 'Feminine stem'
+    if 'possessive' in f or 'having' in f: return 'Possessive — “having X”'
+    if 'comparative' in f or 'superlative' in f: return 'Comparison'
+    if 'adverb' in f:           return 'Adverb'
+    if 'temporal' in f:         return 'Temporal'
+    if 'relational' in f or 'patronymic' in f: return 'Relational / patronymic'
+    if 'diminutive' in f:       return 'Diminutive / self-sense'
+    if 'augment' in f or kind == 'augment': return 'Augment (āgama)'
+    if kind == 'uṇādi':         return 'Uṇādi formation'
+    return 'Other'
+
+# pratyaya_iast -> [stripping steps]  (mirrored from affix_pedagogy.py)
+ANUBANDHA_STEPS = {
+    'kta':   ['k = it (P.1.3.8)', '→ surface -ta'],
+    'lyuṭ':  ['l = it', 'ṭ = it', 'yu → ana (P.7.1.1)', '→ -ana'],
+    'ṇvul':  ['ṇ = it (→ vṛddhi)', 'l = it', 'vu → aka (P.7.1.1)', '→ -aka'],
+    'tṛc':   ['c = it (P.1.3.3)', '→ -tṛ'],
+    'ghañ':  ['gh = it (initial)', 'ñ = it (→ vṛddhi)', '→ -a'],
+    'ac':    ['c = it', '→ -a'],
+    'ktin':  ['k = it', 'n = it', '→ -ti'],
+    'yat':   ['t = it', '→ -ya'],
+    'aṇ':    ['ṇ = it (→ vṛddhi)', '→ -a'],
+    'ṭhak':  ['ṭha → ika (P.7.3.50)', 'k = it (→ vṛddhi)', '→ -ika'],
+    'ṣyañ':  ['ṣ = it (initial)', 'ñ = it (→ vṛddhi)', '→ -ya'],
+    'ini':   ['final i = it', '→ -in'],
+    'tva':   ['(no it-marker)', '→ -tva'],
+    'tal':   ['l = it', '→ -tā (fem.)'],
+    'matup': ['u, p = it', 'm → v after a/ā (P.8.2.9)', '→ -mat / -vat'],
+    'tarap': ['p = it', '→ -tara'],
+    'tamap': ['p = it', '→ -tama'],
+    'tasil': ['l = it', '→ -tas'],
+    'śas':   ['(adverbial)', '→ -śas'],
+    'vini':  ['final i = it', '→ -vin'],
+    'valac': ['c = it', '→ -vala'],
+    'ṭyu':   ['ṭ = it', 'yu → ana → -tana', '→ -tana'],
+    'kan':   ['k = it', 'n = it', '→ -ka'],
+    'ka':    ['→ -ka'],
+    'ṭāp':   ['ṭ = it', 'p = it', '→ -ā (fem.)'],
+    'ṅīp':   ['ṅ = it', 'p = it', '→ -ī (fem.)'],
+    'ṅīṣ':   ['ṅ = it', 'ṣ = it (→ vṛddhi)', '→ -ī (fem.)'],
+}
+
+
 def decode_affix(slp1):
-    """Compose the anubandha explanation for one SLP1 affix token.
-    Returns (note, source) where source records WHICH dictionary's affix data
-    explained it (Apte-SH / WIL / generic decoder)."""
+    """Compose the explanation for one SLP1 affix token. Returns
+    (note, source, group, steps) where:
+      source = WHICH dictionary's affix data explained it (Apte-SH / WIL / generic)
+      group  = teaching group (group_of) — what the affix MAKES
+      steps  = ' ; '-joined anubandha-stripping steps, or '' if none curated."""
     iast = to_iast(slp1)
     entry = AFFIXES.get(iast)
+    steps = ' ; '.join(ANUBANDHA_STEPS.get(iast, []))
     if entry:
         realized, kind, func, anu, source = entry
         note = "{} affix '{}' -> -{}; {}".format(kind, iast, realized or '∅', func)
         anu = anu or generic_it(slp1)
         if anu:
             note += " | anubandha: " + anu
-        return note, source
+        return note, source, group_of(func, kind), steps
     gen = generic_it(slp1)
     if gen:
-        return "uncurated affix '{}' | it-letters: {}".format(iast, gen), "generic-decoder"
-    return "uncurated affix '{}'".format(iast), "generic-decoder"
+        return ("uncurated affix '{}' | it-letters: {}".format(iast, gen),
+                "generic-decoder", 'Other', steps)
+    return "uncurated affix '{}'".format(iast), "generic-decoder", 'Other', steps
 
 
 def clean_gloss(s):
@@ -228,7 +290,8 @@ def parse_block(raw):
     """Classify and parse one E. block (markup form). Returns a dict."""
     rec = {'type': None, 'root': None, 'root_meaning': None,
            'affix': None, 'affix_slp1': None, 'anubandha': None,
-           'affix_source': None, 'members': [], 'derivations': []}
+           'affix_source': None, 'group': None, 'anubandha_steps': None,
+           'members': [], 'derivations': []}
     text = raw.strip()
 
     # 1. cross-reference
@@ -254,7 +317,8 @@ def parse_block(raw):
         # surface the first as the headline columns
         first = rec['derivations'][0]
         rec.update({k: first[k] for k in ('root', 'root_meaning', 'affix',
-                                          'affix_slp1', 'anubandha', 'affix_source')})
+                                          'affix_slp1', 'anubandha', 'affix_source',
+                                          'group', 'anubandha_steps')})
         return rec
 
     simple = _parse_simple(text)
@@ -315,7 +379,7 @@ def _parse_simple(text):
     """Best-effort root + meaning + affix from a single derivation clause."""
     out = {'root': None, 'root_meaning': None, 'affix': None,
            'affix_slp1': None, 'anubandha': None, 'affix_source': None,
-           'members': []}
+           'group': None, 'anubandha_steps': None, 'members': []}
     mem = _members(text)
     if not mem:
         return out
@@ -330,7 +394,8 @@ def _parse_simple(text):
         # (Wilson puts the affix last: "{#root#} <gloss>, {#affix#} aff.")
         s, i, _g = mem[-1]
         out['affix_slp1'], out['affix'] = s, i
-        out['anubandha'], out['affix_source'] = decode_affix(s)
+        (out['anubandha'], out['affix_source'],
+         out['group'], out['anubandha_steps']) = decode_affix(s)
         # if the affix coincides with the only member, there is no separate root
         if len(mem) == 1:
             out['root'] = out['root_meaning'] = None
@@ -381,7 +446,8 @@ def main():
     base = os.path.dirname(path)
     tsv = os.path.join(base, 'wil_etymology.tsv')
     cols = ['L_id', 'headword', 'headword_slp1', 'type', 'root', 'root_meaning',
-            'affix', 'affix_slp1', 'anubandha', 'affix_source', 'raw']
+            'affix', 'affix_slp1', 'group', 'anubandha', 'anubandha_steps',
+            'affix_source', 'raw']
     with open(tsv, 'w', encoding='utf-8', newline='') as f:
         f.write('\t'.join(cols) + '\n')
         for r in records:
