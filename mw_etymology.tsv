@@ -2033,7 +2033,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 18355	avasai	avasE	so	so	fr-root	4P	Y								root-attribution		ava-sE/ ¦ Ved. Inf. See ava-√ so above.
 18356	avaskand	avaskand	skand	skand	parse	1P,1Ā	Y	ava							prefix+root	ava+skand	ava-√ skand ¦ (ind.p. -skandya) to jump down from (abl.), BhP.; to approach hastening from (abl.), ṢaḍvBr.; to storm, as
 18371	avaskṝ	avaskF	kṝ	kF	parse	6P,6Ā	Y	ava							prefix+root	ava+kF	ava-s-√ kF ¦ (√ 3. kF) Ā. (perf. 3. pl. ava-caskarire) to scrape with the feet, Śiś. v, 63, (cf. apa √ s-kF s.v. apa-√ k
-18382	avastṝ	avastF	stṝ	stF	parse		?	ava							prefix+root	ava+stF	ava-√ stF ¦ P. -stfRAti (1. sg. -stfRAmi ind.p. -stI/rya) to strew, scatter, VS. v, 25; TS.; ŚBr.;  (perf. -tastAra) to
+18382	avastṝ	avastF	stṛ	stf	fr-root	5,9P,9Ā,5P,5Ā	Y	ava							prefix+root	ava+stF	ava-√ stF ¦ P. -stfRAti (1. sg. -stfRAmi ind.p. -stI/rya) to strew, scatter, VS. v, 25; TS.; ŚBr.;  (perf. -tastAra) to
 18389	avasthā	avasTA	sthā	sTA	parse	1P,1Ā	Y	ava							prefix+root	ava+sTA	ava-√ sTA ¦ P. -tizWati (impf. -atizWat; aor. Subj. -sTAt; perf. Ā. 3. sg. -tasTe; perf. p. P. -tasTiva/s) to go down in
 18413	avasnā	avasnA	snā	snA	parse	2P,4P,4Ā	Y	ava							prefix+root	ava+snA	ava-√ snA ¦ Caus. -snApayati, to wash, Kauś.
 18415	avaspṛ	avaspf	spṛ	spf	parse	5P	Y	ava							prefix+root	ava+spf	ava-√ spf ¦ (aor. Subj. -spa/rat, 2. sg. -spar, Imper. 2. sg. -spfDi and 2. du. -spftam) to defend, preserve from (abl.)
@@ -3091,7 +3091,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 34970	upaniśam	upaniSam	śam	Sam	parse	4P,9	Y	upa ni							prefix+root	upa+ni+Sam	upa-ni-√ Sam ¦
 34972	upaniśri	upaniSri	śri	Sri	parse	1P,1Ā	Y	upa ni							prefix+root	upa+ni+Sri	upa-ni-√ Sri ¦ P. -Srayati, to go near or to the side of ŚBr. xiv, 4, 2, 23 : Ā. -Srayate, to cling to, lean against, ŚB
 34973	upaniṣad	upanizad	sad	sad	parse	1,6P	Y	upa ni							prefix+root	upa+ni+sad	1. upa-ni-zad ¦ (upa-ni-√ sad) P. (pf. -ni/-zedus) to sit down near to; to approach, set about, AV. xix, 41, 1; ŚBr.; Ka
-34978	upaniṣatkṛ	upanizatkf	niṣa	niza	parse		?	upa							prefix+root	upa+niza+t+kf	upa-niza—˚t- √ 1. kf ¦ to treat anything as a mystery (?), Pāṇ. i, 4, 79.
+34978	upaniṣatkṛ	upanizatkf	niṣ	niz	fr-root	1P	Y	upa							prefix+root	upa+niza+t+kf	upa-niza—˚t- √ 1. kf ¦ to treat anything as a mystery (?), Pāṇ. i, 4, 79.
 34984	upaniṣev	upanizev	sev	sev	parse	1Ā	Y	upa ni							prefix+root	upa+ni+sev	upa-ni-zev ¦ (upa-ni-√ sev) Ā. to devote one's self to, MBh.
 34986	upaniṣkram	upanizkram	kram	kram	parse	1P,1Ā,4P,4Ā	Y	upa nis							prefix+root	upa+nis+kram	upa-niz-√ kram ¦ (upa-nis-√ kram) P. -krAmati, to go out towards, ŚBr.
 34992	upanihan	upanihan	han	han	parse	2P,2Ā,1	Y	upa ni							prefix+root	upa+ni+han	upa-ni-√ han ¦ P. -hanti, to hammer or ram down (a stake) by the side of ŚBr.; KātyŚr.
@@ -3573,7 +3573,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 44557	karuṇa	karuRa	kṛ	kf	fr-root	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								root-attribution		karu/Ra ¦ mf(A)n. (√ 1. kF, Uṇ. iii, 53; but in some of its meanings fr. √ 1. kf), mournful, miserable, lamenting, MBh.;
 44779	karṇa	karRa	dā	dA	fr-root	3Ā,1Ā	Y								root-attribution		ka/rRa ¦ m. (√ kft, Nir.; √ 1. kF, Uṇ. iii, 10), the ear, RV.; AV.; TS.; Suśr. (a/pi ka/rRe, behind the ear or back, fro
 44848	karṇapatha	karRapaTa	yā	yA	fr-root	2P	Y								root-attribution		karRa—paTa ¦ m. the compass or range of hearing, (˚m A-√ yA, to come within the range of or reach the ear, be heard, Śak
-44878	karṇapūrīkṛ	karRapUrIkf	karṇa	karRa	parse		?								other	karRa+pUrI+kf	karRa—pUrI-√ kf ¦ to make (anything) an ornament for the ear, Kād.; Hcar.
+44878	karṇapūrīkṛ	karRapUrIkf	karṇ	karR	fr-root	10P	Y								other	karRa+pUrI+kf	karRa—pUrI-√ kf ¦ to make (anything) an ornament for the ear, Kād.; Hcar.
 44980	karṇāvataṃsīkṛ	karRAvataMsIkf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	karRAvataMsI+kf	karRAvata˚MsI-√ kf ¦ to make (anything) an ornament for the ear, Kād.
 45378	karmabhūya	karmaBUya	bhū	BU	fr-root	1P,1Ā	Y								root-attribution		karma—BUya ¦ n. the becoming an action, (˚M-√ BU, to assume the peculiar characteristic of any action Comm. on Bādar. iv
 45581	kal	kal	kal	kal	fr-root	1Ā	Y								root-attribution		3. kal ¦ P. (rarely Ā.) kalayati (˚te), to impel, incite, urge on MBh.; BhP. &c.; to bear, carry, Gīt.; Śāntiś. &c.; to
@@ -3849,7 +3849,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 91138	dasmatkṛ	dasmatkf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	dasmat+kf	dasma/t-√ kf ¦ to make wonderful, i, 74, 4.
 91157	dasyusādbhū	dasyusAdBU	bhū	BU	parse	1P,1Ā	Y								stem+root (denominal/cmpd)	dasyu+sAd+BU	dasyu—sAd-√ BU ¦ to become a prey to robbers, MBh. xii.
 91212	dā	dA	diś	diS	fr-root	3P,6	Y								root-attribution		1. dA ¦ cl. 3. da/dAti (pl. ˚dati, RV. &c.; Ā. datte, Pañcat. i, 4, 19/20 12, 7; Subh.; 1. sg. dadmi, MBh. xii; Hariv.;
-91292	dānavaśīkṛ	dAnavaSIkf	dāna	dAna	parse		?								stem+root (denominal/cmpd)	dAna+vaSI+kf	dAna—vaSI-√ kf ¦ to make subject by bribery id.
+91292	dānavaśīkṛ	dAnavaSIkf	dān	dAn	fr-root	1P,1Ā,10P,10Ā	Y								stem+root (denominal/cmpd)	dAna+vaSI+kf	dAna—vaSI-√ kf ¦ to make subject by bribery id.
 91325	dāpana	dApana	dā	dA	fr-root	3Ā,1Ā	Y								root-attribution		dApana ¦ n. (fr. √ 1. dA, Caus.) forcing to give or pay (ifc.), L.
 91352	dāyīkṛ	dAyIkf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	dAyI+kf	dAyI-√ kf ¦ to make a gift, Mālatīm. viii, 6.
 91664	dāra	dAra	kṛ	kf	fr-root	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								root-attribution		2. dAra ¦ m. pl. (probably not connected with 1. dAra and √ dF, but cf. Pāṇ. iii, 3, 20, Vārtt. 4) a wife (wives), GṛS.;
@@ -3893,9 +3893,9 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 95214	dṛḍhībhū	dfQIBU	bhū	BU	parse	1P,1Ā	Y								stem+root (denominal/cmpd)	dfQI+BU	dfQI—√ BU ¦ to become strong, increase, Pañc. iii, 258.
 95227	dṛti	dfti	dṝ	dF	fr-root	9P,2P,2Ā	Y								root-attribution		df/ti ¦ m. (fr. √ dF) a skin of leather, a leather bag for holding water and other fluids (fig. = a cloud), skin, hide,
 95276	dṛkpathami	dfkpaTami	i	i	parse	2P,2Ā	Y								stem+root (denominal/cmpd)	dfk+paTam+i	dfk—pa˚Tam-√ i or dfk—pa˚Tam-√ gam, ¦ to appear, become visible, Kālid.; Rājat.
-95858	devabrāhmaṇasātkṛ	devabrAhmaRasAtkf	deva	deva	parse		?								stem+root (denominal/cmpd)	deva+brAhmaRasAt+kf	deva—brAh˚maRasAt-√ kf ¦ to present to the gods and Brāhmans, Hcat. i, 7 (wrongly ˚sata-kf).
-96119	devasātkṛ	devasAtkf	deva	deva	parse		?								other	deva+sAt+kf	deva—sAt-√ kf ¦ to offer to the g˚, Bhaṭṭ.
-96120	devasātbhū	devasAtBU	deva	deva	parse		?								other	deva+sAt+BU	deva-sAt-√ BU ¦ to become a god, MBh.
+95858	devabrāhmaṇasātkṛ	devabrAhmaRasAtkf	dev	dev	fr-root	0	Y								stem+root (denominal/cmpd)	deva+brAhmaRasAt+kf	deva—brAh˚maRasAt-√ kf ¦ to present to the gods and Brāhmans, Hcat. i, 7 (wrongly ˚sata-kf).
+96119	devasātkṛ	devasAtkf	dev	dev	fr-root	0	Y								other	deva+sAt+kf	deva—sAt-√ kf ¦ to offer to the g˚, Bhaṭṭ.
+96120	devasātbhū	devasAtBU	dev	dev	fr-root	0	Y								other	deva+sAt+BU	deva-sAt-√ BU ¦ to become a god, MBh.
 96522	deśa	deSa	vas	vas	fr-root	6P	Y								root-attribution		¦ institute, ordinance, W. (deSam A √ vas, or ni-√ viS, to settle in a place, Mn.; ˚Se, in the proper place [esp. with k
 96625	deṣṭha	dezWa	dā	dA	fr-root	3Ā,1Ā	Y								root-attribution		de/zWa ¦ mfn. (fr. √ 1. dA) giving most or best, RV.
 96629	deṣṇu	dezRu	dai	dE	fr-root	1P	Y								root-attribution		dezRu ¦ m. (fr. √ dE) a washerman.
@@ -5009,7 +5009,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 125494	putra	putra	puṣ	puz	fr-root	4P	Y								root-attribution		putra/ ¦ m. (etym. doubtful, perhaps fr. √ 2. puz; traditionally said to be a comp. put-tra, ‘preserving from the hell c
 125635	putrībhū	putrIBU	bhū	BU	parse	1P,1Ā	Y								stem+root (denominal/cmpd)	putrI+BU	putrI—√ BU ¦ to become a son, BhP.
 125718	punaruktīkṛ	punaruktIkf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	punar+uktI+kf	punar—uktI-√ kf ¦ to render superfluous or useless, Kathās.
-125874	purataḥkṛ	purataHkf	pura	pura	parse		?								stem+root (denominal/cmpd)	pura+taH+kf	pura—˚taH-√ kf ¦ to place in front, cause to precede, honour, R.; Kathās.
+125874	purataḥkṛ	purataHkf	pur	pur	fr-root	6P	Y								stem+root (denominal/cmpd)	pura+taH+kf	pura—˚taH-√ kf ¦ to place in front, cause to precede, honour, R.; Kathās.
 125914	puraskṛ	puraskf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	puras+kf	puras—√ kf ¦ (P. Ā. -karoti, -kurute), to place before or in front, cause to precede, RV. &c. &c.; to make one's leader,
 126083	purodhā	puroDA	dhā	DA	parse	3P,3Ā,1P,1Ā,2P,4Ā,4P	Y								stem+root (denominal/cmpd)	puro+DA	puro—√ DA ¦ P. Ā. -daDAti, -Datte, (Ā.) to place before or at the head, to appoint (esp. to priestly functions), charge,
 126096	purobhāga	puroBAga	muc	muc	fr-root	1Ā	Y								root-attribution		¦ officiousness, obtrusiveness (˚gam √ muc, to quit the field, retire discomfited), Hariv.; Kād.
@@ -5517,7 +5517,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 133754	pratṛd	pratfd	tṛd	tfd	parse	7Ā	Y	pra							prefix+root	pra+tfd	pra-√ tfd ¦ (only ind.p. -tfdya), to thrust through with a spit, ŚBr.
 133761	pratṛp	pratfp	tṛp	tfp	parse	4,5,6Ā,6P,1Ā	Y	pra							prefix+root	pra+tfp	pra-√ tfp ¦ Caus. -tarpayati, to satiate, refresh, strengthen, satisfy, Pañcat.; Suśr.
 133762	pratṝ	pratF	tṝ	tF	parse	1P,1Ā,5,3,6P,6Ā	Y	pra							prefix+root	pra+tF	pra-√ tF ¦ P. Ā. -tarati, ˚te (Ved. also -tirati, ˚te; inf. -ti/ram), to go to sea, pass over, cross, ŚBr. &c. &c.; to s
-133853	pratyakṣaviṣayībhū	pratyakzavizayIBU	akṣa	akza	parse		?								stem+root (denominal/cmpd)	praty+akza+vizayI+BU	praty-akza—vizayI-√ BU ¦ P. -Bavati, to move only within range of the sight, Naiṣ. Comm.
+133853	pratyakṣaviṣayībhū	pratyakzavizayIBU	akṣ	akz	fr-root	1,5	Y								stem+root (denominal/cmpd)	praty+akza+vizayI+BU	praty-akza—vizayI-√ BU ¦ P. -Bavati, to move only within range of the sight, Naiṣ. Comm.
 133868	pratyakṣīkṛ	pratyakzIkf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	pratyakzI+kf	pratyakzI—√ kf ¦ to make visible or evident, MW.; to inspect, look at or See with one's own eyes, MBh.; Mṛcch.; Kād. &c.
 133871	pratyakṣībhū	pratyakzIBU	bhū	BU	parse	1P,1Ā	Y								stem+root (denominal/cmpd)	pratyakzI+BU	pratyakzI—√ BU ¦ to come before the e˚, be visible, appear in person, Kathās.; Siṃhās.
 133980	pratyañj	pratyaYj	añj	aYj	parse	7P,7Ā	Y	prati							prefix+root	prati+aYj	praty-√ aYj ¦ P. -anakti, or -aYjati, to smear over, besmear, ŚBr.; to decorate, adorn, RV.
@@ -5899,7 +5899,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 136665	praleha	praleha	lih	lih	fr-root	2P,2Ā	Y								root-attribution		pra-leha , ¦ ˚lehana. See pra-√ lih.
 136669	prava	prava	pru	pru	fr-root	1Ā	Y								root-attribution		prava/ ¦ mfn. (fr. √ pru) fluttering, hovering, RV.
 136675	pravac	pravac	vac	vac	parse	2P,3P,3Ā	Y	pra							prefix+root	pra+vac	pra-√ vac ¦ P. -vakti (inf. -vA/ce, RV. ix, 95, 2), to proclaim, announce, praise, commend, mention, teach, impart, expl
-136722	pravaṇavidheyībhū	pravaRaviDeyIBU	vaṇa	vaRa	parse		?	pra							prefix+root	pra+vaRa+viDeyI+BU	pra-vaRa—viDeyI-√ BU ¦ to obey gladly, Inscr.
+136722	pravaṇavidheyībhū	pravaRaviDeyIBU	vaṇ	vaR	fr-root	1P	Y	pra							prefix+root	pra+vaRa+viDeyI+BU	pra-vaRa—viDeyI-√ BU ¦ to obey gladly, Inscr.
 136726	pravaṇīkṛ	pravaRIkf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	pravaRI+kf	pravaRI-√ kf ¦ to dispose favourably, Kum.
 136727	pravaṇībhū	pravaRIBU	bhū	BU	parse	1P,1Ā	Y								stem+root (denominal/cmpd)	pravaRI+BU	pravaRI-√ BU ¦ to become favourably disposed, GopBr.
 136740	pravad	pravad	vad	vad	parse	1P,1Ā	Y	pra							prefix+root	pra+vad	pra-√ vad ¦ P. Ā. -vadati, ˚te (Ved. inf. pra/-vaditos), to speak out, pronounce, proclaim, declare, utter, say, tell, R
@@ -6317,7 +6317,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 156894	manujīkṛ	manujIkf	manu	manu	parse		?								stem+root (denominal/cmpd)	manu+jI+kf	manu—˚jI-√ kf ¦ P. -karoti, to change into a man, Kathās.
 156944	manuṣyatā	manuzyatA	i	i	fr-root	2P,2Ā	Y								root-attribution		manuzya—tA ¦ f. manhood, humanity, the state or condition of man (acc. with A-√ i, to become a man), R.; MārkP.
 157147	manorājya	manorAjya	kṛ	kf	fr-root	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								root-attribution		mano—rAjya ¦ n. the realm of fancy, Sarvad. (˚jyAni-√ kf, to build castles in the air, Rājat.)
-157378	mantravaśīkṛ	mantravaSIkf	mantra	mantra	parse		?								stem+root (denominal/cmpd)	mantra+vaSI+kf	mantra—vaSI-√ kf ¦ P. -karoti, to subdue by a spell, HPariś.
+157378	mantravaśīkṛ	mantravaSIkf	mantr	mantr	fr-root	10Ā,10P	Y								stem+root (denominal/cmpd)	mantra+vaSI+kf	mantra—vaSI-√ kf ¦ P. -karoti, to subdue by a spell, HPariś.
 157491	manyu	manyu	kṛ	kf	fr-root	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								root-attribution		¦ rage, fury, wrath, anger, indignation, ib. (also personified, esp. as Agni or Kāma or as a Rudra; manyuM √ kf, with lo
 157531	manīkṛ	manIkf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	manI+kf	manI-√ kf ¦ See p. 784, col. 2.
 157612	manthara	manTara	math	maT	fr-root	1,9P,9Ā	Y								root-attribution		manTara ¦ mf(A)n. (allied to √ 2. mand and manda, but in some meanings rather fr. √ maT) slow (lit. and fig.; often ifc.
@@ -6495,10 +6495,10 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 176089	rāga	rAga	rañj	raYj	fr-root	1,4P,4Ā	Y								root-attribution		rAga ¦ m. (fr. √ raYj; ifc. A, or I) the act of colouring or dyeing (cf. mUrDaja-r˚)
 176182	rāgin	rAgin	rañj	raYj	fr-root	1,4P,4Ā	Y								root-attribution		rAgin ¦ mf(iRI)n. (fr. √ raYj, and rAga) coloured, having a partic. colour (applied to a kind of Amaurosis or blindness
 176324	rājacakra	rAjacakra	vṛt	vft	fr-root	1Ā	Y								root-attribution		rAja—cakra ¦ n. the wheel of a k˚'s chariot (˚krampra-√ vft, Caus. to cause it to roll over the earth, obtain sovereignt
-176538	rājamārgīkṛ	rAjamArgIkf	rāja	rAja	parse		?								stem+root (denominal/cmpd)	rAja+mArgI+kf	rAja—mAr˚gI-√ kf ¦ P. -karoti, to make into a main road, Jātakam.
-176696	rājasātkṛ	rAjasAtkf	rāja	rAja	parse		?								other	rAja+sAt+kf	rAja—sAt—√ kf ¦ to make dependent on a k˚, ib.
-176696	rājasātbhū	rAjasAtBU	rāja	rAja	parse		?								other	rAja+sAt+BU	rAja—sAt—√ BU ¦ (HPariś.) to fall to a k˚'s share.
-176696	rājasātsampad	rAjasAtsampad	rāja	rAja	parse		?	sam							prefix+root	rAja+sAt+sam+pad	rAja—sAt—sam-√ pad ¦ (Vop.), to fall to a k˚'s share.
+176538	rājamārgīkṛ	rAjamArgIkf	rāj	rAj	fr-root	1P,1Ā	Y								stem+root (denominal/cmpd)	rAja+mArgI+kf	rAja—mAr˚gI-√ kf ¦ P. -karoti, to make into a main road, Jātakam.
+176696	rājasātkṛ	rAjasAtkf	rāj	rAj	fr-root	1P,1Ā	Y								other	rAja+sAt+kf	rAja—sAt—√ kf ¦ to make dependent on a k˚, ib.
+176696	rājasātbhū	rAjasAtBU	rāj	rAj	fr-root	1P,1Ā	Y								other	rAja+sAt+BU	rAja—sAt—√ BU ¦ (HPariś.) to fall to a k˚'s share.
+176696	rājasātsampad	rAjasAtsampad	rāj	rAj	fr-root	1P,1Ā	Y	sam							prefix+root	rAja+sAt+sam+pad	rAja—sAt—sam-√ pad ¦ (Vop.), to fall to a k˚'s share.
 176878	rājya	rAjya	ās	As	fr-root	2Ā	Y								root-attribution		rAjya/ ¦ n. (also rA/jya or rAjya^) royalty, kingship, sovereignty, empire (‘over’ loc. or comp.; ‘of’ gen. or comp.; ac
 176955	rāji	rAji	raj	raj	fr-root		?								root-attribution		rA/ji ¦ f. (prob. fr. √ raj, raYj) a streak, line, row, range, ŚBr. &c. &c.
 177050	rātri	rAtri	rā	rA	fr-root	2P,2Ā	Y								root-attribution		rA/tri ¦ f(i or I).  or (older) rA/trI (prob. ‘bestower’, fr. √ rA; or ‘season of rest’, fr. √ ram) night, the darkness
@@ -9280,7 +9280,7 @@ L_id	headword	headword_slp1	root	root_slp1	root_via	root_class	root_canonical	pr
 254909	styena	styena	styai	styE	fr-root	1P,1Ā	Y								root-attribution		¦ nectar (in this sense prob. fr. √ styE), L.
 254928	strī	strI	sū	sU	fr-root	6P,6Ā	Y								root-attribution		strI/ ¦ f. (perhaps for sUtrI, or sotrI, ‘bearer of children’, fr. √ 2. sU; accord. to some connected with Lat. sator; n
 255202	sthapuṭīkṛ	sTapuwIkf	kṛ	kf	parse	2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā	Y								stem+root (denominal/cmpd)	sTapuwI+kf	sTapuwI—√ kf ¦ P. -karoti, to make uneven, raise by strewing or heaping up, Hcar.
-255241	sthalapathīkṛ	sTalapaTIkf	sthala	sTala	parse		?								stem+root (denominal/cmpd)	sTala+paTI+kf	sTala—paTI-√ kf ¦ P. -karoti, to make into dry l˚ or road by l˚, Vcar.
+255241	sthalapathīkṛ	sTalapaTIkf	sthal	sTal	fr-root	1P	Y								stem+root (denominal/cmpd)	sTala+paTI+kf	sTala—paTI-√ kf ¦ P. -karoti, to make into dry l˚ or road by l˚, Vcar.
 255277	sthalībhū	sTalIBU	bhū	BU	parse	1P,1Ā	Y								stem+root (denominal/cmpd)	sTalI+BU	sTalI—√ BU ¦ P. -Bavati, to become dry land, Naiṣ., Sch.
 255316	sthā	sTA	sthā	sTA	fr-root	1P,1Ā	Y								root-attribution		1. sTA ¦ cl. 1. P. Ā. (Dhātup. xxii, 30) ti/zWati, ˚te (pf. tasTO/, tasTe, RV. &c. &c.; aor. a/sTAt, a/sTita, ib.; 3. pl
 255384	sthāna	sTAna	vṛt	vft	fr-root	1Ā	Y								root-attribution		¦ place or room, stead (sTAne with gen. or ifc. ‘in place of’, ‘instead of’, ‘in lieu of’; ripu-sTAne-√ vft, ‘to act in
