@@ -12,6 +12,23 @@ python analyze_sktdict_etymology.py skd.txt          # -> skd_etymology.{tsv,jso
 python analyze_sktdict_etymology.py ../vcp/vcp.txt   # -> ../vcp/vcp_etymology.{tsv,jsonl}
 ```
 
+## Also runs on other Cologne Sanskrit-prose dictionaries
+
+The same kāraka + pratyaya pattern appears in several more dicts — the extractor
+takes any of them as its argument:
+
+| dict | derivations | root captured | note |
+|---|--:|--:|---|
+| SKD | 2,214 | 89% | Śabdakalpadruma |
+| VCP | 3,660 | 62% | Vācaspatyam |
+| **Apte (AP90)** | 331 | 85% | Apte 1890 — the Apte representative |
+| AP | 339 | 85% | Apte (practical) |
+| SHS | 258 | 16% | Śabda-sāgara (Wilson tradition; rarely links root to kāraka) |
+| KRM | 305 | 58% | Kṛdanta-rūpa-mālā — a dedicated derivation dictionary, `DAtoH`-heavy |
+
+Cross-dictionary statistics over all of these (plus WIL) live in
+[`../etymology_stats/`](../etymology_stats/README.md).
+
 ## Why a different parser from WIL / Apte
 
 WIL and Apte mark etymology in a dedicated field (WIL's `<ab>E.</ab>`, Apte's
@@ -47,9 +64,18 @@ WIL, SKD and VCP.
 
 ## Columns
 
-`L_id` · `headword` · `headword_slp1` · `root` · `root_slp1` · `prefixes` ·
-`karaka` · `karaka_sense` · `affix` · `affix_slp1` · `group` · `anubandha` ·
-`anubandha_steps` · `affix_source` · `context`
+`L_id` · `headword` · `headword_slp1` · `root` · `root_slp1` · `root_source` ·
+`prefixes` · `karaka` · `karaka_sense` · `affix` · `affix_slp1` · `group` ·
+`anubandha` · `anubandha_steps` · `affix_source` · `context`
+
+`root_source` records how the root was recovered: `local` (the `+`/`--`/`DAtoH`
+pattern next to the kāraka) · `gana-backref` (a *conservative* fill from the
+entry's single unambiguous dhātupāṭha citation — reuses the gaṇa class markers
+from csl-atlas `m4_indigenous.py`) · empty. The gaṇa-backref is intentionally
+narrow (it fires only when an entry cites exactly one dhātu) — a looser pass
+grabbed wrong tokens, so empty roots are kept honest rather than mis-filled. It
+lifts the dhātu-dense KRM most (+65) and SKD/VCP barely (+5/+7): VCP's empty
+tail genuinely needs a dhātupāṭha join, not a heuristic.
 
 `*_etymology.tsv` is committed; the larger `*_etymology.jsonl` is git-ignored
 (regenerate from the script).

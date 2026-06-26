@@ -99,6 +99,29 @@ def _is_rootlike(tok):
         and tok not in STOPWORD and tok not in PRATYAYA
 
 
+# --- conservative gaṇa-gloss backreference (fills empty roots, tagged low-conf) -
+# Reuses the dhātupāṭha class markers from csl-atlas m4_indigenous.py (_GANA).
+GANA_RE = re.compile(r"(?:Bv|ad|juhoty|div|sv|tud|ruD|tan|kry|cur)AdiH|DAt(?:u|oH)")
+# dhātu citation: a clause boundary, then ROOT, then an artha in the locative (-e)
+CITE_RE = re.compile(r"[(¦.]\s*([a-zA-Z']{2,})\s+[a-zA-Z']+e\b")
+_CITE_STOP = {'na', 'su', 'vi', 'sam', 'pra', 'agni', 'agra', 'iti', 'tri',
+              'anu', 'ava', 'upa', 'tasya', 'yasya', 'tatra', 'atra', 'asya'}
+
+
+def entry_dhatu(text):
+    """Return the entry's single unambiguous dhātupāṭha root, or None.
+    Conservative: requires a gaṇa/dhātu marker AND exactly one distinct cited
+    root — so multi-root entries stay empty rather than get a wrong fill."""
+    if not GANA_RE.search(text):
+        return None
+    cands = []
+    for m in CITE_RE.finditer(text):
+        r = m.group(1)
+        if r not in _CITE_STOP and r not in cands:
+            cands.append(r)
+    return cands[0] if len(cands) == 1 else None
+
+
 def find_root(prefix_text):
     """Given the text immediately BEFORE the kāraka, recover (root, prefixes).
     Prefers an explicit '+ chain'; filters upasargas to prefixes and skips
@@ -132,13 +155,17 @@ def parse_entry(L_id, headword, body):
     """Return a list of derivation records mined from one entry body."""
     out = []
     text = re.sub(r'\s+', ' ', body)
+    e_dhatu = entry_dhatu(text)          # computed once per entry
     seen = set()
     for m in HIT_RE.finditer(text):
         kar = norm_karaka(m.group('kar'))
         aff_slp1 = m.group('aff')
         before = text[max(0, m.start() - 60):m.start()]
         root_slp1, pref_slp1 = find_root(before)
-        key = (root_slp1, kar, aff_slp1)
+        root_source = 'local' if root_slp1 else None
+        if not root_slp1 and e_dhatu:    # conservative gaṇa-gloss backreference
+            root_slp1, root_source = e_dhatu, 'gana-backref'
+        key = (root_slp1, kar, aff_slp1, root_source)
         if key in seen:
             continue
         seen.add(key)
@@ -149,6 +176,7 @@ def parse_entry(L_id, headword, body):
             'headword_slp1': headword,
             'root': to_iast(root_slp1) if root_slp1 else None,
             'root_slp1': root_slp1,
+            'root_source': root_source,
             'prefixes': ' '.join(to_iast(p) for p in pref_slp1) or None,
             'karaka': norm_karaka(m.group('kar')),
             'karaka_sense': KARAKA_SENSE.get(kar, kar),
@@ -190,9 +218,9 @@ def main():
                 buf.append(ln)
 
     base = os.path.dirname(os.path.abspath(path))
-    cols = ['L_id', 'headword', 'headword_slp1', 'root', 'root_slp1', 'prefixes',
-            'karaka', 'karaka_sense', 'affix', 'affix_slp1', 'group', 'anubandha',
-            'anubandha_steps', 'affix_source', 'context']
+    cols = ['L_id', 'headword', 'headword_slp1', 'root', 'root_slp1', 'root_source',
+            'prefixes', 'karaka', 'karaka_sense', 'affix', 'affix_slp1', 'group',
+            'anubandha', 'anubandha_steps', 'affix_source', 'context']
     tsv = os.path.join(base, dictcode + '_etymology.tsv')
     with open(tsv, 'w', encoding='utf-8', newline='') as f:
         f.write('\t'.join(cols) + '\n')
@@ -219,6 +247,11 @@ def main():
     print("\nAffix provenance:")
     for s, n in Counter(r['affix_source'] for r in records).most_common():
         print("  {:26s} {}".format(s, n))
+    rs = Counter(r['root_source'] for r in records)
+    have = rs['local'] + rs['gana-backref']
+    print("\nRoot capture: {}/{} ({:.0f}%) -- local {}, gaṇa-backref {}, empty {}".format(
+        have, len(records), 100 * have / max(1, len(records)),
+        rs['local'], rs['gana-backref'], rs[None]))
 
 
 if __name__ == '__main__':

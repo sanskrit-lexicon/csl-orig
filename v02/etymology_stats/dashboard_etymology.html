@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cologne etymology — cross-dictionary statistics</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<style>
+ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:1000px;margin:0 auto;padding:24px;color:#1a1a19;background:#fcfcfb}
+ h1{font-size:22px;font-weight:500} h2{font-size:18px;font-weight:500;margin-top:36px;border-top:1px solid #e1e0d9;padding-top:20px}
+ p{color:#52514e;line-height:1.6;font-size:14px} .cards{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
+ .card{background:#f1efe8;border-radius:8px;padding:10px 14px;min-width:90px}
+ .card .n{font-size:24px;font-weight:500} .card .l{font-size:12px;color:#52514e}
+ table{border-collapse:collapse;font-size:13px;width:100%} td,th{padding:6px 8px;text-align:left;border-bottom:0.5px solid #e1e0d9}
+ th{color:#52514e;font-weight:500} .hm{display:grid;gap:3px;font-size:12px;margin-top:8px}
+ .hm div{padding:8px 4px;text-align:center;border-radius:3px} .cw{position:relative;height:340px}
+ i{font-style:italic}
+</style></head><body>
+<h1>Cologne dictionaries — Pāṇinian derivation statistics</h1>
+<p>Generated from the <code>*_etymology.tsv</code> extractions. WIL uses the English-prose <code>E.</code> field;
+SKD, VCP, Apte, AP, SHS, KRM use Sanskrit-prose kāraka + pratyaya. Only the Sanskrit-side dicts carry a kāraka.</p>
+<div class="cards" id="cards"></div>
+
+<h2>Kāraka × pratyaya (Sanskrit-side, pooled)</h2>
+<p>Which affix derives a word in which kāraka sense. Darker = more derivations. This grid is impossible from WIL/Apte-English alone — only the Sanskrit dictionaries state the kāraka.</p>
+<div id="heat"></div>
+
+<h2>Affix kāraka-spread (entropy)</h2>
+<p>How many distinct kāraka senses one affix forms. High = a "generalist" affix (e.g. <i>ac</i>, <i>ka</i>); low = specialised (e.g. <i>lyu</i> → agent only).</p>
+<div class="cw"><canvas id="ent" role="img" aria-label="Affix entropy bar chart"></canvas></div>
+
+<h2>Root productivity (Sanskrit-side, pooled)</h2>
+<p>Roots with the most derivatives across the Sanskrit dictionaries.</p>
+<div class="cw"><canvas id="roots" role="img" aria-label="Most productive roots"></canvas></div>
+
+<h2>Cross-dictionary affix agreement</h2>
+<p>For head-words shared by two dictionaries (both giving an affix), how often the affix agrees.</p>
+<table id="agree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>affix agrees</th><th>%</th></tr></thead><tbody></tbody></table>
+
+<h2>Root-capture coverage</h2>
+<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>gaṇa-backref</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
+
+<script>
+const D={"codes": ["WIL", "SKD", "VCP", "Apte", "AP", "SHS", "KRM"], "sanskrit": ["SKD", "VCP", "Apte", "AP", "SHS", "KRM"], "perdict": {"WIL": 19644, "SKD": 2214, "VCP": 3660, "Apte": 331, "AP": 339, "SHS": 258, "KRM": 305}, "heat": {"affixes": ["lyuṭ", "ghañ", "kta", "ac", "ktin", "ap", "kvip", "ka", "lyu", "yat"], "karakas": ["bhāve", "karaṇe", "karmaṇi", "kartari", "adhikaraṇe", "apādāne", "sampradāne"], "matrix": [[1248, 627, 81, 21, 37, 8, 0], [923, 300, 163, 58, 52, 12, 4], [413, 23, 300, 339, 8, 0, 0], [154, 47, 30, 169, 3, 7, 0], [242, 46, 7, 3, 5, 2, 0], [134, 46, 33, 0, 8, 27, 0], [103, 23, 11, 50, 3, 6, 0], [12, 23, 14, 134, 3, 1, 0], [6, 3, 0, 173, 0, 0, 0], [28, 11, 69, 26, 3, 0, 1]], "rowtot": [2022, 1512, 1083, 410, 305, 248, 196, 187, 182, 138]}, "entropy": [["ḍa", 2.092, 34], ["anīyar", 2.004, 47], ["yat", 1.883, 138], ["ac", 1.844, 410], ["kvip", 1.833, 196], ["ap", 1.826, 248], ["kta", 1.738, 1083], ["in", 1.679, 54], ["ghañ", 1.67, 1512], ["aṇ", 1.482, 31]], "agreement": [["WIL", "SKD", 70, 16, 22.9], ["WIL", "VCP", 1504, 921, 61.2], ["WIL", "Apte", 83, 45, 54.2], ["WIL", "AP", 82, 43, 52.4], ["WIL", "SHS", 190, 114, 60.0], ["WIL", "KRM", 45, 10, 22.2], ["SKD", "VCP", 65, 61, 93.8], ["SKD", "Apte", 84, 77, 91.7], ["SKD", "AP", 61, 56, 91.8], ["SKD", "SHS", 5, 5, 100.0], ["VCP", "Apte", 93, 90, 96.8], ["VCP", "AP", 97, 94, 96.9], ["VCP", "SHS", 206, 203, 98.5], ["VCP", "KRM", 15, 3, 20.0], ["Apte", "AP", 178, 178, 100.0], ["Apte", "SHS", 27, 26, 96.3], ["AP", "SHS", 31, 31, 100.0]], "roots": [["kṛ", 114], ["bhū", 56], ["evaṃ", 38], ["hṛ", 36], ["jñā", 33], ["saṃjñāyāṃ", 32], ["gatau", 30], ["dā", 28], ["krama", 28], ["tṝ", 27], ["ji", 25], ["gam", 25], ["jan", 23], ["ghañarthe", 23], ["cara", 23]], "karaka_dist": [["bhāve", 1011, 1973, 205, 202, 178, 30], ["karaṇe", 341, 708, 67, 73, 38, 26], ["karmaṇi", 445, 409, 0, 0, 1, 0], ["kartari", 291, 515, 56, 61, 39, 227], ["adhikaraṇe", 109, 5, 0, 0, 1, 19], ["apādāne", 14, 45, 3, 3, 1, 2], ["sampradāne", 3, 5, 0, 0, 0, 1]], "capture": [["SKD", 2214, 1960, 5, 249, 88.8], ["VCP", 3660, 2263, 7, 1390, 62.0], ["Apte", 331, 277, 5, 49, 85.2], ["AP", 339, 289, 0, 50, 85.3], ["SHS", 258, 40, 0, 218, 15.5], ["KRM", 305, 112, 65, 128, 58.0]]};
+const cards=document.getElementById('cards');
+D.codes.forEach(c=>cards.insertAdjacentHTML('beforeend',`<div class="card"><div class="n">${D.perdict[c]}</div><div class="l">${c}</div></div>`));
+
+const H=D.heat, max=Math.max(...H.matrix.flat());
+function col(v){const t=Math.sqrt(v/max);const a=[230,241,251],b=[24,95,165];return `rgb(${Math.round(a[0]+(b[0]-a[0])*t)},${Math.round(a[1]+(b[1]-a[1])*t)},${Math.round(a[2]+(b[2]-a[2])*t)})`;}
+const heat=document.getElementById('heat');
+const grid=document.createElement('div');grid.className='hm';
+grid.style.gridTemplateColumns=`60px repeat(${H.karakas.length},1fr) 52px`;
+grid.insertAdjacentHTML('beforeend','<div></div>'+H.karakas.map(k=>`<div style="color:#52514e">${k}</div>`).join('')+'<div style="color:#52514e">total</div>');
+H.affixes.forEach((a,i)=>{
+ grid.insertAdjacentHTML('beforeend',`<div style="font-style:italic;text-align:left;align-self:center">${a}</div>`);
+ H.matrix[i].forEach(v=>{const t=Math.sqrt(v/max);grid.insertAdjacentHTML('beforeend',`<div style="background:${col(v)};color:${t>0.55?'#fff':'#042C53'}${v===0?';opacity:.4':''}">${v||''}</div>`);});
+ grid.insertAdjacentHTML('beforeend',`<div style="color:#52514e;align-self:center">${H.rowtot[i]}</div>`);
+});
+heat.appendChild(grid);
+
+new Chart(document.getElementById('ent'),{type:'bar',data:{labels:D.entropy.map(e=>e[0]),
+ datasets:[{label:'entropy (bits)',data:D.entropy.map(e=>e[1]),backgroundColor:'#2a78d6'}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{title:{display:true,text:'kāraka-spread entropy (bits)'}}}}});
+
+new Chart(document.getElementById('roots'),{type:'bar',data:{labels:D.roots.map(r=>r[0]),
+ datasets:[{label:'derivatives',data:D.roots.map(r=>r[1]),backgroundColor:'#1baf7a'}]},
+ options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}});
+
+const at=document.querySelector('#agree tbody');
+D.agreement.sort((a,b)=>b[2]-a[2]).forEach(r=>at.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}%</td></tr>`));
+const ct=document.querySelector('#cap tbody');
+D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}%</td></tr>`));
+</script></body></html>
