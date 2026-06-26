@@ -17,3 +17,5 @@ __pycache__
 .contributing_old.md
 .contributing_audit.txt
 v02/wil/wil_etymology.jsonl
+v02/skd/skd_etymology.jsonl
+v02/vcp/vcp_etymology.jsonl

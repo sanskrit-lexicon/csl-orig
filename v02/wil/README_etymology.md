@@ -71,10 +71,14 @@ Two helpers are **mirrored from** the project's affix teaching tool
 (copied, not imported, because its `apte_parse → sanskrit_util` chain is too
 heavy for a csl-orig script):
 
-* **`group`** — `group_of(function, kind)` buckets each affix by *what it makes*:
-  Agent · Participle · Gerundive · Action/result noun · Abstract quality ·
-  Feminine stem · Possessive · Comparison · Adverb · Temporal ·
-  Relational/patronymic · Diminutive · Augment (āgama) · Uṇādi · Other.
+* **`group`** — `group_of(function, kind)` buckets each affix by *what it makes*.
+  The base buckets are mirrored from `affix_pedagogy.py`; this script extends
+  them for Wilson's tail: Agent · Participle · Gerundive · Action/result noun ·
+  Abstract quality · Feminine stem · Possessive · Comparison · Adverb · Temporal ·
+  Relational/patronymic · Diminutive · Augment (āgama) · **Absolutive** ·
+  **Bare root / zero affix** · **Material / abundance** ·
+  **Compound-final (samāsānta)** · Uṇādi formation ·
+  **Derivative noun / adjective** · Other.
 * **`anubandha_steps`** — the per-pratyaya it-marker **stripping steps** (P.1.3.2–
   1.3.9 + substitutions), e.g. `kta` → `k = it (P.1.3.8) ; → surface -ta`;
   `ghañ` → `gh = it (initial) ; ñ = it (→ vṛddhi) ; → -a`. Populated for the

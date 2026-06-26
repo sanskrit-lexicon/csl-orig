@@ -217,7 +217,16 @@ def group_of(fn, kind):
     if 'relational' in f or 'patronymic' in f: return 'Relational / patronymic'
     if 'diminutive' in f:       return 'Diminutive / self-sense'
     if 'augment' in f or kind == 'augment': return 'Augment (āgama)'
+    # --- WIL-tail buckets (extension beyond affix_pedagogy.py's groups) ---
+    if 'absolutive' in f or 'gerund' in f: return 'Absolutive — “having Xed”'
+    if 'zero affix' in f or 'root used directly' in f or 'root-noun' in f or 'root as' in f:
+        return 'Bare root / zero affix'
+    if 'made of' in f or 'consisting' in f or 'full of' in f or 'material' in f:
+        return 'Material / abundance'
+    if 'samāsānta' in f or 'compound-final' in f: return 'Compound-final (samāsānta)'
     if kind == 'uṇādi':         return 'Uṇādi formation'
+    if 'derivative' in f or 'noun' in f or 'adjective' in f:
+        return 'Derivative noun / adjective'
     return 'Other'
 
 # pratyaya_iast -> [stripping steps]  (mirrored from affix_pedagogy.py)
