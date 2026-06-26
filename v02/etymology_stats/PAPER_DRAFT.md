@@ -1,7 +1,28 @@
 # Cross-dictionary consistency of Pāṇinian derivation in the Cologne lexica
 
-*Draft — methods + findings. Generated from the etymology extractions in
-`csl-orig/v02/*/​*_etymology.tsv`. Regenerate stats: `python stats_etymology.py`.*
+*Draft (pre-submission) — target: International Journal of Lexicography /
+Lexicographica; WSC 2027 indological alternate. Author: M. Gasūns (byline to
+finalise). Empirical basis + datasheet: [`DATASHEET.md`](DATASHEET.md); all figures
+reproducible from `csl-orig/v02/*/​*_etymology.tsv` via `python stats_etymology.py`.
+Live dashboard: https://sanskrit-lexicon.github.io/csl-orig/ .*
+
+## Abstract
+
+The dictionaries of the Cologne Digital Sanskrit Lexicon were compiled across two
+centuries by three scholarly traditions — the indigenous Sanskrit grammarians, the
+English Indologists, and the German Petersburg school — each stating a word's
+*derivation* (its root, affix, and the grammatical relation the affix expresses) in
+its own idiom. We extract that derivational layer from ten dictionaries (~67,000
+derivations) with a single shared affix-and-dhātu code base, and ask whether the
+traditions *agree*. They do, sharply, within the Sanskrit tradition: independent
+indigenous lexica agree on a head-word's affix **90–100 %** of the time. Wilson
+1832 is the lone, statistically clear outlier (22.9 % with the Śabdakalpadruma, a
+95 % interval that does not reach any Sanskrit-side pair). Across traditions, the
+English √-notation (Monier-Williams) and the German "Wurzel" convention agree on the
+root for ~two-thirds of shared head-words. The kāraka×pratyaya structure we recover
+is linguistically sound, and a dictionary's kāraka profile turns out to fingerprint
+its purpose. The extraction is a tiered, provenance-tagged pipeline whose precision
+we audit; we release the data and an interactive dashboard.
 
 ## Question
 
@@ -11,6 +32,35 @@ the **indigenous Sanskrit** grammarians (Śabdakalpadruma, Vācaspatyam, …), t
 Petersburg school (PWG, PW). Each states a word's derivation in its own idiom.
 Do they *agree* on how a given head-word is derived — and where they differ, is
 the difference systematic?
+
+## Related work
+
+This study is the **derivational counterpart** to a small body of recent
+quantitative work on the same corpus. Gasūns, *Grammar Without Tags: The
+Verbal-Root Microstructure of the Indigenous Sanskrit Kośa* (in prep.; csl-atlas
+A04) shows that the indigenous lexica encode a rich *verbal-root* apparatus — which
+records are roots, and each root's gaṇa/pada via anubandha letters — that European
+microstructure detectors miss, and that five indigenous lexica **agree on the
+grammar** they record (gaṇa compatible 85.5 % across 1,526 doubly-classified roots).
+A companion outline (SanskritLexicography A30) treats ŚKD/VCP indigenous
+microstructure. Our work is complementary along three axes and shares one corpus,
+so the three should be read together (and cross-cite rather than re-derive):
+
+1. **Unit.** A04/A30 study the *root entry* and its conjugational metadata; we study
+   the *derived head-word* and its derivational analysis (root **+ pratyaya +
+   kāraka**). The root-grammar layer and the derivation layer are orthogonal.
+2. **Scope.** A04 explicitly excludes the European dictionaries (they carry ≤ 8 root
+   entries each). We *include* them — the derivation of a head-word is exactly what
+   Wilson, Monier-Williams and the Petersburg dictionaries *do* record — which is
+   what lets us measure cross-*tradition* (not just intra-indigenous) agreement.
+3. **Agreement object.** A04 validates extraction by root×root-grammar agreement; we
+   validate by head-word×affix agreement, and find the indigenous tradition even
+   more consistent on the *affix* (90–100 %) than on root gaṇa (85.5 %).
+
+We adopt A04's central methodological stance — that a near-zero score from a
+tag-based detector over an indigenous lexicon is a measurement artefact, not an
+absence of content, and that **cross-source agreement is the validation** when no
+gold standard exists.
 
 ## Method
 
@@ -102,6 +152,26 @@ interval (≤34%) does not overlap any Sanskrit-side pair's interval (≥83%), s
 divergence is statistically clear, not sampling noise — confirming Wilson's
 idiosyncratic, pre-critical etymologies as a distinct stratum.
 
+**Table 1 — Cross-dictionary affix agreement** (head-words both dicts root with an
+affix; proportion with 95 % Wilson interval, sorted by shared count). The
+Sanskrit-side block (top) is uniformly high; the Wilson block (bottom) is uniformly
+low and its intervals do not reach the Sanskrit-side block — the divergence is
+structural, not sampling noise.
+
+| pair | shared HW | agree (95 % CI) |
+|---|--:|---|
+| Apte ↔ AP | 178 | 100.0 % [97.9–100] |
+| VCP ↔ SHS | 206 | 98.5 % [95.8–99.5] |
+| VCP ↔ AP | 97 | 96.9 % [91.3–98.9] |
+| VCP ↔ Apte | 93 | 96.8 % [90.9–98.9] |
+| SKD ↔ Apte | 84 | 91.7 % [83.8–95.9] |
+| — *Wilson* — | | |
+| WIL ↔ VCP | 1504 | 61.2 % [58.7–63.7] |
+| WIL ↔ SHS | 190 | 60.0 % [52.9–66.7] |
+| WIL ↔ Apte | 83 | 54.2 % [43.5–64.5] |
+| WIL ↔ AP | 82 | 52.4 % [41.8–62.9] |
+| WIL ↔ SKD | 70 | 22.9 % [14.6–34.0] |
+
 **F3 — Cross-tradition root attribution holds at ~two-thirds.** The two large
 root-attributing dictionaries, MW (English, √-notation) and PWG (German, "von
 Wurzel"), agree on the root **65%** of shared head-words; PWG↔PW 93%. Root
@@ -119,11 +189,30 @@ bhāve/karmaṇi/kartari (its three participial readings), `lyu` is monosemous
 (kartari, entropy 0.33 bits), while `ḍa`, `anīyar`, `ac` are kāraka-generalists
 (entropy ~2 bits). bhāve dominates the kāraka distribution (51%).
 
+**Table 2 — Root coverage, two tiers.** The *inclusive* tier uses all six recovery
+tiers (≈ 92 % precision); the *strict* tier drops the one sub-100 % tier
+(`nearest-root`) for ≈ 100 % precision. The headline agreement results above are
+*identical* in both tiers (MW↔PWG 64.2 %, PWG↔PW 93.9 % either way), so the choice
+of tier never changes a conclusion — only the coverage figure.
+
+| dict | derivations | inclusive | strict (≈100 % prec.) |
+|---|--:|--:|--:|
+| KRM | 305 | 100.0 % | 100.0 % |
+| SKD | 2,213 | 93.3 % | 93.0 % |
+| SHS | 258 | 96.1 % | 92.2 % |
+| AP | 339 | 95.9 % | 90.3 % |
+| Apte | 332 | 91.6 % | 86.7 % |
+| VCP | 3,664 | 97.4 % | 82.9 % |
+
 ## Artefacts
 
-Per-dict TSVs (`<dict>_etymology.tsv`), eight summary CSVs, and an interactive
-[`dashboard_etymology.html`](dashboard_etymology.html) (kāraka×pratyaya heatmap,
-affix entropy, root productivity, affix & root agreement matrices).
+Per-dict TSVs (`<dict>_etymology.tsv`), the cross-dict root oracle
+(`root_oracle.tsv`), nine summary CSVs (incl. `root_capture.csv` with both coverage
+tiers and `cross_dict_root_agreement_strict.csv`), a full [`DATASHEET.md`](DATASHEET.md)
+(Gebru-style), and an interactive [dashboard](https://sanskrit-lexicon.github.io/csl-orig/)
+(kāraka×pratyaya heatmap, affix entropy, root productivity, affix & root agreement
+matrices, per-affix DSG/Russian legend, Whitney root links). Everything is
+regenerable from the committed pipeline.
 
 ## Limits / next
 
