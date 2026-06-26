@@ -49,10 +49,20 @@ true figures higher, since several "misses" are the judge rejecting a correct
 root in a stem rather than citation form (*sada* for *sad*). The bulk tiers
 (*local*, *headword-root*) are ≈ 100% by construction, and the *llm-pass* roots
 are returned in clean citation form and dhātu-validated, so the rooted subset is
-high-precision overall; the residual error is dominated by surface-form variants,
-a normalization task, not misidentification. MW roots are independently
-cross-validated against the canonical `mw_roots.tsv` register: **99 %** of MW's
-rooted derivations carry a genuine MW root (the 1 % rest are flagged variants).
+high-precision overall. MW roots are independently cross-validated against the
+canonical `mw_roots.tsv` register: **99 %** of MW's rooted derivations carry a
+genuine MW root (the 1 % rest are flagged variants).
+
+**Root-form normalization.** The residual error the audit exposed was dominated
+by *surface-form variants* — a correct dhātu in a thematic-stem form (`sada` for
+`sad`, `bhuja` for `bhuj`) or with a long-vowel slip (`ghṝ` for `ghṛ`) — not by
+misidentification. A final pass folds these onto their citation form: a
+deterministic (variant → canonical) map built from `mw_roots.tsv`'s citation-form
+head-words, where a root is rewritten only if it is not itself canonical and
+exactly one reduction lands on a canonical root (so a genuine distinct root such
+as `kṝ` "to scatter", which *is* canonical, is never collapsed into `kṛ` "to
+do"). 622 variants fold across the corpus, consolidating the distinct-root count
+from 2,493 to 2,090 and merging their derivative counts onto the right root.
 
 **The root oracle.** A (derived-word → root) index is pooled from every
 dictionary's high-confidence root captures, with two precision guards: the root

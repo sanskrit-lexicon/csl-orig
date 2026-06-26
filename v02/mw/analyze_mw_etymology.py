@@ -28,7 +28,10 @@ sys.stderr.reconfigure(encoding='utf-8')
 # reuse affix machinery (WIL) and the vendored dhātu list -----------------------
 _WILDIR = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'wil'))
 sys.path.insert(0, _WILDIR)
+sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                                 '..', 'etymology_stats')))
 import analyze_wil_etymology as wil          # noqa: E402
+import root_norm                             # noqa: E402
 to_iast = wil.to_iast
 
 UPASARGA = {'pra', 'parA', 'apa', 'sam', 'anu', 'ava', 'nis', 'nir', 'dus', 'dur',
@@ -109,6 +112,7 @@ def parse_entry(L_id, headword, body):
                 prefixes.append(mem)
     if root is None and fr_root and (not ROOT_SET or fr_root in ROOT_SET or not members):
         root = fr_root
+    root = root_norm.canon(root)            # fold surface variant -> citation form
 
     if not members and not fr_root:
         return None

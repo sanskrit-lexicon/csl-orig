@@ -29,7 +29,10 @@ sys.stderr.reconfigure(encoding='utf-8')
 _WILDIR = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                         '..', 'wil'))
 sys.path.insert(0, _WILDIR)
+sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                                 '..', 'etymology_stats')))
 import analyze_wil_etymology as wil          # noqa: E402
+import root_norm                             # noqa: E402  (variant -> citation form)
 to_iast = wil.to_iast
 decode_affix = wil.decode_affix              # (note, source, group, steps)
 
@@ -266,6 +269,7 @@ def parse_entry(L_id, headword, body):
             root_slp1, root_source = ORACLE[headword], 'oracle-join'
         if not root_slp1 and LLM_ROOTS.get(headword):  # DeepSeek-resolved residual
             root_slp1, root_source = LLM_ROOTS[headword], 'llm-pass'
+        root_slp1 = root_norm.canon(root_slp1)  # fold surface variant -> citation form
         key = (root_slp1, kar, aff_slp1, root_source)
         if key in seen:
             continue

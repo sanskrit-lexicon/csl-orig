@@ -10,6 +10,25 @@ into cross-dictionary statistics and one self-contained HTML dashboard.
 python stats_etymology.py        # auto-detects sibling <dict>/<dict>_etymology.tsv
 ```
 
+## Full reproducible build order
+
+The root tiers depend on artefacts built from the extractions, so a clean rebuild
+is two passes (the root-norm map must be built from *un-normalized* roots):
+
+```sh
+python build_dhatu_roots.py                 # dhatu_roots.txt  (vidyut + m4 + mw_roots + local)
+# pass 1 — extract raw (no root_norm.tsv present yet)
+for d in skd vcp ap90 ap shs krm; do python ../skd/analyze_sktdict_etymology.py ../$d/$d.txt; done
+python ../mw/analyze_mw_etymology.py ; python ../pwg/analyze_pwg_etymology.py ../pwg/pwg.txt
+python build_root_oracle.py                 # root_oracle.tsv  (cross-dict + KRM paradigm)
+python build_root_normalization.py          # root_norm.tsv    (variant -> citation form)
+# (optional) llm_root_tools.py resolve --dict vcp/shs   -> <dict>_llm_roots.tsv
+# pass 2 — re-extract with all tiers (root_norm now folds variants)
+for d in skd vcp ap90 ap shs krm; do python ../skd/analyze_sktdict_etymology.py ../$d/$d.txt; done
+python ../mw/analyze_mw_etymology.py ; python ../pwg/analyze_pwg_etymology.py ../pwg/pwg.txt
+python build_root_oracle.py ; python stats_etymology.py
+```
+
 ## Dictionaries covered
 
 | dict(s) | style | gives |

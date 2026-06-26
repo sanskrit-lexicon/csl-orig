@@ -27,7 +27,10 @@ sys.stderr.reconfigure(encoding='utf-8')
 
 _WILDIR = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'wil'))
 sys.path.insert(0, _WILDIR)
+sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                                 '..', 'etymology_stats')))
 import analyze_wil_etymology as wil          # noqa: E402
+import root_norm                             # noqa: E402
 to_iast = wil.to_iast
 
 ROOT_SET = set()
@@ -79,6 +82,8 @@ def parse_entry(L_id, headword, body):
         # "von" lowercase mid-sentence is weak unless the source is a known root
         if marker == 'von' and cls != 'root':
             continue
+        if cls == 'root':
+            src = root_norm.canon(src)      # fold surface variant -> citation form
         key = (src, marker)
         if key in seen:
             continue
