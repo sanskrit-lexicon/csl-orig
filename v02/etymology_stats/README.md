@@ -31,6 +31,14 @@ purpose**: their `<ab>E.</ab>` means "Epithet of" / "Epic", not Etymology.
 `root_productivity.csv` · `root_capture.csv` · **`dashboard_etymology.html`**
 (open in a browser — Chart.js loaded from CDN; the heatmap is inline).
 
+`sample_nearest_root_audit.py` samples rows whose root was inferred by the
+nearest-root fallback and writes `nearest_root_audit_sample.csv` for manual
+precision review:
+
+```sh
+python sample_nearest_root_audit.py --per-dict 25
+```
+
 ## Headline findings (current run)
 
 * **The Sanskrit grammatical tradition is internally consistent.** Sanskrit-side
