@@ -50,6 +50,23 @@ def load_root_set():
     return len(ROOT_SET)
 
 
+# Canonical MW root register (mw_roots.tsv): SLP1 root -> verb classes. Used to
+# tag each extracted MW root with its conjugation class and flag whether it is a
+# canonical genuine root (vs a surface variant / parse artefact).
+MW_ROOTS = {}
+
+
+def load_mw_roots():
+    import csv as _csv
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'mw_roots.tsv')
+    if os.path.exists(p):
+        for r in _csv.DictReader(open(p, encoding='utf-8'), delimiter='\t'):
+            k = r.get('k1_slp1')
+            if k and k not in MW_ROOTS:
+                MW_ROOTS[k] = (r.get('classes', ''), r.get('verb_type', ''))
+    return len(MW_ROOTS)
+
+
 PARSE_RE = re.compile(r'parse="([^"]+)"')
 FRROOT_RE = re.compile(r'<ab>fr\.</ab>\s*√\s*(?:<hom>[^<]*</hom>\s*)?<s>([^<]+)</s>')
 SVERB_RE = re.compile(r'<s>[^<]*√\s*([A-Za-z][A-Za-z\']*)</s>')   # <s>aMSI-√ kf</s>
@@ -114,6 +131,11 @@ def parse_entry(L_id, headword, body):
     if affix:
         note, source, group, steps = wil.decode_affix(affix)
 
+    # cross-link the root to the canonical MW root register (mw_roots.tsv)
+    mw_r = MW_ROOTS.get(root) if root else None
+    root_class = mw_r[0] if mw_r else None
+    root_canonical = 'Y' if mw_r else ('?' if root else None)
+
     return {
         'L_id': L_id,
         'headword': to_iast(headword) if headword else None,
@@ -121,6 +143,8 @@ def parse_entry(L_id, headword, body):
         'root': to_iast(root) if root else None,
         'root_slp1': root,
         'root_via': ('parse' if (root and root in members) else ('fr-root' if root else None)),
+        'root_class': root_class,
+        'root_canonical': root_canonical,
         'prefixes': ' '.join(to_iast(p) for p in prefixes) or None,
         'affix': to_iast(affix) if affix else None,
         'affix_slp1': affix,
@@ -140,7 +164,8 @@ def main():
     path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), 'mw.txt')
     wil.load_affix_base()
     nr = load_root_set()
-    print("Affix table + {} dhātu roots loaded".format(nr))
+    nmw = load_mw_roots()
+    print("Affix table + {} dhātu roots + {} canonical MW roots loaded".format(nr, nmw))
 
     records = []
     L_id = headword = None
@@ -163,8 +188,9 @@ def main():
 
     base = os.path.dirname(os.path.abspath(path))
     cols = ['L_id', 'headword', 'headword_slp1', 'root', 'root_slp1', 'root_via',
-            'prefixes', 'affix', 'affix_slp1', 'group', 'anubandha',
-            'anubandha_steps', 'affix_source', 'deriv_type', 'parse', 'context']
+            'root_class', 'root_canonical', 'prefixes', 'affix', 'affix_slp1',
+            'group', 'anubandha', 'anubandha_steps', 'affix_source', 'deriv_type',
+            'parse', 'context']
     with open(os.path.join(base, 'mw_etymology.tsv'), 'w', encoding='utf-8', newline='') as f:
         f.write('\t'.join(cols) + '\n')
         for r in records:
@@ -181,6 +207,9 @@ def main():
         print("  {:18s} {}".format(t, n))
     rooted = sum(1 for r in records if r['root'])
     print("\nRoot identified: {}/{} ({:.0f}%)".format(rooted, len(records), 100 * rooted / max(1, len(records))))
+    canon = sum(1 for r in records if r.get('root_canonical') == 'Y')
+    print("Root in canonical mw_roots.tsv: {}/{} ({:.0f}% of rooted) -- rest are surface "
+          "variants / parse artefacts".format(canon, rooted, 100 * canon / max(1, rooted)))
     affixed = sum(1 for r in records if r['affix'])
     print("Affix identified: {}".format(affixed))
     print("\nTop roots:")

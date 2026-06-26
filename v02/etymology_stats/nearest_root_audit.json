@@ -1,0 +1,10 @@
+{
+ "nearest-root": {
+  "correct": 24,
+  "n": 35
+ },
+ "oracle-join": {
+  "correct": 26,
+  "n": 35
+ }
+}

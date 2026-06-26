@@ -47,6 +47,18 @@ def from_m4(roots):
                 roots.add(k)
 
 
+def from_mw_roots(roots):
+    """Canonical MW verbal-root inventory (SHARED_CODE.md §11). Read the TSV;
+    never re-scan mw.txt for roots."""
+    p = os.path.join(V02, 'mw', 'mw_roots.tsv')
+    if not os.path.exists(p):
+        return
+    for r in csv.DictReader(open(p, encoding='utf-8'), delimiter='\t'):
+        k = (r.get('k1_slp1') or '').strip()
+        if 1 <= len(k) <= 10 and re.fullmatch(SLP1, k):
+            roots.add(k)
+
+
 def from_local_tsv(roots):
     for sub in ('skd', 'vcp', 'ap90', 'ap', 'krm'):
         p = os.path.join(V02, sub, sub + '_etymology.tsv')
@@ -61,16 +73,18 @@ def main():
     roots = set()
     from_vidyut(roots); n1 = len(roots)
     from_m4(roots);     n2 = len(roots)
+    from_mw_roots(roots); n3 = len(roots)
     from_local_tsv(roots)
     roots = {r for r in roots if 1 <= len(r) <= 10}
     out = os.path.join(HERE, 'dhatu_roots.txt')
     with open(out, 'w', encoding='utf-8') as f:
         f.write("# canonical SLP1 dhātu list for the dhātupāṭha join.\n")
-        f.write("# sources: vidyut dhatupatha + csl-atlas m4 indigenous roots + local extractor roots.\n")
+        f.write("# sources: vidyut dhatupatha + csl-atlas m4 indigenous roots + canonical mw_roots.tsv + local extractor roots.\n")
         f.write("# regenerate: python build_dhatu_roots.py\n")
         for r in sorted(roots):
             f.write(r + '\n')
-    print("vidyut={} +m4={} +local={} -> {} roots".format(n1, n2 - n1, len(roots) - n2, len(roots)))
+    print("vidyut={} +m4={} +mw_roots={} +local={} -> {} roots".format(
+        n1, n2 - n1, n3 - n2, len(roots) - n3, len(roots)))
     print("wrote", out)
 
 

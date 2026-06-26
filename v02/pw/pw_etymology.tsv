@@ -15,10 +15,12 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 7313	abhicārya	aBicArya	car	car	root	True		von	s. von {#car#} mit {#aBi#}.
 7939	abhyānta	aByAnta	am	am	root	True		von	s. von {#am#} mit {#aBi#}.
 8057	abhrya	aBrya	abhra	aBra	root	True		von	*{#aBrya#}¦ Adj. von {#aBra#}.
+8642	amyak	amyak	myakṣ	myakz	root	True		von	r. von {#myakz#}.
 9249	arkatva	arkatva	arka	arka	root	True		von	m. abstr. von {#arka#} in unbest. Bed.
 9301	arkīya	arkIya	arka	arka	root	True		von	*{#arkIya#}¦ Adj. von {#arka#}.
 9541	arthāpay	arTApay	artha	arTa	root	True		von	#}¦ {#˚yati#} Denom. von {#arTa#}.
 11320	avocat	avocat	vac	vac	root	True		von	am#}, {#˚cas#}¦ Aor. von {#vac#}.
+11556	aśiśnat	aSiSnat	śnath	SnaT	root	True		von	r. von {#SnaT#}.
 12015	aṣṭa	azwa	akṣa	akza	root	True		von	〉 Partic. von {#akza#} (in 1. {#azwakarRa#}) und 1. {#aS#} — 2〉 am Ende eines adj. Comp. =
 12183	as	as	ās	As	root	True		von	
 12590	asi	asi	as	as	root	True		von	#as#}.
@@ -46,6 +48,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 14919	āpātya	ApAtya	pat	pat	root	True		von	s. von {#pat#} mit {#A#}.
 15055	ābhaṇḍana	ABaRqana	bhal	Bal	root	True		von	¦ n. als Bedeutung von {#Bal#}.
 15086	ābhimukhya	ABimuKya	abhi	aBi	root	True		von	
+15541	āruham	Aruham	śak	Sak	root	True		von	. (abhängig von {#Sak#})  ṚV. 10,44,6.
 15583	ārkāyaṇa	ArkAyaRa	arka	arka	root	True		von	on {#arka#}.
 15585	ārkṣa	Arkza	ṛkṣa	fkza	root	True		von	
 15587	ārkṣya	Arkzya	ṛkṣa	fkza	root	True		von	. Patron. von {#fkza#}.
@@ -75,6 +78,8 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 17626	uktvā	uktvA	vac	vac	root	True		von	{#uktvA#}¦ Absol. von {#vac#}.
 17826	ucchiṣya	ucCizya	śiṣ	Siz	root	True		von	} mit {#ud#}.
 17852	ucchrita	ucCrita	śri	Sri	root	True		von	{#ucCrita#}¦ Partic. von {#Sri#} mit {#ud#} *m.  RĀJAN. 12,38.
+18129	uttambha	uttamBa	stambh	stamB	root	True		von	von {#stamB#} mit {#ud#}.
+18131	uttambhitavya	uttamBitavya	stambh	stamB	root	True		von	s. von {#stamB#} mit {#ud#}.
 18888	udita	udita	i	i	root	True		von	tic. — 1〉 von {#i#} mit {#ud#}. — 2〉 von {#vad#}. — 3〉 nachlässige Schreibart für {#uddita
 18888	udita	udita	vad	vad	root	True		von	on {#vad#}. — 3〉 nachlässige Schreibart für {#uddita#}.
 18903	udīrṇa	udIrRa	īr	Ir	root	True		von	{#udIrRa#}¦ Partic. von {#Ir#} mit {#ud#}.
@@ -87,6 +92,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 20398	upāsti	upAsti	ās	As	root	True		von	#upa#} als Bez.  ŚAṂK. zu BĀDAR. 4,1,1.
 20404	upita	upita	vap	vap	root	True	säen	von	{#upita#}¦ Partic. von {#vap#} .
 20425	upeyivaṃs	upeyivaMs	i	i	root	True		von	rtic. Perf. von 3. {#i#} mit {#upa#}.
+20429	upoḍha	upoQa	ūh	Uh	root	True		von	on {#Uh#} oder {#vah#} mit {#upa#}. — 2〉 *m. . — 3〉 f. {#A#} .
 20450	upta	upta	vap	vap	root	True	scheeren und	von	on {#vap#}  {#vapa#} . — 2〉 *n.  GAL.
 20457	ubdha	ubDa	ubh	uB	root	True		von	{#ubDa/#}¦ Partic. von {#uB#}.
 20766	ulya	ulya	ula	ula	root	True		von	*{#ulya#}¦ Adj. von {#ula#} gaṇa {#balAdi#}.
@@ -116,6 +122,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 23451	kaṭīka	kawIka	kaṭī	kawI	root	True	Hüfte	von	nde eines adj. Comp. von {#kawI#} .
 23863	kad	kad	ka	ka	root	True		von	— 4〉  BHĀG. P. — 5〉 *= {#suKa#}. — 6〉 am Anfange eines Comp. als Ausdruck der  oder . — 7〉
 23929	kan	kan	cākan	cAkan	stem/word	False		Wurzel/Stamm	n.) . — 3〉  mit Acc. — Mit {#A#} Intens. — 1〉  (Loc.). — 2〉 . Vgl. {#kA#}.
+24011	kaniṣkan	kanizkan	skand	skand	root	True		von	s. von {#skand#}.
 24513	kambha	kamBa	kam	kam	root	True		von	*{#kamBa#}¦ Adj. von {#kam#}.
 25356	kalakala	kalakala	rava	rava	root	True		von	
 25909	kasa	kasa	kas	kas	root	True		von	*{#kasa#}¦ Adj. von 1. {#kas#}.
@@ -134,6 +141,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 27669	kāsa	kAsa	kas	kas	root	True		von	1. *{#kAsa#}¦ von {#kas#} P. 3,1,140.
 27870	kim	kim	ka	ka	root	True		von	a#}. — 2〉 Adv. — a〉  — b〉 blosses Fragewort, . In Doppelfragen an zweiter Stelle {#kim#} 1
 28806	kumārava	kumArava	kumāra	kumAra	root	True		von	{#kumArava#}¦ Adj. von {#kumAra#}.
+28887	kumbha	kumBa	kumbh	kumB	root	True		von	
 29183	kulara	kulara	kula	kula	root	True		von	*{#kulara#}¦ Adj. von {#kula#}.
 29664	kū	kU	as	as	root	True		von	Mit {#cid#}  9,87,8.
 29683	kūjya	kUjya	kūj	kUj	root	True		von	s. von {#kUj#}.
@@ -150,6 +158,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 31475	kaulaka	kOlaka	kūla	kUla	root	True		von	*{#kOlaka#}¦ Adj. von {#kUla#}.
 31541	kauśika	kOSika	kuśa	kuSa	root	True		von	}¦ Adj. von {#kuSa#} 3〉a〉.
 31621	knasa	knasa	knas	knas	root	True		von	*{#knasa#}¦ Adj. von {#knas#}.
+31623	knūyitar	knUyitar	knūy	knUy	root	True		von	knUyitar#}¦ Nom. ag. von {#knUy#}.
 31689	kran	kran	krand	krand	root	True		von	te Sg. Aor. von {#krand#}.
 31756	kramitar	kramitar	kram	kram	root	True		von	kramitar#}¦ Nom. ag. von {#kram#}.
 31808	krātha	krATa	kratha	kraTa	root	True		von	N. pr. — a〉 eines Fürsten. — b〉 eines Sohnes des Dhṛtarāṣṭra. — c〉 eines Wesens im Gefolge
@@ -157,6 +166,8 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 32160	kva	kva	ka	ka	root	True		von	on 1. {#ka#} 131,26. — 2〉  in directer und in indirecter Frage. Die nachfolgenden Partikel
 32160	kva	kva	ca	ca	root	True		von	
 32188	kśā	kSA	khyā	KyA	root	True		von	{#kSA#}¦, {#kSAti#} Nebenform von {#KyA#} in MAITR. S. und KĀṬH.
+32220	kṣaṇitos	kzaRitos	kṣan	kzan	root	True	verwunden	von	¦ Abl. Inf. von {#kzan#}  ŚAT. BR. 14,8,14,4.
+32289	kṣan	kzan	kṣan	kzan	root	True		von	von 1. {#kzan#} 30,16.
 32389	kṣar	kzar	plakṣa	plakza	root	True		von	
 32394	kṣaradhyai	kzaraDyE	kṣar	kzar	root	True		von	¦ Dat. Inf. von {#kzar#}.
 32398	kṣarya	kzarya	kṣara	kzara	root	True		von	*{#kzarya#}¦ Adj. von {#kzara#}.
@@ -168,6 +179,8 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 33145	kṣmāyitar	kzmAyitar	kṣmāy	kzmAy	root	True		von	zmAyitar#}¦ Nom. ag. von {#kzmAy#}.
 33261	khaṭya	Kawya	khaṭa	Kawa	root	True		von	*{#Kawya#}¦ Adj. von {#Kawa#} gaṇa {#gavAdi#} in der KĀŚ.
 33288	khaḍavant	Kaqavant	khaḍa	Kaqa	root	True		von	{#Kaqavant#}¦ Adj. von {#Kaqa#}.
+33562	kharja	Karja	kharj	Karj	root	True		von	von {#Karj#}.
+33574	kharjya	Karjya	kharj	Karj	root	True		von	s. von {#Karj#}.
 33697	khāḍāyana	KAqAyana	khaḍa	Kaqa	root	True		von	. Patron. von {#Kaqa#}.
 33733	khād	KAd	khid	Kid	root	True		von	auch Perf. von {#Kid#} sein) — 1〉 . — 2〉 . — Caus. {#KAdayati#} — 1〉  (instr.) GAUT. HEMĀ
 33924	khailāyana	KElAyana	khila	Kila	root	True		von	{#KElAyana#}¦ Adj. von {#Kila#}.
@@ -190,8 +203,10 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 37255	gdhi	gDi	ghas	Gas	root	True		von	von {#Gas#} in {#sa/gDi#}.
 37578	grāham	grAham	grah	grah	root	True		von	{#grAham#} Absol. von {#grah#}, *{#keSezu#} oder *{#keSErgrAham#}¦  P. 3,4,50, Sch. *{#
 37640	glepana	glepana	mad	mad	root	True		von	d#} DHĀTUP.
+37720	ghaṭṭita	Gawwita	ghaṭṭ	Gaww	root	True		von	〉 Partic. von {#Gaww#}. — 2〉 f. {#A#}  S. S. S. 193.
 38180	ca	ca	ca	ca	root	True		von	
 38198	caknasa	caknasa	knas	knas	root	True		von	#caknasa#}¦ Nom. ag. von {#knas#}.
+38863	catya	catya	cat	cat	root	True		von	s. von {#cat#}.
 39301	caritos	caritos	car	car	root	True		von	¦ Gen. Inf. von {#car#} AIT. ĀR. 2,1.
 39498	cākhāyitar	cAKAyitar	khan	Kan	root	True		von	vom Intens. von {#Kan#}.
 39658	cāya	cAya	caya	caya	root	True		von	*{#cAya#}¦ Adj. von {#caya#}.
@@ -227,6 +242,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 43161	juṣāṇa	juzARa	juṣ	juz	root	True		von	
 43168	juṣya	juzya	juṣ	juz	root	True		von	s. von 1. {#juz#}.
 43188	jūr	jUr	jvar	jvar	root	True		von	on {#jvar#}.
+43190	jūrṇa	jUrRa	jur	jur	root	True		von	tic. — 1〉 von 1. {#jur#}. — 2〉 *von {#jvar#}.
 43190	jūrṇa	jUrRa	jvar	jvar	root	True		von	.
 43268	jaivi	jEvi	jīva	jIva	root	True		von	*{#jEvi#}¦ von {#jIva#}.
 43269	jaiveya	jEveya	jīva	jIva	root	True		von	. Patron. von {#jIva#}.
@@ -249,6 +265,9 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 45502	tārṇāyana	tArRAyana	tṛṇa	tfRa	root	True		von	. Patron. von {#tfRa#}.
 45639	tikīya	tikIya	tika	tika	root	True		von	*{#tikIya#}¦ Adj. von {#tika#}.
 45825	tiras	tiras	bhū	BU	root	True	verschwinden machen, vertreiben	von	
+46309	tur	tur	turv	turv	root	True		von	#}.
+46402	tula	tula	nī	nI	root	True	Jmd oder Etwas	von	
+46597	tūrṇa	tUrRa	turv	turv	root	True		von	ic. — 1〉 *von {#turv#}. — 2〉 von {#tvar#}; s. daselbst.
 46597	tūrṇa	tUrRa	tvar	tvar	root	True		von	on {#tvar#}; s. daselbst.
 46764	tṛṇīya	tfRIya	tṛṇa	tfRa	root	True		von	*{#tfRIya#}¦ von {#tfRa#}.
 46776	tṛṇṇa	tfRRa	tard	tard	root	True		von	{#tfRRa#}¦ Partic. von {#tard#}.
@@ -256,6 +275,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 46915	tena	tena	ta	ta	root	True		von	}¦ Instr. von 1. {#ta#}. Als Adv. — 1〉  in Correl. mit {#yena#} . — 2〉  in Correl. mit {#y
 46926	taikāyana	tEkAyana	tika	tika	root	True		von	. Patron. von {#tika#}.
 47046	toḍana	toqana	tuḍ	tuq	root	True		von	von {#tuq#} DHĀTUP.
+47123	tola	tola	tul	tul	root	True		von	
 47195	tyad	tyad	tya	tya	root	True		von	dv. (stets mit vorangehendem {#ha#} oder {#ya/sya#}) .
 47291	trāṇa	trARa	trā	trA	root	True		von	on 1. {#trA#}. — 2〉 *f. {#A#} und n. . — 3〉 n. — a〉  concret . in Comp. mit dem  mit dem .
 47294	trāta	trAta	trā	trA	root	True		von	on 1. {#trA#}. — 2〉 m. N. pr. eines Mannes. — 3〉 n. . {#indrasya#} Name eines Sāman ĀRṢ. B
@@ -328,6 +348,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 60326	niḥṣūti	niHzUti	sū	sU	root	True		von	von {#sU#} mit {#nis#}.
 60343	nisusūs	nisusUs	su	su	root	True		von	om Desid. von {#su#} mit {#ni#}.
 60502	nīkleda	nIkleda	klid	klid	root	True		von	von {#klid#} mit {#ni#}.
+60547	nīta	nIta	nī	nI	root	True		von	on 1. {#nI#}. — 2〉 *n. — a〉 . — b〉 .
 61416	nyagbhāva	nyagBAva	ni	ni	root	True		von	). — 3〉 .
 61433	nyañc	nyaYc	bhū	BU	root	True		von	
 61672	pakṣṇu	pakzRu	pac	pac	root	True		von	*{#pakzRu#}¦ Adj. von 1. {#pac#}.
@@ -340,14 +361,21 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 62740	padana	padana	pad	pad	root	True		von	*{#padana#}¦ Adj. von 1. {#pad#}.
 62743	padanīya	padanIya	pada	pada	root	True		von	
 63542	parābhuve	parABuve	bhū	BU	root	True		von	¦ Dat. Inf. von 1. {#BU#} mit {#parA#} AV. 1,29,4.
+63815	pariṇādaka	pariRAdaka	nad	nad	root	True		von	pariRAdaka#}¦ Adj. von {#nad#} mit {#pari#}.
 63919	parinandana	parinandana	nanda	nanda	root	True		von	von {#nanda#} mit {#pari#}.
 64077	parimat	parimat	man	man	root	True		von	*{#parimat#}¦ Adj. von {#man#} mit {#pari#}.
+64098	parimārkṣṇu	parimArkzRu	marj	marj	root	True		von	arimArkzRu#}¦ Adj. von {#marj#} mit {#pari#}.
+64103	parimārgya	parimArgya	marj	marj	root	True		von	s. von {#marj#} mit {#pari#}.
+64117	parimṛjya	parimfjya	marj	marj	root	True		von	s. von {#marj#} mit {#pari#}.
 64134	pariyāṇa	pariyARa	yā	yA	root	True		von	von {#yA#} mit {#pari#}.
 64136	pariyāṇīya	pariyARIya	yā	yA	root	True		von	s. von {#yA#} mit {#pAri#}.
+64153	parirāṭaka	parirAwaka	raṭ	raw	root	True		von	*{#˚rAwin#}¦ Adj. von {#raw#} mit {#pari#}.
 64176	parivapaṇa	parivapaRa	vap	vap	root	True		von	Nom. act von {#vap#} mit {#pari#}.
 64434	parihaṇana	parihaRana	han	han	root	True		von	von {#han#} mit {#pari#}.
 64491	parīta	parIta	i	i	root	True		von	〉 Partic. von 3. {#i#} mit {#pari#}. Nom. abstr. [Page4-048-b] {#˚tA#} f. . — 2〉 m. Pl. N.
 64492	parītat	parItat	tan	tan	root	True		von	*{#parItat#}¦ von {#tan#} mit {#pari#}.
+64565	pareṅkhaṇa	pareNKaRa	iṅkh	iNK	root	True		von	von {#iNK#} oder {#INK#} mit {#parA#}.
+64566	pareṅgaṇa	pareNgaRa	iṅg	iNg	root	True		von	von {#iNg#} mit {#parA#}.
 64692	parṇasa	parRasa	parṇa	parRa	root	True		von	*{#parRasa#}¦ Adj. von {#parRa#}.
 64706	parṇīya	parRIya	parṇa	parRa	root	True		von	*{#parRIya#}¦ Adj. von {#parRa#}.
 64724	parpika	parpika	parpa	parpa	root	True		von	{#I#}) von {#parpa#} 1〉.
@@ -377,6 +405,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 68869	pūtvī	pUtvI	pū	pU	root	True		von	{#pUtvI/#}¦ Absol. von 1. {#pU#} ṚV. 8,91,7.
 68873	pūni	pUni	pū	pU	root	True		von	von 1. {#pU#}.
 68887	pūyamāna	pUyamAna	pū	pU	root	True		von	von 1. {#pU#} — 2〉 *m. N. pr. eines Mannes.
+69633	pṛṣṭa	pfzwa	prach	praC	root	True		von	¦ Partic. von {#praC#}.
 69766	peśvara	peSvara	piś	piS	root	True		von	*{#peSvara#}¦ Adj. von {#piS#}.
 69773	peṣam	pezam	piṣ	piz	root	True		von	{#˚pezam#}¦ Absol. von {#piz#}.
 69786	pesvara	pesvara	pis	pis	root	True		von	*{#pesvara#}¦ Adj. von {#pis#}.
@@ -398,12 +427,16 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 70423	pragamanīya	pragamanIya	gam	gam	root	True		von	s. von {#gam#} mit {#pra#}.
 70438	pragādya	pragAdya	gad	gad	root	True		von	s. von 1. {#gad#} mit {#pra#}.
 70664	prajit	prajit	ji	ji	root	True		von	*{#prajit#}¦ Adj. von 1. {#ji#} mit {#pra#}.
+70770	praṇiṃsitavya	praRiMsitavya	niṃs	niMs	root	True		von	s. von {#niMs#} mit {#pra#}.
 70771	praṇikṣaṇa	praRikzaRa	nikṣ	nikz	root	True		von	von {#nikz#} mit {#pra#}.
+70779	praṇindana	praRindana	nind	nind	root	True		von	von {#nind#} mit {#pra#}.
+70790	praṇīya	praRIya	nī	nI	root	True		von	s. von 1. {#nI#} mit {#pra#}.
 70851	pratāpitar	pratApitar	tap	tap	root	True		von	t. von {#tap#} 1 mit {#pra#} Caus.
 71283	pratibha	pratiBa	bhā	BA	root	True		von	
 71720	pratihita	pratihita	dhā	DA	root	True		von	on 1. {#DA#} mit {#prati#}. — 2〉 f. {#A#}  ṚV. 10,103,3. AV. 11,2,1. 19,13,4.
 71983	pratyayāy	pratyayAy	i	i	root	True		von	n 3. {#i#} mit {#prati#}).
 72023	pratyavasita	pratyavasita	sā	sA	root	True		von	tyavasita#}¦ Partic. von {#sA#} mit {#pratyava#}.
+72248	prathay	praTay	prath	praT	root	True		von	1〉 Caus. von 1. {#praT#}. — 2〉 *Denom. = {#pfTumAcazwe#}.
 72278	pradatta	pradatta	dā	dA	root	True		von	on 1. {#dA#} mit {#pra#} — 2〉 m. N. pr. eines Gandharva.
 72293	pradātos	pradAtos	dā	dA	root	True		von	#ISvara/#}) von 1. {#dA#} mit {#pra#} TS. 3,1,8,3.
 72372	pradha	praDa	dhā	DA	root	True		von	*{#praDa#}¦ Adj. von 1. {#DA#} mit {#pra#}. — {#praDA#} s. bes.
@@ -421,6 +454,9 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 72610	prabhāpanīya	praBApanIya	bhā	BA	root	True		von	{#BA#} mit {#pra#}.
 72639	prabhid	praBid	bhid	Bid	root	True		von	*{#praBid#}¦ Adj. von 1. {#Bid#} mit {#pra#}.
 72665	prabhūṣaṇi	praBUzaRi	bhū	BU	root	True		von	Ri#}¦ Infin. debendi von 1. {#BU#} mit {#pra#} ṚV. 10,132,1.
+72685	pramaṅkana	pramaNkana	maṅk	maNk	root	True		von	von {#maNk#} mit {#pra#}.
+72686	pramaṅgana	pramaNgana	maṅg	maNg	root	True		von	von {#maNg#} mit {#pra#}.
+72687	pramaṅganīya	pramaNganIya	maṅg	maNg	root	True		von	s. von {#maNg#} mit {#pra#}.
 72899	prayāṇīya	prayARIya	yā	yA	root	True		von	s. von 1. {#yA#} mit {#pra#}.
 72904	prayāpaṇa	prayApaRa	yā	yA	root	True		von	#yA#} mit {#pra#}.
 72906	prayāpaṇīya	prayApaRIya	yā	yA	root	True		von	{#yA#} mit {#pra#}.
@@ -432,13 +468,21 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 73768	prahlatti	prahlatti	hlād	hlAd	root	True		von	von 1. {#hlAd#} mit {#pra#}.
 74864	prekīy	prekIy	pra	pra	root	True		von	, {#˚yati#} Denomin. von {#pra#} + {#eka#}.
 74881	prekṣita	prekzita	īkṣ	Ikz	root	True		von	on {#Ikz#} mit {#pra#}. — 2〉 n. .
+74895	preṅgaṇa	preNgaRa	iṅg	iNg	root	True		von	von {#iNg#} mit {#pra#}.
+74961	prenvana	prenvana	inv	inv	root	True		von	von {#inv#} mit {#pra#}.
+74962	prenvanīya	prenvanIya	inv	inv	root	True		von	s. von {#inv#} mit {#pra#}.
+75010	prehaṇa	prehaRa	īh	Ih	root	True		von	von {#Ih#} mit {#pra#}.
 75045	proghīy	proGIy	pra	pra	root	True		von	, {#˚yati#} Denomin. von 1. {#pra#} + {#oGa#}.
+75082	prombhaṇa	promBaRa	umbh	umB	root	True		von	von {#umB#} mit {#pra#}.
+75103	prohaṇa	prohaRa	ūh	Uh	root	True		von	von {#Uh#} mit {#pra#}.
 75131	plakṣakīya	plakzakIya	plakṣa	plakza	root	True		von	plakzakIya#}¦ Adj. von {#plakza#}.
 75162	plākṣaki	plAkzaki	plakṣa	plakza	root	True		von	. Patron. von {#plakza#}.
 75164	plākṣi	plAkzi	plakṣa	plakza	root	True		von	. Patron. von {#plakza#}. *f. {#plAkzI#}.
 75172	plāvita	plAvita	plu	plu	root	True		von	}. — 2〉 n. — a〉  KĀD. 2,81,23. — b〉  BHĀG. P. 4,6,12.
 75389	phalasa	Palasa	phala	Pala	root	True		von	1〉 Adj. von {#Pala#}. — 2〉 m. = {#panasa#} .
+75432	phalin	Palin	phal	Pal	root	True		von	
 75440	phalīya	PalIya	phala	Pala	root	True		von	*{#PalIya#}¦ Adj. von {#Pala#}.
+75544	phulti	Pulti	phal	Pal	root	True		von	von 1. {#Pal#}.
 75593	phaulli	POlli	phulla	Pulla	root	True		von	*{#POlli#}¦ von {#Pulla#}.
 75735	badbadhāna	badbaDAna	bādh	bAD	root	True		von	vom Intens. von {#bAD#}.
 75902	barhavant	barhavant	barha	barha	root	True		von	#barhavant#}¦ Adj. von {#barha#}.
@@ -473,13 +517,17 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 80100	bhujam	Bujam	bhuj	Buj	root	True		von	{#Bujam#}¦ Absol. von 1. {#Buj#} in {#BjaMga#} und {#BjaMgama#}.
 80616	bhūr	BUr	bhū	BU	root	True		von	ch Nomin. von 2. {#BU#}) — 1〉 in [Page4-280-a] der Formel {#BU/rBu/vaH sva^H#} (VS. 3,5. 3
 81081	bhojam	Bojam	bhuj	Buj	root	True		von	*{#Bojam#}¦ Absol. von 1. {#Buj#} P. 3,4,22, Sch.
+81159	bhraṃś	BraMS	bhrajj	Brajj	root	True		von	#viBrazwa#} — a〉  in übertragener Bed. — b〉  (im Comp. vorangehend). — c〉 . — d〉  (im Comp
 81189	bhramarakabhrāmam	BramarakaBrAmam	bhram	Bram	root	True	wie einen Brummkreisel drehen	von	t dem Caus. von {#Bram#}  BĀLAR. 274,16.
+81491	maṅktar	maNktar	majj	majj	root	True		von	#maNktar#}¦ Nom. ag. von {#majj#}.
 81698	maṭhay	maWay	maṭha	maWa	root	True		von	!√{#maWay#}¦ (von {#maWa#}) {#˚yati#}  HEMĀDRI 1,560,12.
 81917	mat	mat	ma	ma	root	True		von	{#ma/t#}¦ (Abl. von 1. {#ma#})  u. s. w. Am Anfange eines Comp. Stellvertreter von 1.
 82085	mathitos	maTitos	math	maT	root	True		von	Gen. Infin. von 1. {#maT#}. {#vi vA maTitoH#} AIT. BR. 1,10,2.
 83059	manti	manti	man	man	root	True		von	von {#man#}.
 83281	mandayadhyai	mandayaDyE	mad	mad	root	True		von	s. von 1. {#mad#}, {#mand#} ṚV. 4,29,3.
+83557	marīmṛja	marImfja	marj	marj	root	True		von	m Intens. von {#marj#}.
 83661	marc	marc	grahaṇe	grahaRe	stem/word	False		Wurzel/Stamm	
+83663	marj	marj	myakṣ	myakz	root	True		von	
 84364	mahātyaya	mahAtyaya	jvara	jvara	root	True		von	4 nach BHĀVAPR. 3,27 = {#mahAkazwa#}, {#gamBIra#} oder {#cAturTika#}.
 85531	mā	mA	arha	arha	root	True		von	(Aor.). {#sma mA/-mo/#} ({#mo^#} ŚAT. BR.) {#sma#} 29,23.
 85537	mā	mA	mi	mi	root	True		von	in einigen Formen von 1. {#mi#} und 1. {#mI#}.
@@ -512,6 +560,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 89756	yatva	yatva	ya	ya	root	True	der Laut	von	m. abstr. von {#ya#}  {#ya#} Comm. zu TS. PRĀT.
 90192	yant	yant	i	i	root	True		von	{#ya/nt#}¦ Partic. von 3. {#i#}. *{#abde yati#} .
 90196	yanti	yanti	yam	yam	root	True		von	von {#yam#}.
+90305	yamam	yamam	śak	Sak	root	True		von	n. abhängig von {#Sak#} ṚV. 1,73,10. 2,5,1. 3,27,3.
 90392	yamya	yamya	yam	yam	root	True		von	m#}.
 90494	yavāna	yavAna	ju	ju	root	True		von	ju#}.
 90585	yaṣṭi	yazwi	yaj	yaj	root	True		von	aj#}. Richtig {#izwi#}.
@@ -564,6 +613,8 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 96854	lolūya	lolUya	lū	lU	root	True		von	
 96855	lolūyam	lolUyam	lū	lU	root	True		von	vom Intens. von 1. {#lU#} P. 6,1,194, Sch.
 97179	vak	vak	vac	vac	root	True		von	#vivakmi#} vedisch von {#vac#}.
+97598	vañcita	vaYcita	vañc	vaYc	root	True		von	#}. — 2〉 f. {#A#} .
+97602	vañcya	vaYcya	vañc	vaYc	root	True		von	s. von {#vaYc#}.
 97631	vaṭibha	vawiBa	vaṭi	vawi	root	True		von	*{#vawiBa#}¦ Adj. von {#vawi#}.
 97714	vati	vati	van	van	root	True		von	von {#van#}.
 97815	vaditos	vaditos	vad	vad	root	True		von	Gen. Infin. von {#vad#} TS. 2,1,2,6.
@@ -575,6 +626,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 98811	varṇila	varRila	varṇa	varRa	root	True		von	*{#varRila#}¦ Adj. von {#varRa#}.
 98820	vart	vart	ratham	raTam	root	True		von	b〉 . — c〉  (Loc.) — Caus.  (Acc. oder Dat.) TĀṆḌYA-BR. 7,7,9. — Mit {#upapra#} Caus.  (Loc
 98820	vart	vart	i	i	root	True		von	
+98888	vardhamāna	varDamAna	vardh	varD	root	True		von	on 1. {#varD#}. — 2〉 m. — a〉 . — b〉 . — c〉  S. S. S. 240. — d〉 *. — e〉 *Bein. Viṣṇuʼs. — f
 99051	varṣiṣṭha	varzizWa	varṣa	varza	root	True	Jahr	von	
 99056	varṣīyaṃs	varzIyaMs	varṣa	varza	root	True		von	
 99239	vaśana	vaSana	vaś	vaS	root	True		von	von {#vaS#}.
@@ -602,8 +654,11 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 102524	vid	vid	div	div	root	True		von	
 102656	viddhi	vidDi	vyadh	vyaD	root	True		von	von {#vyaD#}.
 103025	vinay	vinay	vi	vi	root	True	Vogel	von	künstliches Denomin. von {#vi#}  und {#nar#} . — Mit {#vi#} Absol. {#vivinayya#} PAT. zu P
+103291	vipay	vipay	vip	vip	root	True		von	
+103553	vibādha	vibADa	heṭh	heW	root	True		von	
 103625	vibhājam	viBAjam	bhaj	Baj	root	True		von	Acc. Infin. von {#Baj#} mit {#vi#} TBR. 1,1,5,6.
 103626	vibhājayitar	viBAjayitar	bhaj	Baj	root	True		von	. von Caus. von {#Baj#} mit {#vi#}.
+104161	vilaṅghita	vilaNGita	laṅgh	laNG	root	True		von	#} — Mit {#vi#}. — 2〉 n.  CARAKA. 6,5.
 104181	vilātar	vilAtar	lī	lI	root	True		von	*{#vilAtar#}¦ N. ag. von 1. {#lI#} — Mit {#vi#}.
 104182	vilātavya	vilAtavya	lī	lI	root	True		von	s. von 1. {#lI#} — Mit {#vi#}.
 104194	vilāṣin	vilAzin	laṣ	laz	root	True		von	*{#vilAzin#}¦ Adj. von 1. {#laz#} — Mit {#vi#}.
@@ -616,13 +671,19 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 104275	viloḍa	viloqa	luṭ	luw	root	True		von	von {#luw#}.
 104304	viva	viva	vā	vA	root	True		von	{#vAti#} = {#gacCati!#}) ŚIŚ. 19,86.
 104677	viśoḍha	viSoQa	sah	sah	root	True		von	haft für {#visoQa#} (von {#sah#} mit {#vi#}).
+104690	viśna	viSna	vich	viC	root	True		von	von {#viC#}.
 105233	viṣamīya	vizamIya	viṣama	vizama	root	True		von	{#vizamIya#}¦ Adj. von {#vizama#}.
 105392	viṣṭa	vizwa	viś	viS	root	True		von	〉 Partic. von 1. {#viS#} und 1. {#viz#}. — 2〉 f. {#vizwA#} f. fehlerhaft für 2. {#vizWA#}
+105679	visṛṣṭa	visfzwa	sarj	sarj	root	True		von	#vi/sfzwa#}¦ Partic. von 3. {#sarj#} mit {#vi#}.
+105721	visphāla	visPAla	sphal	sPal	root	True		von	von {#sPal#} mit {#vi#} KĀŚ. zu P. 6,1,47. {#vizPAla#} P., Sch.
 105739	visphorya	visPorya	sphur	sPur	root	True		von	s. von {#sPur#} mit {#vi#}.
 105893	vīkṣita	vIkzita	īkṣ	Ikz	root	True		von	on {#Ikz#} mit {#vi#}. — 2〉 n. .
 105985	vītta	vItta	dā	dA	root	True		von	*{#vItta#}¦ Partic. von 1. {#dA#} {#vi#}.
+106265	vṛktvī	vfktvI	vraśc	vraSc	root	True		von	{#vfktvI#}¦ Absol. von 1. {#vraSc#} ṚV. 10,87,2.
 106336	vṛkṣīya	vfkzIya	vṛkṣa	vfkza	root	True		von	{#vfkzIya#}¦ Adj. von {#vfkza#}. Zu belegen nur {#eka˚#} (Nachtr. 6)
 106351	vṛjika	vfjika	vṛji	vfji	root	True		von	*{#vfjika#}¦ Adj. von {#vfji#} 1〉.
+106454	vṛtrakhāda	vftraKAda	khad	Kad	root	True		von	
+106627	vṛdhya	vfDya	vardh	varD	root	True		von	s. von 1. {#varD#}.
 106686	vṛṣaṇvasu	vfzaRvasu	vana	vana	root	True		von	
 106814	vṛṣīy	vfzIy	vṛṣa	vfza	root	True		von	, {#˚yati#} Denomin. von {#vfza#}.
 107013	veti	veti	i	i	root	True		von	#} (3te Sg. von 3. {#i#}) {#vi#}.
@@ -635,8 +696,13 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 108258	vyaja	vyaja	aj	aj	root	True		von	*{#vyaja#}¦ von {#aj#} mit {#vi#}.
 108287	vyatipāka	vyatipAka	pac	pac	root	True		von	von 1. {#pac#} mit {#vyati#} P. 3,3,43, Vārtt. 1.
 108306	vyatīkṣā	vyatIkzA	īkṣ	Ikz	root	True		von	m. abstr. von {#Ikz#} mit {#vyati#} P. 3,3,43, Vārtt. 4.
+108308	vyatīhā	vyatIhA	īh	Ih	root	True		von	m. abstr. von {#Ih#} mit {#vyati#} PAT. zu P. 3,3,43, Vārtt. 4.
+108413	vyarṇṇa	vyarRRa	ard	ard	root	True		von	{#vyarRRa#}¦ Partic. von {#ard#} mit {#vi#}.
 108717	vyābhāṣaka	vyABAzaka	bhāṣ	BAz	root	True		von	#vyABAzaka#}¦ Adj. von 1. {#BAz#} mit {#vyA#}.
+108902	vyūḍha	vyUQa	ūh	Uh	root	True		von	, {#vyU|a#}¦ Partic. von 1. {#Uh#} — Mit {#vi#} und 1. {#vah#} — Mit {#vi#}. Auch = {#vyUQ
+109114	vraṣṭavya	vrazwavya	vraśc	vraSc	root	True		von	s. von 1. {#vraSc#}.
 109197	śaṃśamam	SaMSamam	śam	Sam	root	True		von	von Intens. von 2. {#Sam#} MAHĀBH. 6 (4),32,b.
+109212	śaka	Saka	śak	Sak	root	True		von	von 1. {#Sak#} in {#suSa/ka#}.
 110097	śatrusāt	SatrusAt	gam	gam	root	True	dem Feinde überliefern	von	dem Caus. von {#gam#} .
 110110	śadru	Sadru	śad	Sad	root	True		von	1〉 Adj. von {#Sad#}. — 2〉 m. Bein. Viṣṇuʼs.
 110132	śanta	Santa	śam	Sam	root	True		von	*{#Santa#}¦ Adj. von 5. {#Sam#}.
@@ -680,19 +746,26 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 115034	śrīka	SrIka	śrī	SrI	root	True	Schönheit, Pracht und hohe —, fürstliche Stellung	von	on 5. {#SrI#} . — 2〉 m. — a〉 . — b〉 .
 115224	śrīya	SrIya	śrī	SrI	root	True		von	*{#SrIya#}¦ Adj. von 5. {#SrI#}.
 115303	śrīsraja	SrIsraja	śrī	SrI	root	True		von	ul. Comp. von 5. {#SrI#} und {#sraj#}.
+116499	sa	sa	san	san	root	True		von	3. {#sa#}¦ (von {#san#}) Adj.  in {#paSuza/#} und {#priyasa/#}.
 116519	saṃyant	saMyant	i	i	root	True		von	#saMya/nt#}¦ Partic. von 3. {#i#} mit {#sam#}. f. {#˚yatI/#} (auch HEM. PAR. 2,286).
 116583	saṃrājitar	saMrAjitar	rāj	rAj	root	True		von	MrAjitar#}¦ Nom. ag. von 1. {#rAj#} mit {#sam#}.
+116693	saṃvavṛtvaṃs	saMvavftvaMs	vat	vat	root	True		von	{#saMvavftva/Ms#}¦ (von {#vat#}) Partic. .
+116734	saṃvid	saMvid	laṅgh	laNG	root	True		von	
 116800	saṃveṣṭana	saMvezwana	mur	mur	root	True		von	
 116801	saṃvoḍhar	saMvoQar	vah	vah	root	True		von	saMvoQar#}¦ Nom. ag. von 1. {#vah#} mit {#sam#}.
 117479	saṃkūṭana	saMkUwana	kūṭ	kUw	root	True		von	von {#kUw#} mit {#sam#} PAT. zu P. 3,3,44, Vārtt. 3.
 117739	sac	sac	viṣa	viza	root	True		von	
 117943	saṃjāta	saMjAta	jan	jan	root	True		von	on {#jan#} mit {#sam#}) . {#saMjAtalajja#} Adj. (f. {#A#}) so v. a.  297,19. — 2〉 m. Pl. N
+118955	santva	santva	sam	sam	root	True		von	m. abstr. von {#sam#}. Auch fehlerhaft für {#Santva/#}.
 119190	saṃnipatya	saMnipatya	pat	pat	root	True		von	saMnipatya#}¦ Absol. von 1. {#pat#} mit {#saMni#}, {#saMnipatyo pakAraka#} . {#saMnipatyak
+119239	saṃneya	saMneya	nī	nI	root	True		von	s. von 1. {#nI#} mit {#sam#}.
+119790	samakta	samakta	añj	aYj	root	True		von	{#samakta#}¦ Partic. von {#aYj#} mit {#sam#}.
 119791	samakna	samakna	ac	ac	root	True		von	{#samakna#}¦ Partic. von {#ac#} mit {#sam#}.
 119961	samaya	samaya	sthā	sTA	root	True	festsetzen, bestimmen;	von	. — 12〉 personificirt als ein Sohn Dharmaʼs VP. 21,111. — 13〉 N. pr. eines Verfassers von
 120077	samavayasāya	samavayasAya	sā	sA	root	True		von	ya#} Absol. von 3. {#sA#} mit {#samava#}.
 120099	samavāyana	samavAyana	i	i	root	True		von	von 3. {#i#} mit {#samava#}.
 120243	samāna	samAna	as	as	root	True		von	
+120829	samūḍha	samUQa	ūh	Uh	root	True		von	#sa/mUlha#}¦ Partic. von 1. {#Uh#} mit {#sam#}.
 120904	saṃparcana	saMparcana	kuc	kuc	root	True		von	von {#kuc#} und {#ric#}.
 120914	saṃpātay	saMpAtay	pat	pat	root	True		von	
 120945	saṃpūjita	saMpUjita	pūj	pUj	root	True		von	on {#pUj#} mit {#sam#} Caus. — 2〉 m. N. pr. eines Buddha.
@@ -712,12 +785,15 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 124485	sārin	sArin	sāra	sAra	root	True		von	2. {#sArin#}¦ (von 2. {#sAra#}) in {#trARa˚#}.
 124779	sāhaya	sAhaya	sah	sah	root	True		von	von Caus. von 1. {#sah#}.
 124970	sikta	sikta	sic	sic	root	True		von	on 2. {#sic#}. — 2〉 *f. {#A#} = {#sikatA#} 1〉 RĀJAN. 13,139.
+125275	siddhi	sidDi	sidh	siD	root	True		von	1. {#sidDi#}¦ (von 1. {#siD#}) f.  YĀJÑ. 1,270. Verz. d. B. H. No. 933. Vgl. {#seDa#}.
+125480	sisanis	sisanis	san	san	root	True		von	om Desid. von 1. {#san#}.
 126684	sunvant	sunvant	su	su	root	True		von	on 1. {#su#}. — 2〉 m. — a〉  Soma- ŚIŚ. 14,52. — b〉 N. pr. eines Sohnes des Sumantu.
 128685	sūta	sUta	sū	sU	root	True		von	¦ Partic. von 1. {#sU#}.
 128686	sūta	sUta	sū	sU	root	True		von	on 3. {#sU#}. — 2〉 m.  RĀJAN. 13,10. — 3〉 f. {#sUtA#}  fehlerhaft für {#sutA#}.
 128823	sūditar	sUditar	sūda	sUda	root	True		von	#sUditar#}¦ Nom. ag. von 1. {#sUda#}.
 129173	se	se	as	as	root	True		von	von 1. {#as#}.
 129287	sev	sev	juṣ	juz	root	True		von	am#} — 1〉  zur Erklärung von {#sac#}. — 2〉 = Simpl. 2〉a〉 b〉 (auch so v. a. ), c〉 d〉 e〉 und
+129287	sev	sev	sac	sac	root	True		von	
 129831	saukha	sOKa	sukha	suKa	root	True		von	. Patron. von {#suKa#}.
 129840	saukhīya	sOKIya	sukha	suKa	root	True		von	*{#sOKIya#}¦ Adj. von {#suKa#}.
 130117	saurya	sOrya	sūra	sUra	root	True		von	Stadt. Vgl. {#SOrya#}.
@@ -730,6 +806,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 130967	sthāyika	sTAyika	sthā	sTA	root	True		von	
 131249	sthaulaka	sTOlaka	sthūla	sTUla	root	True		von	*{#sTOlaka#}¦ Adj. von {#sTUla#}.
 131274	snātvī	snAtvI	snā	snA	root	True		von	Absol. von 1. {#snA#} P. 7,1,49.
+131471	spāśana	spASana	spaś	spaS	root	True		von	von 1. {#spaS#} Caus. in einer Etymologie.
 131628	sphauṭāyana	sPOwAyana	sphuṭa	sPuwa	root	True		von	. Patron. von {#sPuwa#}.
 131706	smahe	smahe	as	as	root	True		von	d. von 1. {#as#} MBH. 13,1,13.
 131787	syāt	syAt	as	as	root	True		von	t. von 1. {#as#}) . Die dialektische Skeptik der Jaina kennt folgende 7 Formeln der Skepti
@@ -742,6 +819,7 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 133050	svāpay	svApay	svap	svap	root	True		von	1〉 Caus. von 1. {#svap#}; s. daselbst. — 2〉 *Denomin. von {#sva#}.
 133112	svārāyaṇa	svArAyaRa	svara	svara	root	True		von	. Patron. von {#svara#}.
 133503	hanyamāna	hanyamAna	han	han	root	True		von	an#}. — 2〉 m. Pl. N. pr. eines Volkes MBH. 6,9,69. v. l. {#haMsamArga#}.
+133572	har	har	hary	hary	root	True		von	— 1〉  MBH. ed. Vardh. 3,56,18 (die anderen Ausgg.) {#pratyA#}. — 2〉 thierische Laute . —
 134151	hasantī	hasantI	has	has	root	True		von	#}. — 2〉 f. — a〉 [Page7-266-b] *. — b〉 *. — c〉 *. — d〉 N. pr. eines Flusses, = {#hasanI#}
 134373	hāna	hAna	hā	hA	root	True		von	¦ Partic. von 1. {#hA#}.
 134600	hita	hita	dhā	DA	root	True		von	1. {#hita/#}¦ (von 1. {#DA#}) — 1〉 Adj. (f. {#A/#}) — a〉  (Loc.);  (Loc.). {#ra/Te#} s
@@ -765,4 +843,5 @@ L_id	headword	headword_slp1	source	source_slp1	source_class	is_root	source_gloss
 209385	vihāpita	vihApita	hā	hA	root	True		von	. Partic. von 2. {#hA#} mit {#vi#} Caus. — 2〉 n. .
 210363	attvāya	attvAya	ad	ad	root	True		von	{#attvA/ya#}¦ Absol. von 1. {#ad#} MAITR. S. 1,8,5 (121,20). Man könnte {#sadattvA/ya#} st
 217530	jāḍāyana	jAqAyana	jaḍa	jaqa	root	True		von	. Patron. von {#jaqa#}.
+219524	poñch	poYC	uñch	uYC	root	True		von	oYCati#} von {#uYC#}.
 221050	vārin	vArin	vāri	vAri	root	True	Wasser	von	nde eines adj. Comp. von {#vAri#}  R. ed. Bomb. 4,41,17.

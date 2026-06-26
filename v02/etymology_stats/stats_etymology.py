@@ -248,11 +248,12 @@ def main():
         n = len(data[c]['rows'])
         cap_rows.append([c, n, rs.get('local', 0), rs.get('headword-root', 0),
                          rs.get('nearest-root', 0), rs.get('dhatupatha-join', 0),
-                         rs.get('oracle-join', 0), rs.get('empty', 0),
+                         rs.get('oracle-join', 0), rs.get('llm-pass', 0),
+                         rs.get('empty', 0),
                          round(100 * (n - rs.get('empty', 0)) / max(1, n), 1)])
     write_csv('root_capture.csv',
               ['dict', 'derivations', 'local', 'headword_root', 'nearest_root',
-               'dhatupatha_join', 'oracle_join', 'empty', 'pct_with_root'], cap_rows)
+               'dhatupatha_join', 'oracle_join', 'llm_pass', 'empty', 'pct_with_root'], cap_rows)
 
     # ---- DSG deep-links + definitions for every affix / kāraka shown ----------
     dsg_defs = load_dsg()
@@ -344,8 +345,10 @@ three readings; <i>ghañ</i> → bhāve; <i>lyu</i> is pure kartari.</p>
 <p><b>Affix polysemy is quantified by entropy.</b> Generalists (<i>ḍa</i>, <i>anīyar</i>, <i>ac</i> ≈ 2 bits) form
 almost any kāraka; specialists (<i>lyu</i> 0.33, <i>ṣṭran</i>, <i>aṅ</i>) do one job — directly pedagogical.</p>
 <p><b>Root productivity follows corpus frequency</b> (<i>kṛ</i> ≫ <i>bhū</i> > <i>i</i>, <i>dhā</i>, <i>gam</i>),
-and <b>the traditions agree</b>: <span id="hl"></span> The cross-dict root oracle (a derived-word → root index,
-incl. KRM's 60k-form paradigm) then resolves much of the empty-root tail (VCP 77 → 87 %, SHS 20 → 59 %).</p>
+and <b>the traditions agree</b>: <span id="hl"></span> A cascade of root-recovery tiers — local citation, KRM's
+head-word-is-the-root, a cross-dict oracle (incl. KRM's 60k-form paradigm), and a DeepSeek pass over the
+residual, every fill validated against the canonical dhātu list — lifts the empty-root tail to near-complete
+(VCP 20 → 97 %, SHS → 95 %).</p>
 
 <h2>Download the data</h2>
 <p id="dl-dicts">Per-dictionary derivations (TSV): </p>
@@ -447,9 +450,9 @@ reading the heatmap and entropy charts.</p>
 The final column is the share of derivations that ended up with <i>a</i> root.</p>
 <div class="read"><b>Read it:</b>
 <span class="ex">① <i>KRM</i> is 100%, entirely via <i>headword-root</i> — it is a root dictionary, so every derivation's root is just the entry head-word.</span>
-<span class="ex">② <i>VCP</i> reaches 87% as a stack: 2263 local + 532 nearest-root + 359 oracle-join, leaving 482 truly empty — read the row left-to-right to see each tier's contribution.</span></div>
+<span class="ex">② <i>VCP</i> reaches 97% as a stack: 2263 local + 532 nearest-root + 363 oracle-join + 361 DeepSeek llm-pass, leaving only 117 empty — read the row left-to-right to see each tier's contribution.</span></div>
 <div class="cant"><b>Can't tell you:</b> the percentage is "has <i>a</i> root", not "has the <i>correct</i> root" — the nearest-root and oracle tiers are dhātu-list-validated but not hand-checked. Sample them with <code>sample_nearest_root_audit.py</code> before trusting a single fill.</div>
-<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>oracle-join</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
+<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>oracle-join</th><th>llm-pass</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
 <p class="src">DSG definitions © K. V. Abhyankar, <i>A Dictionary of Sanskrit Grammar</i>, via
 <a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">samskrtam.ru</a>. Data + code:
 <a href="https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/etymology_stats">csl-orig/v02/etymology_stats</a>.</p>
@@ -510,7 +513,7 @@ D.agreement.sort((a,b)=>b[2]-a[2]).forEach(r=>at.insertAdjacentHTML('beforeend',
 const rat=document.querySelector('#ragree tbody');
 (D.root_agreement||[]).sort((a,b)=>b[2]-a[2]).forEach(r=>rat.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${ci(r)}</td></tr>`));
 const ct=document.querySelector('#cap tbody');
-D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}</td><td>${r[7]}</td><td>${r[8]}%</td></tr>`));
+D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}</td><td>${r[7]}</td><td>${r[8]}</td><td>${r[9]}%</td></tr>`));
 
 // affix legend (surface · function · Russian), affix links to DSG
 const lt=document.querySelector('#legend tbody');

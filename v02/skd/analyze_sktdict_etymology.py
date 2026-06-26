@@ -168,6 +168,22 @@ def load_oracle():
     return len(ORACLE)
 
 
+# DeepSeek-resolved roots for a dict's residual tail (validated against ROOT_SET
+# at generation time by llm_root_tools.py). Lowest-priority fill tier.
+LLM_ROOTS = {}
+
+
+def load_llm_roots(dictcode):
+    import csv as _csv
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                     '..', 'etymology_stats', dictcode + '_llm_roots.tsv')
+    if os.path.exists(p):
+        for r in _csv.DictReader(open(p, encoding='utf-8'), delimiter='\t'):
+            if r.get('headword_slp1') and r.get('root_slp1'):
+                LLM_ROOTS[r['headword_slp1']] = r['root_slp1']
+    return len(LLM_ROOTS)
+
+
 _DHATU_CITE = re.compile(r"([a-zA-Z']{2,})DAt(?:oH|u|o)\b")   # "<root>DAtoH"
 
 
@@ -248,6 +264,8 @@ def parse_entry(L_id, headword, body):
             root_slp1, root_source = e_dhatu, e_method
         if not root_slp1 and ORACLE.get(headword):   # cross-dict root oracle
             root_slp1, root_source = ORACLE[headword], 'oracle-join'
+        if not root_slp1 and LLM_ROOTS.get(headword):  # DeepSeek-resolved residual
+            root_slp1, root_source = LLM_ROOTS[headword], 'llm-pass'
         key = (root_slp1, kar, aff_slp1, root_source)
         if key in seen:
             continue
@@ -282,8 +300,10 @@ def main():
     n_base, map_path = wil.load_affix_base()
     n_roots = load_root_set()
     n_orc = load_oracle()
+    n_llm = load_llm_roots(dictcode)
     print("Affix base: {} canonical + {} WIL supplement; dhātu list: {} roots; "
-          "oracle: {} forms".format(n_base, len(wil.SUPPLEMENT), n_roots, n_orc))
+          "oracle: {} forms; llm-roots: {}".format(
+              n_base, len(wil.SUPPLEMENT), n_roots, n_orc, n_llm))
 
     records = []
     L_id = headword = None
@@ -338,10 +358,10 @@ def main():
     rs = Counter(r['root_source'] for r in records)
     have = len(records) - rs[None]
     print("\nRoot capture: {}/{} ({:.0f}%) -- local {}, headword-root {}, "
-          "nearest-root {}, dhātupāṭha-join {}, oracle-join {}, empty {}".format(
+          "nearest-root {}, dhātupāṭha-join {}, oracle-join {}, llm-pass {}, empty {}".format(
               have, len(records), 100 * have / max(1, len(records)),
               rs['local'], rs['headword-root'], rs['nearest-root'],
-              rs['dhatupatha-join'], rs['oracle-join'], rs[None]))
+              rs['dhatupatha-join'], rs['oracle-join'], rs['llm-pass'], rs[None]))
 
 
 if __name__ == '__main__':
