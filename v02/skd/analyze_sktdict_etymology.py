@@ -99,6 +99,32 @@ def _is_rootlike(tok):
         and tok not in STOPWORD and tok not in PRATYAYA
 
 
+# dicts organised BY root (the head-word IS the dhātu) -> head-word fills empties
+ROOT_DICTS = {'krm'}
+CUR_DICT = None
+_TOK_RE = re.compile(r"[a-zA-Z']{2,}")
+
+
+_HYPHEN_CITE = re.compile(r"([a-zA-Z']{2,})-{1,2}")          # "X--" / "X-"
+
+
+def nearest_validated_root(before, window=120):
+    """Nearest dhātu before the kāraka that appears in a DERIVATION-MARKER
+    context — a `X--`/`X-` hyphen citation or `XDAtoH` — and is a known dhātu.
+    The marker gate is what keeps precision: a plain nearby word (an affix
+    surface like 'ta', an inflected form like 'smftiH') is NOT in such a slot,
+    so it is rejected, while 'kzuBa--Ric karmmaRi' still yields kzuBa."""
+    if not ROOT_SET:
+        return None
+    seg = before[-window:]
+    cites = [(m.start(), m.group(1)) for m in _HYPHEN_CITE.finditer(seg)]
+    cites += [(m.start(), m.group(1)) for m in _DHATU_CITE.finditer(seg)]
+    for _pos, r in sorted(cites, reverse=True):          # nearest to the kāraka
+        if r in ROOT_SET and _is_rootlike(r):
+            return r
+    return None
+
+
 # --- gaṇa-gloss backreference + dhātupāṭha join (fill empty roots, tagged) -----
 # Reuses the dhātupāṭha class markers from csl-atlas m4_indigenous.py (_GANA).
 GANA_RE = re.compile(r"(?:Bv|ad|juhoty|div|sv|tud|ruD|tan|kry|cur)AdiH|DAt(?:u|oH)")
@@ -192,7 +218,14 @@ def parse_entry(L_id, headword, body):
         before = text[max(0, m.start() - 60):m.start()]
         root_slp1, pref_slp1 = find_root(before)
         root_source = 'local' if root_slp1 else None
-        if not root_slp1 and e_dhatu:    # dhātupāṭha join / gaṇa backreference
+        if not root_slp1 and CUR_DICT in ROOT_DICTS and headword:
+            # KRM &c. are organised BY root: the head-word IS the dhātu.
+            root_slp1, root_source = headword, 'headword-root'
+        if not root_slp1:                # nearest known dhātu before the kāraka
+            nv = nearest_validated_root(before)
+            if nv:
+                root_slp1, root_source = nv, 'nearest-root'
+        if not root_slp1 and e_dhatu:    # entry-level dhātupāṭha join / backref
             root_slp1, root_source = e_dhatu, e_method
         key = (root_slp1, kar, aff_slp1, root_source)
         if key in seen:
@@ -223,6 +256,8 @@ def parse_entry(L_id, headword, body):
 def main():
     path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), 'skd.txt')
     dictcode = os.path.splitext(os.path.basename(path))[0]
+    global CUR_DICT
+    CUR_DICT = dictcode
     n_base, map_path = wil.load_affix_base()
     n_roots = load_root_set()
     print("Affix base: {} canonical + {} WIL supplement; dhātu list: {} roots".format(
@@ -280,10 +315,11 @@ def main():
         print("  {:26s} {}".format(s, n))
     rs = Counter(r['root_source'] for r in records)
     have = len(records) - rs[None]
-    print("\nRoot capture: {}/{} ({:.0f}%) -- local {}, dhātupāṭha-join {}, "
-          "gaṇa-backref {}, empty {}".format(
+    print("\nRoot capture: {}/{} ({:.0f}%) -- local {}, headword-root {}, "
+          "nearest-root {}, dhātupāṭha-join {}, empty {}".format(
               have, len(records), 100 * have / max(1, len(records)),
-              rs['local'], rs['dhatupatha-join'], rs['gana-backref'], rs[None]))
+              rs['local'], rs['headword-root'], rs['nearest-root'],
+              rs['dhatupatha-join'], rs[None]))
 
 
 if __name__ == '__main__':

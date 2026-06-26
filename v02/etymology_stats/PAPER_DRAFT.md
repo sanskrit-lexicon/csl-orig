@@ -28,19 +28,31 @@ Affixes are decoded against a single curated pratyaya table (anchored on Apte's
 `affix_map.tsv` + a WIL supplement + a generic it-letter decoder). Roots are
 validated against a vendored dhātu list (vidyut dhātupāṭha + csl-atlas m4
 indigenous roots). Two head-words "agree" if their extracted affix (resp. root)
-sets intersect.
+sets intersect; agreement is reported as a proportion with a 95% Wilson score
+interval.
+
+Root recovery is tiered and provenance-tagged (`root_source`): a *local* match
+adjacent to the derivation marker; for root-organised dictionaries (KRM) the
+*head-word* itself (it is the dhātu); a *nearest-root* match validated against the
+dhātu list and gated on a `--`/`DAtoH` citation marker (precision guard — a free
+nearest-token scan grabs affix surfaces like `-ta` and is rejected); and an
+entry-level *dhātupāṭha-join*. Coverage: SKD 90%, VCP 77%, Apte/AP ~90%, KRM 100%,
+SHS 20% (SHS rarely links its root to the kāraka).
 
 ## Findings
 
 **F1 — The indigenous Sanskrit tradition is internally consistent on affixes.**
 For head-words shared by two Sanskrit-side dictionaries, the stated affix agrees
-**90–100%** of the time: SKD↔VCP 94%, Apte↔AP 100%, VCP↔SHS 98%, SKD↔Apte 92%.
-This is strong cross-validation: independent 19th–20th c. compilations of the
-Pāṇinian analysis converge.
+**90–100%** of the time (proportion, 95% Wilson score interval): SKD↔VCP
+**93.8% [85.2–97.6]** (n=65), Apte↔AP **100% [97.9–100]** (n=178), VCP↔SHS
+**98.5% [95.8–99.5]** (n=206), SKD↔Apte **91.7% [83.8–95.9]** (n=84). Independent
+19th–20th c. compilations of the Pāṇinian analysis converge.
 
-**F2 — Wilson 1832 is the outlier.** WIL agrees with SKD only **23%** and VCP
-**61%** on affixes — far below the Sanskrit-side block — confirming Wilson's
-idiosyncratic, pre-critical etymologies.
+**F2 — Wilson 1832 is the outlier.** WIL agrees with SKD only **22.9%
+[14.6–34.0]** (n=70) and VCP **61.2% [58.7–63.7]** (n=1504) on affixes. The WIL↔SKD
+interval (≤34%) does not overlap any Sanskrit-side pair's interval (≥83%), so the
+divergence is statistically clear, not sampling noise — confirming Wilson's
+idiosyncratic, pre-critical etymologies as a distinct stratum.
 
 **F3 — Cross-tradition root attribution holds at ~two-thirds.** The two large
 root-attributing dictionaries, MW (English, √-notation) and PWG (German, "von
@@ -62,9 +74,11 @@ affix entropy, root productivity, affix & root agreement matrices).
 
 ## Limits / next
 
-* VCP root capture is 63% — the gaṇa-gloss tail resists a *safe* join (the dhātu
-  is far from the kāraka); a per-derivation dhātupāṭha resolver or an LLM pass
-  would lift it.
-* KRM (a dedicated kṛdanta dictionary) needs a per-derivation local pass.
+* VCP root capture is **77%** (was 63% before the citation-gated nearest-root
+  pass). The residual 841 empties cite no root in a recoverable position; an LLM
+  pass over those entries is the remaining lever.
+* The nearest-root gate trades a little recall for precision; a few borderline
+  fills remain (e.g. a compound member homonymous with a root). A second-annotator
+  audit of a `nearest-root` sample would quantify its precision.
 * Numbers above are from the current extraction run; rerun `stats_etymology.py`
   after any extractor change.

@@ -19,12 +19,12 @@ takes any of them as its argument:
 
 | dict | derivations | root captured | note |
 |---|--:|--:|---|
-| SKD | 2,214 | 89% | Śabdakalpadruma |
-| VCP | 3,660 | 62% | Vācaspatyam |
-| **Apte (AP90)** | 331 | 85% | Apte 1890 — the Apte representative |
-| AP | 339 | 85% | Apte (practical) |
-| SHS | 258 | 16% | Śabda-sāgara (Wilson tradition; rarely links root to kāraka) |
-| KRM | 305 | 58% | Kṛdanta-rūpa-mālā — a dedicated derivation dictionary, `DAtoH`-heavy |
+| SKD | 2,214 | 90% | Śabdakalpadruma |
+| VCP | 3,664 | 77% | Vācaspatyam |
+| **Apte (AP90)** | 332 | 89% | Apte 1890 — the Apte representative |
+| AP | 339 | 91% | Apte (practical) |
+| SHS | 258 | 20% | Śabda-sāgara (Wilson tradition; rarely links root to kāraka) |
+| KRM | 305 | 100% | Kṛdanta-rūpa-mālā — organised by root, so head-word = dhātu |
 
 Cross-dictionary statistics over all of these (plus WIL) live in
 [`../etymology_stats/`](../etymology_stats/README.md).
@@ -68,14 +68,20 @@ WIL, SKD and VCP.
 `prefixes` · `karaka` · `karaka_sense` · `affix` · `affix_slp1` · `group` ·
 `anubandha` · `anubandha_steps` · `affix_source` · `context`
 
-`root_source` records how the root was recovered: `local` (the `+`/`--`/`DAtoH`
-pattern next to the kāraka) · `gana-backref` (a *conservative* fill from the
-entry's single unambiguous dhātupāṭha citation — reuses the gaṇa class markers
-from csl-atlas `m4_indigenous.py`) · empty. The gaṇa-backref is intentionally
-narrow (it fires only when an entry cites exactly one dhātu) — a looser pass
-grabbed wrong tokens, so empty roots are kept honest rather than mis-filled. It
-lifts the dhātu-dense KRM most (+65) and SKD/VCP barely (+5/+7): VCP's empty
-tail genuinely needs a dhātupāṭha join, not a heuristic.
+`root_source` records how the root was recovered, tiered most-to-least direct:
+* `local` — a `+`/`--`/`DAtoH` pattern next to the kāraka.
+* `headword-root` — for root-organised dictionaries (KRM = Kṛdanta-rūpa-mālā) the
+  head-word *is* the dhātu, so it fills every derivation in the entry (KRM → 100%).
+* `nearest-root` — the nearest known dhātu (validated against the dhātu list) that
+  sits in a `--`/`DAtoH`/`Ric` citation context within the preceding window. The
+  citation gate is the precision guard: a free nearest-token scan grabbed affix
+  surfaces (`-ta`) and inflected non-roots; gating on the marker keeps it clean
+  (e.g. `kzuBa--Ric karmmaRi` → kṣubh). This recovers most of VCP's tail (63→77%).
+* `dhatupatha-join` — entry-level fallback: an entry citing exactly one root that
+  is in the canonical list.
+* empty — no root recoverable; kept honest rather than mis-filled.
+
+Coverage: SKD 90% · VCP 77% · Apte 89% · AP 91% · KRM 100% · SHS 20%.
 
 `*_etymology.tsv` is committed; the larger `*_etymology.jsonl` is git-ignored
 (regenerate from the script).
