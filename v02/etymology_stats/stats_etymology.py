@@ -22,6 +22,12 @@ sys.stderr.reconfigure(encoding='utf-8')
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 V02 = os.path.normpath(os.path.join(HERE, '..'))
+sys.path.insert(0, os.path.join(V02, 'wil'))
+try:
+    import analyze_wil_etymology as wil      # affix table: realized surface + function
+    wil.load_affix_base()
+except Exception:
+    wil = None
 
 # dict code -> (relative tsv path, style). Sanskrit-side dicts carry a kāraka.
 DICTS = [
@@ -74,8 +80,13 @@ except Exception:
         return s
 
 
+def _short(s, n=240):
+    s = (s or '').strip()
+    return (s[:n].rsplit(' ', 1)[0] + '…') if len(s) > n else s
+
+
 def load_dsg():
-    """{slp1: short_en_def} from the vendored DSG json, or {} if absent."""
+    """{slp1: {'en':…, 'ru':…}} from the vendored DSG json, or {} if absent."""
     p = os.path.join(V02, '..', '..', 'SanskritLexicography', 'RussianTranslation',
                      'research', 'dsg.json')
     p = os.environ.get('DSG_JSON', os.path.normpath(p))
@@ -83,18 +94,17 @@ def load_dsg():
     if os.path.exists(p):
         for e in json.load(open(p, encoding='utf-8')):
             s = e.get('slp1')
-            en = (e.get('en') or '').strip()
-            if s and en and s not in out:
-                short = en[:240].rsplit(' ', 1)[0]
-                out[s] = short + ('…' if len(en) > 240 else '')
+            if s and s not in out and (e.get('en') or e.get('ru')):
+                out[s] = {'en': _short(e.get('en')), 'ru': _short(e.get('ru'), 200)}
     return out
 
 
 def dsg_entry(slp1, defs):
-    """{'url':…, 'def':…} for a term, or None."""
+    """{'url':…, 'def':…, 'ru':…} for a term, or None."""
     if not slp1:
         return None
-    return {'url': DSG_URL.format(slp1), 'def': defs.get(slp1, '')}
+    d = defs.get(slp1, {})
+    return {'url': DSG_URL.format(slp1), 'def': d.get('en', ''), 'ru': d.get('ru', '')}
 
 
 def wilson(k, n, z=1.96):
@@ -221,11 +231,11 @@ def main():
         n = len(data[c]['rows'])
         cap_rows.append([c, n, rs.get('local', 0), rs.get('headword-root', 0),
                          rs.get('nearest-root', 0), rs.get('dhatupatha-join', 0),
-                         rs.get('empty', 0),
+                         rs.get('oracle-join', 0), rs.get('empty', 0),
                          round(100 * (n - rs.get('empty', 0)) / max(1, n), 1)])
     write_csv('root_capture.csv',
               ['dict', 'derivations', 'local', 'headword_root', 'nearest_root',
-               'dhatupatha_join', 'empty', 'pct_with_root'], cap_rows)
+               'dhatupatha_join', 'oracle_join', 'empty', 'pct_with_root'], cap_rows)
 
     # ---- DSG deep-links + definitions for every affix / kāraka shown ----------
     dsg_defs = load_dsg()
@@ -236,6 +246,18 @@ def main():
         dsg['kar:' + KSENSE[k]] = dsg_entry(DSG_KARAKA.get(k), dsg_defs)
     print("DSG definitions wired: {} of {} terms have a gloss".format(
         sum(1 for v in dsg.values() if v and v['def']), len(dsg)))
+
+    # ---- legend: Sanskrit affix -> IAST surface suffix · English · Russian ----
+    legend = []
+    for a in m_aff + [e[0] for e in ent[:10]]:
+        if any(row[0] == a for row in legend):
+            continue
+        slp1 = iast_to_slp1(a)
+        rec = wil.AFFIXES.get(a) if wil else None
+        surface = '-' + rec[0] if rec and rec[0] else ('∅' if rec else '')
+        func = rec[2] if rec else ''
+        ru = dsg_defs.get(slp1, {}).get('ru', '')
+        legend.append([a, surface, func, ru, DSG_URL.format(slp1)])
 
     # ---- dashboard ------------------------------------------------------------
     payload = {
@@ -249,7 +271,7 @@ def main():
         'roots': rootc.most_common(15),
         'karaka_dist': [[KSENSE[k]] + [kdist[c].get(k, 0) for c in sanskrit] for k in KARAKAS],
         'capture': cap_rows,
-        'dsg': dsg,
+        'dsg': dsg, 'legend': legend,
     }
     payload['files'] = {code: os.path.basename(rel) for code, rel, _s in DICTS if code in data}
     html = DASHBOARD.replace('/*DATA*/', json.dumps(payload, ensure_ascii=False))
@@ -287,6 +309,19 @@ DASHBOARD = r"""<!DOCTYPE html>
 <a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">Dictionary of Sanskrit Grammar</a> (hover for the gloss).
 Generated from the <code>*_etymology.tsv</code> extractions across 10 dictionaries.</p>
 
+<h2>What we see</h2>
+<p><b>Kāraka is a fingerprint of each dictionary's purpose.</b> Overall <i>bhāve</i> (action / abstract noun)
+dominates, but <b>KRM inverts this</b> — <i>kartari</i> 227 ≫ <i>bhāve</i> 30 — because the Kṛdanta-rūpa-mālā is
+built around agent-derivatives. The kāraka mix tells you what a dictionary is <i>for</i>.</p>
+<p><b>The kāraka × pratyaya grid is textbook-clean Pāṇini.</b> <i>lyuṭ</i> → bhāve + karaṇe (the <code>-ana</code>
+action / instrument nouns); <i>kta</i> spreads across bhāve / karmaṇi / kartari — exactly the past participle's
+three readings; <i>ghañ</i> → bhāve; <i>lyu</i> is pure kartari.</p>
+<p><b>Affix polysemy is quantified by entropy.</b> Generalists (<i>ḍa</i>, <i>anīyar</i>, <i>ac</i> ≈ 2 bits) form
+almost any kāraka; specialists (<i>lyu</i> 0.33, <i>ṣṭran</i>, <i>aṅ</i>) do one job — directly pedagogical.</p>
+<p><b>Root productivity follows corpus frequency</b> (<i>kṛ</i> ≫ <i>bhū</i> > <i>i</i>, <i>dhā</i>, <i>gam</i>),
+and <b>the traditions agree</b>: <span id="hl"></span> The cross-dict root oracle (a derived-word → root index,
+incl. KRM's 60k-form paradigm) then resolves much of the empty-root tail (VCP 77 → 87 %, SHS 20 → 59 %).</p>
+
 <h2>Download the data</h2>
 <p id="dl-dicts">Per-dictionary derivations (TSV): </p>
 <p id="dl-csv">Summary tables (CSV): </p>
@@ -318,8 +353,13 @@ The Sanskrit-tradition dicts cluster at 90–100%; Wilson 1832 is the outlier.</
 <p>Same, on the root. Includes MW (root-attribution + <code>parse=</code>) and PWG/PW (German "Wurzel").</p>
 <table id="ragree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>root agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
 
+<h2>Affix legend (Sanskrit → surface · function · Russian) <a class="dl" href="affix_entropy.csv">⤓</a></h2>
+<p>Each Pāṇinian affix, its IAST surface suffix after anubandha-stripping, its English function, and the
+Russian gloss from the Dictionary of Sanskrit Grammar. The affix links to its full DSG entry.</p>
+<table id="legend"><thead><tr><th>affix</th><th>surface</th><th>English function</th><th>Russian (DSG)</th></tr></thead><tbody></tbody></table>
+
 <h2>Root-capture coverage <a class="dl" href="root_capture.csv">⤓ CSV</a></h2>
-<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
+<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>oracle-join</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
 <p class="src">DSG definitions © K. V. Abhyankar, <i>A Dictionary of Sanskrit Grammar</i>, via
 <a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">samskrtam.ru</a>. Data + code:
 <a href="https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/etymology_stats">csl-orig/v02/etymology_stats</a>.</p>
@@ -377,7 +417,17 @@ D.agreement.sort((a,b)=>b[2]-a[2]).forEach(r=>at.insertAdjacentHTML('beforeend',
 const rat=document.querySelector('#ragree tbody');
 (D.root_agreement||[]).sort((a,b)=>b[2]-a[2]).forEach(r=>rat.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${ci(r)}</td></tr>`));
 const ct=document.querySelector('#cap tbody');
-D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}</td><td>${r[7]}%</td></tr>`));
+D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}</td><td>${r[7]}</td><td>${r[8]}%</td></tr>`));
+
+// affix legend (surface · function · Russian), affix links to DSG
+const lt=document.querySelector('#legend tbody');
+(D.legend||[]).forEach(r=>lt.insertAdjacentHTML('beforeend',
+ `<tr><td><a class="gloss" href="${r[4]}" style="font-style:normal">${esc(r[0])}</a></td><td><code>${esc(r[1])}</code></td><td>${esc(r[2])}</td><td style="color:#52514e">${esc(r[3])}</td></tr>`));
+
+// headline agreement numbers, injected live
+const f=(a,b)=>{const r=(D.agreement||[]).find(x=>(x[0]==a&&x[1]==b)||(x[0]==b&&x[1]==a));return r?`${r[4]}% [${r[5]}–${r[6]}]`:'';};
+const hl=document.getElementById('hl');
+if(hl)hl.innerHTML=`SKD↔VCP ${f('SKD','VCP')} affix agreement vs Wilson↔SKD ${f('WIL','SKD')} — the Sanskrit-tradition block is internally consistent while Wilson 1832 is the disjoint outlier.`;
 </script></body></html>
 """
 

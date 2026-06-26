@@ -149,6 +149,25 @@ def load_root_set():
     return len(ROOT_SET)
 
 
+# cross-dict (head-word -> root) oracle (root_oracle.tsv), built by
+# etymology_stats/build_root_oracle.py. Only cross-dict-corroborated entries are
+# used to FILL (KRM-body-only forms are excluded — they don't match other dicts'
+# head-words and would weaken provenance).
+ORACLE = {}
+
+
+def load_oracle():
+    import csv as _csv
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                     '..', 'etymology_stats', 'root_oracle.tsv')
+    p = os.environ.get('ROOT_ORACLE', os.path.normpath(p))
+    if os.path.exists(p):
+        for r in _csv.DictReader(open(p, encoding='utf-8'), delimiter='\t'):
+            if r.get('sources') and r['sources'] != 'krm-body':
+                ORACLE[r['form_slp1']] = r['root_slp1']
+    return len(ORACLE)
+
+
 _DHATU_CITE = re.compile(r"([a-zA-Z']{2,})DAt(?:oH|u|o)\b")   # "<root>DAtoH"
 
 
@@ -227,6 +246,8 @@ def parse_entry(L_id, headword, body):
                 root_slp1, root_source = nv, 'nearest-root'
         if not root_slp1 and e_dhatu:    # entry-level dhātupāṭha join / backref
             root_slp1, root_source = e_dhatu, e_method
+        if not root_slp1 and ORACLE.get(headword):   # cross-dict root oracle
+            root_slp1, root_source = ORACLE[headword], 'oracle-join'
         key = (root_slp1, kar, aff_slp1, root_source)
         if key in seen:
             continue
@@ -260,8 +281,9 @@ def main():
     CUR_DICT = dictcode
     n_base, map_path = wil.load_affix_base()
     n_roots = load_root_set()
-    print("Affix base: {} canonical + {} WIL supplement; dhātu list: {} roots".format(
-        n_base, len(wil.SUPPLEMENT), n_roots))
+    n_orc = load_oracle()
+    print("Affix base: {} canonical + {} WIL supplement; dhātu list: {} roots; "
+          "oracle: {} forms".format(n_base, len(wil.SUPPLEMENT), n_roots, n_orc))
 
     records = []
     L_id = headword = None
@@ -316,10 +338,10 @@ def main():
     rs = Counter(r['root_source'] for r in records)
     have = len(records) - rs[None]
     print("\nRoot capture: {}/{} ({:.0f}%) -- local {}, headword-root {}, "
-          "nearest-root {}, dhātupāṭha-join {}, empty {}".format(
+          "nearest-root {}, dhātupāṭha-join {}, oracle-join {}, empty {}".format(
               have, len(records), 100 * have / max(1, len(records)),
               rs['local'], rs['headword-root'], rs['nearest-root'],
-              rs['dhatupatha-join'], rs[None]))
+              rs['dhatupatha-join'], rs['oracle-join'], rs[None]))
 
 
 if __name__ == '__main__':

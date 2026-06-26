@@ -35,9 +35,21 @@ Root recovery is tiered and provenance-tagged (`root_source`): a *local* match
 adjacent to the derivation marker; for root-organised dictionaries (KRM) the
 *head-word* itself (it is the dhātu); a *nearest-root* match validated against the
 dhātu list and gated on a `--`/`DAtoH` citation marker (precision guard — a free
-nearest-token scan grabs affix surfaces like `-ta` and is rejected); and an
-entry-level *dhātupāṭha-join*. Coverage: SKD 90%, VCP 77%, Apte/AP ~90%, KRM 100%,
-SHS 20% (SHS rarely links its root to the kāraka).
+nearest-token scan grabs affix surfaces like `-ta` and is rejected); an
+entry-level *dhātupāṭha-join*; and finally an *oracle-join* against a cross-dictionary
+(derived-word → root) oracle (see below). Coverage after all tiers: SKD 93%,
+VCP 87%, Apte 91%, AP 96%, KRM 100%, SHS 59%.
+
+**The root oracle.** A (derived-word → root) index is pooled from every
+dictionary's high-confidence root captures, with two precision guards: the root
+must be in the canonical dhātu list, and a head-word keeps a root only if it is
+unambiguous (one root, or a ≥⅔ majority). KRM contributes massively here — it is
+organised *by* root, so its 2,061 entries' bodies yield ~60k derived-form → root
+pairs (its full kṛdanta paradigm). The oracle then back-fills the empty-root tails
+of the prose dictionaries by look-up rather than re-parsing: VCP 77 → 87 %,
+SHS 20 → 59 %, SKD 90 → 93 %. (Only cross-dictionary-corroborated entries fill;
+KRM-body-only forms ship as a standalone resource but are not used to resolve, as
+they do not match the prose dicts' head-words.)
 
 ## Findings
 
@@ -60,6 +72,11 @@ Wurzel"), agree on the root **65%** of shared head-words; PWG↔PW 93%. Root
 agreement is lower than affix agreement because root *identification* is noisier
 across scripts/conventions, not because the traditions disagree.
 
+**F4b — A dictionary's kāraka profile is a fingerprint of its purpose.** Overall
+*bhāve* (action/abstract) dominates the kāraka distribution, but KRM inverts it —
+*kartari* 227 ≫ *bhāve* 30 — because the Kṛdanta-rūpa-mālā is built around
+agent-derivatives. The kāraka mix identifies what a dictionary is *for*.
+
 **F4 — kāraka × pratyaya structure is linguistically sound.** Pooling the
 Sanskrit-side dicts, `lyuṭ` concentrates in bhāve/karaṇe, `kta` spreads across
 bhāve/karmaṇi/kartari (its three participial readings), `lyu` is monosemous
@@ -74,9 +91,9 @@ affix entropy, root productivity, affix & root agreement matrices).
 
 ## Limits / next
 
-* VCP root capture is **77%** (was 63% before the citation-gated nearest-root
-  pass). The residual 841 empties cite no root in a recoverable position; an LLM
-  pass over those entries is the remaining lever.
+* VCP root capture is **87%** (63% → 77% with the citation-gated nearest-root
+  pass → 87% with the cross-dict oracle). The residual ~480 empties cite no root
+  in any dictionary; an LLM pass over those is the remaining lever.
 * The nearest-root gate trades a little recall for precision; a few borderline
   fills remain (e.g. a compound member homonymous with a root). A second-annotator
   audit of a `nearest-root` sample would quantify its precision.
