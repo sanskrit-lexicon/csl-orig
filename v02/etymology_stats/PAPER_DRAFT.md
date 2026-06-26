@@ -51,7 +51,17 @@ wrong-token grabs, plus a few judge false-negatives where the candidate already
 equals the canonical root). The bulk tiers (*local*, *headword-root*) are ≈ 100%
 by construction, and the *llm-pass* roots are returned in clean citation form and
 dhātu-validated, so the rooted subset is high-precision overall; *nearest-root*
-is the weakest tier and is tagged as such in `root_source` for downweighting. MW roots are independently cross-validated against the
+is the weakest tier and is tagged as such in `root_source` for downweighting.
+
+**A strict, near-100%-precision subset for headline tables.** Dropping the single
+sub-~100% tier (*nearest-root*) yields a high-precision dataset: per-dictionary
+strict coverage is KRM 100 %, SKD 93 %, SHS 92 %, AP 90 %, Apte 87 %, VCP 83 %
+(VCP loses the most because *nearest-root* was its largest inferred tier).
+Reproduce it by filtering `root_source != nearest-root` (`pct_strict` column /
+`cross_dict_root_agreement_strict.csv`). Critically, the **headline root-agreement
+is robust to this filter** — MW↔PWG 64.2 % and PWG↔PW 93.9 % are *identical* with
+and without the nearest-root tier — so the cross-dictionary findings are not an
+artefact of the lower-precision rows. MW roots are independently cross-validated against the
 canonical `mw_roots.tsv` register: **99 %** of MW's rooted derivations carry a
 genuine MW root (the 1 % rest are flagged variants).
 

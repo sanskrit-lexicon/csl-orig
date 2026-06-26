@@ -216,23 +216,33 @@ def main():
 
     # 6b. cross-dict ROOT agreement (incl. MW, which gives root not affix) -------
     rootcodes = [c for c in codes if any(r.get('root') for r in data[c]['rows'])]
-    ridx = {c: collections.defaultdict(set) for c in rootcodes}
-    for c in rootcodes:
-        for r in data[c]['rows']:
-            if r.get('root'):
-                ridx[c][r['headword_slp1']].add(r['root'])
-    root_agree = []
-    for i, a in enumerate(rootcodes):
-        for b in rootcodes[i + 1:]:
-            common = set(ridx[a]) & set(ridx[b])
-            if not common:
-                continue
-            ag = sum(1 for h in common if ridx[a][h] & ridx[b][h])
-            lo, hi = wilson(ag, len(common))
-            root_agree.append([a, b, len(common), ag, round(100 * ag / len(common), 1), lo, hi])
+    def root_index(strict):
+        ix = {c: collections.defaultdict(set) for c in rootcodes}
+        for c in rootcodes:
+            for r in data[c]['rows']:
+                if r.get('root') and not (strict and r.get('root_source') == 'nearest-root'):
+                    ix[c][r['headword_slp1']].add(r['root'])
+        return ix
+
+    def agree_table(ix):
+        out = []
+        for i, a in enumerate(rootcodes):
+            for b in rootcodes[i + 1:]:
+                common = set(ix[a]) & set(ix[b])
+                if not common:
+                    continue
+                ag = sum(1 for h in common if ix[a][h] & ix[b][h])
+                lo, hi = wilson(ag, len(common))
+                out.append([a, b, len(common), ag, round(100 * ag / len(common), 1), lo, hi])
+        return out
+
+    root_agree = agree_table(root_index(False))
     write_csv('cross_dict_root_agreement.csv',
               ['dict_a', 'dict_b', 'shared_headwords', 'root_agrees', 'pct',
                'ci95_low', 'ci95_high'], root_agree)
+    write_csv('cross_dict_root_agreement_strict.csv',
+              ['dict_a', 'dict_b', 'shared_headwords', 'root_agrees', 'pct',
+               'ci95_low', 'ci95_high'], agree_table(root_index(True)))
 
     # 7. root productivity (verbal-root dicts only: sanskrit-side + MW) ----------
     # WIL is excluded: its "root" is the first etymon (often a prefix), not a dhātu.
@@ -246,14 +256,19 @@ def main():
     for c in sanskrit:
         rs = collections.Counter(r.get('root_source') or 'empty' for r in data[c]['rows'])
         n = len(data[c]['rows'])
+        rooted = n - rs.get('empty', 0)
+        # strict = high-precision subset: drop the ~66-75% nearest-root tier
+        strict = rooted - rs.get('nearest-root', 0)
         cap_rows.append([c, n, rs.get('local', 0), rs.get('headword-root', 0),
                          rs.get('nearest-root', 0), rs.get('dhatupatha-join', 0),
                          rs.get('oracle-join', 0), rs.get('llm-pass', 0),
                          rs.get('empty', 0),
-                         round(100 * (n - rs.get('empty', 0)) / max(1, n), 1)])
+                         round(100 * rooted / max(1, n), 1),
+                         round(100 * strict / max(1, n), 1)])
     write_csv('root_capture.csv',
               ['dict', 'derivations', 'local', 'headword_root', 'nearest_root',
-               'dhatupatha_join', 'oracle_join', 'llm_pass', 'empty', 'pct_with_root'], cap_rows)
+               'dhatupatha_join', 'oracle_join', 'llm_pass', 'empty',
+               'pct_with_root', 'pct_strict'], cap_rows)
 
     # ---- DSG deep-links + definitions for every affix / kāraka shown ----------
     dsg_defs = load_dsg()
@@ -302,7 +317,7 @@ def main():
     with open(out, 'w', encoding='utf-8') as f:
         f.write(html)
 
-    print("Wrote 8 CSVs + dashboard_etymology.html to {}".format(HERE))
+    print("Wrote 9 CSVs + dashboard_etymology.html to {}".format(HERE))
     print("Sanskrit-side dicts (with kāraka):", ", ".join(sanskrit))
 
 
@@ -452,7 +467,8 @@ The final column is the share of derivations that ended up with <i>a</i> root.</
 <span class="ex">① <i>KRM</i> is 100%, entirely via <i>headword-root</i> — it is a root dictionary, so every derivation's root is just the entry head-word.</span>
 <span class="ex">② <i>VCP</i> reaches 97% as a stack: 2263 local + 532 nearest-root + 363 oracle-join + 361 DeepSeek llm-pass, leaving only 117 empty — read the row left-to-right to see each tier's contribution.</span></div>
 <div class="cant"><b>Can't tell you:</b> the percentage is "has <i>a</i> root", not "has the <i>correct</i> root" — the nearest-root and oracle tiers are dhātu-list-validated but not hand-checked. Sample them with <code>sample_nearest_root_audit.py</code> before trusting a single fill.</div>
-<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>oracle-join</th><th>llm-pass</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
+<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>oracle-join</th><th>llm-pass</th><th>empty</th><th>% rooted</th><th>% strict</th></tr></thead><tbody></tbody></table>
+<p style="font-size:13px;color:#888"><b>% strict</b> drops the <i>nearest-root</i> tier (the one sub-~100% tier, ~66–75% precise) to leave a near-100%-precision subset — the column to cite for headline tables. Filter the TSVs by <code>root_source != nearest-root</code> to reproduce it.</p>
 <p class="src">DSG definitions © K. V. Abhyankar, <i>A Dictionary of Sanskrit Grammar</i>, via
 <a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">samskrtam.ru</a>. Data + code:
 <a href="https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/etymology_stats">csl-orig/v02/etymology_stats</a>.</p>
@@ -513,7 +529,7 @@ D.agreement.sort((a,b)=>b[2]-a[2]).forEach(r=>at.insertAdjacentHTML('beforeend',
 const rat=document.querySelector('#ragree tbody');
 (D.root_agreement||[]).sort((a,b)=>b[2]-a[2]).forEach(r=>rat.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${ci(r)}</td></tr>`));
 const ct=document.querySelector('#cap tbody');
-D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}</td><td>${r[7]}</td><td>${r[8]}</td><td>${r[9]}%</td></tr>`));
+D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}</td><td>${r[7]}</td><td>${r[8]}</td><td>${r[9]}%</td><td style="font-weight:500">${r[10]}%</td></tr>`));
 
 // affix legend (surface · function · Russian), affix links to DSG
 const lt=document.querySelector('#legend tbody');
