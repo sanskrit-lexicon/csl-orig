@@ -1,8 +1,10 @@
 # Cross-dictionary consistency of Pāṇinian derivation in the Cologne lexica
 
 *Draft (pre-submission) — target: International Journal of Lexicography /
-Lexicographica; WSC 2027 indological alternate. Author: M. Gasūns (byline to
-finalise). Empirical basis + datasheet: [`DATASHEET.md`](DATASHEET.md); all figures
+Lexicographica; WSC 2027 indological alternate.
+Author: **Mārcis Gasūns**, independent scholar
+([ORCID 0000-0003-4513-884X](https://orcid.org/0000-0003-4513-884X)),
+gasyoun@ya.ru. Empirical basis + datasheet: [`DATASHEET.md`](DATASHEET.md); all figures
 reproducible from `csl-orig/v02/*/​*_etymology.tsv` via `python stats_etymology.py`.
 Live dashboard: https://sanskrit-lexicon.github.io/csl-orig/ .*
 
