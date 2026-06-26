@@ -107,6 +107,23 @@ def dsg_entry(slp1, defs):
     return {'url': DSG_URL.format(slp1), 'def': d.get('en', ''), 'ru': d.get('ru', '')}
 
 
+# Whitney's Roots (1885) per-root deep-links, via the WhitneyRoots crosswalk.
+WHITNEY_URL = 'https://samskrtam.ru/whitney-roots/{}'
+
+
+def load_whitney():
+    """{root_iast: url} from WhitneyRoots/crosswalk/roots.csv (855 roots)."""
+    p = os.path.join(V02, '..', '..', 'WhitneyRoots', 'crosswalk', 'roots.csv')
+    p = os.environ.get('WHITNEY_ROOTS', os.path.normpath(p))
+    out = {}
+    if os.path.exists(p):
+        for r in csv.DictReader(open(p, encoding='utf-8')):
+            ia, url = r.get('root_iast'), r.get('warnemyr_url')
+            if ia and url and ia not in out:
+                out[ia] = WHITNEY_URL.format(url)
+    return out
+
+
 def wilson(k, n, z=1.96):
     """95% Wilson score interval for a binomial proportion, as percentages."""
     if n == 0:
@@ -247,6 +264,11 @@ def main():
     print("DSG definitions wired: {} of {} terms have a gloss".format(
         sum(1 for v in dsg.values() if v and v['def']), len(dsg)))
 
+    # ---- Whitney's Roots deep-links for the productivity chart -----------------
+    whit_all = load_whitney()
+    whitney = {r[0]: whit_all[r[0]] for r in rootc.most_common(15) if r[0] in whit_all}
+    print("Whitney root links: {} of top-15 roots linked".format(len(whitney)))
+
     # ---- legend: Sanskrit affix -> IAST surface suffix · English · Russian ----
     legend = []
     for a in m_aff + [e[0] for e in ent[:10]]:
@@ -271,7 +293,7 @@ def main():
         'roots': rootc.most_common(15),
         'karaka_dist': [[KSENSE[k]] + [kdist[c].get(k, 0) for c in sanskrit] for k in KARAKAS],
         'capture': cap_rows,
-        'dsg': dsg, 'legend': legend,
+        'dsg': dsg, 'legend': legend, 'whitney': whitney,
     }
     payload['files'] = {code: os.path.basename(rel) for code, rel, _s in DICTS if code in data}
     html = DASHBOARD.replace('/*DATA*/', json.dumps(payload, ensure_ascii=False))
@@ -303,6 +325,9 @@ DASHBOARD = r"""<!DOCTYPE html>
  .bar{display:grid;grid-template-columns:74px 1fr 56px;align-items:center;gap:8px;font-size:13px}
  .bar .track{height:18px;border-radius:3px} .bar .v{color:#52514e;font-variant-numeric:tabular-nums}
  .src{font-size:12px;color:#888;margin:14px 0 4px} code{background:#f1efe8;padding:1px 4px;border-radius:3px}
+ .read{font-size:13px;background:#eef4ec;border-left:3px solid #1baf7a;border-radius:0 6px 6px 0;padding:8px 12px;margin:8px 0}
+ .read b{color:#0f6e56} .read .ex{display:block;margin-top:4px}
+ .cant{font-size:13px;color:#7a3b1d;background:#faece7;border-left:3px solid #d85a30;border-radius:0 6px 6px 0;padding:8px 12px;margin:8px 0}
 </style></head><body>
 <h1>Cologne dictionaries — Pāṇinian derivation statistics</h1>
 <p>Every chart links to the data behind it. <b>Affix &amp; kāraka labels link to their definition</b> in the
@@ -331,34 +356,99 @@ incl. KRM's 60k-form paradigm) then resolves much of the empty-root tail (VCP 77
 <div class="cards" id="cards"></div>
 
 <h2>Kāraka × pratyaya (Sanskrit-side, pooled) <a class="dl" href="karaka_x_affix_matrix.csv">⤓ CSV</a></h2>
-<p>Which affix derives a word in which kāraka sense. Darker = more derivations. Row = affix, column = kāraka —
-both clickable to their grammar definition. Only the Sanskrit dictionaries state the kāraka.</p>
+<p>Each <b>row</b> is a primary affix (pratyaya); each <b>column</b> is a kāraka — the grammatical role the
+derived word plays in its root's action (the doer, the instrument, the object, or the bare action itself).
+A <b>cell</b> counts how many extracted derivations, pooled across the six Sanskrit-prose dictionaries, use
+that affix in that kāraka sense; darker means more. The <b>row total</b> on the right is the affix's overall
+frequency, so reading along a row shows how one affix divides its labour across senses, and reading down a
+column shows which affixes compete to express one relation. This grid exists <i>only</i> because the
+Sanskrit-side dictionaries spell the kāraka out in the entry (<code>BAve GaY</code> = "in the bhāva sense,
+affix ghañ"); WIL, MW and the German dictionaries never state it, so they contribute nothing here. Row and
+column labels link to their definition in the Dictionary of Sanskrit Grammar.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① The <i>lyuṭ</i> × <i>bhāve</i> cell (1005) — ghañ-style action nouns in <code>-ana</code> are formed in the "the act of" sense ~1000× (e.g. <i>karaṇa</i> "doing"); it is lyuṭ's single commonest job.</span>
+<span class="ex">② The <i>kta</i> row lights three columns at once (bhāve · karmaṇi · kartari) — the past participle is read as the action, the object, or the agent by context (<i>kṛta</i> = "the doing / the deed / the doer").</span></div>
+<div class="cant"><b>Can't tell you:</b> this is a population view — it counts attestations of an affix-in-a-kāraka, not whether a <i>particular</i> word is unambiguous (a form like <i>gata</i> legitimately sits in two cells). And it cannot compare the English/German dicts, which are blank by construction, not by absence of derivation.</div>
 <div id="heat"></div>
 
 <h2>Affix kāraka-spread (entropy) <a class="dl" href="affix_entropy.csv">⤓ CSV</a></h2>
-<p>How many distinct kāraka senses one affix forms. High = a generalist affix; low = specialised
-(e.g. <i>lyu</i> → agent only). Click an affix for its definition.</p>
+<p>Each bar is the <b>Shannon entropy</b>, in bits, of one affix's distribution across the seven kārakas —
+a single number answering "how many different jobs does this affix do?" Zero bits means the affix only ever
+forms one kāraka (a pure specialist); the theoretical maximum (~2.8 bits) would mean it spreads perfectly
+evenly over all seven. High-entropy affixes are <b>semantic generalists</b> — the affix alone tells you almost
+nothing about the meaning, so you must read the gloss; low-entropy affixes are <b>specialists</b> that pin the
+sense by themselves. The entropy is computed only over the Sanskrit-side derivations that carry a kāraka, so
+the count it rests on (the <code>n</code> column in the CSV) matters as much as the bits. Affix labels link to
+their full grammar definition.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>lyu</i> at 0.33 bits is a pure specialist — see it and you know the word is an agent (kartari): <i>kāraka</i> "doer".</span>
+<span class="ex">② <i>ac</i> at 1.84 bits over n=411 is a generalist — the bare affix predicts almost nothing; <i>-a</i> nouns can be agent, action, object or instrument, so you must consult the entry.</span></div>
+<div class="cant"><b>Can't tell you:</b> entropy measures <i>spread</i>, not productivity or correctness — a rare affix with two even senses outscores a hugely productive affix that has one dominant sense plus a long tail. Always read it next to <code>n</code> and the heatmap; a high bar on a tiny <code>n</code> is noise.</div>
 <div class="bars" id="ent"></div>
 
 <h2>Root productivity <a class="dl" href="root_productivity.csv">⤓ CSV</a></h2>
-<p id="rootnote">Roots with the most derivatives, pooled across the verbal-root dictionaries.</p>
+<p>Each bar counts how many <b>distinct derived words</b> trace back to that root across the verbal-root
+dictionaries (the Sanskrit-side dicts + MW + PWG/PW; WIL is excluded because its "root" is the first etymon,
+often a prefix). It is a measure of <b>derivational fertility</b> — which roots seed the most vocabulary in the
+recorded lexicon. The ranking tracks corpus frequency closely but is not the same thing: it counts dictionary
+<i>head-words</i>, not running corpus tokens. <b>Click any root to open its full entry</b> — paradigms,
+attested forms and primary derivatives — in Whitney's <i>The Roots, Verb-Forms and Primary Derivatives of the
+Sanskrit Language</i> (1885) on samskrtam.ru.</p>
+<p id="rootnote" style="font-size:13px;color:#888"></p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>kṛ</i> "do / make" tops the list — the most fertile root in the language, seeding <i>kṛta, karaṇa, kartṛ, kārya, kriyā…</i>; click it to see the whole Whitney paradigm.</span>
+<span class="ex">② <i>i</i> "go" ranks near the top despite being a single short vowel — the oldest, shortest roots are disproportionately productive, a real signal about the age-vs-fertility relationship.</span></div>
+<div class="cant"><b>Can't tell you:</b> the counts are inflated by <i>coverage</i>, not only real productivity — a root recorded in more of the ten dictionaries accrues more derivatives, and two homonymous roots (e.g. the two √vid "know" / "find") may be merged into one bar. It is a lexicon count, never a corpus frequency.</div>
 <div class="bars" id="roots"></div>
 
 <h2>Cross-dictionary affix agreement <a class="dl" href="cross_dict_agreement.csv">⤓ CSV</a></h2>
-<p>For head-words shared by two dictionaries (both giving an affix), how often the affix agrees, with 95% CI.
-The Sanskrit-tradition dicts cluster at 90–100%; Wilson 1832 is the outlier.</p>
+<p>Take every head-word that <b>two</b> dictionaries both analyse with an affix, and ask: do they choose the
+<i>same</i> affix? The percentage is the share that agree; the bracket is the <b>95% Wilson confidence
+interval</b>, which widens sharply when only a few head-words are shared. This is a direct test of whether two
+lexicographic traditions reconstruct the same Pāṇinian derivation for the same word — a consistency check that
+no single dictionary can give you. Rows are sorted by the number of shared head-words, so the most evidentially
+solid comparisons sit at the top.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>Apte↔AP</i> 100% [97.9–100] over 178 shared head-words — the two Apte editions are essentially identical, exactly the sanity check you'd want.</span>
+<span class="ex">② <i>WIL↔SKD</i> 22.9% [14.6–34.0] — Wilson and the Śabdakalpadruma pick the same affix barely a fifth of the time, and the interval tops out at 34%, below every Sanskrit-side pair, so the gap is real, not small-sample noise.</span></div>
+<div class="cant"><b>Can't tell you:</b> it scores only head-words that <i>both</i> dicts root with an affix — it is silent on coverage gaps (a word one dict omits never enters the comparison), and a tidy 100% over n=5 is weak evidence. Always read the CI and the shared-count together.</div>
 <table id="agree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>affix agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
 
 <h2>Cross-dictionary root agreement <a class="dl" href="cross_dict_root_agreement.csv">⤓ CSV</a></h2>
-<p>Same, on the root. Includes MW (root-attribution + <code>parse=</code>) and PWG/PW (German "Wurzel").</p>
+<p>The same comparison, but on the <b>root</b> instead of the affix — so it can include the dictionaries that
+attribute a root without naming a pratyaya: MW (via its <code>√</code> notation and <code>parse=</code> field)
+and the German PWG/PW (via "Wurzel" / "von"). Root agreement runs lower than affix agreement, but that is a
+measurement artefact, not real disagreement: the same root is written in different transliterations and
+homonym conventions across traditions, so a "miss" is often two spellings of one dhātu, not a genuine dispute.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>PWG↔PW</i> ~93% — the two German Petersburg dictionaries, same school, agree on the root almost always.</span>
+<span class="ex">② <i>MW↔PWG</i> ~65% — the English √-tradition and the German Wurzel-tradition independently land on the same root for two-thirds of shared head-words, a strong cross-tradition validation given the script differences.</span></div>
+<div class="cant"><b>Can't tell you:</b> a low cell here may be a transliteration/homonym mismatch rather than a real conflict; treat root agreement as a <i>lower bound</i> on true agreement, and the affix table above as the cleaner signal.</div>
 <table id="ragree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>root agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
 
-<h2>Affix legend (Sanskrit → surface · function · Russian) <a class="dl" href="affix_entropy.csv">⤓</a></h2>
-<p>Each Pāṇinian affix, its IAST surface suffix after anubandha-stripping, its English function, and the
-Russian gloss from the Dictionary of Sanskrit Grammar. The affix links to its full DSG entry.</p>
+<h2>Affix legend (Sanskrit → surface · function · Russian)</h2>
+<p>The Sanskrit affix names (<i>ghañ</i>, <i>lyuṭ</i>…) are opaque until you strip their mute markers
+(anubandhas). This table gives, for each affix shown above: its <b>IAST surface suffix</b> — what actually
+attaches to the stem once the markers fall away — its <b>English function</b>, and the <b>Russian gloss</b>
+from the Dictionary of Sanskrit Grammar. The affix name links to its full DSG entry. Use it as a key while
+reading the heatmap and entropy charts.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>ghañ</i> → <code>-a</code>, "action/result noun" — drop the <i>gh</i> and <i>ñ</i> markers and the affix is just <code>-a</code>; it makes a bhāva noun (<i>pāka</i> "cooking").</span>
+<span class="ex">② <i>lyuṭ</i> → <code>-ana</code> — the <i>l</i> and <i>ṭ</i> are mute; the real suffix is <code>-ana</code> (<i>gamana</i> "going").</span></div>
+<div class="cant"><b>Can't tell you:</b> the surface is the affix <i>in isolation</i> — sandhi and root-gradation reshape the actual word (<i>kṛ</i> + lyuṭ → <i>karaṇa</i>, not <i>kṛ-ana</i>). The legend names the building block, not the finished form.</div>
 <table id="legend"><thead><tr><th>affix</th><th>surface</th><th>English function</th><th>Russian (DSG)</th></tr></thead><tbody></tbody></table>
 
 <h2>Root-capture coverage <a class="dl" href="root_capture.csv">⤓ CSV</a></h2>
+<p>Not every extracted derivation comes with its root sitting beside it; this table shows, per dictionary,
+<b>how</b> the root was recovered, tier by tier. <i>local</i> = the root sat next to the derivation marker;
+<i>headword-root</i> = the dictionary is organised by root so the head-word <i>is</i> the dhātu;
+<i>nearest-root</i> = the nearest known dhātu in a citation context; <i>dhātupāṭha-join</i> and
+<i>oracle-join</i> = filled by look-up against the canonical dhātu list and the cross-dictionary root oracle.
+The final column is the share of derivations that ended up with <i>a</i> root.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>KRM</i> is 100%, entirely via <i>headword-root</i> — it is a root dictionary, so every derivation's root is just the entry head-word.</span>
+<span class="ex">② <i>VCP</i> reaches 87% as a stack: 2263 local + 532 nearest-root + 359 oracle-join, leaving 482 truly empty — read the row left-to-right to see each tier's contribution.</span></div>
+<div class="cant"><b>Can't tell you:</b> the percentage is "has <i>a</i> root", not "has the <i>correct</i> root" — the nearest-root and oracle tiers are dhātu-list-validated but not hand-checked. Sample them with <code>sample_nearest_root_audit.py</code> before trusting a single fill.</div>
 <table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>oracle-join</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
 <p class="src">DSG definitions © K. V. Abhyankar, <i>A Dictionary of Sanskrit Grammar</i>, via
 <a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">samskrtam.ru</a>. Data + code:
@@ -399,15 +489,18 @@ H.affixes.forEach((a,i)=>{
 document.getElementById('heat').appendChild(grid);
 
 // HTML bar lists (clickable, data in the DOM)
-function bars(el,rows,maxv,color,labelKind){
+function bars(el,rows,maxv,color,labelKind,whit){
  document.getElementById(el).innerHTML=rows.map(r=>{
-  const lab=labelKind?gloss(labelKind,r[0]):`<i>${esc(r[0])}</i>`;
+  let lab;
+  if(labelKind) lab=gloss(labelKind,r[0]);
+  else if(whit&&whit[r[0]]) lab=`<a class="gloss" style="font-style:normal" href="${whit[r[0]]}" title="open √${esc(r[0])} in Whitney's Roots (1885)">${esc(r[0])}</a>`;
+  else lab=`<i>${esc(r[0])}</i>`;
   const w=Math.max(2,100*r[1]/maxv);
   return `<div class="bar"><span>${lab}</span><span class="track" style="width:${w}%;background:${color}"></span><span class="v">${r[1]}</span></div>`;
  }).join('');
 }
 bars('ent',D.entropy.map(e=>[e[0],e[1]]),Math.max(...D.entropy.map(e=>e[1])),'#2a78d6','aff');
-bars('roots',D.roots,Math.max(...D.roots.map(r=>r[1])),'#1baf7a',null);
+bars('roots',D.roots,Math.max(...D.roots.map(r=>r[1])),'#1baf7a',null,D.whitney);
 document.getElementById('rootnote').insertAdjacentHTML('beforeend',
  ` Pool: ${D.prod.join(', ')} (WIL excluded — its "root" is the first etymon, not a dhātu).`);
 
