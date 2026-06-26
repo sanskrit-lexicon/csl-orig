@@ -12,13 +12,17 @@ python stats_etymology.py        # auto-detects sibling <dict>/<dict>_etymology.
 
 ## Dictionaries covered
 
-| dict | style | kāraka? |
+| dict(s) | style | gives |
 |---|---|---|
-| WIL | English-prose `<ab>E.</ab>` | no |
-| SKD, VCP, **Apte (AP90)**, AP, SHS, KRM | Sanskrit-prose `kāraka + pratyaya` | yes |
+| WIL | English-prose `<ab>E.</ab>` | root + affix |
+| SKD, VCP, **Apte (AP90)**, AP, SHS, KRM | Sanskrit-prose `kāraka + pratyaya` | root + kāraka + affix |
+| MW | `parse="X+Y"` + `fr. √ root` | root + parse |
+| PWG, PW | German `Von {#src#}` / `Wurzel` | source root |
 
-WIL participates in affix-frequency, group, cross-dict agreement and (indirectly)
-provenance; only the Sanskrit-side dicts contribute kāraka analyses.
+Affix & kāraka analyses use the affix-tagging dicts (WIL + Sanskrit-side); the
+**root** analyses (productivity, cross-dict root agreement) span every dict that
+yields a verbal root (Sanskrit-side + MW + PWG/PW). **CAE and MD are excluded on
+purpose**: their `<ab>E.</ab>` means "Epithet of" / "Epic", not Etymology.
 
 ## Outputs
 

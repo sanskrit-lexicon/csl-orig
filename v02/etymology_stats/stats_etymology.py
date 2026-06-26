@@ -33,6 +33,8 @@ DICTS = [
     ('SHS',  'shs/shs_etymology.tsv',   'sanskrit'),
     ('KRM',  'krm/krm_etymology.tsv',   'sanskrit'),
     ('MW',   'mw/mw_etymology.tsv',     'mw'),          # root-attribution + parse=
+    ('PWG',  'pwg/pwg_etymology.tsv',   'german'),       # "Von {#src#}" derivation
+    ('PW',   'pw/pw_etymology.tsv',     'german'),
 ]
 KARAKAS = ['BAve', 'karaRe', 'karmaRi', 'kartari', 'aDikaraRe', 'apAdAne', 'sampradAne']
 KSENSE = {'BAve': 'bhāve', 'karaRe': 'karaṇe', 'karmaRi': 'karmaṇi',
@@ -47,6 +49,10 @@ def load():
         if not os.path.exists(p):
             continue
         rows = list(csv.DictReader(open(p, encoding='utf-8'), delimiter='\t'))
+        if style == 'german':       # normalise "source"(is_root) -> root column
+            for r in rows:
+                if r.get('is_root') == 'True':
+                    r['root'], r['root_slp1'] = r.get('source'), r.get('source_slp1')
         data[code] = {'style': style, 'rows': rows,
                       'aff': [r for r in rows if r.get('affix')]}
     return data
