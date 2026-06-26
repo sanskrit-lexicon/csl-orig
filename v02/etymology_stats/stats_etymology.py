@@ -58,6 +58,45 @@ def load():
     return data
 
 
+# --- DSG (Dictionary of Sanskrit Grammar) deep-links + definitions ----------
+# Reuses the vendored dsg.json (K.V. Abhyankar's DSG, ~4400 terms, EN+RU senses,
+# keyed by SLP1) from SanskritLexicography; deep-links to samskrtam.ru.
+DSG_URL = 'https://samskrtam.ru/sanskrit-lexicon/dsg/#t-{}'
+DSG_KARAKA = {'BAve': 'BAva', 'karaRe': 'karaRa', 'karmaRi': 'karman',
+              'kartari': 'kartf', 'aDikaraRe': 'aDikaraRa', 'apAdAne': 'apAdAna',
+              'sampradAne': 'sampradAna'}
+try:
+    from indic_transliteration import sanscript
+    def iast_to_slp1(s):
+        return sanscript.transliterate(s, sanscript.IAST, sanscript.SLP1)
+except Exception:
+    def iast_to_slp1(s):
+        return s
+
+
+def load_dsg():
+    """{slp1: short_en_def} from the vendored DSG json, or {} if absent."""
+    p = os.path.join(V02, '..', '..', 'SanskritLexicography', 'RussianTranslation',
+                     'research', 'dsg.json')
+    p = os.environ.get('DSG_JSON', os.path.normpath(p))
+    out = {}
+    if os.path.exists(p):
+        for e in json.load(open(p, encoding='utf-8')):
+            s = e.get('slp1')
+            en = (e.get('en') or '').strip()
+            if s and en and s not in out:
+                short = en[:240].rsplit(' ', 1)[0]
+                out[s] = short + ('…' if len(en) > 240 else '')
+    return out
+
+
+def dsg_entry(slp1, defs):
+    """{'url':…, 'def':…} for a term, or None."""
+    if not slp1:
+        return None
+    return {'url': DSG_URL.format(slp1), 'def': defs.get(slp1, '')}
+
+
 def wilson(k, n, z=1.96):
     """95% Wilson score interval for a binomial proportion, as percentages."""
     if n == 0:
@@ -188,9 +227,19 @@ def main():
               ['dict', 'derivations', 'local', 'headword_root', 'nearest_root',
                'dhatupatha_join', 'empty', 'pct_with_root'], cap_rows)
 
+    # ---- DSG deep-links + definitions for every affix / kāraka shown ----------
+    dsg_defs = load_dsg()
+    dsg = {}
+    for a in set(m_aff) | {e[0] for e in ent[:10]} | set(top_aff):
+        dsg['aff:' + a] = dsg_entry(iast_to_slp1(a), dsg_defs)
+    for k in KARAKAS:
+        dsg['kar:' + KSENSE[k]] = dsg_entry(DSG_KARAKA.get(k), dsg_defs)
+    print("DSG definitions wired: {} of {} terms have a gloss".format(
+        sum(1 for v in dsg.values() if v and v['def']), len(dsg)))
+
     # ---- dashboard ------------------------------------------------------------
     payload = {
-        'codes': codes, 'sanskrit': sanskrit,
+        'codes': codes, 'sanskrit': sanskrit, 'prod': prodcodes,
         'perdict': {c: len(data[c]['rows']) for c in codes},
         'heat': {'affixes': m_aff, 'karakas': [KSENSE[k] for k in KARAKAS],
                  'matrix': matrix, 'rowtot': [mtot[a] for a in m_aff]},
@@ -200,7 +249,9 @@ def main():
         'roots': rootc.most_common(15),
         'karaka_dist': [[KSENSE[k]] + [kdist[c].get(k, 0) for c in sanskrit] for k in KARAKAS],
         'capture': cap_rows,
+        'dsg': dsg,
     }
+    payload['files'] = {code: os.path.basename(rel) for code, rel, _s in DICTS if code in data}
     html = DASHBOARD.replace('/*DATA*/', json.dumps(payload, ensure_ascii=False))
     out = os.path.join(HERE, 'dashboard_etymology.html')
     with open(out, 'w', encoding='utf-8') as f:
@@ -213,73 +264,114 @@ def main():
 DASHBOARD = r"""<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Cologne etymology — cross-dictionary statistics</title>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <style>
- body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:1000px;margin:0 auto;padding:24px;color:#1a1a19;background:#fcfcfb}
- h1{font-size:22px;font-weight:500} h2{font-size:18px;font-weight:500;margin-top:36px;border-top:1px solid #e1e0d9;padding-top:20px}
- p{color:#52514e;line-height:1.6;font-size:14px} .cards{display:flex;flex-wrap:wrap;gap:10px;margin:16px 0}
- .card{background:#f1efe8;border-radius:8px;padding:10px 14px;min-width:90px}
- .card .n{font-size:24px;font-weight:500} .card .l{font-size:12px;color:#52514e}
+ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:1020px;margin:0 auto;padding:24px;color:#1a1a19;background:#fcfcfb}
+ h1{font-size:22px;font-weight:500} h2{font-size:18px;font-weight:500;margin-top:34px;border-top:1px solid #e1e0d9;padding-top:18px}
+ p{color:#52514e;line-height:1.6;font-size:14px} a{color:#185fa5}
+ .dl{font-size:12px;font-weight:400;margin-left:10px}
+ .cards{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0}
+ .card{background:#f1efe8;border-radius:8px;padding:10px 14px;min-width:84px;text-decoration:none;color:inherit;display:block}
+ .card:hover{background:#e7e4d8} .card .n{font-size:22px;font-weight:500} .card .l{font-size:12px;color:#185fa5}
  table{border-collapse:collapse;font-size:13px;width:100%} td,th{padding:6px 8px;text-align:left;border-bottom:0.5px solid #e1e0d9}
- th{color:#52514e;font-weight:500} .hm{display:grid;gap:3px;font-size:12px;margin-top:8px}
- .hm div{padding:8px 4px;text-align:center;border-radius:3px} .cw{position:relative;height:340px}
- i{font-style:italic}
+ th{color:#52514e;font-weight:500}
+ .hm{display:grid;gap:3px;font-size:12px;margin-top:8px} .hm>div{padding:8px 4px;text-align:center;border-radius:3px}
+ .hm a{color:inherit;text-decoration:none;cursor:pointer}
+ .gloss{border-bottom:1px dotted #888;cursor:help;text-decoration:none;color:inherit;font-style:italic}
+ .bars{display:flex;flex-direction:column;gap:4px;margin-top:8px}
+ .bar{display:grid;grid-template-columns:74px 1fr 56px;align-items:center;gap:8px;font-size:13px}
+ .bar .track{height:18px;border-radius:3px} .bar .v{color:#52514e;font-variant-numeric:tabular-nums}
+ .src{font-size:12px;color:#888;margin:14px 0 4px} code{background:#f1efe8;padding:1px 4px;border-radius:3px}
 </style></head><body>
 <h1>Cologne dictionaries — Pāṇinian derivation statistics</h1>
-<p>Generated from the <code>*_etymology.tsv</code> extractions. WIL uses the English-prose <code>E.</code> field;
-SKD, VCP, Apte, AP, SHS, KRM use Sanskrit-prose kāraka + pratyaya. Only the Sanskrit-side dicts carry a kāraka.</p>
+<p>Every chart links to the data behind it. <b>Affix &amp; kāraka labels link to their definition</b> in the
+<a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">Dictionary of Sanskrit Grammar</a> (hover for the gloss).
+Generated from the <code>*_etymology.tsv</code> extractions across 10 dictionaries.</p>
+
+<h2>Download the data</h2>
+<p id="dl-dicts">Per-dictionary derivations (TSV): </p>
+<p id="dl-csv">Summary tables (CSV): </p>
+
+<h2>Per-dictionary counts <a class="dl" id="dlcards"></a></h2>
+<p>Each card links to that dictionary's full derivation TSV.</p>
 <div class="cards" id="cards"></div>
 
-<h2>Kāraka × pratyaya (Sanskrit-side, pooled)</h2>
-<p>Which affix derives a word in which kāraka sense. Darker = more derivations. This grid is impossible from WIL/Apte-English alone — only the Sanskrit dictionaries state the kāraka.</p>
+<h2>Kāraka × pratyaya (Sanskrit-side, pooled) <a class="dl" href="karaka_x_affix_matrix.csv">⤓ CSV</a></h2>
+<p>Which affix derives a word in which kāraka sense. Darker = more derivations. Row = affix, column = kāraka —
+both clickable to their grammar definition. Only the Sanskrit dictionaries state the kāraka.</p>
 <div id="heat"></div>
 
-<h2>Affix kāraka-spread (entropy)</h2>
-<p>How many distinct kāraka senses one affix forms. High = a "generalist" affix (e.g. <i>ac</i>, <i>ka</i>); low = specialised (e.g. <i>lyu</i> → agent only).</p>
-<div class="cw"><canvas id="ent" role="img" aria-label="Affix entropy bar chart"></canvas></div>
+<h2>Affix kāraka-spread (entropy) <a class="dl" href="affix_entropy.csv">⤓ CSV</a></h2>
+<p>How many distinct kāraka senses one affix forms. High = a generalist affix; low = specialised
+(e.g. <i>lyu</i> → agent only). Click an affix for its definition.</p>
+<div class="bars" id="ent"></div>
 
-<h2>Root productivity (Sanskrit-side, pooled)</h2>
-<p>Roots with the most derivatives across the Sanskrit dictionaries.</p>
-<div class="cw"><canvas id="roots" role="img" aria-label="Most productive roots"></canvas></div>
+<h2>Root productivity <a class="dl" href="root_productivity.csv">⤓ CSV</a></h2>
+<p id="rootnote">Roots with the most derivatives, pooled across the verbal-root dictionaries.</p>
+<div class="bars" id="roots"></div>
 
-<h2>Cross-dictionary affix agreement</h2>
-<p>For head-words shared by two dictionaries (both giving an affix), how often the affix agrees. The Sanskrit-tradition dicts cluster at 90–100%; Wilson 1832 is the outlier.</p>
+<h2>Cross-dictionary affix agreement <a class="dl" href="cross_dict_agreement.csv">⤓ CSV</a></h2>
+<p>For head-words shared by two dictionaries (both giving an affix), how often the affix agrees, with 95% CI.
+The Sanskrit-tradition dicts cluster at 90–100%; Wilson 1832 is the outlier.</p>
 <table id="agree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>affix agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
 
-<h2>Cross-dictionary root agreement</h2>
-<p>For head-words shared by two dictionaries (both giving a root), how often the root agrees. Includes MW, whose etymology is root-attribution + <code>parse=</code> rather than affixes.</p>
+<h2>Cross-dictionary root agreement <a class="dl" href="cross_dict_root_agreement.csv">⤓ CSV</a></h2>
+<p>Same, on the root. Includes MW (root-attribution + <code>parse=</code>) and PWG/PW (German "Wurzel").</p>
 <table id="ragree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>root agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
 
-<h2>Root-capture coverage</h2>
+<h2>Root-capture coverage <a class="dl" href="root_capture.csv">⤓ CSV</a></h2>
 <table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
+<p class="src">DSG definitions © K. V. Abhyankar, <i>A Dictionary of Sanskrit Grammar</i>, via
+<a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">samskrtam.ru</a>. Data + code:
+<a href="https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/etymology_stats">csl-orig/v02/etymology_stats</a>.</p>
 
 <script>
 const D=/*DATA*/;
-const cards=document.getElementById('cards');
-D.codes.forEach(c=>cards.insertAdjacentHTML('beforeend',`<div class="card"><div class="n">${D.perdict[c]}</div><div class="l">${c}</div></div>`));
+const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+// affix / kāraka label -> DSG link + tooltip
+function gloss(kind,label){const e=D.dsg&&D.dsg[kind+':'+label];
+ if(e&&e.url){const t=e.def?` title="${esc(e.def)}"`:'';return `<a class="gloss" href="${e.url}"${t}>${esc(label)}</a>`;}
+ return `<i>${esc(label)}</i>`;}
+const CSVS=['karaka_x_affix_matrix','affix_entropy','affix_frequency','karaka_distribution','group_distribution','cross_dict_agreement','cross_dict_root_agreement','root_productivity','root_capture'];
 
+// download links
+document.getElementById('dl-dicts').insertAdjacentHTML('beforeend',
+ D.codes.map(c=>`<a href="${D.files[c]}">${c}</a>`).join(' · '));
+document.getElementById('dl-csv').insertAdjacentHTML('beforeend',
+ CSVS.map(f=>`<a href="${f}.csv">${f}</a>`).join(' · '));
+
+// cards -> per-dict TSV
+const cards=document.getElementById('cards');
+D.codes.forEach(c=>cards.insertAdjacentHTML('beforeend',
+ `<a class="card" href="${D.files[c]}"><div class="n">${D.perdict[c].toLocaleString()}</div><div class="l">${c} ⤓</div></a>`));
+
+// heatmap
 const H=D.heat, max=Math.max(...H.matrix.flat());
 function col(v){const t=Math.sqrt(v/max);const a=[230,241,251],b=[24,95,165];return `rgb(${Math.round(a[0]+(b[0]-a[0])*t)},${Math.round(a[1]+(b[1]-a[1])*t)},${Math.round(a[2]+(b[2]-a[2])*t)})`;}
-const heat=document.getElementById('heat');
 const grid=document.createElement('div');grid.className='hm';
-grid.style.gridTemplateColumns=`60px repeat(${H.karakas.length},1fr) 52px`;
-grid.insertAdjacentHTML('beforeend','<div></div>'+H.karakas.map(k=>`<div style="color:#52514e">${k}</div>`).join('')+'<div style="color:#52514e">total</div>');
+grid.style.gridTemplateColumns=`66px repeat(${H.karakas.length},1fr) 52px`;
+grid.insertAdjacentHTML('beforeend','<div></div>'+H.karakas.map(k=>`<div style="color:#52514e;font-size:11px">${gloss('kar',k)}</div>`).join('')+'<div style="color:#52514e">total</div>');
 H.affixes.forEach((a,i)=>{
- grid.insertAdjacentHTML('beforeend',`<div style="font-style:italic;text-align:left;align-self:center">${a}</div>`);
- H.matrix[i].forEach(v=>{const t=Math.sqrt(v/max);grid.insertAdjacentHTML('beforeend',`<div style="background:${col(v)};color:${t>0.55?'#fff':'#042C53'}${v===0?';opacity:.4':''}">${v||''}</div>`);});
+ grid.insertAdjacentHTML('beforeend',`<div style="text-align:left;align-self:center">${gloss('aff',a)}</div>`);
+ H.matrix[i].forEach((v,j)=>{const t=Math.sqrt(v/max);
+  grid.insertAdjacentHTML('beforeend',`<div title="${esc(a)} × ${esc(H.karakas[j])} = ${v} derivations" style="background:${col(v)};color:${t>0.55?'#fff':'#042C53'}${v===0?';opacity:.4':''}">${v||''}</div>`);});
  grid.insertAdjacentHTML('beforeend',`<div style="color:#52514e;align-self:center">${H.rowtot[i]}</div>`);
 });
-heat.appendChild(grid);
+document.getElementById('heat').appendChild(grid);
 
-new Chart(document.getElementById('ent'),{type:'bar',data:{labels:D.entropy.map(e=>e[0]),
- datasets:[{label:'entropy (bits)',data:D.entropy.map(e=>e[1]),backgroundColor:'#2a78d6'}]},
- options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{title:{display:true,text:'kāraka-spread entropy (bits)'}}}}});
+// HTML bar lists (clickable, data in the DOM)
+function bars(el,rows,maxv,color,labelKind){
+ document.getElementById(el).innerHTML=rows.map(r=>{
+  const lab=labelKind?gloss(labelKind,r[0]):`<i>${esc(r[0])}</i>`;
+  const w=Math.max(2,100*r[1]/maxv);
+  return `<div class="bar"><span>${lab}</span><span class="track" style="width:${w}%;background:${color}"></span><span class="v">${r[1]}</span></div>`;
+ }).join('');
+}
+bars('ent',D.entropy.map(e=>[e[0],e[1]]),Math.max(...D.entropy.map(e=>e[1])),'#2a78d6','aff');
+bars('roots',D.roots,Math.max(...D.roots.map(r=>r[1])),'#1baf7a',null);
+document.getElementById('rootnote').insertAdjacentHTML('beforeend',
+ ` Pool: ${D.prod.join(', ')} (WIL excluded — its "root" is the first etymon, not a dhātu).`);
 
-new Chart(document.getElementById('roots'),{type:'bar',data:{labels:D.roots.map(r=>r[0]),
- datasets:[{label:'derivatives',data:D.roots.map(r=>r[1]),backgroundColor:'#1baf7a'}]},
- options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}});
-
-const ci=r=>`${r[4]}% <span style="color:var(--text-muted)">[${r[5]}–${r[6]}]</span>`;
+const ci=r=>`${r[4]}% <span style="color:#888">[${r[5]}–${r[6]}]</span>`;
 const at=document.querySelector('#agree tbody');
 D.agreement.sort((a,b)=>b[2]-a[2]).forEach(r=>at.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${ci(r)}</td></tr>`));
 const rat=document.querySelector('#ragree tbody');
