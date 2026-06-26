@@ -99,7 +99,7 @@ def _is_rootlike(tok):
         and tok not in STOPWORD and tok not in PRATYAYA
 
 
-# --- conservative gaṇa-gloss backreference (fills empty roots, tagged low-conf) -
+# --- gaṇa-gloss backreference + dhātupāṭha join (fill empty roots, tagged) -----
 # Reuses the dhātupāṭha class markers from csl-atlas m4_indigenous.py (_GANA).
 GANA_RE = re.compile(r"(?:Bv|ad|juhoty|div|sv|tud|ruD|tan|kry|cur)AdiH|DAt(?:u|oH)")
 # dhātu citation: a clause boundary, then ROOT, then an artha in the locative (-e)
@@ -107,19 +107,48 @@ CITE_RE = re.compile(r"[(¦.]\s*([a-zA-Z']{2,})\s+[a-zA-Z']+e\b")
 _CITE_STOP = {'na', 'su', 'vi', 'sam', 'pra', 'agni', 'agra', 'iti', 'tri',
               'anu', 'ava', 'upa', 'tasya', 'yasya', 'tatra', 'atra', 'asya'}
 
+# canonical SLP1 dhātu list (vendored) — loaded once for the dhātupāṭha join.
+ROOT_SET = set()
+
+
+def load_root_set():
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                     '..', 'etymology_stats', 'dhatu_roots.txt')
+    p = os.environ.get('DHATU_ROOTS', os.path.normpath(p))
+    if os.path.exists(p):
+        for ln in open(p, encoding='utf-8'):
+            ln = ln.strip()
+            if ln and not ln.startswith('#'):
+                ROOT_SET.add(ln)
+    return len(ROOT_SET)
+
+
+_DHATU_CITE = re.compile(r"([a-zA-Z']{2,})DAt(?:oH|u|o)\b")   # "<root>DAtoH"
+
 
 def entry_dhatu(text):
-    """Return the entry's single unambiguous dhātupāṭha root, or None.
-    Conservative: requires a gaṇa/dhātu marker AND exactly one distinct cited
-    root — so multi-root entries stay empty rather than get a wrong fill."""
-    if not GANA_RE.search(text):
-        return None
+    """Recover an entry's root for kāraka hits that found none locally.
+    Returns (root, method):
+      * 'dhatupatha-join' — a cited root (locative-artha citation OR `…DAtoH`)
+        that is in the canonical ROOT_SET, and is the ONLY citation-root in it.
+      * 'gana-backref'    — fallback when no root list: a gaṇa/dhātu marker plus
+        exactly one cited root.
+      * (None, None)      — leave empty rather than guess."""
     cands = []
-    for m in CITE_RE.finditer(text):
-        r = m.group(1)
-        if r not in _CITE_STOP and r not in cands:
-            cands.append(r)
-    return cands[0] if len(cands) == 1 else None
+    for rx in (CITE_RE, _DHATU_CITE):
+        for m in rx.finditer(text):
+            r = m.group(1)
+            if r not in _CITE_STOP and r not in cands:
+                cands.append(r)
+    if ROOT_SET:
+        validated = list(dict.fromkeys(r for r in cands if r in ROOT_SET))
+        if len(validated) == 1:
+            return validated[0], 'dhatupatha-join'
+        return None, None
+    # no root list available -> conservative gaṇa-gated single-citation fallback
+    if GANA_RE.search(text) and len(cands) == 1:
+        return cands[0], 'gana-backref'
+    return None, None
 
 
 def find_root(prefix_text):
@@ -155,7 +184,7 @@ def parse_entry(L_id, headword, body):
     """Return a list of derivation records mined from one entry body."""
     out = []
     text = re.sub(r'\s+', ' ', body)
-    e_dhatu = entry_dhatu(text)          # computed once per entry
+    e_dhatu, e_method = entry_dhatu(text)   # computed once per entry
     seen = set()
     for m in HIT_RE.finditer(text):
         kar = norm_karaka(m.group('kar'))
@@ -163,8 +192,8 @@ def parse_entry(L_id, headword, body):
         before = text[max(0, m.start() - 60):m.start()]
         root_slp1, pref_slp1 = find_root(before)
         root_source = 'local' if root_slp1 else None
-        if not root_slp1 and e_dhatu:    # conservative gaṇa-gloss backreference
-            root_slp1, root_source = e_dhatu, 'gana-backref'
+        if not root_slp1 and e_dhatu:    # dhātupāṭha join / gaṇa backreference
+            root_slp1, root_source = e_dhatu, e_method
         key = (root_slp1, kar, aff_slp1, root_source)
         if key in seen:
             continue
@@ -195,7 +224,9 @@ def main():
     path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), 'skd.txt')
     dictcode = os.path.splitext(os.path.basename(path))[0]
     n_base, map_path = wil.load_affix_base()
-    print("Affix base: {} canonical + {} WIL supplement".format(n_base, len(wil.SUPPLEMENT)))
+    n_roots = load_root_set()
+    print("Affix base: {} canonical + {} WIL supplement; dhātu list: {} roots".format(
+        n_base, len(wil.SUPPLEMENT), n_roots))
 
     records = []
     L_id = headword = None
@@ -248,10 +279,11 @@ def main():
     for s, n in Counter(r['affix_source'] for r in records).most_common():
         print("  {:26s} {}".format(s, n))
     rs = Counter(r['root_source'] for r in records)
-    have = rs['local'] + rs['gana-backref']
-    print("\nRoot capture: {}/{} ({:.0f}%) -- local {}, gaṇa-backref {}, empty {}".format(
-        have, len(records), 100 * have / max(1, len(records)),
-        rs['local'], rs['gana-backref'], rs[None]))
+    have = len(records) - rs[None]
+    print("\nRoot capture: {}/{} ({:.0f}%) -- local {}, dhātupāṭha-join {}, "
+          "gaṇa-backref {}, empty {}".format(
+              have, len(records), 100 * have / max(1, len(records)),
+              rs['local'], rs['dhatupatha-join'], rs['gana-backref'], rs[None]))
 
 
 if __name__ == '__main__':

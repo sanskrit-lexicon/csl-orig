@@ -135,11 +135,12 @@ def main():
     for c in sanskrit:
         rs = collections.Counter(r.get('root_source') or 'empty' for r in data[c]['rows'])
         n = len(data[c]['rows'])
-        cap_rows.append([c, n, rs.get('local', 0), rs.get('gana-backref', 0),
-                         rs.get('empty', 0),
+        cap_rows.append([c, n, rs.get('local', 0), rs.get('dhatupatha-join', 0),
+                         rs.get('gana-backref', 0), rs.get('empty', 0),
                          round(100 * (n - rs.get('empty', 0)) / max(1, n), 1)])
     write_csv('root_capture.csv',
-              ['dict', 'derivations', 'local', 'gana_backref', 'empty', 'pct_with_root'], cap_rows)
+              ['dict', 'derivations', 'local', 'dhatupatha_join', 'gana_backref',
+               'empty', 'pct_with_root'], cap_rows)
 
     # ---- dashboard ------------------------------------------------------------
     payload = {
@@ -199,7 +200,7 @@ SKD, VCP, Apte, AP, SHS, KRM use Sanskrit-prose kāraka + pratyaya. Only the San
 <table id="agree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>affix agrees</th><th>%</th></tr></thead><tbody></tbody></table>
 
 <h2>Root-capture coverage</h2>
-<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>gaṇa-backref</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
+<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>dhātupāṭha-join</th><th>gaṇa-backref</th><th>empty</th><th>% with root</th></tr></thead><tbody></tbody></table>
 
 <script>
 const D=/*DATA*/;
@@ -230,7 +231,7 @@ new Chart(document.getElementById('roots'),{type:'bar',data:{labels:D.roots.map(
 const at=document.querySelector('#agree tbody');
 D.agreement.sort((a,b)=>b[2]-a[2]).forEach(r=>at.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}%</td></tr>`));
 const ct=document.querySelector('#cap tbody');
-D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}%</td></tr>`));
+D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}%</td></tr>`));
 </script></body></html>
 """
 

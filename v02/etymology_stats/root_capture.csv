@@ -1,7 +1,7 @@
-dict,derivations,local,gana_backref,empty,pct_with_root
-SKD,2214,1960,5,249,88.8
-VCP,3660,2263,7,1390,62.0
-Apte,331,277,5,49,85.2
-AP,339,289,0,50,85.3
-SHS,258,40,0,218,15.5
-KRM,305,112,65,128,58.0
+dict,derivations,local,dhatupatha_join,gana_backref,empty,pct_with_root
+SKD,2214,1960,25,0,229,89.7
+VCP,3660,2263,54,0,1343,63.3
+Apte,331,277,3,0,51,84.6
+AP,339,289,2,0,48,85.8
+SHS,258,40,2,0,216,16.3
+KRM,305,112,8,0,185,39.3
