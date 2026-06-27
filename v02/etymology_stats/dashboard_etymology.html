@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cologne etymology — cross-dictionary statistics</title>
+<style>
+ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:1020px;margin:0 auto;padding:24px;color:#1a1a19;background:#fcfcfb}
+ h1{font-size:22px;font-weight:500} h2{font-size:18px;font-weight:500;margin-top:34px;border-top:1px solid #e1e0d9;padding-top:18px}
+ p{color:#52514e;line-height:1.6;font-size:14px} a{color:#185fa5}
+ .dl{font-size:12px;font-weight:400;margin-left:10px}
+ .cards{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0}
+ .card{background:#f1efe8;border-radius:8px;padding:10px 14px;min-width:84px;text-decoration:none;color:inherit;display:block}
+ .card:hover{background:#e7e4d8} .card .n{font-size:22px;font-weight:500} .card .l{font-size:12px;color:#185fa5}
+ table{border-collapse:collapse;font-size:13px;width:100%} td,th{padding:6px 8px;text-align:left;border-bottom:0.5px solid #e1e0d9}
+ th{color:#52514e;font-weight:500}
+ .hm{display:grid;gap:3px;font-size:12px;margin-top:8px} .hm>div{padding:8px 4px;text-align:center;border-radius:3px}
+ .hm a{color:inherit;text-decoration:none;cursor:pointer}
+ .gloss{border-bottom:1px dotted #888;cursor:help;text-decoration:none;color:inherit;font-style:italic}
+ .bars{display:flex;flex-direction:column;gap:4px;margin-top:8px}
+ .bar{display:grid;grid-template-columns:74px 1fr 56px;align-items:center;gap:8px;font-size:13px}
+ .bar .track{height:18px;border-radius:3px} .bar .v{color:#52514e;font-variant-numeric:tabular-nums}
+ .src{font-size:12px;color:#888;margin:14px 0 4px} code{background:#f1efe8;padding:1px 4px;border-radius:3px}
+ .read{font-size:13px;background:#eef4ec;border-left:3px solid #1baf7a;border-radius:0 6px 6px 0;padding:8px 12px;margin:8px 0}
+ .read b{color:#0f6e56} .read .ex{display:block;margin-top:4px}
+ .cant{font-size:13px;color:#7a3b1d;background:#faece7;border-left:3px solid #d85a30;border-radius:0 6px 6px 0;padding:8px 12px;margin:8px 0}
+</style></head><body>
+<h1>Cologne dictionaries — Pāṇinian derivation statistics</h1>
+<p>Every chart links to the data behind it. <b>Affix &amp; kāraka labels link to their definition</b> in the
+<a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">Dictionary of Sanskrit Grammar</a> (hover for the gloss).
+Generated from the <code>*_etymology.tsv</code> extractions across 10 dictionaries.</p>
+
+<h2>What we see</h2>
+<p><b>Kāraka is a fingerprint of each dictionary's purpose.</b> Overall <i>bhāve</i> (action / abstract noun)
+dominates, but <b>KRM inverts this</b> — <i>kartari</i> 227 ≫ <i>bhāve</i> 30 — because the Kṛdanta-rūpa-mālā is
+built around agent-derivatives. The kāraka mix tells you what a dictionary is <i>for</i>.</p>
+<p><b>The kāraka × pratyaya grid is textbook-clean Pāṇini.</b> <i>lyuṭ</i> → bhāve + karaṇe (the <code>-ana</code>
+action / instrument nouns); <i>kta</i> spreads across bhāve / karmaṇi / kartari — exactly the past participle's
+three readings; <i>ghañ</i> → bhāve; <i>lyu</i> is pure kartari.</p>
+<p><b>Affix polysemy is quantified by entropy.</b> Generalists (<i>ḍa</i>, <i>anīyar</i>, <i>ac</i> ≈ 2 bits) form
+almost any kāraka; specialists (<i>lyu</i> 0.33, <i>ṣṭran</i>, <i>aṅ</i>) do one job — directly pedagogical.</p>
+<p><b>Root productivity follows corpus frequency</b> (<i>kṛ</i> ≫ <i>bhū</i> > <i>i</i>, <i>dhā</i>, <i>gam</i>),
+and <b>the traditions agree</b>: <span id="hl"></span> A cascade of root-recovery tiers — local citation, KRM's
+head-word-is-the-root, a cross-dict oracle (incl. KRM's 60k-form paradigm), and a DeepSeek pass over the
+residual, every fill validated against the canonical dhātu list — lifts the empty-root tail to near-complete
+(VCP 20 → 97 %, SHS → 95 %).</p>
+
+<h2>Download the data</h2>
+<p id="dl-dicts">Per-dictionary derivations (TSV): </p>
+<p id="dl-csv">Summary tables (CSV): </p>
+
+<h2>Per-dictionary counts <a class="dl" id="dlcards"></a></h2>
+<p>Each card links to that dictionary's full derivation TSV.</p>
+<div class="cards" id="cards"></div>
+
+<h2>Kāraka × pratyaya (Sanskrit-side, pooled) <a class="dl" href="karaka_x_affix_matrix.csv">⤓ CSV</a></h2>
+<p>Each <b>row</b> is a primary affix (pratyaya); each <b>column</b> is a kāraka — the grammatical role the
+derived word plays in its root's action (the doer, the instrument, the object, or the bare action itself).
+A <b>cell</b> counts how many extracted derivations, pooled across the six Sanskrit-prose dictionaries, use
+that affix in that kāraka sense; darker means more. The <b>row total</b> on the right is the affix's overall
+frequency, so reading along a row shows how one affix divides its labour across senses, and reading down a
+column shows which affixes compete to express one relation. This grid exists <i>only</i> because the
+Sanskrit-side dictionaries spell the kāraka out in the entry (<code>BAve GaY</code> = "in the bhāva sense,
+affix ghañ"); WIL, MW and the German dictionaries never state it, so they contribute nothing here. Row and
+column labels link to their definition in the Dictionary of Sanskrit Grammar.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① The <i>lyuṭ</i> × <i>bhāve</i> cell (1005) — ghañ-style action nouns in <code>-ana</code> are formed in the "the act of" sense ~1000× (e.g. <i>karaṇa</i> "doing"); it is lyuṭ's single commonest job.</span>
+<span class="ex">② The <i>kta</i> row lights three columns at once (bhāve · karmaṇi · kartari) — the past participle is read as the action, the object, or the agent by context (<i>kṛta</i> = "the doing / the deed / the doer").</span></div>
+<div class="cant"><b>Can't tell you:</b> this is a population view — it counts attestations of an affix-in-a-kāraka, not whether a <i>particular</i> word is unambiguous (a form like <i>gata</i> legitimately sits in two cells). And it cannot compare the English/German dicts, which are blank by construction, not by absence of derivation.</div>
+<div id="heat"></div>
+
+<h2>Affix kāraka-spread (entropy) <a class="dl" href="affix_entropy.csv">⤓ CSV</a></h2>
+<p>Each bar is the <b>Shannon entropy</b>, in bits, of one affix's distribution across the seven kārakas —
+a single number answering "how many different jobs does this affix do?" Zero bits means the affix only ever
+forms one kāraka (a pure specialist); the theoretical maximum (~2.8 bits) would mean it spreads perfectly
+evenly over all seven. High-entropy affixes are <b>semantic generalists</b> — the affix alone tells you almost
+nothing about the meaning, so you must read the gloss; low-entropy affixes are <b>specialists</b> that pin the
+sense by themselves. The entropy is computed only over the Sanskrit-side derivations that carry a kāraka, so
+the count it rests on (the <code>n</code> column in the CSV) matters as much as the bits. Affix labels link to
+their full grammar definition.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>lyu</i> at 0.33 bits is a pure specialist — see it and you know the word is an agent (kartari): <i>kāraka</i> "doer".</span>
+<span class="ex">② <i>ac</i> at 1.84 bits over n=411 is a generalist — the bare affix predicts almost nothing; <i>-a</i> nouns can be agent, action, object or instrument, so you must consult the entry.</span></div>
+<div class="cant"><b>Can't tell you:</b> entropy measures <i>spread</i>, not productivity or correctness — a rare affix with two even senses outscores a hugely productive affix that has one dominant sense plus a long tail. Always read it next to <code>n</code> and the heatmap; a high bar on a tiny <code>n</code> is noise.</div>
+<div class="bars" id="ent"></div>
+
+<h2>Root productivity <a class="dl" href="root_productivity.csv">⤓ CSV</a></h2>
+<p>Each bar counts how many <b>distinct derived words</b> trace back to that root across the verbal-root
+dictionaries (the Sanskrit-side dicts + MW + PWG/PW; WIL is excluded because its "root" is the first etymon,
+often a prefix). It is a measure of <b>derivational fertility</b> — which roots seed the most vocabulary in the
+recorded lexicon. The ranking tracks corpus frequency closely but is not the same thing: it counts dictionary
+<i>head-words</i>, not running corpus tokens. <b>Click any root to open its full entry</b> — paradigms,
+attested forms and primary derivatives — in Whitney's <i>The Roots, Verb-Forms and Primary Derivatives of the
+Sanskrit Language</i> (1885) on samskrtam.ru.</p>
+<p id="rootnote" style="font-size:13px;color:#888"></p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>kṛ</i> "do / make" tops the list — the most fertile root in the language, seeding <i>kṛta, karaṇa, kartṛ, kārya, kriyā…</i>; click it to see the whole Whitney paradigm.</span>
+<span class="ex">② <i>i</i> "go" ranks near the top despite being a single short vowel — the oldest, shortest roots are disproportionately productive, a real signal about the age-vs-fertility relationship.</span></div>
+<div class="cant"><b>Can't tell you:</b> the counts are inflated by <i>coverage</i>, not only real productivity — a root recorded in more of the ten dictionaries accrues more derivatives, and two homonymous roots (e.g. the two √vid "know" / "find") may be merged into one bar. It is a lexicon count, never a corpus frequency.</div>
+<div class="bars" id="roots"></div>
+
+<h2>Cross-dictionary affix agreement <a class="dl" href="cross_dict_agreement.csv">⤓ CSV</a></h2>
+<p>Take every head-word that <b>two</b> dictionaries both analyse with an affix, and ask: do they choose the
+<i>same</i> affix? The percentage is the share that agree; the bracket is the <b>95% Wilson confidence
+interval</b>, which widens sharply when only a few head-words are shared. This is a direct test of whether two
+lexicographic traditions reconstruct the same Pāṇinian derivation for the same word — a consistency check that
+no single dictionary can give you. Rows are sorted by the number of shared head-words, so the most evidentially
+solid comparisons sit at the top.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>Apte↔AP</i> 100% [97.9–100] over 178 shared head-words — the two Apte editions are essentially identical, exactly the sanity check you'd want.</span>
+<span class="ex">② <i>WIL↔SKD</i> 22.9% [14.6–34.0] — Wilson and the Śabdakalpadruma pick the same affix barely a fifth of the time, and the interval tops out at 34%, below every Sanskrit-side pair, so the gap is real, not small-sample noise.</span></div>
+<div class="cant"><b>Can't tell you:</b> it scores only head-words that <i>both</i> dicts root with an affix — it is silent on coverage gaps (a word one dict omits never enters the comparison), and a tidy 100% over n=5 is weak evidence. Always read the CI and the shared-count together.</div>
+<table id="agree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>affix agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
+
+<h2>Cross-dictionary root agreement <a class="dl" href="cross_dict_root_agreement.csv">⤓ CSV</a></h2>
+<p>The same comparison, but on the <b>root</b> instead of the affix — so it can include the dictionaries that
+attribute a root without naming a pratyaya: MW (via its <code>√</code> notation and <code>parse=</code> field)
+and the German PWG/PW (via "Wurzel" / "von"). Root agreement runs lower than affix agreement, but that is a
+measurement artefact, not real disagreement: the same root is written in different transliterations and
+homonym conventions across traditions, so a "miss" is often two spellings of one dhātu, not a genuine dispute.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>PWG↔PW</i> ~93% — the two German Petersburg dictionaries, same school, agree on the root almost always.</span>
+<span class="ex">② <i>MW↔PWG</i> ~65% — the English √-tradition and the German Wurzel-tradition independently land on the same root for two-thirds of shared head-words, a strong cross-tradition validation given the script differences.</span></div>
+<div class="cant"><b>Can't tell you:</b> a low cell here may be a transliteration/homonym mismatch rather than a real conflict; treat root agreement as a <i>lower bound</i> on true agreement, and the affix table above as the cleaner signal.</div>
+<table id="ragree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>root agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
+
+<h2>Affix legend (Sanskrit → surface · function · Russian)</h2>
+<p>The Sanskrit affix names (<i>ghañ</i>, <i>lyuṭ</i>…) are opaque until you strip their mute markers
+(anubandhas). This table gives, for each affix shown above: its <b>IAST surface suffix</b> — what actually
+attaches to the stem once the markers fall away — its <b>English function</b>, and the <b>Russian gloss</b>
+from the Dictionary of Sanskrit Grammar. The affix name links to its full DSG entry. Use it as a key while
+reading the heatmap and entropy charts.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>ghañ</i> → <code>-a</code>, "action/result noun" — drop the <i>gh</i> and <i>ñ</i> markers and the affix is just <code>-a</code>; it makes a bhāva noun (<i>pāka</i> "cooking").</span>
+<span class="ex">② <i>lyuṭ</i> → <code>-ana</code> — the <i>l</i> and <i>ṭ</i> are mute; the real suffix is <code>-ana</code> (<i>gamana</i> "going").</span></div>
+<div class="cant"><b>Can't tell you:</b> the surface is the affix <i>in isolation</i> — sandhi and root-gradation reshape the actual word (<i>kṛ</i> + lyuṭ → <i>karaṇa</i>, not <i>kṛ-ana</i>). The legend names the building block, not the finished form.</div>
+<table id="legend"><thead><tr><th>affix</th><th>surface</th><th>English function</th><th>Russian (DSG)</th></tr></thead><tbody></tbody></table>
+
+<h2>Root-capture coverage <a class="dl" href="root_capture.csv">⤓ CSV</a></h2>
+<p>Not every extracted derivation comes with its root sitting beside it; this table shows, per dictionary,
+<b>how</b> the root was recovered, tier by tier. <i>local</i> = the root sat next to the derivation marker;
+<i>headword-root</i> = the dictionary is organised by root so the head-word <i>is</i> the dhātu;
+<i>nearest-root</i> = the nearest known dhātu in a citation context; <i>dhātupāṭha-join</i> and
+<i>oracle-join</i> = filled by look-up against the canonical dhātu list and the cross-dictionary root oracle.
+The final column is the share of derivations that ended up with <i>a</i> root.</p>
+<div class="read"><b>Read it:</b>
+<span class="ex">① <i>KRM</i> is 100%, entirely via <i>headword-root</i> — it is a root dictionary, so every derivation's root is just the entry head-word.</span>
+<span class="ex">② <i>VCP</i> reaches 97% as a stack: 2263 local + 532 nearest-root + 363 oracle-join + 361 DeepSeek llm-pass, leaving only 117 empty — read the row left-to-right to see each tier's contribution.</span></div>
+<div class="cant"><b>Can't tell you:</b> the percentage is "has <i>a</i> root", not "has the <i>correct</i> root" — the nearest-root and oracle tiers are dhātu-list-validated but not hand-checked. Sample them with <code>sample_nearest_root_audit.py</code> before trusting a single fill.</div>
+<table id="cap"><thead><tr><th>dict</th><th>derivations</th><th>local</th><th>headword-root</th><th>nearest-root</th><th>dhātupāṭha-join</th><th>oracle-join</th><th>llm-pass</th><th>empty</th><th>% rooted</th><th>% strict</th></tr></thead><tbody></tbody></table>
+<p style="font-size:13px;color:#888"><b>% strict</b> drops the <i>nearest-root</i> tier (the one sub-~100% tier, ~66–75% precise) to leave a near-100%-precision subset — the column to cite for headline tables. Filter the TSVs by <code>root_source != nearest-root</code> to reproduce it.</p>
+<p class="src">DSG definitions © K. V. Abhyankar, <i>A Dictionary of Sanskrit Grammar</i>, via
+<a href="https://samskrtam.ru/sanskrit-lexicon/dsg/">samskrtam.ru</a>. Data + code:
+<a href="https://github.com/sanskrit-lexicon/csl-orig/tree/master/v02/etymology_stats">csl-orig/v02/etymology_stats</a>.</p>
+
+<script>
+const D={"codes": ["WIL", "SKD", "VCP", "Apte", "AP", "SHS", "KRM", "MW", "PWG", "PW"], "sanskrit": ["SKD", "VCP", "Apte", "AP", "SHS", "KRM"], "prod": ["SKD", "VCP", "Apte", "AP", "SHS", "KRM", "MW", "PWG", "PW"], "perdict": {"WIL": 39650, "SKD": 2213, "VCP": 3664, "Apte": 332, "AP": 339, "SHS": 258, "KRM": 305, "MW": 9377, "PWG": 11526, "PW": 846}, "heat": {"affixes": ["lyuṭ", "ghañ", "kta", "ac", "ktin", "ap", "kvip", "ka", "lyu", "yat"], "karakas": ["bhāve", "karaṇe", "karmaṇi", "kartari", "adhikaraṇe", "apādāne", "sampradāne"], "matrix": [[1249, 627, 81, 21, 37, 8, 0], [925, 301, 163, 58, 52, 12, 4], [413, 23, 300, 339, 8, 0, 0], [154, 47, 30, 170, 3, 7, 0], [242, 46, 7, 3, 5, 2, 0], [134, 46, 33, 0, 8, 27, 0], [102, 23, 11, 50, 3, 6, 0], [12, 23, 14, 134, 3, 1, 0], [6, 3, 0, 173, 0, 0, 0], [28, 11, 69, 26, 3, 0, 1]], "rowtot": [2023, 1515, 1083, 411, 305, 248, 195, 187, 182, 138]}, "entropy": [["ḍa", 2.092, 34], ["anīyar", 2.004, 47], ["yat", 1.883, 138], ["ac", 1.843, 411], ["kvip", 1.837, 195], ["ap", 1.826, 248], ["kta", 1.738, 1083], ["in", 1.679, 54], ["ghañ", 1.669, 1515], ["aṇ", 1.482, 31]], "agreement": [["WIL", "SKD", 70, 16, 22.9, 14.6, 34.0], ["WIL", "VCP", 1504, 921, 61.2, 58.7, 63.7], ["WIL", "Apte", 83, 45, 54.2, 43.5, 64.5], ["WIL", "AP", 82, 43, 52.4, 41.8, 62.9], ["WIL", "SHS", 190, 114, 60.0, 52.9, 66.7], ["WIL", "KRM", 45, 10, 22.2, 12.5, 36.3], ["SKD", "VCP", 65, 61, 93.8, 85.2, 97.6], ["SKD", "Apte", 84, 77, 91.7, 83.8, 95.9], ["SKD", "AP", 61, 56, 91.8, 82.2, 96.4], ["SKD", "SHS", 5, 5, 100.0, 56.6, 100.0], ["VCP", "Apte", 93, 90, 96.8, 90.9, 98.9], ["VCP", "AP", 97, 94, 96.9, 91.3, 98.9], ["VCP", "SHS", 206, 203, 98.5, 95.8, 99.5], ["VCP", "KRM", 15, 3, 20.0, 7.0, 45.2], ["Apte", "AP", 178, 178, 100.0, 97.9, 100.0], ["Apte", "SHS", 27, 26, 96.3, 81.7, 99.3], ["AP", "SHS", 31, 31, 100.0, 89.0, 100.0]], "root_agreement": [["WIL", "SKD", 90, 8, 8.9, 4.6, 16.6], ["WIL", "VCP", 1912, 152, 7.9, 6.8, 9.2], ["WIL", "Apte", 80, 16, 20.0, 12.7, 30.0], ["WIL", "AP", 85, 16, 18.8, 11.9, 28.4], ["WIL", "SHS", 212, 31, 14.6, 10.5, 20.0], ["WIL", "KRM", 46, 7, 15.2, 7.6, 28.2], ["WIL", "MW", 1074, 90, 8.4, 6.9, 10.2], ["WIL", "PWG", 4257, 495, 11.6, 10.7, 12.6], ["WIL", "PW", 210, 28, 13.3, 9.4, 18.6], ["SKD", "VCP", 63, 51, 81.0, 69.6, 88.8], ["SKD", "Apte", 84, 64, 76.2, 66.1, 84.0], ["SKD", "AP", 61, 42, 68.9, 56.4, 79.1], ["SKD", "SHS", 4, 2, 50.0, 15.0, 85.0], ["SKD", "MW", 13, 5, 38.5, 17.7, 64.5], ["SKD", "PWG", 31, 20, 64.5, 46.9, 78.9], ["SKD", "PW", 2, 1, 50.0, 9.5, 90.5], ["VCP", "Apte", 89, 72, 80.9, 71.5, 87.7], ["VCP", "AP", 96, 77, 80.2, 71.1, 86.9], ["VCP", "SHS", 201, 171, 85.1, 79.5, 89.3], ["VCP", "KRM", 15, 5, 33.3, 15.2, 58.3], ["VCP", "MW", 219, 119, 54.3, 47.7, 60.8], ["VCP", "PWG", 1005, 743, 73.9, 71.1, 76.5], ["VCP", "PW", 30, 16, 53.3, 36.1, 69.8], ["Apte", "AP", 173, 164, 94.8, 90.4, 97.2], ["Apte", "SHS", 27, 20, 74.1, 55.3, 86.8], ["Apte", "MW", 12, 3, 25.0, 8.9, 53.2], ["Apte", "PWG", 51, 40, 78.4, 65.4, 87.5], ["Apte", "PW", 1, 1, 100.0, 20.7, 100.0], ["AP", "SHS", 31, 27, 87.1, 71.1, 94.9], ["AP", "MW", 12, 5, 41.7, 19.3, 68.0], ["AP", "PWG", 54, 41, 75.9, 63.1, 85.4], ["AP", "PW", 1, 1, 100.0, 20.7, 100.0], ["SHS", "MW", 11, 6, 54.5, 28.0, 78.7], ["SHS", "PWG", 105, 89, 84.8, 76.7, 90.4], ["SHS", "PW", 5, 4, 80.0, 37.6, 96.4], ["KRM", "MW", 12, 4, 33.3, 13.8, 60.9], ["KRM", "PWG", 37, 17, 45.9, 31.0, 61.6], ["KRM", "PW", 4, 2, 50.0, 15.0, 85.0], ["MW", "PWG", 782, 502, 64.2, 60.8, 67.5], ["MW", "PW", 69, 44, 63.8, 52.0, 74.1], ["PWG", "PW", 521, 489, 93.9, 91.5, 95.6]], "roots": [["kṛ", 873], ["bhū", 455], ["i", 339], ["dhā", 292], ["gam", 283], ["han", 227], ["sthā", 220], ["dā", 216], ["car", 209], ["yā", 206], ["vah", 185], ["pat", 181], ["as", 181], ["kram", 176], ["nī", 175]], "karaka_dist": [["bhāve", 1010, 1975, 206, 202, 178, 30], ["karaṇe", 341, 709, 67, 73, 38, 26], ["karmaṇi", 445, 409, 0, 0, 1, 0], ["kartari", 291, 516, 56, 61, 39, 227], ["adhikaraṇe", 109, 5, 0, 0, 1, 19], ["apādāne", 14, 45, 3, 3, 1, 2], ["sampradāne", 3, 5, 0, 0, 0, 1]], "capture": [["SKD", 2213, 1959, 0, 5, 25, 75, 0, 149, 93.3, 93.0], ["VCP", 3664, 2263, 0, 532, 28, 706, 39, 96, 97.4, 82.9], ["Apte", 332, 277, 0, 16, 1, 10, 0, 28, 91.6, 86.7], ["AP", 339, 289, 0, 19, 1, 16, 0, 14, 95.9, 90.3], ["SHS", 258, 40, 0, 10, 2, 131, 65, 10, 96.1, 92.2], ["KRM", 305, 112, 193, 0, 0, 0, 0, 0, 100.0, 100.0]], "dsg": {"aff:kta": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-kta", "def": "kta kṛt affix ta in various senses, called by the name niṣṭhā in Pāṇini's grammar along with the affix ktavatū cf. ktaktavatū niṣṭhā P.I.1.26.The various senses in which kta is prescribed can be noticed below : (1) the general sense of…", "ru": "kta kṛt аффикс ta в различных значениях, называемый в грамматике Панини именем niṣṭhā вместе с аффиксом ktavatū ср. ktaktavatū niṣṭhā PI1.26. Различные значения, в которых предписывается kta, можно…"}, "aff:śatṛ": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-Satf", "def": "śatṛ krt affix at in the sense of 'the agent of the present time', applied to any root which takes the Parasmaipada personal affixes; cf. laṭaḥ śatṛśānacāvaprathamāsamānādhikaraṇe P. III. 2.126,8. The words formed with this śatṛ (at) affix…", "ru": "śatṛ Аффикс krt at в значении «действующее лицо настоящего времени», применяемый к любому корню, принимающему личные аффиксы Парасмаипады; ср. laṭaḥ śatṛśānacāvaprathamāsamānādhikaraṇe P. III. 2.126,…"}, "aff:ac": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ac", "def": "ac the short term or pratyāhāra in Pāṇini's Grammar representing a vowel, e.g. ajanta (ending with a vowel), acsandhi (vowel coalescence or combination).", "ru": "ac краткий термин или пратьяхара в грамматике Панини, представляющий гласную, например, аджанта (оканчивающаяся на гласную), ачсандхи (слияние или сочетание гласных)."}, "aff:anīyar": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-anIyar", "def": "anīyar kṛt affix, termed kṛtya also forming the pot. pass. part. of a root; cf. tavyattavyānīyaraḥ P.III.1.96. e.g. see the forms karaṇīyaṃ, haraṇīyaṃ, the mute r showing the acute accent on the penultimate vowel,", "ru": "anīyar Аффикс kṛt, называемый kṛtya, также образующий гор. пасс. часть корня; ср. tavyattavyānīyaraḥ P.III.1.96. например, см. формы karaṇīyaṃ, haraṇīyaṃ, немое r, показывающее ударение на…"}, "aff:ap": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ap", "def": "ap (1) kṛt affix a, in the sense of verbal activity (bhāva) or any verbal relation (kāraka) excepting that of an agent, (kartṛ) applied to roots ending in ṛ or u and the roots grah,vṛ,dṛ etc. mentioned in P. III.3.58 and the following…", "ru": "ap (1) аффикс kṛt a, в значении словесной деятельности (bhāva) или любого словесного отношения (kāraka), за исключением отношения агента, (kartṛ) применяется к корням, оканчивающимся на ṛ или u, а…"}, "aff:ghañ": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-GaY", "def": "ghañ krt affix a causing the substitution of vrddhi for the preceding vowel applied in various senses as specified in P.III.3. 16-42, III.3. 45-55,III.3.120-125, e.g. pāda:, roga:, āyaḥ, bhāvaḥ, avagrāhṛḥ prāvāraḥ, avatāraḥ, lekhaḥ rāgaḥ…", "ru": "ghañ krt аффикс a, вызывающий замену предыдущей гласной на vrddhi, применяемую в различных смыслах, как указано в P.III.3. 16-42, III.3. 45-55,III.3.120-125, например, пада:, рога:, аях, бхавах,…"}, "aff:ini": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ini", "def": "ini ( 1 ) kṛt affix in applied to the roots krī with dhi, ju with pra, and the roots ji, dṛ, kṣi and others, e. g. somavikrayī, prajavī, jayī etc. cf. P.III 2.93 and III.2.156-157: (2) tad. affix in affixed to the word pāṇḍukambala in the…", "ru": "ini ( 1 ) аффикс kṛt в применении к корням krī с dhi, ju с pra, а также к корням ji, dṛ, kṣi и другим, например, somavikrayī, prajavī, jayī и т. д. ср. P.III 2.93 и III.2.156-157: (2) тад. аффикс в…"}, "aff:ka": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ka", "def": "ka (1) tad.affix ka applied to the words of the ṛśya group in the four senses called cāturarthika e. g. ṛśyakaḥ, anaḍutkaḥ, veṇukaḥ etc., cf. P.IV.2.80; (2) tad. affix ka applied to nouns in the sense of diminution, censure, pity etc. e.…", "ru": "ka (1) тад.аффикс ka применяется к словам группы ṛśya в четырёх значениях, называемых cāturarthika, например, ṛśyakaḥ, anaḍutkaḥ, veṇukaḥ и т. д., ср. P.IV.2.80; (2) тад.аффикс ka применяется к…"}, "aff:lyu": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-lyu", "def": "lyu krt affix yu changed into ana in the sense of an agent applied to the root nand and others (after which it is seen actually used in language); e.g. nandanaḥ, dūṣaṇaḥ, sādhana:, rocana: cf. nandigrahipacādibhyo lyuṇinyacaḥ P.III.1.134.", "ru": "lyu аффикс krt yu изменился на ana в смысле агента, приложенного к корню nand и другим (после чего видно, что он действительно используется в языке); например, нанданах, душанах, садхана:, рочана:…"}, "aff:in": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-in", "def": "in ( 1 ) kṛt affix i applied to the roots kṛ, hṛ, graha, and bhṛ when they are preceded by certain words like stamba etc. in certain senses; e. g. stambakariḥ, phalegrahiḥ, ātmaṃbhariḥ; cf. P.III. 2.24-7;(2) kṛt affix in (ṇini) prescribed…", "ru": "in (1) аффикс «крит», который я применял к корням «кри», «хри», «граха» и «бхри», когда им предшествуют определенные слова, такие как стамба и т. д., в определенных значениях; например, стамбакарих,…"}, "aff:ṭhak": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-Wak", "def": "ṭhak a very common tad. affix ika, or ka in case it is added to words ending in is , us , u, ṛ, l and t according to P. VII. 3. 51, causing the substitution of vrddhi for the first vowel of the word to which it is added. ṭhak is added to…", "ru": "ṭhak очень распространенный тад. аффикс ika или ka в случае, если он добавляется к словам, оканчивающимся на is, us, u, ṛ, l и t согласно P. VII. 3. 51, вызывая замену vrddhi на первую гласную слова,…"}, "aff:ktin": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ktin", "def": "ktin kṛt affix ti added to roots to form nouns in the sense of verbaction; e.g. kṛti:, sthitiḥ, mati: etc.;cf. P.III.3.94-97.", "ru": "ktin krt аффикс ti добавляется к корням для образования существительных в смысле глагола; например, крити:, стхитих, мати: и т. д.; ср. П.III.3.94-97."}, "aff:lyuṭ": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-lyuw", "def": "lyuṭ krt affix ana in the sense of verbal activity as also in the sense of an 'abode' or 'an instrument'; cf. P. III.3.113,115, 116, 1 17.", "ru": "lyuṭ krt аффикс ana в значении глагольной деятельности, а также в значении «жилища» или «инструмента»; ср. P. III.3.113,115, 116, 1 17."}, "aff:kvip": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-kvip", "def": "kvip (1) kṛt affix zero, added to the roots sad, sū, dviṣ and others with a preceding word as upapada or with a prefix or sometimes even without any word, as also to the root han preceded by the words brahman, bhrūṇa and vṛtra, and to the…", "ru": "kvip (1) kṛt аффикс ноль, добавляемый к корням sad, sū, dviṣ и другим с предшествующим словом upapada или с префиксом или иногда даже без какого-либо слова, а также к корню han, которому предшествуют…"}, "aff:yat": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-yat", "def": "yat see ya (6).", "ru": "yat увидимся (6)."}, "aff:kan": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-kan", "def": "", "ru": ""}, "aff:aṇ": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-aR", "def": "aṇ (1) token term ( pratyāhāra ) for all vowels and semivowels which, when prescribed for an operation, include all such of their sub-divisions as are caused by length, protraction accent or nasalization. cf aṇuditsavarṇasya cāpratyayaḥ P.…", "ru": "aṇ (1) термин-маркер ( pratyāhāra ) для всех гласных и полугласных, которые, когда предписаны для операции, включают все те их подразделения, которые вызваны долготой, акцентом затягивания или…"}, "aff:ṭāp": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-wAp", "def": "ṭāp feminine affix ā added to masculine nouns ending in a by the rule ajādyataṣṭāp IV. 1.4 excepting those nouns where any other affix prescribed by subsequent rules becomes applicable.", "ru": "ṭāp Женский аффикс ā добавляется к существительным мужского рода, оканчивающимся на a, по правилу ajādyataṣṭāp IV. 1.4, за исключением тех существительных, к которым применим любой другой аффикс,…"}, "aff:ḍa": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-qa", "def": "", "ru": ""}, "kar:bhāve": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-BAva", "def": "bhāva (1 ) becoming; existence. The word is used many times in the sense of dhātvarthathe sense of a root which is 'incomplete activity' or 'process of evolving'; cf. tadākhyātaṃ yena bhāvaṃ sa dhātuḥ R. Pr. XII. 5; cf. also ṣaḍ…", "ru": "bhāva (1) становление; существование. Это слово много раз используется в значении дхатвартха, то есть в значении корня, означающего «незавершённую деятельность» или «процесс развития»; ср.…"}, "kar:karaṇe": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-karaRa", "def": "karaṇa (1) lit instrument; the term signifies the most efficient means for accomplishing an act; cf. kriyāsiddhī yat prakṛṣṭopakārakaṃ vivakṣitaṃ tatsādhakatamaṃ kārakaṃ karaṇasañjñaṃ bhavati, Kāś. on sādhakatamaṃ karaṇam P.I.4.42, e. g.…", "ru": "karaṇa (1) букв. инструмент; термин обозначает наиболее эффективные средства для выполнения действия; ср. kriyāsiddhī yat prakṛṣṭopakārakaṃ vivakṣitaṃ tatsādhakatamaṃ kārakaṃ karaṇasañjñaṃ bhavati,…"}, "kar:karmaṇi": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-karman", "def": "karman (1) object of a transitive verb, defined as something which the agent or the doer of an action wants primarily to achieve. The main feature of karman is that it is put in the accusative case; cf. karturīpsitatamaṃ karma, karmaṇi…", "ru": "karman (1) дополнение переходного глагола, определяемое как то, чего агент или исполнитель действия хочет в первую очередь достичь. Главная особенность слова karman заключается в том, что оно стоит в…"}, "kar:kartari": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-kartf", "def": "kartṛ agent of an action, subject; name of a kāraka or instrument in general, of an action, which produces the fruit or result of an action without depending on any other instrument; cf. svatantraḥ kartā P. I.4.54, explained as aguṇībhūto…", "ru": "kartṛ агент действия, субъект; название караки или инструмента в целом, действия, которое производит плод или результат действия независимо от какого-либо другого инструмента; ср. svatantraḥ kartā…"}, "kar:adhikaraṇe": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-aDikaraRa", "def": "adhikaraṇa (1) support: a grammatical relation of the nature of a location : place of verbal activity. cf. ādhārosdhikaraṇam P.I.4.45; (2) one of the six or seven Kārakas or functionaries of verbal activity shown by the locative case. cf…", "ru": "adhikaraṇa (1) опора: грамматическая связь характера местоположения : место речевой деятельности. ср. адхаросдхикаранам PI4.45; (2) один из шести или семи караков или функционеров речевой…"}, "kar:apādāne": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-apAdAna", "def": "apādāna detachment, separation, ablation technical term for apādānakāraka which is defined as dhruvamapāye'pādānam in P.I.4.24 and subsequent rules 25 to 3l and which is put in the ablative case; cf. apādāne pañcamī P. II.3.28.", "ru": "apādāna отделение, разделение, абляция технический термин для apādānakāraka, который определяется как dhruvamapāye'pādānam в PI4.24 и последующих правилах 25-3l и который ставится в творительном…"}, "kar:sampradāne": {"url": "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-sampradAna", "def": "", "ru": ""}}, "legend": [["lyuṭ", "-ana", "action / instrument noun", "lyuṭ krt аффикс ana в значении глагольной деятельности, а также в значении «жилища» или «инструмента»; ср. P. III.3.113,115, 116, 1 17.", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-lyuw"], ["ghañ", "-a", "action/result noun (bhāva, vṛddhi)", "ghañ krt аффикс a, вызывающий замену предыдущей гласной на vrddhi, применяемую в различных смыслах, как указано в P.III.3. 16-42, III.3. 45-55,III.3.120-125, например, пада:, рога:, аях, бхавах,…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-GaY"], ["kta", "-ta", "past passive participle", "kta kṛt аффикс ta в различных значениях, называемый в грамматике Панини именем niṣṭhā вместе с аффиксом ktavatū ср. ktaktavatū niṣṭhā PI1.26. Различные значения, в которых предписывается kta, можно…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-kta"], ["ac", "-a", "agent / action -a", "ac краткий термин или пратьяхара в грамматике Панини, представляющий гласную, например, аджанта (оканчивающаяся на гласную), ачсандхи (слияние или сочетание гласных).", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ac"], ["ktin", "-ti", "action noun (fem. -ti)", "ktin krt аффикс ti добавляется к корням для образования существительных в смысле глагола; например, крити:, стхитих, мати: и т. д.; ср. П.III.3.94-97.", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ktin"], ["ap", "-a", "action / agent noun", "ap (1) аффикс kṛt a, в значении словесной деятельности (bhāva) или любого словесного отношения (kāraka), за исключением отношения агента, (kartṛ) применяется к корням, оканчивающимся на ṛ или u, а…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ap"], ["kvip", "∅", "zero affix -> root used directly as a noun", "kvip (1) kṛt аффикс ноль, добавляемый к корням sad, sū, dviṣ и другим с предшествующим словом upapada или с префиксом или иногда даже без какого-либо слова, а также к корню han, которому предшествуют…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-kvip"], ["ka", "-ka", "-ka", "ka (1) тад.аффикс ka применяется к словам группы ṛśya в четырёх значениях, называемых cāturarthika, например, ṛśyakaḥ, anaḍutkaḥ, veṇukaḥ и т. д., ср. P.IV.2.80; (2) тад.аффикс ka применяется к…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-ka"], ["lyu", "", "", "lyu аффикс krt yu изменился на ana в смысле агента, приложенного к корню nand и другим (после чего видно, что он действительно используется в языке); например, нанданах, душанах, садхана:, рочана:…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-lyu"], ["yat", "-ya", "gerundive -ya", "yat увидимся (6).", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-yat"], ["ḍa", "-a", "agent noun (esp. after an upapada)", "", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-qa"], ["anīyar", "-anīya", "future passive participle ('fit to be done')", "anīyar Аффикс kṛt, называемый kṛtya, также образующий гор. пасс. часть корня; ср. tavyattavyānīyaraḥ P.III.1.96. например, см. формы karaṇīyaṃ, haraṇīyaṃ, немое r, показывающее ударение на…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-anIyar"], ["in", "-in", "possessive '-in' ('having')", "in (1) аффикс «крит», который я применял к корням «кри», «хри», «граха» и «бхри», когда им предшествуют определенные слова, такие как стамба и т. д., в определенных значениях; например, стамбакарих,…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-in"], ["aṇ", "-a", "patronymic / relational (vṛddhi)", "aṇ (1) термин-маркер ( pratyāhāra ) для всех гласных и полугласных, которые, когда предписаны для операции, включают все те их подразделения, которые вызваны долготой, акцентом затягивания или…", "https://samskrtam.ru/sanskrit-lexicon/dsg/#t-aR"]], "whitney": {"kṛ": "https://samskrtam.ru/whitney-roots/root_1_k_r.html", "bhū": "https://samskrtam.ru/whitney-roots/root_bhuu.html", "i": "https://samskrtam.ru/whitney-roots/root_1_i.html", "dhā": "https://samskrtam.ru/whitney-roots/root_1_dhaa.html", "gam": "https://samskrtam.ru/whitney-roots/root_gam.html", "han": "https://samskrtam.ru/whitney-roots/root_han.html", "sthā": "https://samskrtam.ru/whitney-roots/root_sthaa.html", "dā": "https://samskrtam.ru/whitney-roots/root_1_daa.html", "car": "https://samskrtam.ru/whitney-roots/root_car.html", "yā": "https://samskrtam.ru/whitney-roots/root_yaa.html", "vah": "https://samskrtam.ru/whitney-roots/root_vah.html", "pat": "https://samskrtam.ru/whitney-roots/root_1_pat.html", "as": "https://samskrtam.ru/whitney-roots/root_1_as.html", "kram": "https://samskrtam.ru/whitney-roots/root_kram.html", "nī": "https://samskrtam.ru/whitney-roots/root_nii.html"}, "files": {"WIL": "wil_etymology.tsv", "SKD": "skd_etymology.tsv", "VCP": "vcp_etymology.tsv", "Apte": "ap90_etymology.tsv", "AP": "ap_etymology.tsv", "SHS": "shs_etymology.tsv", "KRM": "krm_etymology.tsv", "MW": "mw_etymology.tsv", "PWG": "pwg_etymology.tsv", "PW": "pw_etymology.tsv"}};
+const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+// affix / kāraka label -> DSG link + tooltip
+function gloss(kind,label){const e=D.dsg&&D.dsg[kind+':'+label];
+ if(e&&e.url){const t=e.def?` title="${esc(e.def)}"`:'';return `<a class="gloss" href="${e.url}"${t}>${esc(label)}</a>`;}
+ return `<i>${esc(label)}</i>`;}
+const CSVS=['karaka_x_affix_matrix','affix_entropy','affix_frequency','karaka_distribution','group_distribution','cross_dict_agreement','cross_dict_root_agreement','root_productivity','root_capture'];
+
+// download links
+document.getElementById('dl-dicts').insertAdjacentHTML('beforeend',
+ D.codes.map(c=>`<a href="${D.files[c]}">${c}</a>`).join(' · '));
+document.getElementById('dl-csv').insertAdjacentHTML('beforeend',
+ CSVS.map(f=>`<a href="${f}.csv">${f}</a>`).join(' · '));
+
+// cards -> per-dict TSV
+const cards=document.getElementById('cards');
+D.codes.forEach(c=>cards.insertAdjacentHTML('beforeend',
+ `<a class="card" href="${D.files[c]}"><div class="n">${D.perdict[c].toLocaleString()}</div><div class="l">${c} ⤓</div></a>`));
+
+// heatmap
+const H=D.heat, max=Math.max(...H.matrix.flat());
+function col(v){const t=Math.sqrt(v/max);const a=[230,241,251],b=[24,95,165];return `rgb(${Math.round(a[0]+(b[0]-a[0])*t)},${Math.round(a[1]+(b[1]-a[1])*t)},${Math.round(a[2]+(b[2]-a[2])*t)})`;}
+const grid=document.createElement('div');grid.className='hm';
+grid.style.gridTemplateColumns=`66px repeat(${H.karakas.length},1fr) 52px`;
+grid.insertAdjacentHTML('beforeend','<div></div>'+H.karakas.map(k=>`<div style="color:#52514e;font-size:11px">${gloss('kar',k)}</div>`).join('')+'<div style="color:#52514e">total</div>');
+H.affixes.forEach((a,i)=>{
+ grid.insertAdjacentHTML('beforeend',`<div style="text-align:left;align-self:center">${gloss('aff',a)}</div>`);
+ H.matrix[i].forEach((v,j)=>{const t=Math.sqrt(v/max);
+  grid.insertAdjacentHTML('beforeend',`<div title="${esc(a)} × ${esc(H.karakas[j])} = ${v} derivations" style="background:${col(v)};color:${t>0.55?'#fff':'#042C53'}${v===0?';opacity:.4':''}">${v||''}</div>`);});
+ grid.insertAdjacentHTML('beforeend',`<div style="color:#52514e;align-self:center">${H.rowtot[i]}</div>`);
+});
+document.getElementById('heat').appendChild(grid);
+
+// HTML bar lists (clickable, data in the DOM)
+function bars(el,rows,maxv,color,labelKind,whit){
+ document.getElementById(el).innerHTML=rows.map(r=>{
+  let lab;
+  if(labelKind) lab=gloss(labelKind,r[0]);
+  else if(whit&&whit[r[0]]) lab=`<a class="gloss" style="font-style:normal" href="${whit[r[0]]}" title="open √${esc(r[0])} in Whitney's Roots (1885)">${esc(r[0])}</a>`;
+  else lab=`<i>${esc(r[0])}</i>`;
+  const w=Math.max(2,100*r[1]/maxv);
+  return `<div class="bar"><span>${lab}</span><span class="track" style="width:${w}%;background:${color}"></span><span class="v">${r[1]}</span></div>`;
+ }).join('');
+}
+bars('ent',D.entropy.map(e=>[e[0],e[1]]),Math.max(...D.entropy.map(e=>e[1])),'#2a78d6','aff');
+bars('roots',D.roots,Math.max(...D.roots.map(r=>r[1])),'#1baf7a',null,D.whitney);
+document.getElementById('rootnote').insertAdjacentHTML('beforeend',
+ ` Pool: ${D.prod.join(', ')} (WIL excluded — its "root" is the first etymon, not a dhātu).`);
+
+const ci=r=>`${r[4]}% <span style="color:#888">[${r[5]}–${r[6]}]</span>`;
+const at=document.querySelector('#agree tbody');
+D.agreement.sort((a,b)=>b[2]-a[2]).forEach(r=>at.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${ci(r)}</td></tr>`));
+const rat=document.querySelector('#ragree tbody');
+(D.root_agreement||[]).sort((a,b)=>b[2]-a[2]).forEach(r=>rat.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${ci(r)}</td></tr>`));
+const ct=document.querySelector('#cap tbody');
+D.capture.forEach(r=>ct.insertAdjacentHTML('beforeend',`<tr><td>${r[0]}</td><td>${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>${r[4]}</td><td>${r[5]}</td><td>${r[6]}</td><td>${r[7]}</td><td>${r[8]}</td><td>${r[9]}%</td><td style="font-weight:500">${r[10]}%</td></tr>`));
+
+// affix legend (surface · function · Russian), affix links to DSG
+const lt=document.querySelector('#legend tbody');
+(D.legend||[]).forEach(r=>lt.insertAdjacentHTML('beforeend',
+ `<tr><td><a class="gloss" href="${r[4]}" style="font-style:normal">${esc(r[0])}</a></td><td><code>${esc(r[1])}</code></td><td>${esc(r[2])}</td><td style="color:#52514e">${esc(r[3])}</td></tr>`));
+
+// headline agreement numbers, injected live
+const f=(a,b)=>{const r=(D.agreement||[]).find(x=>(x[0]==a&&x[1]==b)||(x[0]==b&&x[1]==a));return r?`${r[4]}% [${r[5]}–${r[6]}]`:'';};
+const hl=document.getElementById('hl');
+if(hl)hl.innerHTML=`SKD↔VCP ${f('SKD','VCP')} affix agreement vs Wilson↔SKD ${f('WIL','SKD')} — the Sanskrit-tradition block is internally consistent while Wilson 1832 is the disjoint outlier.`;
+</script></body></html>

@@ -29,7 +29,10 @@ sys.stderr.reconfigure(encoding='utf-8')
 _WILDIR = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                         '..', 'wil'))
 sys.path.insert(0, _WILDIR)
+sys.path.insert(0, os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                                 '..', 'etymology_stats')))
 import analyze_wil_etymology as wil          # noqa: E402
+import root_norm                             # noqa: E402  (variant -> citation form)
 to_iast = wil.to_iast
 decode_affix = wil.decode_affix              # (note, source, group, steps)
 
@@ -99,6 +102,119 @@ def _is_rootlike(tok):
         and tok not in STOPWORD and tok not in PRATYAYA
 
 
+# dicts organised BY root (the head-word IS the dhātu) -> head-word fills empties
+ROOT_DICTS = {'krm'}
+CUR_DICT = None
+_TOK_RE = re.compile(r"[a-zA-Z']{2,}")
+
+
+_HYPHEN_CITE = re.compile(r"([a-zA-Z']{2,})-{1,2}")          # "X--" / "X-"
+
+
+def nearest_validated_root(before, window=120):
+    """Nearest dhātu before the kāraka that appears in a DERIVATION-MARKER
+    context — a `X--`/`X-` hyphen citation or `XDAtoH` — and is a known dhātu.
+    The marker gate is what keeps precision: a plain nearby word (an affix
+    surface like 'ta', an inflected form like 'smftiH') is NOT in such a slot,
+    so it is rejected, while 'kzuBa--Ric karmmaRi' still yields kzuBa."""
+    if not ROOT_SET:
+        return None
+    seg = before[-window:]
+    cites = [(m.start(), m.group(1)) for m in _HYPHEN_CITE.finditer(seg)]
+    cites += [(m.start(), m.group(1)) for m in _DHATU_CITE.finditer(seg)]
+    for _pos, r in sorted(cites, reverse=True):          # nearest to the kāraka
+        if r in ROOT_SET and _is_rootlike(r):
+            return r
+    return None
+
+
+# --- gaṇa-gloss backreference + dhātupāṭha join (fill empty roots, tagged) -----
+# Reuses the dhātupāṭha class markers from csl-atlas m4_indigenous.py (_GANA).
+GANA_RE = re.compile(r"(?:Bv|ad|juhoty|div|sv|tud|ruD|tan|kry|cur)AdiH|DAt(?:u|oH)")
+# dhātu citation: a clause boundary, then ROOT, then an artha in the locative (-e)
+CITE_RE = re.compile(r"[(¦.]\s*([a-zA-Z']{2,})\s+[a-zA-Z']+e\b")
+_CITE_STOP = {'na', 'su', 'vi', 'sam', 'pra', 'agni', 'agra', 'iti', 'tri',
+              'anu', 'ava', 'upa', 'tasya', 'yasya', 'tatra', 'atra', 'asya'}
+
+# canonical SLP1 dhātu list (vendored) — loaded once for the dhātupāṭha join.
+ROOT_SET = set()
+
+
+def load_root_set():
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                     '..', 'etymology_stats', 'dhatu_roots.txt')
+    p = os.environ.get('DHATU_ROOTS', os.path.normpath(p))
+    if os.path.exists(p):
+        for ln in open(p, encoding='utf-8'):
+            ln = ln.strip()
+            if ln and not ln.startswith('#'):
+                ROOT_SET.add(ln)
+    return len(ROOT_SET)
+
+
+# cross-dict (head-word -> root) oracle (root_oracle.tsv), built by
+# etymology_stats/build_root_oracle.py. Only cross-dict-corroborated entries are
+# used to FILL (KRM-body-only forms are excluded — they don't match other dicts'
+# head-words and would weaken provenance).
+ORACLE = {}
+
+
+def load_oracle():
+    import csv as _csv
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                     '..', 'etymology_stats', 'root_oracle.tsv')
+    p = os.environ.get('ROOT_ORACLE', os.path.normpath(p))
+    if os.path.exists(p):
+        for r in _csv.DictReader(open(p, encoding='utf-8'), delimiter='\t'):
+            if r.get('sources') and r['sources'] != 'krm-body':
+                ORACLE[r['form_slp1']] = r['root_slp1']
+    return len(ORACLE)
+
+
+# DeepSeek-resolved roots for a dict's residual tail (validated against ROOT_SET
+# at generation time by llm_root_tools.py). Lowest-priority fill tier.
+LLM_ROOTS = {}
+
+
+def load_llm_roots(dictcode):
+    import csv as _csv
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                     '..', 'etymology_stats', dictcode + '_llm_roots.tsv')
+    if os.path.exists(p):
+        for r in _csv.DictReader(open(p, encoding='utf-8'), delimiter='\t'):
+            if r.get('headword_slp1') and r.get('root_slp1'):
+                LLM_ROOTS[r['headword_slp1']] = r['root_slp1']
+    return len(LLM_ROOTS)
+
+
+_DHATU_CITE = re.compile(r"([a-zA-Z']{2,})DAt(?:oH|u|o)\b")   # "<root>DAtoH"
+
+
+def entry_dhatu(text):
+    """Recover an entry's root for kāraka hits that found none locally.
+    Returns (root, method):
+      * 'dhatupatha-join' — a cited root (locative-artha citation OR `…DAtoH`)
+        that is in the canonical ROOT_SET, and is the ONLY citation-root in it.
+      * 'gana-backref'    — fallback when no root list: a gaṇa/dhātu marker plus
+        exactly one cited root.
+      * (None, None)      — leave empty rather than guess."""
+    cands = []
+    for rx in (CITE_RE, _DHATU_CITE):
+        for m in rx.finditer(text):
+            r = m.group(1)
+            if r not in _CITE_STOP and r not in cands:
+                cands.append(r)
+    if ROOT_SET:
+        validated = list(dict.fromkeys(r for r in cands if r in ROOT_SET))
+        if len(validated) == 1:
+            return validated[0], 'dhatupatha-join'
+        return None, None
+    # no root list available -> conservative gaṇa-gated single-citation fallback
+    if GANA_RE.search(text) and len(cands) == 1:
+        return cands[0], 'gana-backref'
+    return None, None
+
+
 def find_root(prefix_text):
     """Given the text immediately BEFORE the kāraka, recover (root, prefixes).
     Prefers an explicit '+ chain'; filters upasargas to prefixes and skips
@@ -132,13 +248,29 @@ def parse_entry(L_id, headword, body):
     """Return a list of derivation records mined from one entry body."""
     out = []
     text = re.sub(r'\s+', ' ', body)
+    e_dhatu, e_method = entry_dhatu(text)   # computed once per entry
     seen = set()
     for m in HIT_RE.finditer(text):
         kar = norm_karaka(m.group('kar'))
         aff_slp1 = m.group('aff')
         before = text[max(0, m.start() - 60):m.start()]
         root_slp1, pref_slp1 = find_root(before)
-        key = (root_slp1, kar, aff_slp1)
+        root_source = 'local' if root_slp1 else None
+        if not root_slp1 and CUR_DICT in ROOT_DICTS and headword:
+            # KRM &c. are organised BY root: the head-word IS the dhātu.
+            root_slp1, root_source = headword, 'headword-root'
+        if not root_slp1:                # nearest known dhātu before the kāraka
+            nv = nearest_validated_root(before)
+            if nv:
+                root_slp1, root_source = nv, 'nearest-root'
+        if not root_slp1 and e_dhatu:    # entry-level dhātupāṭha join / backref
+            root_slp1, root_source = e_dhatu, e_method
+        if not root_slp1 and ORACLE.get(headword):   # cross-dict root oracle
+            root_slp1, root_source = ORACLE[headword], 'oracle-join'
+        if not root_slp1 and LLM_ROOTS.get(headword):  # DeepSeek-resolved residual
+            root_slp1, root_source = LLM_ROOTS[headword], 'llm-pass'
+        root_slp1 = root_norm.canon(root_slp1)  # fold surface variant -> citation form
+        key = (root_slp1, kar, aff_slp1, root_source)
         if key in seen:
             continue
         seen.add(key)
@@ -149,6 +281,7 @@ def parse_entry(L_id, headword, body):
             'headword_slp1': headword,
             'root': to_iast(root_slp1) if root_slp1 else None,
             'root_slp1': root_slp1,
+            'root_source': root_source,
             'prefixes': ' '.join(to_iast(p) for p in pref_slp1) or None,
             'karaka': norm_karaka(m.group('kar')),
             'karaka_sense': KARAKA_SENSE.get(kar, kar),
@@ -166,8 +299,15 @@ def parse_entry(L_id, headword, body):
 def main():
     path = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), 'skd.txt')
     dictcode = os.path.splitext(os.path.basename(path))[0]
+    global CUR_DICT
+    CUR_DICT = dictcode
     n_base, map_path = wil.load_affix_base()
-    print("Affix base: {} canonical + {} WIL supplement".format(n_base, len(wil.SUPPLEMENT)))
+    n_roots = load_root_set()
+    n_orc = load_oracle()
+    n_llm = load_llm_roots(dictcode)
+    print("Affix base: {} canonical + {} WIL supplement; dhātu list: {} roots; "
+          "oracle: {} forms; llm-roots: {}".format(
+              n_base, len(wil.SUPPLEMENT), n_roots, n_orc, n_llm))
 
     records = []
     L_id = headword = None
@@ -190,9 +330,9 @@ def main():
                 buf.append(ln)
 
     base = os.path.dirname(os.path.abspath(path))
-    cols = ['L_id', 'headword', 'headword_slp1', 'root', 'root_slp1', 'prefixes',
-            'karaka', 'karaka_sense', 'affix', 'affix_slp1', 'group', 'anubandha',
-            'anubandha_steps', 'affix_source', 'context']
+    cols = ['L_id', 'headword', 'headword_slp1', 'root', 'root_slp1', 'root_source',
+            'prefixes', 'karaka', 'karaka_sense', 'affix', 'affix_slp1', 'group',
+            'anubandha', 'anubandha_steps', 'affix_source', 'context']
     tsv = os.path.join(base, dictcode + '_etymology.tsv')
     with open(tsv, 'w', encoding='utf-8', newline='') as f:
         f.write('\t'.join(cols) + '\n')
@@ -219,6 +359,13 @@ def main():
     print("\nAffix provenance:")
     for s, n in Counter(r['affix_source'] for r in records).most_common():
         print("  {:26s} {}".format(s, n))
+    rs = Counter(r['root_source'] for r in records)
+    have = len(records) - rs[None]
+    print("\nRoot capture: {}/{} ({:.0f}%) -- local {}, headword-root {}, "
+          "nearest-root {}, dhātupāṭha-join {}, oracle-join {}, llm-pass {}, empty {}".format(
+              have, len(records), 100 * have / max(1, len(records)),
+              rs['local'], rs['headword-root'], rs['nearest-root'],
+              rs['dhatupatha-join'], rs['oracle-join'], rs['llm-pass'], rs[None]))
 
 
 if __name__ == '__main__':

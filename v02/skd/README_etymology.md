@@ -12,6 +12,23 @@ python analyze_sktdict_etymology.py skd.txt          # -> skd_etymology.{tsv,jso
 python analyze_sktdict_etymology.py ../vcp/vcp.txt   # -> ../vcp/vcp_etymology.{tsv,jsonl}
 ```
 
+## Also runs on other Cologne Sanskrit-prose dictionaries
+
+The same kāraka + pratyaya pattern appears in several more dicts — the extractor
+takes any of them as its argument:
+
+| dict | derivations | root captured | note |
+|---|--:|--:|---|
+| SKD | 2,214 | 90% | Śabdakalpadruma |
+| VCP | 3,664 | 77% | Vācaspatyam |
+| **Apte (AP90)** | 332 | 89% | Apte 1890 — the Apte representative |
+| AP | 339 | 91% | Apte (practical) |
+| SHS | 258 | 20% | Śabda-sāgara (Wilson tradition; rarely links root to kāraka) |
+| KRM | 305 | 100% | Kṛdanta-rūpa-mālā — organised by root, so head-word = dhātu |
+
+Cross-dictionary statistics over all of these (plus WIL) live in
+[`../etymology_stats/`](../etymology_stats/README.md).
+
 ## Why a different parser from WIL / Apte
 
 WIL and Apte mark etymology in a dedicated field (WIL's `<ab>E.</ab>`, Apte's
@@ -47,9 +64,24 @@ WIL, SKD and VCP.
 
 ## Columns
 
-`L_id` · `headword` · `headword_slp1` · `root` · `root_slp1` · `prefixes` ·
-`karaka` · `karaka_sense` · `affix` · `affix_slp1` · `group` · `anubandha` ·
-`anubandha_steps` · `affix_source` · `context`
+`L_id` · `headword` · `headword_slp1` · `root` · `root_slp1` · `root_source` ·
+`prefixes` · `karaka` · `karaka_sense` · `affix` · `affix_slp1` · `group` ·
+`anubandha` · `anubandha_steps` · `affix_source` · `context`
+
+`root_source` records how the root was recovered, tiered most-to-least direct:
+* `local` — a `+`/`--`/`DAtoH` pattern next to the kāraka.
+* `headword-root` — for root-organised dictionaries (KRM = Kṛdanta-rūpa-mālā) the
+  head-word *is* the dhātu, so it fills every derivation in the entry (KRM → 100%).
+* `nearest-root` — the nearest known dhātu (validated against the dhātu list) that
+  sits in a `--`/`DAtoH`/`Ric` citation context within the preceding window. The
+  citation gate is the precision guard: a free nearest-token scan grabbed affix
+  surfaces (`-ta`) and inflected non-roots; gating on the marker keeps it clean
+  (e.g. `kzuBa--Ric karmmaRi` → kṣubh). This recovers most of VCP's tail (63→77%).
+* `dhatupatha-join` — entry-level fallback: an entry citing exactly one root that
+  is in the canonical list.
+* empty — no root recoverable; kept honest rather than mis-filled.
+
+Coverage: SKD 90% · VCP 77% · Apte 89% · AP 91% · KRM 100% · SHS 20%.
 
 `*_etymology.tsv` is committed; the larger `*_etymology.jsonl` is git-ignored
 (regenerate from the script).
