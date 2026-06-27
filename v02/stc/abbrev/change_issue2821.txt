@@ -1,0 +1,17 @@
+; STC issue 2821: join s. + v. abbreviation split across line breaks
+59292 old <P>{%˚gaṇa-%} <ab>m.</ab> <ab>sg.</ab> les 3 buts de l'existence ({%kāma- artha- dharma-%} s.
+59292 new <P>{%˚gaṇa-%} <ab>m.</ab> <ab>sg.</ab> les 3 buts de l'existence ({%kāma- artha- dharma-%} s. <ab>v.</ab>).
+59293 old <ab>v.</ab>).
+59293 del 
+66866 old {@dharaṇa-@}¦ {%-ī-%} <ab>ag.</ab> qui porte, soutient ; <ab>m.</ab> <ab>nt.</ab> mesure de poids ; <ab>f.</ab> s.
+66866 new {@dharaṇa-@}¦ {%-ī-%} <ab>ag.</ab> qui porte, soutient ; <ab>m.</ab> <ab>nt.</ab> mesure de poids ; <ab>f.</ab> s. <ab>v.</ab>
+66867 old <ab>v.</ab>
+66867 del 
+131198 old <ab>a. v.</ab> qui doit être détruit, qu'il faut faire périr, etc. ; {%˚pādita-%} s.
+131198 new <ab>a. v.</ab> qui doit être détruit, qu'il faut faire périr, etc. ; {%˚pādita-%} s. <ab>v.</ab> {%˚PAD-.%}
+131199 old <ab>v.</ab> {%˚PAD-.%}
+131199 del 
+143099 old  concentrer son esprit, se concentrer ; {%˚hita-%} s.
+143099 new  concentrer son esprit, se concentrer ; {%˚hita-%} s. <ab>v.</ab> ; {%˚dhātavya-%} <ab>a. v.</ab> à qui on doit s'allier, avec qui on doit s'entendre ;
+143100 old <ab>v.</ab> ; {%˚dhātavya-%} <ab>a. v.</ab> à qui on doit s'allier, avec qui on doit s'entendre ;
+143100 del 
