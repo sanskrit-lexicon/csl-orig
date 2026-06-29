@@ -1,10 +1,10 @@
 name: Generate and Sync Stardict Files
 
-# Trigger the workflow on pushes to the master branch
+# Trigger the workflow on pushes to the main branch
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'v02/**'
       - '.github/workflows/update-stardict.yml'
@@ -111,7 +111,7 @@ jobs:
           git add .
           if ! git diff-index --quiet HEAD; then
             git commit -m "Regeneration after csl-orig commit ${{ github.sha }}"
-            git push origin master
+            git push origin main
           else
             echo "No changes found in cologne-stardict. Skipping commit."
           fi
