@@ -1,0 +1,49 @@
+pair	headword_slp1	wil_affixes	other_affixes	wil_raw	other_context	class	note
+WIL~SKD	anujYA	kvip	aṅ	{#anu#} according to, {#jYA#} to know, and {#kvip#} <ab>aff.</ab>	anujYA¦, strI, (anu + jYA + BAve aN .) A	same-surface-different-affix	kvip vs aṅ: both yield anujñā
+WIL~SKD	i	kvip	lyuṭ	{#i#} to go, {#kvip#} <ab>aff.</ab>	. spfzwaM prayatanamiti yaternapuMsake BAve lyuw . pr	extraction-collision	SKD context derives a sub-lemma (bhāve lyuṭ) under headword i
+WIL~SKD	jalAlokA	ac	ghañ	{#jala#} water, {#Alokf#} to look or see, affix {#ac#}.	okyate dfSyate iti . A + loka darSane + karmmaRi GaY .) j	same-surface-different-affix	ac vs ghañ: both -a
+WIL~SKD	nAsA	ac	ghañ	{#Rasa#} to sound, to stand, {#ac#} <ab>aff.</ab>	aH . tatazwAp . nAsyate'nayeti . nAsa + karaRe GaY vA .	same-surface-different-affix	ac vs ghañ: both -a; root form nasa vs nāsa
+WIL~SKD	sadana	yuc	lyuṭ	{#zada#} to go or perish, <ab>aff.</ab> {#yuc#}.	sadana¦, klI, (sIdantyatreti . sad + aDikaraRe lyuw . gf	same-surface-different-affix	yuc vs lyuṭ: both -ana (classic pair)
+WIL~SKD	valgA	ac	ghañ	{#valga#} to go, <ab>aff.</ab> {#ac#}.	¦, strI, (valgyate'Svo'nayeti . valga + karaRe GaY . wA	same-surface-different-affix	ac vs ghañ: both -a
+WIL~SKD	vallyA	yat	ghañ	{#valla#} to cover, {#yat#} <ab>aff.</ab>	vallyA¦, strI, (valla + BAve GaY . va	genuine-different-analysis	yat (-ya) vs bhāve ghañ: different derivations of vallyā
+WIL~SKD	varRANkA	ac	ghañ	{#varRa#} a letter, {#aki#} to go, <ab>aff.</ab> {#ac#}.	, strI, (varRA aNkyante'nayeti . aNka + karaRe GaY . ta	genuine-different-analysis	WIL varṇa+aki+ac vs SKD aṅka+ghañ: different roots
+WIL~VCP	pradava	ac	ap	{#du#} to annoy, with {#pra#} prefix, and {#ac#} <ab>aff.</ab>	e i- tyuktuH na Ra . 1 prakfzwatApake . BAve ap . 2	same-surface-different-affix	ac vs ap: both -a
+WIL~VCP	hAra	aṇ	ghañ	{#hf#} to seize, (the mind, <ab>&c.</ab>) and {#GaY#} <ab>aff.</ab>, or causal form, with {#aR#} <ab>aff.</ab>	i sItAvAkyam . 2 yudDe medi0 . haratIti karttari GaY Ra v	wil-extraction-error	WIL raw offers ghañ OR aṇ; last-token rule surfaced aṇ — would agree on ghañ
+WIL~VCP	tAqa	ghañ	ac	{#taqa#} to give pain, to beat, <ab>&c.</ab> affix {#GaY#}.	tAqa¦ pu0 cu0 taqa--BAve ac . 1	same-surface-different-affix	ghañ vs ac (mirror of the usual direction)
+WIL~VCP	Pala	ac	kta	{#Pala#} to bear or produce fruit, <ab>aff.</ab> {#ac#}.	alati aPAlIt paPAla PelatuH Adit AramBe BAve kta vA i	genuine-different-analysis	VCP derives a specific sense with kta (ārambhe); WIL general ac
+WIL~VCP	suKASa	ac	ghañ	{#suKa#} pleasure, {#aSa#} to eat, {#ac#} <ab>aff.</ab>	rAjatiniSe vfkze 3 suRaBojye tri0 medi0 BAve GaY . su	same-surface-different-affix	ac vs ghañ: both -a
+WIL~VCP	hallaka	ṇvul	kvip	{#hlAda#} to delight, {#Rvul#} <ab>aff.</ab>; form <ab>irr.</ab>	halla--Rvul BAnudIkzitaH . hala--sampa0 BAve kvip hala	other-extraction-miss	VCP context lists halla+ṇvul FIRST (matches WIL) but only kvip was captured
+WIL~VCP	vaktavya	tavya	kta	{#vaca#} to speak, and {#tavya#} <ab>aff.</ab>, of the future participle.	ktavyatA pAle” smftiH . 4 kaTanIye ca . BAve kta . 5	other-extraction-miss	kta cannot yield vaktavya; VCP capture from a sense-gloss, not the derivation
+WIL~VCP	amara	ac	ap	{#a#} <ab>neg.</ab> and {#mara#} what dies, from {#mf#} and {#ac#} <ab>aff.</ab>	UrmaratvAcca taTAtvam . na mriyate'nayA karaRe ap . 15	same-surface-different-affix	ac vs karaṇe ap: both -a
+WIL~VCP	daRqa	ḍa	ac|ghañ	{#dama#} to tame, and {#qa#} Uṇādi <ab>aff.</ab> or {#daRqa#} to punish, affix {#ac#}.	i” tasyApi pUrvoktavyavasTA jYeyA” . <P>BAve ac . 3	wil-extraction-error	WIL raw offers ḍa OR ac (multi-derivation truncated) — would agree on ac
+WIL~VCP	koRa	ghañ	ac	{#kuRa#} to sound, <ab>&c.</ab> {#GaY#} <ab>aff.</ab>	koRa¦ pu0 kuRa--karaRe Gaj karttari ac vA .	other-extraction-miss	VCP context has karaṇe Gaj (=ghañ variant spelling) uncaptured — would agree on ghañ
+WIL~VCP	cAla	aṇ	ac|ghañ	{#cala#} to go, affix {#aR#}.	KanAmaKyAte gfhAcCA- dane tfRAdO trikA0 BAve GaY . 2	same-surface-different-affix	aṇ vs ac/ghañ: all -a
+WIL~VCP	prarocana	yuc	lyuṭ	{#pra#} before {#ruca#} to, be light, <ab>causal v.</ab>, {#yuc#} <ab>aff.</ab>	prarocana¦ na0 pra + ruca--Ric--BAve lyuw . 1	same-surface-different-affix	yuc vs lyuṭ: both -ana
+WIL~VCP	Aropa	ghañ	lyuṭ	{#AN#} before {#ruha#} to mount, causal form, {#GaY#} <ab>aff.</ab>	Aropa¦ pu0 A + ruha--Ric karaRe lyuw . an	extraction-collision	VCP lyuṭ line derives āropaṇa under the āropa block
+WIL~VCP	vezaRa	yuc	lyuṭ	{#viza#} to enter, <ab>&c.</ab>, <ab>aff.</ab> {#yuc#}.	vezaRa¦ pu0 viza--karaRe lyuw . 1	same-surface-different-affix	yuc vs lyuṭ: both -ana
+WIL~VCP	parisaryyA	yat	kyap	{#pari#} about, {#sf#} to go, {#yat#} <ab>aff.</ab>	parisaryyA¦ strI pari + sf--BAve kyap . sa	same-surface-different-affix	yat vs kyap: both -ya
+WIL~VCP	tUra	ac	kvip	{#tvara#} to speed, affix {#ac#}.	tUra¦ tri0 tura--karttari kvip . 1	genuine-different-analysis	tvara+ac vs tura+kvip: different roots and affixes
+WIL~VCP	ujjfmBa	ap	ac	{#ut#} up, and {#jfBi#} to gape, {#ap#} <ab>aff.</ab>	ba0 gatalopaH . 3 muKa- vikASanaBede 3 karttari ac . 4	same-surface-different-affix	ap vs ac: both -a
+WIL~VCP	dAqima	ḍa	ghañ	{#dala#} to divide, {#imac#} affix, the radical vowel made long, and {#la#} changed to {#qa#}.	dAqima¦ tri0 dala--viSaraRe BAve GaY dAle	wil-extraction-error	"WIL raw affix is imac; extractor grabbed ḍa from ""la changed to ḍa"""
+WIL~VCP	raYjana	yuc	lyuṭ	{#raYja#} to colour, <ab>aff.</ab> {#yuc#}.	raYjana¦ na0 rajyate'nena ranja--karaRe lyuw . 1	same-surface-different-affix	yuc vs lyuṭ: both -ana
+WIL~VCP	jAla	aṇ	ac	{#jala#} to encompass, to hide or screen, affix {#aR#}.	ala--GAte jvalA0 Ru cu0 jala--saMvaraRe karttari ac bA .	same-surface-different-affix	aṇ vs ac: both -a (vṛddhi vs not)
+WIL~VCP	unmeza	ghañ	lyuṭ	{#ud#} up, {#miza#} to scatter, affix {#GaY#}.	” kumA0 “vi- dyudunmezadfzwima” meGa0 . BAve lyuw . un	extraction-collision	VCP bhāve lyuṭ line belongs to unmeṣaṇa under the unmeṣa block
+WIL~VCP	sammada	ap	ac	{#sam#} with, {#maw#} to delight, <ab>aff.</ab> {#ap#}.	m + mada--GaYarTe ka . 1 harze amaraH . karttari ac 2 ha	same-surface-different-affix	ap vs ac: both -a
+WIL~VCP	prastAra	ghañ	ac	{#pra#} before {#stf#} to spread, <ab>aff.</ab> {#GaY#}.	ayA varRA mAtrA vA anena pra + stF--Ric karaRe ac . 4	same-surface-different-affix	ghañ vs karaṇe ac: both -a
+WIL~VCP	viklava	ac	ap	{#vi#} before {#klu#} to go, <ab>aff.</ab> {#ac#}.	0 vi + klu--ac . 1 vyAvulaBUte amaraH . BAve ap 2 vy	other-extraction-miss	VCP context opens vi+klu+ac (matches WIL); only ap captured
+WIL~VCP	CAdana	lyu	lyuṭ	{#Cada#} to cover, affix {#lyu#}, and the vowel lengthened.	pu0 cu0--Cada--lyu . 1 nIlAmlAnavfkze . BAve lyuw . 2	same-surface-different-affix	lyu vs lyuṭ: both -ana
+WIL~VCP	upagama	ac	ghañ|lyuṭ	{#upa#} near, {#gama#} to go, and {#ac#} <ab>aff.</ab>	upagama¦ pu0 upa + gama--BAve GaY avfd	same-surface-different-affix	ac vs ghañ: both -a
+WIL~VCP	ASvAsana	lyuṭ	lyu	{#AN#} before {#Svasa#} to breathe, causal form, {#lyuw#} <ab>aff.</ab>	duHKArttAyAH prakIrttitam” BA0 A0 1 a0 karttari lyu . 2	same-surface-different-affix	lyuṭ vs lyu: both -ana
+WIL~VCP	pacana	yuc	lyu|lyuṭ	{#paca#} to cook, <ab>aff.</ab> {#yuc#} or {#lyuw#}.	pacana¦ pu0 paca--karttari lyu . 1	same-surface-different-affix	yuc vs lyu/lyuṭ: all -ana
+WIL~VCP	uYCa	ghañ	lyuṭ	{#uCi#} to glean, and {#GaY#} <ab>aff.</ab>	uYCa¦ ra0 uCi--BAve lyuw . Ap	extraction-collision	VCP bhāve lyuṭ derives uñchana under the uñcha block
+WIL~VCP	uddeSya	ṇyat	tal	{#ud, diSa#} to show, {#Ryat#} <ab>aff.</ab>	varUgaDarmaviDAnArTa- mupanyAsaH . tato BAve tal . ud	extraction-collision	VCP bhāve tal derives uddeśyatā, not uddeśya
+WIL~VCP	sara	ap	ac	{#sf#} to go, <ab>aff.</ab> {#ap#}.	astO ratnamA0 . 6 tajjAte navanIte ca . BAve ac . 7	same-surface-different-affix	ap vs ac: both -a
+WIL~VCP	niyogya	yat	ṇyat	{#ni#} before {#yuja#} to join, {#yat#} <ab>aff.</ab>	tri0 niyoktumarhati ni + yuja--arhArTe karttari Ryat kutv	same-surface-different-affix	yat vs ṇyat: both -ya
+WIL~VCP	jalpa	ap	ghañ	{#jalpa#} to speak, affix {#ap#}.	jalpa¦ pu0 jalpa--BAve GaY . 1	same-surface-different-affix	ap vs ghañ: both -a
+WIL~VCP	smara	ac	ap	{#smf#} to remember, {#ac#} <ab>aff.</ab>	smara¦ pu0 smarati priyamanena smf--karaRe ap . 1	same-surface-different-affix	ac vs karaṇe ap: both -a
+WIL~VCP	Aja	ac	ghañ	{#AN, aja#} to go, {#ac#} <ab>aff.</ab>	kareRUnAYca yat payaH” suSrutaH . aja- BAve GaY na v	same-surface-different-affix	ac vs ghañ: both -a
+WIL~VCP	vardDa	ghañ	ac	{#vfDa#} to grow or increase, <ab>aff.</ab> {#GaY#}, or {#varDa#} to divide, <ab>aff.</ab> {#ac#}.	c . 1 brAhmyAm (vAmanahAwi) jawA0 vardDaBAve ac . 2	wil-extraction-error	WIL raw offers ghañ OR ac (multi-derivation truncated) — would agree on ac
+WIL~VCP	sPura	ka	ghañ	{#sPura#} to shake, <ab>&c.</ab>, <ab>aff.</ab> {#ka#}.	ura¦ pu0 sPura--ka . Palake hemaca0 . 1 BAve GaY . 2	other-extraction-miss	VCP context opens sphura+ka (matches WIL); only ghañ captured
+WIL~VCP	oka	ka	ghañ	{#uca#} to assemble, {#ka#} <ab>aff.</ab>	nekacaraH sa BikzuH” BA0 A0 91 a0 . uca BAve GaY kuH	same-surface-different-affix	ka vs ghañ: both -a
+WIL~VCP	Aneya	ṇyat	yat	{#AN#} before {#RI#} to take, {#Ryat#} <ab>aff.</ab>	Aneya¦ tri0 A + nI--karmmaRi yat . de	same-surface-different-affix	ṇyat vs yat: both -ya
+WIL~VCP	Ahvaya	ac	śa	{#AN, {{hveYa->hveY||20161216|Jim Funderburk|https://github.com/sanskrit-lexicon/CORRECTIONS/issues/323, batch 315-320|}}#} to call, {#ac#} <ab>aff.</ab>	nAmna karaRatvAttaTAtvam . A + hve bA0 karaRe Sa itya	same-surface-different-affix	ac vs śa: both -a

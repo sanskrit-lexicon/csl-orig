@@ -29,6 +29,12 @@ import sys, os, re, json
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
+# shared root-form normalization (sada -> sad, aMSa -> aMS) — same fold the
+# Sanskrit-prose extractors apply, so WIL roots compare in citation form
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                '..', 'etymology_stats'))
+import root_norm
+
 try:
     from indic_transliteration import sanscript
     def to_iast(s):
@@ -297,7 +303,7 @@ AFF_WORD_RE = re.compile(r'\b(aff|affs|affix|affixes|added)\b', re.I)
 
 def parse_block(raw):
     """Classify and parse one E. block (markup form). Returns a dict."""
-    rec = {'type': None, 'root': None, 'root_meaning': None,
+    rec = {'type': None, 'root': None, 'root_meaning': None, 'root_slp1': None,
            'affix': None, 'affix_slp1': None, 'anubandha': None,
            'affix_source': None, 'group': None, 'anubandha_steps': None,
            'members': [], 'derivations': []}
@@ -325,7 +331,8 @@ def parse_block(raw):
             rec['derivations'].append(_parse_simple(p))
         # surface the first as the headline columns
         first = rec['derivations'][0]
-        rec.update({k: first[k] for k in ('root', 'root_meaning', 'affix',
+        rec.update({k: first[k] for k in ('root', 'root_meaning', 'root_slp1',
+                                          'affix',
                                           'affix_slp1', 'anubandha', 'affix_source',
                                           'group', 'anubandha_steps')})
         return rec
@@ -386,7 +393,8 @@ def _members(text):
 
 def _parse_simple(text):
     """Best-effort root + meaning + affix from a single derivation clause."""
-    out = {'root': None, 'root_meaning': None, 'affix': None,
+    out = {'root': None, 'root_meaning': None, 'root_slp1': None,
+           'affix': None,
            'affix_slp1': None, 'anubandha': None, 'affix_source': None,
            'group': None, 'anubandha_steps': None, 'members': []}
     mem = _members(text)
@@ -394,8 +402,12 @@ def _parse_simple(text):
         return out
     out['members'] = [{'slp1': s, 'iast': i, 'gloss': g} for s, i, g in mem]
 
-    # root / stem = first member
-    out['root'], out['root_meaning'] = mem[0][1], mem[0][2]
+    # root / stem = first member, folded onto its dhātupāṭha citation form
+    # (Wilson prints roots in thematic surface form: aMSa where SKD has aMS)
+    root_slp1 = root_norm.canon(mem[0][0])
+    out['root_slp1'] = root_slp1
+    out['root'] = to_iast(root_slp1)
+    out['root_meaning'] = mem[0][2]
 
     # affix present? -> it is the token immediately before the affix word.
     if AFF_WORD_RE.search(AB_RE.sub(r'\1', text)):
@@ -454,7 +466,8 @@ def main():
     # ---- write TSV ----
     base = os.path.dirname(path)
     tsv = os.path.join(base, 'wil_etymology.tsv')
-    cols = ['L_id', 'headword', 'headword_slp1', 'type', 'root', 'root_meaning',
+    cols = ['L_id', 'headword', 'headword_slp1', 'type', 'root', 'root_slp1',
+            'root_meaning',
             'affix', 'affix_slp1', 'group', 'anubandha', 'anubandha_steps',
             'affix_source', 'raw']
     with open(tsv, 'w', encoding='utf-8', newline='') as f:
