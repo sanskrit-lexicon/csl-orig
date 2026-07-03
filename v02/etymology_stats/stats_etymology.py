@@ -214,6 +214,60 @@ def main():
               ['dict_a', 'dict_b', 'shared_headwords', 'affix_agrees', 'pct',
                'ci95_low', 'ci95_high'], agree_rows)
 
+    # 6a-q. affix-vocabulary quality + vocabulary-filtered agreement -------------
+    # The Sanskrit-prose dicts draw on a closed Pāṇinian affix vocabulary; WIL's
+    # free-prose extraction also captures non-affix tokens. Filtering both sides
+    # to the canonical vocabulary separates extraction noise from real
+    # cross-dictionary divergence (A35 review M1).
+    canon_vocab = set()
+    for c in sanskrit:
+        for s in idx[c].values():
+            canon_vocab |= s
+    quality_rows = []
+    for c in affcodes:
+        inst = sum(len(s) for s in idx[c].values())
+        ok = sum(1 for s in idx[c].values() for a in s if a in canon_vocab)
+        quality_rows.append([c, inst, ok,
+                             round(100 * ok / inst, 1) if inst else 0.0])
+    write_csv('affix_vocab_quality.csv',
+              ['dict', 'affix_instances', 'in_canonical_vocab', 'pct_canonical'],
+              quality_rows)
+    fidx = {c: {h: s & canon_vocab for h, s in idx[c].items() if s & canon_vocab}
+            for c in affcodes}
+    fagree_rows = []
+    for i, a in enumerate(affcodes):
+        for b in affcodes[i + 1:]:
+            common = set(fidx[a]) & set(fidx[b])
+            if not common:
+                continue
+            ag = sum(1 for h in common if fidx[a][h] & fidx[b][h])
+            lo, hi = wilson(ag, len(common))
+            fagree_rows.append([a, b, len(common), ag,
+                                round(100 * ag / len(common), 1), lo, hi])
+    write_csv('cross_dict_agreement_vocabfiltered.csv',
+              ['dict_a', 'dict_b', 'shared_headwords', 'affix_agrees', 'pct',
+               'ci95_low', 'ci95_high'], fagree_rows)
+
+    # 6c. cross-dict KĀRAKA agreement (sanskrit-side; A35 review M3) -------------
+    kx = {c: collections.defaultdict(set) for c in sanskrit}
+    for c in sanskrit:
+        for r in data[c]['aff']:
+            if r.get('karaka'):
+                kx[c][r['headword_slp1']].add(r['karaka'])
+    kagree_rows = []
+    for i, a in enumerate(sanskrit):
+        for b in sanskrit[i + 1:]:
+            common = set(kx[a]) & set(kx[b])
+            if not common:
+                continue
+            ag = sum(1 for h in common if kx[a][h] & kx[b][h])
+            lo, hi = wilson(ag, len(common))
+            kagree_rows.append([a, b, len(common), ag,
+                                round(100 * ag / len(common), 1), lo, hi])
+    write_csv('cross_dict_karaka_agreement.csv',
+              ['dict_a', 'dict_b', 'shared_headwords', 'karaka_agrees', 'pct',
+               'ci95_low', 'ci95_high'], kagree_rows)
+
     # 6b. cross-dict ROOT agreement (incl. MW, which gives root not affix) -------
     rootcodes = [c for c in codes if any(r.get('root') for r in data[c]['rows'])]
     def root_index(strict):
@@ -317,7 +371,7 @@ def main():
     with open(out, 'w', encoding='utf-8') as f:
         f.write(html)
 
-    print("Wrote 9 CSVs + dashboard_etymology.html to {}".format(HERE))
+    print("Wrote 12 CSVs + dashboard_etymology.html to {}".format(HERE))
     print("Sanskrit-side dicts (with kāraka):", ", ".join(sanskrit))
 
 
@@ -428,7 +482,7 @@ no single dictionary can give you. Rows are sorted by the number of shared head-
 solid comparisons sit at the top.</p>
 <div class="read"><b>Read it:</b>
 <span class="ex">① <i>Apte↔AP</i> 100% [97.9–100] over 178 shared head-words — the two Apte editions are essentially identical, exactly the sanity check you'd want.</span>
-<span class="ex">② <i>WIL↔SKD</i> 22.9% [14.6–34.0] — Wilson and the Śabdakalpadruma pick the same affix barely a fifth of the time, and the interval tops out at 34%, below every Sanskrit-side pair, so the gap is real, not small-sample noise.</span></div>
+<span class="ex">② <i>WIL↔SKD</i> 22.9% [14.6–34.0] raw — but read it with <code>affix_vocab_quality.csv</code>: only half of Wilson's free-prose affix captures are valid Pāṇinian names, and vocabulary-filtered agreement (<code>cross_dict_agreement_vocabfiltered.csv</code>) rises to 66.7%. Most of the rest is same-surface taxonomy (<i>ac</i> vs <i>ghañ</i>, both → -a) — see <code>wil_disagreement_audit.tsv</code>.</span></div>
 <div class="cant"><b>Can't tell you:</b> it scores only head-words that <i>both</i> dicts root with an affix — it is silent on coverage gaps (a word one dict omits never enters the comparison), and a tidy 100% over n=5 is weak evidence. Always read the CI and the shared-count together.</div>
 <table id="agree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>affix agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
 
@@ -440,7 +494,7 @@ measurement artefact, not real disagreement: the same root is written in differe
 homonym conventions across traditions, so a "miss" is often two spellings of one dhātu, not a genuine dispute.</p>
 <div class="read"><b>Read it:</b>
 <span class="ex">① <i>PWG↔PW</i> ~93% — the two German Petersburg dictionaries, same school, agree on the root almost always.</span>
-<span class="ex">② <i>MW↔PWG</i> ~65% — the English √-tradition and the German Wurzel-tradition independently land on the same root for two-thirds of shared head-words, a strong cross-tradition validation given the script differences.</span></div>
+<span class="ex">② <i>MW↔PWG</i> 64.2% — the English √-tradition and the German Wurzel-tradition independently land on the same root for two-thirds of shared head-words, a strong cross-tradition validation given the script differences. (WIL roots are compared after the same citation-form fold as everyone else — Wilson cites roots in thematic form, <i>aṃśa</i> for <i>aṃś</i>.)</span></div>
 <div class="cant"><b>Can't tell you:</b> a low cell here may be a transliteration/homonym mismatch rather than a real conflict; treat root agreement as a <i>lower bound</i> on true agreement, and the affix table above as the cleaner signal.</div>
 <table id="ragree"><thead><tr><th>dict A</th><th>dict B</th><th>shared head-words</th><th>root agrees</th><th>% (95% CI)</th></tr></thead><tbody></tbody></table>
 

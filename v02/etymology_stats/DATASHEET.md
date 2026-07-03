@@ -20,9 +20,13 @@ plus the per-dict `analyze_*` extractors).
 - **What do instances represent?** One *derivation*: a dictionary head-word, its
   root (dhātu), affix (pratyaya) and — for the Sanskrit-prose dicts — the kāraka
   sense in which the affix derives it, plus provenance tags.
-- **How many instances?** ~67,000 derivations across **10 dictionaries**: WIL
-  39,650 · MW 9,377 · PWG 11,526 · PW 846 · VCP 3,664 · SKD 2,213 · AP 339 · Apte
-  (AP90) 332 · SHS 258 · KRM 305. Plus a derived **root oracle** of ~60,000
+- **How many instances?** **68,510 derivational statements** across **10
+  dictionaries**: WIL 39,650 · MW 9,377 · PWG 11,526 · PW 846 · VCP 3,664 · SKD
+  2,213 · AP 339 · Apte (AP90) 332 · SHS 258 · KRM 305. Rows are **typed** and not
+  all are root+affix derivations proper — WIL's 39,650 split into root+affix
+  18,957 / compound 17,686 / prefix+word 1,406 / multi-derivation 1,214 /
+  single-stem 212 / cross-ref+unparsed 175; comparisons use only rows stating the
+  compared object. Plus a derived **root oracle** of ~60,000
   (derived-word → root) pairs (incl. KRM's full kṛdanta paradigm).
 - **What does each instance consist of?** Per-dict TSV columns vary by idiom but
   share: `headword(_slp1)`, `root(_slp1)`, `affix(_slp1)`, `root_source`
