@@ -1,7 +1,10 @@
 # Cross-dictionary consistency of Pāṇinian derivation in the Cologne lexica
 
 *Draft (pre-submission) — target: International Journal of Lexicography /
-Lexicographica; WSC 2027 indological alternate.
+Lexicographica, with the **International Sanskrit Computational Linguistics
+Symposium (ISCLS)** as a parallel Sanskrit-CL venue (confirmed live, 8th
+edition March 2026, IIT Roorkee — [2026.iscls-1.0](https://aclanthology.org/2026.iscls-1.0/));
+WSC 2027 indological alternate.
 Author: **Mārcis Gasūns**, independent scholar
 ([ORCID 0000-0003-4513-884X](https://orcid.org/0000-0003-4513-884X)),
 gasyoun@ya.ru. Empirical basis + datasheet: [`DATASHEET.md`](DATASHEET.md); all figures
@@ -74,6 +77,26 @@ absence of content, and that **cross-source agreement is the validation** when n
 gold standard exists. This paper applies that stance reflexively: our own headline
 "outlier" (Wilson) is itself decomposed into measurement artefact vs genuine
 divergence before it is interpreted (§F2).
+
+Beyond the lexicographic literature, this study also sits inside the smaller but
+active body of computational Sanskrit-NLP work indexed in the ACL Anthology and
+presented at ISCLS, the dedicated Sanskrit computational-linguistics symposium
+(8th edition, March 2026, IIT Roorkee — [2026.iscls-1.0](https://aclanthology.org/2026.iscls-1.0/)),
+which this cycle included a lexicographic-definition-based word-sense
+disambiguation paper ([2026.iscls-1.2](https://aclanthology.org/2026.iscls-1.2/)) — the
+closest published Sanskrit-specific analogue to a cross-dictionary consistency
+study. A prior ISCLS edition carries an even closer precedent: Patel & Kulkarni,
+"Word Sense Alignment of Sanskrit Lexica" (ISCLS 2024,
+[2024.iscls-1.1](https://aclanthology.org/2024.iscls-1.1/)), which cross-aligns
+senses between Wilson and Yates' dictionaries — the direct Sanskrit-specific
+sibling to this paper's cross-dictionary *derivation* alignment, differing in
+which layer (sense vs. derivation) is compared. Our root-normalization pipeline (Method, below) is independently
+validated against the same dhātu resources used by Hellwig & Nehrdich's
+character-level sandhi/compound-splitting models (EMNLP 2018,
+[D18-1295](https://aclanthology.org/D18-1295/)) and by the unified ByT5-Sanskrit
+model (Findings of EMNLP 2024, [2024.findings-emnlp.805](https://aclanthology.org/2024.findings-emnlp.805/)),
+which we cite as the computational-NLP counterpart to this paper's
+lexicographic-derivation framing, not as a technique this paper adopts directly.
 
 ## Method
 
