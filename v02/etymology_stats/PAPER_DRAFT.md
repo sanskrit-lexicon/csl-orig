@@ -12,6 +12,51 @@ regenerable from `csl-orig/v02/*/​*_etymology.tsv` via `python stats_etymology
 (the committed LLM-resolved tiers are inputs, not regenerated — see Artefacts).
 Live dashboard: https://sanskrit-lexicon.github.io/csl-orig/ .*
 
+## Submission readiness note (internal planning memo, not manuscript prose)
+
+_Written 04-07-2026, re-verified against live ACL Anthology + web sources._
+
+**Path A — submit to the next ISCLS edition now.** The 8th ISCLS edition
+(March 9–11, 2026, IIT Roorkee — [2026.iscls-1.0](https://aclanthology.org/2026.iscls-1.0/))
+already happened this cycle: its submission deadline was 15 January 2026,
+notification 15 February 2026 — both in the past. The ACL Anthology venue page
+([aclanthology.org/venues/iscls](https://aclanthology.org/venues/iscls/))
+lists only three editions to date (6th, 2019; 7th, 2024; 8th, 2026) — an
+irregular, roughly biennial cadence, **not annual** — and shows no 9th-edition
+call for papers yet; a 9th edition is unannounced as of this writing (July
+2026), plausibly ~2027–2028 given the gap pattern. **"Submit now" is therefore
+not literally actionable** — there is no open ISCLS CFP to submit to today;
+Path A really means "commit to targeting whichever ISCLS edition opens next."
+On readiness: A35 (4/5, pre-submission) is close to ISCLS length/format —
+ISCLS papers run in the 8–20 page range seen in this cycle's proceedings
+(e.g. the accepted WSD paper spans pp. 14–31) — but A35's current draft carries
+extensive tabular apparatus (Tables 1/1b/2, per-tier coverage breakdowns) that
+would need trimming to a conference-length submission; the DATASHEET.md
+material would move to supplementary/appendix rather than the main paper.
+
+**Path B — hold for IJL/Lexicographica first, ISCLS as fallback.** Humanities
+journal review timelines for IJL (Oxford) and Lexicographica (De Gruyter) are
+not published as fixed SLAs; general peer-review-timeline data points to
+several months per round and desk/first-decision cycles commonly running
+6–12+ months for humanities venues, with a possible second revision round on
+top. Held against the monograph-timeline consideration (these papers are meant
+to become chapters of an eventual Brill/de Gruyter monograph): a journal-first
+path risks the paper sitting in review through most of the gap before the next
+ISCLS edition even opens — i.e. holding for IJL/Lexicographica does **not**
+cost an ISCLS cycle, since there is no live ISCLS cycle to lose right now.
+
+**Bottom line: Path B, with ISCLS kept as the live fallback/parallel-venue
+plan already stated in the header above.** Since no ISCLS CFP is currently
+open, "submit to ISCLS now" is moot as literally stated; the actionable
+decision is journal-first (IJL primary, Lexicographica secondary) while
+continuing to prepare a trimmed ISCLS-length variant so the paper is ready
+the moment a 9th-edition CFP appears — whichever fires first is submitted
+to, per the header's existing "parallel venue" framing. This does not
+materially delay the monograph: the journal review window and the ISCLS
+inter-edition gap are of comparable order, so neither path is the clear
+speed-losing one, and A35's readiness (4/5) is closer to journal-submission
+polish than to a conference-length trim today.
+
 ## Abstract
 
 The dictionaries of the Cologne Digital Sanskrit Lexicon were compiled across two
@@ -97,6 +142,43 @@ character-level sandhi/compound-splitting models (EMNLP 2018,
 model (Findings of EMNLP 2024, [2024.findings-emnlp.805](https://aclanthology.org/2024.findings-emnlp.805/)),
 which we cite as the computational-NLP counterpart to this paper's
 lexicographic-derivation framing, not as a technique this paper adopts directly.
+
+## Technique-adoption assessment (internal note, not manuscript prose)
+
+**Question.** The Related-work paragraph above cites Hellwig & Nehrdich's
+rcNN sandhi/compound-splitting model (EMNLP 2018,
+[D18-1295](https://aclanthology.org/D18-1295/)) and ByT5-Sanskrit
+([2024.findings-emnlp.805](https://aclanthology.org/2024.findings-emnlp.805/))
+as NLP-adjacent context. Is there an actual sandhi-resolution step anywhere in
+this paper's derivation-extraction pipeline that either model could replace or
+check against?
+
+**What the pipeline actually operates on.** Read against the per-dictionary
+extractors (`v02/wil/analyze_wil_etymology.py`, `v02/pwg/analyze_pwg_etymology.py`,
+`v02/mw/analyze_mw_etymology.py`, `v02/skd/analyze_sktdict_etymology.py`) and
+the downstream `v02/etymology_stats/stats_etymology.py`: every extractor reads
+already-segmented, already-tagged dictionary markup — `<L>`…`<LEND>` entries
+with a single `<k1>` headword, and an `<ab>E.</ab>` block (or `{#root#}`/
+`{#affix#}` markers, or `parse="X+Y"`, or `Wurzel`) that already isolates the
+root and affix as separate tokens. There is no raw sandhi'd verse or
+continuous prose anywhere in this pipeline's input — the dictionaries
+themselves already did the segmentation, as part of stating the etymology.
+The one place "sandhi" appears in this codebase at all
+(`v02/etymology_stats/stats_etymology.py:510`) is a **caption caveat** on the
+dashboard's affix legend — noting that the affix name doesn't show the
+sandhi-reshaped surface form (*kṛ* + *lyuṭ* → *karaṇa*, not *kṛ-ana*) — not a
+processing step.
+
+**Verdict: genuinely irrelevant to this pipeline.** The rcNN/ByT5 models solve
+word segmentation and compound splitting on *unsegmented* text (running verse,
+continuous prose); this paper's extraction never receives unsegmented text —
+its "hard" problem is Pāṇinian-affix-vocabulary normalization and root-form
+folding (`root_norm.py`) across dictionaries that already agree on where one
+word ends and the next begins. Forcing a sandhi-splitting model into this
+pipeline would address a problem this pipeline does not have. The citation is
+correctly scoped as-is: a computational-NLP-counterpart citation for readers
+positioning this paper in the Sanskrit-CL literature, not a technique this
+paper could adopt.
 
 ## Method
 
