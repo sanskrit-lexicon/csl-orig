@@ -56,6 +56,9 @@ equivalent controlled edit, regenerate + XML-validate, write the
 `csl-corrections` audit trail, then deliver by batched PR — lives in the
 canonical
 [csl-corrections correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+This repo's own self-contained operator view — the 8 stages, the CFR
+preflight, the local safety hooks, the delivery split, and every gotcha — is
+[docs/CORRECTION_MANUAL.md](https://github.com/sanskrit-lexicon/csl-orig/blob/main/docs/CORRECTION_MANUAL.md).
 In short:
 
 - `v02/<dict>/<dict>.txt` files are canonical and may only change through the
