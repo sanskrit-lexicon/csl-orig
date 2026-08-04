@@ -10365,7 +10365,7 @@ Asura. {%Abstr.%} {#asuratva/#} {%n.%}
 <LEND>
 
 <L>2369<pc>037-1<k1>asurarakzasa<k2>asurarakzasa/
-{#asurarakzasa/#}¦ {%n. Pl.%} die Asuras und Rakshasas. <lbinfo n="7"/>
+{#asurarakzasa/#}¦ {%n. Pl.%} die Asuras und Rākṣasas. <lbinfo n="7"/>
 <LEND>
 
 <L>2370<pc>037-1<k1>asurahan<k2>asuraha/n
