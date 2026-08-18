@@ -6,6 +6,23 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **csl-orig** is a Sanskrit Lexicon **data-store** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
+## Dictionary Correction Safety
+
+`v02/<dict>/<dict>.txt` files are canonical dictionary sources. They may be
+changed only through the documented CDSL correction workflow: snapshot, apply via
+line-addressed change file or equivalent controlled edit, regenerate/validate,
+create the `csl-corrections` audit trail, and commit the paired repos.
+
+Before applying any old GitHub correction issue, search sibling `csl-corrections`
+CFR and batch history for the same dictionary, L number, headword, old text, and
+new text. If the registry says `No change`, rejected, deferred, or otherwise not
+to be applied, **do not patch** unless a maintainer explicitly reopens the
+decision.
+
+For accepted corrections, decide before editing whether the source should use a
+plain replacement or an inline correction layer such as
+`{{old->new||YYYYMMDD|author|issue|}}`, which preserves the original reading.
+
 ## Repo Category
 
 `data-store` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
