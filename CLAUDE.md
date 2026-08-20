@@ -1,17 +1,20 @@
 # CLAUDE.md
 
-_Created: 14-06-2026 · Last updated: 16-08-2026_
+_Created: 14-06-2026 · Last updated: 20-08-2026_
 
 **csl-orig** is the Cologne Digital Sanskrit Dictionaries **data store**.
 Canonical digitised text lives at [`v02/<dict>/<dict>.txt`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02)
 (SLP1, one record per `<L>`…`<LEND>`). It is not a generator and not a web
 frontend.
 
-## What to run
+## How to run
 
-Agents **never commit** and **never push** this repository — not even a
+Agents **never commit or push dictionary source** under `v02/` — not even a
 one-line dictionary fix. Prepare the change locally, XML-validate, then
-queue. Delivery is one consolidated PR at most ~monthly.
+queue. Delivery is one consolidated source PR at most ~monthly.
+
+This file (`CLAUDE.md`) is a meta-doc, not dictionary text: land it via a
+GitHub PR, never a direct push to `main`.
 
 1. Express the edit as an `updateByLine.py` change file (UTF-8, **no BOM**):
    ```
@@ -37,13 +40,12 @@ Do not invent a second workflow.
 
 ## Do not
 
-- Commit or push dictionary source under `v02/`.
+- Commit or push dictionary source under `v02/` (the org fence on csl-orig).
 - Write files with `utf-8-sig` (a UTF-8 BOM). After a write:
   `python -c "with open(f,'rb') as x: print(x.read(3).hex())"` must not start
   `efbbbf`.
 - Comment on Cologne issues unless a human asked (maintainer-noise rule).
-- Treat `printchange.txt` as a digital/markup fix log — it records
-  deviations from the scanned print.
+- Treat csl-corrections [`<dict>_printchange.txt`](https://github.com/sanskrit-lexicon/csl-corrections) as a digital/markup fix log — it records deviations from the scanned print. Those files are not in this repo.
 
 ## Primer
 
@@ -51,7 +53,11 @@ Encodings, `key1`/`key2`, SLP1/IAST/Devanāgarī, and the broken
 `iast_to_devanagari` trap:
 [SANSKRIT_CONTEXT_PRIMER.md](https://github.com/gasyoun/github-spine/blob/main/SANSKRIT_CONTEXT_PRIMER.md).
 
-Issues use the Cologne taxonomy — see
+Issues: this repo is a **data-store** in the
+[tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md)
+(types `bug` / `feature` / `infrastructure` / …). Digitisation issues that
+still land here (`link-target`, `text-correction`, `encoding`, …) use
 [`/cologne-issue-runbook`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-issue-runbook.md).
+Live labels mix both; do not recopy either table into this file.
 
 _Dr. Mārcis Gasūns_
