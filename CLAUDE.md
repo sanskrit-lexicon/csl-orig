@@ -1,46 +1,63 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+_Created: 14-06-2026 · Last updated: 20-08-2026_
 
-## Project Overview
+**csl-orig** is the Cologne Digital Sanskrit Dictionaries **data store**.
+Canonical digitised text lives at [`v02/<dict>/<dict>.txt`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02)
+(SLP1, one record per `<L>`…`<LEND>`). It is not a generator and not a web
+frontend.
 
-**csl-orig** is a Sanskrit Lexicon **data-store** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
+## How to run
 
-## Repo Category
+Agents **never commit or push dictionary source** under `v02/` — not even a
+one-line dictionary fix. Prepare the change locally, XML-validate, then
+queue. Delivery is one consolidated source PR at most ~monthly.
 
-`data-store` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
+This file (`CLAUDE.md`) is a meta-doc, not dictionary text: land it via a
+GitHub PR, never a direct push to `main`.
 
-## GitHub Issue Conventions
+1. Express the edit as an `updateByLine.py` change file (UTF-8, **no BOM**):
+   ```
+   1234 old exact original line text here
+   1234 new exact replacement line text here
+   ```
+   `ins` inserts after; `del` deletes. `;` starts a comment.
+2. Validate XML **before** queueing (from sibling
+   [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork) `v02/`):
+   `sh generate_dict.sh <dict> tempparent/<dict>` then
+   `sh xmlchk_xampp.sh <dict>`. On Windows without XAMPP / `xmllint`,
+   [`make_xml.py`](https://github.com/sanskrit-lexicon/csl-pywork/blob/main/v02/makotemplates/pywork/make_xml.py)
+   printing `All records parsed by ET` is the validate signal.
+3. Park the validated change with
+   [`/cologne-correction-queue`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-correction-queue.md).
+   Ship the monthly bundle with
+   [`/cologne-batch-pr`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-batch-pr.md).
 
-This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
-- **Exactly one type label** (9 options)
-- **Exactly one severity label** (4 levels)
-- **One milestone** (5 options)
+The eight-stage snapshot → apply → regenerate → validate → audit sequence is
+documented once:
+[csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+Do not invent a second workflow.
 
-### Type Labels
-- `bug` — Code defect (wrong output, broken contract)
-- `feature` — Net-new capability
-- `enhancement` — Improvement to existing capability
-- `performance` — Speed, memory, throughput optimization
-- `tech-debt` — Refactoring, cleanup, dependency updates
-- `security` — CVE, auth issue, credential exposure
-- `documentation` — Prose docs, API docs, comments
-- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
-- `question` — Research, proposals, open discussions
+## Do not
 
-### Severity Labels
-- `trivial` — Cosmetic, < 1 hour
-- `minor` — Single function/component
-- `major` — Multiple files, design decision
-- `critical` — Blocks users, data loss/security CVE
+- Commit or push dictionary source under `v02/` (the org fence on csl-orig).
+- Write files with `utf-8-sig` (a UTF-8 BOM). After a write:
+  `python -c "with open(f,'rb') as x: print(x.read(3).hex())"` must not start
+  `efbbbf`.
+- Comment on Cologne issues unless a human asked (maintainer-noise rule).
+- Treat csl-corrections [`<dict>_printchange.txt`](https://github.com/sanskrit-lexicon/csl-corrections) as a digital/markup fix log — it records deviations from the scanned print. Those files are not in this repo.
 
-### Milestones
-- **API Stability** — performance, security, regressions
-- **User Experience** — bugs, features, enhancements
-- **Data Quality** — data-pipeline issues, integrity
-- **Developer Experience** — tech-debt, infrastructure, docs
-- **Community** — questions, proposals, discussions
+## Primer
 
-## Cross-Repo Coordination
+Encodings, `key1`/`key2`, SLP1/IAST/Devanāgarī, and the broken
+`iast_to_devanagari` trap:
+[SANSKRIT_CONTEXT_PRIMER.md](https://github.com/gasyoun/github-spine/blob/main/SANSKRIT_CONTEXT_PRIMER.md).
 
-The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
+Issues: this repo is a **data-store** in the
+[tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md)
+(types `bug` / `feature` / `infrastructure` / …). Digitisation issues that
+still land here (`link-target`, `text-correction`, `encoding`, …) use
+[`/cologne-issue-runbook`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-issue-runbook.md).
+Live labels mix both; do not recopy either table into this file.
+
+_Dr. Mārcis Gasūns_
