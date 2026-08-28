@@ -66,20 +66,36 @@ for dict in "${dicts[@]}"; do
 
     # Run the full pipeline; capture stdout+stderr (ANSI codes are always
     # emitted by generate_dict.sh regardless of tty status).
-    pipeline_output=$(cd "$PYWORK_V02" && sh generate_dict.sh "$dict" "$outdir_rel" 2>&1) || true
+    # O1 fix: the pipeline EXIT STATUS is the primary gate — the previous
+    # '|| true' discarded it, so a pipeline dying with no red output passed
+    # as "OK: no red lines".
+    pipeline_output=$(cd "$PYWORK_V02" && sh generate_dict.sh "$dict" "$outdir_rel" 2>&1)
+    pipeline_status=$?
 
-    # Detect red lines: generate_dict.sh marks errors with \033[31m ... \033[0m
+    # Red lines remain a secondary diagnostic channel: generate_dict.sh marks
+    # errors with \033[31m ... \033[0m (O2 makes every failure channel red).
     red_lines=$(printf '%s\n' "$pipeline_output" | grep -F $'\033[31m' || true)
 
-    if [ -n "$red_lines" ]; then
-        echo "FAIL: generate_dict.sh produced error (red) output for '$dict':"
+    if [ $pipeline_status -ne 0 ]; then
+        echo "FAIL: generate_dict.sh exited with status $pipeline_status for '$dict':"
         echo "------"
         # Strip ANSI codes for cleaner display in pre-commit's output
+        printf '%s\n' "$pipeline_output" | sed $'s/\033\\[[0-9;]*m//g' | tail -40
+        echo "------"
+        if [ -n "$red_lines" ]; then
+            echo "Error (red) lines detected:"
+            printf '%s\n' "$red_lines" | sed $'s/\033\\[[0-9;]*m//g'
+            echo "------"
+        fi
+        overall_exit=1
+    elif [ -n "$red_lines" ]; then
+        echo "FAIL: generate_dict.sh produced error (red) output for '$dict':"
+        echo "------"
         printf '%s\n' "$red_lines" | sed $'s/\033\\[[0-9;]*m//g'
         echo "------"
         overall_exit=1
     else
-        echo "OK: no red lines for '$dict'."
+        echo "OK: pipeline exit 0, no red lines for '$dict'."
     fi
 done
 
