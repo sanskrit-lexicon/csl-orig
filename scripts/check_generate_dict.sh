@@ -46,6 +46,26 @@ if [ "${#dicts[@]}" -eq 0 ]; then
 fi
 
 # ---------------------------------------------------------------------------
+# Partial-staging guard: the pipeline reads WORKTREE bytes, while the commit
+# records the STAGED blob. If the two differ (e.g. after `git add -p`), a run
+# here would bless content that is NOT being committed. Fail closed and ask
+# for convergence; the encoding stage (.githooks/pre-commit step 1 / CI stage
+# 1a) validates the staged blob itself.
+# ---------------------------------------------------------------------------
+for dict in "${dicts[@]}"; do
+    canon="v02/$dict/$dict.txt"
+    if git -C "$REPO_ROOT" diff --quiet -- "$canon" 2>/dev/null; then
+        :
+    else
+        echo "ERROR [generate-dict-check]: staged content differs from worktree for '$canon'."
+        echo "  The pipeline reads worktree bytes, so it would validate content that is NOT being committed."
+        echo "  Converge first: stage the rest (git add '$canon') or discard the unstaged edit"
+        echo "  (git restore '$canon'), then commit."
+        exit 1
+    fi
+done
+
+# ---------------------------------------------------------------------------
 # Run the pipeline for each affected dict
 # ---------------------------------------------------------------------------
 overall_exit=0

@@ -1,0 +1,132 @@
+name: guard-backstop
+
+# CI backstop for the .githooks/pre-commit guard. The hook is opt-in per
+# clone (install-hooks.sh); a fresh or hook-less clone gets the same two
+# stages gated here, so no v02/ change reaches main unchecked:
+#   stage 1a — encoding guard over ALL canonical sources (scan-all)
+#   stage 1b — canonical deletion / rename guard vs the diff base
+#   stage 2  — generate_dict pipeline for every touched dictionary
+
+on:
+  push:
+    paths:
+      - 'v02/**'
+      - 'scripts/check_encoding.py'
+      - 'scripts/check_generate_dict.sh'
+      - 'scripts/check_deletions.sh'
+      - 'scripts/install-hooks.sh'
+      - '.githooks/**'
+      - '.github/workflows/guard-backstop.yml'
+  pull_request:
+    paths:
+      - 'v02/**'
+      - 'scripts/check_encoding.py'
+      - 'scripts/check_generate_dict.sh'
+      - 'scripts/check_deletions.sh'
+      - 'scripts/install-hooks.sh'
+      - '.githooks/**'
+      - '.github/workflows/guard-backstop.yml'
+  workflow_dispatch:
+
+jobs:
+  backstop:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout csl-orig (full history — stage 1b diffs against the base)
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      # Sibling layout required by scripts/check_generate_dict.sh and the
+      # generate_dict.sh pipeline (same layout as generate-dict.yml):
+      #   <workspace>/csl-orig  <workspace>/csl-pywork  <workspace>/csl-websanlexicon
+      - name: Checkout csl-pywork
+        uses: actions/checkout@v7
+        with:
+          repository: sanskrit-lexicon/csl-pywork
+          path: csl-pywork
+          fetch-depth: 1
+
+      - name: Checkout csl-websanlexicon
+        uses: actions/checkout@v7
+        with:
+          repository: sanskrit-lexicon/csl-websanlexicon
+          path: csl-websanlexicon
+          fetch-depth: 1
+
+      - name: Checkout hwnorm1
+        uses: actions/checkout@v7
+        with:
+          repository: sanskrit-lexicon/hwnorm1
+          path: hwnorm1
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.10'
+
+      - name: Install pipeline dependencies
+        run: |
+          pip install mako
+          sudo apt-get update && sudo apt-get install -y libxml2-utils
+
+      - name: Resolve diff base
+        id: base
+        env:
+          PR_BASE_REF: ${{ github.event.pull_request.base.ref }}
+          PUSH_BEFORE: ${{ github.event.before }}
+        run: |
+          if [ -n "$PR_BASE_REF" ]; then
+            git fetch --no-tags origin "+refs/heads/$PR_BASE_REF:refs/remotes/origin/$PR_BASE_REF"
+            echo "base=origin/$PR_BASE_REF" >> "$GITHUB_OUTPUT"
+          elif [ -n "$PUSH_BEFORE" ] && [ "$PUSH_BEFORE" != "0000000000000000000000000000000000000000" ] \
+               && git cat-file -e "$PUSH_BEFORE" 2>/dev/null; then
+            echo "base=$PUSH_BEFORE" >> "$GITHUB_OUTPUT"
+          else
+            echo "base=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Stage 1a — encoding guard over all canonical sources
+        run: python scripts/check_encoding.py
+
+      - name: Stage 1b — canonical deletion / rename guard
+        env:
+          BASE: ${{ steps.base.outputs.base }}
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          if [ -z "$BASE" ]; then
+            echo "no diff base available for this event — deletion guard skipped"
+            exit 0
+          fi
+          acks="$(git log --format=%B "$BASE..HEAD" 2>/dev/null \
+            | grep -ioE 'ack-deletion[ :=]+[^ ]+' | sed -E 's/^[^ :=]+[ :=]+//' || true)"
+          if [ -n "$PR_BODY" ]; then
+            body_acks="$(printf '%s\n' "$PR_BODY" | grep -ioE 'ack-deletion[ :=]+[^ ]+' | sed -E 's/^[^ :=]+[ :=]+//' || true)"
+            acks="$acks $body_acks"
+          fi
+          export CSL_ORIG_ACK_DELETION="$acks"
+          bash scripts/check_deletions.sh "$BASE" HEAD
+
+      - name: Stage 2 — generate_dict pipeline per touched dict
+        env:
+          BASE: ${{ steps.base.outputs.base }}
+        run: |
+          if [ -z "$BASE" ]; then
+            echo "no diff base available for this event — stage 2 skipped"
+            exit 0
+          fi
+          dicts="$(git diff --name-status --diff-filter=ACMRT "$BASE" HEAD -- v02/ \
+            | awk -F'\t' '{p = ($1 ~ /^[RC]/) ? $3 : $2; if (p ~ /^v02\/[^\/]+\//) { split(p, a, "/"); print a[2] }}' \
+            | sort -u)"
+          if [ -z "$dicts" ]; then
+            echo "no dictionaries touched — stage 2 skipped"
+            exit 0
+          fi
+          rc=0
+          for d in $dicts; do
+            mkdir -p "../$d"   # check_generate_dict.sh requires a pre-built target dir
+            echo "=== backstop stage 2: dict=$d ==="
+            bash scripts/check_generate_dict.sh "v02/$d/$d.txt" || rc=1
+          done
+          exit $rc
