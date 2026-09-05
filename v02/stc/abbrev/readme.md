@@ -1,9 +1,11 @@
+_Created: 21-01-2020 · Last updated: 05-09-2026_
+
 This subdirectory devoted to adding common abbreviation markup for
 STC dictionary.
 
 A list of these common abbreviations appears in the [front matter](https://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/stcpref/stcpref04.html).
 
-Odile Caujolle transcribed this; her result is in this [pdf](abbreviationsStchoupak.pdf).
+Odile Caujolle transcribed this; her result is in this [pdf](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/stc/abbrev/abbreviationsStchoupak.pdf).
 
 The pdf was converted to text file abbreviationsStchoupak.txt, and then
 edited.  In this text file, lines beginning with semicolons are comments.
@@ -43,3 +45,5 @@ Change csl-pywork/v02/distinctfiles/stc/pywork/ by
  adding an stcab subdirectory. See the readme file therein
 
 Also, see https://github.com/sanskrit-lexicon/COLOGNE/issues/298.
+
+_Dr. Mārcis Gasūns_

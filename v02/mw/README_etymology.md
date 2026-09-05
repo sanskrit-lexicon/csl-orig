@@ -1,6 +1,8 @@
+_Created: 26-06-2026 · Last updated: 05-09-2026_
+
 # MW (Monier-Williams) derivation extractor
 
-[`analyze_mw_etymology.py`](analyze_mw_etymology.py) mines Monier-Williams'
+[`analyze_mw_etymology.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/mw/analyze_mw_etymology.py) mines Monier-Williams'
 etymology, which uses neither WIL's `<ab>E.</ab>` nor SKD/VCP's `kāraka+pratyaya`.
 MW marks derivation two ways, both extracted:
 
@@ -18,7 +20,7 @@ python analyze_mw_etymology.py mw.txt      # -> mw_etymology.{tsv,jsonl}
 No new lexica — every `parse=` member is typed by reusing the project's own data:
 
 * **root** — member is in the canonical dhātu list
-  ([`../etymology_stats/dhatu_roots.txt`](../etymology_stats/dhatu_roots.txt))
+  ([`../etymology_stats/dhatu_roots.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/etymology_stats/dhatu_roots.txt))
 * **affix** — member is a known pratyaya (the `../wil` affix table)
 * **prefix** — member is an upasarga (checked first; many prefixes share a root's
   surface form, but in `abhi+kf` the abhi is the prefix)
@@ -34,7 +36,7 @@ From these, `deriv_type` is assigned: `prefix+root`, `root+affix`,
 
 MW's etymology is **root-attribution**, so it feeds the cross-dictionary **root**
 agreement and **root productivity** analyses in
-[`../etymology_stats/`](../etymology_stats/README.md), not the affix/kāraka ones
+[`../etymology_stats/`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/etymology_stats/README.md), not the affix/kāraka ones
 (MW rarely names a pratyaya).
 
 ## Columns
@@ -43,3 +45,5 @@ agreement and **root productivity** analyses in
 (`parse` | `fr-root`) · `prefixes` · `affix` · `affix_slp1` · `group` ·
 `anubandha` · `anubandha_steps` · `affix_source` · `deriv_type` · `parse` ·
 `context`. TSV committed; jsonl git-ignored.
+
+_Dr. Mārcis Gasūns_

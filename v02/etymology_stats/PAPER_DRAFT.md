@@ -1,3 +1,5 @@
+_Created: 26-06-2026 · Last updated: 05-09-2026_
+
 # Cross-dictionary consistency of Pāṇinian derivation in the Cologne lexica
 
 *Draft (pre-submission) — target: International Journal of Lexicography /
@@ -7,7 +9,7 @@ edition March 2026, IIT Roorkee — [2026.iscls-1.0](https://aclanthology.org/20
 WSC 2027 indological alternate.
 Author: **Mārcis Gasūns**, independent scholar
 ([ORCID 0000-0003-4513-884X](https://orcid.org/0000-0003-4513-884X)),
-gasyoun@ya.ru. Empirical basis + datasheet: [`DATASHEET.md`](DATASHEET.md); all figures
+gasyoun@ya.ru. Empirical basis + datasheet: [`DATASHEET.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/etymology_stats/DATASHEET.md); all figures
 regenerable from `csl-orig/v02/*/​*_etymology.tsv` via `python stats_etymology.py`
 (the committed LLM-resolved tiers are inputs, not regenerated — see Artefacts).
 Live dashboard: https://sanskrit-lexicon.github.io/csl-orig/ .*
@@ -435,7 +437,7 @@ Per-dict TSVs (`<dict>_etymology.tsv`), the cross-dict root oracle
 coverage tiers, `cross_dict_root_agreement_strict.csv`,
 `affix_vocab_quality.csv`, `cross_dict_agreement_vocabfiltered.csv`,
 `cross_dict_karaka_agreement.csv`), the 48-case hand audit
-(`wil_disagreement_audit.tsv`), a full [`DATASHEET.md`](DATASHEET.md)
+(`wil_disagreement_audit.tsv`), a full [`DATASHEET.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/etymology_stats/DATASHEET.md)
 (Gebru-style), and an interactive [dashboard](https://sanskrit-lexicon.github.io/csl-orig/)
 (kāraka×pratyaya heatmap, affix entropy, root productivity, affix & root agreement
 matrices, per-affix DSG/Russian legend, Whitney root links). Everything is
@@ -460,3 +462,5 @@ regeneration needs a DeepSeek API key; every row is dhātu-validated either way)
   corpus-wide rather than in a 48-case audit.
 * Numbers above are from the current extraction run; rerun `stats_etymology.py`
   after any extractor change.
+
+_Dr. Mārcis Gasūns_

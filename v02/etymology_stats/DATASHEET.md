@@ -1,3 +1,5 @@
+_Created: 26-06-2026 · Last updated: 05-09-2026_
+
 # Datasheet — Cologne Cross-Dictionary Derivation Dataset
 
 A datasheet (after Gebru et al., *Datasheets for Datasets*, 2021) for the
@@ -81,3 +83,5 @@ plus the per-dict `analyze_*` extractors).
 - **Maintenance.** Regenerated from source by the committed pipeline; re-run after
   any extractor change. Versioned in git (csl-orig master).
 - **Citation.** Cite paper A35 + this datasheet; the dataset is the empirical basis.
+
+_Dr. Mārcis Gasūns_
