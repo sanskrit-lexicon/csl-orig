@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 14-06-2026 · Last updated: 26-08-2026_
+_Created: 14-06-2026 · Last updated: 12-09-2026_
 
 **csl-orig** is the Cologne Digital Sanskrit Dictionaries **data store**.
 Canonical digitised text lives at [`v02/<dict>/<dict>.txt`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02)
@@ -45,17 +45,23 @@ Do not invent a second workflow.
 
 1. **encoding-guard** — BOM / invalid-UTF-8 gate
    ([`scripts/check_encoding.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_encoding.py));
-   fires on any push/PR touching `v02/**/*.txt`. A red run means the source
-   bytes are broken — fix locally, never patch on `main`.
-2. **Generate Dictionary** — manual (`workflow_dispatch`) per-dictionary
+   fires on any push/PR touching `v02/**/*.txt` or the guard script itself. A
+   red run means the source bytes are broken — fix locally, never patch on
+   `main`.
+2. **guard-backstop** — CI mirror of the opt-in `.githooks/pre-commit` guard
+   (install once per clone with `scripts/install-hooks.sh`): full-tree
+   encoding scan, canonical deletion/rename guard (override only with an
+   `ack-deletion <L>` token in the commit message or PR body), and a
+   `generate_dict` pipeline run per touched dictionary.
+3. **Generate Dictionary** — manual (`workflow_dispatch`) per-dictionary
    regeneration through csl-pywork templates; uploads `pywork/` + `web/`
    artifacts.
-3. **Regenerate hwnorm1.sqlite** — weekly (Sun 05:00 UTC) or manual.
-4. **Generate and Sync Stardict Files** — when `v02/**` lands on `main`,
+4. **Regenerate hwnorm1.sqlite** — weekly (Sun 05:00 UTC) or manual.
+5. **Generate and Sync Stardict Files** — when `v02/**` lands on `main`,
    rebuilds and syncs StarDict files downstream
    ([cologne-stardict](https://github.com/sanskrit-lexicon/cologne-stardict),
    [stardict-sanskrit](https://github.com/indic-dict/stardict-sanskrit)).
-5. Dependabot PRs auto-merge when green.
+6. Dependabot PRs auto-merge when green.
 
 ## Do not
 
