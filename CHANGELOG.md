@@ -1,4 +1,4 @@
-_Created: 30-06-2026 · Last updated: 05-09-2026_
+_Created: 30-06-2026 · Last updated: 06-09-2026_
 
 # Changelog
 
@@ -8,6 +8,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+### Fixed
+- **Generate-dict guard now fails on a nonzero pipeline exit** (H4227, H3487
+  audit O1 residual): `scripts/check_generate_dict.sh` discarded the
+  pipeline's exit status (`|| true`) and keyed only on ANSI-red output, so a
+  pipeline that died without emitting its red marker passed as "OK: no red
+  lines". The status is now captured and the hook fails on nonzero exit OR
+  red lines, printing which of the two fired.
 
 ### Added
 - Canonical deletion/rename guard ([`scripts/check_deletions.sh`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_deletions.sh)): deleting or renaming a `v02/<dict>/<dict>.txt` source now fails the commit unless explicitly acknowledged (`CSL_ORIG_ACK_DELETION`, or `ack-deletion:` lines in CI) — H3632 finding O3/O4

@@ -2,7 +2,8 @@
 # scripts/check_generate_dict.sh
 # Pre-commit hook: for each dict with staged changes under v02/<dict>/,
 # runs the full generate_dict.sh pipeline from ../csl-pywork/v02 and
-# fails if any red-line (ANSI \033[31m) output is produced.
+# fails if the pipeline exits nonzero OR produces red-line (ANSI \033[31m)
+# output.
 #
 # Called by pre-commit with the list of staged file paths as arguments
 # (pass_filenames: true).  The outdir convention matches the project:
@@ -86,20 +87,29 @@ for dict in "${dicts[@]}"; do
 
     # Run the full pipeline; capture stdout+stderr (ANSI codes are always
     # emitted by generate_dict.sh regardless of tty status).
-    pipeline_output=$(cd "$PYWORK_V02" && sh generate_dict.sh "$dict" "$outdir_rel" 2>&1) || true
+    # H4227 O1: the exit status is no longer discarded. A pipeline that dies
+    # without producing red output (crash before any stage marker, missing
+    # interpreter, etc.) must fail the hook exactly like a red-lined run;
+    # `set -e` is deliberately not set, so the assignment below cannot abort
+    # the script and $? reliably holds the pipeline status.
+    pipeline_output=$(cd "$PYWORK_V02" && sh generate_dict.sh "$dict" "$outdir_rel" 2>&1)
+    pipeline_status=$?
 
     # Detect red lines: generate_dict.sh marks errors with \033[31m ... \033[0m
     red_lines=$(printf '%s\n' "$pipeline_output" | grep -F $'\033[31m' || true)
 
-    if [ -n "$red_lines" ]; then
-        echo "FAIL: generate_dict.sh produced error (red) output for '$dict':"
+    if [ "$pipeline_status" -ne 0 ] || [ -n "$red_lines" ]; then
+        echo "FAIL: generate_dict.sh failed for '$dict' (exit status $pipeline_status):"
         echo "------"
         # Strip ANSI codes for cleaner display in pre-commit's output
         printf '%s\n' "$red_lines" | sed $'s/\033\\[[0-9;]*m//g'
+        if [ -z "$red_lines" ]; then
+            echo "(no red-line output — the pipeline exited without emitting its error marker)"
+        fi
         echo "------"
         overall_exit=1
     else
-        echo "OK: no red lines for '$dict'."
+        echo "OK: generate_dict.sh passed for '$dict' (exit status 0, no red lines)."
     fi
 done
 
