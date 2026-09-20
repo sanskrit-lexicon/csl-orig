@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 14-06-2026 · Last updated: 26-08-2026_
+_Created: 14-06-2026 · Last updated: 20-09-2026 (H5176 SLA review: CI inventory + fence wording re-verified current)_
 
 **csl-orig** is the Cologne Digital Sanskrit Dictionaries **data store**.
 Canonical digitised text lives at [`v02/<dict>/<dict>.txt`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02)
