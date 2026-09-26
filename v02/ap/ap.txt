@@ -149900,7 +149900,7 @@
 
 <L>12576.126<pc>0587-1<k1>kuladevatA<k2>kuladevatA<e>2
 {#kulam#} + {#-devatA#}¦ a tutelary deity; the guardian deity of a family; {#tAmarcitAByaH#}
- {#kuladevatAByaH kulapratizWAM praRamagya mAtA#} <ls>Ku. 7. 27</ls>.
+ {#kuladevatAByaH kulapratizWAM praRamayya mAtA#} <ls>Ku. 7. 27</ls>.
 <LEND>
 
 <L>12576.128<pc>0587-1<k1>kulaDana<k2>kulaDana<e>2
