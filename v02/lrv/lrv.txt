@@ -26968,7 +26968,7 @@
 <L>07287<pc>150-16<k1>fju<k2>fju
 {#fju#}¦ {%a. (f. {#ju#} or {#jvI#})%} 1. Straight (lit. and fig.); 2. favourable.
 <LEND>
-<L>07287.1<pc>150-16<k1>fjvI<k2>fjvI
+<L>07287.1<pc>150-16<k1>fjvI<k2>fjvI<h>1
 {{Lbody=07287}}
 <LEND>
 <L>07288<pc>150-16<k1>fjuga<k2>fju-ga
@@ -26977,7 +26977,7 @@
 <L>07289<pc>150-16<k1>fjurohita<k2>fju-rohita
 {#fju-rohita#}¦ {%n.%} The straight red bow of Indra. (according to some authorities; but many think that {#fju#} is prefixed to {#rohita#} through misunderstanding).
 <LEND>
-<L>07290<pc>150-17<k1>fjvI<k2>fjvI
+<L>07290<pc>150-17<k1>fjvI<k2>fjvI<h>2
 {#fjvI#}¦ {%f.%} 1. A straight-forward woman; 2. a particular gait.
 <LEND>
 <L>07291<pc>150-18<k1>fRa<k2>fRa
