@@ -149631,22 +149631,34 @@
 
 <L>12576.004<pc>0586-1<k1>kulA<k2>kulA<e>1
 {#kulam#} + .{@{#-lA#}@}¦ See {#kulatiTi#}.
-.━{@<ab>Comp.</ab>@}: {#kulAkula, kulANkuraH, kulANganA, kulANgAraH, kulAcalaH, kulAdriH, kulaparvataH, kulaSElaH, kulAnvita, kulABimAnaH, kulABimAnin, kulAKyA, kulAcAraH, kulakarman, kulAcAryaH, kulaguruH, kulADArakaH, kulApIqaH, kulaSeKaraH, kulAlambin, kuleSvaraH, kulotkawa, kulotpanna, kulodgata, kulodBava, kulodvahaH, kulopadeSaH, kulakajjalaH, kulakaRwakaH, kulakanyakA, kulakanyA, kulakaraH, kulakartf, kulakaraRiH, kulakalaNkaH, kulakalaNkita, kulakzayaH, kulagarimA, kulagiriH, kulaBUBft, kulagfham, kulaGna, kulaja, kulajAta, kulajanaH, kulajAyA, kulatantuH, kulatiTiH, kulatilakaH, kuladIpaH, kuladIpakaH, kuladuhitf, kuladUzaRa, kuladevatA, kulaDana, kulaDarmaH, kulaDArakaH, kulaDuryaH, kulanandana, kulanAyikA, kulanArI, kulanASaH, kulanASanam, kulaparaMparA, kulapatiH, kulapAMsana, kulapAMsukA, kulapAlakam, kulapAliH, kulapAlikA, kulapAlI, kulaputraH, kulaputrI, kulapuruzaH, kulapUrvagaH, kulapUrvakaH, kulaBaraH, kulabIjaH, kulaBAryA, kulaBftyA, kulamaryAdA, kulamArgaH, kulayozit, kulavaDU, kulalakzaRam, kulavAraH, kulavidyA, kulavipraH, kulavfdDaH, kulavrataH, kulavratam, kulaSIlam, kulaSrezWin, kulasaMKyA, kulasaMtatiH, kulasanniDiH, {{kulasaMBavaH,->kulasaMBava,||20260502||https://github.com/sanskrit-lexicon/csl-orig/commit/5f7cee5|}} kulasevakaH, kulastrI, kulasTitiH#}
+.━{@<ab>Comp.</ab>@}: {#kulAkula, kulAkulatiTiH, kulAkulanakzatram, kulAkulavAraH, kulANkuraH, kulANganA, kulANgAraH, kulAcalaH, kulAdriH, kulaparvataH, kulaSElaH, kulAnvita, kulABimAnaH, kulABimAnin, kulAKyA, kulAcAraH, kulakarman, kulAcAryaH, kulaguruH, kulADArakaH, kulApIqaH, kulaSeKaraH, kulAlambin, kuleSvaraH, kulotkawa, kulotpanna, kulodgata, kulodBava, kulodvahaH, kulopadeSaH, kulakajjalaH, kulakaRwakaH, kulakanyakA, kulakanyA, kulakaraH, kulakartf, kulakaraRiH, kulakalaNkaH, kulakalaNkita, kulakzayaH, kulagarimA, kulagiriH, kulaBUBft, kulagfham, kulaGna, kulaja, kulajAta, kulajanaH, kulajAyA, kulatantuH, kulatiTiH, kulatilakaH, kuladIpaH, kuladIpakaH, kuladuhitf, kuladUzaRa, kuladevatA, kulaDana, kulaDarmaH, kulaDArakaH, kulaDuryaH, kulanandana, kulanAyikA, kulanArI, kulanASaH, kulanASanam, kulaparaMparA, kulapatiH, kulapAMsana, kulapAMsukA, kulapAlakam, kulapAliH, kulapAlikA, kulapAlI, kulaputraH, kulaputrI, kulapuruzaH, kulapUrvagaH, kulapUrvakaH, kulaBaraH, kulabIjaH, kulaBAryA, kulaBftyA, kulamaryAdA, kulamArgaH, kulayozit, kulavaDU, kulalakzaRam, kulavAraH, kulavidyA, kulavipraH, kulavfdDaH, kulavrataH, kulavratam, kulaSIlam, kulaSrezWin, kulasaMKyA, kulasaMtatiH, kulasanniDiH, {{kulasaMBavaH,->kulasaMBava,||20260502||https://github.com/sanskrit-lexicon/csl-orig/commit/5f7cee5|}} kulasevakaH, kulastrI, kulasTitiH#}
 <LEND>
 <L>12576.020<pc>0586-2<k1>kulAkula<k2>kulAkula<e>2
 {#kulam#} + {#-akula#}¦ {%<lex>a.</lex>%}
 ∙²1 of a mixed character or origin.
-∙²2 middling. {#˚tiTiH#} {%<lex>m.</lex>, <lex>f.</lex>%} the second, sixth, and the tenth lunar
- days of a fort-night in a mouth. {#˚nakzatram#} <ab>N.</ab> of the lunar mansions
- {#ArdrA, mUlA, aBijit#} and {#SataBizA#}. {#˚vAraH#} Wednesday.
+∙²2 middling. 
 <LEND>
 
-<L>12576.022<pc>0586-2<k1>kulANkuraH<k2>kulANkuraH<e>2
+<L>12576.021<pc>0586-2<k1>kulAkulatiTiH<k2>kulAkulatiTiH<e>3
+{#kulam#} + {#-akula#} + {#˚tiTiH#}¦ {%<lex>m.</lex>, <lex>f.</lex>%} the second, sixth, and the tenth lunar
+ days of a fort-night in a mouth. 
+<LEND>
+
+<L>12576.022<pc>0586-2<k1>kulAkulanakzatram<k2>kulAkulanakzatram<e>3
+{#kulam#} + {#-akula#} + {#˚nakzatram#}¦ <ab>N.</ab> of the lunar mansions
+ {#ArdrA, mUlA, aBijit#} and {#SataBizA#}. 
+<LEND>
+
+<L>12576.023<pc>0586-2<k1>kulAkulavAraH<k2>kulAkulavAraH<e>3
+{#kulam#} + {#-akula#} + {#˚vAraH#}¦ Wednesday.
+<LEND>
+
+<L>12576.024<pc>0586-2<k1>kulANkuraH<k2>kulANkuraH<e>2
 {#kulam#} + {#-aNkuraH#}¦ the scion of a family; {#anena kasyApi kulANkureRa spfzwasya#}
  {#gAtrezu suKaM mamEvam#} <ls>Ś. 7. 19</ls>.
 <LEND>
 
-<L>12576.024<pc>0586-2<k1>kulANganA<k2>kulANganA<e>2
+<L>12576.025<pc>0586-2<k1>kulANganA<k2>kulANganA<e>2
 {#kulam#} + {#-aNganA#}¦ a respectable or high born (chaste) woman.
 <LEND>
 
