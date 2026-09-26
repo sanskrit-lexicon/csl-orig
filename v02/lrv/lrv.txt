@@ -34447,8 +34447,8 @@
 <L>09327<pc>188-02<k1>kAzWikA<k2>kAzWikA
 {#kAzWikA#}¦ {%f.%} A small piece of wood.
 <LEND>
-<L>09328<pc>188-03<k1>kAzWIla<k2>kAzWIla
-{#kAzWIla#}¦ {%f.%} The plantain tree.
+<L>09328<pc>188-03<k1>kAzWIlA<k2>kAzWIlA
+{#{{kAzWIla->kAzWIlA||20260722|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/314|#}¦ {%f.%} The plantain tree.
 <LEND>
 <L>09329<pc>188-04<k1>kAs<k2>kAs
 {#kAs#}¦ {%vi. 1Ā (pp. {#kAsita#})%} To cough, to make a sound indicating any disease.
