@@ -59289,8 +59289,7 @@ connaît les 3 temps, omniscient.
 
 <P>{%˚kharva-%} <ab>nt.</ab> nombre très élevé.
 
-<P>{%˚gaṇa-%} <ab>m.</ab> <ab>sg.</ab> les 3 buts de l'existence ({%kāma- artha- dharma-%} s.
-<ab>v.</ab>).
+<P>{%˚gaṇa-%} <ab>m.</ab> <ab>sg.</ab> les 3 buts de l'existence ({%kāma- artha- dharma-%} s.<ab>v.</ab>).
 
 <P>{%˚garta-%} <ab>m.</ab> <ab>pl.</ab> <ab>n.</ab> d'un peuple de la région de mod. Lahore (aussi
 {%-ka-%}), <ab>sg.</ab> son roi, son pays ; {%-ā-%} <ab>f.</ab> <ab>n.</ab> d'une ville.
@@ -66863,8 +66862,7 @@ se rappelle ; muni de ; <ab>m.</ab> montagne ; <ab>n.</ab> d'un Vasu ; d'un part
 <LEND>
 
 <L>11133<pc>337,1<k1>DaraRa<k2>DaraRa
-{@dharaṇa-@}¦ {%-ī-%} <ab>ag.</ab> qui porte, soutient ; <ab>m.</ab> <ab>nt.</ab> mesure de poids ; <ab>f.</ab> s.
-<ab>v.</ab>
+{@dharaṇa-@}¦ {%-ī-%} <ab>ag.</ab> qui porte, soutient ; <ab>m.</ab> <ab>nt.</ab> mesure de poids ; <ab>f.</ab> s.<ab>v.</ab>
 <LEND>
 
 <L>11134<pc>337,1<k1>DaraRi<k2>DaraRi
@@ -131195,8 +131193,7 @@ disparaît à la suite de), action funeste.
 
 <L>19872<pc>707,2<k1>vyApAdana<k2>vy-ApAdana
 {@vy-āpādana-@}¦ <ab>nt.</ab> destruction, meurtre, mort ; {%-īya- ˚pādayitavya-%}
-<ab>a. v.</ab> qui doit être détruit, qu'il faut faire périr, etc. ; {%˚pādita-%} s.
-<ab>v.</ab> {%˚PAD-.%}
+<ab>a. v.</ab> qui doit être détruit, qu'il faut faire périr, etc. ; {%˚pādita-%} s.<ab>v.</ab> {%˚PAD-.%}
 <LEND>
 
 <L>19873<pc>707,2<k1>vyApAra<k2>vy-ApAra
@@ -143096,8 +143093,7 @@ ou contre ; <ab>moy.</ab> réconcilier, <lbinfo n="6"/> se réconcilier ou s'ent
 obtenir <ab>qqch.</ab> (<ab>instr.</ab>) ; {%añjaliṃ s.%} joindre les mains (pour saluer) ;
 {%manaḥ s.%}
 [Page779-1]
- concentrer son esprit, se concentrer ; {%˚hita-%} s.
-<ab>v.</ab> ; {%˚dhātavya-%} <ab>a. v.</ab> à qui on doit s'allier, avec qui on doit s'entendre ;
+ concentrer son esprit, se concentrer ; {%˚hita-%} s.<ab>v.</ab> ; {%˚dhātavya-%} <ab>a. v.</ab> à qui on doit s'allier, avec qui on doit s'entendre ;
 <ab>nt.</ab> <ab>impers.</ab> il faut s'entendre.
 <LEND>
 
