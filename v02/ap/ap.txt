@@ -149631,7 +149631,7 @@
 
 <L>12576.004<pc>0586-1<k1>kulA<k2>kulA<e>1
 {#kulam#} + .{@{#-lA#}@}¦ See {#kulatiTi#}.
-.━{@<ab>Comp.</ab>@}: {#kulAkula, kulAkulatiTiH, kulAkulanakzatram, kulAkulavAraH, kulANkuraH, kulANganA, kulANgAraH, kulAcalaH, kulAdriH, kulaparvataH, kulaSElaH, kulAnvita, kulABimAnaH, kulABimAnin, kulAKyA, kulAcAraH, kulakarman, kulAcAryaH, kulaguruH, kulADArakaH, kulApIqaH, kulaSeKaraH, kulAlambin, kuleSvaraH, kulotkawa, kulotpanna, kulodgata, kulodBava, kulodvahaH, kulopadeSaH, kulakajjalaH, kulakaRwakaH, kulakanyakA, kulakanyA, kulakaraH, kulakartf, kulakaraRiH, kulakalaNkaH, kulakalaNkita, kulakzayaH, kulagarimA, kulagiriH, kulaBUBft, kulagfham, kulaGna, kulaja, kulajAta, kulajanaH, kulajAyA, kulatantuH, kulatiTiH, kulatilakaH, kuladIpaH, kuladIpakaH, kuladuhitf, kuladUzaRa, kuladevatA, kulaDana, kulaDarmaH, kulaDArakaH, kulaDuryaH, kulanandana, kulanAyikA, kulanArI, kulanASaH, kulanASanam, kulaparaMparA, kulapatiH, kulapAMsana, kulapAMsukA, kulapAlakam, kulapAliH, kulapAlikA, kulapAlI, kulaputraH, kulaputrI, kulapuruzaH, kulapUrvagaH, kulapUrvakaH, kulaBaraH, kulabIjaH, kulaBAryA, kulaBftyA, kulamaryAdA, kulamArgaH, kulayozit, kulavaDU, kulalakzaRam, kulavAraH, kulavidyA, kulavipraH, kulavfdDaH, kulavrataH, kulavratam, kulaSIlam, kulaSrezWin, kulasaMKyA, kulasaMtatiH, kulasanniDiH, {{kulasaMBavaH,->kulasaMBava,||20260502||https://github.com/sanskrit-lexicon/csl-orig/commit/5f7cee5|}} kulasevakaH, kulastrI, kulasTitiH#}
+.━{@<ab>Comp.</ab>@}: {#kulAkula, kulAkulatiTiH, kulAkulanakzatram, kulAkulavAraH, kulANkuraH, kulANganA, kulANgAraH, kulAcalaH, kulAdriH, kulaparvataH, kulaSElaH, kulAnvita, kulABimAnaH, kulABimAnin, kulAKyA, kulAcAraH, kulakarman, kulaDarmaH, kulAcAryaH, kulaguruH, kulADArakaH, kulApIqaH, kulaSeKaraH, kulAlambin, kuleSvaraH, kulotkawa, kulotpanna, kulodgata, kulodBava, kulodvahaH, kulopadeSaH, kulakajjalaH, kulakaRwakaH, kulakanyakA, kulakanyA, kulakaraH, kulakartf, kulakaraRiH, kulakalaNkaH, kulakalaNkita, kulakzayaH, kulagarimA, kulagiriH, kulaBUBft, kulagfham, kulaGna, kulaja, kulajAta, kulajanaH, kulajAyA, kulatantuH, kulatiTiH, kulatilakaH, kuladIpaH, kuladIpakaH, kuladuhitf, kuladUzaRa, kuladevatA, kulaDana, kulaDarmaH, kulaDArakaH, kulaDuryaH, kulanandana, kulanAyikA, kulanArI, kulanASaH, kulanASanam, kulaparaMparA, kulapatiH, kulapAMsana, kulapAMsukA, kulapAlakam, kulapAliH, kulapAlikA, kulapAlI, kulaputraH, kulaputrI, kulapuruzaH, kulapUrvagaH, kulapUrvakaH, kulaBaraH, kulabIjaH, kulaBAryA, kulaBftyA, kulamaryAdA, kulamArgaH, kulayozit, kulavaDU, kulalakzaRam, kulavAraH, kulavidyA, kulavipraH, kulavfdDaH, kulavrataH, kulavratam, kulaSIlam, kulaSrezWin, kulasaMKyA, kulasaMtatiH, kulasanniDiH, {{kulasaMBavaH,->kulasaMBava,||20260502||https://github.com/sanskrit-lexicon/csl-orig/commit/5f7cee5|}} kulasevakaH, kulastrI, kulasTitiH#}
 <LEND>
 <L>12576.020<pc>0586-2<k1>kulAkula<k2>kulAkula<e>2
 {#kulam#} + {#-akula#}¦ {%<lex>a.</lex>%}
@@ -149709,6 +149709,10 @@
 <LEND>
 
 <L>12576.046<pc>0586-2<k1>kulakarman<k2>kulakarman<e>2
+{{Lbody=12576.044}}
+<LEND>
+
+<L>12576.045<pc>0586-2<k1>kulaDarmaH<k2>kulaDarmaH<e>2
 {{Lbody=12576.044}}
 <LEND>
 

@@ -44526,14 +44526,14 @@ sovereign of the north-west of India or the country about Delhi,
 and ancestor of both PĀṆḌU and DHRITARASHTRA; the patrony-
 mic however derived from his name is most usually applied to the
 sons of the latter. 4. A holy place: see {#kurukzetra#}. 5. Boiled rice. 6.
-Pricklynightshade: see {#kaRwakArikA#}. E. {#kf#} to make, {#ku#} affix, and {#f#}
+Prickly nightshade: see {#kaRwakArikA#}. E. {#kf#} to make, {#ku#} affix, and {#f#}
 becomes. {#u#}.
 <LEND>
 <L>10872<pc>191-a<k1>kurukandaka<k2>kurukandaka
 {#kurukandaka#}¦ n. ({#-kaM#}) Horseradish, (Raphanus sativus.)
 <LEND>
-<L>10873<pc>191-a<k1>kurukzeva<k2>kurukzeva
-{#kurukzeva#}¦ n. ({#-traM#}) The country near Delhi, the scene of the great battle
+<L>10873<pc>191-a<k1>kurukzetra<k2>kurukzetra
+{#kurukzetra#}¦ n. ({#-traM#}) The country near Delhi, the scene of the great battle
 between the Kurus and Pandus. E. {#kuru#} the Kuru race, and {#kzetra#} a
 field.
 <LEND>
@@ -44591,7 +44591,7 @@ Tory grains. E. {#kuru#} the country, and {#vista#} abundant; abounding in
 Kurudesa.
 <LEND>
 <L>10887<pc>191-a<k1>kurUpa<k2>kurUpa
-{#kurUpa#}¦ mfn. ({#-paH-pI-paM#}) Ugly, ill made, deformed. n. ({#-zaM#}) Ugliness. E. {#ku#},
+{#kurUpa#}¦ mfn. ({#-paH-pI-paM#}) Ugly, ill made, deformed. n. ({#-paM#}) Ugliness. E. {#ku#},
 and {#rUpa#} form.
 <LEND>
 <L>10888<pc>191-a<k1>kurUpatA<k2>kurUpatA
