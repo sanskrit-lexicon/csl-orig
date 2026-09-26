@@ -1,0 +1,31 @@
+name: Changelog lint
+
+# Guards the failure class behind Systema-Sanscriticum#793: a single edit
+# anchored on a heading that repeats once per release (`### Added`) fanned one
+# bullet across 52 sections in one commit, unreviewably — every copy was
+# byte-identical to the legitimate one, so no section read as wrong.
+#
+# Deployed by Uprava/tools/cologne_batch_deploy.py (changelog-dupe-guard).
+# The script is a copy of github-spine/changelog_guard/changelog_duplicate_bullets.py —
+# edit it there and re-run the deploy; do not fork it per repo.
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  changelog-duplicate-bullets:
+    name: Changelog — no duplicated entries
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+      - run: python scripts/changelog_duplicate_bullets.py
