@@ -34328,7 +34328,7 @@
 {#kASI-yAtrA#}¦ {%f.%} pilgrimage to Benares.
 <LEND>
 <L>09292<pc>187-07<k1>kASmarI<k2>kASmarI
-{#kASmarI#}¦ {%f.%} A plant commonly called {#gAMBarI#}, {#kASmaryAH kftamAlamudgatadalaM koyazwikazwIkata#} <ls>M.M.</ls>ix.
+{#kASmarI#}¦ {%f.%} A plant commonly called {#{{gAMBarI->gAMBArI||20260721|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/313|}}#}, {#kASmaryAH kftamAlamudgatadalaM koyazwikazwIkata#} <ls>M.M.</ls>ix.
 <LEND>
 <L>09293<pc>187-08<k1>kASmIra<k2>kASmIra<h>1
 {#kASmIra#}¦ {%(I) a. (f. {#rI#})%} Born in or coming from Kāśmīra.
