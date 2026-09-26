@@ -149732,7 +149732,7 @@
 
 <L>12576.054<pc>0586-2<k1>kulApIqaH<k2>kulApIqaH<e>2
 {#kulam#} + {#-ApIqaH, -SeKaraH#}¦ the glory of a family; {#tasminkulApIqaniBe#}
- {#nipIqaM samyagmahIM SAsati SAsanANkAm#} <ls>R. 18. 29</ls>.
+ {#vipIqaM samyagmahIM SAsati SAsanANkAm#} <ls>R. 18. 29</ls>.
 <LEND>
 
 <L>12576.056<pc>0586-2<k1>kulaSeKaraH<k2>kulaSeKaraH<e>2
@@ -304752,7 +304752,7 @@ metre of 4 × 16 short syllables.
 ∙²3 Scale, standard; {#pfTivyAM svAmiBaktAnAM pramARe parame sTitaH#} <ls>Mu. 2. 21</ls>.
 ∙²4 Limit, quantity; {#vaYcayitvA tu rAjAnaM na pramARe'vatizWasi#} <ls>Rām. 2. 37. 22</ls>.
 ∙²5 Testimony, evidence, proof.
-∙²6 A uthority, warrant; one who judges or decides, one whose word
+∙²6 Authority, warrant; one who judges or decides, one whose word
 [Page1101-2]
  is an authority; {#SrutvA devaH pramARam#} <ls>Pt. 1</ls> ‘having heard this your Majesty will decide (what to do)’
 ; {#AryamiSrAH pramARam#} <ls>M. 1</ls>; <ls>Mu. 1. 1</ls>;
