@@ -34976,7 +34976,7 @@
 {#kIra-varRaka#}¦ {%n.%} a kind of perfume.
 <LEND>
 <L>09478<pc>190-27<k1>kIrRa<k2>kIrRa
-{#kIrRa#}¦ {%a. (f. {#rRA#})%} 1. Strewn, scattered, spread; 2. covered; 3. placed, put; 4. injured, (pp. of {#kf#} q.v.).
+{#kIrRa#}¦ {%a. (f. {#rRA#})%} 1. Strewn, scattered, spread; 2. covered; 3. placed, put; 4. injured, (pp. of {#{{kf->kF||20260806|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/340|}}#} q.v.).
 <LEND>
 <L>09478.1<pc>190-27<k1>kIrRA<k2>kIrRA
 {{Lbody=09478}}
@@ -35009,7 +35009,7 @@
 {#kIrti-Seza#}¦ {%m.%} the leaving behind of nothing but fame, death (Cf. {#nAmaSeza#}, {#AleKyaSeza#}).
 <LEND>
 <L>09488<pc>191-01<k1>kIl<k2>kIl
-{#kIl#}¦ {%vt. 1P (pp. {#kIlita#})%} To bind, to pier, to fix.
+{#kIl#}¦ {%vt. 1P (pp. {#kIlita#})%} To bind, to {{pier->pin||20260806|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/340|}}, to fix.
 <LEND>
 <L>09489<pc>191-02<k1>kIla<k2>kIla
 {#kIla#}¦ {%m.%} 1. A wedge, a pin, {#kIlotpAwIva vAnaraH#} <ls>Panch.</ls>i.; 2. a lance; 3. a post, a pillar; 4. the elbow; 5. a blow with the elbow; 6. flame; 7. a minute particle; 8. an epithet of Śiva.

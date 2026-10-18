@@ -150332,7 +150332,7 @@
 {{Lbody=12596}}
 <LEND>
 <L>12596.020<pc>0588-1<k1>kulAyanilAyaH<k2>kulAyanilAyaH<e>2
-{#kulAyaH#} + {#-nilAyaH#}¦ the act of sitting in a nest, hatching, brooding; {#KagakulAya-kulAyanilAyinAm#} <ls>Śi.</ls>
+{#kulAyaH#} + {#-nilAyaH#}¦ the act of sitting in a nest, hatching, brooding; {#KagakulAya kulAyanilAyinAm#} <ls>Śi.</ls>
 <LEND>
 
 <L>12596.022<pc>0588-1<k1>kulAyasTaH<k2>kulAyasTaH<e>2
@@ -150382,8 +150382,8 @@
 ∙²1 A kind of bird, bird (in general); {#AdyaH panTAH kuliNgAnAM ye cAnye#}
  {#DAnyajIvinaH#} <ls>Rām. 4. 58. 24</ls>.
 ∙²2 A kind of mouse.
-∙²3 A sparrow; {#kuliNgaSakunO rAjannIqaM Sirasi cakataH#} <ls>Mb. 12. 261. 20</ls>.
-∙²4 A serpent; {#‘kuliNgo BUmikUzmARqe matNgajaBujaNgayoH’#} <ls>Med.</ls> {#pArAvatakuliNgAkzAH#}
+∙²3 A sparrow; {#kuliNgaSakunO rAjannIqaM Sirasi {{cakataH->cakratuH||20260806|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/340|}}#} <ls>Mb. 12. 261. 20</ls>.
+∙²4 A serpent; {#‘kuliNgo BUmikUzmARqe matiaNgajaBujaNgayoH’#} <ls>Med.</ls> {#pArAvatakuliNgAkzAH#}
  {#sarve SUrAH pramATinaH#} <ls>Mb. 12. 101. 7</ls>.
 <LEND>
 
