@@ -35030,7 +35030,7 @@
 {#kIlAla-pa#}¦ {%m.%} a demon, a goblin.
 <LEND>
 <L>09495<pc>191-05<k1>kIlikA<k2>kIlikA
-{#kIlikA#}¦ {%f.%} the The pin of an axle.
+{#kIlikA#}¦ {%f.%} {{the The->The||20260807|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/342|}} pin of an axle.
 <LEND>
 <L>09496<pc>191-06<k1>kIlita<k2>kIlita
 {#kIlita#}¦ {%a. (f. {#tA#})%} 1. Tied, bound; 2. fixed, infixed, nailed, {#sA naScatesi kIliteva#} <ls>M.M.</ls>v.
