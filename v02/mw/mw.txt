@@ -2122,7 +2122,7 @@
 ¦ water, <ls>RV. i, 34, 4</ls> and <ls n="RV.">i, 164, 42</ls><info lex="inh"/>
 <LEND>
 <L>592<pc>3,3<k1>akzara<k2>a-kza/ra<e>1B
-¦ <chg type="del" n="1" src="mw"><old><bot>Achyranthes Aspera</bot></old></chg><info n="rev" pc="1308,2"/>
+¦ <chg type="del" n="1" src="mw"><old>(<bot>Achyranthes Aspera</bot>)</old></chg><info n="rev" pc="1308,2"/>
 <LEND>
 <L>592.1<pc>1308,2<k1>akzara<k2>a-kzara<e>1B
 <s>a-kzara</s> ¦ (also) <lex>m.</lex> <ab>N.</ab> of a <s1>Sāman</s1>, <ls>ĀrṣBr.</ls><info n="sup"/><info lex="m"/>
