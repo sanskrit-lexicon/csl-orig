@@ -150263,7 +150263,7 @@
 ∙²1 A virtuous woman.
 ∙²2 A small river, canal, stream; {#kulyAmBoBiH pavanacapalEH SAKino DOtamUlAH#}
  <ls>Ś. 1. 15</ls>; {#kulyevodyAnapAdapAn#} <ls>R. 12. 3</ls>, <ls n="R.">7. 49</ls>; <ls>U. 3. 23</ls>, {#SAlyarTaM#}
- {#kulyAH praRIyante#} <ls>Mbh.</ls> on <ls>P. III. 6. 50</ls>.
+ {#kulyAH praRIyante#} <ls>Mbh.</ls> on <ls>P. VI. 1. 50</ls>.
 ∙²3 A dike, trench.
 ∙²4 A measure of grain equal to 8 droṇas.
 <LEND>
@@ -150282,10 +150282,10 @@
 {#kulawaH#} + .{@{#-wA#}@}¦ [{#kulAtkulAntaram awati SakanDvAdi#} <ls>P. VI. 1. 94. Vārt.</ls>]
  An unchaste woman; {#ucCinnASrayakAtareva kulawA gotrAntaraM SrIrgatA#}
  <ls>Mu. 6. 5</ls>; <ls>Y. 1. 215</ls>. {#yaTezwaM cezwante sPuwakucatawAH paSya kulawAH#} <ls>Udb.</ls>
-.━{@<ab>Comp.</ab>@}: {#kulawapatiH#}
+.━{@<ab>Comp.</ab>@}: {#kulawApatiH#}
 <LEND>
-<L>12589.020<pc>0588-1<k1>kulawapatiH<k2>kulawapatiH<e>2
-{#kulawaH#} + {#-patiH#}¦ a cuckold.
+<L>12589.020<pc>0588-1<k1>kulawApatiH<k2>kulawApatiH<e>2
+{#kulawA#} + {#-patiH#}¦ a cuckold.
 <LEND>
 
 

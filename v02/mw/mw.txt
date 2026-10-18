@@ -14064,7 +14064,7 @@ but the <s1>Ṛca</s1>s or Vedic hymns, the manes of <s1>Haviṣmat</s1>, and ma
 <s>a/-dvEta</s> ¦ <lex>n.</lex> non-duality<info lex="n"/>
 <LEND>
 <L>3940<pc>19,3<k1>advEta<k2>a/-dvEta<e>1B
-¦ identity of <s1>Brahmā</s1> or of the <s1>Paramātman</s1> or supreme soul with the <s1>Jīvātman</s1> or human soul<info lex="inh"/>
+¦ identity of <s1>Brahmă</s1> or of the <s1>Paramātman</s1> or supreme soul with the <s1>Jīvātman</s1> or human soul<info lex="inh"/>
 <LEND>
 <L>3941<pc>19,3<k1>advEta<k2>a/-dvEta<e>1B
 ¦ identity of spirit and matter<info lex="inh"/>
