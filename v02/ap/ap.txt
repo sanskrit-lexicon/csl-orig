@@ -145116,7 +145116,7 @@
  {#rataye na dIyate#} <ls>Ku. 4. 7</ls>.
 ∙²3 Whether (its correlatives in the sense of ‘or’ being {#kiM, uta, utAho#},
  {#Ahosvit, vA, kiMvA, aTavA#}; see these words).
-.━{@<ab>Comp.</ab>@}: {#kimapi, kimarTa, kimarTam, kimAKya, kimiti, kimu, kimuta, kiNkaTikA, kiNkaraH, kiNkartavyatA, kiNkAryatA, kiNkAraRa, kiNkila, kiNkfte, kiNkzaRa, kiNgotra, kiYca, kiYcana, kiYcit, kiYCandas, kiMtanuH, kintarhi, kintu, kintuGnaH, kindevaH, kindevata, kinnAmaDeya, kinnAman, kinnimitta, kinnimittam, kinnu, kinnuKalu, kimpaca, kimpacAna, kimparAkrama, kimpAka, kimpAkaH, kimpunar, kimpuruzaH, kimprakAram, kimpraBAva, kimBUta, kiMrUpa, kiMvadanti, kiMvadantI, kiMvarAwakaH, kiMvA, kiMvid, kiMvyApAra, kiMSIla, kiMsvit#}
+.━{@<ab>Comp.</ab>@}: {#kimapi, kimarTa, kimarTam, kimAKya, kimiti, kimu, kimuta, kiNkaTikA, kiNkaraH, kiNkartavyatA, kiNkAryatA, kiNkAraRa, kiNkila, kiNkfte, kiNkzaRa, kiNgotra, kiYca, kiYcana, kiYcit, kiYcijjYa, kiYcitkara, kiYcitkAla, kiYcitprARa, kiYcnmAtra, kiYCandas, kiMtanuH, kintarhi, kintu, kintuGnaH, kindevaH, kindevata, kinnAmaDeya, kinnAman, kinnimitta, kinnimittam, kinnu, kinnuKalu, kimpaca, kimpacAna, kimparAkrama, kimpAka, kimpAkaH, kimpunar, kimpuruzaH, kimprakAram, kimpraBAva, kimBUta, kiMrUpa, kiMvadanti, kiMvadantI, kiMvarAwakaH, kiMvA, kiMvid, kiMvyApAra, kiMSIla, kiMsvit#}
 <LEND>
 <L>12241.020<pc>0572-1<k1>kimapi<k2>kimapi<e>2
 {#kim#} + {#-api#}¦ {%<lex>ind.</lex>%}
@@ -145221,25 +145221,45 @@
 
 <L>12241.056<pc>0572-1<k1>kiYcit<k2>kiYcit<e>2
 {#kim#} + {#-cit#}¦ {%<lex>ind.</lex>%} to a certain degree, somewhat, a little; {#kiMcidutkAntaSESavO#}
- <ls>R. 15. 33</ls>, <ls n="R.">2. 46</ls>, <ls n="R.">12. 21</ls>. {#˚jYa#} {%<lex>a.</lex>%} ‘knowing little’, a smatterer.
-[Page0572-2]
- {#˚kara#} {%<lex>a.</lex>%} doing something useful. {#˚kAlaH#} sometime, a little
- time. {#˚prARa#} {%<lex>a.</lex>%} having a little life. {#˚mAtra#} {%<lex>a.</lex>%} only a little.
+ <ls>R. 15. 33</ls>, <ls n="R.">2. 46</ls>, <ls n="R.">12. 21</ls>. 
 <LEND>
 
-<L>12241.058<pc>0572-2<k1>kiYCandas<k2>kiYCandas<e>2
+<L>12241.057<pc>0572-1<k1>kiYcijjYa<k2>kiYcit-jYa<e>3
+{#kim#} + {#-cit#} + {#˚jYa#}¦ {%<lex>a.</lex>%} ‘knowing little’, a smatterer.
+<LEND>
+
+[Page0572-2]
+
+<L>12241.058<pc>0572-1<k1>kiYcitkara<k2>kiYcit-kara<e>3
+{#kim#} + {#-cit#} + {#˚kara#}¦ {%<lex>a.</lex>%} doing something useful. 
+<LEND>
+
+<L>12241.059<pc>0572-1<k1>kiYcitkAla<k2>kiYcit-kAla<e>3
+{#kim#} + {#-cit#} + {#˚kAlaH#}¦ sometime, a little
+ time. 
+<LEND>
+
+<L>12241.060<pc>0572-1<k1>kiYcitprARa<k2>kiYcit-prARA<e>3
+{#kim#} + {#-cit#} + {#˚prARa#}¦ {%<lex>a.</lex>%} having a little life. 
+<LEND>
+
+<L>12241.061<pc>0572-1<k1>kiYcinmAtra<k2>kiYcit-mAtra<e>3
+{#kim#} + {#-cit#} + {#˚mAtra#}¦ {%<lex>a.</lex>%} only a little.
+<LEND>
+
+<L>12241.062<pc>0572-2<k1>kiYCandas<k2>kiYCandas<e>2
 {#kim#} + {#-Candas#}¦ {%<lex>a.</lex>%} conversant with which Veda.
 <LEND>
 
-<L>12241.060<pc>0572-2<k1>kintanuH<k2>kintanuH<e>2
+<L>12241.063<pc>0572-2<k1>kintanuH<k2>kintanuH<e>2
 {#kim#} + {#-tanuH#}¦ a species of spider.
 <LEND>
 
-<L>12241.062<pc>0572-2<k1>kintarhi<k2>kintarhi<e>2
+<L>12241.064<pc>0572-2<k1>kintarhi<k2>kintarhi<e>2
 {#kim#} + {#-tarhi#}¦ {%<lex>ind.</lex>%} how then, but, however.
 <LEND>
 
-<L>12241.064<pc>0572-2<k1>kintu<k2>kintu<e>2
+<L>12241.065<pc>0572-2<k1>kintu<k2>kintu<e>2
 {#kim#} + {#-tu#}¦ {%<lex>ind.</lex>%} but, yet, however, nevertheless; {#avEmi cEnAmanaGeti#}
  {#kiMtu lokApavAdo balavAnmato me#} <ls>R. 14. 43</ls>, <ls n="R.">1. 65</ls>.
 <LEND>

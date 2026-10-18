@@ -34747,8 +34747,8 @@
 <L>09413<pc>188-28<k1>kiMvA<k2>kiMvA
 {#kim-vA#}¦ {%ind.%} 1. a particle of interrogation, {#kiMvA SakuMtaletyasya mAturAKyA#} <ls>Sak.</ls>vii.; 2. whether, or, {#kiM ruzwAsi gajeMdramaMdagamane kiMvA SiSuste patiH#} <ls>Sr.T.</ls>7.
 <LEND>
-<L>09414<pc>188-28<k1>kiMvida<k2>kiMvida
-{#kim-vida#}¦ {%a.%} knowing what.
+<L>09414<pc>188-28<k1>kiMvid<k2>kiMvid
+{#kim-vid#}¦ {%a.%} knowing what.
 <LEND>
 <L>09415<pc>188-28<k1>kiMvyApAra<k2>kiMvyApAra
 {#kim-vyApAra#}¦ {%a.%} following what occupation.
