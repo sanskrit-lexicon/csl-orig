@@ -13636,7 +13636,7 @@
 <div n="1"> 1〉 <lex>adj.</lex> {%von einem nasalen Klange begleitet, durch die Nase klingend%}:
 <div n="2"> a〉 von nasal getrübten Vocalen oder Consonanten, wie sie durch gewisse Lautverbindungen entstehen, <ab>z. B.</ab> das {#la#}, in welches sich {#ma#} und {#na#} vor folgendem {#la#} verwandeln. Diese <is>Anunāsika</is> sollen nach den Vorschriften der PRĀTIŚĀKHYA mit den vereinigten Organen von Nase und Mund hervorgebracht werden, während die nasalen Consonanten und der <is>Anusvāra</is> nur der Nase zugetheilt werden. {#muKanAsikAkaraRo 'nunAsikaH#} <ls>VS. PRĀT. 1,76</ls>. {#nakArasya loparePozmaBAve pUrvastatsTAnAdanunAsikaH svaraH#} <ls>ṚV. PRĀT. 4,35</ls>. <ls n="ṚV. PRĀT. 4,">3</ls>. <ls>AV. PRĀT. 1,27</ls>. <ls n="AV. PRĀT. 1,">36</ls>. <ls>VS. PRĀT. 4,3</ls>. <ls n="VS. PRĀT. 4,">13</ls>. <ls>TAITT. PRĀT. 1,4</ls>. {#muKanAsikAvacano 'nunAsikaH#} <ls>P. 1,1,8</ls>. <ls n="P. 1,">3,2</ls>. <ls n="P.">6,1,126</ls>. <ls n="P.">8,3,2</ls>. <ls n="P. 8,">4,57</ls>.
 <div n="2">— b〉 von nasalen Lauten jeder Art, die nasalen Consonanten nicht ausgenommen, die sonst {#nAsikya#} heissen: {#anunAsiko 'ntyaH#} <ls>ṚV. PRĀT. 1,15</ls>. <ls>VS. PRĀT. 1,90</ls>. <ls>TAITT. PRĀT. 1,4</ls>. <ls>P. 6,4,37</ls>. <ls n="P.">8,4,45</ls>. <ls>VOP. 2,28</ls>.
-<div n="1">— 2〉 {%das Zeichen für den nasalen Nachklang%} ({#\~#}): {#niranunAsika, sAnunAsika#} <ls>VOP. 2,28</ls>.
+<div n="1">— 2〉 {%das Zeichen für den nasalen Nachklang%} ({#~\#}): {#niranunAsika, sAnunAsika#} <ls>VOP. 2,28</ls>.
 <div n="1">— 3〉 [Page1-0207] <lex>n.</lex> {%das Näseln%} (als Fehler der Aussprache): {#nAsikayostvanuzaNge 'nunAsikam#} <ls>ṚV. PRĀT. 14,3</ls>. {#ananunAsikaM paWet#} <ls>SUŚR. 1,13,5</ls>.
 <LEND>
 
