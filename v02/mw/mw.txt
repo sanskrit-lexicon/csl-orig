@@ -489599,8 +489599,8 @@ sometimes he is regarded as the 9th incarnation of <s1>Viṣṇu</s1>, <ls>Hariv
 <L>146102.1<pc>735,3<k1>bfhat<k2>bfha/t<e>2B
 <s>bfha/t</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> (?) speech (<s>˚tAm pati</s> = <s>bfhaspati</s>), <ls>Śiś. ii, 26</ls><info lexcat="LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6"/>
 <LEND>
-<L>146103<pc>735,3<k1>bfhatI<k2>bfha/tI<e>2B
-<s>bfha/tI</s> ¦ (<s>tI</s>), <lex>f.</lex> See <ab>s.v.</ab><info lex="f"/><info hui="a"/>
+<L>146103<pc>735,3<k1>bfhatI<k2>bfhatI/<e>2B
+<s>bfhatI/</s> ¦ (<s>tI</s>), <lex>f.</lex> See <ab>s.v.</ab><info lex="f"/><info hui="a"/>
 <LEND>
 <L>146104<pc>735,3<k1>bfhat<k2>bfha/t<e>2B
 <s>bfha/t</s> ¦ <lex>n.</lex> height (also = heaven, sky), <ls>RV.</ls><info lexcat="LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6"/>

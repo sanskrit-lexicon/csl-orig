@@ -149968,7 +149968,7 @@
 
 <L>12576.150<pc>0587-1<k1>kulapAMsana<k2>kulapAMsana<e>2
 {#kulam#} + {#-pAMsana#}¦ {%<lex>a.</lex>%} one who disgraces oneʼs family; {#ityuktaH sa#}
- {#KalaH pApo BojAnAM kulapAMsanaH#} <ls>Bhāg. 19. 1. 35</ls>.
+ {#KalaH pApo BojAnAM kulapAMsanaH#} <ls>Bhāg. 10. 1. 35</ls>.
 <LEND>
 
 <L>12576.152<pc>0587-1<k1>kulapAMsukA<k2>kulapAMsukA<e>2
@@ -160530,7 +160530,7 @@
 
 <L>13311<pc>0623-1<k1>kzAnta<k2>kzAnta<e>1
 {#kzAnta#}¦ {%<ab>p. p.</ab>%} [{#kzam-kta#}]
-∙²1 Patient, for bearing, enduring.
+∙²1 Patient, forbearing, enduring.
 ∙²2 Forgiven.
 ∙²3 Borne, endured.
 ∙²4 Friendly.
