@@ -150491,8 +150491,8 @@
 <L>12616.002<pc>0588-2<k1>kulPam<k2>kulPam<e>1
 {{Lbody=12616}}
 <LEND>
-<L>12616.004<pc>0588-2<k1>kulPaH<k2>kulPaH,<e>1
-{#kulPaH, -lPam#} + .{@{#-lPaH#}@}¦ The ankle; {#azWIvantO pari kulkO ca dehan#} <ls>Rv. 7. 50. 2</ls>.
+<L>12616.004<pc>0588-2<k1>kulPaH<k2>kulPaH<e>1
+{#kulPaH#}¦ The ankle; {#azWIvantO pari kulPO ca {{dehan->dehat||20260808|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/350|}}#} <ls>Rv. 7. 50. 2</ls>.
 .━{@<ab>Comp.</ab>@}: {#kulPadaGna#}
 <LEND>
 <L>12616.020<pc>0588-2<k1>kulPadaGna<k2>kulPadaGna<e>2

@@ -35822,7 +35822,7 @@
 {#kupinI#}¦ {%f.%} A kind of net for catching small fish.
 <LEND>
 <L>09718<pc>195-06<k1>kupUya<k2>kupUya
-{#kupUya#}¦ {%a. (f. {#yA#})%} Despised mean, contemptible.
+{#kupUya#}¦ {%a. (f. {#yA#})%} Despised, mean, contemptible.
 <LEND>
 <L>09718.1<pc>195-06<k1>kupUyA<k2>kupUyA
 {{Lbody=09718}}
