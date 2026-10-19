@@ -150568,7 +150568,7 @@
 .━{@<ab>Comp.</ab>@}: {#kuvalayAnanda, kuvalayeSaH#}
 <LEND>
 <L>12626.020<pc>0588-2<k1>kuvalayAnanda<k2>kuvalayAnanda<e>2
-{#kuvalayam#} + {#-Ananda#}¦ <ab>N.</ab> of a work on rhetoric by {#appayyA dIkzita#}.
+{#kuvalayam#} + {#-Ananda#}¦ <ab>N.</ab> of a work on rhetoric by {#{{appayyA->appayya||20260810|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/353|}} dIkzita#}.
 <LEND>
 
 <L>12626.022<pc>0588-2<k1>kuvalayeSaH<k2>kuvalayeSaH<e>2
@@ -150577,19 +150577,19 @@
 
 
 [Page0589-1]
-<L>12627<pc>0589-1<k1>kuvalayin<k2>kuvalayin<e>1
-{#kuvalayin#}¦ {%<lex>a.</lex>%} Having blue lotuses. {#saMdfzwAH kuvalayino Buvo#}
- {#viBAgAH#} <ls>U. 1. 31</ls>.
-<LEND>
-
-<L>12628<pc>0589-1<k1>kuvalayita<k2>kuvalayita<e>1
+<L>12627<pc>0589-1<k1>kuvalayita<k2>kuvalayita<e>1
 {#kuvalayita#}¦ {%<lex>a.</lex>%} Furnished with blue lotuses; {#kawAkzErnArIRAM#}
  {#kuvalayitavAtAyanamiva#} <ls>Māl. 2. 11</ls>; <ls>R. 11. 93</ls>.
 <LEND>
 
+<L>12628<pc>0589-1<k1>kuvalayin<k2>kuvalayin<e>1
+{#kuvalayin#}¦ {%<lex>a.</lex>%} Having blue lotuses. {#saMdfzwAH kuvalayino Buvo#}
+ {#viBAgAH#} <ls>U. 1. 31</ls>.
+<LEND>
+
 <L>12629<pc>0589-1<k1>kuvalayinI<k2>kuvalayinI<e>1
 {#kuvalayinI#}¦
-∙²1 The blue water-lily; plant.
+∙²1 The blue water-lily{{;->||20260810|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/353|}} plant.
 ∙²2 An assemblage of lotuses.
 ∙²3 A place abounding in lotuses.
 <LEND>
