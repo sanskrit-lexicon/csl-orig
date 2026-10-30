@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 14-06-2026 · Last updated: 20-09-2026 (H5176 SLA review: CI inventory + fence wording re-verified current)_
+_Created: 14-06-2026 · Last updated: 30-10-2026 (H7474 truth refresh: `guard-backstop` added to CI inventory, all other claims verified current)_
 
 **csl-orig** is the Cologne Digital Sanskrit Dictionaries **data store**.
 Canonical digitised text lives at [`v02/<dict>/<dict>.txt`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02)
@@ -56,6 +56,12 @@ Do not invent a second workflow.
    ([cologne-stardict](https://github.com/sanskrit-lexicon/cologne-stardict),
    [stardict-sanskrit](https://github.com/indic-dict/stardict-sanskrit)).
 5. Dependabot PRs auto-merge when green.
+6. **guard-backstop** — CI backstop for the opt-in `.githooks/pre-commit`
+   guard ([`scripts/install-hooks.sh`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/install-hooks.sh)):
+   encoding guard over **all** canonical sources (scan-all), canonical
+   deletion/rename guard vs the diff base, and the generate_dict pipeline for
+   every touched dictionary; fires on any push/PR touching `v02/**`, the
+   guard scripts, or `.githooks/`.
 
 ## Do not
 
