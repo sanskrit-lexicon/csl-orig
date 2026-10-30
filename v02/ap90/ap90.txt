@@ -182436,7 +182436,7 @@ deer. {@--3@} The fig-tree.
 <LEND>
 <L>21426<pc>0782-a<k1>plavaMgamaH<k2>plavaMgamaH
 {#plavaMgamaH#}¦ {@1@} A monkey; <ls>Śi. 12. 55.</ls>
-{@--2@} A frog. --Comp. {#--iMduH#} an <lbinfo n="epi+thet"/>
+{@--2@} A frog. {@--Comp.@} {#--iMduH#} an <lbinfo n="epi+thet"/>
 epithet of Hanumat.
 <LEND>
 <L>21427<pc>0782-a<k1>plavana<k2>plavana
@@ -270170,7 +270170,7 @@ kidneybean. {%--<ab>m.</ab>%} {%<ab>n.</ab>%} {@1@} Grass. {@--2@} A quarter,
 region. {@--3@} A quarter or point of the
 compass; <ls>R. 3. 30.</ls> {@--4@} Turmeric
 (usually {%<ab>f.</ab>%} only in the last {3}
-senses). --COMP. {#--aMtaH#} the end of the
+senses). {@--Comp.@} {#--aMtaH#} the end of the
 quarters ({#digaMta#}); <ls>Bv. 1. 60.</ls>  <lbinfo n="--aM#taraM"/>
 {#--aMtaraM#} different regions, various <lbinfo n="quar+ters"/>
 quarters; <ls>Bv. 1. 15.</ls> {#--aSvaH#}  the sun;
