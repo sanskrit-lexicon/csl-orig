@@ -42,6 +42,10 @@ dictionary's generated XML and every reader-facing site at once. The batching
 discipline is the load-bearing safety mechanism, not a formality. The full
 procedure is documented in the canonical
 [csl-corrections correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+Readers who just want to report a typo never need to touch this repository —
+start instead at a dictionary repository's "Join the proofreading" section
+(pilot: [MWS](https://github.com/sanskrit-lexicon/MWS#join-the-proofreading))
+or the [csl-guides report-a-typo page](https://sanskrit-lexicon.github.io/csl-guides/contributing/report-a-typo).
 
 > Note: this read-only-for-direct-pushes rule governs **dictionary text
 > corrections**. Ordinary repository-maintenance content (this README, CI
