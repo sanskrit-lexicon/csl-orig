@@ -1,6 +1,6 @@
 # csl-orig
 
-_Created: 14-06-2026 · Last updated: 11-07-2026_
+_Created: 06-05-2026 · Last updated: 05-11-2026_
 
 **csl-orig is the canonical source-text store for the Cologne Digital Sanskrit
 Dictionaries (CDSL)** — the single git-tracked home for the plain-text bodies of
@@ -8,9 +8,9 @@ every dictionary the project publishes: [PWG](https://github.com/sanskrit-lexico
 (Petersburger Wörterbuch, large), PW (small), [MWS](https://github.com/sanskrit-lexicon/MWS)
 (Monier-Williams), PWK (Böhtlingk's shorter edition), GRA (Grassmann's
 Rig-Veda dictionary), AP90 (Apte 1890), FRI (Frisch's reader), and dozens more
-— currently **45 dictionary subfolders** under
+— currently **46 dictionary subfolders** under
 [v02/](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02), from `abch`
-to `snp` and beyond.
+to `yat`.
 
 Every downstream artifact — the generated XML, the web front-ends
 ([csl-websanlexicon](https://github.com/sanskrit-lexicon/csl-websanlexicon)),
@@ -87,7 +87,7 @@ v02/
     ...             per-dictionary auxiliary files (varies by dict)
 ```
 
-45 dictionary directories currently exist under
+46 dictionary directories currently exist under
 [v02/](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02), including
 [abch](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02/abch),
 [ap90](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02/ap90),
@@ -110,7 +110,7 @@ parent org actively maintains tooling for.
 
 Issues are tracked against the
 [Cologne issue taxonomy](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md).
-As of 11-07-2026: **30 open, 2777 closed**. The overwhelming bulk of closed work
+As of 05-11-2026: **33 open, 2783 closed**. The overwhelming bulk of closed work
 sits under the **Digitization Quality** milestone (2709 closed); **Structured
 Data** (43 closed) and **Major Enhancements** (14 closed) hold the rest, with a
 small tail of legacy date-labelled milestones. Recent commit activity is
