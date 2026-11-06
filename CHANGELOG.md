@@ -1,4 +1,4 @@
-_Created: 30-06-2026 · Last updated: 06-09-2026_
+_Created: 30-06-2026 · Last updated: 06-11-2026_
 
 # Changelog
 
@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+### Audited (nightly bug hunt)
+- **Bug hunt 06-11-2026** ([`BUGHUNT-FINDINGS-csl-orig-06.11.2026.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/BUGHUNT-FINDINGS-csl-orig-06.11.2026.md)): 0 HIGH · 1 MEDIUM · 3 LOW over the code surface (`scripts/`, `.githooks/`, `.github/workflows/`). MEDIUM: shell-injection shape (unenv-routed `${{ }}` interpolation) + unpinned floating-tag `tj-actions/changed-files@v47` in the StarDict sync workflow. LOW: malformed bot commit email (`drdhaval2785gmail.com`, missing `@`), `git diff --quiet` gates blind to untracked files in the weekly hwnorm1 pipeline, and CI `ack-deletion:` lines truncating multi-path acks to the first path. Secret sweep clean; guard suite 10/10 green; no auto-fix (nothing HIGH), no GTD row.
 
 ### Fixed
 - **Generate-dict guard now fails on a nonzero pipeline exit** (H4227, H3487
