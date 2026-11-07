@@ -63395,7 +63395,7 @@ theme: {#cirakAmyam#} (?), <div n="xe">{%to ride one's h.:%}</div> <div n="xs">{
 <LEND>
 
 <L>11063<pc>347<k1>hobsons choice<k2>hobsons choice
-{@HOBSON'S CHOICE:@}¦ {#......BftyABiruciH#} (??).
+{@HOBSON'S CHOICE:@}¦ ......{#BftyABiruciH#} (??).
 <LEND>
 
 <L>11064<pc>347<k1>hock<k2>hock
