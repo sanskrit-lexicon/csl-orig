@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 14-06-2026 · Last updated: 30-10-2026 (H7474 truth refresh: `guard-backstop` added to CI inventory, all other claims verified current)_
+_Created: 14-06-2026 · Last updated: 07-11-2026 (H4575 trigger precision: encoding-guard also fires on `scripts/check_encoding.py` and its own YAML; guard-backstop inventory from H7474)_
 
 **csl-orig** is the Cologne Digital Sanskrit Dictionaries **data store**.
 Canonical digitised text lives at [`v02/<dict>/<dict>.txt`](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02)
@@ -45,8 +45,10 @@ Do not invent a second workflow.
 
 1. **encoding-guard** — BOM / invalid-UTF-8 gate
    ([`scripts/check_encoding.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_encoding.py));
-   fires on any push/PR touching `v02/**/*.txt`. A red run means the source
-   bytes are broken — fix locally, never patch on `main`.
+   fires on any push/PR touching `v02/**/*.txt` or the guard script itself
+   (push also triggers on `scripts/check_encoding.py` and this workflow's own
+   YAML). A red run means the source bytes are broken — fix locally, never
+   patch on `main`.
 2. **Generate Dictionary** — manual (`workflow_dispatch`) per-dictionary
    regeneration through csl-pywork templates; uploads `pywork/` + `web/`
    artifacts.
