@@ -155,6 +155,13 @@ git -C "$FIX" add v02/td2/td2.txt
 printf '<L>7<k1>g\nvalid worktree bytes\n<LEND>\n' > "$FIX/v02/td2/td2.txt"
 expect_fail "S7 O10 hook fires after move" "invalid UTF-8"
 
+# ── S8: non-dict project dir under v02/ must not false-fail the guard ────────
+note "S8 non-dict v02 dir — a dir with no canonical <dict>.txt passes"
+mkdir -p "$FIX/v02/etymology_stats"
+printf '# analysis tooling, not a dictionary source\n' > "$FIX/v02/etymology_stats/stats_tool.py"
+git -C "$FIX" add v02/etymology_stats/stats_tool.py
+expect_pass "S8 non-dict v02 dir passes (no canonical <dict>.txt)"
+
 # ── Verdict ──────────────────────────────────────────────────────────────────
 printf '\n'
 if [ "$FAILED" -eq 0 ]; then

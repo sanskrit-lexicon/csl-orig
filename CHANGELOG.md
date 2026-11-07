@@ -1,4 +1,4 @@
-_Created: 30-06-2026 · Last updated: 06-11-2026_
+_Created: 30-06-2026 · Last updated: 07-11-2026_
 
 # Changelog
 
@@ -19,6 +19,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   pipeline that died without emitting its red marker passed as "OK: no red
   lines". The status is now captured and the hook fails on nonzero exit OR
   red lines, printing which of the two fired.
+- **Generate-dict guard failure path now shows the pipeline's own output**
+  (H3631 audit G1, on top of H4227): on a nonzero exit or red-line hit,
+  [`scripts/check_generate_dict.sh`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_generate_dict.sh) now prints the last 40 lines of its ANSI-stripped output
+  before the red-line summary — a crash that died without emitting its error
+  marker still shows why it died.
+- **Encoding guard no longer false-fails on non-dictionary dirs under v02/**
+  (H3631 fix pass 07-11): `scripts/check_encoding.py` required a canonical
+  `<dict>.txt` in the index for every `v02/<dir>/` carrying staged files, but
+  `v02/etymology_stats/` is analysis tooling with no dict source — every
+  commit staging its files (e.g. any merge bringing them in) failed
+  spuriously. A dir with no canonical source in the index is now skipped with
+  a note; unacked deletions/renames of real canonical sources remain covered
+  by the stage-0 deletion guard, and suite scenario S8 pins the regression.
 
 ### Added
 - Canonical deletion/rename guard ([`scripts/check_deletions.sh`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_deletions.sh)): deleting or renaming a `v02/<dict>/<dict>.txt` source now fails the commit unless explicitly acknowledged (`CSL_ORIG_ACK_DELETION`, or `ack-deletion:` lines in CI) — H3632 finding O3/O4
