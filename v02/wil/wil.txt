@@ -342541,7 +342541,7 @@ A sister or near female relative.
 .²4 Air, breathed through the nostrils, snoring.
 .²5 Sound in general.
 <ab>E.</ab>
-{#stara#} to sound, {#ac#} <ab>aff.</ab>
+{#svara#} to sound, {#ac#} <ab>aff.</ab>
 <LEND>
 <L>43645<pc>962<k1>svarapattana<k2>svarapattana
 {#svarapattana#}¦
@@ -343948,7 +343948,7 @@ A virtuous woman, one attached solely to her husband.
 .²2 To be diseased.
 .²3 To pain or torture.
 <div n="p">With {#sam#} prefixed, in an intransitive sense, the verb becomes deponent,
-({#sesvarate#})
+({#saMsvarate#})
 It sounds.
 <LEND>
 <L>43828<pc>966<k1>svF<k2>svF

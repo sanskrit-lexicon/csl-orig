@@ -32,34 +32,42 @@ jobs:
   backstop:
     runs-on: ubuntu-latest
 
+    # Sibling layout required by scripts/check_generate_dict.sh and the
+    # generate_dict.sh pipeline (same layout as generate-dict.yml). Every repo
+    # is checked out under sanskrit-lexicon/ so they are true siblings — a bare
+    # `path: csl-pywork` would nest it INSIDE csl-orig (the workspace root).
+    #   sanskrit-lexicon/csl-orig  sanskrit-lexicon/csl-pywork
+    #   sanskrit-lexicon/csl-websanlexicon  sanskrit-lexicon/hwnorm1
+    defaults:
+      run:
+        working-directory: sanskrit-lexicon/csl-orig
+
     steps:
       - name: Checkout csl-orig (full history — stage 1b diffs against the base)
         uses: actions/checkout@v7
         with:
+          path: sanskrit-lexicon/csl-orig
           fetch-depth: 0
 
-      # Sibling layout required by scripts/check_generate_dict.sh and the
-      # generate_dict.sh pipeline (same layout as generate-dict.yml):
-      #   <workspace>/csl-orig  <workspace>/csl-pywork  <workspace>/csl-websanlexicon
       - name: Checkout csl-pywork
         uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/csl-pywork
-          path: csl-pywork
+          path: sanskrit-lexicon/csl-pywork
           fetch-depth: 1
 
       - name: Checkout csl-websanlexicon
         uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/csl-websanlexicon
-          path: csl-websanlexicon
+          path: sanskrit-lexicon/csl-websanlexicon
           fetch-depth: 1
 
       - name: Checkout hwnorm1
         uses: actions/checkout@v7
         with:
           repository: sanskrit-lexicon/hwnorm1
-          path: hwnorm1
+          path: sanskrit-lexicon/hwnorm1
           fetch-depth: 1
 
       - uses: actions/setup-python@v7

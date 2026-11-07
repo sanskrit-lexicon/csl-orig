@@ -23,9 +23,15 @@ Run from anywhere: `python scripts/check_encoding.py`.
 
 Pre-commit (`--staged`) mode validates the STAGED blobs (`git show :v02/...`),
 never the worktree bytes, so a partial `git add -p` staging cannot commit
-content that was never checked. If a canonical `v02/<dict>/<dict>.txt` is
-absent from the index (deleted/renamed away without an ack), that is a
-failure — not a silent skip.
+content that was never checked.
+
+A directory under `v02/` that has NO canonical `<dict>.txt` in the index is
+skipped with a note, not failed: it is either a non-dictionary project dir
+(e.g. `v02/etymology_stats/` — analysis tooling with no dict source in
+`<L>/<LEND>` format), or the canonical source is being deleted/renamed away
+in this very commit — that path is vetted by the stage-0 deletion guard
+(`scripts/check_deletions.sh --cached`), which fails closed unless explicitly
+acknowledged. Either way there is no canonical source to encode-check here.
 """
 import os, subprocess, sys
 sys.stdout.reconfigure(encoding='utf-8')
@@ -53,7 +59,6 @@ def staged_bytes(relpath):
 
 
 files = []
-bad_missing = []   # canonical sources missing from the index (staged mode only)
 if args:
     # Pre-commit mode: filenames of staged files are passed as arguments.
     # Derive the unique dict names from paths like v02/<dict>/... and check
@@ -69,7 +74,13 @@ if args:
         if STAGED:
             data, err = staged_bytes(rel)
             if err is not None:
-                bad_missing.append(f'{d} ({rel} not in the index: {err})')
+                # No canonical source in the index for this dir: either the
+                # dir is not a dictionary dir at all (no <dict>.txt ever
+                # existed — e.g. v02/etymology_stats/), or the canonical
+                # source is being deleted/renamed in this commit, which the
+                # stage-0 deletion guard already vetted (fails closed unless
+                # acknowledged). Nothing in canonical format to check: skip.
+                print(f'note: no canonical source in the index for {d}/ — nothing to encode-check')
                 continue
             files.append((d, rel, data))
         else:
@@ -114,9 +125,6 @@ for name, p, data in files:
 
 print(f'checked {len(files)} canonical dict sources under v02/')
 fail = False
-if bad_missing:
-    fail = True
-    print(f'FAIL: canonical source missing from the index in: {"; ".join(bad_missing)}')
 if bad_bom:
     fail = True
     print(f'FAIL: UTF-8 BOM found in: {", ".join(bad_bom)}')

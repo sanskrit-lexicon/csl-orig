@@ -14064,7 +14064,7 @@ but the <s1>Ṛca</s1>s or Vedic hymns, the manes of <s1>Haviṣmat</s1>, and ma
 <s>a/-dvEta</s> ¦ <lex>n.</lex> non-duality<info lex="n"/>
 <LEND>
 <L>3940<pc>19,3<k1>advEta<k2>a/-dvEta<e>1B
-¦ identity of <s1>Brahmā</s1> or of the <s1>Paramātman</s1> or supreme soul with the <s1>Jīvātman</s1> or human soul<info lex="inh"/>
+¦ identity of <s1>Brahmă</s1> or of the <s1>Paramātman</s1> or supreme soul with the <s1>Jīvātman</s1> or human soul<info lex="inh"/>
 <LEND>
 <L>3941<pc>19,3<k1>advEta<k2>a/-dvEta<e>1B
 ¦ identity of spirit and matter<info lex="inh"/>
@@ -174474,7 +174474,7 @@ his <ab>N.</ab> <s1>Kārttikeya</s1> may be derived from his foster mothers or f
 <s>kiraRa—pati</s> ¦ <lex>m.</lex> ‘the lord of rays’, the sun, <ls>VarBṛS.</ls><info lex="m"/>
 <LEND>
 <L>50502<pc>283,3<k1>kiraRapARi<k2>kiraRa—pARi<e>3
-<s>kiraRa—pARi</s> ¦ <lex>m.</lex> ‘whose hands are rays’, she sun, <ls>ṢaḍvBr.</ls><info lex="m"/>
+<s>kiraRa—pARi</s> ¦ <lex>m.</lex> ‘whose hands are rays’, the sun, <ls>ṢaḍvBr.</ls><info lex="m"/>
 <LEND>
 <L>50503<pc>283,3<k1>kiraRamaya<k2>kiraRa—maya<e>3
 <s>kiraRa—maya</s> ¦ <lex>mfn.</lex> radiant, bright.<info lex="m:f:n"/>
@@ -489599,8 +489599,8 @@ sometimes he is regarded as the 9th incarnation of <s1>Viṣṇu</s1>, <ls>Hariv
 <L>146102.1<pc>735,3<k1>bfhat<k2>bfha/t<e>2B
 <s>bfha/t</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> (?) speech (<s>˚tAm pati</s> = <s>bfhaspati</s>), <ls>Śiś. ii, 26</ls><info lexcat="LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6"/>
 <LEND>
-<L>146103<pc>735,3<k1>bfhatI<k2>bfha/tI<e>2B
-<s>bfha/tI</s> ¦ (<s>tI</s>), <lex>f.</lex> See <ab>s.v.</ab><info lex="f"/><info hui="a"/>
+<L>146103<pc>735,3<k1>bfhatI<k2>bfhatI/<e>2B
+<s>bfhatI/</s> ¦ (<s>tI</s>), <lex>f.</lex> See <ab>s.v.</ab><info lex="f"/><info hui="a"/>
 <LEND>
 <L>146104<pc>735,3<k1>bfhat<k2>bfha/t<e>2B
 <s>bfha/t</s> ¦ <lex>n.</lex> height (also = heaven, sky), <ls>RV.</ls><info lexcat="LEXID=prap,STEM=bfhat,ROOTCLASS=bfh-6"/>

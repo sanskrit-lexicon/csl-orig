@@ -2,7 +2,8 @@
 # scripts/check_generate_dict.sh
 # Pre-commit hook: for each dict with staged changes under v02/<dict>/,
 # runs the full generate_dict.sh pipeline from ../csl-pywork/v02 and
-# fails if any red-line (ANSI \033[31m) output is produced.
+# fails if the pipeline exits nonzero OR produces red-line (ANSI \033[31m)
+# output.
 #
 # Called by pre-commit with the list of staged file paths as arguments
 # (pass_filenames: true).  The outdir convention matches the project:
@@ -44,6 +45,26 @@ if [ "${#dicts[@]}" -eq 0 ]; then
     # Nothing under v02/<dict>/ was staged — nothing to do.
     exit 0
 fi
+# H3631 fix pass 07-11: a v02/ dir with no canonical <dict>.txt in the index
+# is either a non-dictionary project dir (e.g. v02/etymology_stats/ —
+# analysis tooling, not a dict source), or its canonical source is being
+# deleted/renamed away in this commit — the latter is vetted by the stage-0
+# deletion guard (check_deletions.sh --cached), which fails closed unless
+# acknowledged. Either way there is no dict pipeline to run: skip.
+real_dicts=()
+for d in "${dicts[@]}"; do
+    if git -C "$REPO_ROOT" ls-files --error-unmatch -- "v02/$d/$d.txt" > /dev/null 2>&1; then
+        real_dicts+=("$d")
+    else
+        echo "note: no canonical source in the index for $d/ — nothing to generate-check"
+        continue
+    fi
+done
+if [ "${#real_dicts[@]}" -eq 0 ]; then
+    # All staged v02 dirs were filtered out (no canonical sources) — nothing to do.
+    exit 0
+fi
+dicts=("${real_dicts[@]}")
 
 # ---------------------------------------------------------------------------
 # Partial-staging guard: the pipeline reads WORKTREE bytes, while the commit
@@ -86,20 +107,36 @@ for dict in "${dicts[@]}"; do
 
     # Run the full pipeline; capture stdout+stderr (ANSI codes are always
     # emitted by generate_dict.sh regardless of tty status).
-    pipeline_output=$(cd "$PYWORK_V02" && sh generate_dict.sh "$dict" "$outdir_rel" 2>&1) || true
+    # H4227 O1: the exit status is no longer discarded. A pipeline that dies
+    # without producing red output (crash before any stage marker, missing
+    # interpreter, etc.) must fail the hook exactly like a red-lined run;
+    # `set -e` is deliberately not set, so the assignment below cannot abort
+    # the script and $? reliably holds the pipeline status.
+    pipeline_output=$(cd "$PYWORK_V02" && sh generate_dict.sh "$dict" "$outdir_rel" 2>&1)
+    pipeline_status=$?
 
     # Detect red lines: generate_dict.sh marks errors with \033[31m ... \033[0m
     red_lines=$(printf '%s\n' "$pipeline_output" | grep -F $'\033[31m' || true)
 
-    if [ -n "$red_lines" ]; then
-        echo "FAIL: generate_dict.sh produced error (red) output for '$dict':"
+    if [ "$pipeline_status" -ne 0 ] || [ -n "$red_lines" ]; then
+        echo "FAIL: generate_dict.sh failed for '$dict' (exit status $pipeline_status):"
         echo "------"
-        # Strip ANSI codes for cleaner display in pre-commit's output
-        printf '%s\n' "$red_lines" | sed $'s/\033\\[[0-9;]*m//g'
+        # H3631 G1: show the stripped tail of the pipeline output too, so a
+        # crash that died without emitting its red error marker still shows
+        # why it died.  Red lines remain the precise diagnostic on top of it.
+        printf '%s\n' "$pipeline_output" | sed $'s/\033\\[[0-9;]*m//g' | tail -40
+        echo "------"
+        if [ -n "$red_lines" ]; then
+            echo "Error (red) lines detected:"
+            # Strip ANSI codes for cleaner display in pre-commit's output
+            printf '%s\n' "$red_lines" | sed $'s/\033\\[[0-9;]*m//g'
+        else
+            echo "(no red-line output — the pipeline exited without emitting its error marker)"
+        fi
         echo "------"
         overall_exit=1
     else
-        echo "OK: no red lines for '$dict'."
+        echo "OK: generate_dict.sh passed for '$dict' (exit status 0, no red lines)."
     fi
 done
 
