@@ -1,3 +1,5 @@
+_Created: 09-01-2020 · Last updated: 05-09-2026_
+
 The Vedaweb project at Cologne (https://vedaweb.uni-koeln.de/) has added Greek text to Grassman dictionary.
 This subdirectory devoted to importing these into gra.txt.
 
@@ -52,3 +54,5 @@ cp temp_new_gra.txt ../gra.txt
 Change csl-pywork/v02/makotemplates/pywork/one.dtd accordingly.
 
 Then remake gra.
+
+_Dr. Mārcis Gasūns_

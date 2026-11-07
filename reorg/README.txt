@@ -1,4 +1,8 @@
 
+TOMBSTONE 29-08-2026: reorg1.sh and reorg1_all.sh (deleted; see git history and PR for H3640) automated the
+v00/csl-data -> v02/ reorganization described below, which completed years ago; the scripts were broken as shipped
+(${dictlo^^} dies under sh, cd ../ assumed cwd=reorg/, and their v00/csl-data source no longer exists), so they are removed.
+
 11-04-2019
 This describes a reorganization of the csl-orig repository.
 For each dictionary xxx, there are two important data files:

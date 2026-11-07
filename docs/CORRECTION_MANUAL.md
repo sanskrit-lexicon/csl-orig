@@ -53,8 +53,11 @@ python diff_to_changes_dict.py temp_<dict>_0.txt temp_<dict>_1.txt change_<dict>
 ```
 
 Local safety net (install once per clone): `sh scripts/install-hooks.sh` —
-the pre-commit hook then runs the encoding guard + a `generate_dict.sh`
-smoke-test on every staged `v02/` file (§4).
+sets `git config core.hooksPath .githooks` (relative, survives clone moves);
+the pre-commit hook then runs the deletion guard + encoding guard + a
+`generate_dict.sh` smoke-test on every staged `v02/` file (§4). Fresh or
+hook-less clones are gated anyway by the CI backstop
+(`guard-backstop.yml`).
 
 ## 2. Data-flow diagram
 
@@ -152,10 +155,13 @@ Stardict/JSON mirrors. Not an operator step unless you run a server.
 
 | Piece | What it does |
 |---|---|
-| [scripts/install-hooks.sh](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/install-hooks.sh) | One-time per clone: wires `hooks/pre-commit` into git |
-| [hooks/pre-commit](https://github.com/sanskrit-lexicon/csl-orig/blob/main/hooks/pre-commit) | On staged `v02/` files: encoding guard + full `generate_dict.sh` smoke-test (fails on red output; hard-blocks if csl-pywork isn't a sibling) |
-| [scripts/check_encoding.py](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_encoding.py) | BOM / invalid-UTF-8 / `<L>`↔`<LEND>` balance check on canonical `<dict>.txt` files (aux files deliberately excluded — some are legitimately non-UTF-8). Born from the BOM postmortem (csl-pywork #50/#51) |
+| [scripts/install-hooks.sh](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/install-hooks.sh) | One-time per clone: `git config core.hooksPath .githooks` (relative path — survives clone moves; removes any legacy dangling symlink) |
+| [.githooks/pre-commit](https://github.com/sanskrit-lexicon/csl-orig/blob/main/.githooks/pre-commit) | On staged `v02/` files: canonical deletion guard + encoding guard (against the **staged blobs**, so partial staging cannot commit unchecked content) + full `generate_dict.sh` smoke-test (fails on red output; hard-blocks if csl-pywork isn't a sibling; refuses staged-vs-worktree drift) |
+| [scripts/check_encoding.py](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_encoding.py) | BOM / invalid-UTF-8 / `<L>`↔`<LEND>` structural check (incl. zero-`<LEND>`) on canonical `<dict>.txt` files — worktree bytes in scan-all mode, staged blobs under `--staged` (aux files deliberately excluded — some are legitimately non-UTF-8). Born from the BOM postmortem (csl-pywork #50/#51) |
+| [scripts/check_deletions.sh](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_deletions.sh) | Deletion/rename guard: fails when a canonical `<dict>.txt` is deleted/renamed away unless `CSL_ORIG_ACK_DELETION` acknowledges it |
 | [scripts/check_generate_dict.sh](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_generate_dict.sh) | The hook's second stage: per staged dict, run the pipeline and fail on ANSI-red lines |
+| [scripts/test_pre_commit_guard.sh](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/test_pre_commit_guard.sh) | Scenario suite for the guard: partial staging / deletion / rename / zero-`<LEND>` / clone-move, in a throwaway mini-clone |
+| [.github/workflows/guard-backstop.yml](https://github.com/sanskrit-lexicon/csl-orig/blob/main/.github/workflows/guard-backstop.yml) | CI backstop replicating both hook stages, so hook-less clones are still gated on every `v02/`-touching push/PR |
 
 Layout notes: [v02/](https://github.com/sanskrit-lexicon/csl-orig/tree/main/v02)
 = the live corpus (45 dictionary dirs, each `<dict>.txt` + auxiliary files);
@@ -210,8 +216,10 @@ the correction workflow.
   markup/text fixes → this workflow; print errors → also `printchange.txt`;
   link targets → the per-dict `lsfix2.py` pipeline; headword normalization →
   hwnorm1/2; display bugs → csl-websanlexicon; pipeline bugs → csl-pywork.
-- **Observed state** (11-07-2026): the hooks are opt-in (`install-hooks.sh`)
-  — a fresh clone has no safety net until it is run; `v00/` and `reorg/`
+- **Observed state** (28-08-2026): the hooks are opt-in (`install-hooks.sh`)
+  — a fresh clone has no local net until it is run, but the CI backstop
+  (`guard-backstop.yml`) now replicates both stages on every `v02/`-touching
+  push/PR; `v00/` and `reorg/`
   are historical and unlabelled as such in-tree (this manual is now the
   label). No script defects found — the tooling here is deliberately
   minimal, with the heavy machinery living in csl-pywork.

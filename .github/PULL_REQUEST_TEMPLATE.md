@@ -1,3 +1,5 @@
+_Created: 29-05-2026 · Last updated: 05-09-2026_
+
 ## Description
 Brief description of what this PR changes and why.
 
@@ -22,3 +24,5 @@ Closes #(issue number)
 - [ ] Documentation updated (if needed)
 - [ ] No new warnings generated
 - [ ] Commit message(s) are clear and concise
+
+_Dr. Mārcis Gasūns_

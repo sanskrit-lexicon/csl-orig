@@ -1,6 +1,8 @@
+_Created: 26-06-2026 · Last updated: 05-09-2026_
+
 # PWG / PW (German Petersburg) derivation extractor
 
-[`analyze_pwg_etymology.py`](analyze_pwg_etymology.py) mines the derivation notes
+[`analyze_pwg_etymology.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/pwg/analyze_pwg_etymology.py) mines the derivation notes
 of the German Petersburg dictionaries PWG (großes PW) and PW (kürzere Fassung).
 They mark derivation in German prose with the source word in SLP1:
 
@@ -21,7 +23,7 @@ python analyze_pwg_etymology.py ../pw/pw.txt   # PW too
 * the source must be in `{#..#}` (SLP1) — proper-name epithets ("von
   <is>Viṣṇu</is>") are in `<is>..</is>` and excluded;
 * a lowercase `von` is only kept when its source is a **known dhātu** (validated
-  against [`../etymology_stats/dhatu_roots.txt`](../etymology_stats/dhatu_roots.txt));
+  against [`../etymology_stats/dhatu_roots.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/etymology_stats/dhatu_roots.txt));
   capitalised `Von` and `Wurzel/Stamm` are kept regardless.
 
 Each source is classified `root | affix | prefix | stem/word` via the same dhātu
@@ -31,7 +33,7 @@ list + affix table the other extractors use.
 
 PWG 10,266 derivations · PW 767. Top source roots `kṛ`, `i`, `dhā`, `bhū`, `han`,
 `sthā` — genuine dhātus. PWG feeds the cross-dictionary **root** productivity and
-agreement in [`../etymology_stats/`](../etymology_stats/README.md); PWG↔PW agree
+agreement in [`../etymology_stats/`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/etymology_stats/README.md); PWG↔PW agree
 93% on roots, MW↔PWG 65% (a cross-tradition English/German check).
 
 ## Columns
@@ -39,3 +41,5 @@ agreement in [`../etymology_stats/`](../etymology_stats/README.md); PWG↔PW agr
 `L_id` · `headword` · `headword_slp1` · `source` · `source_slp1` ·
 `source_class` · `is_root` · `source_gloss_de` · `deriv_marker` · `context`.
 TSV committed; jsonl git-ignored.
+
+_Dr. Mārcis Gasūns_

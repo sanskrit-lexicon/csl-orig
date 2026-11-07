@@ -1,6 +1,6 @@
 # CORRECTION_MANUAL.md — metadoc
 
-_Created: 11-07-2026 · Last updated: 11-07-2026_
+_Created: 11-07-2026 · Last updated: 28-08-2026_
 
 Companion record for
 [docs/CORRECTION_MANUAL.md](https://github.com/sanskrit-lexicon/csl-orig/blob/main/docs/CORRECTION_MANUAL.md).
@@ -35,7 +35,7 @@ discipline note (no `v02/` contact).
 
 | # | Item | Status |
 |---|---|---|
-| 1 | Make the safety hooks non-opt-in (CI mirror of `check_encoding.py` + the generate smoke-test on PRs) — today a fresh clone has no net until `install-hooks.sh` runs | open |
+| 1 | Make the safety hooks non-opt-in (CI mirror of `check_encoding.py` + the generate smoke-test on PRs) — today a fresh clone has no net until `install-hooks.sh` runs | **closed 28-08-2026** — [`.github/workflows/guard-backstop.yml`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/.github/workflows/guard-backstop.yml) replicates both hook stages (H3632) |
 | 2 | Label `v00/` and `reorg/` as historical in-tree (a one-line README each) | open |
 | 3 | A queue-lane pointer file in this repo (the `/cologne-correction-queue` + `/cologne-batch-pr` skills live in claude-config; a non-agent contributor has no discoverable path to them from here) | open |
 | 4 | Cross-link this manual from CONTRIBUTING.md | open |
@@ -55,7 +55,7 @@ discipline note (no `v02/` contact).
 - [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md) — the authoritative deep reference (tutorial, tooling table, evidence)
 - [README.md](https://github.com/sanskrit-lexicon/csl-orig/blob/main/README.md) — repo overview + the no-direct-push rationale
 - [CLAUDE.md](https://github.com/sanskrit-lexicon/csl-orig/blob/main/CLAUDE.md) — correction safety + CFR preflight rules
-- [scripts/](https://github.com/sanskrit-lexicon/csl-orig/tree/main/scripts) + [hooks/](https://github.com/sanskrit-lexicon/csl-orig/tree/main/hooks) — the local safety layer
+- [scripts/](https://github.com/sanskrit-lexicon/csl-orig/tree/main/scripts) + [.githooks/](https://github.com/sanskrit-lexicon/csl-orig/tree/main/.githooks) — the local safety layer
 - [Cologne tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) — issue-class ownership
 
 ## Revision history
@@ -63,6 +63,7 @@ discipline note (no `v02/` contact).
 | Date | Change | By |
 |---|---|---|
 | 11-07-2026 | Initial version (H515) | Fable 5 (`claude-fable-5`) |
+| 28-08-2026 | Backlog #1 closed by the guard-backstop CI workflow; §4 tooling table + install path refreshed for `.githooks/` (H3632) | OxAlpha (`opencode/z-ai/glm-5.3-flash`) |
 
 ---
 

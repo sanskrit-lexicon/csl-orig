@@ -1,11 +1,13 @@
+_Created: 26-06-2026 · Last updated: 05-09-2026_
+
 # SKD / VCP Pāṇinian derivation extractor
 
-[`analyze_sktdict_etymology.py`](analyze_sktdict_etymology.py) mines the
+[`analyze_sktdict_etymology.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/skd/analyze_sktdict_etymology.py) mines the
 Pāṇinian **derivation** (vyutpatti) stated inside the entry bodies of the two
 Sanskrit→Sanskrit dictionaries:
 
-* **SKD** — Śabdakalpadruma ([`skd.txt`](skd.txt))
-* **VCP** — Vācaspatyam ([`../vcp/vcp.txt`](../vcp/vcp.txt))
+* **SKD** — Śabdakalpadruma ([`skd.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/skd/skd.txt))
+* **VCP** — Vācaspatyam ([`../vcp/vcp.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/vcp/vcp.txt))
 
 ```sh
 python analyze_sktdict_etymology.py skd.txt          # -> skd_etymology.{tsv,jsonl}
@@ -27,7 +29,7 @@ takes any of them as its argument:
 | KRM | 305 | 100% | Kṛdanta-rūpa-mālā — organised by root, so head-word = dhātu |
 
 Cross-dictionary statistics over all of these (plus WIL) live in
-[`../etymology_stats/`](../etymology_stats/README.md).
+[`../etymology_stats/`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/etymology_stats/README.md).
 
 ## Why a different parser from WIL / Apte
 
@@ -57,7 +59,7 @@ which WIL leaves implicit. It is captured in `karaka` / `karaka_sense`:
 
 The `affix`, `group`, `anubandha`, `anubandha_steps`, `affix_source` columns come
 straight from the WIL analyser's machinery, imported from
-[`../wil/analyze_wil_etymology.py`](../wil/analyze_wil_etymology.py) (which itself
+[`../wil/analyze_wil_etymology.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/analyze_wil_etymology.py) (which itself
 reuses the canonical `affix_map.tsv` mined from Apte Sanskrit–Hindi, plus the WIL
 supplement and a generic it-letter decoder). One owner for the affix data across
 WIL, SKD and VCP.
@@ -107,3 +109,5 @@ affix and anubandha are still extracted.
 * **Teaching** — "√root + kāraka → affix → word" cards with `anubandha_steps`.
 * **Root-frequency / productivity** across the Sanskrit lexicographic tradition.
 * **Seeding a derivation layer** for SKD/VCP that they never had as markup.
+
+_Dr. Mārcis Gasūns_

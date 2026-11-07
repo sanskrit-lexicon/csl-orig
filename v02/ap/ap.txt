@@ -145116,7 +145116,7 @@
  {#rataye na dIyate#} <ls>Ku. 4. 7</ls>.
 ∙²3 Whether (its correlatives in the sense of ‘or’ being {#kiM, uta, utAho#},
  {#Ahosvit, vA, kiMvA, aTavA#}; see these words).
-.━{@<ab>Comp.</ab>@}: {#kimapi, kimarTa, kimarTam, kimAKya, kimiti, kimu, kimuta, kiNkaTikA, kiNkaraH, kiNkartavyatA, kiNkAryatA, kiNkAraRa, kiNkila, kiNkfte, kiNkzaRa, kiNgotra, kiYca, kiYcana, kiYcit, kiYCandas, kiMtanuH, kintarhi, kintu, kintuGnaH, kindevaH, kindevata, kinnAmaDeya, kinnAman, kinnimitta, kinnimittam, kinnu, kinnuKalu, kimpaca, kimpacAna, kimparAkrama, kimpAka, kimpAkaH, kimpunar, kimpuruzaH, kimprakAram, kimpraBAva, kimBUta, kiMrUpa, kiMvadanti, kiMvadantI, kiMvarAwakaH, kiMvA, kiMvid, kiMvyApAra, kiMSIla, kiMsvit#}
+.━{@<ab>Comp.</ab>@}: {#kimapi, kimarTa, kimarTam, kimAKya, kimiti, kimu, kimuta, kiNkaTikA, kiNkaraH, kiNkartavyatA, kiNkAryatA, kiNkAraRa, kiNkila, kiNkfte, kiNkzaRa, kiNgotra, kiYca, kiYcana, kiYcit, kiYcijjYa, kiYcitkara, kiYcitkAla, kiYcitprARa, kiYcnmAtra, kiYCandas, kiMtanuH, kintarhi, kintu, kintuGnaH, kindevaH, kindevata, kinnAmaDeya, kinnAman, kinnimitta, kinnimittam, kinnu, kinnuKalu, kimpaca, kimpacAna, kimparAkrama, kimpAka, kimpAkaH, kimpunar, kimpuruzaH, kimprakAram, kimpraBAva, kimBUta, kiMrUpa, kiMvadanti, kiMvadantI, kiMvarAwakaH, kiMvA, kiMvid, kiMvyApAra, kiMSIla, kiMsvit#}
 <LEND>
 <L>12241.020<pc>0572-1<k1>kimapi<k2>kimapi<e>2
 {#kim#} + {#-api#}¦ {%<lex>ind.</lex>%}
@@ -145221,25 +145221,45 @@
 
 <L>12241.056<pc>0572-1<k1>kiYcit<k2>kiYcit<e>2
 {#kim#} + {#-cit#}¦ {%<lex>ind.</lex>%} to a certain degree, somewhat, a little; {#kiMcidutkAntaSESavO#}
- <ls>R. 15. 33</ls>, <ls n="R.">2. 46</ls>, <ls n="R.">12. 21</ls>. {#˚jYa#} {%<lex>a.</lex>%} ‘knowing little’, a smatterer.
-[Page0572-2]
- {#˚kara#} {%<lex>a.</lex>%} doing something useful. {#˚kAlaH#} sometime, a little
- time. {#˚prARa#} {%<lex>a.</lex>%} having a little life. {#˚mAtra#} {%<lex>a.</lex>%} only a little.
+ <ls>R. 15. 33</ls>, <ls n="R.">2. 46</ls>, <ls n="R.">12. 21</ls>. 
 <LEND>
 
-<L>12241.058<pc>0572-2<k1>kiYCandas<k2>kiYCandas<e>2
+<L>12241.057<pc>0572-1<k1>kiYcijjYa<k2>kiYcit-jYa<e>3
+{#kim#} + {#-cit#} + {#˚jYa#}¦ {%<lex>a.</lex>%} ‘knowing little’, a smatterer.
+<LEND>
+
+[Page0572-2]
+
+<L>12241.058<pc>0572-1<k1>kiYcitkara<k2>kiYcit-kara<e>3
+{#kim#} + {#-cit#} + {#˚kara#}¦ {%<lex>a.</lex>%} doing something useful. 
+<LEND>
+
+<L>12241.059<pc>0572-1<k1>kiYcitkAla<k2>kiYcit-kAla<e>3
+{#kim#} + {#-cit#} + {#˚kAlaH#}¦ sometime, a little
+ time. 
+<LEND>
+
+<L>12241.060<pc>0572-1<k1>kiYcitprARa<k2>kiYcit-prARA<e>3
+{#kim#} + {#-cit#} + {#˚prARa#}¦ {%<lex>a.</lex>%} having a little life. 
+<LEND>
+
+<L>12241.061<pc>0572-1<k1>kiYcinmAtra<k2>kiYcit-mAtra<e>3
+{#kim#} + {#-cit#} + {#˚mAtra#}¦ {%<lex>a.</lex>%} only a little.
+<LEND>
+
+<L>12241.062<pc>0572-2<k1>kiYCandas<k2>kiYCandas<e>2
 {#kim#} + {#-Candas#}¦ {%<lex>a.</lex>%} conversant with which Veda.
 <LEND>
 
-<L>12241.060<pc>0572-2<k1>kintanuH<k2>kintanuH<e>2
+<L>12241.063<pc>0572-2<k1>kintanuH<k2>kintanuH<e>2
 {#kim#} + {#-tanuH#}¦ a species of spider.
 <LEND>
 
-<L>12241.062<pc>0572-2<k1>kintarhi<k2>kintarhi<e>2
+<L>12241.064<pc>0572-2<k1>kintarhi<k2>kintarhi<e>2
 {#kim#} + {#-tarhi#}¦ {%<lex>ind.</lex>%} how then, but, however.
 <LEND>
 
-<L>12241.064<pc>0572-2<k1>kintu<k2>kintu<e>2
+<L>12241.065<pc>0572-2<k1>kintu<k2>kintu<e>2
 {#kim#} + {#-tu#}¦ {%<lex>ind.</lex>%} but, yet, however, nevertheless; {#avEmi cEnAmanaGeti#}
  {#kiMtu lokApavAdo balavAnmato me#} <ls>R. 14. 43</ls>, <ls n="R.">1. 65</ls>.
 <LEND>
@@ -149631,22 +149651,34 @@
 
 <L>12576.004<pc>0586-1<k1>kulA<k2>kulA<e>1
 {#kulam#} + .{@{#-lA#}@}¦ See {#kulatiTi#}.
-.━{@<ab>Comp.</ab>@}: {#kulAkula, kulANkuraH, kulANganA, kulANgAraH, kulAcalaH, kulAdriH, kulaparvataH, kulaSElaH, kulAnvita, kulABimAnaH, kulABimAnin, kulAKyA, kulAcAraH, kulakarman, kulAcAryaH, kulaguruH, kulADArakaH, kulApIqaH, kulaSeKaraH, kulAlambin, kuleSvaraH, kulotkawa, kulotpanna, kulodgata, kulodBava, kulodvahaH, kulopadeSaH, kulakajjalaH, kulakaRwakaH, kulakanyakA, kulakanyA, kulakaraH, kulakartf, kulakaraRiH, kulakalaNkaH, kulakalaNkita, kulakzayaH, kulagarimA, kulagiriH, kulaBUBft, kulagfham, kulaGna, kulaja, kulajAta, kulajanaH, kulajAyA, kulatantuH, kulatiTiH, kulatilakaH, kuladIpaH, kuladIpakaH, kuladuhitf, kuladUzaRa, kuladevatA, kulaDana, kulaDarmaH, kulaDArakaH, kulaDuryaH, kulanandana, kulanAyikA, kulanArI, kulanASaH, kulanASanam, kulaparaMparA, kulapatiH, kulapAMsana, kulapAMsukA, kulapAlakam, kulapAliH, kulapAlikA, kulapAlI, kulaputraH, kulaputrI, kulapuruzaH, kulapUrvagaH, kulapUrvakaH, kulaBaraH, kulabIjaH, kulaBAryA, kulaBftyA, kulamaryAdA, kulamArgaH, kulayozit, kulavaDU, kulalakzaRam, kulavAraH, kulavidyA, kulavipraH, kulavfdDaH, kulavrataH, kulavratam, kulaSIlam, kulaSrezWin, kulasaMKyA, kulasaMtatiH, kulasanniDiH, {{kulasaMBavaH,->kulasaMBava,||20260502||https://github.com/sanskrit-lexicon/csl-orig/commit/5f7cee5|}} kulasevakaH, kulastrI, kulasTitiH#}
+.━{@<ab>Comp.</ab>@}: {#kulAkula, kulAkulatiTiH, kulAkulanakzatram, kulAkulavAraH, kulANkuraH, kulANganA, kulANgAraH, kulAcalaH, kulAdriH, kulaparvataH, kulaSElaH, kulAnvita, kulABimAnaH, kulABimAnin, kulAKyA, kulAcAraH, kulakarman, kulaDarmaH, kulAcAryaH, kulaguruH, kulADArakaH, kulApIqaH, kulaSeKaraH, kulAlambin, kuleSvaraH, kulotkawa, kulotpanna, kulodgata, kulodBava, kulodvahaH, kulopadeSaH, kulakajjalaH, kulakaRwakaH, kulakanyakA, kulakanyA, kulakaraH, kulakartf, kulakaraRiH, kulakalaNkaH, kulakalaNkita, kulakzayaH, kulagarimA, kulagiriH, kulaBUBft, kulagfham, kulaGna, kulaja, kulajAta, kulajanaH, kulajAyA, kulatantuH, kulatiTiH, kulatilakaH, kuladIpaH, kuladIpakaH, kuladuhitf, kuladUzaRa, kuladevatA, kulaDana, kulaDarmaH, kulaDArakaH, kulaDuryaH, kulanandana, kulanAyikA, kulanArI, kulanASaH, kulanASanam, kulaparaMparA, kulapatiH, kulapAMsana, kulapAMsukA, kulapAlakam, kulapAliH, kulapAlikA, kulapAlI, kulaputraH, kulaputrI, kulapuruzaH, kulapUrvagaH, kulapUrvakaH, kulaBaraH, kulabIjaH, kulaBAryA, kulaBftyA, kulamaryAdA, kulamArgaH, kulayozit, kulavaDU, kulalakzaRam, kulavAraH, kulavidyA, kulavipraH, kulavfdDaH, kulavrataH, kulavratam, kulaSIlam, kulaSrezWin, kulasaMKyA, kulasaMtatiH, kulasanniDiH, {{kulasaMBavaH,->kulasaMBava,||20260502||https://github.com/sanskrit-lexicon/csl-orig/commit/5f7cee5|}} kulasevakaH, kulastrI, kulasTitiH#}
 <LEND>
 <L>12576.020<pc>0586-2<k1>kulAkula<k2>kulAkula<e>2
 {#kulam#} + {#-akula#}¦ {%<lex>a.</lex>%}
 ∙²1 of a mixed character or origin.
-∙²2 middling. {#˚tiTiH#} {%<lex>m.</lex>, <lex>f.</lex>%} the second, sixth, and the tenth lunar
- days of a fort-night in a mouth. {#˚nakzatram#} <ab>N.</ab> of the lunar mansions
- {#ArdrA, mUlA, aBijit#} and {#SataBizA#}. {#˚vAraH#} Wednesday.
+∙²2 middling. 
 <LEND>
 
-<L>12576.022<pc>0586-2<k1>kulANkuraH<k2>kulANkuraH<e>2
+<L>12576.021<pc>0586-2<k1>kulAkulatiTiH<k2>kulAkulatiTiH<e>3
+{#kulam#} + {#-akula#} + {#˚tiTiH#}¦ {%<lex>m.</lex>, <lex>f.</lex>%} the second, sixth, and the tenth lunar
+ days of a fort-night in a mouth. 
+<LEND>
+
+<L>12576.022<pc>0586-2<k1>kulAkulanakzatram<k2>kulAkulanakzatram<e>3
+{#kulam#} + {#-akula#} + {#˚nakzatram#}¦ <ab>N.</ab> of the lunar mansions
+ {#ArdrA, mUlA, aBijit#} and {#SataBizA#}. 
+<LEND>
+
+<L>12576.023<pc>0586-2<k1>kulAkulavAraH<k2>kulAkulavAraH<e>3
+{#kulam#} + {#-akula#} + {#˚vAraH#}¦ Wednesday.
+<LEND>
+
+<L>12576.024<pc>0586-2<k1>kulANkuraH<k2>kulANkuraH<e>2
 {#kulam#} + {#-aNkuraH#}¦ the scion of a family; {#anena kasyApi kulANkureRa spfzwasya#}
  {#gAtrezu suKaM mamEvam#} <ls>Ś. 7. 19</ls>.
 <LEND>
 
-<L>12576.024<pc>0586-2<k1>kulANganA<k2>kulANganA<e>2
+<L>12576.025<pc>0586-2<k1>kulANganA<k2>kulANganA<e>2
 {#kulam#} + {#-aNganA#}¦ a respectable or high born (chaste) woman.
 <LEND>
 
@@ -149700,6 +149732,10 @@
 {{Lbody=12576.044}}
 <LEND>
 
+<L>12576.045<pc>0586-2<k1>kulaDarmaH<k2>kulaDarmaH<e>2
+{{Lbody=12576.044}}
+<LEND>
+
 <L>12576.048<pc>0586-2<k1>kulAcAryaH<k2>kulAcAryaH<e>2
 {#kulam#} + {#-AcAryaH, -guruH#}¦
 ∙²1 a family priest or teacher.
@@ -149716,7 +149752,7 @@
 
 <L>12576.054<pc>0586-2<k1>kulApIqaH<k2>kulApIqaH<e>2
 {#kulam#} + {#-ApIqaH, -SeKaraH#}¦ the glory of a family; {#tasminkulApIqaniBe#}
- {#nipIqaM samyagmahIM SAsati SAsanANkAm#} <ls>R. 18. 29</ls>.
+ {#vipIqaM samyagmahIM SAsati SAsanANkAm#} <ls>R. 18. 29</ls>.
 <LEND>
 
 <L>12576.056<pc>0586-2<k1>kulaSeKaraH<k2>kulaSeKaraH<e>2
@@ -149884,7 +149920,7 @@
 
 <L>12576.126<pc>0587-1<k1>kuladevatA<k2>kuladevatA<e>2
 {#kulam#} + {#-devatA#}¦ a tutelary deity; the guardian deity of a family; {#tAmarcitAByaH#}
- {#kuladevatAByaH kulapratizWAM praRamagya mAtA#} <ls>Ku. 7. 27</ls>.
+ {#kuladevatAByaH kulapratizWAM praRamayya mAtA#} <ls>Ku. 7. 27</ls>.
 <LEND>
 
 <L>12576.128<pc>0587-1<k1>kulaDana<k2>kulaDana<e>2
@@ -149952,7 +149988,7 @@
 
 <L>12576.150<pc>0587-1<k1>kulapAMsana<k2>kulapAMsana<e>2
 {#kulam#} + {#-pAMsana#}¦ {%<lex>a.</lex>%} one who disgraces oneʼs family; {#ityuktaH sa#}
- {#KalaH pApo BojAnAM kulapAMsanaH#} <ls>Bhāg. 19. 1. 35</ls>.
+ {#KalaH pApo BojAnAM kulapAMsanaH#} <ls>Bhāg. 10. 1. 35</ls>.
 <LEND>
 
 <L>12576.152<pc>0587-1<k1>kulapAMsukA<k2>kulapAMsukA<e>2
@@ -149987,7 +150023,7 @@
 <L>12576.166<pc>0587-1<k1>kulapuruzaH<k2>kulapuruzaH<e>2
 {#kulam#} + {#-puruzaH#}¦
 ∙²1 a respectable or high-born man; {#kaScumbati kulapuruzo veSyADarapallavaM#}
- {#maMnojYamapi#} <ls>Bh. 1. 59</ls>.
+ {#manojYamapi#} <ls>Bh. 1. 59</ls>.
 ∙²2 an ancestor.
 <LEND>
 
@@ -150227,7 +150263,7 @@
 ∙²1 A virtuous woman.
 ∙²2 A small river, canal, stream; {#kulyAmBoBiH pavanacapalEH SAKino DOtamUlAH#}
  <ls>Ś. 1. 15</ls>; {#kulyevodyAnapAdapAn#} <ls>R. 12. 3</ls>, <ls n="R.">7. 49</ls>; <ls>U. 3. 23</ls>, {#SAlyarTaM#}
- {#kulyAH praRIyante#} <ls>Mbh.</ls> on <ls>P. III. 6. 50</ls>.
+ {#kulyAH praRIyante#} <ls>Mbh.</ls> on <ls>P. VI. 1. 50</ls>.
 ∙²3 A dike, trench.
 ∙²4 A measure of grain equal to 8 droṇas.
 <LEND>
@@ -150246,10 +150282,10 @@
 {#kulawaH#} + .{@{#-wA#}@}¦ [{#kulAtkulAntaram awati SakanDvAdi#} <ls>P. VI. 1. 94. Vārt.</ls>]
  An unchaste woman; {#ucCinnASrayakAtareva kulawA gotrAntaraM SrIrgatA#}
  <ls>Mu. 6. 5</ls>; <ls>Y. 1. 215</ls>. {#yaTezwaM cezwante sPuwakucatawAH paSya kulawAH#} <ls>Udb.</ls>
-.━{@<ab>Comp.</ab>@}: {#kulawapatiH#}
+.━{@<ab>Comp.</ab>@}: {#kulawApatiH#}
 <LEND>
-<L>12589.020<pc>0588-1<k1>kulawapatiH<k2>kulawapatiH<e>2
-{#kulawaH#} + {#-patiH#}¦ a cuckold.
+<L>12589.020<pc>0588-1<k1>kulawApatiH<k2>kulawApatiH<e>2
+{#kulawA#} + {#-patiH#}¦ a cuckold.
 <LEND>
 
 
@@ -150296,7 +150332,7 @@
 {{Lbody=12596}}
 <LEND>
 <L>12596.020<pc>0588-1<k1>kulAyanilAyaH<k2>kulAyanilAyaH<e>2
-{#kulAyaH#} + {#-nilAyaH#}¦ the act of sitting in a nest, hatching, brooding; {#KagakulAya-kulAyanilAyinAm#} <ls>Śi.</ls>
+{#kulAyaH#} + {#-nilAyaH#}¦ the act of sitting in a nest, hatching, brooding; {#KagakulAya kulAyanilAyinAm#} <ls>Śi.</ls>
 <LEND>
 
 <L>12596.022<pc>0588-1<k1>kulAyasTaH<k2>kulAyasTaH<e>2
@@ -150346,8 +150382,8 @@
 ∙²1 A kind of bird, bird (in general); {#AdyaH panTAH kuliNgAnAM ye cAnye#}
  {#DAnyajIvinaH#} <ls>Rām. 4. 58. 24</ls>.
 ∙²2 A kind of mouse.
-∙²3 A sparrow; {#kuliNgaSakunO rAjannIqaM Sirasi cakataH#} <ls>Mb. 12. 261. 20</ls>.
-∙²4 A serpent; {#‘kuliNgo BUmikUzmARqe matNgajaBujaNgayoH’#} <ls>Med.</ls> {#pArAvatakuliNgAkzAH#}
+∙²3 A sparrow; {#kuliNgaSakunO rAjannIqaM Sirasi {{cakataH->cakratuH||20260806|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/340|}}#} <ls>Mb. 12. 261. 20</ls>.
+∙²4 A serpent; {#‘kuliNgo BUmikUzmARqe matiaNgajaBujaNgayoH’#} <ls>Med.</ls> {#pArAvatakuliNgAkzAH#}
  {#sarve SUrAH pramATinaH#} <ls>Mb. 12. 101. 7</ls>.
 <LEND>
 
@@ -150455,8 +150491,8 @@
 <L>12616.002<pc>0588-2<k1>kulPam<k2>kulPam<e>1
 {{Lbody=12616}}
 <LEND>
-<L>12616.004<pc>0588-2<k1>kulPaH<k2>kulPaH,<e>1
-{#kulPaH, -lPam#} + .{@{#-lPaH#}@}¦ The ankle; {#azWIvantO pari kulkO ca dehan#} <ls>Rv. 7. 50. 2</ls>.
+<L>12616.004<pc>0588-2<k1>kulPaH<k2>kulPaH<e>1
+{#kulPaH#}¦ The ankle; {#azWIvantO pari kulPO ca {{dehan->dehat||20260808|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/350|}}#} <ls>Rv. 7. 50. 2</ls>.
 .━{@<ab>Comp.</ab>@}: {#kulPadaGna#}
 <LEND>
 <L>12616.020<pc>0588-2<k1>kulPadaGna<k2>kulPadaGna<e>2
@@ -150532,7 +150568,7 @@
 .━{@<ab>Comp.</ab>@}: {#kuvalayAnanda, kuvalayeSaH#}
 <LEND>
 <L>12626.020<pc>0588-2<k1>kuvalayAnanda<k2>kuvalayAnanda<e>2
-{#kuvalayam#} + {#-Ananda#}¦ <ab>N.</ab> of a work on rhetoric by {#appayyA dIkzita#}.
+{#kuvalayam#} + {#-Ananda#}¦ <ab>N.</ab> of a work on rhetoric by {#{{appayyA->appayya||20260810|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/353|}} dIkzita#}.
 <LEND>
 
 <L>12626.022<pc>0588-2<k1>kuvalayeSaH<k2>kuvalayeSaH<e>2
@@ -150541,19 +150577,19 @@
 
 
 [Page0589-1]
-<L>12627<pc>0589-1<k1>kuvalayin<k2>kuvalayin<e>1
-{#kuvalayin#}¦ {%<lex>a.</lex>%} Having blue lotuses. {#saMdfzwAH kuvalayino Buvo#}
- {#viBAgAH#} <ls>U. 1. 31</ls>.
-<LEND>
-
-<L>12628<pc>0589-1<k1>kuvalayita<k2>kuvalayita<e>1
+<L>12627<pc>0589-1<k1>kuvalayita<k2>kuvalayita<e>1
 {#kuvalayita#}¦ {%<lex>a.</lex>%} Furnished with blue lotuses; {#kawAkzErnArIRAM#}
  {#kuvalayitavAtAyanamiva#} <ls>Māl. 2. 11</ls>; <ls>R. 11. 93</ls>.
 <LEND>
 
+<L>12628<pc>0589-1<k1>kuvalayin<k2>kuvalayin<e>1
+{#kuvalayin#}¦ {%<lex>a.</lex>%} Having blue lotuses. {#saMdfzwAH kuvalayino Buvo#}
+ {#viBAgAH#} <ls>U. 1. 31</ls>.
+<LEND>
+
 <L>12629<pc>0589-1<k1>kuvalayinI<k2>kuvalayinI<e>1
 {#kuvalayinI#}¦
-∙²1 The blue water-lily; plant.
+∙²1 The blue water-lily{{;->||20260810|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/353|}} plant.
 ∙²2 An assemblage of lotuses.
 ∙²3 A place abounding in lotuses.
 <LEND>
@@ -160514,7 +160550,7 @@
 
 <L>13311<pc>0623-1<k1>kzAnta<k2>kzAnta<e>1
 {#kzAnta#}¦ {%<ab>p. p.</ab>%} [{#kzam-kta#}]
-∙²1 Patient, for bearing, enduring.
+∙²1 Patient, forbearing, enduring.
 ∙²2 Forgiven.
 ∙²3 Borne, endured.
 ∙²4 Friendly.
@@ -304736,7 +304772,7 @@ metre of 4 × 16 short syllables.
 ∙²3 Scale, standard; {#pfTivyAM svAmiBaktAnAM pramARe parame sTitaH#} <ls>Mu. 2. 21</ls>.
 ∙²4 Limit, quantity; {#vaYcayitvA tu rAjAnaM na pramARe'vatizWasi#} <ls>Rām. 2. 37. 22</ls>.
 ∙²5 Testimony, evidence, proof.
-∙²6 A uthority, warrant; one who judges or decides, one whose word
+∙²6 Authority, warrant; one who judges or decides, one whose word
 [Page1101-2]
  is an authority; {#SrutvA devaH pramARam#} <ls>Pt. 1</ls> ‘having heard this your Majesty will decide (what to do)’
 ; {#AryamiSrAH pramARam#} <ls>M. 1</ls>; <ls>Mu. 1. 1</ls>;

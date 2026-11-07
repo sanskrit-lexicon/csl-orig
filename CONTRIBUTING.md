@@ -1,3 +1,5 @@
+_Created: 28-05-2026 · Last updated: 05-09-2026_
+
 # Contributing to csl-orig
 
 csl-orig is a tooling repository in the [Sanskrit Lexicon](https://github.com/sanskrit-lexicon) project.
@@ -11,8 +13,10 @@ This repo uses the **Cologne tooling-repo taxonomy** (not the dictionary taxonom
 ## Pull requests
 
 1. Fork, branch, PR (link the issue in title or body).
-2. Match existing code style; see [`CLAUDE.md`](CLAUDE.md) for build commands and conventions.
+2. Match existing code style; see [`CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/CLAUDE.md) for build commands and conventions.
 3. PR checklist:
    - [ ] Tested locally
    - [ ] Documentation updated where behaviour changes
    - [ ] No breaking changes (or clearly flagged)
+
+_Dr. Mārcis Gasūns_

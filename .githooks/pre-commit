@@ -1,0 +1,78 @@
+#!/usr/bin/env bash
+# .githooks/pre-commit
+# Native git pre-commit hook for csl-orig.
+#
+# Install once per clone:
+#   sh scripts/install-hooks.sh
+# which runs `git config core.hooksPath .githooks` (a RELATIVE hooks path —
+# it survives clone moves, unlike the old absolute symlink).
+#
+# What it checks for staged v02/<dict>/* files:
+#   0. deletion-guard  — deleting/renaming a canonical v02/<dict>/<dict>.txt
+#                        fails unless explicitly acknowledged
+#   1. encoding-guard  — BOM, invalid UTF-8, <L>/<LEND> structural defects,
+#                        validated against the STAGED blobs (`git show :path`),
+#                        never the worktree bytes, so partial staging cannot
+#                        commit unchecked content
+#   2. generate-dict   — runs the full generate_dict.sh pipeline; fails on red
+#                        output, and refuses to run while the staged bytes of a
+#                        canonical source differ from the worktree (the
+#                        pipeline reads worktree bytes)
+
+set -uo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+cd "$REPO_ROOT"
+
+# ── 0. Canonical deletions / renames — fail closed unless acknowledged ──────
+echo "pre-commit: deletion-guard"
+if ! bash scripts/check_deletions.sh --cached; then
+    exit 1
+fi
+
+# ── Collect staged v02/ paths ────────────────────────────────────────────────
+# A=added C=copied M=modified T=typechange drive the checks; R=renamed
+# destinations drive the checks (the rename SOURCE was already vetted by the
+# deletion-guard above). Plain deletions never reach here unchecked.
+v02_files=()
+while IFS=$'\t' read -r st p1 p2; do
+    [ -n "$p1" ] || continue
+    case "$st" in
+        D)     continue ;;
+        R*|C*) f="$p2" ;;
+        *)     f="$p1" ;;
+    esac
+    case "$f" in
+        v02/*) v02_files+=("$f") ;;
+    esac
+done < <(git diff --cached --name-status --diff-filter=ACMRT)
+
+if [ "${#v02_files[@]}" -eq 0 ]; then
+    exit 0   # nothing under v02/ staged — nothing to do
+fi
+
+exit_code=0
+
+# ── 1. Encoding guard — against the staged blobs, not the worktree ──────────
+echo "pre-commit: encoding-guard (staged blobs)"
+if ! python3 scripts/check_encoding.py --staged "${v02_files[@]}"; then
+    exit_code=1
+fi
+
+# ── 2. generate_dict.sh smoke-test ──────────────────────────────────────────
+# Only fire when files inside a dict subdirectory (v02/<dict>/…) are staged.
+dict_files=()
+for f in "${v02_files[@]}"; do
+    if [[ "$f" =~ ^v02/[^/]+/.+ ]]; then
+        dict_files+=("$f")
+    fi
+done
+
+if [ "${#dict_files[@]}" -gt 0 ]; then
+    echo "pre-commit: generate-dict-check"
+    if ! bash scripts/check_generate_dict.sh "${dict_files[@]}"; then
+        exit_code=1
+    fi
+fi
+
+exit $exit_code

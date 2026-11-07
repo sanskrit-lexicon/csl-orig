@@ -26968,7 +26968,7 @@
 <L>07287<pc>150-16<k1>fju<k2>fju
 {#fju#}¦ {%a. (f. {#ju#} or {#jvI#})%} 1. Straight (lit. and fig.); 2. favourable.
 <LEND>
-<L>07287.1<pc>150-16<k1>fjvI<k2>fjvI
+<L>07287.1<pc>150-16<k1>fjvI<k2>fjvI<h>1
 {{Lbody=07287}}
 <LEND>
 <L>07288<pc>150-16<k1>fjuga<k2>fju-ga
@@ -26977,7 +26977,7 @@
 <L>07289<pc>150-16<k1>fjurohita<k2>fju-rohita
 {#fju-rohita#}¦ {%n.%} The straight red bow of Indra. (according to some authorities; but many think that {#fju#} is prefixed to {#rohita#} through misunderstanding).
 <LEND>
-<L>07290<pc>150-17<k1>fjvI<k2>fjvI
+<L>07290<pc>150-17<k1>fjvI<k2>fjvI<h>2
 {#fjvI#}¦ {%f.%} 1. A straight-forward woman; 2. a particular gait.
 <LEND>
 <L>07291<pc>150-18<k1>fRa<k2>fRa
@@ -34328,7 +34328,7 @@
 {#kASI-yAtrA#}¦ {%f.%} pilgrimage to Benares.
 <LEND>
 <L>09292<pc>187-07<k1>kASmarI<k2>kASmarI
-{#kASmarI#}¦ {%f.%} A plant commonly called {#gAMBarI#}, {#kASmaryAH kftamAlamudgatadalaM koyazwikazwIkata#} <ls>M.M.</ls>ix.
+{#kASmarI#}¦ {%f.%} A plant commonly called {#{{gAMBarI->gAMBArI||20260721|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/313|}}#}, {#kASmaryAH kftamAlamudgatadalaM koyazwikazwIkata#} <ls>M.M.</ls>ix.
 <LEND>
 <L>09293<pc>187-08<k1>kASmIra<k2>kASmIra<h>1
 {#kASmIra#}¦ {%(I) a. (f. {#rI#})%} Born in or coming from Kāśmīra.
@@ -34447,8 +34447,8 @@
 <L>09327<pc>188-02<k1>kAzWikA<k2>kAzWikA
 {#kAzWikA#}¦ {%f.%} A small piece of wood.
 <LEND>
-<L>09328<pc>188-03<k1>kAzWIla<k2>kAzWIla
-{#kAzWIla#}¦ {%f.%} The plantain tree.
+<L>09328<pc>188-03<k1>kAzWIlA<k2>kAzWIlA
+{#{{kAzWIla->kAzWIlA||20260722|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/314|#}¦ {%f.%} The plantain tree.
 <LEND>
 <L>09329<pc>188-04<k1>kAs<k2>kAs
 {#kAs#}¦ {%vi. 1Ā (pp. {#kAsita#})%} To cough, to make a sound indicating any disease.
@@ -34553,7 +34553,7 @@
 {#kiRa#}¦ {%m.%} 1. A corn, a callosity, a scar, {#DaraRiDaraRakiRacakragarizWe#} ({#pfzWe#}) <ls>Git.G.</ls>i., <ls>Mrich.</ls>ii., <ls>R.</ls>xvi.84, xviii.47; 2. a wart, a mole; 3. an insect found in wood.
 <LEND>
 <L>09355<pc>188-24<k1>kiRva<k2>kiRva
-{#kiRva#}¦ {%n.%} 1. Sin; 2. a drug or reed from which spirits are produced, <ls>M.</ls>viii.326.
+{#kiRva#}¦ {%n.%} 1. Sin; 2. a drug or {{reed->seed||20260729|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/324|}} from which spirits are produced, <ls>M.</ls>viii.326.
 <LEND>
 <L>09356<pc>188-25<k1>kit<k2>kit
 {#kit#}¦ {%vt. or vi. 1P%} 1. To cure (pres. {#cikitsati#} in this sense); 2. to live; 3. to desire; (pres. {#ketati#} in these senses).
@@ -34601,7 +34601,7 @@
 {#kim-saKi#}¦ {%m. (nom. sing. {#kiMsaKA#})%} a bad friend, {#sa kiMsaKA sADu na SAsti yo'Dipam#} <ls>Kir.</ls>i.5.
 <LEND>
 <L>09370<pc>188-28<k1>kim<k2>kim<h>1
-{#kim#}¦ {%(I) pron. (nom. sing. {#kaH#} m., {#kim#} n., {#kA#} f.)%} Who, what, {#kaH pOrave vasumatIM SAsati SAsitari durvinItAnAm . ayamAcaratyavinayaM mugDAsu tapasvikanyAsu#} <ls>Sak.</ls>i., {#karuRAvimuKena mftyunA haraMtA tvAM vada kiM na me hatam#} <ls>R.</ls>viii.67, {#tadAtmatADyAtaDavArate ca kA cakAra vA na svamanoBavodBavam#} <ls>Na.</ls>i.30.<P>The neuter sing. {#kim#} is often used with an inst. in the sense of ‘what is the use of,’ {#vyADitasyOzaDaM paTyaM nIrujastu kimOzaDEH#} <ls>Hit.</ls>i., or {#kiM kulenopadizwena SIlamevAnna kAraRam#} <ls>Mrich.</ls>ix.<P>{#cid#}, {#api#}, {#cidapi#} or {#cana#} is often suffixed to this prenoun to render its sense indefinite, {#kaScid#} ({#yakzaH#} ‘a certain Yaksha’) {#kAMtAvirahaguruRA svADikArAt pramattaH#} <ls>Megh.</ls>i.1, {#kA'pi#} (a certain lady) {#tata evAgatavatI#} <ls>M.M.</ls>i, {#atrEva ko'pi kasyApi tizWatIti mAmaMgulIdalavilAsenAKyAtavatyaH#} i., {#tasyASca kaSciMScidapi mahABAgaDeyajanmani#} … … … … {#manmaTavikAramupalakzitavAnasmi#} i., {#vadasi yadi kiMcidapi daMtarucikOmudI harati daratimiramatiDoram#} <ls>Git.G.</ls>x.<P>{#kimapi#}, {#kiMcit#} also mean ‘a little,’ ‘something’, {#kiMciddatvA pfTakkriyA#} <ls>Yaj.</ls>ii.116.<P>With {#api#}-, it sometimes means, ‘indescribable,’ See {#api#}.<P>{#iva#} is sometimes added to this word, to give elegance and force to the meaning and may be rendered by ‘what possibly,’ {#kimiva hi#} … {#nAkftInAM maMqanaM#} <ls>Sak.</ls>i. See {#iva#}.
+{#kim#}¦ {%(I) pron. (nom. sing. {#kaH#} m., {#kim#} n., {#kA#} f.)%} Who, what, {#kaH pOrave vasumatIM SAsati SAsitari durvinItAnAm . ayamAcaratyavinayaM mugDAsu tapasvikanyAsu#} <ls>Sak.</ls>i., {#karuRAvimuKena mftyunA haraMtA tvAM vada kiM na me hatam#} <ls>R.</ls>viii.67, {#tadAtmatADyAtaDavArate ca kA cakAra vA na svamanoBavodBavam#} <ls>Na.</ls>i.30.<P>The neuter sing. {#kim#} is often used with an inst. in the sense of ‘what is the use of,’ {#vyADitasyOzaDaM paTyaM nIrujastu kimOzaDEH#} <ls>Hit.</ls>i., or {#kiM kulenopadizwena SIlamevAnna kAraRam#} <ls>Mrich.</ls>ix.<P>{#cid#}, {#api#}, {#cidapi#} or {#cana#} is often suffixed to this pronoun to render its sense indefinite, {#kaScid#} ({#yakzaH#} ‘a certain Yaksha’) {#kAMtAvirahaguruRA svADikArAt pramattaH#} <ls>Megh.</ls>i.1, {#kA'pi#} (a certain lady) {#tata evAgatavatI#} <ls>M.M.</ls>i, {#atrEva ko'pi kasyApi tizWatIti mAmaMgulIdalavilAsenAKyAtavatyaH#} i., {#tasyASca kaSciMScidapi mahABAgaDeyajanmani#} … … … … {#manmaTavikAramupalakzitavAnasmi#} i., {#vadasi yadi kiMcidapi daMtarucikOmudI harati daratimiramatiDoram#} <ls>Git.G.</ls>x.<P>{#kimapi#}, {#kiMcit#} also mean ‘a little,’ ‘something’, {#kiMciddatvA pfTakkriyA#} <ls>Yaj.</ls>ii.116.<P>With {#api#}-, it sometimes means, ‘indescribable,’ See {#api#}.<P>{#iva#} is sometimes added to this word, to give elegance and force to the meaning and may be rendered by ‘what possibly,’ {#kimiva hi#} … {#nAkftInAM maMqanaM#} <ls>Sak.</ls>i. See {#iva#}.
 <LEND>
 <L>09371<pc>188-28<k1>kim<k2>kim<h>2
 {#kim#}¦ {%(II) ind.%} 1. A particle of interrogation, e.g. {#kiM vyADA vane'smin saMcarati#} ‘do hunters roam about in this wood’; 2. a particle expressing ‘why, wherefore,’ {#bahulIBUtametatkiMna kaTyate#} <ls>Sak.</ls>v.; 3. whether (generally as the correlative of {#kim Ahosvit#}, {#uta#}, {#vA#}, {#kiMvA#}, {#aTavA#}), {#kiM yena sfjasi vyaktamuta yena biBarzi tat#} <ls>K.S.</ls>vi.23.
@@ -34747,8 +34747,8 @@
 <L>09413<pc>188-28<k1>kiMvA<k2>kiMvA
 {#kim-vA#}¦ {%ind.%} 1. a particle of interrogation, {#kiMvA SakuMtaletyasya mAturAKyA#} <ls>Sak.</ls>vii.; 2. whether, or, {#kiM ruzwAsi gajeMdramaMdagamane kiMvA SiSuste patiH#} <ls>Sr.T.</ls>7.
 <LEND>
-<L>09414<pc>188-28<k1>kiMvida<k2>kiMvida
-{#kim-vida#}¦ {%a.%} knowing what.
+<L>09414<pc>188-28<k1>kiMvid<k2>kiMvid
+{#kim-vid#}¦ {%a.%} knowing what.
 <LEND>
 <L>09415<pc>188-28<k1>kiMvyApAra<k2>kiMvyApAra
 {#kim-vyApAra#}¦ {%a.%} following what occupation.
@@ -34976,7 +34976,7 @@
 {#kIra-varRaka#}¦ {%n.%} a kind of perfume.
 <LEND>
 <L>09478<pc>190-27<k1>kIrRa<k2>kIrRa
-{#kIrRa#}¦ {%a. (f. {#rRA#})%} 1. Strewn, scattered, spread; 2. covered; 3. placed, put; 4. injured, (pp. of {#kf#} q.v.).
+{#kIrRa#}¦ {%a. (f. {#rRA#})%} 1. Strewn, scattered, spread; 2. covered; 3. placed, put; 4. injured, (pp. of {#{{kf->kF||20260806|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/340|}}#} q.v.).
 <LEND>
 <L>09478.1<pc>190-27<k1>kIrRA<k2>kIrRA
 {{Lbody=09478}}
@@ -35009,7 +35009,7 @@
 {#kIrti-Seza#}¦ {%m.%} the leaving behind of nothing but fame, death (Cf. {#nAmaSeza#}, {#AleKyaSeza#}).
 <LEND>
 <L>09488<pc>191-01<k1>kIl<k2>kIl
-{#kIl#}¦ {%vt. 1P (pp. {#kIlita#})%} To bind, to pier, to fix.
+{#kIl#}¦ {%vt. 1P (pp. {#kIlita#})%} To bind, to {{pier->pin||20260806|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/340|}}, to fix.
 <LEND>
 <L>09489<pc>191-02<k1>kIla<k2>kIla
 {#kIla#}¦ {%m.%} 1. A wedge, a pin, {#kIlotpAwIva vAnaraH#} <ls>Panch.</ls>i.; 2. a lance; 3. a post, a pillar; 4. the elbow; 5. a blow with the elbow; 6. flame; 7. a minute particle; 8. an epithet of Śiva.
@@ -35030,7 +35030,7 @@
 {#kIlAla-pa#}¦ {%m.%} a demon, a goblin.
 <LEND>
 <L>09495<pc>191-05<k1>kIlikA<k2>kIlikA
-{#kIlikA#}¦ {%f.%} the The pin of an axle.
+{#kIlikA#}¦ {%f.%} {{the The->The||20260807|Scott Rhodes|https://github.com/sanskrit-lexicon/csl-corrections/issues/342|}} pin of an axle.
 <LEND>
 <L>09496<pc>191-06<k1>kIlita<k2>kIlita
 {#kIlita#}¦ {%a. (f. {#tA#})%} 1. Tied, bound; 2. fixed, infixed, nailed, {#sA naScatesi kIliteva#} <ls>M.M.</ls>v.
@@ -35822,7 +35822,7 @@
 {#kupinI#}¦ {%f.%} A kind of net for catching small fish.
 <LEND>
 <L>09718<pc>195-06<k1>kupUya<k2>kupUya
-{#kupUya#}¦ {%a. (f. {#yA#})%} Despised mean, contemptible.
+{#kupUya#}¦ {%a. (f. {#yA#})%} Despised, mean, contemptible.
 <LEND>
 <L>09718.1<pc>195-06<k1>kupUyA<k2>kupUyA
 {{Lbody=09718}}

@@ -1,9 +1,11 @@
+_Created: 26-06-2026 · Last updated: 05-09-2026_
+
 # Cross-dictionary etymology statistics
 
-[`stats_etymology.py`](stats_etymology.py) aggregates the per-dictionary
+[`stats_etymology.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/etymology_stats/stats_etymology.py) aggregates the per-dictionary
 `*_etymology.tsv` extractions (produced by
-[`../wil/analyze_wil_etymology.py`](../wil/analyze_wil_etymology.py) and
-[`../skd/analyze_sktdict_etymology.py`](../skd/analyze_sktdict_etymology.py))
+[`../wil/analyze_wil_etymology.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/analyze_wil_etymology.py) and
+[`../skd/analyze_sktdict_etymology.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/skd/analyze_sktdict_etymology.py))
 into cross-dictionary statistics and one self-contained HTML dashboard.
 
 ```sh
@@ -83,3 +85,5 @@ python sample_nearest_root_audit.py --per-dict 25
   generalists; `lyu`, `ṣṭran`, `aṅ` are specialised.
 
 Regenerate after re-running any analyser; CSVs + dashboard are committed.
+
+_Dr. Mārcis Gasūns_

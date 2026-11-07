@@ -1,7 +1,9 @@
+_Created: 26-06-2026 · Last updated: 05-09-2026_
+
 # WIL etymology (`E.`) analyser
 
-[`analyze_wil_etymology.py`](analyze_wil_etymology.py) parses every `<ab>E.</ab>`
-etymology block in [`wil.txt`](wil.txt) (Wilson, *A Dictionary, Sanscrit and
+[`analyze_wil_etymology.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/analyze_wil_etymology.py) parses every `<ab>E.</ab>`
+etymology block in [`wil.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/wil/wil.txt) (Wilson, *A Dictionary, Sanscrit and
 English*, Calcutta 1832) and decomposes each into **root/stem + meaning +
 affix + the affix's anubandha (it-marker) meaning**.
 
@@ -112,3 +114,5 @@ Sanskrit* (`vyākaraṇam`, `dhātuḥ`, pratyaya names in Devanāgarī, citatio
 extractor would be needed for SKD/VCP.
 
 Sanskrit is transcoded SLP1→IAST via `indic_transliteration`.
+
+_Dr. Mārcis Gasūns_
