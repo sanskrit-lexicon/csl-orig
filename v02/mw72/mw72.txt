@@ -50838,6 +50838,9 @@ Agni and Varuṇa.
 {%Āgniveśya%}¦ and {%āgniveśyāyana, as,%} m., N. of
 two teachers.
 <LEND>
+<L>8066.1<pc>0113-c<k1>AgniveSyAyana<k2>AgniveSyAyana
+{{Lbody=8066}}
+<LEND>
 
 <L>8067<pc>0113-c<k1>Agnizwomika<k2>Agnizwomika
 {%Āgniṣṭomika, as, ī, am,%}¦ belonging to the Ag-
@@ -77119,6 +77122,9 @@ the snakes, Śeṣa or Vāsuki.
 <L>12305<pc>0174-a<k1>uraNga<k2>uraNga
 {%Uraṅ-ga%}¦ and {%uraṅ-gama, as,%} m. a snake.
 <LEND>
+<L>12305.1<pc>0174-a<k1>uraNgama<k2>uraNgama
+{{Lbody=12305}}
+<LEND>
 
 <L>12306<pc>0174-a<k1>uraRa<k2>uraRa
 {#uraRa#}¦ {%uraṇa, as,%} m. (said to be fr. rt. 4. {%ṛ%}),
@@ -89989,6 +89995,9 @@ another plant, commonly called Varvarā; ({%ī%}), f. an
 epithet of the goddess Durgā; ({%am%}), n. gold; the
 plant Datura, and the fruit of it; water. {%—Karbura-%}
 {%phala, as,%} m. a plant, commonly called Sākuruṇḍa.
+<LEND>
+<L>13915.1<pc>0209-a<k1>karvura<k2>karvura
+{{Lbody=13915}}
 <LEND>
 
 <L>13916<pc>0209-a<k1>karbUra<k2>karbUra
@@ -103945,6 +103954,9 @@ fr. {%kṛta%}), on account of, for the sake of, for (with
 gen. or in comp., e. g. {%mama kṛte%} or {%mat-kṛte,%} on
 my account, for me).
 <LEND>
+<L>15599.1<pc>0248-a<k1>kftena<k2>kftena
+{{Lbody=15599}}
+<LEND>
 
 <L>15600<pc>0248-a<k1>kfteyuka<k2>kfteyuka
 {%Kṛteyuka, as,%}¦ m., N. of a son of Raudrāśva.
@@ -105915,6 +105927,9 @@ ria Tinctoria; Mesua Ferrea; a citron tree; a variety
 of Moringa with red flowers ({%= rakta-śigru%}); N.
 of a man; of a monkey, husband of the mother of
 Hanumat. {%—Kesari-suta, as,%} m., N. of Hanumat.
+<LEND>
+<L>15793.1<pc>0254-a<k1>keSarin<k2>keSarin
+{{Lbody=15793}}
 <LEND>
 
 <L>15794<pc>0254-a<k1>kehladeva<k2>kehladeva
@@ -125757,6 +125772,9 @@ or vegetable; [cf. {%araṇya-gholī, kṣudra-gh˚,%}
 <L>18057<pc>0310-a<k1>Goli<k2>Goli
 {%Gholi, is,%}¦ and {%gholikā,%} f. {%= gholī.%}
 <LEND>
+<L>18057.1<pc>0310-a<k1>GolikA<k2>GolikA
+{{Lbody=18057}}
+<LEND>
 
 <L>18058<pc>0310-a<k1>Goza<k2>Goza
 {#Goza#}¦ {%ghoṣa.%} See under rt. 1. {%ghuṣ,%} p. 308.
@@ -135425,6 +135443,9 @@ was defeated and mortally wounded by Rāvaṇa;
 Chap. LVI); bdellium, see {%guggulu;%} N. of a
 mountain.
 <LEND>
+<L>19231.1<pc>0336-b<k1>jawAyus<k2>jawAyus
+{{Lbody=19231}}
+<LEND>
 
 <L>19232<pc>0336-b<k1>jawAla<k2>jawAla
 {%Jaṭāla, as, ā, am,%}¦ wearing a coil of twisted or
@@ -135963,6 +135984,9 @@ wish for a wife.
 
 <L>19286<pc>0338-a<k1>janu<k2>janu
 {%Janu, us,%}¦ and {%janū, ūs,%} f. birth; [cf. {%janus.%}]
+<LEND>
+<L>19286.1<pc>0338-a<k1>janU<k2>janU
+{{Lbody=19286}}
 <LEND>
 
 <L>19287<pc>0338-a<k1>janus<k2>janus
@@ -138562,6 +138586,9 @@ or materialists.)
 <L>19564<pc>0345-b<k1>jAmadagniya<k2>jAmadagniya
 {%Jāmadagniya%}¦ and {%jāmadagneya,%} a patronymic
 from Jamad-agni.
+<LEND>
+<L>19564.1<pc>0345-b<k1>jAmadagneya<k2>jAmadagneya
+{{Lbody=19564}}
 <LEND>
 
 <L>19565<pc>0345-b<k1>jAmadagnya<k2>jAmadagnya
@@ -142412,6 +142439,9 @@ perfumes.
 
 <L>20077<pc>0355-b<k1>JIrikA<k2>JIrikA
 {%Jhīrikā%}¦ and {%jhīrukā,%} f. a cricket.
+<LEND>
+<L>20077.1<pc>0355-b<k1>JIrukA<k2>JIrukA
+{{Lbody=20077}}
 <LEND>
 
 <L>20078<pc>0355-b<k1>Jillin<k2>Jillin
@@ -153901,6 +153931,9 @@ n. <nsi>diu</nsi> = {%tyāni%}: to <nsi>syā</nsi> belongs Old Germ. <nsi>siu,</
 {%Tyā-dṛś, k, k, k,%}¦ and {%tyā-dṛśa, as, ī, am,%} such
 a one as that.
 <LEND>
+<L>21487.1<pc>0387-b<k1>tyAdfSa<k2>tyAdfSa
+{{Lbody=21487}}
+<LEND>
 
 <L>21488<pc>0387-b<k1>tra<k2>tra<h>1
 {#tra#} 1¦. {%tra, as, ā, am%} (fr. rt. {%trai%}), protecting
@@ -157916,6 +157949,12 @@ N. of two legal works.
 {%Dattika, dattiya,%}¦ and {%dattila, as,%} m. familiar
 diminutives of the names of persons ending in
 {%datta.%}
+<LEND>
+<L>21818.1<pc>0399-c<k1>dattila<k2>dattila
+{{Lbody=21818}}
+<LEND>
+<L>21818.2<pc>0399-c<k1>dattiya<k2>dattiya
+{{Lbody=21818}}
 <LEND>
 
 <L>21819<pc>0399-c<k1>datteya<k2>datteya
@@ -283025,6 +283064,9 @@ thet of a particular day.
 {%Mandārava, as,%}¦ and {%mandāru, us,%} m. {%= man-%}
 {%dāra,%} the coral tree.
 <LEND>
+<L>36454.1<pc>0746-c<k1>mandAru<k2>mandAru
+{{Lbody=36454}}
+<LEND>
 
 <L>36455<pc>0746-c<k1>mandArin<k2>mandArin
 {%Mandārin, ī, iṇī, i,%}¦ having Mandāra trees,
@@ -299333,6 +299375,9 @@ ing together; conjunction (of planets).
 {%Melu%}¦ and {%meluda,%} (with Buddhists) a particular
 high number.
 <LEND>
+<L>37993.1<pc>0796-b<k1>meluda<k2>meluda
+{{Lbody=37993}}
+<LEND>
 
 <L>37994<pc>0796-b<k1>mev<k2>mev
 {#mev#}¦ {%mev%} (= rts. {%mlev, meb%}), cl. 1. A.
@@ -302278,6 +302323,9 @@ fices, a worshipper, sacrificer ({%= yajamāna%}).
 <L>38331<pc>0804-b<k1>yaRvApatya<k2>yaRvApatya
 {%Yaṇvāpatya%}¦ and {%yaṇvāpatyottara, am,%} n., N.
 of two Sāmans.
+<LEND>
+<L>38331.1<pc>0804-b<k1>yaRvApatyottara<k2>yaRvApatyottara
+{{Lbody=38331}}
 <LEND>
 
 <L>38332<pc>0804-b<k1>yat<k2>yat<h>1
@@ -308691,6 +308739,9 @@ Kṛśāśvādi to Pāṇ. IV. 2, 80.
 <L>38895<pc>0824-a<k1>yOktASvAdya<k2>yOktASvAdya
 {%Yauktāśvādya%}¦ and {%yauktāśvottara, am,%} n., N.
 of two Sāmans.
+<LEND>
+<L>38895.1<pc>0824-a<k1>yOktASvottara<k2>yOktASvottara
+{{Lbody=38895}}
 <LEND>
 
 <L>38896<pc>0824-a<k1>yOktika<k2>yOktika
@@ -315977,6 +316028,9 @@ praising.
 
 <L>39526<pc>0846-c<k1>reBila<k2>reBila
 {%Rebhila%}¦ and {%rebhilaka, as,%} m. a proper N.
+<LEND>
+<L>39526.1<pc>0846-c<k1>reBilaka<k2>reBilaka
+{{Lbody=39526}}
 <LEND>
 
 <L>39527<pc>0846-c<k1>rimeda<k2>rimeda
