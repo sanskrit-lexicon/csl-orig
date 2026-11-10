@@ -176,43 +176,6 @@ def transcoder_fsm(sfrom,to) :
  
  fsm['states']=states
  transcoder_fsmarr[fromto]=fsm
- #debug
- if (False):
-  print("filein=",filein)
-  filedbg = "dbg_%s.txt" %fromto
-  print("transcoder.py. Dbg info written to",filedbg)
-  fdbg = codecs.open(filedbg,"w","utf-8")
-  fdbg.write("fsmentries=...\n")
-  keys = ['starts','in','regex','out','next','inraw','outraw']
-  for i in xrange(0,len(fsmentries)):
-   fsmentry = fsmentries[i]
-   s = []
-   
-   #for key in fsmentry:
-   for key in keys:
-    if key not in fsmentry: # regex
-     continue
-    val = fsmentry[key]
-    if key == 'starts':
-     val = ' '.join(val)
-    s.append("%s => %s" %(key,val))
-   sout = ' , '.join(s)
-   out = "fsmentry[%s]=%s" %(i,sout)
-   #print(out.encode('utf-8'))
-   fdbg.write("%s\n" % out)
-   fdbg.write("  e-elt=%s\n" % fsmentry['e-elt'])
-  #print("states=...")
-  fdbg.write("states=...\n")
-  for c in states:
-   state = states[c]
-   y = []
-   for i in state:
-    y.append('%s' % i)
-   x = ' '.join(y)
-   out = "c=%s, state=%s" %(c,x)
-   #print(out.encode('utf-8'))
-   fdbg.write("%s\n" % out)
-  fdbg.close()
 def to_unicode(x):
  # x is assumed to be a string with one of two forms
  # (a) \uxxxx\uyyyy  this is interpreted as unicode

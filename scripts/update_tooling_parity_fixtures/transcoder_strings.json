@@ -1,0 +1,14 @@
+{
+  "fixtures": [
+    {"id": "slp1-ka-vowel", "from": "slp1", "to": "deva", "text": "ka", "must_transform": true},
+    {"id": "slp1-kt-cluster", "from": "slp1", "to": "deva", "text": "kt", "must_transform": true},
+    {"id": "slp1-k-eol", "from": "slp1", "to": "deva", "text": "k", "must_transform": true},
+    {"id": "slp1-rAma", "from": "slp1", "to": "deva", "text": "rAma", "must_transform": true},
+    {"id": "slp1-saMskrta", "from": "slp1", "to": "deva", "text": "saMskrta", "must_transform": true},
+    {"id": "deva-k-schwa", "from": "deva", "to": "slp1", "text": "क", "must_transform": true},
+    {"id": "deva-kaa-vowelsign", "from": "deva", "to": "slp1", "text": "का", "must_transform": true},
+    {"id": "deva-k-virama", "from": "deva", "to": "slp1", "text": "क्", "must_transform": true},
+    {"id": "deva-rama", "from": "deva", "to": "slp1", "text": "राम", "must_transform": true},
+    {"id": "deva-samskrta", "from": "deva", "to": "slp1", "text": "संस्कृत", "must_transform": true}
+  ]
+}

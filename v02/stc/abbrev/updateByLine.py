@@ -34,13 +34,12 @@ class Change(object):
   if (not m) or (not m1):
    print('Change error(1) @ line %s:' % n)
    out= 'oldline=%s' % oldline
-   print(out.encode('utf-8'))
+   print(out)
    out= 'newline=%s' % newline
-   print(out.encode('utf-8'))
-   exit(1)
+   print(out)
+   sys.exit(1)
   self.chgcode = m1.group(2)
   nold = m.group(1)
-  m = re.search(r'^([0-9]+) old (.*)$',oldline)
   oldtext = m.group(2)
   nnew = m1.group(1)
   newtext = m1.group(3)
@@ -48,17 +47,10 @@ class Change(object):
    print('Change error(2) @ line %s:' % n)
    print('nold(%s) != nnew(%s)' % (nold,nnew))
    out= 'oldline=%s' % oldline
-   print(out.encode('utf-8'))
+   print(out)
    out= 'newline=%s' % newline
-   print(out.encode('utf-8'))
-   exit(1)   
-  if (not m) or (not m1):
-   print('Change error(2) @ line %s:' % n)
-   out= 'oldline=%s' % oldline
-   print(out.encode('utf-8'))
-   out= 'newline=%s' % newline
-   print(out.encode('utf-8'))
-   exit(1)
+   print(out)
+   sys.exit(1)   
   self.lnumstr = nold # same as nnew
   self.oldtext = oldtext
   self.newtext = newtext
@@ -67,7 +59,6 @@ def init_changein(changein ):
  changes = [] # ret
  f = codecs.open(changein,encoding='utf-8',mode='r')
  n = 0
- sep='XXXX'
  for line in f:
   line = line.rstrip('\r\n')
   if line.startswith(';'):  # skip comment line
@@ -82,7 +73,7 @@ def init_changein(changein ):
  f.close()
  if (n % 2) != 0:
   print("ERROR init_changein: Expected EVEN number of lines in",changein)
-  exit(1)
+  sys.exit(1)
  return changes
 def update(filein,changein,fileout):
  # determine change structure from changein file
@@ -100,26 +91,26 @@ def update(filein,changein,fileout):
   irec = lnum - 1 # since lnum assumed to start at 1
   try:
    oldrec = recs[irec]
-  except:
+  except IndexError:
    print("lnum error: ",change.lnumstr)
-   exit(1)
+   sys.exit(1)
   # oldrec is a list of lines, typically with just 1 line.
   # We assume there is always at least 1 element in this tuple, and
   # that it's text matches the 'oldtext' of the change
   if len(oldrec)==0:
    print("update ERROR #1. record has been deleted for linenum=",lnum)
-   exit(1)
+   sys.exit(1)
   oldtext = oldrec[0]
   if oldtext != change.oldtext:
    print("CHANGE ERROR #2: Old mismatch line %s of %s" %(change.n,changein))
    print("Change record lnum =",lnum)
    out = "Change old text:\n%s" % change.oldtext
-   print(out.encode('utf-8'))
+   print(out)
    out = "Change old input:\n%s" % oldtext
-   print(out.encode('utf-8'))
+   print(out)
    out = "line from %s:" % filein
-   print(out.encode('utf-8'))
-   exit(1)
+   print(out)
+   sys.exit(1)
   code = change.chgcode
   # update counter
   if code not in counter:

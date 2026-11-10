@@ -1,0 +1,3 @@
+; H7961 parity fixture - old-text mismatch error path (CHANGE ERROR #2)
+2 old WRONG old text for line two
+2 new REPLACED whatever
