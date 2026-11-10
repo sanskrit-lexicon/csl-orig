@@ -1,4 +1,4 @@
-_Created: 30-06-2026 · Last updated: 07-11-2026_
+_Created: 30-06-2026 · Last updated: 10-11-2026_
 
 # Changelog
 
@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Bug hunt 06-11-2026** ([`BUGHUNT-FINDINGS-csl-orig-06.11.2026.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/BUGHUNT-FINDINGS-csl-orig-06.11.2026.md)): 0 HIGH · 1 MEDIUM · 3 LOW over the code surface (`scripts/`, `.githooks/`, `.github/workflows/`). MEDIUM: shell-injection shape (unenv-routed `${{ }}` interpolation) + unpinned floating-tag `tj-actions/changed-files@v47` in the StarDict sync workflow. LOW: malformed bot commit email (`drdhaval2785gmail.com`, missing `@`), `git diff --quiet` gates blind to untracked files in the weekly hwnorm1 pipeline, and CI `ack-deletion:` lines truncating multi-path acks to the first path. Secret sweep clean; guard suite 10/10 green; no auto-fix (nothing HIGH), no GTD row.
 
 ### Fixed
+- **updateByLine.py defects cleaned with byte-identical outputs** (H7961): the `v02/gra/greek` + `v02/stc/abbrev` twins (kept byte-identical to each other) now use `except IndexError` carrying the lnum context, `sys.exit(1)`, and plain `print(out)` (py3 printed `b'...'` reprs on error paths); the dead duplicate old-line `re.search`, the unreachable second `(not m)/(not m1)` guard and the unused `sep` local are gone. The `transcoder.py` twins lose only their dead `if (False):` debug-writer block (FSM matching, the slp1_deva look-ahead and the deva_slp1 vowel-sign hack untouched), and `v02/pwkvn/update/final.py` the unreachable tail of `unused_transcode_as_misc`. Correction-queue tool outputs are byte-identical (proved by the parity harness).
 - **Generate-dict guard now fails on a nonzero pipeline exit** (H4227, H3487
   audit O1 residual): `scripts/check_generate_dict.sh` discarded the
   pipeline's exit status (`|| true`) and keyed only on ANSI-red output, so a
@@ -34,6 +35,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   by the stage-0 deletion guard, and suite scenario S8 pins the regression.
 
 ### Added
+- **Offline parity harness for the update tooling** ([`scripts/update_tooling_parity.py`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/update_tooling_parity.py)) (H7961): runs the `origin/main` copies (via `git show`) and the working-tree copies on committed fixtures — new/ins/del + old-text-mismatch + lnum-overflow for `updateByLine.py`, slp1_deva look-ahead and deva_slp1 vowel-sign strings for `transcoder_processString` — and diffs outputs byte-for-byte against committed old-code goldens; 72 checks green at landing.
 - Canonical deletion/rename guard ([`scripts/check_deletions.sh`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/check_deletions.sh)): deleting or renaming a `v02/<dict>/<dict>.txt` source now fails the commit unless explicitly acknowledged (`CSL_ORIG_ACK_DELETION`, or `ack-deletion:` lines in CI) — H3632 finding O3/O4
 - CI backstop ([`.github/workflows/guard-backstop.yml`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/.github/workflows/guard-backstop.yml)): replicates both hook stages (encoding guard + per-dict generate pipeline, plus the deletion guard against the diff base) so hook-less clones are still gated on every `v02/`-touching push/PR — H3632 finding O10 gap
 - Guard scenario test suite ([`scripts/test_pre_commit_guard.sh`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/scripts/test_pre_commit_guard.sh)): partial staging, deletion, rename, zero-`<LEND>`, and clone-move scenarios in a throwaway mini-clone
