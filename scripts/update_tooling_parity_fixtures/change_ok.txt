@@ -1,0 +1,7 @@
+; H7961 parity fixture - exercises new, ins, del (lines starting ';' are skipped)
+2 old old line two content
+2 new REPLACED line two śānti
+3 old line three original śānti
+3 ins INSERTED after three
+4 old line four content is here
+4 del 

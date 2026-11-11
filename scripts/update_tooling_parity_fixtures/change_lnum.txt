@@ -1,0 +1,3 @@
+; H7961 parity fixture - change lnum beyond end of input (lnum error path)
+99 old something beyond end of input
+99 new something else

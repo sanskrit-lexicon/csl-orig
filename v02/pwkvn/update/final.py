@@ -134,10 +134,6 @@ def unused_transcode_as_misc(line,tranin,tranout,iline):
     print('as: %05d %s' % (iline+1,part))
  return line
  
- newline = transcoder.transcoder_processString(line,tranin,tranout)
- if newline != line:
-  print('transcode_as_misc: lnum=',iline+1)
- return newline
 
 def transcode_as(line,opt1,iline):
  assert opt1 in ('hk','slp1')

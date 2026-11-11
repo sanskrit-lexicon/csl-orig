@@ -1,0 +1,31 @@
+{
+  "transcoder": {
+    "deva-k-schwa": "ka",
+    "deva-k-virama": "k",
+    "deva-kaa-vowelsign": "kA",
+    "deva-rama": "rAma",
+    "deva-samskrta": "saMskfta",
+    "slp1-k-eol": "\u0915\u094d",
+    "slp1-ka-vowel": "\u0915",
+    "slp1-kt-cluster": "\u0915\u094d\u0924\u094d",
+    "slp1-rAma": "\u0930\u093e\u092e",
+    "slp1-saMskrta": "\u0938\u0902\u0938\u094d\u0915\u094d\u0930\u094d\u0924"
+  },
+  "update_by_line": {
+    "lnum-overflow": {
+      "fileout_text": null,
+      "rc": 1,
+      "stdout_sha256": "9aa1a752b771cb263aff1261a51f6f9ba5c95cec10c9f2bed49a1e3422f0eac2"
+    },
+    "new-ins-del": {
+      "fileout_text": "<L>1<pc>1<k1>a<k2>A<e>1\nREPLACED line two \u015b\u0101nti\nline three original \u015b\u0101nti\nINSERTED after three\n<L>5<pc>2<k1>b<k2>B<e>5\n",
+      "rc": 0,
+      "stdout_sha256": "6aa51ce084579eeb5b3a6db7603acff2650819626a381269e9b023e331e10bad"
+    },
+    "old-text-mismatch": {
+      "fileout_text": null,
+      "rc": 1,
+      "stdout_sha256": null
+    }
+  }
+}
