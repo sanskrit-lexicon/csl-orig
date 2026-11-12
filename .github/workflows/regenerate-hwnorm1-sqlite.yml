@@ -11,6 +11,9 @@ jobs:
     defaults:
       run:
         working-directory: ${{ github.workspace }}
+    env:
+      # All dictionary codes published to csl-sqlite, except 'pd' (excluded due to copyright)
+      DICTCODES: "acc ae ap90 ap ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh pwkvn lrv abch acph acsj fri nmmb"
 
     steps:
       - name: Checkout csl-pywork
@@ -112,21 +115,84 @@ jobs:
           TIMESTAMP=$(date +%Y%m%d-%H%M%S)
           if git diff --quiet; then
             echo "No changes to commit in hwnorm1"
-            echo "No Change In Headword. Not Required To Do Anything Further"
-            echo "HAS_CHANGES=false" >> $GITHUB_ENV
+            echo "No Change In Headword. hwnorm2 and csl-apidev are not updated"
+            echo "HW_CHANGED=false" >> $GITHUB_ENV
           else
             git add -A
             git commit -m "Regenerated hwnorm1.sqlite as on $TIMESTAMP"
             git push
-            echo "HAS_CHANGES=true" >> $GITHUB_ENV
+            echo "HW_CHANGED=true" >> $GITHUB_ENV
           fi
 
-      - name: Check for changes
-        if: env.HAS_CHANGES == 'true'
-        run: echo "Changes detected in sanhw1.txt - continuing with hwnorm2, csl-apidev and csl-sqlite"
+      # Definitions can change without any headword changing, so csl-sqlite
+      # cannot rely on the hwnorm1 diff alone. Fingerprint the content of every
+      # dictionary's web/sqlite files (schema + rows, not file bytes) and compare
+      # with the manifest saved on csl-sqlite gh-pages by the last publish.
+      - name: Detect dictionary sqlite changes
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          python - > /tmp/csl-sqlite-manifest.txt <<'EOF'
+          import hashlib, os, sqlite3
+          ws = os.environ["GITHUB_WORKSPACE"]
+          for d in os.environ["DICTCODES"].split():
+              sd = f"{ws}/sanskrit-lexicon/{d}/web/sqlite"
+              if not os.path.isdir(sd):
+                  continue
+              for name in sorted(os.listdir(sd)):
+                  p = os.path.join(sd, name)
+                  if not os.path.isfile(p):
+                      continue
+                  h = hashlib.sha256()
+                  if name.endswith(".sqlite"):
+                      con = sqlite3.connect(f"file:{p}?mode=ro", uri=True)
+                      tables = con.execute("SELECT name, sql FROM sqlite_master WHERE type='table' ORDER BY name").fetchall()
+                      for t, sql in tables:
+                          h.update(sql.encode() + b"\n")
+                          for row in con.execute(f'SELECT * FROM "{t}" ORDER BY rowid'):
+                              h.update(repr(row).encode() + b"\n")
+                      con.close()
+                  else:
+                      with open(p, "rb") as f:
+                          h.update(f.read())
+                  print(f"{h.hexdigest()}  {d}/{name}")
+          EOF
+          echo "Current manifest: $(wc -l < /tmp/csl-sqlite-manifest.txt) files"
+
+          if gh api -H "Accept: application/vnd.github.raw" \
+               "repos/sanskrit-lexicon/csl-sqlite/contents/sqlite-manifest.txt?ref=gh-pages" \
+               > /tmp/csl-sqlite-manifest-prev.txt 2>/dev/null; then
+            if cmp -s /tmp/csl-sqlite-manifest-prev.txt /tmp/csl-sqlite-manifest.txt; then
+              echo "No change in dictionary sqlite content since the last csl-sqlite publish"
+              echo "DEFS_CHANGED=false" >> $GITHUB_ENV
+            else
+              echo "Dictionary sqlite content changed since the last csl-sqlite publish:"
+              diff /tmp/csl-sqlite-manifest-prev.txt /tmp/csl-sqlite-manifest.txt | grep '^[<>]' || true
+              echo "DEFS_CHANGED=true" >> $GITHUB_ENV
+            fi
+          else
+            # First run, or the manifest could not be fetched — publish rather than silently skip.
+            echo "No previous sqlite-manifest.txt on csl-sqlite gh-pages — treating as changed"
+            echo "DEFS_CHANGED=true" >> $GITHUB_ENV
+          fi
+
+      - name: Decide what to update
+        run: |
+          if [ "$HW_CHANGED" = "true" ] || [ "$DEFS_CHANGED" = "true" ]; then
+            echo "PUBLISH_SQLITE=true" >> $GITHUB_ENV
+          else
+            echo "PUBLISH_SQLITE=false" >> $GITHUB_ENV
+          fi
+          if [ "$HW_CHANGED" = "true" ]; then
+            echo "Headwords changed - updating hwnorm2, csl-apidev and csl-sqlite"
+          elif [ "$DEFS_CHANGED" = "true" ]; then
+            echo "Only definitions changed - updating csl-sqlite only"
+          else
+            echo "No change in headwords or definitions. Not Required To Do Anything Further"
+          fi
 
       - name: Run hwnorm2 redo scripts
-        if: env.HAS_CHANGES == 'true'
+        if: env.HW_CHANGED == 'true'
         run: |
           cd sanskrit-lexicon/hwnorm2/keydoc/distincthws
           sh redo.sh
@@ -134,14 +200,14 @@ jobs:
           sh redo.sh xampp
 
       - name: Configure git for hwnorm2
-        if: env.HAS_CHANGES == 'true'
+        if: env.HW_CHANGED == 'true'
         run: |
           cd sanskrit-lexicon/hwnorm2
           git config user.name "HWNORM1 BOT"
           git config user.email "actions@github.com"
 
       - name: Commit and push hwnorm2 changes
-        if: env.HAS_CHANGES == 'true'
+        if: env.HW_CHANGED == 'true'
         run: |
           cd sanskrit-lexicon/hwnorm2
           TIMESTAMP=$(date +%Y%m%d-%H%M%S)
@@ -154,27 +220,37 @@ jobs:
           fi
 
       - name: Copy sqlite files for release
-        if: env.HAS_CHANGES == 'true'
+        if: env.PUBLISH_SQLITE == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           mkdir -p /tmp/csl-sqlite
+          # hwnorm1c.sqlite is rebuilt on every run (redo.sh), changed or not
           cp sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite /tmp/csl-sqlite/
-          cp sanskrit-lexicon/hwnorm2/keydoc/keydoc_glob1.sqlite /tmp/csl-sqlite/
+          if [ "$HW_CHANGED" = "true" ]; then
+            cp sanskrit-lexicon/hwnorm2/keydoc/keydoc_glob1.sqlite /tmp/csl-sqlite/
+          else
+            # Headwords unchanged, so hwnorm2 was not rebuilt and keydoc_glob1 is
+            # unchanged: carry it over from the latest csl-sqlite release
+            gh release download -R sanskrit-lexicon/csl-sqlite \
+              --pattern keydoc_glob1.sqlite.zip --dir /tmp/csl-sqlite
+          fi
 
       - name: Move hwnorm1c.sqlite to csl-apidev
-        if: env.HAS_CHANGES == 'true'
+        if: env.HW_CHANGED == 'true'
         run: |
           mkdir -p sanskrit-lexicon/csl-apidev/simple-search/hwnorm1
           mv sanskrit-lexicon/hwnorm1/sanhw1/hwnorm1c.sqlite sanskrit-lexicon/csl-apidev/simple-search/hwnorm1/
 
       - name: Configure git for csl-apidev
-        if: env.HAS_CHANGES == 'true'
+        if: env.HW_CHANGED == 'true'
         run: |
           cd sanskrit-lexicon/csl-apidev
           git config user.name "HWNORM1 BOT"
           git config user.email "actions@github.com"
 
       - name: Commit and push csl-apidev changes
-        if: env.HAS_CHANGES == 'true'
+        if: env.HW_CHANGED == 'true'
         run: |
           cd sanskrit-lexicon/csl-apidev
           TIMESTAMP=$(date +%Y%m%d-%H%M%S)
@@ -187,15 +263,15 @@ jobs:
           fi
 
       - name: Create zip files for release
-        if: env.HAS_CHANGES == 'true'
+        if: env.PUBLISH_SQLITE == 'true'
         run: |
           mkdir -p /tmp/csl-sqlite
           cd /tmp/csl-sqlite
           zip hwnorm1c.sqlite.zip hwnorm1c.sqlite
-          zip keydoc_glob1.sqlite.zip keydoc_glob1.sqlite
-
-          # All dictionary codes except 'pd' (excluded due to copyright)
-          DICTCODES="acc ae ap90 ap ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh pwkvn lrv abch acph acsj fri nmmb"
+          # Already a zip when carried over from the latest release
+          if [ -f keydoc_glob1.sqlite ]; then
+            zip keydoc_glob1.sqlite.zip keydoc_glob1.sqlite
+          fi
 
           for DICTCODE in $DICTCODES; do
             SQLITE_DIR="$GITHUB_WORKSPACE/sanskrit-lexicon/${DICTCODE}/web/sqlite"
@@ -228,7 +304,7 @@ jobs:
           fi
 
       - name: Create Release with Assets
-        if: env.HAS_CHANGES == 'true'
+        if: env.PUBLISH_SQLITE == 'true'
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
@@ -251,7 +327,7 @@ jobs:
             $ALL_ASSETS
 
       - name: Publish ZIPs to csl-sqlite gh-pages
-        if: env.HAS_CHANGES == 'true'
+        if: env.PUBLISH_SQLITE == 'true'
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
@@ -280,6 +356,10 @@ jobs:
           if [ -d "/tmp/csl-sqlite-lslinks" ]; then
             cp /tmp/csl-sqlite-lslinks/*.zip .
           fi
+
+          # Content fingerprint of this publish; the next run compares against it
+          # to detect definition-only changes
+          cp /tmp/csl-sqlite-manifest.txt sqlite-manifest.txt
 
           # Add a minimal index.html so GitHub Pages activates on this branch
           echo "Sanskrit Lexicon SQLite dictionaries" > index.html
