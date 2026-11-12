@@ -192,6 +192,21 @@ jobs:
             echo "DEFS_CHANGED=true" >> $GITHUB_ENV
           fi
 
+      # dictionaries.json is generated only when csl-sqlite is published. If the
+      # last publish predates the manifest step (or the file was lost), the
+      # fingerprint above says "unchanged" and the manifest would never appear,
+      # so a missing manifest counts as a change.
+      - name: Detect missing dictionaries.json
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          if ! gh api -H "Accept: application/vnd.github.raw" \
+               "repos/sanskrit-lexicon/csl-sqlite/contents/dictionaries.json?ref=gh-pages" \
+               > /dev/null 2>&1; then
+            echo "No dictionaries.json on csl-sqlite gh-pages - treating as changed"
+            echo "DEFS_CHANGED=true" >> $GITHUB_ENV
+          fi
+
       - name: Decide what to update
         run: |
           if [ "$HW_CHANGED" = "true" ] || [ "$DEFS_CHANGED" = "true" ]; then
