@@ -52,6 +52,7 @@ on:
           - yat
           - abch
           - nmmb
+          - nybj
 
 jobs:
   build:

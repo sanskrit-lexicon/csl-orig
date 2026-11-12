@@ -13,7 +13,7 @@ jobs:
         working-directory: ${{ github.workspace }}
     env:
       # All dictionary codes published to csl-sqlite, except 'pd' (excluded due to copyright)
-      DICTCODES: "acc ae ap90 ap ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh pwkvn lrv abch acph acsj fri nmmb"
+      DICTCODES: "acc ae ap90 ap ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh pwkvn lrv abch acph acsj fri nmmb nybj"
 
     steps:
       - name: Checkout csl-pywork
