@@ -69,6 +69,22 @@ jobs:
           fetch-depth: 1
           token: ${{ secrets.PAT_TOKEN }}
 
+      # Inputs for dictionaries.json (see "Generate dictionaries.json" below)
+      - name: Checkout csl-homepage
+        uses: actions/checkout@v7
+        with:
+          repository: sanskrit-lexicon/csl-homepage
+          path: sanskrit-lexicon/csl-homepage
+          fetch-depth: 1
+
+      - name: Checkout csl-sqlite (manifest generator)
+        uses: actions/checkout@v7
+        with:
+          repository: sanskrit-lexicon/csl-sqlite
+          ref: main
+          path: sanskrit-lexicon/csl-sqlite
+          fetch-depth: 1
+
       - name: Set up Python 3.10
         uses: actions/setup-python@v7
         with:
@@ -303,6 +319,18 @@ jobs:
             echo "No LS links files found at ${LSLINK_DIR}"
           fi
 
+      # dictionaries.json lets csl-app list new dictionaries without an app
+      # release. It lists only dictionaries whose zip exists and is non-trivial,
+      # so a failed build cannot advertise a broken download. Runs before the
+      # release is created: if it fails, nothing is published.
+      - name: Generate dictionaries.json
+        if: env.PUBLISH_SQLITE == 'true'
+        run: |
+          python3 -I sanskrit-lexicon/csl-sqlite/scripts/make_manifest.py \
+            --indexdirs sanskrit-lexicon/csl-homepage/indexdirs.xml \
+            --zips /tmp/csl-sqlite \
+            --out /tmp/csl-sqlite-dictionaries.json
+
       - name: Create Release with Assets
         if: env.PUBLISH_SQLITE == 'true'
         env:
@@ -356,6 +384,9 @@ jobs:
           if [ -d "/tmp/csl-sqlite-lslinks" ]; then
             cp /tmp/csl-sqlite-lslinks/*.zip .
           fi
+
+          # Dictionary manifest consumed by csl-app
+          cp /tmp/csl-sqlite-dictionaries.json dictionaries.json
 
           # Content fingerprint of this publish; the next run compares against it
           # to detect definition-only changes
