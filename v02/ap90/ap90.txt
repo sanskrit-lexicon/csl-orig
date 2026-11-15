@@ -9665,7 +9665,7 @@ mother (?). {#--vahniH#} forest <lbinfo n="conflagra+tion"/>
 conflagration. {#--SayyaH#} (having the mountain
 {#kElAsa#} for his bed) <ab>N.</ab> of Śiva; <ab>cf.</ab>
 {#˚ISa, ˚iMdra#}, {#--SfMgaM, --sAnu#} mountain peak.
-{#--suta#} {#(˚zuta)#}, {#--saMhata#} {%<ab>a.</ab>%} prepared or
+{#--suta#} ({#˚zuta#}), {#--saMhata#} {%<ab>a.</ab>%} prepared or
 expressed by means of stones. {#--sAraH#}
 [{#adreH sAra iva za#}. {#ta#}.] ‘the essence of
 mountains’, iron. ({%--<ab>a.</ab>%}) hard
@@ -10292,7 +10292,7 @@ is superior by reason of; {#lokADikaM#}
 sometimes with <ab>gen.</ab>; {#paMcadaSAnAM#} <lbinfo n="BrAtFRAmaDi#ko"/>
 {#BrAtFRAmaDiko guREH#} <ls>K. 136.</ls> {@--4@} Later, <lbinfo n="sub+sequent"/>
 subsequent, further than (of time);
-{#rAjanyabaMDordvAviMSe#} {#(keSAMto viDIyate)#},  <lbinfo n="vE#Syasya"/>
+{#rAjanyabaMDordvAviMSe#} ({#keSAMto viDIyate#}),  <lbinfo n="vE#Syasya"/>
 {#vESyasya dvyaDike tataH#} <ls>Ms. 2. 65</ls> {2} years
 later <ab>i. e.</ab> in the 24th year; sometimes
 with <ab>gen.</ab>; {#mamADikA vA tulyA vA#} <ls>Rām.</ls> {@--5@}
@@ -25806,7 +25806,7 @@ oneself be touched.
 formed hips; (<ls>P. VI. 2. 187</ls>).
 <LEND>
 <L>2600<pc>0114-b<k1>apasPur<k2>apasPur
-{#apasPur#}¦ {#(--sPUH)#}, {#--ra, --rat#} {%<ab>a.</ab>%} <lbinfo n="Injur+ed"/>
+{#apasPur#}¦ ({#--sPUH#}), {#--ra, --rat#} {%<ab>a.</ab>%} <lbinfo n="Injur+ed"/>
 Injured (<ls>Sāy.</ls>); swelling, increasing (?).
 <LEND>
 <L>2601<pc>0114-b<k1>apasmAraH<k2>apasmAraH, --smftiH
@@ -27712,7 +27712,7 @@ delighted. {@--2@} Unapproached; <lbinfo n="unas+sailable"/>
 unassailable. {@--3@} Unopposed. {@--4@} (In
 <ab>Rhet.</ab>) Not understood or clearly
 intelligible (as a word), one of the
-defects of a word {#(Sabdadoza)#}; <lbinfo n="apratI#taM"/>
+defects of a word ({#Sabdadoza#}); <lbinfo n="apratI#taM"/>
 {#apratItaM yatkevale SAstre prasidDaM#} <ls>K. P. 7</ls>, {%<ab>i. e.</ab>%} a
 word is said to be {#apratIta#} if it be
 used in a sense which it has in
@@ -35887,7 +35887,7 @@ waters’, the ocean; {#saMBUyAMBeDimaByeti#} <lbinfo n="ma#hAnadyA"/>
 {#yAdavAMBoniDInruMdDe veleva BavataH kzamA#} <ls n="Śi. 2.">58</ls>; so {#aMBasAM#}
 {#niDiH; SiKABirASlizwa ivAMBasAM niDiH#}
 <ls>Śi. 1. 20</ls>; {#˚vallaBaH#} a coral. {#--ruh#} {%<ab>n.</ab>%}
-{#(w)#}, {#--ruhaM#} a lotus; {#hemAMBoruhasasyAnAM#}
+({#w#}), {#--ruhaM#} a lotus; {#hemAMBoruhasasyAnAM#}
 {#tadvApyo DAma sAMprataM#} <ls>Ku. 2. 44.</ls> ({%--<ab>m.</ab>%})
 the (Indian) crane. {#--sAraM#} a pearl.
 {#--sUH#} smoke; cloudiness. {#--sTa#} {%<ab>a.</ab>%}
@@ -36669,7 +36669,7 @@ generation; {#SarIraM dviviDaM#} <lbinfo n="yonijamayoni#jaM"/>
 {#yonijamayonijaM ceti#} T. S; {#tanayAM ayonijAM#}  <lbinfo n="ls:R. 11.+ 47"/>
 <ls>R. 11. 47</ls>, <ls n="R. 11.">48</ls>; {#kanyAratnamayonijanma#} <lbinfo n="BavatAmA#ste"/>
 {#BavatAmAste#} <ls>Mv. 1. 30.</ls> {#--(jaH)#} <ab>N.</ab> of Viṣṇu.
-{#˚ISaH, ISvaraH#} <ab>N.</ab> of Śiva. {#(--jA)#},
+{#˚ISaH, ISvaraH#} <ab>N.</ab> of Śiva. ({#--jA#}),
 {#--saMBavA#} <ab>N.</ab> of Sītā, daughter of
 Janaka, who was born from a <lbinfo n="fur+row"/>
 furrow in a field.
@@ -36850,7 +36850,7 @@ wild nature; {#taTAraRyaDarmAdviyojya#} <lbinfo n="grA#myaDarme"/>
 {#grAmyaDarme niyojitaH#} <ls>Pt. 1.</ls> {2} the duties
 of a Vānaprastha or anchorite.  <lbinfo n="--DA#nyaM"/>
 {#--DAnyaM, --SAliH#} wild rice ({#nIvAra#}).  <lbinfo n="--nfpa#tiH"/>
-{#--nfpatiH, --rAj#} {#(w)#}, {#--rAjaH#} ‘lord of the
+{#--nfpatiH, --rAj#} ({#w#}), {#--rAjaH#} ‘lord of the
 woods’, epithet of a lion or a tiger;
 so {#araRyAnAM patiH#}. {#--paMqitaH#} [{#araRye#} <lbinfo n="e#va"/>
 {#eva paMqitaH, natu nagarAdizu janasamAjezu#}] ‘wise
@@ -37056,7 +37056,7 @@ unpleasant. {@--2@} Unceasing, incessant.
 <L>4027<pc>0160-b<k1>araraM<k2>araraM
 {#araraM#}¦ [{#f-aran; araScit syAt#}  <lbinfo n="ls:Uṇ.+ 3. 132"/>
 <ls>Uṇ. 3. 132</ls>] {@1@} The leaf or panel of a door
-{#(kapAwaM)#}, {#saraBasamararARi drAgapAvftya#}  <lbinfo n="ls:Mv.+ 6. 27"/>
+({#kapAwaM#}), {#saraBasamararARi drAgapAvftya#}  <lbinfo n="ls:Mv.+ 6. 27"/>
 <ls>Mv. 6. 27</ls> ({#--raH, --rI#} also);  <lbinfo n="caMcUkowivipAwi#tArarapuwo"/>
 {#caMcUkowivipAwitArarapuwo yAsyAmyahaM paMjarAt#} <ls>Bv. 1. 58.</ls> {@--2@}
 A door. {@--3@} The sheath of a bamboo
@@ -46404,7 +46404,7 @@ uncontradicted statement.
 inexperienced, not practised, <lbinfo n="igno+rant"/>
 ignorant; {#avyutpanno bAlaBAvaH#} <ls>K. 196.</ls> {@--2@}
 Having no proper or regular <lbinfo n="deriv+ation"/>
-derivation (as a word) {#(avayavArTaSUnya)#},
+derivation (as a word) ({#avayavArTaSUnya#}),
 {#uRAdayo'vyutpannAH prAtipadikaM#}. {#--nnaH#} A <lbinfo n="per+son"/>
 person not versed in the grammar,
 idiom &c. of a language, a <lbinfo n="smat+tering"/>
@@ -53677,7 +53677,7 @@ Clarified butter, ghee; {#AjyaDUmodgamena#}  <lbinfo n="ls:Ś.+1"/>
 {#GftaM vA yadi vA tElaM payo vA daDi yAvakaM .#} <lbinfo n="Ajya#syAne"/>
 {#AjyasyAne niyuktAnAmAjyaSabdo viDIyate ..#}. {@--3@}
 <ab>N.</ab> of a sort of chant or religious
-service {#(sAmastomaBedaH)#}; <lbinfo n="AjimIyustasmA#dAjyAnAmAjyatvaM"/>
+service ({#sAmastomaBedaH#}); <lbinfo n="AjimIyustasmA#dAjyAnAmAjyatvaM"/>
 {#AjimIyustasmAdAjyAnAmAjyatvaM#} <ls>Nir.</ls> {@--4@} Turpentine.
 {@--Comp.@} {#--dohaM#} a hymn to be
 recited by a Sāmavedin. {#--pa#} {%<ab>a.</ab>%}
@@ -142567,7 +142567,7 @@ beginning of a drama, benediction;
 <ls>Mv. 2. 4.</ls> {#--pawaH#} the lid or cover of a
 well. {#--muKa#} {%<ab>a.</ab>%} (the class of manes
 or deceased ancestors) to whom
-the {#nAMdImuKaSrAdDa#} is offered. {#(--KaM)#},
+the {#nAMdImuKaSrAdDa#} is offered. ({#--KaM#}),
 {#˚SrAdDaM#} a Śrāddha ceremony <lbinfo n="perform+ed"/>
 performed in memory of the manes, <lbinfo n="preli+minary"/>
 preliminary to any festive occasion such
@@ -183897,7 +183897,7 @@ Cātaka bird. {@--9@} A sweeper, <lbinfo n="clean+er"/>
 cleaner. {@--10@} <ab>N.</ab> of a country. {%--<ab>n.</ab>%} {@1@} A
 tawny or brown colour. {@--2@} Any
 object of a brown colour. {@--Comp.@}
-{#--DAtuH#} {1} gold. {2} red chalk {#(gOrika)#},
+{#--DAtuH#} {1} gold. {2} red chalk ({#gOrika#}),
 a kind of ochre. {#--vAhanaH#} <ab>N.</ab> of a
 son of Arjuna by Citrāṅgadā.
 [The sacrificial horse let loose by king
@@ -205869,7 +205869,7 @@ Rest raining, curbing, stopping;  <lbinfo n="ka#rayaMtraRa"/>
 check; {#hrIyaMtraRAM#} <lbinfo n="tatkzaRamanvaBUvannanyo#nyalo"/>
 {#tatkzaRamanvaBUvannanyonyalo lAni vilocanAni#} <ls>Ku. 7. 75</ls>;  <lbinfo n="ls:R.+ 7. 23"/>
 <ls>R. 7. 23</ls>; {#gurujanayaMtraRA#} <ls>K. 94.</ls> {@--3@} <lbinfo n="Fast+ening"/>
-Fastening, binding {#(baMDa)#}; <lbinfo n="nibiqapIna#kucadvaya"/>
+Fastening, binding ({#baMDa#}); <lbinfo n="nibiqapIna#kucadvaya"/>
 {#nibiqapInakucadvaya yaMtraRA tamaparADamaDAt pratibaDnatI#}
 <ls>N. 4. 10.</ls> {@--4@} Force, compulsion,
 constraint, trouble, pain or anguish
@@ -256848,7 +256848,7 @@ a plant with an erect stem.
 pond, pool, a large sheet of water;
 {#sarasAmasmi sAgaraH#} <ls>Bg. 10. 24.</ls> {@--2@}
 Water. {@--Comp.@} {#--jaM, --janman#} {%<ab>n.</ab>%}, {#--ruhaM#}
-{#(sarojaM, sarojanman, saroruhaM)#}, also  <lbinfo n="sara#sijaM"/>
+({#sarojaM, sarojanman, saroruhaM#}), also  <lbinfo n="sara#sijaM"/>
 {#sarasijaM, sarIsaruhaM#} a lotus;  <lbinfo n="sarasijamanuvi#dDaM"/>
 {#sarasijamanuvidDaM SEvalenApi ramyaM#} <ls>Ś. 1. 20</ls>;  <lbinfo n="saroruhadyu#timuzaH"/>
 {#saroruhadyutimuzaH pAdAMstavasivinuM#} <ls>Ratn. 1. 30.</ls>
@@ -257094,7 +257094,7 @@ going (in general); {#yUkA#} <lbinfo n="maMdavisa#rpiRI"/>
 butter; (for the difference between
 {#Gfta#} and {#sarpis#} see {#Ajya#}). {@--Comp.@}
 {#--samudraH#} the sea of clarified butter, one
-of the seven seas. --Comp. {#--AsutiH#}
+of the seven seas. {#--AsutiH#}
 an epithet of Agni. {#--kuMqikA#} a <lbinfo n="but+ter"/>
 butter-jar.
 <LEND>
